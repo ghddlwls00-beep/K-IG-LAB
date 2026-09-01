@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+/*
+ * A deliberately monochrome system. There is no accent colour anywhere: rank is
+ * expressed with weight, size and spacing instead, which keeps 2,700 dense
+ * drill pages calm and makes the one thing you can act on obvious.
+ *
+ * Every interactive surface animates on hover and focus. The tokens below are
+ * the single source for that timing so the whole interface moves as one.
+ */
+
+@theme inline {
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo",
+    "Noto Sans KR", sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", "Menlo", "Consolas", monospace;
+
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+}
+
+:root {
+  --ink: #0b0b0b;
+  --ink-soft: #565656;
+  --ink-faint: #8e8e8e;
+  --surface: #ffffff;
+  --raised: #f6f6f6;
+  --line: #e4e4e4;
+  --line-strong: #0b0b0b;
+
+  --dur: 180ms;
+  --dur-slow: 320ms;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #f2f2f2;
+    --ink-soft: #a8a8a8;
+    --ink-faint: #6f6f6f;
+    --surface: #0a0a0a;
+    --raised: #161616;
+    --line: #262626;
+    --line-strong: #f2f2f2;
+  }
+}
+
+:root[data-theme="dark"] {
+  --ink: #f2f2f2;
+  --ink-soft: #a8a8a8;
+  --ink-faint: #6f6f6f;
+  --surface: #0a0a0a;
+  --raised: #161616;
+  --line: #262626;
+  --line-strong: #f2f2f2;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+:lang(ko) {
+  word-break: keep-all;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--surface);
+}
+
+/*
+ * Anything the cursor can reach transitions. Declaring it once here — rather
+ * than per component — is what makes the motion feel like one system, and it
+ * means a new control cannot accidentally ship without it.
+ */
+a,
+button,
+summary,
+select,
+input,
+textarea,
+[role="button"],
+.interactive {
+  transition:
+    color var(--dur) var(--ease),
+    background-color var(--dur) var(--ease),
+    border-color var(--dur) var(--ease),
+    opacity var(--dur) var(--ease),
+    transform var(--dur) var(--ease),
+    box-shadow var(--dur) var(--ease);
+}
+
+/* A focus ring that reads on either ground, since the palette is monochrome. */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+select:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+[role="button"]:focus-visible {
+  outline: 2px solid var(--line-strong);
+  outline-offset: 2px;
+  border-radius: 1px;
+}
+
+/*
+ * An underline that grows from the left on hover. Used for text links, where a
+ * background change would be too heavy.
+ */
+.link-underline {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  transition: background-size var(--dur) var(--ease);
+}
+.link-underline:hover {
+  background-size: 100% 1px;
+}
+
+/*
+ * The tab bar scrolls sideways on narrow viewports, but its scrollbar renders
+ * as stepper arrows on Windows and as a persistent bar on some systems, which
+ * reads as broken chrome inside a nav. Hide the bar; keyboard, wheel and touch
+ * scrolling all still work.
+ */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

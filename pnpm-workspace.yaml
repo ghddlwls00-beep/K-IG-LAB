@@ -1,0 +1,10 @@
+# pnpm 11 reads its settings from this file rather than from a "pnpm" key in
+# package.json. Without an explicit decision here, `pnpm install` refuses to run
+# these packages' postinstall scripts and exits non-zero, which also fails
+# `pnpm run build`.
+#
+# unrs-resolver builds the native binary that eslint-config-next resolves with;
+# sharp builds Next's image optimizer. Both are expected to compile on install.
+allowBuilds:
+  unrs-resolver: true
+  sharp: true
