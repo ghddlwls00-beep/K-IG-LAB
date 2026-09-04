@@ -451,16 +451,26 @@ function buildPairedSentences(
   if (["man", "woman"].includes(course)) {
     const paragraphs = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
     
+    const cleanParas: { text: string; isEn: boolean }[] = [];
+    for (const p of paragraphs) {
+      const t = (p.text || "").trim();
+      if (!t) continue;
+      if (t.includes("K-IG") || t.includes("<font") || t.includes("한/영") || /^Chapter\s+\d/i.test(t)) continue;
+      if (t.endsWith(":")) continue;
+      if (t === "Greeting and Introduction" || t === "My Personal and Educational Background") continue;
+      cleanParas.push({ text: t, isEn: isEnglishText(t) });
+    }
+
     let currentEn = "";
     let currentKo = "";
     let count = 0;
 
-    for (let i = 0; i < paragraphs.length; i++) {
-      const p = paragraphs[i];
-      if (p.lang === "ko") {
-        currentKo = p.text;
-      } else {
+    for (let i = 0; i < cleanParas.length; i++) {
+      const p = cleanParas[i];
+      if (p.isEn) {
         currentEn = p.text;
+      } else {
+        currentKo = p.text;
       }
 
       if (currentEn && currentKo) {

@@ -247,9 +247,16 @@ function extractSentencesForAudio(
   // 2. Dialogue / conversation courses (man, woman, student)
   if (["man", "woman", "student"].includes(course)) {
     const paras = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
-    const enParas = paras.filter((p) => p.lang === "en" || !p.lang);
+    const enParas = paras
+      .map((p) => cleanText(p.text))
+      .filter((t) => {
+        if (!t) return false;
+        if (t.includes("K-IG") || t.includes("<font") || t.includes("한/영") || /^Chapter\s+\d/i.test(t) || t.endsWith(":")) return false;
+        if (t === "Greeting and Introduction" || t === "My Personal and Educational Background") return false;
+        return isEnglishText(t);
+      });
     if (enParas.length > 0) {
-      return enParas.map((p) => cleanText(p.text)).filter(Boolean);
+      return enParas;
     }
   }
 
