@@ -1,32 +1,83 @@
 /**
- * Interface translations.
- *
- * Scope is deliberate: this translates the *interface* — navigation, buttons,
- * labels — not the courseware. The lessons are English-language teaching
- * material with Korean scripts and glossaries, and machine-translating that
- * would corrupt the thing being taught. What a Japanese or Chinese speaker
- * needs is to be able to operate the app; the drills stay as written.
- *
- * Adding a language is one entry in LANGUAGES plus one block in STRINGS.
+ * Interface translations for K-IG 교육.
  */
 
 export const LANGUAGES = [
+  { code: "ko", label: "한국어", endonym: "한국어" },
   { code: "en", label: "English", endonym: "English" },
   { code: "ja", label: "Japanese", endonym: "日本語" },
   { code: "zh", label: "Chinese", endonym: "中文" },
 ] as const;
 
 export type LangCode = (typeof LANGUAGES)[number]["code"];
-export const DEFAULT_LANG: LangCode = "en";
+export const DEFAULT_LANG: LangCode = "ko";
 
 /** BCP-47 tags for the document's lang attribute. */
 export const HTML_LANG: Record<LangCode, string> = {
+  ko: "ko",
   en: "en",
   ja: "ja",
   zh: "zh-Hans",
 };
 
 export const STRINGS = {
+  ko: {
+    "site.tagline": "듣기, 말하기, 영작 교육 프로그램 — 전 과정을 플러그인 없이 실행할 수 있도록 최적화했습니다.",
+    "site.subtitle": "영어듣기훈련프로그램",
+    "nav.allSections": "전체 섹션",
+    "nav.language": "언어",
+    "tab.archiveOnly": "보관 전용",
+    "tab.inYourLanguage": "중국어",
+    "tab.unavailable": "웹에서 지원되지 않음",
+    "tab.contained": "포함 내용",
+    "tab.drills": "훈련",
+    "tab.conversation": "회화",
+    "tab.video": "비디오",
+    "course.lesson": "강의",
+    "course.lessons": "개 강의",
+    "course.group": "그룹",
+    "course.groups": "개 그룹",
+    "course.scriptsPaired": "한글 대본 매칭됨",
+    "course.scriptPaired": "한글 대본 매칭됨",
+    "lesson.numbered": "제 {n} 회",
+    "lesson.viewScript": "한글 대본 보기",
+    "lesson.backToDrill": "영어 본문으로 돌아가기",
+    "lesson.koreanScript": "한글 대본",
+    "lesson.notMigrated": "이 강의의 콘텐츠를 불러오는 중입니다.",
+    "lesson.tracksRecovered": "개의 오디오 트랙 복원 완료",
+    "lesson.trackRecovered": "개의 오디오 트랙 복원 완료",
+    "lesson.source": "출처",
+    "lesson.transcript": "대본",
+    "lesson.glossary": "주요 어휘",
+    "player.play": "재생",
+    "player.pause": "일시정지",
+    "player.seek": "탐색",
+    "player.speed": "속도",
+    "player.back5": "5초 뒤로",
+    "player.missingAudio": "오디오 파일이 없어 AI 음성(TTS)으로 재생합니다.",
+    "player.fullLesson": "전체 강의",
+    "player.clip": "클립",
+    "player.listen": "듣기",
+    "player.ttsMode": "AI 음성",
+    "answer.title": "학습 답안 & 받아쓰기",
+    "answer.chooseOne": "번호 선택",
+    "answer.dictation": "받아쓰기 (Dictation)",
+    "answer.placeholder": "들은 내용을 영어로 받아적어 보세요…",
+    "answer.saved": "브라우저에 자동 저장됨",
+    "answer.localOnly": "작성 내용은 브라우저에만 안전하게 저장됩니다",
+    "answer.clear": "지우기",
+    "answer.check": "정답 대조하기",
+    "answer.hideCheck": "대조 닫기",
+    "vocabulary": "어휘",
+    "mode.bilingual": "한/영 대조 학습",
+    "mode.englishOnly": "영어 집중 모드",
+    "mode.koreanOnly": "영작 훈련 모드",
+    "mode.dictation": "받아쓰기 모드",
+    "sentence.play": "문장 듣기",
+    "sentence.showTranslation": "해석 보기",
+    "sentence.hideTranslation": "해석 숨기기",
+    "wordgrid.clickToListen": "단어를 클릭하면 발음을 들을 수 있습니다",
+  },
   en: {
     "site.tagline": "Listening, speaking and composition courseware — the original ten sections, rebuilt to run without a plugin.",
     "site.subtitle": "English listening training program",
@@ -60,10 +111,11 @@ export const STRINGS = {
     "player.seek": "Seek",
     "player.speed": "Speed",
     "player.back5": "Back 5 seconds",
-    "player.missingAudio": "Audio for this lesson has not been migrated yet.",
+    "player.missingAudio": "Audio file unavailable; playing via AI Speech (TTS).",
     "player.fullLesson": "Full lesson",
     "player.clip": "Clip",
     "player.listen": "Listen",
+    "player.ttsMode": "AI Speech",
     "answer.title": "Your answer",
     "answer.chooseOne": "Choose one",
     "answer.dictation": "Dictation",
@@ -71,7 +123,17 @@ export const STRINGS = {
     "answer.saved": "Saved in this browser",
     "answer.localOnly": "Your work is kept in this browser only",
     "answer.clear": "Clear",
+    "answer.check": "Check Answer",
+    "answer.hideCheck": "Hide Comparison",
     "vocabulary": "Vocabulary",
+    "mode.bilingual": "Bilingual (En / Ko)",
+    "mode.englishOnly": "English Only",
+    "mode.koreanOnly": "Korean First",
+    "mode.dictation": "Dictation Practice",
+    "sentence.play": "Listen",
+    "sentence.showTranslation": "Show translation",
+    "sentence.hideTranslation": "Hide translation",
+    "wordgrid.clickToListen": "Click any word to hear its pronunciation",
   },
   ja: {
     "site.tagline": "リスニング・スピーキング・作文の教材。オリジナルの10セクションを、プラグインなしで動くように再構築しました。",
@@ -106,10 +168,11 @@ export const STRINGS = {
     "player.seek": "シーク",
     "player.speed": "速度",
     "player.back5": "5秒戻る",
-    "player.missingAudio": "このレッスンの音声はまだ移行されていません。",
+    "player.missingAudio": "音声ファイルがないため、AI音声(TTS)で再生します。",
     "player.fullLesson": "レッスン全体",
     "player.clip": "クリップ",
     "player.listen": "聞く",
+    "player.ttsMode": "AI音声",
     "answer.title": "解答",
     "answer.chooseOne": "1つ選択",
     "answer.dictation": "ディクテーション",
@@ -117,7 +180,17 @@ export const STRINGS = {
     "answer.saved": "このブラウザに保存しました",
     "answer.localOnly": "入力内容はこのブラウザにのみ保存されます",
     "answer.clear": "消去",
+    "answer.check": "答え合わせ",
+    "answer.hideCheck": "非表示",
     "vocabulary": "語彙",
+    "mode.bilingual": "対訳学習",
+    "mode.englishOnly": "英語集中",
+    "mode.koreanOnly": "翻訳練習",
+    "mode.dictation": "ディクテーション",
+    "sentence.play": "聞く",
+    "sentence.showTranslation": "訳を表示",
+    "sentence.hideTranslation": "訳を隠す",
+    "wordgrid.clickToListen": "単語をクリックして発音を聞く",
   },
   zh: {
     "site.tagline": "听力、口语与写作教材 —— 原有的十个板块，重建为无需插件即可运行。",
@@ -152,10 +225,11 @@ export const STRINGS = {
     "player.seek": "进度",
     "player.speed": "速度",
     "player.back5": "后退5秒",
-    "player.missingAudio": "本课音频尚未迁移。",
+    "player.missingAudio": "音频不可用，正在使用AI语音(TTS)朗读。",
     "player.fullLesson": "完整课程",
     "player.clip": "片段",
     "player.listen": "聆听",
+    "player.ttsMode": "AI语音",
     "answer.title": "你的答案",
     "answer.chooseOne": "选择一项",
     "answer.dictation": "听写",
@@ -163,7 +237,17 @@ export const STRINGS = {
     "answer.saved": "已保存在此浏览器",
     "answer.localOnly": "你的作答仅保存在此浏览器中",
     "answer.clear": "清除",
+    "answer.check": "核对答案",
+    "answer.hideCheck": "隐藏对照",
     "vocabulary": "词汇",
+    "mode.bilingual": "双语对照",
+    "mode.englishOnly": "纯英文",
+    "mode.koreanOnly": "译文优先",
+    "mode.dictation": "听写练习",
+    "sentence.play": "听句",
+    "sentence.showTranslation": "显示翻译",
+    "sentence.hideTranslation": "隐藏翻译",
+    "wordgrid.clickToListen": "点击单词可收听发音",
   },
 } as const;
 
@@ -171,14 +255,9 @@ export type StringKey = keyof (typeof STRINGS)["en"];
 
 export function translate(lang: LangCode, key: StringKey): string {
   const table = STRINGS[lang] as Record<string, string>;
-  return table[key] ?? (STRINGS[DEFAULT_LANG] as Record<string, string>)[key] ?? key;
+  return table?.[key] ?? (STRINGS[DEFAULT_LANG] as Record<string, string>)?.[key] ?? (STRINGS["en"] as Record<string, string>)?.[key] ?? key;
 }
 
-/**
- * Fills {placeholders} in a translated string. Languages order the number
- * differently — "Lesson 6" but "第 6 课" — so the position lives in the
- * translation rather than in the calling code.
- */
 export function translateFormat(
   lang: LangCode,
   key: StringKey,

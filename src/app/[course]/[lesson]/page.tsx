@@ -8,6 +8,7 @@ import { T } from "@/components/LanguageProvider";
 import { getAllLessonParams, getCourse, getLesson, getLessonContext } from "@/lib/content";
 import { tabForCourse } from "@/lib/tabs";
 import { lessonDisplay } from "@/lib/courses";
+import type { Block } from "@/lib/types";
 
 export function generateStaticParams() {
   return getAllLessonParams();
@@ -33,20 +34,23 @@ export default async function LessonPage({
   if (!lesson) notFound();
 
   const { prev, next, pair } = getLessonContext(course, id);
+  const pairLesson = pair ? getLesson(course, pair.id) : null;
   const courseInfo = getCourse(course);
   const tab = tabForCourse(course);
   const isScript = lesson.variant === "script";
 
-  // Defensive: content extracted before the dedup fix can still list the same
-  // track twice, so collapse by src here rather than requiring a re-extract.
+  // Defensive: collapse duplicate audio by src
   const audio = lesson.audio.filter((a, i, all) => all.findIndex((x) => x.src === a.src) === i);
   const video = lesson.video ?? [];
   const fromFlash = lesson.blocks.length === 0 && audio.length > 0;
 
+  // Extract fallback sentences for TTS reading
+  const fallbackSentences = extractSentencesForAudio(lesson.blocks, pairLesson?.blocks, isScript, course);
+
   return (
-    <main className="mx-auto max-w-2xl px-5 py-12">
-      <nav className="mb-10 flex items-center justify-between gap-4 font-mono text-[11px]">
-        <Link href={`/${course}`} className="link-underline text-ink-soft hover:text-ink">
+    <main className="mx-auto max-w-3xl px-5 py-12">
+      <nav className="mb-8 flex items-center justify-between gap-4 font-mono text-[11.5px]">
+        <Link href={`/${course}`} className="link-underline text-ink-soft hover:text-ink font-medium">
           ← {courseInfo?.titleEn ?? course}
         </Link>
         <span className="flex items-center gap-4">
@@ -69,19 +73,19 @@ export default async function LessonPage({
         </span>
       </nav>
 
-      <header className="mb-9" style={{ animation: "fadeUp var(--dur-slow) var(--ease) both" }}>
+      <header className="mb-8" style={{ animation: "fadeUp var(--dur-slow) var(--ease) both" }}>
         <div className="mb-3 flex flex-wrap items-center gap-2.5 font-mono text-[11px] tracking-wide text-ink-faint">
-          <span className="uppercase">{tab?.label}</span>
+          <span className="uppercase font-semibold tracking-wider text-ink-soft">{tab?.label}</span>
           <span aria-hidden>·</span>
-          <span className="tabular-nums">{lesson.id}</span>
+          <span className="tabular-nums font-medium">{lesson.id}</span>
           {isScript ? (
-            <span className="border border-line px-1.5 py-0.5 tracking-wide uppercase">
+            <span className="border border-line px-1.5 py-0.5 tracking-wide uppercase bg-raised rounded-xs">
               <T k="lesson.koreanScript" />
             </span>
           ) : null}
         </div>
 
-        <h1 className="text-[1.65rem] leading-snug font-medium tracking-tight text-balance">
+        <h1 className="text-[1.8rem] leading-snug font-semibold tracking-tight text-balance text-ink">
           {(() => {
             const shown = courseInfo
               ? lessonDisplay(courseInfo, lesson)
@@ -91,39 +95,65 @@ export default async function LessonPage({
         </h1>
 
         {pair ? (
-          <Link
-            href={`/${course}/${pair.id}`}
-            className="group mt-5 inline-flex items-center gap-2 border border-line px-3.5 py-2 text-[13px] hover:border-line-strong hover:bg-raised"
-          >
-            <T k={isScript ? "lesson.backToDrill" : "lesson.viewScript"} />
-            <span
-              aria-hidden
-              className="font-mono transition-transform duration-200 ease-out group-hover:translate-x-0.5"
+          <div className="mt-4 flex items-center gap-3">
+            <Link
+              href={`/${course}/${pair.id}`}
+              className="group inline-flex items-center gap-2 rounded border border-line px-3 py-1.5 text-[12.5px] font-medium text-ink-soft hover:border-line-strong hover:bg-raised hover:text-ink transition-colors"
             >
-              →
-            </span>
-          </Link>
+              <T k={isScript ? "lesson.backToDrill" : "lesson.viewScript"} />
+              <span
+                aria-hidden
+                className="font-mono transition-transform duration-200 ease-out group-hover:translate-x-0.5"
+              >
+                →
+              </span>
+            </Link>
+          </div>
         ) : null}
       </header>
 
       {video.length > 0 ? (
-        <div className="mb-10 flex flex-col gap-2.5">
+        <div className="mb-8 flex flex-col gap-2.5">
           {video.map((v) => (
             <VideoPlayer key={v.src} src={v.src} />
           ))}
         </div>
       ) : null}
 
+      {/* Audio Players with native TTS fallback */}
       {audio.length > 0 ? (
-        <div className="mb-10 flex flex-col gap-2.5">
+        <div className="mb-8 flex flex-col gap-2.5">
           {audio.map((a, i) => (
-            <AudioPlayer key={a.src} src={a.src} label={audioLabel(audio.length, i, fromFlash)} />
+            <AudioPlayer
+              key={a.src}
+              src={a.src}
+              fallbackSentences={fallbackSentences}
+              lang={courseInfo?.contentLang ?? "en"}
+              label={audioLabel(audio.length, i, fromFlash)}
+            />
           ))}
+        </div>
+      ) : fallbackSentences.length > 0 ? (
+        <div className="mb-8">
+          <AudioPlayer
+            fallbackSentences={fallbackSentences}
+            lang={courseInfo?.contentLang ?? "en"}
+            label="전체 듣기 (AI 음성 재생)"
+          />
         </div>
       ) : null}
 
+      {/* Educational Body with Aligned Sentences */}
       {lesson.blocks.length > 0 ? (
-        <LessonBody blocks={lesson.blocks} lessonKey={`${course}/${lesson.id}`} />
+        <LessonBody
+          blocks={lesson.blocks}
+          pairBlocks={pairLesson?.blocks ?? null}
+          course={course}
+          lessonKey={`${course}/${lesson.id}`}
+          isScript={isScript}
+          contentLang={courseInfo?.contentLang ?? "en"}
+          audioTracks={audio}
+        />
       ) : fromFlash ? (
         <p className="text-[13.5px] text-ink-soft">
           <T
@@ -132,7 +162,7 @@ export default async function LessonPage({
           />
         </p>
       ) : (
-        <p className="border border-dashed border-line px-4 py-6 text-[13.5px] text-ink-soft">
+        <p className="border border-dashed border-line px-4 py-6 text-[13.5px] text-ink-soft rounded">
           <T k="lesson.notMigrated" />
         </p>
       )}
@@ -146,15 +176,52 @@ export default async function LessonPage({
   );
 }
 
-/**
- * Names the players on a lesson.
- *
- * A drill has a single recording and needs no label. A Flash lesson yields one
- * full narration plus the individual sentence clips recovered from the movie's
- * timeline, which are distinct pieces of audio and do need naming.
- */
 function audioLabel(count: number, index: number, fromFlash: boolean): string | undefined {
   if (count <= 1) return undefined;
-  if (fromFlash) return index === 0 ? "Full lesson" : `Clip ${index}`;
-  return index === 0 ? "Listen" : "Repeat";
+  if (fromFlash) return index === 0 ? "전체 강의 (Full lesson)" : `클립 ${index} (Clip ${index})`;
+  return index === 0 ? "본문 듣기 (Listen)" : "따라하기 (Repeat)";
+}
+
+function extractSentencesForAudio(
+  blocks: Block[],
+  pairBlocks: Block[] | null | undefined,
+  isScript: boolean,
+  course: string,
+): string[] {
+  // If this is a Korean script page, prefer the English pair blocks for target audio
+  const targetBlocks = isScript && pairBlocks && pairBlocks.length > 0 ? pairBlocks : blocks;
+
+  // 1. Sentences block
+  const sentBlock = targetBlocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
+  if (sentBlock?.items && sentBlock.items.length > 0) {
+    return sentBlock.items.map((it) => it.text.replace(/\s*\/\s*/g, " ").trim()).filter(Boolean);
+  }
+
+  // 2. Dialogue / conversation courses (man, woman, student)
+  if (["man", "woman", "student"].includes(course)) {
+    const paras = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
+    const enParas = paras.filter((p) => p.lang === "en" || !p.lang);
+    if (enParas.length > 0) {
+      return enParas.map((p) => p.text.trim()).filter(Boolean);
+    }
+  }
+
+  // 3. Reading passage
+  if (course === "reading") {
+    const inst = targetBlocks.find((b) => b.type === "instruction");
+    if (inst?.text) {
+      return inst.text
+        .split(/(?<=[.?!])\s+/)
+        .map((s) => s.trim())
+        .filter(Boolean);
+    }
+  }
+
+  // 4. Any paragraphs
+  const allParas = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string }[];
+  if (allParas.length > 0) {
+    return allParas.map((p) => p.text.trim()).filter(Boolean);
+  }
+
+  return [];
 }
