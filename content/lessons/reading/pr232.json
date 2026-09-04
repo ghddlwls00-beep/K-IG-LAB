@@ -4,8 +4,8 @@
   "series": "pr",
   "variant": "main",
   "pairId": null,
-  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
-  "label": "[ Passoff Reading 232 ]",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 Reading 232 ]",
   "menuLabel": "[ pr232 ]",
   "unit": 232,
   "part": null,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ Passoff Reading 232 ]"
+      "text": "[ K-IG 교육 Reading 232 ]"
     },
     {
       "type": "instruction",

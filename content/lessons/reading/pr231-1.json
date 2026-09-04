@@ -4,8 +4,8 @@
   "series": "pr",
   "variant": "script",
   "pairId": "pr231",
-  "title": "::: PSS-OFF ��대ｊ린��⑦濡洹몃� | 湲곗�2 | � 001 � 媛� :::",
-  "label": "[ Passoff Reading 231-1 ]",
+  "title": "::: K-IG 교육 ��대ｊ린��⑦濡洹몃� | 湲곗�2 | � 001 � 媛� :::",
+  "label": "[ K-IG 교육 Reading 231-1 ]",
   "menuLabel": "[ pr231-1 ]",
   "unit": 231,
   "part": null,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ Passoff Reading 231-1 ]"
+      "text": "[ K-IG 교육 Reading 231-1 ]"
     },
     {
       "type": "instruction",

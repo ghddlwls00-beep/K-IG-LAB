@@ -4,8 +4,8 @@
   "series": "am",
   "variant": "main",
   "pairId": null,
-  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
-  "label": "[ PassOff 025 ]",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 025 ]",
   "menuLabel": null,
   "unit": 2,
   "part": 5,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ PassOff 025 ]"
+      "text": "[ K-IG 교육 025 ]"
     },
     {
       "type": "instruction",

@@ -46,7 +46,7 @@ export function TabBar({ tabs, courseTabs }: { tabs: Tab[]; courseTabs: Record<s
             href="/"
             className="shrink-0 font-mono text-[11px] tracking-[0.22em] text-ink uppercase opacity-70 hover:opacity-100"
           >
-            Pass&#8209;Off
+            K&#8209;IG&nbsp;교육
           </Link>
 
           <nav aria-label="Courses" className="no-scrollbar -mx-1 flex flex-1 items-center gap-0.5 overflow-x-auto">

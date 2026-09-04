@@ -1,5 +1,5 @@
 /**
- * Content model for the PASS-OFF courseware.
+ * Content model for the K-IG 교육 courseware.
  *
  * The legacy site is ~2,700 hand-written HTML pages across 15 folders. Every
  * one of them is migrated into a single JSON file matching these types, stored
@@ -147,7 +147,7 @@ export interface Lesson {
   pairId: string | null;
 
   title: string;
-  /** Printed label, e.g. "[ 제 001 회 ]" or "〔 PASSOFF - 011 〕". */
+  /** Printed label, e.g. "[ 제 001 회 ]" or "〔 K-IG 교육 - 011 〕". */
   label: string | null;
   /**
    * The name this lesson had in the legacy dropdown menu, e.g. "[ D 001 ]" or

@@ -18,7 +18,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { course } = await params;
   const index = getCourseIndex(course);
-  return { title: index?.course.titleEn ?? "PASS-OFF" };
+  return { title: index?.course.titleEn ?? "K-IG 교육" };
 }
 
 export default async function CoursePage({ params }: { params: Promise<{ course: string }> }) {
@@ -65,7 +65,10 @@ export default async function CoursePage({ params }: { params: Promise<{ course:
         </Link>
       </nav>
 
-      <header className="mb-12 border-b border-line pb-8">
+      <header
+        className="mb-12 border-b border-line pb-8"
+        style={{ animation: "fadeUp var(--dur-slow) var(--ease) both" }}
+      >
         <h1 className="text-[2rem] leading-tight font-medium tracking-tight">{course.titleEn}</h1>
         <p className="mt-2 text-[15px] text-ink-soft">{course.title}</p>
         <p className="mt-4 max-w-lg text-[13.5px] leading-relaxed text-ink-soft">

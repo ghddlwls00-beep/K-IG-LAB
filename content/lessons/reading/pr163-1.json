@@ -4,8 +4,8 @@
   "series": "pr",
   "variant": "script",
   "pairId": "pr163",
-  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
-  "label": "[ Passoff Reading 163-1 ]",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 Reading 163-1 ]",
   "menuLabel": "[ pr163-1 ]",
   "unit": 163,
   "part": null,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ Passoff Reading 163-1 ]"
+      "text": "[ K-IG 교육 Reading 163-1 ]"
     },
     {
       "type": "instruction",

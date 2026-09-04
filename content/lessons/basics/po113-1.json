@@ -4,8 +4,8 @@
   "series": "po",
   "variant": "script",
   "pairId": "po113",
-  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
-  "label": "〔 PASSOFF - 113-1 〕",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 K-IG 교육 - 113-1 〕",
   "menuLabel": null,
   "unit": 11,
   "part": 3,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "〔 PASSOFF - 113-1 〕"
+      "text": "〔 K-IG 교육 - 113-1 〕"
     },
     {
       "type": "sentences",

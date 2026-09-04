@@ -28,7 +28,7 @@ export function DictationPanel({
   const [restored, setRestored] = useState(false);
   const [savedAt, setSavedAt] = useState<string | null>(null);
 
-  const key = `passoff:work:${storageKey}`;
+  const key = `kig:work:${storageKey}`;
 
   // Restore any previous attempt. Storage can throw in private modes, so every
   // access is guarded and the panel stays fully usable without it.

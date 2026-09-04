@@ -44,7 +44,7 @@ export const COURSES: Omit<Course, "lessonCount">[] = [
     titleEn: "Student Drills",
     kind: "audio-drill",
     description:
-      "Foundational sentence practice. Two tracks: PASS-OFF sentence drills and spoken question-and-answer sets.",
+      "Foundational sentence practice. Two tracks: K-IG 교육 sentence drills and spoken question-and-answer sets.",
     series: [
       { slug: "po", title: "문장 연습", prefix: "po" },
       { slug: "qa", title: "질문과 대답", prefix: "qa" },
@@ -166,7 +166,7 @@ export const COURSES: Omit<Course, "lessonCount">[] = [
     legacyFolder: "중국",
     numbering: "unit-part",
     title: "중국어 회화",
-    titleEn: "PASS-OFF for Chinese",
+    titleEn: "K-IG 교육 for Chinese",
     kind: "flash-video",
     contentLang: "zh",
     description:

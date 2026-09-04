@@ -1,4 +1,4 @@
-# PASS-OFF Web
+# K-IG 교육 Web
 
 A rebuild of the legacy **본사 Lab v1.01** courseware as a modern web app.
 

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { T } from "@/components/LanguageProvider";
 import { getCourse, getTab, getTabs } from "@/lib/content";
+import { TAB_IMAGES } from "@/lib/tabImages";
 
 export function generateStaticParams() {
   return getTabs().map((t) => ({ tab: t.slug }));
@@ -14,7 +15,7 @@ export async function generateMetadata({
   params: Promise<{ tab: string }>;
 }): Promise<Metadata> {
   const { tab } = await params;
-  return { title: getTab(tab)?.label ?? "PASS-OFF" };
+  return { title: getTab(tab)?.label ?? "K-IG 교육" };
 }
 
 export default async function TabPage({ params }: { params: Promise<{ tab: string }> }) {
@@ -23,13 +24,48 @@ export default async function TabPage({ params }: { params: Promise<{ tab: strin
   if (!tab) notFound();
 
   const courses = tab.courses.map((c) => getCourse(c)).filter((c) => c !== null);
+  const img = TAB_IMAGES[tab.slug];
 
   return (
-    <main className="mx-auto max-w-4xl px-5 py-16">
-      <header className="mb-12">
-        <h1 className="text-[2rem] leading-tight font-medium tracking-tight">{tab.label}</h1>
-        <p className="mt-3 max-w-lg text-[15px] leading-relaxed text-ink-soft">{tab.blurb}</p>
+    <main>
+      {/*
+        A photo band echoing the landing sections this page was entered from,
+        so arriving here doesn't feel like leaving that page behind. Same
+        scrim direction, same big medium-weight heading, same fadeUp entrance.
+      */}
+      <header className="relative flex min-h-[46vh] flex-col justify-end overflow-hidden border-b border-line px-[9vw] py-12">
+        {img ? (
+          <div aria-hidden="true" className="pointer-events-none absolute inset-0 z-0 bg-raised">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={img.src}
+              alt=""
+              className="absolute inset-0 h-full w-full object-cover"
+              fetchPriority="high"
+              decoding="async"
+            />
+            <div
+              className="absolute inset-0"
+              style={{
+                background:
+                  "linear-gradient(0deg, var(--surface) 0%, color-mix(in srgb, var(--surface) 82%, transparent) 42%, color-mix(in srgb, var(--surface) 15%, transparent) 78%)",
+              }}
+            />
+          </div>
+        ) : null}
+
+        <div
+          className="relative z-10 max-w-2xl"
+          style={{ animation: "fadeUp var(--dur-slow) var(--ease) both" }}
+        >
+          <h1 className="text-[clamp(40px,6vw,64px)] leading-[1.06] font-medium tracking-tight text-ink">
+            {tab.label}
+          </h1>
+          <p className="mt-4 max-w-lg text-[16px] leading-relaxed text-ink-soft">{tab.blurb}</p>
+        </div>
       </header>
+
+      <div className="mx-auto max-w-4xl px-5 py-14">
 
       {/*
         Three of the tabs held two kinds of material at once — MP3 drills and
@@ -104,6 +140,7 @@ export default async function TabPage({ params }: { params: Promise<{ tab: strin
           </p>
         </section>
       ) : null}
+      </div>
     </main>
   );
 }

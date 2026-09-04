@@ -4,8 +4,8 @@
   "series": "p",
   "variant": "main",
   "pairId": null,
-  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
-  "label": "[ PASSOFF- principle15]",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | K-IG 교육 ENGLISH | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육- principle15]",
   "menuLabel": null,
   "unit": 15,
   "part": null,
@@ -21,7 +21,7 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ PASSOFF- principle15]"
+      "text": "[ K-IG 교육- principle15]"
     },
     {
       "type": "instruction",

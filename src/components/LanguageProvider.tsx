@@ -21,7 +21,7 @@ import {
  */
 export type ThemeMode = "light" | "dark";
 
-const THEME_STORAGE_KEY = "passoff:theme";
+const THEME_STORAGE_KEY = "kig:theme";
 
 const LanguageContext = createContext<{
   lang: LangCode;
@@ -39,7 +39,7 @@ const LanguageContext = createContext<{
   toggleTheme: () => {},
 });
 
-const STORAGE_KEY = "passoff:lang";
+const STORAGE_KEY = "kig:lang";
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
   const [lang, setLangState] = useState<LangCode>(DEFAULT_LANG);

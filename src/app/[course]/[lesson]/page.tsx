@@ -20,7 +20,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { course, lesson: id } = await params;
   const lesson = getLesson(course, id);
-  return { title: lesson ? (lesson.menuLabel ?? lesson.label ?? lesson.id) : "PASS-OFF" };
+  return { title: lesson ? (lesson.menuLabel ?? lesson.label ?? lesson.id) : "K-IG 교육" };
 }
 
 export default async function LessonPage({
@@ -69,7 +69,7 @@ export default async function LessonPage({
         </span>
       </nav>
 
-      <header className="mb-9">
+      <header className="mb-9" style={{ animation: "fadeUp var(--dur-slow) var(--ease) both" }}>
         <div className="mb-3 flex flex-wrap items-center gap-2.5 font-mono text-[11px] tracking-wide text-ink-faint">
           <span className="uppercase">{tab?.label}</span>
           <span aria-hidden>·</span>
