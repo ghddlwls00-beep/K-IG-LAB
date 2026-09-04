@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useLanguage } from "./LanguageProvider";
 import { mediaUrl } from "@/lib/media";
-import { playSentenceQueue, stopSpeech, isSpeaking } from "@/lib/speech";
+import { playSentenceQueue, stopSpeech, isSpeaking, type VoiceGender } from "@/lib/speech";
 
 /**
  * Intelligent Audio Player with native Web Speech API (TTS) Fallback.
@@ -12,17 +12,21 @@ import { playSentenceQueue, stopSpeech, isSpeaking } from "@/lib/speech";
  * seek, speed, and replay controls. If the media file is missing, it smoothly
  * falls back to speech synthesis reading the lesson sentences aloud, ensuring
  * that the educational learning experience never breaks.
+ *
+ * Supports gender-specific voice playback (Male for MEN, Female for WOMEN).
  */
 export function AudioPlayer({
   src,
   fallbackSentences = [],
   lang = "en",
+  gender = "neutral",
   autoplay = false,
   label,
 }: {
   src?: string;
   fallbackSentences?: string[];
   lang?: "en" | "ko" | "zh" | string;
+  gender?: VoiceGender;
   autoplay?: boolean;
   label?: string;
 }) {
@@ -63,6 +67,7 @@ export function AudioPlayer({
         setPlaying(true);
         playSentenceQueue(fallbackSentences, {
           lang,
+          gender,
           rate,
           startIndex: ttsCurrentIndex,
           onProgress: (idx) => {
@@ -95,6 +100,7 @@ export function AudioPlayer({
       if (ttsActive) {
         playSentenceQueue(fallbackSentences, {
           lang,
+          gender,
           rate,
           startIndex: nextIdx,
           onProgress: (idx) => setTtsCurrentIndex(idx),
@@ -149,9 +155,9 @@ export function AudioPlayer({
         )}
 
         {isTtsMode ? (
-          <span className="inline-flex items-center gap-1 rounded-full bg-raised px-2 py-0.5 font-mono text-[10px] text-ink-soft border border-line">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-raised px-2.5 py-0.5 font-mono text-[10.5px] text-ink-soft border border-line">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            {t("player.ttsMode")} · {fallbackSentences.length}문장
+            {t("player.ttsMode")} · {gender === "male" ? "남성 보이스" : gender === "female" ? "여성 보이스" : "음성"} ({fallbackSentences.length}문장)
           </span>
         ) : null}
       </div>
@@ -225,9 +231,9 @@ export function AudioPlayer({
               onClick={() => {
                 setRate(r);
                 if (isTtsMode && ttsActive) {
-                  // restart with new rate
                   playSentenceQueue(fallbackSentences, {
                     lang,
+                    gender,
                     rate: r,
                     startIndex: ttsCurrentIndex,
                     onProgress: (idx) => setTtsCurrentIndex(idx),

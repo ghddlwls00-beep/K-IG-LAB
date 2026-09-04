@@ -79,10 +79,29 @@ export function getLessonContext(course: string, id: string) {
   const i = list.findIndex((l) => l.id === id);
   const current = index.lessons.find((l) => l.id === id) ?? null;
 
-  const pairId =
+  let pairId =
     current?.variant === "main"
       ? index.lessons.find((l) => l.variant === "script" && l.id.startsWith(`${id}-`))?.id
       : index.lessons.find((l) => l.variant === "main" && id.startsWith(`${l.id}-`))?.id;
+
+  // Grammar1 special pairing: Even numbered lessons are Korean exercises, odd numbered lessons are English answer sheets
+  if (course === "grammar1") {
+    const m = id.match(/^gh1-(\d+)(-\d+)?$/);
+    if (m) {
+      const num = parseInt(m[1], 10);
+      const sub = m[2] || "";
+      const pad = (n: number) => String(n).padStart(3, "0");
+      if (num % 2 === 0) {
+        const target = `gh1-${pad(num + 1)}${sub}`;
+        if (index.lessons.some((l) => l.id === target)) pairId = target;
+        else if (index.lessons.some((l) => l.id === `gh1-${pad(num + 1)}`)) pairId = `gh1-${pad(num + 1)}`;
+      } else {
+        const target = `gh1-${pad(num - 1)}${sub}`;
+        if (index.lessons.some((l) => l.id === target)) pairId = target;
+        else if (index.lessons.some((l) => l.id === `gh1-${pad(num - 1)}`)) pairId = `gh1-${pad(num - 1)}`;
+      }
+    }
+  }
 
   return {
     prev: i > 0 ? list[i - 1] : null,

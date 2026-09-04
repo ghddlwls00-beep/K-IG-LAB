@@ -4,7 +4,12 @@
  * Provides native, zero-dependency browser speech synthesis for English, Korean,
  * and Chinese lessons. When server media is unavailable, this allows lessons
  * to remain 100% playable, while also powering sentence-by-sentence audio drills.
+ *
+ * Features precise voice selection with dedicated Male/Female profiles for MEN
+ * and WOMEN conversation tracks.
  */
+
+export type VoiceGender = "male" | "female" | "neutral";
 
 export interface SpeechState {
   speaking: boolean;
@@ -18,6 +23,7 @@ let queue: string[] = [];
 let queueIndex = 0;
 let queueLang = "en";
 let queueRate = 1.0;
+let queueGender: VoiceGender = "neutral";
 let onQueueProgress: ((index: number, text: string) => void) | null = null;
 let onQueueEnd: (() => void) | null = null;
 
@@ -26,8 +32,16 @@ function getVoices(): SpeechSynthesisVoice[] {
   return window.speechSynthesis.getVoices();
 }
 
-/** Pick best voice for language code ('en', 'ko', 'zh'). */
-export function findBestVoice(langPrefix: string): SpeechSynthesisVoice | null {
+const MALE_VOICE_REGEX =
+  /male|david|guy|mark|andrew|brian|christopher|eric|steffan|george|roger|daniel|james|john|michael|yunxi|yunjian|kangkang|injoon|minho/i;
+const FEMALE_VOICE_REGEX =
+  /female|zira|jenny|aria|michelle|sonia|libby|natasha|samantha|victoria|karen|siri|xiaoxiao|xiaoyi|huihui|yaoyao|sunhi|heami/i;
+
+/** Pick best voice for language code ('en', 'ko', 'zh') and requested gender ('male' | 'female' | 'neutral'). */
+export function findBestVoice(
+  langPrefix: string,
+  gender: VoiceGender = "neutral",
+): SpeechSynthesisVoice | null {
   const voices = getVoices();
   if (voices.length === 0) return null;
 
@@ -35,6 +49,25 @@ export function findBestVoice(langPrefix: string): SpeechSynthesisVoice | null {
   const matches = voices.filter((v) => v.lang.toLowerCase().startsWith(target));
   if (matches.length === 0) return null;
 
+  // 1. If male voice requested (e.g. MEN courseware)
+  if (gender === "male") {
+    const males = matches.filter((v) => MALE_VOICE_REGEX.test(v.name));
+    if (males.length > 0) {
+      const natural = males.find((v) => /natural|online|neural|google|premium/i.test(v.name));
+      return natural ?? males[0];
+    }
+  }
+
+  // 2. If female voice requested (e.g. WOMEN courseware)
+  if (gender === "female") {
+    const females = matches.filter((v) => FEMALE_VOICE_REGEX.test(v.name));
+    if (females.length > 0) {
+      const natural = females.find((v) => /natural|online|neural|google|premium/i.test(v.name));
+      return natural ?? females[0];
+    }
+  }
+
+  // 3. General natural / neural voice
   const preferred = matches.find(
     (v) =>
       /natural|premium|online|google|siri|neural/i.test(v.name) &&
@@ -48,6 +81,7 @@ export function speakText(
   text: string,
   options: {
     lang?: "en" | "ko" | "zh" | string;
+    gender?: VoiceGender;
     rate?: number;
     pitch?: number;
     onStart?: () => void;
@@ -67,12 +101,16 @@ export function speakText(
   window.speechSynthesis.cancel();
 
   const langCode = options.lang === "zh" ? "zh-CN" : options.lang === "ko" ? "ko-KR" : "en-US";
+  const gender = options.gender ?? "neutral";
   const u = new SpeechSynthesisUtterance(clean);
   u.lang = langCode;
   u.rate = options.rate ?? 1.0;
-  u.pitch = options.pitch ?? 1.0;
 
-  const voice = findBestVoice(options.lang ?? "en");
+  // Set characteristic pitch for gender differentiation
+  const defaultPitch = gender === "male" ? 0.82 : gender === "female" ? 1.15 : 1.0;
+  u.pitch = options.pitch ?? defaultPitch;
+
+  const voice = findBestVoice(options.lang ?? "en", gender);
   if (voice) u.voice = voice;
 
   u.onstart = () => options.onStart?.();
@@ -98,6 +136,7 @@ export function playSentenceQueue(
   sentences: string[],
   options: {
     lang?: "en" | "ko" | "zh" | string;
+    gender?: VoiceGender;
     rate?: number;
     startIndex?: number;
     onProgress?: (index: number, text: string) => void;
@@ -111,6 +150,7 @@ export function playSentenceQueue(
   queueIndex = options.startIndex ?? 0;
   queueLang = options.lang ?? "en";
   queueRate = options.rate ?? 1.0;
+  queueGender = options.gender ?? "neutral";
   onQueueProgress = options.onProgress ?? null;
   onQueueEnd = options.onEnd ?? null;
 
@@ -129,6 +169,7 @@ function playNextInQueue() {
 
   speakText(current, {
     lang: queueLang,
+    gender: queueGender,
     rate: queueRate,
     onEnd: () => {
       queueIndex++;

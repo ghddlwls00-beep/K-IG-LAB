@@ -9,6 +9,7 @@ import { getAllLessonParams, getCourse, getLesson, getLessonContext } from "@/li
 import { tabForCourse } from "@/lib/tabs";
 import { lessonDisplay } from "@/lib/courses";
 import type { Block } from "@/lib/types";
+import type { VoiceGender } from "@/lib/speech";
 
 export function generateStaticParams() {
   return getAllLessonParams();
@@ -39,12 +40,15 @@ export default async function LessonPage({
   const tab = tabForCourse(course);
   const isScript = lesson.variant === "script";
 
+  // Determine voice profile: Male for MEN tracks, Female for WOMEN tracks
+  const voiceGender = getVoiceGender(course, id);
+
   // Defensive: collapse duplicate audio by src
   const audio = lesson.audio.filter((a, i, all) => all.findIndex((x) => x.src === a.src) === i);
   const video = lesson.video ?? [];
   const fromFlash = lesson.blocks.length === 0 && audio.length > 0;
 
-  // Extract fallback sentences for TTS reading
+  // Extract fallback sentences for TTS reading (prioritizes English target text)
   const fallbackSentences = extractSentencesForAudio(lesson.blocks, pairLesson?.blocks, isScript, course);
 
   return (
@@ -120,7 +124,7 @@ export default async function LessonPage({
         </div>
       ) : null}
 
-      {/* Audio Players with native TTS fallback */}
+      {/* Audio Players with native TTS fallback & gender profile */}
       {audio.length > 0 ? (
         <div className="mb-8 flex flex-col gap-2.5">
           {audio.map((a, i) => (
@@ -129,6 +133,7 @@ export default async function LessonPage({
               src={a.src}
               fallbackSentences={fallbackSentences}
               lang={courseInfo?.contentLang ?? "en"}
+              gender={voiceGender}
               label={audioLabel(audio.length, i, fromFlash)}
             />
           ))}
@@ -138,6 +143,7 @@ export default async function LessonPage({
           <AudioPlayer
             fallbackSentences={fallbackSentences}
             lang={courseInfo?.contentLang ?? "en"}
+            gender={voiceGender}
             label="전체 듣기 (AI 음성 재생)"
           />
         </div>
@@ -152,6 +158,7 @@ export default async function LessonPage({
           lessonKey={`${course}/${lesson.id}`}
           isScript={isScript}
           contentLang={courseInfo?.contentLang ?? "en"}
+          voiceGender={voiceGender}
           audioTracks={audio}
         />
       ) : fromFlash ? (
@@ -176,10 +183,34 @@ export default async function LessonPage({
   );
 }
 
+function getVoiceGender(course: string, lessonId: string): VoiceGender {
+  if (course === "man" || course === "middle") return "male";
+  if (course === "woman") return "female";
+  if (course === "adults") {
+    if (lessonId.startsWith("am")) return "male";
+    if (lessonId.startsWith("aw")) return "female";
+    return "female";
+  }
+  return "neutral";
+}
+
 function audioLabel(count: number, index: number, fromFlash: boolean): string | undefined {
   if (count <= 1) return undefined;
   if (fromFlash) return index === 0 ? "전체 강의 (Full lesson)" : `클립 ${index} (Clip ${index})`;
   return index === 0 ? "본문 듣기 (Listen)" : "따라하기 (Repeat)";
+}
+
+function isEnglishText(text: string): boolean {
+  const latin = (text.match(/[a-zA-Z]/g) || []).length;
+  const hangul = (text.match(/[\uAC00-\uD7AF\u1100-\u11FF]/g) || []).length;
+  return latin > hangul;
+}
+
+function cleanText(text: string): string {
+  return text
+    .replace(/^\s*\d+[\.\)]\s*/, "")
+    .replace(/\s*\/\s*/g, " ")
+    .trim();
 }
 
 function extractSentencesForAudio(
@@ -188,13 +219,28 @@ function extractSentencesForAudio(
   isScript: boolean,
   course: string,
 ): string[] {
-  // If this is a Korean script page, prefer the English pair blocks for target audio
-  const targetBlocks = isScript && pairBlocks && pairBlocks.length > 0 ? pairBlocks : blocks;
+  let targetBlocks = isScript && pairBlocks && pairBlocks.length > 0 ? pairBlocks : blocks;
+
+  // In grammar1 (or whenever targetBlocks has Korean sentences and pairBlocks has English sentences):
+  // We MUST pick the English sentences so AudioPlayer reads the English lesson!
+  if (course !== "chinese") {
+    const mainSent = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
+    const pairSent = pairBlocks?.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
+    if (mainSent?.items?.[0]?.text && pairSent?.items?.[0]?.text) {
+      const mainIsEn = isEnglishText(mainSent.items[0].text);
+      const pairIsEn = isEnglishText(pairSent.items[0].text);
+      if (!mainIsEn && pairIsEn) {
+        targetBlocks = pairBlocks!;
+      } else if (mainIsEn) {
+        targetBlocks = blocks;
+      }
+    }
+  }
 
   // 1. Sentences block
   const sentBlock = targetBlocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
   if (sentBlock?.items && sentBlock.items.length > 0) {
-    return sentBlock.items.map((it) => it.text.replace(/\s*\/\s*/g, " ").trim()).filter(Boolean);
+    return sentBlock.items.map((it) => cleanText(it.text)).filter(Boolean);
   }
 
   // 2. Dialogue / conversation courses (man, woman, student)
@@ -202,7 +248,7 @@ function extractSentencesForAudio(
     const paras = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
     const enParas = paras.filter((p) => p.lang === "en" || !p.lang);
     if (enParas.length > 0) {
-      return enParas.map((p) => p.text.trim()).filter(Boolean);
+      return enParas.map((p) => cleanText(p.text)).filter(Boolean);
     }
   }
 
@@ -212,7 +258,7 @@ function extractSentencesForAudio(
     if (inst?.text) {
       return inst.text
         .split(/(?<=[.?!])\s+/)
-        .map((s) => s.trim())
+        .map((s) => cleanText(s))
         .filter(Boolean);
     }
   }
@@ -220,7 +266,7 @@ function extractSentencesForAudio(
   // 4. Any paragraphs
   const allParas = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string }[];
   if (allParas.length > 0) {
-    return allParas.map((p) => p.text.trim()).filter(Boolean);
+    return allParas.map((p) => cleanText(p.text)).filter(Boolean);
   }
 
   return [];

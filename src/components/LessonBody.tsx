@@ -4,7 +4,7 @@ import { useState } from "react";
 import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
-import { speakText, stopSpeech } from "@/lib/speech";
+import { speakText, type VoiceGender } from "@/lib/speech";
 
 export interface PairedSentence {
   index: number;
@@ -20,6 +20,8 @@ export interface PairedSentence {
  * Automatically aligns English drills with their paired Korean scripts, enables
  * sentence-by-sentence audio playback, active recall toggles, phonics word pronunciation,
  * and dictation verification.
+ *
+ * Dedicated male voice for MEN courses and female voice for WOMEN courses.
  */
 export function LessonBody({
   blocks,
@@ -28,6 +30,7 @@ export function LessonBody({
   lessonKey,
   isScript = false,
   contentLang = "en",
+  voiceGender = "neutral",
   audioTracks = [],
 }: {
   blocks: Block[];
@@ -36,6 +39,7 @@ export function LessonBody({
   lessonKey: string;
   isScript?: boolean;
   contentLang?: string;
+  voiceGender?: VoiceGender;
   audioTracks?: { src: string; label?: string }[];
 }) {
   const { t } = useLanguage();
@@ -63,12 +67,10 @@ export function LessonBody({
     if (!text) return;
     setActiveSentenceIndex(idx);
 
-    // If an individual clip audio file exists, try playing it, otherwise TTS
     if (audioSrc) {
       const audio = new Audio(audioSrc);
       audio.onended = () => setActiveSentenceIndex(null);
       audio.onerror = () => {
-        // Fallback to speech synthesis
         speakSentenceTts(text, idx);
       };
       audio.play().catch(() => speakSentenceTts(text, idx));
@@ -80,6 +82,7 @@ export function LessonBody({
   function speakSentenceTts(text: string, idx: number) {
     speakText(text, {
       lang: contentLang,
+      gender: voiceGender,
       rate: 0.95,
       onStart: () => setActiveSentenceIndex(idx),
       onEnd: () => setActiveSentenceIndex(null),
@@ -90,6 +93,7 @@ export function LessonBody({
   function playWord(word: string) {
     speakText(word, {
       lang: contentLang,
+      gender: voiceGender,
       rate: 0.9,
     });
   }
@@ -139,9 +143,16 @@ export function LessonBody({
             </button>
           </div>
 
-          <span className="font-mono text-[11px] text-ink-faint">
-            총 {pairedSentences.length}개 문장 대조
-          </span>
+          <div className="flex items-center gap-2">
+            {voiceGender !== "neutral" ? (
+              <span className="font-mono text-[10.5px] text-ink-faint rounded bg-surface px-1.5 py-0.5 border border-line">
+                {voiceGender === "male" ? "👨 남성 음성" : "👩 여성 음성"}
+              </span>
+            ) : null}
+            <span className="font-mono text-[11px] text-ink-faint">
+              총 {pairedSentences.length}개 문장 대조
+            </span>
+          </div>
         </div>
       ) : null}
 
@@ -337,8 +348,23 @@ export function LessonBody({
   );
 }
 
+function cleanSentenceText(text: string): string {
+  if (!text) return "";
+  return text
+    .replace(/^\s*\d+[\.\)]\s*/, "") // remove leading "1." or "1)"
+    .replace(/\s*\/\s*/g, " ")       // remove slashes
+    .trim();
+}
+
+function isEnglishText(text: string): boolean {
+  const latin = (text.match(/[a-zA-Z]/g) || []).length;
+  const hangul = (text.match(/[\uAC00-\uD7AF\u1100-\u11FF]/g) || []).length;
+  return latin > hangul;
+}
+
 /**
  * Builds a structured, aligned array of sentences from main blocks and pairBlocks.
+ * Automatically guarantees English is targetText and Korean is translationText.
  */
 function buildPairedSentences(
   blocks: Block[],
@@ -353,7 +379,6 @@ function buildPairedSentences(
   if (["man", "woman", "student"].includes(course)) {
     const paragraphs = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
     
-    // Group adjacent ko + en or en + ko
     let currentEn = "";
     let currentKo = "";
     let count = 0;
@@ -366,16 +391,14 @@ function buildPairedSentences(
         currentEn = p.text;
       }
 
-      // If both filled or at the end
       if (currentEn && currentKo) {
         count++;
-        // Flash courses: track 0 is full lesson, track count is clip count
         const clipTrack = audioTracks[count];
         result.push({
           index: count,
           numberLabel: String(count),
-          targetText: currentEn,
-          translationText: currentKo,
+          targetText: cleanSentenceText(currentEn),
+          translationText: currentKo.trim(),
           audioSrc: clipTrack?.src,
         });
         currentEn = "";
@@ -383,21 +406,20 @@ function buildPairedSentences(
       }
     }
 
-    // Remaining single entry
     if (currentEn || currentKo) {
       count++;
       result.push({
         index: count,
         numberLabel: String(count),
-        targetText: currentEn || currentKo,
-        translationText: currentEn ? "" : currentKo,
+        targetText: cleanSentenceText(currentEn || currentKo),
+        translationText: currentEn ? "" : currentKo.trim(),
       });
     }
 
     if (result.length > 0) return result;
   }
 
-  // Case B: Sentences blocks in main and paired script (e.g. basics po01 <-> po01-1)
+  // Case B: Sentences blocks in main and paired script (covers grammar1, grammar2, basics, etc.)
   const mainSentencesBlock = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
   const pairSentencesBlock = pairBlocks?.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
 
@@ -409,11 +431,32 @@ function buildPairedSentences(
     for (let i = 0; i < len; i++) {
       const m = mainItems[i];
       const p = pairItems[i];
+      const textM = m?.text ?? "";
+      const textP = p?.text ?? "";
+
+      // Smart Language Detection: Target is English, Translation is Korean
+      let target = "";
+      let translation = "";
+
+      if (course === "chinese") {
+        target = isScript ? textP : textM;
+        translation = isScript ? textM : textP;
+      } else if (isEnglishText(textM) && !isEnglishText(textP)) {
+        target = textM;
+        translation = textP;
+      } else if (!isEnglishText(textM) && isEnglishText(textP)) {
+        target = textP;
+        translation = textM;
+      } else {
+        target = isScript ? textP : textM;
+        translation = isScript ? textM : textP;
+      }
+
       result.push({
         index: i + 1,
         numberLabel: m?.n ?? p?.n ?? String(i + 1),
-        targetText: isScript ? p?.text ?? "" : m?.text ?? "",
-        translationText: isScript ? m?.text ?? "" : p?.text ?? "",
+        targetText: cleanSentenceText(target),
+        translationText: translation.trim(),
       });
     }
     return result;
@@ -426,11 +469,28 @@ function buildPairedSentences(
       : [];
 
     mainSentencesBlock.items.forEach((item, i) => {
+      const textM = item.text ?? "";
+      const textP = pairParas[i]?.text ?? "";
+
+      let target = "";
+      let translation = "";
+
+      if (isEnglishText(textM) && !isEnglishText(textP)) {
+        target = textM;
+        translation = textP;
+      } else if (!isEnglishText(textM) && isEnglishText(textP)) {
+        target = textP;
+        translation = textM;
+      } else {
+        target = isScript ? textP : textM;
+        translation = isScript ? textM : textP;
+      }
+
       result.push({
         index: i + 1,
         numberLabel: item.n || String(i + 1),
-        targetText: isScript ? pairParas[i]?.text ?? "" : item.text,
-        translationText: isScript ? item.text : pairParas[i]?.text ?? "",
+        targetText: cleanSentenceText(target),
+        translationText: translation.trim(),
       });
     });
     return result;
@@ -442,16 +502,24 @@ function buildPairedSentences(
     const pairInst = pairBlocks?.find((b) => b.type === "instruction");
 
     if (mainInst?.type === "instruction") {
-      const enSentences = splitSentences(mainInst.text);
-      const koSentences = pairInst?.type === "instruction" ? splitSentences(pairInst.text) : [];
-      const len = Math.max(enSentences.length, koSentences.length);
+      const textM = mainInst.text;
+      const textP = pairInst?.type === "instruction" ? pairInst.text : "";
+
+      const sentsM = splitSentences(textM);
+      const sentsP = splitSentences(textP);
+      const len = Math.max(sentsM.length, sentsP.length);
+
+      const mIsEnglish = isEnglishText(textM);
 
       for (let i = 0; i < len; i++) {
+        const itemM = sentsM[i] ?? "";
+        const itemP = sentsP[i] ?? "";
+
         result.push({
           index: i + 1,
           numberLabel: String(i + 1),
-          targetText: isScript ? koSentences[i] ?? "" : enSentences[i] ?? "",
-          translationText: isScript ? enSentences[i] ?? "" : koSentences[i] ?? "",
+          targetText: cleanSentenceText(mIsEnglish ? itemM : itemP),
+          translationText: (mIsEnglish ? itemP : itemM).trim(),
         });
       }
       return result;
@@ -463,7 +531,6 @@ function buildPairedSentences(
 
 function splitSentences(paragraph: string): string[] {
   if (!paragraph) return [];
-  // Split by sentence terminators while retaining punctuation
   return paragraph
     .split(/(?<=[.?!])\s+/)
     .map((s) => s.trim())
