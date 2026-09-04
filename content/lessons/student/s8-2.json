@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s8-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Doing Homework (숙제하기)",
+  "label": "Chapter 8. After School / At Home (방과 후와 집에서의 일상)",
+  "menuLabel": "8-2. Doing Homework",
   "unit": 8,
   "part": 2,
   "order": 40,
@@ -120,38 +120,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I oftentimes find the answers to my assignments on the World Wide Web.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 8. After School / At Home (방과 후와 집에서의 일상) - Doing Homework (숙제하기)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I oftentimes find the answers to my assignments on the World Wide Web."
+        },
+        {
+          "n": "2",
+          "text": "I get very tired quickly because I have to do homework from both the academies and school."
+        },
+        {
+          "n": "3",
+          "text": "Even though I am tired, I keep studying because I enjoy learning new things."
+        },
+        {
+          "n": "4",
+          "text": "If I can’t figure out my homework, I can always look on the Internet."
+        },
+        {
+          "n": "5",
+          "text": "After I play a little, I have to do all of my homework."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "I get very tired quickly because I have to do homework from both the academies and school.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Even though I am tired, I keep studying because I enjoy learning new things.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "If I can’t figure out my homework, I can always look on the Internet.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After I play a little, I have to do all of my homework.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 조금 놀고 난 후, 나는 나의 모든 숙제를 해야만 합니다.",
+      "text": "나는 종종 나의 숙제에 대한 답들을 월드 와이드 웹에서 찾습니다.",
       "lang": "ko"
     },
     {
@@ -161,47 +160,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 종종 나의 숙제에 대한 답들을 월드 와이드 웹에서 찾습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 학원과 학교 두군 데 숙제를 해야 하기 때문에 나는 빨리 피곤해 집니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "비록 제가 피곤하더라도, 나는 새로운 것들을 배우는 것을 즐기기 때문에 계속 공부합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 조금 논 후",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 조금 논 후After I play a little,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해야만 한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해야만 한다.I have to do",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 모든 숙제를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 모든 숙제를 all of my homework.",
       "lang": "ko"
     },
     {
@@ -211,158 +170,75 @@
     },
     {
       "type": "paragraph",
-      "text": "만약 내가 숙제를 이해하지 못한다면If I can't figure out my homework,",
+      "text": "나는 조금 놀고 난 후, 나는 나의 모든 숙제를 해야만 합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 항상 찾아볼 수 있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 항상 찾아볼 수 있다. I can always look",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/인터넷 상에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/인터넷 상에서on the Internet.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 종종 답을 찾는다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 종종 답을 찾는다.I oftentimes find the answers",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 숙제에 대한",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 숙제에 대한to my assignments",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 월드 와이드 웹에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 월드 와이드 웹에서on the World Wide Web.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 빨리 피곤해 진다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 빨리 피곤해 진다.I get very tired quickly",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면 나는 숙제를 해야하기 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면 나는 숙제를 해야하기 때문에 because I have to do homework",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학원과 학교 두군데로부터 온",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학원과 학교 두군데로부터 온from both the academies and school.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "비록 내가 피곤하다 할지라도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "비록 내가 피곤하다 할지라도 Even though I am tired,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 계속 공부한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 계속 공부한다. I keep studying",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 새로운 것을 배우기를 즐기기 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 새로운 것을 배우기를 즐기기 때문에 because I enjoy learning new things.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "After School/at Home :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Doing Homework",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s8-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s8-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 조금 논 후",
+      "en": "After I play a little,"
+    },
+    {
+      "ko": "해야만 한다.",
+      "en": "I have to do"
+    },
+    {
+      "ko": "나의 모든 숙제를",
+      "en": "all of my homework."
+    },
+    {
+      "ko": "만약 내가 숙제를 이해하지 못한다면",
+      "en": "If I can't figure out my homework,"
+    },
+    {
+      "ko": "나는 항상 찾아볼 수 있다.",
+      "en": "I can always look"
+    },
+    {
+      "ko": "인터넷 상에서",
+      "en": "on the Internet."
+    },
+    {
+      "ko": "나는 종종 답을 찾는다.",
+      "en": "I oftentimes find the answers"
+    },
+    {
+      "ko": "내 숙제에 대한",
+      "en": "to my assignments"
+    },
+    {
+      "ko": "월드 와이드 웹에서",
+      "en": "on the World Wide Web."
+    },
+    {
+      "ko": "나는 빨리 피곤해 진다.",
+      "en": "I get very tired quickly"
+    },
+    {
+      "ko": "왜냐하면 나는 숙제를 해야하기 때문에",
+      "en": "because I have to do homework"
+    },
+    {
+      "ko": "학원과 학교 두군데로부터 온",
+      "en": "from both the academies and school."
+    },
+    {
+      "ko": "비록 내가 피곤하다 할지라도",
+      "en": "Even though I am tired,"
+    },
+    {
+      "ko": "나는 계속 공부한다.",
+      "en": "I keep studying"
+    },
+    {
+      "ko": "왜냐하면 나는 새로운 것을 배우기를 즐기기 때문에",
+      "en": "because I enjoy learning new things."
+    }
   ]
 }

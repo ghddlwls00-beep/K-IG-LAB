@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s19-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Our Language (Hangul) (우리말과 훈민정음 (한글))",
+  "label": "Chapter 19. Korean Culture (한국의 문화)",
+  "menuLabel": "19-4. Our Language (Hangul)",
   "unit": 19,
   "part": 4,
   "order": 80,
@@ -175,53 +175,50 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Instead, they Chinese characters were used in order to write.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 19. Korean Culture (한국의 문화) - Our Language (Hangul) (우리말과 훈민정음 (한글))"
     },
     {
-      "type": "paragraph",
-      "text": "Most people couldn't read or write.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The only people who could read were the scholars or the nobility.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Up until the middle of the 15th century, Korea didn't have its own alphabet.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Soon a writing system known as hangul was created.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Finally, the Korean language is not like any other world language.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "However, in 1420, the current King at that time, Se-jong, asked his royal scholars to create a unique Korean alphabet.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "마지막으로, 한국 언어는 어떤 다른 세계언어도 같지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "15세기 중반에 이르기까지, 한국은 고유의 문자를 가지고 있지 않았습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Instead, they Chinese characters were used in order to write."
+        },
+        {
+          "n": "2",
+          "text": "Most people couldn't read or write."
+        },
+        {
+          "n": "3",
+          "text": "The only people who could read were the scholars or the nobility."
+        },
+        {
+          "n": "4",
+          "text": "Up until the middle of the 15th century, Korea didn't have its own alphabet."
+        },
+        {
+          "n": "5",
+          "text": "Soon a writing system known as hangul was created."
+        },
+        {
+          "n": "6",
+          "text": "Finally, the Korean language is not like any other world language."
+        },
+        {
+          "n": "7",
+          "text": "However, in 1420, the current King at that time, Se-jong, asked his royal scholars to create a unique Korean alphabet."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "대신에, 쓰기 위해서 한자기 쓰여졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들은 읽거나 쓰기를 할 수 없었습니다.",
       "lang": "ko"
     },
     {
@@ -231,7 +228,7 @@
     },
     {
       "type": "paragraph",
-      "text": "대부분의 사람들은 읽거나 쓰기를 할 수 없었습니다.",
+      "text": "마지막으로, 한국 언어는 어떤 다른 세계언어도 같지 않습니다.",
       "lang": "ko"
     },
     {
@@ -246,288 +243,103 @@
     },
     {
       "type": "paragraph",
-      "text": "마지막으로,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "마지막으로,Finally,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국언어는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국언어는the Korean language",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 같지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 같지 않습니다. is not like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 다른 세계 언어와도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 다른 세계 언어와도 any other world language.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "중반까지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "중반까지Up until the middle of",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/15세기의",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/15세기의the 15th century,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국은 갖지 않았습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국은 갖지 않았습니다. Korea didn't have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것 고유의 문자를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것 고유의 문자를 its own alphabet.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대신에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대신에Instead,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한자가 사용되었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한자가 사용되었습니다. they Chinese characters were used",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 쓰기 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 쓰기 위해서 in order to write.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대부분의 사람들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대부분의 사람들은Most people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 읽거나 쓸 수 없었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 읽거나 쓸 수 없었습니다. couldn't read or write.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "유일한 사람들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "유일한 사람들은The only people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 읽을 수 있었던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 읽을 수 있었던who could read",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학자들이거나 귀족들이었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학자들이거나 귀족들이었습니다. were the scholars or the nobility.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그러나 1420년에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "그러나 1420년에However, in 1420,",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그당시의 왕이셨던 세종은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그당시의 왕이셨던 세종은 the current King at that time, Se-jong,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 충실한 학자들에게 부탁했습니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 충실한 학자들에게 부탁했습니다. asked his royal scholars",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 만들라고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 만들라고 to create",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 독특한 한국의 문자를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 독특한 한국의 문자를 a unique Korean alphabet.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "곧 쓰기 시스템은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "곧 쓰기 시스템은Soon a writing system",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한글로 알려진",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한글로 알려진 known as hangul",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 창조되었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 창조되었습니다. was created.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Culture :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Language",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s19-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s19-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "마지막으로,",
+      "en": "Finally,"
+    },
+    {
+      "ko": "한국언어는",
+      "en": "the Korean language"
+    },
+    {
+      "ko": "같지 않습니다.",
+      "en": "is not like"
+    },
+    {
+      "ko": "어떤 다른 세계 언어와도",
+      "en": "any other world language."
+    },
+    {
+      "ko": "중반까지",
+      "en": "Up until the middle of"
+    },
+    {
+      "ko": "한국은 갖지 않았습니다.",
+      "en": "Korea didn't have"
+    },
+    {
+      "ko": "그것 고유의 문자를",
+      "en": "its own alphabet."
+    },
+    {
+      "ko": "대신에",
+      "en": "Instead,"
+    },
+    {
+      "ko": "한자가 사용되었습니다.",
+      "en": "they Chinese characters were used"
+    },
+    {
+      "ko": "쓰기 위해서",
+      "en": "in order to write."
+    },
+    {
+      "ko": "대부분의 사람들은",
+      "en": "Most people"
+    },
+    {
+      "ko": "읽거나 쓸 수 없었습니다.",
+      "en": "couldn't read or write."
+    },
+    {
+      "ko": "유일한 사람들은",
+      "en": "The only people"
+    },
+    {
+      "ko": "읽을 수 있었던",
+      "en": "who could read"
+    },
+    {
+      "ko": "학자들이거나 귀족들이었습니다.",
+      "en": "were the scholars or the nobility."
+    },
+    {
+      "ko": "그당시의 왕이셨던 세종은",
+      "en": "the current King at that time, Se-jong,"
+    },
+    {
+      "ko": "그의 충실한 학자들에게 부탁했습니다.",
+      "en": "asked his royal scholars"
+    },
+    {
+      "ko": "만들라고",
+      "en": "to create"
+    },
+    {
+      "ko": "독특한 한국의 문자를",
+      "en": "a unique Korean alphabet."
+    },
+    {
+      "ko": "곧 쓰기 시스템은",
+      "en": "Soon a writing system"
+    },
+    {
+      "ko": "한글로 알려진",
+      "en": "known as hangul"
+    },
+    {
+      "ko": "창조되었습니다.",
+      "en": "was created."
+    }
   ]
 }

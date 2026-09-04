@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s18-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Harvest Moon Festival (Chuseok) (추석과 송편)",
+  "label": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절)",
+  "menuLabel": "18-3. Harvest Moon Festival (Chuseok)",
   "unit": 18,
   "part": 3,
   "order": 77,
@@ -140,44 +140,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절) - Harvest Moon Festival (Chuseok) (추석과 송편)"
     },
     {
-      "type": "paragraph",
-      "text": "I like our country's traditional holidays.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "On these days I learn how important family is!",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "During Chu-seok, People visit their ancestrial tombs and make an offering of food to their ancestors.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "추석은 한 해의 가장 큰 국경일 이고, 그것은 종종 한국의 추수감사절이라 불린다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "추석 동안, 사람들은 그들 조상의 무덤을 방문하고 그들의 조상들에게 음식을 대접한다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake."
+        },
+        {
+          "n": "2",
+          "text": "I like our country's traditional holidays."
+        },
+        {
+          "n": "3",
+          "text": "On these days I learn how important family is!"
+        },
+        {
+          "n": "4",
+          "text": "During Chu-seok, People visit their ancestrial tombs and make an offering of food to their ancestors."
+        },
+        {
+          "n": "5",
+          "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -186,8 +175,8 @@
     },
     {
       "type": "paragraph",
-      "text": "In addition, most people play games with their relatives and make song-pyeun,which is a Korean traditional rice cake.",
-      "lang": "en"
+      "text": "추석 동안, 사람들은 그들 조상의 무덤을 방문하고 그들의 조상들에게 음식을 대접한다.",
+      "lang": "ko"
     },
     {
       "type": "paragraph",
@@ -201,233 +190,91 @@
     },
     {
       "type": "paragraph",
-      "text": "추석은",
+      "text": "추석은 한 해의 가장 큰 국경일 이고, 그것은 종종 한국의 추수감사절이라 불린다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "추석은Chu-seok is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 큰 국경일 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 큰 국경일 입니다. the biggest national holiday",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한 해의",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한 해의 of the year,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그것은 종종 불립니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그것은 종종 불립니다. and it is often referred to",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국의 추수감사절이라고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국의 추수감사절이라고 as the Korean Thanksgiving.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "추석동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "추석동안During Chu-seok,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 사람들은 조상의 무덤을 방문합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 사람들은 조상의 무덤을 방문합니다. People visit their ancestrial tombs",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 음식으로 제사를 지냅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 음식으로 제사를 지냅니다. and make an offering of food",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 조상들에게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 조상들에게 to their ancestors.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "게다가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "게다가In addition,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 대부분의 사람들이 게임을 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 대부분의 사람들이 게임을 합니다. most people play games",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 친척들과 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 친척들과 함께 with their relatives",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 송편을 만듭니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 송편을 만듭니다. and make song-pyeun,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 전통 떡인",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 전통 떡인which is a Korean traditional rice cake.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 좋아합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 좋아합니다.I like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라의 전통 휴일들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라의 전통 휴일들을 our country's traditional holidays.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이 날들을 통해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이 날들을 통해On these days",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 배웁니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 배웁니다. I learn",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 얼마나 가족이 중요한지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 얼마나 가족이 중요한지 how important family is.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Holidays :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Chu-seok",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s18-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s18-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "추석은",
+      "en": "Chu-seok is"
+    },
+    {
+      "ko": "가장 큰 국경일 입니다.",
+      "en": "the biggest national holiday"
+    },
+    {
+      "ko": "한 해의",
+      "en": "of the year,"
+    },
+    {
+      "ko": "그리고 그것은 종종 불립니다.",
+      "en": "and it is often referred to"
+    },
+    {
+      "ko": "한국의 추수감사절이라고",
+      "en": "as the Korean Thanksgiving."
+    },
+    {
+      "ko": "추석동안",
+      "en": "During Chu-seok,"
+    },
+    {
+      "ko": "사람들은 조상의 무덤을 방문합니다.",
+      "en": "People visit their ancestrial tombs"
+    },
+    {
+      "ko": "그리고 음식으로 제사를 지냅니다.",
+      "en": "and make an offering of food"
+    },
+    {
+      "ko": "그들의 조상들에게",
+      "en": "to their ancestors."
+    },
+    {
+      "ko": "게다가",
+      "en": "In addition,"
+    },
+    {
+      "ko": "대부분의 사람들이 게임을 합니다.",
+      "en": "most people play games"
+    },
+    {
+      "ko": "그들의 친척들과 함께",
+      "en": "with their relatives"
+    },
+    {
+      "ko": "그리고 송편을 만듭니다.",
+      "en": "and make song-pyeun,"
+    },
+    {
+      "ko": "한국 전통 떡인",
+      "en": "which is a Korean traditional rice cake."
+    },
+    {
+      "ko": "나는 좋아합니다.",
+      "en": "I like"
+    },
+    {
+      "ko": "우리나라의 전통 휴일들을",
+      "en": "our country's traditional holidays."
+    },
+    {
+      "ko": "이 날들을 통해",
+      "en": "On these days"
+    },
+    {
+      "ko": "나는 배웁니다.",
+      "en": "I learn"
+    },
+    {
+      "ko": "얼마나 가족이 중요한지",
+      "en": "how important family is."
+    }
   ]
 }

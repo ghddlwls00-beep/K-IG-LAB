@@ -4,15 +4,20 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s10-5",
-  "label": null,
-  "menuLabel": null,
+  "title": "Friday Wrap-up (금요일 마무리)",
+  "label": "Chapter 10. What Do I Do during the Week? (평일 일과)",
+  "menuLabel": "10-5. Friday Wrap-up",
   "unit": 10,
   "part": 5,
   "order": 50,
   "audio": [],
   "video": [],
-  "blocks": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Chapter 10. What Do I Do during the Week? (평일 일과) - Friday Wrap-up (금요일 마무리)"
+    }
+  ],
   "legacyPath": "Student/s10-5.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [

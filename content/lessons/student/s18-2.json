@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s18-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Lunar New Year's Day (Seollal) (설날과 차례)",
+  "label": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절)",
+  "menuLabel": "18-2. Lunar New Year's Day (Seollal)",
   "unit": 18,
   "part": 2,
   "order": 76,
@@ -170,44 +170,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Each member of the family gets up early in the morning and dresses in their best clothes.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절) - Lunar New Year's Day (Seollal) (설날과 차례)"
     },
     {
-      "type": "paragraph",
-      "text": "Afterwards, we perform a ritual ceremony in honor of our ancestors.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Following the ceremony, the younger people bow to their elders as a gesture of wishing everyone many new blessings during the upcoming new year.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The most important Lunar New Year custom is the ancestral memorial ceremony.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The first big holiday is Lunar New Year’s also known as seol-lal.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "To bow on the Lunar New Year is a special honor and privilege of showing respect to one’s elders.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫 번째로 큰 휴일은 또한 설날이라고 알려진 음력설날입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가장 중요한 음력 설날의 전통은 차례입니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Each member of the family gets up early in the morning and dresses in their best clothes."
+        },
+        {
+          "n": "2",
+          "text": "Afterwards, we perform a ritual ceremony in honor of our ancestors."
+        },
+        {
+          "n": "3",
+          "text": "Following the ceremony, the younger people bow to their elders as a gesture of wishing everyone many new blessings during the upcoming new year."
+        },
+        {
+          "n": "4",
+          "text": "The most important Lunar New Year custom is the ancestral memorial ceremony."
+        },
+        {
+          "n": "5",
+          "text": "The first big holiday is Lunar New Year’s also known as seol-lal."
+        },
+        {
+          "n": "6",
+          "text": "To bow on the Lunar New Year is a special honor and privilege of showing respect to one’s elders."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -226,303 +219,117 @@
     },
     {
       "type": "paragraph",
+      "text": "가장 중요한 음력 설날의 전통은 차례입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
       "text": "음력설날에 절을 한다는 것은 특별한 의례이고 어떤 사람의 손윗사람에게 존경을 표하는특권입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "음력설날에 절을 한다는 것은 특별한 의례이고 어떤 사람의 손윗사람에게 존경을 표하는 특권입니다.",
+      "text": "첫 번째로 큰 휴일은 또한 설날이라고 알려진 음력설날입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "To bow on the Lunar New Year is a special honor and privilege of showingrespect to one’s elders.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫 번째 큰 휴일은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫 번째 큰 휴일은The first big holiday",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 구정입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 구정입니다. is Lunar New Year's",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 설날로 알려진",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 설날로 알려진 also known as seol-lal.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가장 중요한",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가장 중요한The most important",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 음력설날의 관습은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 음력설날의 관습은Lunar New Year custom",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 차례(조상을 기념하는 의식)입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 차례(조상을 기념하는 의식)입니다. is the ancestral memorial ceremony.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가족의 각 구성원들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가족의 각 구성원들은Each member of the family",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일찍 일어나고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일찍 일어나고 gets up early",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 아침에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 아침에 in the morning",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 입습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 입습니다. and dresses",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 가장 좋은 옷을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들의 가장 좋은 옷을 in their best clothes.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 후에Afterwards,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 기념 의식을 행합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 기념 의식을 행합니다. we perform a ritual ceremony",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 조상을 기리기 위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 조상을 기리기 위해 in honor of our ancestors.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 의식 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 의식 후에Following the ceremony,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나이가 어린 사람들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나이가 어린 사람들은 the younger people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나이가 많은 사람들에게 절합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나이가 많은 사람들에게 절합니다. bow to their elders",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ ~라는 뜻으로(동작으로)",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ ~라는 뜻으로(동작으로) as a gesture of",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 축복을 사람들에게 비는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 축복을 사람들에게 비는 wishing everyone many new blessings",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다가오는 새해 동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다가오는 새해 동안 during the upcoming new year.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "음력설날의 절하기는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "음력설날의 절하기는To bow on the Lunar New Year",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 특별한 의례이고 특권입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 특별한 의례이고 특권입니다. is a special honor and privilege",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 존경을 표하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 존경을 표하는 of showing respect",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 손 윗 사람들에게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 손 윗 사람들에게 to one's elders.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Holidays :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Lunar New Year's Day",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s18-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s18-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "첫 번째 큰 휴일은",
+      "en": "The first big holiday"
+    },
+    {
+      "ko": "구정입니다.",
+      "en": "is Lunar New Year's"
+    },
+    {
+      "ko": "설날로 알려진",
+      "en": "also known as seol-lal."
+    },
+    {
+      "ko": "가장 중요한",
+      "en": "The most important"
+    },
+    {
+      "ko": "음력설날의 관습은",
+      "en": "Lunar New Year custom"
+    },
+    {
+      "ko": "차례(조상을 기념하는 의식)입니다.",
+      "en": "is the ancestral memorial ceremony."
+    },
+    {
+      "ko": "가족의 각 구성원들은",
+      "en": "Each member of the family"
+    },
+    {
+      "ko": "일찍 일어나고",
+      "en": "gets up early"
+    },
+    {
+      "ko": "아침에",
+      "en": "in the morning"
+    },
+    {
+      "ko": "그리고 입습니다.",
+      "en": "and dresses"
+    },
+    {
+      "ko": "그들의 가장 좋은 옷을",
+      "en": "in their best clothes."
+    },
+    {
+      "ko": "그 후에",
+      "en": "Afterwards,"
+    },
+    {
+      "ko": "우리는 기념 의식을 행합니다.",
+      "en": "we perform a ritual ceremony"
+    },
+    {
+      "ko": "조상을 기리기 위해",
+      "en": "in honor of our ancestors."
+    },
+    {
+      "ko": "그 의식 후에",
+      "en": "Following the ceremony,"
+    },
+    {
+      "ko": "나이가 어린 사람들은",
+      "en": "the younger people"
+    },
+    {
+      "ko": "나이가 많은 사람들에게 절합니다.",
+      "en": "bow to their elders"
+    },
+    {
+      "ko": "많은 축복을 사람들에게 비는",
+      "en": "wishing everyone many new blessings"
+    },
+    {
+      "ko": "다가오는 새해 동안",
+      "en": "during the upcoming new year."
+    },
+    {
+      "ko": "음력설날의 절하기는",
+      "en": "To bow on the Lunar New Year"
+    },
+    {
+      "ko": "특별한 의례이고 특권입니다.",
+      "en": "is a special honor and privilege"
+    },
+    {
+      "ko": "존경을 표하는",
+      "en": "of showing respect"
+    },
+    {
+      "ko": "손 윗 사람들에게",
+      "en": "to one's elders."
+    }
   ]
 }

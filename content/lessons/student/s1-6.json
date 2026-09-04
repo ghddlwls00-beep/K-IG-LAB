@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s1-6",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Helping Hand & Volunteering (봉사활동과 남 돕기)",
+  "label": "Chapter 1. Self-introduction (자기소개)",
+  "menuLabel": "1-6. Helping Hand & Volunteering",
   "unit": 1,
   "part": 6,
   "order": 6,
@@ -85,24 +85,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I like to volunteer at the orphanage and help the children there.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 1. Self-introduction (자기소개) - Helping Hand & Volunteering (봉사활동과 남 돕기)"
     },
     {
-      "type": "paragraph",
-      "text": "Volunteering at the orphanage is an exciting time for me.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "When I help others, it makes me happy.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I like to help other people, individually.",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I like to volunteer at the orphanage and help the children there."
+        },
+        {
+          "n": "2",
+          "text": "Volunteering at the orphanage is an exciting time for me."
+        },
+        {
+          "n": "3",
+          "text": "When I help others, it makes me happy."
+        },
+        {
+          "n": "4",
+          "text": "I like to help other people, individually."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -123,141 +128,49 @@
       "type": "paragraph",
       "text": "고아원에 자원하는 것은 저에게 신나는 시간입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다른사람돕기를 좋아합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다른사람돕기를 좋아합니다I like to help other people,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 개인적으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 개인적으로individually.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 다른사람들을 도울 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 다른사람들을 도울 때When I help others,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 나를 행복하게 만듭니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 나를 행복하게 만듭니다. it makes me happy.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 자원봉사하기를 좋아합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 자원봉사하기를 좋아합니다.I like to volunteer",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 고아원에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 고아원에서at the orphanage",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그곳의 아이들을 돕기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그곳의 아이들을 돕기를 and help the children there.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "고아원에서 봉사하기는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "고아원에서 봉사하기는Volunteering at the orphanage",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나에게는 신나는 시간입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나에게는 신나는 시간입니다. is an exciting time for me.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Self-introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Helping hand",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s1-6.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s1-6.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 다른사람돕기를 좋아합니다",
+      "en": "I like to help other people,"
+    },
+    {
+      "ko": "개인적으로",
+      "en": "individually."
+    },
+    {
+      "ko": "내가 다른사람들을 도울 때",
+      "en": "When I help others,"
+    },
+    {
+      "ko": "그것은 나를 행복하게 만듭니다.",
+      "en": "it makes me happy."
+    },
+    {
+      "ko": "나는 자원봉사하기를 좋아합니다.",
+      "en": "I like to volunteer"
+    },
+    {
+      "ko": "고아원에서",
+      "en": "at the orphanage"
+    },
+    {
+      "ko": "그리고 그곳의 아이들을 돕기를",
+      "en": "and help the children there."
+    },
+    {
+      "ko": "고아원에서 봉사하기는",
+      "en": "Volunteering at the orphanage"
+    },
+    {
+      "ko": "나에게는 신나는 시간입니다.",
+      "en": "is an exciting time for me."
+    }
   ]
 }

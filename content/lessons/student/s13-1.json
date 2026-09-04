@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s13-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Favorite Kind of Books & Biographies (내가 좋아하는 위인전)",
+  "label": "Chapter 13. Whom Do I Respect? (내가 존경하는 인물)",
+  "menuLabel": "13-1. My Favorite Kind of Books & Biographies",
   "unit": 13,
   "part": 1,
   "order": 59,
@@ -115,33 +115,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I learned to respect many people from reading a lot of books.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 13. Whom Do I Respect? (내가 존경하는 인물) - My Favorite Kind of Books & Biographies (내가 좋아하는 위인전)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I learned to respect many people from reading a lot of books."
+        },
+        {
+          "n": "2",
+          "text": "I would like to introduce to you the person I respect the most."
+        },
+        {
+          "n": "3",
+          "text": "I have read about many interesting people from these historical texts."
+        },
+        {
+          "n": "4",
+          "text": "Since I was young, I learned to like history books and novels because I could read about the wisdom of many people."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "I would like to introduce to you the person I respect the most.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I have read about many interesting people from these historical texts.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Since I was young, I learned to like history books and novels because I could read about the wisdom of many people.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 어렸을 때부터, 나는 많은 사람들의 지혜에 대해서 읽을 수 있었기 때문에 역사책과 소설책 읽기를 좋아하는 것을 알게 되었습니다.",
+      "text": "나는 많은 책들을 읽음으로 해서 많은 사람들을 존경하는 것을 배웠습니다.",
       "lang": "ko"
     },
     {
@@ -151,203 +151,80 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 많은 책들을 읽음으로 해서 많은 사람들을 존경하는 것을 배웠습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 내가 가장 좋아하는 사람에 대해 당신에게 소개하고 싶습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "내가 어렸을 때부터",
+      "text": "내가 어렸을 때부터, 나는 많은 사람들의 지혜에 대해서 읽을 수 있었기 때문에 역사책과 소설책 읽기를 좋아하는 것을 알게 되었습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 어렸을 때부터Since I was young,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 좋아하는 것을 알게 되었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 좋아하는 것을 알게 되었습니다. I learned to like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 역사책과 소설 책을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 역사책과 소설 책을history books and novels",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 내가 읽을 수 있었기 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 내가 읽을 수 있었기 때문에 because I could read",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 사람들의 지혜에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 사람들의 지혜에 관해 about the wisdom of many people.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 읽어 왔습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 읽어 왔습니다.I have read",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 흥미로운 사람들에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 흥미로운 사람들에 대해about many interesting people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/이 (역사적으로) 유명한 책들로 부터",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/이 (역사적으로) 유명한 책들로 부터 from these historical texts.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 존경하는 것을 배웠습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 존경하는 것을 배웠습니다.I learned to respect",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 사람들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 사람들을 many people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/읽음으로써",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/읽음으로써 from reading",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 책들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 책들을a lot of books.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 소개하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 소개하고 싶습니다.I would like to introduce",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 당신에게 그 사람을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 당신에게 그 사람을 to you the person",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는 I respect the most.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Whom Do I Respect? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Favorite Kind of Book",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s13-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s13-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "내가 어렸을 때부터",
+      "en": "Since I was young,"
+    },
+    {
+      "ko": "나는 좋아하는 것을 알게 되었습니다.",
+      "en": "I learned to like"
+    },
+    {
+      "ko": "역사책과 소설 책을",
+      "en": "history books and novels"
+    },
+    {
+      "ko": "왜냐하면 내가 읽을 수 있었기 때문에",
+      "en": "because I could read"
+    },
+    {
+      "ko": "많은 사람들의 지혜에 관해",
+      "en": "about the wisdom of many people."
+    },
+    {
+      "ko": "나는 읽어 왔습니다.",
+      "en": "I have read"
+    },
+    {
+      "ko": "많은 흥미로운 사람들에 대해",
+      "en": "about many interesting people"
+    },
+    {
+      "ko": "이 (역사적으로) 유명한 책들로 부터",
+      "en": "from these historical texts."
+    },
+    {
+      "ko": "나는 존경하는 것을 배웠습니다.",
+      "en": "I learned to respect"
+    },
+    {
+      "ko": "많은 사람들을",
+      "en": "many people"
+    },
+    {
+      "ko": "읽음으로써",
+      "en": "from reading"
+    },
+    {
+      "ko": "많은 책들을",
+      "en": "a lot of books."
+    },
+    {
+      "ko": "나는 소개하고 싶습니다.",
+      "en": "I would like to introduce"
+    },
+    {
+      "ko": "당신에게 그 사람을",
+      "en": "to you the person"
+    },
+    {
+      "ko": "내가 가장 존경하는",
+      "en": "I respect the most."
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s16-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Why I Want to Become an Interpreter (통역사가 되고 싶은 이유)",
+  "label": "Chapter 16. My Other Dream Job (Interpreter) (또 다른 장래희망 (통역사))",
+  "menuLabel": "16-2. Why I Want to Become an Interpreter",
   "unit": 16,
   "part": 2,
   "order": 69,
@@ -210,153 +210,45 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "So, I know that English is important.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 16. My Other Dream Job (Interpreter) (또 다른 장래희망 (통역사)) - Why I Want to Become an Interpreter (통역사가 되고 싶은 이유)"
     },
     {
-      "type": "paragraph",
-      "text": "Second, I want to translate many interesting books so that many more people can enjoy reading them.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Furthermore, I want to write books in English, too.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "First, English is the most widely used language in the world.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Finally, if I go to another country, the people might not understand Korean, so I must learn to speak English well so that I can communicate with them comfortably.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "There are many reasons why I want to become an interpreter.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Another reason is that I want to interpret for people who can’t speak English.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "마지막으로,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "마지막으로,Finally,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/만약 내가 다른 나라로 간다면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/만약 내가 다른 나라로 간다면 if I go to another country,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그곳 사람들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그곳 사람들이 the people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/이해하지 못할 지도 모릅니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/이해하지 못할 지도 모릅니다 might not understand",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국말을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국말을Korean,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 나는 반드시 배워야 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 나는 반드시 배워야 합니다. so I must learn",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어를 잘 말할 수 있도록",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어를 잘 말할 수 있도록 to speak English well",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 나는 의사소통을 할 수 있기 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 나는 의사소통을 할 수 있기 위해서 so that I can communicate",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그들과",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그들과 with them",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/편안하게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/편안하게 comfortably.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "왜 내가 통역사가 되고 싶어하는지에 대한 이유는 많이 있습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "So, I know that English is important."
+        },
+        {
+          "n": "2",
+          "text": "Second, I want to translate many interesting books so that many more people can enjoy reading them."
+        },
+        {
+          "n": "3",
+          "text": "Furthermore, I want to write books in English, too."
+        },
+        {
+          "n": "4",
+          "text": "First, English is the most widely used language in the world."
+        },
+        {
+          "n": "5",
+          "text": "Finally, if I go to another country, the people might not understand Korean, so I must learn to speak English well so that I can communicate with them comfortably."
+        },
+        {
+          "n": "6",
+          "text": "There are many reasons why I want to become an interpreter."
+        },
+        {
+          "n": "7",
+          "text": "Another reason is that I want to interpret for people who can’t speak English."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "첫째, 영어는 세계에서 가장 널리 사용되는 언어입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 저는 영어가 중요하다는 것을 알고 있습니다.",
       "lang": "ko"
     },
     {
@@ -371,7 +263,7 @@
     },
     {
       "type": "paragraph",
-      "text": "또 다른 이유는 나는 영어를 말할 수 없는 사람들을 위해서 통역해 주고 싶습니다.",
+      "text": "그래서 저는 영어가 중요하다는 것을 알고 있습니다.",
       "lang": "ko"
     },
     {
@@ -381,258 +273,144 @@
     },
     {
       "type": "paragraph",
-      "text": "많은 이유들이 있습니다.",
+      "text": "또 다른 이유는 나는 영어를 말할 수 없는 사람들을 위해서 통역해 주고 싶습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "많은 이유들이 있습니다.There are many reasons",
+      "text": "왜 내가 통역사가 되고 싶어하는지에 대한 이유는 많이 있습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜 내가 원하는지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜 내가 원하는지 why I want",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 통역사가 되기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 통역사가 되기를 to become an interpreter.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫째,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫째,First,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어는 English is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 널리 사용되는 언어",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 널리 사용되는 언어 the most widely used language",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 세계에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 세계에서 in the world.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 압니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 압니다.So, I know",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어가 중요하다는 것을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어가 중요하다는 것을 that English is important.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "둘째,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "둘째,Second,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 통역하기를 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 통역하기를 원합니다. I want to translate",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 재미있는 책들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 재미있는 책들을 many interesting books",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 더 많은 사람들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 더 많은 사람들이 so that many more people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것을 읽고 즐길 수 있도록",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것을 읽고 즐길 수 있도록 can enjoy reading them.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "게다가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "게다가Furthermore,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 책을 쓰기를 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 책을 쓰기를 원합니다. I want to write books",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어로, 역시",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어로, 역시 in English, too.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "또 다른 이유는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "또 다른 이유는Another reason is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 통역하기를 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 통역하기를 원합니다. that I want to interpret",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/사람들을 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/사람들을 위해서 for people",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어로 말할 수 없는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어로 말할 수 없는 who can't speak English.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Other Dream Job :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Why Do I Want to Become an Interpreter?",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s16-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s16-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "마지막으로,",
+      "en": "Finally,"
+    },
+    {
+      "ko": "만약 내가 다른 나라로 간다면",
+      "en": "if I go to another country,"
+    },
+    {
+      "ko": "그곳 사람들이",
+      "en": "the people"
+    },
+    {
+      "ko": "이해하지 못할 지도 모릅니다",
+      "en": "might not understand"
+    },
+    {
+      "ko": "한국말을",
+      "en": "Korean,"
+    },
+    {
+      "ko": "그래서 나는 반드시 배워야 합니다.",
+      "en": "so I must learn"
+    },
+    {
+      "ko": "영어를 잘 말할 수 있도록",
+      "en": "to speak English well"
+    },
+    {
+      "ko": "그래서 나는 의사소통을 할 수 있기 위해서",
+      "en": "so that I can communicate"
+    },
+    {
+      "ko": "그들과",
+      "en": "with them"
+    },
+    {
+      "ko": "편안하게",
+      "en": "comfortably."
+    },
+    {
+      "ko": "많은 이유들이 있습니다.",
+      "en": "There are many reasons"
+    },
+    {
+      "ko": "왜 내가 원하는지",
+      "en": "why I want"
+    },
+    {
+      "ko": "통역사가 되기를",
+      "en": "to become an interpreter."
+    },
+    {
+      "ko": "첫째,",
+      "en": "First,"
+    },
+    {
+      "ko": "영어는",
+      "en": "English is"
+    },
+    {
+      "ko": "가장 널리 사용되는 언어",
+      "en": "the most widely used language"
+    },
+    {
+      "ko": "세계에서",
+      "en": "in the world."
+    },
+    {
+      "ko": "그래서 나는 압니다.",
+      "en": "So, I know"
+    },
+    {
+      "ko": "영어가 중요하다는 것을",
+      "en": "that English is important."
+    },
+    {
+      "ko": "둘째,",
+      "en": "Second,"
+    },
+    {
+      "ko": "나는 통역하기를 원합니다.",
+      "en": "I want to translate"
+    },
+    {
+      "ko": "많은 재미있는 책들을",
+      "en": "many interesting books"
+    },
+    {
+      "ko": "그래서 더 많은 사람들이",
+      "en": "so that many more people"
+    },
+    {
+      "ko": "그것을 읽고 즐길 수 있도록",
+      "en": "can enjoy reading them."
+    },
+    {
+      "ko": "게다가",
+      "en": "Furthermore,"
+    },
+    {
+      "ko": "나는 책을 쓰기를 원합니다.",
+      "en": "I want to write books"
+    },
+    {
+      "ko": "영어로, 역시",
+      "en": "in English, too."
+    },
+    {
+      "ko": "또 다른 이유는",
+      "en": "Another reason is"
+    },
+    {
+      "ko": "나는 통역하기를 원합니다.",
+      "en": "that I want to interpret"
+    },
+    {
+      "ko": "사람들을 위해서",
+      "en": "for people"
+    },
+    {
+      "ko": "영어로 말할 수 없는",
+      "en": "who can't speak English."
+    }
   ]
 }

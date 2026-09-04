@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s6-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Teacher Helps Me (나를 도와주시는 선생님)",
+  "label": "Chapter 6. My School Teacher (우리 학교 선생님)",
+  "menuLabel": "6-4. My Teacher Helps Me",
   "unit": 6,
   "part": 4,
   "order": 35,
@@ -120,49 +120,45 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "He/She helps us.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 6. My School Teacher (우리 학교 선생님) - My Teacher Helps Me (나를 도와주시는 선생님)"
     },
     {
-      "type": "paragraph",
-      "text": "He/She tells us that we must read a lot of books.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "He/She is very kind to each student and points out our good qualities.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "So now I want to become a teacher.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My teacher also always tells us to set goals in order to reach our dreams.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My teacher always says that I should be a teacher because of my good qualities.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My teacher is helping me realize my dreams.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "He/She helps us to develop our talents.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He/She helps us."
+        },
+        {
+          "n": "2",
+          "text": "He/She tells us that we must read a lot of books."
+        },
+        {
+          "n": "3",
+          "text": "He/She is very kind to each student and points out our good qualities."
+        },
+        {
+          "n": "4",
+          "text": "So now I want to become a teacher."
+        },
+        {
+          "n": "5",
+          "text": "My teacher also always tells us to set goals in order to reach our dreams."
+        },
+        {
+          "n": "6",
+          "text": "My teacher always says that I should be a teacher because of my good qualities."
+        },
+        {
+          "n": "7",
+          "text": "My teacher is helping me realize my dreams."
+        },
+        {
+          "n": "8",
+          "text": "He/She helps us to develop our talents."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -203,166 +199,53 @@
       "type": "paragraph",
       "text": "그래서 지금 나는 선생님이 되고 싶습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 나를 도와주신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 나를 도와주신다.My teacher is helping me",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 꿈은 깨닫도록",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 꿈은 깨닫도록realize my dreams.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 또한 항상",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 또한 항상My teacher also always",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 목표를 세우라고 말하신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 목표를 세우라고 말하신다. tells us to set goals",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 꿈을 실행하기 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 꿈을 실행하기 위해서in order to reach our dreams.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 우리에게 말한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 우리에게 말한다.He/She tells us that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 반드시 책을 많이 읽어야 한다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 반드시 책을 많이 읽어야 한다고 we must read a lot of books.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 모든 학생에게 매우 친절하다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 모든 학생에게 매우 친절하다.He/She is very kind to each student",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리의 좋은 소질들을 가르쳐 주신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리의 좋은 소질들을 가르쳐 주신다. and points out our good qualities.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 항상 말씀하신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 선생님은 항상 말씀하신다.My teacher always says",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내가 선생님이 되어야 한다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내가 선생님이 되어야 한다고that I should be a teacher",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 좋은 자질 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 좋은 자질 때문에because of my good qualities.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My School Teacher :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Teacher Helps Me",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s6-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s6-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 선생님은 나를 도와주신다.",
+      "en": "My teacher is helping me"
+    },
+    {
+      "ko": "나의 꿈은 깨닫도록",
+      "en": "realize my dreams."
+    },
+    {
+      "ko": "나의 선생님은 또한 항상",
+      "en": "My teacher also always"
+    },
+    {
+      "ko": "우리가 목표를 세우라고 말하신다.",
+      "en": "tells us to set goals"
+    },
+    {
+      "ko": "우리의 꿈을 실행하기 위해서",
+      "en": "in order to reach our dreams."
+    },
+    {
+      "ko": "우리는 반드시 책을 많이 읽어야 한다고",
+      "en": "we must read a lot of books."
+    },
+    {
+      "ko": "그리고 우리의 좋은 소질들을 가르쳐 주신다.",
+      "en": "and points out our good qualities."
+    },
+    {
+      "ko": "나의 선생님은 항상 말씀하신다.",
+      "en": "My teacher always says"
+    },
+    {
+      "ko": "내가 선생님이 되어야 한다고",
+      "en": "that I should be a teacher"
+    },
+    {
+      "ko": "나의 좋은 자질 때문에",
+      "en": "because of my good qualities."
+    }
   ]
 }

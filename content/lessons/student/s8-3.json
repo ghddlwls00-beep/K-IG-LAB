@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s8-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Dinnertime with Family (가족과의 저녁 식사)",
+  "label": "Chapter 8. After School / At Home (방과 후와 집에서의 일상)",
+  "menuLabel": "8-3. Dinnertime with Family",
   "unit": 8,
   "part": 3,
   "order": 41,
@@ -140,53 +140,41 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Because my mother worries about the health of our family, she prepares many different kinds of healthy side dishes.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 8. After School / At Home (방과 후와 집에서의 일상) - Dinnertime with Family (가족과의 저녁 식사)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Because my mother worries about the health of our family, she prepares many different kinds of healthy side dishes."
+        },
+        {
+          "n": "2",
+          "text": "My favorite food is (bulgogi)."
+        },
+        {
+          "n": "3",
+          "text": "We always have great conversations at dinnertime."
+        },
+        {
+          "n": "4",
+          "text": "Usually, my father comes home late, so we can’t be together at suppertime."
+        },
+        {
+          "n": "5",
+          "text": "Dinnertime is the only time that our family can get together the entire day."
+        },
+        {
+          "n": "6",
+          "text": "We mostly talk about the interesting things that happened to us during the day."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "My favorite food is (bulgogi).",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "We always have great conversations at dinnertime.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Usually, my father comes home late, so we can’t be together at suppertime.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Dinnertime is the only time that our family can get together the entire day.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "We mostly talk about the interesting things that happened to us during the day.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/하루동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/하루동안during the day.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저녁식사 시간은 하루 중 나의 가족들이 모이는 유일한 시간 입니다.",
+      "text": "나의 어머니께서는 우리 가족들의 건강을 걱정하시기 때문에 그녀는 많은 다른 종류의 건강한 반찬들을 준비합니다.",
       "lang": "ko"
     },
     {
@@ -196,12 +184,12 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 어머니께서는 우리 가족들의 건강을 걱정하시기 때문에 그녀는 많은 다른 종류의 건강한 반찬들을 준비합니다.",
+      "text": "저의 가장 좋아하는 음식은 (불고기) 입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "저의 가장 좋아하는 음식은 (불고기) 입니다.",
+      "text": "보통 나의 아버지는 늦게 집에 오신다.",
       "lang": "ko"
     },
     {
@@ -213,216 +201,85 @@
       "type": "paragraph",
       "text": "우리는 대부분 하루 동안 우리에게 일어났던 재미있는 것들에 대해서 이야기 합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저녁식사는 유일한 시간이다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저녁식사는 유일한 시간이다.Dinnertime is the only time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 가족들이 함께 모일 수 있는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 가족들이 함께 모일 수 있는that our family can get together",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/전체 하루 중에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/전체 하루 중에the entire day.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보통 나의 아버지는 늦게 집에 오신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보통 나의 아버지는 늦게 집에 오신다.Usually, my father comes home late,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 우리는 함께 할 수 없다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그래서 우리는 함께 할 수 없다. so we can't be together",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/저녁식사를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/저녁식사를at suppertime.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "왜냐하면 나의 어머니가 걱정하시기 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "왜냐하면 나의 어머니가 걱정하시기 때문에Because my mother worries",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내 가족의 건강에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내 가족의 건강에 대해about the health of our family,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그녀는 준비하신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그녀는 준비하신다.she prepares",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 다른 종류의",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 다른 종류의many different kinds of",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/건강에 좋은 반찬들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/건강에 좋은 반찬들을 healthy side dishes.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 대부분 얘기 한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 대부분 얘기 한다. We mostly talk",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/재미있는 것들에 대해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/재미있는 것들에 대해서about the interesting things",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리에게 일어났던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리에게 일어났던 that happened to us",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 항상 가진다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 항상 가진다.We always have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 대화를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 대화를great conversations",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 저녁시간에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 저녁시간에at dinnertime.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "After School/at Home :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Dinnertime",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s8-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s8-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "하루동안",
+      "en": "during the day."
+    },
+    {
+      "ko": "저녁식사는 유일한 시간이다.",
+      "en": "Dinnertime is the only time"
+    },
+    {
+      "ko": "나의 가족들이 함께 모일 수 있는",
+      "en": "that our family can get together"
+    },
+    {
+      "ko": "전체 하루 중에",
+      "en": "the entire day."
+    },
+    {
+      "ko": "보통 나의 아버지는 늦게 집에 오신다.",
+      "en": "Usually, my father comes home late,"
+    },
+    {
+      "ko": "그래서 우리는 함께 할 수 없다.",
+      "en": "so we can't be together"
+    },
+    {
+      "ko": "저녁식사를",
+      "en": "at suppertime."
+    },
+    {
+      "ko": "왜냐하면 나의 어머니가 걱정하시기 때문에",
+      "en": "Because my mother worries"
+    },
+    {
+      "ko": "내 가족의 건강에 대해",
+      "en": "about the health of our family,"
+    },
+    {
+      "ko": "그녀는 준비하신다.",
+      "en": "she prepares"
+    },
+    {
+      "ko": "많은 다른 종류의",
+      "en": "many different kinds of"
+    },
+    {
+      "ko": "건강에 좋은 반찬들을",
+      "en": "healthy side dishes."
+    },
+    {
+      "ko": "우리는 대부분 얘기 한다.",
+      "en": "We mostly talk"
+    },
+    {
+      "ko": "재미있는 것들에 대해서",
+      "en": "about the interesting things"
+    },
+    {
+      "ko": "우리에게 일어났던",
+      "en": "that happened to us"
+    },
+    {
+      "ko": "우리는 항상 가진다.",
+      "en": "We always have"
+    },
+    {
+      "ko": "좋은 대화를",
+      "en": "great conversations"
+    },
+    {
+      "ko": "저녁시간에",
+      "en": "at dinnertime."
+    }
   ]
 }

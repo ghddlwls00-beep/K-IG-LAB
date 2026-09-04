@@ -166,6 +166,8 @@ export interface Lesson {
   /** Non-empty only for CNN, whose lessons are video rather than audio. */
   video: VideoRef[];
   blocks: Block[];
+  /** Phrasal chunk drill breakdowns for progressive speech training */
+  chunkDrills?: { en: string; ko: string }[];
 
   /** Original file, relative to the archive root. Kept for verification. */
   legacyPath: string;

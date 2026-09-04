@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s20-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Famous Attractions Overview (한국의 주요 관광 명소)",
+  "label": "Chapter 20. Famous Places in Korea (한국의 명소)",
+  "menuLabel": "20-2. Famous Attractions Overview",
   "unit": 20,
   "part": 2,
   "order": 82,
@@ -65,19 +65,21 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Such places include the Bulguk-Temple, Soungni-San National Park, and Independence-Hall.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 20. Famous Places in Korea (한국의 명소) - Famous Attractions Overview (한국의 주요 관광 명소)"
     },
     {
-      "type": "paragraph",
-      "text": "Our country has many attractive places to visit that are natural, historical, and sometimes man-made.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리 나라는 자연적, 역사적, 그리고 때때로는 사람에 의해 만들어진 방문할만한 많은 매력적인 장소들이 있습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Such places include the Bulguk-Temple, Soungni-San National Park, and Independence-Hall."
+        },
+        {
+          "n": "2",
+          "text": "Our country has many attractive places to visit that are natural, historical, and sometimes man-made."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -86,118 +88,43 @@
     },
     {
       "type": "paragraph",
-      "text": "우리나라는 가지고 있습니다.",
+      "text": "우리 나라는 자연적, 역사적, 그리고 때때로는 사람에 의해 만들어진 방문할만한 많은 매력적인 장소들이 있습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라는 가지고 있습니다.Our country has",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 방문할 만한 많은 매력적인 장소들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 방문할 만한 많은 매력적인 장소들을 many attractive places to visit",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 자연적, 역사적",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 자연적, 역사적 that are natural, historical,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 때때로 인공적인",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 때때로 인공적인 and sometimes man-made.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그러한 장소들은 포함합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그러한 장소들은 포함합니다.Such places include",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 불국사, 속리산 국립공원",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 불국사, 속리산 국립공원 the Bulguk-Temple, Soungni-San National Park,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 독립기념관을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 독립기념관을 and Independence-Hall.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Famous Places :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Several Famous Places",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s20-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s20-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "우리나라는 가지고 있습니다.",
+      "en": "Our country has"
+    },
+    {
+      "ko": "방문할 만한 많은 매력적인 장소들을",
+      "en": "many attractive places to visit"
+    },
+    {
+      "ko": "자연적, 역사적",
+      "en": "that are natural, historical,"
+    },
+    {
+      "ko": "그리고 때때로 인공적인",
+      "en": "and sometimes man-made."
+    },
+    {
+      "ko": "그러한 장소들은 포함합니다.",
+      "en": "Such places include"
+    },
+    {
+      "ko": "불국사, 속리산 국립공원",
+      "en": "the Bulguk-Temple, Soungni-San National Park,"
+    },
+    {
+      "ko": "그리고 독립기념관을",
+      "en": "and Independence-Hall."
+    }
   ]
 }

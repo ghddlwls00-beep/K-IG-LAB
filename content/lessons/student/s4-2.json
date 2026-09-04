@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s4-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Aunts, Uncles and Cousins (이모, 삼촌, 사촌들)",
+  "label": "Chapter 4. Relative Introduction (친척 소개)",
+  "menuLabel": "4-2. Aunts, Uncles and Cousins",
   "unit": 4,
   "part": 2,
   "order": 21,
@@ -35,89 +35,41 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I have many relatives because my father and mother have many brothers and sisters.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 4. Relative Introduction (친척 소개) - Aunts, Uncles and Cousins (이모, 삼촌, 사촌들)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I have many relatives because my father and mother have many brothers and sisters."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "나의 아버지와 어머니가 많은 남자형제와 여자형제가 있기 때문에 나는 많은 친척들이 있습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 많은 친척들이 있습니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 많은 친척들이 있습니다I have many relatives",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니와 나의 아버지가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니와 나의 아버지가 because my father and mother have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 형제와 자녀들이 있기 때문에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 형제와 자녀들이 있기 때문에 many brothers and sisters.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Relative Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Aunts, Uncles, and Cousins",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s4-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s4-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 많은 친척들이 있습니다",
+      "en": "I have many relatives"
+    },
+    {
+      "ko": "나의 어머니와 나의 아버지가",
+      "en": "because my father and mother have"
+    },
+    {
+      "ko": "많은 형제와 자녀들이 있기 때문에",
+      "en": "many brothers and sisters."
+    }
   ]
 }

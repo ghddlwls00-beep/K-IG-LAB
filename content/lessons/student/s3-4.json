@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s3-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Friend's Dreams (친구의 장래희망)",
+  "label": "Chapter 3. Friend Introduction (친구 소개)",
+  "menuLabel": "3-4. Friend's Dreams",
   "unit": 3,
   "part": 4,
   "order": 18,
@@ -70,14 +70,21 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "He/She is a truly smart person, and I am sure that his/her dream will come true.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 3. Friend Introduction (친구 소개) - Friend's Dreams (친구의 장래희망)"
     },
     {
-      "type": "paragraph",
-      "text": "He/She sometimes tells me that he/she wants to be a police officer, firefighter, teacher, doctor, interpreter, and he/she wants to serve the community.",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He/She is a truly smart person, and I am sure that his/her dream will come true."
+        },
+        {
+          "n": "2",
+          "text": "He/She sometimes tells me that he/she wants to be a police officer, firefighter, teacher, doctor, interpreter, and he/she wants to serve the community."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -88,136 +95,45 @@
       "type": "paragraph",
       "text": "그는/그녀는 똑똑해서 나는 그의/그녀의 꿈이 이루어 질것이라 확신합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "He/She is a truly smart person, and I am sure that his/her dream will come true",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 종종 나에게 말합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 종종 나에게 말합니다.He/She sometimes tells me that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그가 되기를 원한다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그가 되기를 원한다고 he/she wants to be",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 경찰관, 소방관, 선생님, 의사, 통역사가 되고 싶다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 경찰관, 소방관, 선생님, 의사, 통역사가 되고 싶다고 a police officer, firefighter, teacher, doctor, interpreter,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그는 봉사하기를 원합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그는 봉사하기를 원합니다. and he/she wants to serve",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 지역사회에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 지역사회에서 the community.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 정말로 똑똑한 사람입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 정말로 똑똑한 사람입니다.He/She is a truly smart person,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 확신합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 확신합니다.and I am sure that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 꿈이 실현될 것을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 꿈이 실현될 것을 his/her dream will come true.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Friend Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My friend’s dreams",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s3-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s3-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "그는 종종 나에게 말합니다.",
+      "en": "He/She sometimes tells me that"
+    },
+    {
+      "ko": "그가 되기를 원한다고",
+      "en": "he/she wants to be"
+    },
+    {
+      "ko": "경찰관, 소방관, 선생님, 의사, 통역사가 되고 싶다고",
+      "en": "a police officer, firefighter, teacher, doctor, interpreter,"
+    },
+    {
+      "ko": "그리고 그는 봉사하기를 원합니다.",
+      "en": "and he/she wants to serve"
+    },
+    {
+      "ko": "지역사회에서",
+      "en": "the community."
+    },
+    {
+      "ko": "그는 정말로 똑똑한 사람입니다.",
+      "en": "He/She is a truly smart person,"
+    },
+    {
+      "ko": "그리고 나는 확신합니다.",
+      "en": "and I am sure that"
+    },
+    {
+      "ko": "그의 꿈이 실현될 것을",
+      "en": "his/her dream will come true."
+    }
   ]
 }

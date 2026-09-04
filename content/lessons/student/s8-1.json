@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s8-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "After School & Coming Home (방과 후 귀가)",
+  "label": "Chapter 8. After School / At Home (방과 후와 집에서의 일상)",
+  "menuLabel": "8-1. After School & Coming Home",
   "unit": 8,
   "part": 1,
   "order": 39,
@@ -110,48 +110,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "My mom replies, “How was your day?”",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 8. After School / At Home (방과 후와 집에서의 일상) - After School & Coming Home (방과 후 귀가)"
     },
     {
-      "type": "paragraph",
-      "text": "After I chat with my mom for a little while, I go to my room, and I sometimesplay on the computer.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I say, “Mom! I’m home,” and then I take off my backpack and wash my face and feet.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "When I come home after school, my mother is always glad to see me.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "My mom replies, “How was your day?”"
+        },
+        {
+          "n": "2",
+          "text": "After I chat with my mom for a little while, I go to my room, and I sometimesplay on the computer."
+        },
+        {
+          "n": "3",
+          "text": "I say, “Mom! I’m home,” and then I take off my backpack and wash my face and feet."
+        },
+        {
+          "n": "4",
+          "text": "When I come home after school, my mother is always glad to see me."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "내가 학교를 마친 후 집에 오면 나의 어머니께서는 항상 저를 반겨 주십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 “엄마! 다녀왔습니다.” 라고 말한 다음 나의 가방을 벗고 나의 얼굴과 발을 씻습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I say, “Mom! I’m home,” and then I take off my backpack and wash my faceand feet.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니께서는 “오늘 너의 하루는 어땠니?”라고 답하십니다.",
       "lang": "ko"
     },
     {
@@ -161,188 +146,68 @@
     },
     {
       "type": "paragraph",
-      "text": "After I chat with my mom for a little while, I go to my room, and I sometimes play on the computer.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 집에 왔을 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 집에 왔을 때When I come home",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/방과 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/방과 후에after school,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 어머니는 항상 반기신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 어머니는 항상 반기신다. my mother is always glad",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나를 보고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나를 보고 to see me.",
+      "text": "나의 어머니께서는 “오늘 너의 하루는 어땠니?”라고 답하십니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "나는 “엄마 ! 다녀왔어요.”라고 말한다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 “엄마 ! 다녀왔어요.”라고 말한다.I say, \"Mom! I'm home,\"",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그다음 나는 가방을 벗는다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그다음 나는 가방을 벗는다.and then I take off my backpack",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 얼굴과 발을 씻는다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 얼굴과 발을 씻는다. and wash my face and feet.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 엄마는 대답한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 엄마는 대답한다.My mom replies,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ “너의 하루는 어땠니?”",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ “너의 하루는 어땠니?” \"How was your day?\"",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "엄마와 이야기를 나눈 후",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "엄마와 이야기를 나눈 후 After I chat with my mom",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 잠깐",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 잠깐for a little while,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 나의 방으로 간다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 나의 방으로 간다. I go to my room,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 때때로 나는 논다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 때때로 나는 논다. and I sometimes play",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터 상으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터 상으로 on the computer.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "After School/at Home :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After School",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s8-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s8-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "내가 집에 왔을 때",
+      "en": "When I come home"
+    },
+    {
+      "ko": "방과 후에",
+      "en": "after school,"
+    },
+    {
+      "ko": "나의 어머니는 항상 반기신다.",
+      "en": "my mother is always glad"
+    },
+    {
+      "ko": "나를 보고",
+      "en": "to see me."
+    },
+    {
+      "ko": "그다음 나는 가방을 벗는다.",
+      "en": "and then I take off my backpack"
+    },
+    {
+      "ko": "그리고 얼굴과 발을 씻는다.",
+      "en": "and wash my face and feet."
+    },
+    {
+      "ko": "나의 엄마는 대답한다.",
+      "en": "My mom replies,"
+    },
+    {
+      "ko": "엄마와 이야기를 나눈 후",
+      "en": "After I chat with my mom"
+    },
+    {
+      "ko": "잠깐",
+      "en": "for a little while,"
+    },
+    {
+      "ko": "나는 나의 방으로 간다.",
+      "en": "I go to my room,"
+    },
+    {
+      "ko": "때때로 나는 논다.",
+      "en": "and I sometimes play"
+    },
+    {
+      "ko": "컴퓨터 상으로",
+      "en": "on the computer."
+    }
   ]
 }

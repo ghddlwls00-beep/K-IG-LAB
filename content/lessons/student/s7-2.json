@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s7-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Favorite Academy (가장 좋아하는 학원)",
+  "label": "Chapter 7. At the Academy (학원 생활)",
+  "menuLabel": "7-2. My Favorite Academy",
   "unit": 7,
   "part": 2,
   "order": 37,
@@ -95,39 +95,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I love role-playing and speaking English with my friends.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 7. At the Academy (학원 생활) - My Favorite Academy (가장 좋아하는 학원)"
     },
     {
-      "type": "paragraph",
-      "text": "I want to learn to speak English fluently in the future because I know that English will be helpful in my future job.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Everyday I go and learn new sentences, words, and songs.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My favorite academy is English.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가장 좋아하는 학원은 영어입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 매일 가고 새로운 문장들, 단어들, 그리고 노래들을 배웁니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I love role-playing and speaking English with my friends."
+        },
+        {
+          "n": "2",
+          "text": "I want to learn to speak English fluently in the future because I know that English will be helpful in my future job."
+        },
+        {
+          "n": "3",
+          "text": "Everyday I go and learn new sentences, words, and songs."
+        },
+        {
+          "n": "4",
+          "text": "My favorite academy is English."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -141,153 +131,64 @@
     },
     {
       "type": "paragraph",
-      "text": "매일 나는 가서 배운다.",
+      "text": "나는 매일 가고 새로운 문장들, 단어들, 그리고 노래들을 배웁니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "매일 나는 가서 배운다.Everyday I go and learn",
+      "text": "나의 가장 좋아하는 학원은 영어입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 문장들, 단어들, 그리고 노래들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 문장들, 단어들, 그리고 노래들을 new sentences, words, and songs.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 좋아한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 좋아한다.I love",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 역할 연기와 영어 말하기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 역할 연기와 영어 말하기를role-playing and speaking English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친구들과함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친구들과함께 with my friends.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 배우기를 원한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 배우기를 원한다.I want to learn",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어를 유창하게 말하기 위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어를 유창하게 말하기 위해 to speak English fluently",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 미래에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 미래에in the future",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 안다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 안다. because I know",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어가 매우 도움이 될것이라고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어가 매우 도움이 될것이라고 that English will be helpful",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 미래의 직업에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 미래의 직업에 in my future job.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "At the Academy :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Favorite Academy",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s7-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s7-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "매일 나는 가서 배운다.",
+      "en": "Everyday I go and learn"
+    },
+    {
+      "ko": "새로운 문장들, 단어들, 그리고 노래들을",
+      "en": "new sentences, words, and songs."
+    },
+    {
+      "ko": "나는 좋아한다.",
+      "en": "I love"
+    },
+    {
+      "ko": "역할 연기와 영어 말하기를",
+      "en": "role-playing and speaking English"
+    },
+    {
+      "ko": "나의 친구들과함께",
+      "en": "with my friends."
+    },
+    {
+      "ko": "나는 배우기를 원한다.",
+      "en": "I want to learn"
+    },
+    {
+      "ko": "영어를 유창하게 말하기 위해",
+      "en": "to speak English fluently"
+    },
+    {
+      "ko": "미래에",
+      "en": "in the future"
+    },
+    {
+      "ko": "왜냐하면 나는 안다.",
+      "en": "because I know"
+    },
+    {
+      "ko": "영어가 매우 도움이 될것이라고",
+      "en": "that English will be helpful"
+    },
+    {
+      "ko": "나의 미래의 직업에",
+      "en": "in my future job."
+    }
   ]
 }

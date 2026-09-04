@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s13-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "The Person I Respect the Most (Admiral Yi Sun-sin) (가장 존경하는 인물 (이순신 장군))",
+  "label": "Chapter 13. Whom Do I Respect? (내가 존경하는 인물)",
+  "menuLabel": "13-2. The Person I Respect the Most (Admiral Yi Sun-sin)",
   "unit": 13,
   "part": 2,
   "order": 60,
@@ -135,28 +135,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "He lived during a difficult time of Korean history, but he always thought of Korea and Koreans before himself.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 13. Whom Do I Respect? (내가 존경하는 인물) - The Person I Respect the Most (Admiral Yi Sun-sin) (가장 존경하는 인물 (이순신 장군))"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He lived during a difficult time of Korean history, but he always thought of Korea and Koreans before himself."
+        },
+        {
+          "n": "2",
+          "text": "He created the turtle ship that he had used against the Japanese and conquered them many times."
+        },
+        {
+          "n": "3",
+          "text": "General Lee lived 500 years ago, and he defeated the Japanese over and over again."
+        },
+        {
+          "n": "4",
+          "text": "The person I respect the most is General Soon-Shin Lee (이순신)."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "He created the turtle ship that he had used against the Japanese and conquered them many times.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "General Lee lived 500 years ago, and he defeated the Japanese over and over again.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The person I respect the most is General Soon-Shin Lee (이순신).",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 가장 존경하는 사람은 이순신장군 입니다.",
+      "text": "그는 한국역사의 어려운 시대에 살았지만, 그는 항상 한국과 한국 사람들을 자신보다 먼저 생각했습니다.",
       "lang": "ko"
     },
     {
@@ -166,248 +171,92 @@
     },
     {
       "type": "paragraph",
-      "text": "그는 한국역사의 어려운 시대에 살았지만, 그는 항상 한국과 한국 사람들을 자신보다 먼저 생각했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "그는 일본과 맞서 싸울 때 사용했었던 거북선을 창작했고 그들을 수 차례에 정복했습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "그 사람은",
+      "text": "내가 가장 존경하는 사람은 이순신장군 입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 사람은The person",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는 I respect the most is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이순신 장군입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이순신 장군입니다.General Soon-Shin Lee (이순신).",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이장군은 살았습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이장군은 살았습니다.General Lee lived",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/500년전에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/500년전에500 years ago,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 무찔렀습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 무찔렀습니다. and he defeated",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/일본을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/일본을the Japanese",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/여러번 반복해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/여러번 반복해서 over and over again.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 살았습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 살았습니다.He lived",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어려운 시대에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어려운 시대에during a difficult time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 역사의",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 역사의of Korean history,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 그는 항상 생각했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 그는 항상 생각했습니다. but he always thought of",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국과 한국인에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국과 한국인에 대해 Korea and Koreans",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 자신보다 먼저",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 자신보다 먼저 before himself.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 거북선을 창작했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 거북선을 창작했습니다.He created the turtle ship",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그가 사용했던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그가 사용했던 that he had used",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일본인과 맞서 싸울 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일본인과 맞서 싸울 때 against the Japanese",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그들을 정복했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 그들을 정복했습니다. and conquered them",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 수차례",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 수차례 many times.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Whom Do I Respect? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The Person I Respect the Most",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s13-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s13-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "그 사람은",
+      "en": "The person"
+    },
+    {
+      "ko": "내가 가장 존경하는",
+      "en": "I respect the most is"
+    },
+    {
+      "ko": "이순신 장군입니다.",
+      "en": "General Soon-Shin Lee (이순신)."
+    },
+    {
+      "ko": "이장군은 살았습니다.",
+      "en": "General Lee lived"
+    },
+    {
+      "ko": "그리고 무찔렀습니다.",
+      "en": "and he defeated"
+    },
+    {
+      "ko": "일본을",
+      "en": "the Japanese"
+    },
+    {
+      "ko": "여러번 반복해서",
+      "en": "over and over again."
+    },
+    {
+      "ko": "그는 살았습니다.",
+      "en": "He lived"
+    },
+    {
+      "ko": "어려운 시대에",
+      "en": "during a difficult time"
+    },
+    {
+      "ko": "한국 역사의",
+      "en": "of Korean history,"
+    },
+    {
+      "ko": "그러나 그는 항상 생각했습니다.",
+      "en": "but he always thought of"
+    },
+    {
+      "ko": "한국과 한국인에 대해",
+      "en": "Korea and Koreans"
+    },
+    {
+      "ko": "그 자신보다 먼저",
+      "en": "before himself."
+    },
+    {
+      "ko": "그는 거북선을 창작했습니다.",
+      "en": "He created the turtle ship"
+    },
+    {
+      "ko": "그가 사용했던",
+      "en": "that he had used"
+    },
+    {
+      "ko": "일본인과 맞서 싸울 때",
+      "en": "against the Japanese"
+    },
+    {
+      "ko": "그리고 그들을 정복했습니다.",
+      "en": "and conquered them"
+    },
+    {
+      "ko": "수차례",
+      "en": "many times."
+    }
   ]
 }

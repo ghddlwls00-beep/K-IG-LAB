@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s14-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "How I Will Achieve My Dream (꿈을 이루기 위한 노력)",
+  "label": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사))",
+  "menuLabel": "14-3. How I Will Achieve My Dream",
   "unit": 14,
   "part": 3,
   "order": 64,
@@ -150,53 +150,45 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "They also tell me that I need to love children and serve others.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사)) - How I Will Achieve My Dream (꿈을 이루기 위한 노력)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "They also tell me that I need to love children and serve others."
+        },
+        {
+          "n": "2",
+          "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience."
+        },
+        {
+          "n": "3",
+          "text": "I know that one day I will be able to achieve my dream and help many children learn and grow."
+        },
+        {
+          "n": "4",
+          "text": "I must go to a good university."
+        },
+        {
+          "n": "5",
+          "text": "In order to become a teacher, my parents tell me that I need to study hard in all my subjects."
+        },
+        {
+          "n": "6",
+          "text": "So I must go to a good university."
+        },
+        {
+          "n": "7",
+          "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience in order to teach them."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I know that one day I will be able to achieve my dream and help many children learn and grow.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I must go to a good university.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "In order to become a teacher, my parents tell me that I need to study hard in all my subjects.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "선생님이 되기 위해서, 나의 부모님께서는 내가 나의 모든 과목에서 공부를 열심히 해야 한다고 말씀하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 좋은 대학에 가야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "So I must go to a good university.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 또한 나에게 아이들을 사랑하고 다른 사람들에게 봉사해야 한다고 말씀합니다.",
+      "text": "그들은 또한 나에게 말씀하십니다.",
       "lang": "ko"
     },
     {
@@ -206,263 +198,114 @@
     },
     {
       "type": "paragraph",
-      "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience in order to teach them.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 언젠가 나의 꿈을 달성할 수 있고 많은 아이들을 배우고 성장할 수 있게 도울 수 있을 것이라는 것을 압니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "선생님이 되기위해서",
+      "text": "그래서 나는 좋은 대학에 가야만 합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "선생님이 되기위해서In order to become a teacher,",
+      "text": "선생님이 되기 위해서, 나의 부모님께서는 내가 나의 모든 과목에서 공부를 열심히 해야 한다고 말씀하십니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 나의 부모님은 나에게 말씀하십니다.",
+      "text": "그들은 또한 나에게 아이들을 사랑하고 다른 사람들에게 봉사해야 한다고 말씀합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 부모님은 나에게 말씀하십니다. my parents tell me that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 공부를 열심히 할 필요가 있다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 공부를 열심히 할 필요가 있다고 I need to study hard",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 과목에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 과목에서in all my subjects.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 가야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 가야만 합니다.So I must go",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 대학에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 대학에to a good university.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 또한 나에게 말씀하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 또한 나에게 말씀하십니다.They also tell me that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 아이들을 사랑해야 하고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 아이들을 사랑해야 하고 I need to love children",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 사람들에게 봉사해야 합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 사람들에게 봉사해야 합니다. and serve others.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 생각합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 생각합니다.I think",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 아이들을 가르치는 것이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 아이들을 가르치는 것이 teaching children is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 재미있고 보람있다고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 재미있고 보람있다고 fun and rewarding,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 가져야 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 가져야 합니다. and that I must have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 인내를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 인내를 a lot of patience",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들을 가르치기 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들을 가르치기 위해서 in order to teach them.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 압니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 압니다.I know that",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 언젠가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 언젠가 one day",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 달성할 수 있을 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 달성할 수 있을 것입니다.I will be able to achieve",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 꿈을 그리고 도울 수 있을 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 꿈을 그리고 도울 수 있을 것입니다. my dream and help",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 아이들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 아이들이 many children",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 배우고 성장하게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 배우고 성장하게learn and grow.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Future Dream Job :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "How Will I Achieve My Dream?",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s14-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s14-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "선생님이 되기위해서",
+      "en": "In order to become a teacher,"
+    },
+    {
+      "ko": "나의 부모님은 나에게 말씀하십니다.",
+      "en": "my parents tell me that"
+    },
+    {
+      "ko": "나는 공부를 열심히 할 필요가 있다고",
+      "en": "I need to study hard"
+    },
+    {
+      "ko": "모든 과목에서",
+      "en": "in all my subjects."
+    },
+    {
+      "ko": "그래서 나는 가야만 합니다.",
+      "en": "So I must go"
+    },
+    {
+      "ko": "좋은 대학에",
+      "en": "to a good university."
+    },
+    {
+      "ko": "그들은 또한 나에게 말씀하십니다.",
+      "en": "They also tell me that"
+    },
+    {
+      "ko": "나는 아이들을 사랑해야 하고",
+      "en": "I need to love children"
+    },
+    {
+      "ko": "다른 사람들에게 봉사해야 합니다.",
+      "en": "and serve others."
+    },
+    {
+      "ko": "나는 생각합니다.",
+      "en": "I think"
+    },
+    {
+      "ko": "아이들을 가르치는 것이",
+      "en": "teaching children is"
+    },
+    {
+      "ko": "재미있고 보람있다고",
+      "en": "fun and rewarding,"
+    },
+    {
+      "ko": "그리고 나는 가져야 합니다.",
+      "en": "and that I must have"
+    },
+    {
+      "ko": "많은 인내를",
+      "en": "a lot of patience"
+    },
+    {
+      "ko": "그들을 가르치기 위해서",
+      "en": "in order to teach them."
+    },
+    {
+      "ko": "나는 압니다.",
+      "en": "I know that"
+    },
+    {
+      "ko": "언젠가",
+      "en": "one day"
+    },
+    {
+      "ko": "나는 달성할 수 있을 것입니다.",
+      "en": "I will be able to achieve"
+    },
+    {
+      "ko": "나의 꿈을 그리고 도울 수 있을 것입니다.",
+      "en": "my dream and help"
+    },
+    {
+      "ko": "많은 아이들이",
+      "en": "many children"
+    },
+    {
+      "ko": "배우고 성장하게",
+      "en": "learn and grow."
+    }
   ]
 }

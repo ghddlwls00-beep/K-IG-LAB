@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s19-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Korean Culture is Unique (독창적인 한국 문화)",
+  "label": "Chapter 19. Korean Culture (한국의 문화)",
+  "menuLabel": "19-1. Korean Culture is Unique",
   "unit": 19,
   "part": 1,
   "order": 78,
@@ -70,53 +70,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Our clothes, housing, names, and language are not like any other countries.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 19. Korean Culture (한국의 문화) - Korean Culture is Unique (독창적인 한국 문화)"
     },
     {
-      "type": "paragraph",
-      "text": "It has many unique aspects about it.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The Korean culture is different from other cultures.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국문화는 다른 문화들과는 다릅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그것은 그것에 대한 아주 독특한 면을 가지고 있습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Our clothes, housing, names, and language are not like any other countries."
+        },
+        {
+          "n": "2",
+          "text": "It has many unique aspects about it."
+        },
+        {
+          "n": "3",
+          "text": "The Korean culture is different from other cultures."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "예를 들면, 우리의 옷, 주거, 이름들, 그리고 언어는 다른 어떤 나라의 것과도 같지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국 문화는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국 문화는The Korean culture",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 문화와 다릅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 문화와 다릅니다.is different from other cultures.",
       "lang": "ko"
     },
     {
@@ -126,93 +102,43 @@
     },
     {
       "type": "paragraph",
-      "text": "그것은 많은 독특한 양상들을 가집니다.It has many unique aspects",
+      "text": "한국문화는 다른 문화들과는 다릅니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것에 관해 about it.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리의 옷, 주거, 이름들, 그리고 언어들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리의 옷, 주거, 이름들, 그리고 언어들은Our clothes, housing, names, and language",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/같지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/같지 않습니다. are not like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/어떤 다른 나라들과도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/어떤 다른 나라들과도any other countries'.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Culture :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Korean Culture is Unique",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s19-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s19-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "한국 문화는",
+      "en": "The Korean culture"
+    },
+    {
+      "ko": "다른 문화와 다릅니다.",
+      "en": "is different from other cultures."
+    },
+    {
+      "ko": "그것은 많은 독특한 양상들을 가집니다.",
+      "en": "It has many unique aspects"
+    },
+    {
+      "ko": "그것에 관해",
+      "en": "about it."
+    },
+    {
+      "ko": "우리의 옷, 주거, 이름들, 그리고 언어들은",
+      "en": "Our clothes, housing, names, and language"
+    },
+    {
+      "ko": "같지 않습니다.",
+      "en": "are not like"
+    },
+    {
+      "ko": "어떤 다른 나라들과도",
+      "en": "any other countries'."
+    }
   ]
 }

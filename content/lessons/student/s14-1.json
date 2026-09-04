@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s14-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Dream for the Future (미래를 향한 나의 꿈)",
+  "label": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사))",
+  "menuLabel": "14-1. My Dream for the Future",
   "unit": 14,
   "part": 1,
   "order": 62,
@@ -120,124 +120,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "How can I choose among all of the great jobs like being a doctor, movie star, and a lawyer?",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사)) - My Dream for the Future (미래를 향한 나의 꿈)"
     },
     {
-      "type": "paragraph",
-      "text": "Out of all these fantastic careers, my dream right now is to be a teacher.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I am still young, but I have read many different kinds of books that have changed my mind many times already about what I want to be.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "There are many jobs in the world, and it is very hard to choose only one.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 직업들이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 직업들이 있습니다.There are many jobs",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/세상에는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/세상에는 in the world,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것은 매우 어렵습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것은 매우 어렵습니다. and it is very hard",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/오직하나를 선택하는 것을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/오직하나를 선택하는 것을 to choose only one.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 아직 어리지만",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 아직 어리지만I am still young,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 나는 읽었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 나는 읽었습니다. but I have read",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 다른 종류의 책들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 다른 종류의 책들을many different kinds of books",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 마음을 바꾸어 놓았던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 마음을 바꾸어 놓았던that have changed my mind",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이미 여러번",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이미 여러번 many times already",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 무엇이 되고 싶은지에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 무엇이 되고 싶은지에 대해 about what I want to be.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "How can I choose among all of the great jobs like being a doctor, movie star, and a lawyer?"
+        },
+        {
+          "n": "2",
+          "text": "Out of all these fantastic careers, my dream right now is to be a teacher."
+        },
+        {
+          "n": "3",
+          "text": "I am still young, but I have read many different kinds of books that have changed my mind many times already about what I want to be."
+        },
+        {
+          "n": "4",
+          "text": "There are many jobs in the world, and it is very hard to choose only one."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -246,32 +151,7 @@
     },
     {
       "type": "paragraph",
-      "text": "어떻게 내가 선택할 수 있습니까?How can I choose",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 훌륭한 직업들 중에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 훌륭한 직업들 중에서 among all of the great jobs",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 의사, 영화배우, 변호사가 되는 것처럼",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 의사, 영화배우, 변호사가 되는 것처럼 like being a doctor, movie star, and a lawyer?",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "세계에는 많은 직업들이 있고 그 중 하나만을 선택하기란 매우 어렵습니다.",
+      "text": "이러한 모든 멋진 직업들 중에서, 바로 지금의 나의 꿈은 선생님이 되는 것입니다.",
       "lang": "ko"
     },
     {
@@ -283,86 +163,77 @@
       "type": "paragraph",
       "text": "의사, 영화배우, 변호사가 되는 것과 같은 모든 훌륭한 직업들 중에서 어떻게 제가 선택 할 수 있겠습니까?",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이러한 모든 멋진 직업들 중에서, 바로 지금의 나의 꿈은 선생님이 되는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이러한 모든 멋진 직업들 중에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이러한 모든 멋진 직업들 중에서Out of all these fantastic careers,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/바로 지금의 나의 꿈은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/바로 지금의 나의 꿈은 my dream right now is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/선생님이 되는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/선생님이 되는 것입니다. to be a teacher.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Future Dream Job :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Dream for the Future",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s14-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s14-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "많은 직업들이 있습니다.",
+      "en": "There are many jobs"
+    },
+    {
+      "ko": "세상에는",
+      "en": "in the world,"
+    },
+    {
+      "ko": "그것은 매우 어렵습니다.",
+      "en": "and it is very hard"
+    },
+    {
+      "ko": "오직하나를 선택하는 것을",
+      "en": "to choose only one."
+    },
+    {
+      "ko": "나는 아직 어리지만",
+      "en": "I am still young,"
+    },
+    {
+      "ko": "그러나 나는 읽었습니다.",
+      "en": "but I have read"
+    },
+    {
+      "ko": "많은 다른 종류의 책들을",
+      "en": "many different kinds of books"
+    },
+    {
+      "ko": "내 마음을 바꾸어 놓았던",
+      "en": "that have changed my mind"
+    },
+    {
+      "ko": "이미 여러번",
+      "en": "many times already"
+    },
+    {
+      "ko": "내가 무엇이 되고 싶은지에 대해",
+      "en": "about what I want to be."
+    },
+    {
+      "ko": "어떻게 내가 선택할 수 있습니까?",
+      "en": "How can I choose"
+    },
+    {
+      "ko": "모든 훌륭한 직업들 중에서",
+      "en": "among all of the great jobs"
+    },
+    {
+      "ko": "의사, 영화배우, 변호사가 되는 것처럼",
+      "en": "like being a doctor, movie star, and a lawyer?"
+    },
+    {
+      "ko": "이러한 모든 멋진 직업들 중에서",
+      "en": "Out of all these fantastic careers,"
+    },
+    {
+      "ko": "바로 지금의 나의 꿈은",
+      "en": "my dream right now is"
+    },
+    {
+      "ko": "선생님이 되는 것입니다.",
+      "en": "to be a teacher."
+    }
   ]
 }

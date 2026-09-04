@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s11-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Saturday Afternoon (토요일 오후)",
+  "label": "Chapter 11. What Do I Do during the Weekends? (주말 일과)",
+  "menuLabel": "11-1. Saturday Afternoon",
   "unit": 11,
   "part": 1,
   "order": 51,
@@ -190,63 +190,49 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Once we come home for lunch, we are free for the day.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 11. What Do I Do during the Weekends? (주말 일과) - Saturday Afternoon (토요일 오후)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Once we come home for lunch, we are free for the day."
+        },
+        {
+          "n": "2",
+          "text": "We don’t have to attend any academies!"
+        },
+        {
+          "n": "3",
+          "text": "I usually hang out with my friends on Saturdays."
+        },
+        {
+          "n": "4",
+          "text": "I also spend a lot of time on the computer on Saturdays, too."
+        },
+        {
+          "n": "5",
+          "text": "On Saturdays, we only go to school in the morning."
+        },
+        {
+          "n": "6",
+          "text": "We oftentimes go to the karaoke room for these occasions."
+        },
+        {
+          "n": "7",
+          "text": "The weekends are the best part of my week."
+        },
+        {
+          "n": "8",
+          "text": "Sometimes if there is a special day like a birthday party, we celebrate it on a Saturday afternoon."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "We don’t have to attend any academies!",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I usually hang out with my friends on Saturdays.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I also spend a lot of time on the computer on Saturdays, too.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "On Saturdays, we only go to school in the morning.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "We oftentimes go to the karaoke room for these occasions.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The weekends are the best part of my week.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sometimes if there is a special day like a birthday party, we celebrate it on a Saturday afternoon.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일 오후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일 오후에 on a Saturday afternoon.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "주말은 나의 주 중에서 최고의 부분 입니다.",
+      "text": "일단 우리가 점심을 먹기 위해 집으로 돌아오면, 우리는 그날 동안 자유입니다.",
       "lang": "ko"
     },
     {
@@ -256,27 +242,7 @@
     },
     {
       "type": "paragraph",
-      "text": "일단 우리가 점심을 먹기 위해 집으로 돌아오면, 우리는 그날 동안 자유입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 어떤 학원들에도 갈 필요가 없습니다!",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 보통 토요일에 나의 친구들과 함께 시간을 보냅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가끔씩 생일파티 같은 특별한 날이 있으면, 우리는 토요일 오후에 축하를 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 이런 경우들에는 종종 노래방에 갑니다.",
       "lang": "ko"
     },
     {
@@ -286,293 +252,134 @@
     },
     {
       "type": "paragraph",
-      "text": "주말은",
+      "text": "우리는 어떤 학원들에도 갈 필요가 없습니다!",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "주말은The weekends",
+      "text": "우리는 이런 경우들에는 종종 노래방에 갑니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 나의 주중에서 최고의 부분입니다.",
+      "text": "주말은 나의 주 중에서 최고의 부분 입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 나의 주중에서 최고의 부분입니다. are the best part of my week.",
+      "text": "가끔씩 생일파티 같은 특별한 날이 있으면, 우리는 토요일 오후에 축하를 합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "매주 토요일 마다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "매주 토요일 마다On Saturdays,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 단지 학교에 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 단지 학교에 갑니다. we only go to school",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 오전에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 오전에 in the morning.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "일단 우리가 집에 오면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "일단 우리가 집에 오면Once we come home",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/점심을 먹기위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/점심을 먹기위해 for lunch,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리는 자유롭습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리는 자유롭습니다. we are free",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그 날동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그 날동안 for the day.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 할 필요가 없습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 할 필요가 없습니다. We don't have to",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 학원에도 갈",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 학원에도 갈 attend any academies!",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 보통 시간을 보냅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 보통 시간을 보냅니다.I usually hang out",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친구들과 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친구들과 함께 with my friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일마다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일마다on Saturdays.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 만약 있다면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 만약 있다면Sometimes if there is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 특별한 날이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 특별한 날이 a special day",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 생일 파티와 같은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 생일 파티와 같은 like a birthday party,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 그것을 축하합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 그것을 축하합니다. we celebrate it",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 자주 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 자주 갑니다.We oftentimes go",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 노래방에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 노래방에 to the karaoke room",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이러한 경우에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이러한 경우에for these occasions.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 또한 씁니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 또한 씁니다.I also spend",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 시간을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 시간을 a lot of time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터를 하면서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터를 하면서 on the computer",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일 마다, 역시",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 토요일 마다, 역시on Saturdays, too.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do during the Weekends? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Saturday Afternoon",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s11-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s11-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "토요일 오후에",
+      "en": "on a Saturday afternoon."
+    },
+    {
+      "ko": "주말은",
+      "en": "The weekends"
+    },
+    {
+      "ko": "나의 주중에서 최고의 부분입니다.",
+      "en": "are the best part of my week."
+    },
+    {
+      "ko": "매주 토요일 마다",
+      "en": "On Saturdays,"
+    },
+    {
+      "ko": "우리는 단지 학교에 갑니다.",
+      "en": "we only go to school"
+    },
+    {
+      "ko": "오전에",
+      "en": "in the morning."
+    },
+    {
+      "ko": "일단 우리가 집에 오면",
+      "en": "Once we come home"
+    },
+    {
+      "ko": "점심을 먹기위해",
+      "en": "for lunch,"
+    },
+    {
+      "ko": "우리는 자유롭습니다.",
+      "en": "we are free"
+    },
+    {
+      "ko": "그 날동안",
+      "en": "for the day."
+    },
+    {
+      "ko": "우리는 할 필요가 없습니다.",
+      "en": "We don't have to"
+    },
+    {
+      "ko": "어떤 학원에도 갈",
+      "en": "attend any academies!"
+    },
+    {
+      "ko": "나는 보통 시간을 보냅니다.",
+      "en": "I usually hang out"
+    },
+    {
+      "ko": "나의 친구들과 함께",
+      "en": "with my friends"
+    },
+    {
+      "ko": "토요일마다",
+      "en": "on Saturdays."
+    },
+    {
+      "ko": "때때로 만약 있다면",
+      "en": "Sometimes if there is"
+    },
+    {
+      "ko": "특별한 날이",
+      "en": "a special day"
+    },
+    {
+      "ko": "생일 파티와 같은",
+      "en": "like a birthday party,"
+    },
+    {
+      "ko": "우리는 그것을 축하합니다.",
+      "en": "we celebrate it"
+    },
+    {
+      "ko": "우리는 자주 갑니다.",
+      "en": "We oftentimes go"
+    },
+    {
+      "ko": "노래방에",
+      "en": "to the karaoke room"
+    },
+    {
+      "ko": "이러한 경우에",
+      "en": "for these occasions."
+    },
+    {
+      "ko": "나는 또한 씁니다.",
+      "en": "I also spend"
+    },
+    {
+      "ko": "많은 시간을",
+      "en": "a lot of time"
+    },
+    {
+      "ko": "컴퓨터를 하면서",
+      "en": "on the computer"
+    },
+    {
+      "ko": "토요일 마다, 역시",
+      "en": "on Saturdays, too."
+    }
   ]
 }

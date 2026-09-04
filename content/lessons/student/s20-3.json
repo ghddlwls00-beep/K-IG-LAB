@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s20-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Korean Folk Village (한국민속촌)",
+  "label": "Chapter 20. Famous Places in Korea (한국의 명소)",
+  "menuLabel": "20-3. Korean Folk Village",
   "unit": 20,
   "part": 3,
   "order": 83,
@@ -105,23 +105,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "It is a very popular attraction for many foreign visitors.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 20. Famous Places in Korea (한국의 명소) - Korean Folk Village (한국민속촌)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "It is a very popular attraction for many foreign visitors."
+        },
+        {
+          "n": "2",
+          "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times."
+        },
+        {
+          "n": "3",
+          "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyoung-gi Province, not far from the capital of Seoul."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyoung-gi Province, not far from the capital of Seoul.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "방문할만한 매우 흥미 있는 한 장소는 한국민속촌은 수도인 서울에서 그다지 멀지 않은 경기도 수원시에 위치해 있습니다.",
+      "text": "그 곳은 매우 유명한 관광지 입니다.",
       "lang": "ko"
     },
     {
@@ -131,198 +137,71 @@
     },
     {
       "type": "paragraph",
-      "text": "When you visit there, you can witness a traditional wedding ceremony, tastea variety of traditional foods, and you can observe how Koreans lived during ancient times.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그곳은 많은 외국 방문객들에게 매우 유명한 관광지 입니다.",
+      "text": "방문할만한 매우 흥미 있는 한 장소는 한국민속촌은 수도인 서울에서 그다지 멀지 않은 경기도 수원시에 위치해 있습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "방문할 만한 매우 흥미있는 한 장소는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "방문할 만한 매우 흥미있는 한 장소는One very interesting place to visit",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 민속촌 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 민속촌 입니다. is the Korean Folk Village",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/수원도시 근처에 위치한",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/수원도시 근처에 위치한 located near the city of Suwon",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/경기도에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/경기도에in Gyoung-gi Province,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/수도 서울에서 그리 멀지 않은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/수도 서울에서 그리 멀지 않은 not far from the capital of Seoul.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "당신이 그곳을 방문할 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "당신이 그곳을 방문할 때When you visit there,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 당신은 볼 수 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 당신은 볼 수 있습니다. you can witness",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 전통 결혼식을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 전통 결혼식을 a traditional wedding ceremony,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다양한 전통음식들을 맛볼 수 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다양한 전통음식들을 맛볼 수 있습니다. taste a variety of traditional foods,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 당신은 관찰할 수 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 당신은 관찰할 수 있습니다. and you can observe",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떻게 한국인들이 살았는지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떻게 한국인들이 살았는지 how Koreans lived",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 고대시대 동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 고대시대 동안 during ancient times.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 곳은 매우 유명한 관광지 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 곳은 매우 유명한 관광지 입니다.It is a very popular attraction",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 외국인 방문객들에게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 외국인 방문객들에게 for many foreign visitors.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Famous Places :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Korea Folk Village",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s20-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s20-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "방문할 만한 매우 흥미있는 한 장소는",
+      "en": "One very interesting place to visit"
+    },
+    {
+      "ko": "한국 민속촌 입니다.",
+      "en": "is the Korean Folk Village"
+    },
+    {
+      "ko": "수원도시 근처에 위치한",
+      "en": "located near the city of Suwon"
+    },
+    {
+      "ko": "경기도에",
+      "en": "in Gyoung-gi Province,"
+    },
+    {
+      "ko": "수도 서울에서 그리 멀지 않은",
+      "en": "not far from the capital of Seoul."
+    },
+    {
+      "ko": "당신이 그곳을 방문할 때",
+      "en": "When you visit there,"
+    },
+    {
+      "ko": "당신은 볼 수 있습니다.",
+      "en": "you can witness"
+    },
+    {
+      "ko": "전통 결혼식을",
+      "en": "a traditional wedding ceremony,"
+    },
+    {
+      "ko": "다양한 전통음식들을 맛볼 수 있습니다.",
+      "en": "taste a variety of traditional foods,"
+    },
+    {
+      "ko": "그리고 당신은 관찰할 수 있습니다.",
+      "en": "and you can observe"
+    },
+    {
+      "ko": "어떻게 한국인들이 살았는지",
+      "en": "how Koreans lived"
+    },
+    {
+      "ko": "고대시대 동안",
+      "en": "during ancient times."
+    },
+    {
+      "ko": "그 곳은 매우 유명한 관광지 입니다.",
+      "en": "It is a very popular attraction"
+    },
+    {
+      "ko": "많은 외국인 방문객들에게",
+      "en": "for many foreign visitors."
+    }
   ]
 }

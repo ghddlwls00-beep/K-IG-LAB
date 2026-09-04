@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s7-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Introducing Academies (다니는 학원 소개)",
+  "label": "Chapter 7. At the Academy (학원 생활)",
+  "menuLabel": "7-1. Introducing Academies",
   "unit": 7,
   "part": 1,
   "order": 36,
@@ -115,63 +115,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I go to a piano academy, English academy, and art academy near my home.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 7. At the Academy (학원 생활) - Introducing Academies (다니는 학원 소개)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I go to a piano academy, English academy, and art academy near my home."
+        },
+        {
+          "n": "2",
+          "text": "Some of my other friends go to more academies than I do, so they are very busy every day."
+        },
+        {
+          "n": "3",
+          "text": "They have very little time to play with me during the week."
+        },
+        {
+          "n": "4",
+          "text": "There are many academies that teach different subjects."
+        },
+        {
+          "n": "5",
+          "text": "After school, most of my friends and I go to academies."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Some of my other friends go to more academies than I do, so they are very busy every day.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "They have very little time to play with me during the week.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "There are many academies that teach different subjects.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After school, most of my friends and I go to academies.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 거의 시간이 없다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 거의 시간이 없다.They have very little time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나와 함께 놀",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나와 함께 놀to play with me",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 주중에는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 주중에는during the week.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "학교를 마친 후에, 대부분의 친구들과 나는 학원에 갑니다.",
+      "text": "나는 집 근처에 있는 피아노 학원, 영어 학원, 그리고 미술 학원을 갑니다.",
       "lang": "ko"
     },
     {
@@ -181,7 +155,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 집 근처에 있는 피아노 학원, 영어 학원, 그리고 미술 학원을 갑니다.",
+      "text": "그들은 주중에 나와 함께 놀 시간이 아주 작습니다.",
       "lang": "ko"
     },
     {
@@ -191,163 +165,71 @@
     },
     {
       "type": "paragraph",
-      "text": "그들은 주중에 나와 함께 놀 시간이 아주 작습니다.",
+      "text": "학교를 마친 후에, 대부분의 친구들과 나는 학원에 갑니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "학교를 마친 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "학교를 마친 후에After school,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 대부분의 친구들과 나는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 대부분의 친구들과 나는 most of my friends and I",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학원에 간다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학원에 간다.go to academies.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 학원들이 있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 학원들이 있다.There are many academies",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 과목들을 가르치는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 과목들을 가르치는that teach different subjects.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다닌다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다닌다. I go to",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/피아노 학원, 영어학원, 그리고 미술학원을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/피아노 학원, 영어학원, 그리고 미술학원을a piano academy, English academy, and art academy",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 집 근처에 있는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 집 근처에 있는 near my home.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 친구들 중 몇몇은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 친구들 중 몇몇은Some of my other friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 다니는 것보다 더 많이 다닌다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 다니는 것보다 더 많이 다닌다. go to more academies than I do,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 그들은 매일 매우 바쁘다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 그들은 매일 매우 바쁘다. so they are very busy every day.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "At the Academy :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Introducing Academies",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s7-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s7-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "그들은 거의 시간이 없다.",
+      "en": "They have very little time"
+    },
+    {
+      "ko": "나와 함께 놀",
+      "en": "to play with me"
+    },
+    {
+      "ko": "주중에는",
+      "en": "during the week."
+    },
+    {
+      "ko": "학교를 마친 후에",
+      "en": "After school,"
+    },
+    {
+      "ko": "대부분의 친구들과 나는",
+      "en": "most of my friends and I"
+    },
+    {
+      "ko": "학원에 간다.",
+      "en": "go to academies."
+    },
+    {
+      "ko": "많은 학원들이 있다.",
+      "en": "There are many academies"
+    },
+    {
+      "ko": "다른 과목들을 가르치는",
+      "en": "that teach different subjects."
+    },
+    {
+      "ko": "나는 다닌다.",
+      "en": "I go to"
+    },
+    {
+      "ko": "피아노 학원, 영어학원, 그리고 미술학원을",
+      "en": "a piano academy, English academy, and art academy"
+    },
+    {
+      "ko": "나의 집 근처에 있는",
+      "en": "near my home."
+    },
+    {
+      "ko": "나의 친구들 중 몇몇은",
+      "en": "Some of my other friends"
+    },
+    {
+      "ko": "내가 다니는 것보다 더 많이 다닌다.",
+      "en": "go to more academies than I do,"
+    },
+    {
+      "ko": "그래서 그들은 매일 매우 바쁘다.",
+      "en": "so they are very busy every day."
+    }
   ]
 }

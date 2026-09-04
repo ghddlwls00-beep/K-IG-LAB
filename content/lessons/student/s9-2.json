@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s9-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "What I Do in the Afternoon (나의 오후 일과)",
+  "label": "Chapter 9. What Do I Do Every Day? (나의 하루 일과)",
+  "menuLabel": "9-2. What I Do in the Afternoon",
   "unit": 9,
   "part": 2,
   "order": 44,
@@ -150,44 +150,41 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I finish my classes at 3:00 p.m.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 9. What Do I Do Every Day? (나의 하루 일과) - What I Do in the Afternoon (나의 오후 일과)"
     },
     {
-      "type": "paragraph",
-      "text": "After school, I go to private academies where I study Art, Piano and English.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Each academy lesson lasts around fifty minutes.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After lunch, I have two more classes.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After my last academy class, I get home at around 6:00 p.m.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I have lunch at 12:30 p.m.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sometimes I get very tired when I’m at the academies, but I enjoy studying with my friends there.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I finish my classes at 3:00 p.m."
+        },
+        {
+          "n": "2",
+          "text": "After school, I go to private academies where I study Art, Piano and English."
+        },
+        {
+          "n": "3",
+          "text": "Each academy lesson lasts around fifty minutes."
+        },
+        {
+          "n": "4",
+          "text": "After lunch, I have two more classes."
+        },
+        {
+          "n": "5",
+          "text": "After my last academy class, I get home at around 6:00 p.m."
+        },
+        {
+          "n": "6",
+          "text": "I have lunch at 12:30 p.m."
+        },
+        {
+          "n": "7",
+          "text": "Sometimes I get very tired when I’m at the academies, but I enjoy studying with my friends there."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -201,17 +198,12 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 3시에 나의 수업들을 마칩니다.",
+      "text": "각각의 학원 수업은 약 50분간 지속됩니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "방과 후, 나는 미술, 피아노, 영어를 공부하는 사설 학원들로 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "각각의 학원 수업은 약 50분간 지속됩니다.",
       "lang": "ko"
     },
     {
@@ -226,233 +218,75 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 점심을 먹는다.",
+      "text": "나는 3시에 나의 수업들을 마칩니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 점심을 먹는다.I have lunch",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 12:30분에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 12:30분에at 12:30 p.m.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "점심식사 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "점심식사 후에After lunch,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 두개 이상의 수업을 가지고 있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 두개 이상의 수업을 가지고 있다.I have two more classes.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 내 수업을 마친다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 내 수업을 마친다.I finish my classes",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 3:00에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 3:00에at 3:00 p.m.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "방과후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "방과후에After school,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 학원에 간다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 학원에 간다.I go to private academies",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 그 곳에서 공부한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 그 곳에서 공부한다. where I study",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/미술, 피아노, 그리고 영어를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/미술, 피아노, 그리고 영어를 Art, Piano and English.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "각각의 학원수업은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "각각의 학원수업은Each academy lesson",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 50분간 지속된다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 50분간 지속된다.lasts around fifty minutes.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 나는 매우 피곤하다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 나는 매우 피곤하다.Sometimes I get very tired",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 학원에 있을 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 학원에 있을 때 when I'm at the academies,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그러나 나는 공부하는 것을 즐긴다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그러나 나는 공부하는 것을 즐긴다. but I enjoy studying",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 친구들과 그곳에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 친구들과 그곳에서 with my friends there.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내 마지막 학원 수업 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내 마지막 학원 수업 후에After my last academy class,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 집에 도착한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 집에 도착한다. I get home",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 6:00 경에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 6:00 경에 at around 6:00 p.m.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do Every Day? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "What do I do in the afternoon?",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s9-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s9-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 점심을 먹는다.",
+      "en": "I have lunch"
+    },
+    {
+      "ko": "점심식사 후에",
+      "en": "After lunch,"
+    },
+    {
+      "ko": "나는 두개 이상의 수업을 가지고 있다.",
+      "en": "I have two more classes."
+    },
+    {
+      "ko": "나는 내 수업을 마친다.",
+      "en": "I finish my classes"
+    },
+    {
+      "ko": "방과후에",
+      "en": "After school,"
+    },
+    {
+      "ko": "나는 학원에 간다.",
+      "en": "I go to private academies"
+    },
+    {
+      "ko": "나는 그 곳에서 공부한다.",
+      "en": "where I study"
+    },
+    {
+      "ko": "미술, 피아노, 그리고 영어를",
+      "en": "Art, Piano and English."
+    },
+    {
+      "ko": "각각의 학원수업은",
+      "en": "Each academy lesson"
+    },
+    {
+      "ko": "때때로 나는 매우 피곤하다.",
+      "en": "Sometimes I get very tired"
+    },
+    {
+      "ko": "내가 학원에 있을 때",
+      "en": "when I'm at the academies,"
+    },
+    {
+      "ko": "그러나 나는 공부하는 것을 즐긴다.",
+      "en": "but I enjoy studying"
+    },
+    {
+      "ko": "나의 친구들과 그곳에서",
+      "en": "with my friends there."
+    },
+    {
+      "ko": "내 마지막 학원 수업 후에",
+      "en": "After my last academy class,"
+    },
+    {
+      "ko": "나는 집에 도착한다.",
+      "en": "I get home"
+    }
   ]
 }

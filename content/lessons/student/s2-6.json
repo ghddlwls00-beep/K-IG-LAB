@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s2-6",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Sister's Hobby (자매의 취미)",
+  "label": "Chapter 2. Family Introduction (가족 소개)",
+  "menuLabel": "2-6. Sister's Hobby",
   "unit": 2,
   "part": 6,
   "order": 13,
@@ -125,44 +125,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "She also loves to listen to music and talk to her friends on the phone.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 2. Family Introduction (가족 소개) - Sister's Hobby (자매의 취미)"
     },
     {
-      "type": "paragraph",
-      "text": "She is more talkative than my mother.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My family is always happy, and we are very close to one another, which helps me really understand the importance of family.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "In fact, she has a dog.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My sister likes all kinds of animals.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 여동생은 모든 종류의 동물을 좋아합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "사실상 그녀는 개를 한 마리 가지고 있습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "She also loves to listen to music and talk to her friends on the phone."
+        },
+        {
+          "n": "2",
+          "text": "She is more talkative than my mother."
+        },
+        {
+          "n": "3",
+          "text": "My family is always happy, and we are very close to one another, which helps me really understand the importance of family."
+        },
+        {
+          "n": "4",
+          "text": "In fact, she has a dog."
+        },
+        {
+          "n": "5",
+          "text": "My sister likes all kinds of animals."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -181,203 +170,84 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 여동생은 좋아합니다.",
+      "text": "사실상 그녀는 개를 한 마리 가지고 있습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나의 여동생은 좋아합니다.My sister likes",
+      "text": "나의 여동생은 모든 종류의 동물을 좋아합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 종류의 동물들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 종류의 동물들을 all kinds of animals.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "사실",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "사실In fact,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그녀는 개를 가지고 있습니다 .",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그녀는 개를 가지고 있습니다 . she has a dog.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀 또한 사랑합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀 또한 사랑합니다.She also loves",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 음악듣기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 음악듣기를to listen to music",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 친구와 이야기 하기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 친구와 이야기 하기를and talk to her friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 전화상으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 전화상으로on the phone.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀는 더 수다스럽습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀는 더 수다스럽습니다.She is more talkative",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니보다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니보다 than my mother.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족은 항상 행복합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족은 항상 행복합니다.My family is always happy,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리는 매우 가깝습니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리는 매우 가깝습니다. and we are very close",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 서로서로에게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 서로서로에게to one another,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 나를 돕습니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 나를 돕습니다 which helps me",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 정말로 이해하도록",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 정말로 이해하도록 really understand",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가족의 중요성을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가족의 중요성을 the importance of family.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Family Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Sister’s Hobby",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s2-6.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s2-6.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 여동생은 좋아합니다.",
+      "en": "My sister likes"
+    },
+    {
+      "ko": "모든 종류의 동물들을",
+      "en": "all kinds of animals."
+    },
+    {
+      "ko": "사실",
+      "en": "In fact,"
+    },
+    {
+      "ko": "그녀는 개를 가지고 있습니다 .",
+      "en": "she has a dog."
+    },
+    {
+      "ko": "그녀 또한 사랑합니다.",
+      "en": "She also loves"
+    },
+    {
+      "ko": "음악듣기를",
+      "en": "to listen to music"
+    },
+    {
+      "ko": "그리고 친구와 이야기 하기를",
+      "en": "and talk to her friends"
+    },
+    {
+      "ko": "전화상으로",
+      "en": "on the phone."
+    },
+    {
+      "ko": "그녀는 더 수다스럽습니다.",
+      "en": "She is more talkative"
+    },
+    {
+      "ko": "나의 어머니보다",
+      "en": "than my mother."
+    },
+    {
+      "ko": "나의 가족은 항상 행복합니다.",
+      "en": "My family is always happy,"
+    },
+    {
+      "ko": "그리고 우리는 매우 가깝습니다.",
+      "en": "and we are very close"
+    },
+    {
+      "ko": "서로서로에게",
+      "en": "to one another,"
+    },
+    {
+      "ko": "그것은 나를 돕습니다",
+      "en": "which helps me"
+    },
+    {
+      "ko": "정말로 이해하도록",
+      "en": "really understand"
+    },
+    {
+      "ko": "가족의 중요성을",
+      "en": "the importance of family."
+    }
   ]
 }

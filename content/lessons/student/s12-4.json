@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s12-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Dream Vacation (내가 꿈꾸는 방학 여행)",
+  "label": "Chapter 12. What I Do During School Vacations (방학 생활)",
+  "menuLabel": "12-4. My Dream Vacation",
   "unit": 12,
   "part": 4,
   "order": 58,
@@ -130,48 +130,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I have been learning English for three years from my private academy teacher.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 12. What I Do During School Vacations (방학 생활) - My Dream Vacation (내가 꿈꾸는 방학 여행)"
     },
     {
-      "type": "paragraph",
-      "text": "He is Canadian and has been telling us a lot about Canada.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I would love to go there sometime in the future so that I can use all of the English I have learned.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My dream vacation is to travel abroad to an English-speaking country.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Many of my friends have been overseas on vacations.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I have been learning English for three years from my private academy teacher."
+        },
+        {
+          "n": "2",
+          "text": "He is Canadian and has been telling us a lot about Canada."
+        },
+        {
+          "n": "3",
+          "text": "I would love to go there sometime in the future so that I can use all of the English I have learned."
+        },
+        {
+          "n": "4",
+          "text": "My dream vacation is to travel abroad to an English-speaking country."
+        },
+        {
+          "n": "5",
+          "text": "Many of my friends have been overseas on vacations."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "나의 친구들 중 많은 아이들이 방학 때 외국으로 나가 본적이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 꿈꾸는 방학은 영어를 사용하는 국가로 해외여행 하는 것 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 3년간 사설학원선생님으로부터 영어를 공부해 왔습니다.",
       "lang": "ko"
     },
     {
@@ -186,213 +175,84 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 친구들 중 많은 아이들이",
+      "text": "나는 3년간 사설학원선생님으로부터 영어를 공부해 왔습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나의 친구들 중 많은 아이들이Many of my friends",
+      "text": "내가 꿈꾸는 방학은 영어를 사용하는 국가로 해외여행 하는 것 입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해외가 본적이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해외가 본적이 있습니다. have been overseas",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 휴가로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 휴가로 on vacations.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 꿈의 방학은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 꿈의 방학은My dream vacation is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해외로 여행가는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해외로 여행가는 것입니다. to travel abroad",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어를 사용하는 나라로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어를 사용하는 나라로to an English-speaking country.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 영어를 배워 왔습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 영어를 배워 왔습니다.I have been learning English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/3년동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/3년동안 for three years",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 사설학원 선생님으로 부터",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 사설학원 선생님으로 부터 from my private academy teacher.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 캐나다인입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 캐나다인입니다.He is Canadian",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리에게 많이 이야기 해주셨습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리에게 많이 이야기 해주셨습니다. and has been telling us a lot",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 캐나다에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 캐나다에 관해 about Canada.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 그곳에 가고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 그곳에 가고 싶습니다.I would love to go there",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 미래에 언젠가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 미래에 언젠가 sometime in the future",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 사용할 수 있기 위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 사용할 수 있기 위해 so that I can use",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 영어를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 모든 영어를 all of the English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 배워왔던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 배워왔던 I have learned.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What I Do During School Vacations :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Dream Vacation",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s12-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s12-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 친구들 중 많은 아이들이",
+      "en": "Many of my friends"
+    },
+    {
+      "ko": "해외가 본적이 있습니다.",
+      "en": "have been overseas"
+    },
+    {
+      "ko": "휴가로",
+      "en": "on vacations."
+    },
+    {
+      "ko": "나의 꿈의 방학은",
+      "en": "My dream vacation is"
+    },
+    {
+      "ko": "해외로 여행가는 것입니다.",
+      "en": "to travel abroad"
+    },
+    {
+      "ko": "영어를 사용하는 나라로",
+      "en": "to an English-speaking country."
+    },
+    {
+      "ko": "나는 영어를 배워 왔습니다.",
+      "en": "I have been learning English"
+    },
+    {
+      "ko": "나의 사설학원 선생님으로 부터",
+      "en": "from my private academy teacher."
+    },
+    {
+      "ko": "그는 캐나다인입니다.",
+      "en": "He is Canadian"
+    },
+    {
+      "ko": "그리고 우리에게 많이 이야기 해주셨습니다.",
+      "en": "and has been telling us a lot"
+    },
+    {
+      "ko": "캐나다에 관해",
+      "en": "about Canada."
+    },
+    {
+      "ko": "나는 그곳에 가고 싶습니다.",
+      "en": "I would love to go there"
+    },
+    {
+      "ko": "미래에 언젠가",
+      "en": "sometime in the future"
+    },
+    {
+      "ko": "내가 사용할 수 있기 위해",
+      "en": "so that I can use"
+    },
+    {
+      "ko": "모든 영어를",
+      "en": "all of the English"
+    },
+    {
+      "ko": "내가 배워왔던",
+      "en": "I have learned."
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s18-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Introduction to Korean Holidays (한국의 명절 소개)",
+  "label": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절)",
+  "menuLabel": "18-1. Introduction to Korean Holidays",
   "unit": 18,
   "part": 1,
   "order": 75,
@@ -105,143 +105,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "We celebrate Lunar New Year’s, Independence Day, Arbor Day, Buddha’s Birthday and many more.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 18. Traditional Korean Holidays (한국의 전통 명절) - Introduction to Korean Holidays (한국의 명절 소개)"
     },
     {
-      "type": "paragraph",
-      "text": "I would like to tell you about the two largest traditional holidays in Korea.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Holidays are a special time when families can get together and celebrate.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My country has many traditional holidays.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라는 많은 국경일들이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "공휴일들은 가족들이 함께 모일 수 있고 기념할 수 있는 특별한 시간입니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "We celebrate Lunar New Year’s, Independence Day, Arbor Day, Buddha’s Birthday and many more."
+        },
+        {
+          "n": "2",
+          "text": "I would like to tell you about the two largest traditional holidays in Korea."
+        },
+        {
+          "n": "3",
+          "text": "Holidays are a special time when families can get together and celebrate."
+        },
+        {
+          "n": "4",
+          "text": "My country has many traditional holidays."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "우리는 음력설날, 독립기념일, 식목일, 그리고 석가탄신일 그리고 더 많은 휴일들을 기념합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저는 한국에서 가장 큰 전통 공휴일 두 가지에 대해 이야기 하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라는 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라는 있습니다.My country has",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 전통휴일들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 전통휴일들이 many traditional holidays.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "휴일들은 특별한 시간입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "휴일들은 특별한 시간입니다.Holidays are a special time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/가족들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/가족들이 when families",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/함께 하고 기념할 수 있는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/함께 하고 기념할 수 있는can get together and celebrate.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 기념합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 기념합니다.We celebrate",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 구정(음력 설날)",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 구정(음력 설날) Lunar New Year's,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 독립기념일",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 독립기념일 Independence Day,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 식목일",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 식목일 Arbor Day,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 석가탄신일과 더많은 날들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 석가탄신일과 더많은 날들을 Buddha's Birthday and many more.",
       "lang": "ko"
     },
     {
@@ -251,73 +141,72 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 당신에게 이야기 하고 싶습니다.I would like to tell you",
+      "text": "공휴일들은 가족들이 함께 모일 수 있고 기념할 수 있는 특별한 시간입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/가장 큰 두개의 전통 휴일에 관해",
+      "text": "저는 한국에서 가장 큰 전통 공휴일 두 가지에 대해 이야기 하고 싶습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/가장 큰 두개의 전통 휴일에 관해 about the two largest traditional holidays",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국에서의",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국에서의 in Korea.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Holidays :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Introduction to Korean Holidays",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s18-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s18-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "우리나라는 있습니다.",
+      "en": "My country has"
+    },
+    {
+      "ko": "많은 전통휴일들이",
+      "en": "many traditional holidays."
+    },
+    {
+      "ko": "휴일들은 특별한 시간입니다.",
+      "en": "Holidays are a special time"
+    },
+    {
+      "ko": "가족들이",
+      "en": "when families"
+    },
+    {
+      "ko": "함께 하고 기념할 수 있는",
+      "en": "can get together and celebrate."
+    },
+    {
+      "ko": "우리는 기념합니다.",
+      "en": "We celebrate"
+    },
+    {
+      "ko": "구정(음력 설날)",
+      "en": "Lunar New Year's,"
+    },
+    {
+      "ko": "독립기념일",
+      "en": "Independence Day,"
+    },
+    {
+      "ko": "식목일",
+      "en": "Arbor Day,"
+    },
+    {
+      "ko": "석가탄신일과 더많은 날들을",
+      "en": "Buddha's Birthday and many more."
+    },
+    {
+      "ko": "나는 당신에게 이야기 하고 싶습니다.",
+      "en": "I would like to tell you"
+    },
+    {
+      "ko": "가장 큰 두개의 전통 휴일에 관해",
+      "en": "about the two largest traditional holidays"
+    },
+    {
+      "ko": "한국에서의",
+      "en": "in Korea."
+    }
   ]
 }

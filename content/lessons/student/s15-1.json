@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s15-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "The World Cup Memories (월드컵의 감동)",
+  "label": "Chapter 15. Whom Do I Admire? (Guus Hiddink) (내가 흠모하는 인물 (거스 히딩크))",
+  "menuLabel": "15-1. The World Cup Memories",
   "unit": 15,
   "part": 1,
   "order": 65,
@@ -110,44 +110,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Before the World Cup, soccer was not famous in our country.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 15. Whom Do I Admire? (Guus Hiddink) (내가 흠모하는 인물 (거스 히딩크)) - The World Cup Memories (월드컵의 감동)"
     },
     {
-      "type": "paragraph",
-      "text": "Sports have a way of making new heroes and stars.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I would like to introduce to you one person from the world of Korean soccer that I admire the most.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Our country’s soccer players are not one of the best teams.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "A few years ago our country hosted the 2002 World Cup.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "몇 년 전에 우리나라는 2002월드컵을 개최했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라의 축구선수들은 최고의 팀 중 하나가 아니었습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Before the World Cup, soccer was not famous in our country."
+        },
+        {
+          "n": "2",
+          "text": "Sports have a way of making new heroes and stars."
+        },
+        {
+          "n": "3",
+          "text": "I would like to introduce to you one person from the world of Korean soccer that I admire the most."
+        },
+        {
+          "n": "4",
+          "text": "Our country’s soccer players are not one of the best teams."
+        },
+        {
+          "n": "5",
+          "text": "A few years ago our country hosted the 2002 World Cup."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -166,173 +155,68 @@
     },
     {
       "type": "paragraph",
-      "text": "몇 년 전에",
+      "text": "우리나라의 축구선수들은 최고의 팀 중 하나가 아니었습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "몇 년 전에A few years ago",
+      "text": "몇 년 전에 우리나라는 2002월드컵을 개최했습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는 개최했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는 개최했습니다. our country hosted",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 2002년 월드컵을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 2002년 월드컵을 the 2002 World Cup.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라의 축구 선수들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리나라의 축구 선수들은Our country's soccer players",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 최고의 팀들 중 하나가 아니었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 최고의 팀들 중 하나가 아니었습니다. are not one of the best teams.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "월드컵에 가기 전에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "월드컵에 가기 전에Before the World Cup,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 축구는 유명하지 않았습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 축구는 유명하지 않았습니다. soccer was not famous",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라에서 in our country.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "스포츠는 방법을 가지고 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "스포츠는 방법을 가지고 있습니다.Sports have a way",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 영웅과 스타를 만드는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 영웅과 스타를 만드는 of making new heroes and stars.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 당신에게 소개 하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 당신에게 소개 하고 싶습니다.I would like to introduce to you",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 축구의 세계에서부터 온 한 사람을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 축구의 세계에서부터 온 한 사람을 one person from the world of Korean soccer",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 존경하는 that I admire the most.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Whom Do I Admire? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The World Cup",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s15-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s15-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "몇 년 전에",
+      "en": "A few years ago"
+    },
+    {
+      "ko": "우리나라는 개최했습니다.",
+      "en": "our country hosted"
+    },
+    {
+      "ko": "우리나라의 축구 선수들은",
+      "en": "Our country's soccer players"
+    },
+    {
+      "ko": "최고의 팀들 중 하나가 아니었습니다.",
+      "en": "are not one of the best teams."
+    },
+    {
+      "ko": "월드컵에 가기 전에",
+      "en": "Before the World Cup,"
+    },
+    {
+      "ko": "축구는 유명하지 않았습니다.",
+      "en": "soccer was not famous"
+    },
+    {
+      "ko": "우리나라에서",
+      "en": "in our country."
+    },
+    {
+      "ko": "스포츠는 방법을 가지고 있습니다.",
+      "en": "Sports have a way"
+    },
+    {
+      "ko": "새로운 영웅과 스타를 만드는",
+      "en": "of making new heroes and stars."
+    },
+    {
+      "ko": "나는 당신에게 소개 하고 싶습니다.",
+      "en": "I would like to introduce to you"
+    },
+    {
+      "ko": "한국 축구의 세계에서부터 온 한 사람을",
+      "en": "one person from the world of Korean soccer"
+    },
+    {
+      "ko": "내가 가장 존경하는",
+      "en": "that I admire the most."
+    }
   ]
 }

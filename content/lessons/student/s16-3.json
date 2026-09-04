@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s16-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "How I Will Fulfill My Dream (통역사가 되기 위한 다짐)",
+  "label": "Chapter 16. My Other Dream Job (Interpreter) (또 다른 장래희망 (통역사))",
+  "menuLabel": "16-3. How I Will Fulfill My Dream",
   "unit": 16,
   "part": 3,
   "order": 70,
@@ -155,74 +155,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I will do this by going to an English Academy every day.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 16. My Other Dream Job (Interpreter) (또 다른 장래희망 (통역사)) - How I Will Fulfill My Dream (통역사가 되기 위한 다짐)"
     },
     {
-      "type": "paragraph",
-      "text": "When I grow up, I plan on going abroad to study English in another country so that I can listen and speak like a native speaker of English.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "If I really want to become a great interpreter, I need to work hard at improving English from now on.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "First of all, I will study English everyday, by practicing listening and speaking.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "In order to fulfill my dreams, I have to do many things.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 이것을 할 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 이것을 할 것입니다.I will do this",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어 학원을 감으로써",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영어 학원을 감으로써by going to an English Academy",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일 every day.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 꿈들을 이루기 위해, 나는 많은 것들을 해야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "무엇보다도, 나는 매일 듣기와 말하기 연습을 통해 영어공부를 할 것입니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I will do this by going to an English Academy every day."
+        },
+        {
+          "n": "2",
+          "text": "When I grow up, I plan on going abroad to study English in another country so that I can listen and speak like a native speaker of English."
+        },
+        {
+          "n": "3",
+          "text": "If I really want to become a great interpreter, I need to work hard at improving English from now on."
+        },
+        {
+          "n": "4",
+          "text": "First of all, I will study English everyday, by practicing listening and speaking."
+        },
+        {
+          "n": "5",
+          "text": "In order to fulfill my dreams, I have to do many things."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -236,243 +195,109 @@
     },
     {
       "type": "paragraph",
-      "text": "When I grow up, I plan on going abroad to study English in another countryso that I can listen and speak like a native speaker of English.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "만약 내가 정말로 훌륭한 통역사가 되고 싶다면, 나는 지금부터 영어실력을 향상시키기 위해 열심히 해야만 합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나의 꿈을 이루기 위해서",
+      "text": "무엇보다도, 나는 매일 듣기와 말하기 연습을 통해 영어공부를 할 것입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나의 꿈을 이루기 위해서In order to fulfill my dreams,",
+      "text": "나의 꿈들을 이루기 위해, 나는 많은 것들을 해야만 합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 해야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 해야만 합니다. I have to do",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 것들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 것들을 many things.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "무엇보다도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "무엇보다도First of all,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 영어로 공부할 것입니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 영어로 공부할 것입니다 I will study English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/매일",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/매일everyday,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/듣기와 말하기를 연습함으로써",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/듣기와 말하기를 연습함으로써by practicing listening and speaking.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 성인이 되면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 성인이 되면When I grow up,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 계획합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 계획합니다. I plan on",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/해외로 나갈",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/해외로 나갈 going abroad",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어로 공부하기 위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어로 공부하기 위해 to study English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 나라로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 나라로 in another country",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내가 듣고 말할 수 있기 위해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내가 듣고 말할 수 있기 위해서so that I can listen and speak",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어권 사람처럼",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어권 사람처럼like a native speaker of English.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 정말로 되기를 원한다면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 정말로 되기를 원한다면If I really want to become",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/위대한 통역가가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/위대한 통역가가 a great interpreter,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 열심히 공부할 필요가 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 열심히 공부할 필요가 있습니다. I need to work hard",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어를 향상시키기 위해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/영어를 향상시키기 위해 at improving English",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/지금부터",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/지금부터 from now on.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Other Dream Job :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "How I Will Fulfill My Dream",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s16-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s16-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 이것을 할 것입니다.",
+      "en": "I will do this"
+    },
+    {
+      "ko": "영어 학원을 감으로써",
+      "en": "by going to an English Academy"
+    },
+    {
+      "ko": "매일",
+      "en": "every day."
+    },
+    {
+      "ko": "나의 꿈을 이루기 위해서",
+      "en": "In order to fulfill my dreams,"
+    },
+    {
+      "ko": "나는 해야만 합니다.",
+      "en": "I have to do"
+    },
+    {
+      "ko": "많은 것들을",
+      "en": "many things."
+    },
+    {
+      "ko": "무엇보다도",
+      "en": "First of all,"
+    },
+    {
+      "ko": "나는 영어로 공부할 것입니다",
+      "en": "I will study English"
+    },
+    {
+      "ko": "듣기와 말하기를 연습함으로써",
+      "en": "by practicing listening and speaking."
+    },
+    {
+      "ko": "내가 성인이 되면",
+      "en": "When I grow up,"
+    },
+    {
+      "ko": "나는 계획합니다.",
+      "en": "I plan on"
+    },
+    {
+      "ko": "해외로 나갈",
+      "en": "going abroad"
+    },
+    {
+      "ko": "영어로 공부하기 위해",
+      "en": "to study English"
+    },
+    {
+      "ko": "다른 나라로",
+      "en": "in another country"
+    },
+    {
+      "ko": "내가 듣고 말할 수 있기 위해서",
+      "en": "so that I can listen and speak"
+    },
+    {
+      "ko": "영어권 사람처럼",
+      "en": "like a native speaker of English."
+    },
+    {
+      "ko": "내가 정말로 되기를 원한다면",
+      "en": "If I really want to become"
+    },
+    {
+      "ko": "위대한 통역가가",
+      "en": "a great interpreter,"
+    },
+    {
+      "ko": "나는 열심히 공부할 필요가 있습니다.",
+      "en": "I need to work hard"
+    },
+    {
+      "ko": "영어를 향상시키기 위해",
+      "en": "at improving English"
+    },
+    {
+      "ko": "지금부터",
+      "en": "from now on."
+    }
   ]
 }

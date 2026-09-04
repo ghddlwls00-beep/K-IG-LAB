@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s2-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Family Unit (가족 구성)",
+  "label": "Chapter 2. Family Introduction (가족 소개)",
+  "menuLabel": "2-2. Family Unit",
   "unit": 2,
   "part": 2,
   "order": 9,
@@ -55,19 +55,25 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Someday, I would like to have one more brother or sister.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 2. Family Introduction (가족 소개) - Family Unit (가족 구성)"
     },
     {
-      "type": "paragraph",
-      "text": "There are (4) people in my family: my father, my mother, my sister, and myself.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I have a nice family.",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Someday, I would like to have one more brother or sister."
+        },
+        {
+          "n": "2",
+          "text": "There are (4) people in my family: my father, my mother, my sister, and myself."
+        },
+        {
+          "n": "3",
+          "text": "I have a nice family."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -83,91 +89,25 @@
       "type": "paragraph",
       "text": "언젠가, 저는 남동생이나 여동생이 한 명 더 있으면 좋겠습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족은 4명입니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족은 4명입니다There are (4) people in my family:",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 아버지, 나의 어머니, 나의 누나 그리고 나 자신",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 아버지, 나의 어머니, 나의 누나 그리고 나 자신 my father, my mother, my sister, and myself.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "언젠가 나는 갖고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "언젠가 나는 갖고 싶습니다.Someday, I would like to have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 하나 또는 그이상의 남동생이나 여동생을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 하나 또는 그이상의 남동생이나 여동생을 one more brother or sister.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Family Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Family unit",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s2-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s2-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 아버지, 나의 어머니, 나의 누나 그리고 나 자신",
+      "en": "my father, my mother, my sister, and myself."
+    },
+    {
+      "ko": "언젠가 나는 갖고 싶습니다.",
+      "en": "Someday, I would like to have"
+    },
+    {
+      "ko": "하나 또는 그이상의 남동생이나 여동생을",
+      "en": "one more brother or sister."
+    }
   ]
 }

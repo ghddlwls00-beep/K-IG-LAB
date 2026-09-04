@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s5-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Introducing My Class (우리 반 소개)",
+  "label": "Chapter 5. Getting Ready for School / At School (학교 갈 준비 및 학교생활)",
+  "menuLabel": "5-4. Introducing My Class",
   "unit": 5,
   "part": 4,
   "order": 30,
@@ -120,84 +120,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Sometimes I hide my hands under my desk because I am afraid of what my teacher will say.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 5. Getting Ready for School / At School (학교 갈 준비 및 학교생활) - Introducing My Class (우리 반 소개)"
     },
     {
-      "type": "paragraph",
-      "text": "Like most other students, my favorite subject is P.E., and the class I dislikethe most is history.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "When I don’t do my homework, I get so nervous and feel like I have butterflies in my stomach.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "When class starts at 9:00, our teacher checks our homework and our journals that we put on his desk.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 숙제를 하지 않았을 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 숙제를 하지 않았을 때When I don't do my homework,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 매우 초조해진다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 매우 초조해진다. I get so nervous",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대부분의 다른 학생들처럼",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대부분의 다른 학생들처럼Like most other students,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 좋아하는 과목은 체육이다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 좋아하는 과목은 체육이다. my favorite subject is P.E.,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 내가 가장 싫어하는 과목은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 내가 가장 싫어하는 과목은 and the class I dislike the most",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/역사이다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/역사이다. is history.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Sometimes I hide my hands under my desk because I am afraid of what my teacher will say."
+        },
+        {
+          "n": "2",
+          "text": "Like most other students, my favorite subject is P.E., and the class I dislikethe most is history."
+        },
+        {
+          "n": "3",
+          "text": "When I don’t do my homework, I get so nervous and feel like I have butterflies in my stomach."
+        },
+        {
+          "n": "4",
+          "text": "When class starts at 9:00, our teacher checks our homework and our journals that we put on his desk."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -206,8 +151,8 @@
     },
     {
       "type": "paragraph",
-      "text": "When class starts at 9:00, our teacher checks our homework and our journalsthat we put on his desk.",
-      "lang": "en"
+      "text": "대부분의 다른 학생들처럼 제가 가장 좋아하는 과목은 체육 이고 제가 가장 싫어하는 수업은 역사입니다.",
+      "lang": "ko"
     },
     {
       "type": "paragraph",
@@ -218,161 +163,73 @@
       "type": "paragraph",
       "text": "때때로 나의 선생님이 말씀할 것이 두려워서 나는 나의 손을 저의 책상아래에 숨깁니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "대부분의 다른 학생들처럼 제가 가장 좋아하는 과목은 체육 이고 제가 가장 싫어하는 수업은 역사입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Like most other students, my favorite subject is P.E., and the class I dislike the most is history.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "9:00시에 수업이 시작할 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "9:00시에 수업이 시작할 때 When class starts at 9:00,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리 선생님께서 검사하신다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리 선생님께서 검사하신다. our teacher checks",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 숙제와 일기들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 숙제와 일기들을 our homework and our journals",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 그의 책상위에 올려 두었던",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 그의 책상위에 올려 두었던 that we put on his desk.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 느껴진다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 느껴진다. and feel like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 안절부절 못하는 것처럼",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 안절부절 못하는 것처럼I have butterflies in my stomach.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 나는 나의 손을 숨긴다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 나는 나의 손을 숨긴다.Sometimes I hide my hands",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 책상아래로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 책상아래로 under my desk",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 두렵기 때문이다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 왜냐하면 나는 두렵기 때문이다. because I am afraid of",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 선생님께서 말씀하실 것이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 선생님께서 말씀하실 것이 what my teacher will say.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Getting ready for school/At school :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Introducing My Class",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s5-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s5-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "내가 숙제를 하지 않았을 때",
+      "en": "When I don't do my homework,"
+    },
+    {
+      "ko": "나는 매우 초조해진다.",
+      "en": "I get so nervous"
+    },
+    {
+      "ko": "대부분의 다른 학생들처럼",
+      "en": "Like most other students,"
+    },
+    {
+      "ko": "내가 가장 좋아하는 과목은 체육이다.",
+      "en": "my favorite subject is P.E.,"
+    },
+    {
+      "ko": "그리고 내가 가장 싫어하는 과목은",
+      "en": "and the class I dislike the most"
+    },
+    {
+      "ko": "역사이다.",
+      "en": "is history."
+    },
+    {
+      "ko": "우리 선생님께서 검사하신다.",
+      "en": "our teacher checks"
+    },
+    {
+      "ko": "우리의 숙제와 일기들을",
+      "en": "our homework and our journals"
+    },
+    {
+      "ko": "우리가 그의 책상위에 올려 두었던",
+      "en": "that we put on his desk."
+    },
+    {
+      "ko": "그리고 느껴진다.",
+      "en": "and feel like"
+    },
+    {
+      "ko": "안절부절 못하는 것처럼",
+      "en": "I have butterflies in my stomach."
+    },
+    {
+      "ko": "때때로 나는 나의 손을 숨긴다.",
+      "en": "Sometimes I hide my hands"
+    },
+    {
+      "ko": "책상아래로",
+      "en": "under my desk"
+    },
+    {
+      "ko": "왜냐하면 나는 두렵기 때문이다.",
+      "en": "because I am afraid of"
+    },
+    {
+      "ko": "나의 선생님께서 말씀하실 것이",
+      "en": "what my teacher will say."
+    }
   ]
 }

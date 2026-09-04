@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s2-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Life at My House (우리 집의 일상)",
+  "label": "Chapter 2. Family Introduction (가족 소개)",
+  "menuLabel": "2-4. Life at My House",
   "unit": 2,
   "part": 4,
   "order": 11,
@@ -130,44 +130,49 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "They always have been a good example for us.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 2. Family Introduction (가족 소개) - Life at My House (우리 집의 일상)"
     },
     {
-      "type": "paragraph",
-      "text": "My father is always helpful around the house.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "He often goes shopping with my mother.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My parents love each other.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My parents always make my sister and I feel important and special.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 집안일을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 집안일을 around the house.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "They always have been a good example for us."
+        },
+        {
+          "n": "2",
+          "text": "My father is always helpful around the house."
+        },
+        {
+          "n": "3",
+          "text": "He often goes shopping with my mother."
+        },
+        {
+          "n": "4",
+          "text": "My parents love each other."
+        },
+        {
+          "n": "5",
+          "text": "My parents always make my sister and I feel important and special."
+        },
+        {
+          "n": "6",
+          "text": "I look up to him."
+        },
+        {
+          "n": "7",
+          "text": "My mother is a very good cook, and is still a beautiful woman."
+        },
+        {
+          "n": "8",
+          "text": "She looks younger than her age."
+        },
+        {
+          "n": "9",
+          "text": "I love my mother."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -176,17 +181,12 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 부모님들은 서로 사랑하십니다.",
+      "text": "나의 아버지는 항상 집안일을 잘 도와줍니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "나의 부모님은 항상 저희에게 좋은 본보기가 되어줬습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 아버지는 항상 집안일을 잘 도와줍니다.",
       "lang": "ko"
     },
     {
@@ -201,117 +201,7 @@
     },
     {
       "type": "paragraph",
-      "text": "I look up to him.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "나의 어머니는 훌륭한 요리사 이시고 여전히 아름다운 여성 이십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My mother is a very good cook, and is still a beautiful woman.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀는 그녀의 나이보다 어려 보이십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "She looks younger than her age.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "저는 저의 어머니를 사랑합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I love my mother.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 부모님은 항상 만드십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 부모님은 항상 만드십니다.My parents always make",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 누이와 내가",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 누이와 내가 my sister and I",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 중요하고 특별하게 느끼게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 중요하고 특별하게 느끼게 feel important and special.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 항상 되어주셨습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 항상 되어주셨습니다.They always have been",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리에게 좋은 모범이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리에게 좋은 모범이 a good example for us.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 아버지는 항상 잘 도와주십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 아버지는 항상 잘 도와주십니다.My father is always helpful",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 자주 쇼핑을 가십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 자주 쇼핑을 가십니다.He often goes shopping",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니와 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 어머니와 함께 with my mother.",
       "lang": "ko"
     },
     {
@@ -321,78 +211,72 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 어머니는 훌륭한 요리사 이고My mother is a very good cook,",
+      "text": "그녀는 그녀의 나이보다 어려 보이십니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 여전히 아름다운 여성입니다.",
+      "text": "저는 저의 어머니를 사랑합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 여전히 아름다운 여성입니다. and is still a beautiful woman.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀는 더 젊어 보이십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그녀는 더 젊어 보이십니다.She looks younger",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그녀의 나이보다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그녀의 나이보다 than her age.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Family Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Life at my House",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s2-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s2-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "집안일을",
+      "en": "around the house."
+    },
+    {
+      "ko": "나의 부모님은 항상 만드십니다.",
+      "en": "My parents always make"
+    },
+    {
+      "ko": "나의 누이와 내가",
+      "en": "my sister and I"
+    },
+    {
+      "ko": "중요하고 특별하게 느끼게",
+      "en": "feel important and special."
+    },
+    {
+      "ko": "그들은 항상 되어주셨습니다.",
+      "en": "They always have been"
+    },
+    {
+      "ko": "우리에게 좋은 모범이",
+      "en": "a good example for us."
+    },
+    {
+      "ko": "나의 아버지는 항상 잘 도와주십니다.",
+      "en": "My father is always helpful"
+    },
+    {
+      "ko": "그는 자주 쇼핑을 가십니다.",
+      "en": "He often goes shopping"
+    },
+    {
+      "ko": "나의 어머니와 함께",
+      "en": "with my mother."
+    },
+    {
+      "ko": "나의 어머니는 훌륭한 요리사 이고",
+      "en": "My mother is a very good cook,"
+    },
+    {
+      "ko": "여전히 아름다운 여성입니다.",
+      "en": "and is still a beautiful woman."
+    },
+    {
+      "ko": "그녀는 더 젊어 보이십니다.",
+      "en": "She looks younger"
+    },
+    {
+      "ko": "그녀의 나이보다",
+      "en": "than her age."
+    }
   ]
 }

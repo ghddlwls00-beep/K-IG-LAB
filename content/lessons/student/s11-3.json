@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s11-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Sunday Morning & Church (일요일 아침과 교회)",
+  "label": "Chapter 11. What Do I Do during the Weekends? (주말 일과)",
+  "menuLabel": "11-3. Sunday Morning & Church",
   "unit": 11,
   "part": 3,
   "order": 53,
@@ -205,54 +205,49 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "We go to church every Sunday.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 11. What Do I Do during the Weekends? (주말 일과) - Sunday Morning & Church (일요일 아침과 교회)"
     },
     {
-      "type": "paragraph",
-      "text": "I also have many friends at church.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Others believe in Buddha.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "On Sundays, some people either like to go shopping with friends or spend their time watching T.V. or playing computer games.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sometimes if I have a test coming up the following week, I have to study all weekend long.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My family and I are Christians.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Others go on trips with their families to the countryside, seaside, or amusement park.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "There are many religions in Korea.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Buddhists usually just go on special days of the year to the temple.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "We go to church every Sunday."
+        },
+        {
+          "n": "2",
+          "text": "I also have many friends at church."
+        },
+        {
+          "n": "3",
+          "text": "Others believe in Buddha."
+        },
+        {
+          "n": "4",
+          "text": "On Sundays, some people either like to go shopping with friends or spend their time watching T.V. or playing computer games."
+        },
+        {
+          "n": "5",
+          "text": "Sometimes if I have a test coming up the following week, I have to study all weekend long."
+        },
+        {
+          "n": "6",
+          "text": "My family and I are Christians."
+        },
+        {
+          "n": "7",
+          "text": "Others go on trips with their families to the countryside, seaside, or amusement park."
+        },
+        {
+          "n": "8",
+          "text": "There are many religions in Korea."
+        },
+        {
+          "n": "9",
+          "text": "Buddhists usually just go on special days of the year to the temple."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -261,7 +256,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 가족과 나는 기독교인입니다.",
+      "text": "나는 또한 많은 친구들을 가집니다.",
       "lang": "ko"
     },
     {
@@ -276,12 +271,12 @@
     },
     {
       "type": "paragraph",
-      "text": "다른 사람들은 불교를 믿습니다.",
+      "text": "때때로 나에게 다음주에 다가오는 시험이 있으면, 나는 주말 내내 공부를 해야만 합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "불교를 믿는 사람들은 단지 그 해의 특별한 날들에만 절에 갑니다.",
+      "text": "나의 가족과 나는 기독교인입니다.",
       "lang": "ko"
     },
     {
@@ -291,338 +286,132 @@
     },
     {
       "type": "paragraph",
-      "text": "일요일에, 몇몇의 사람들은 친구들과 함께 쇼핑을 가거나 또는 TV를 보거나 컴퓨터게임을 하면서 그들의 시간을 보냅니다.",
+      "text": "다른 사람들은 불교를 믿습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "On Sundays, some people either like to go shopping with friends or spendtheir time watching T.V. or playing computer games.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로 나에게 다음주에 다가오는 시험이 있으면, 나는 주말 내내 공부를 해야만 합니다.",
+      "text": "불교를 믿는 사람들은 단지 그 해의 특별한 날들에만 절에 갑니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 종교들이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 종교들이 있습니다.There are many religions",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국에는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국에는 in Korea.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족과 나는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가족과 나는My family and I",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 기독교인들입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 기독교인들입니다. are Christians.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 교회에 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 교회에 갑니다.We go to church",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매주 일요일",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매주 일요일 every Sunday.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 또한 많은 친구들을 가집니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 또한 많은 친구들을 가집니다.I also have many friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 교회에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 교회에서 at church.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보통 불교신자들은 단지 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보통 불교신자들은 단지 갑니다.Buddhists usually just go",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 해의 특별한 날들에만",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 해의 특별한 날들에만 on special days of the year",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 사원으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 사원으로 to the temple.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "다른 사람들은 여행을 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "다른 사람들은 여행을 갑니다.Others go on trips",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그의 가족들과 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그의 가족들과 함께with their families",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/시골로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/시골로 to the countryside,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해변으로,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 해변으로, seaside,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/또는 놀이공원으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/또는 놀이공원으로 or amusement park.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "일요일마다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "일요일마다On Sundays,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 사람들은 좋아하기도 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 어떤 사람들은 좋아하기도 합니다. some people either like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 친구들과 쇼핑가기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 친구들과 쇼핑가기를 to go shopping with friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 또는 그들의 시간을 보내기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 또는 그들의 시간을 보내기를 or spend their time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ TV를 보거나",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ TV를 보거나 watching T.V.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터 게임을 하면서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 컴퓨터 게임을 하면서 or playing computer games.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "때때로Sometimes",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 만약 내가 가진다면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 만약 내가 가진다면 if I have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다가오는 시험을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다가오는 시험을 a test coming up",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다음주에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다음주에 the following week,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 공부해야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 공부해야만 합니다. I have to study",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 주말 내내",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 주말 내내 all weekend long.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do during the Weekends? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sunday",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s11-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s11-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "일요일에, 몇몇의 사람들은 친구들과 함께 쇼핑을 가거나 또는",
+      "en": "TV를 보거나 컴퓨터게임을 하면서 그들의 시간을 보냅니다."
+    },
+    {
+      "ko": "많은 종교들이 있습니다.",
+      "en": "There are many religions"
+    },
+    {
+      "ko": "한국에는",
+      "en": "in Korea."
+    },
+    {
+      "ko": "나의 가족과 나는",
+      "en": "My family and I"
+    },
+    {
+      "ko": "기독교인들입니다.",
+      "en": "are Christians."
+    },
+    {
+      "ko": "우리는 교회에 갑니다.",
+      "en": "We go to church"
+    },
+    {
+      "ko": "매주 일요일",
+      "en": "every Sunday."
+    },
+    {
+      "ko": "나는 또한 많은 친구들을 가집니다.",
+      "en": "I also have many friends"
+    },
+    {
+      "ko": "교회에서",
+      "en": "at church."
+    },
+    {
+      "ko": "보통 불교신자들은 단지 갑니다.",
+      "en": "Buddhists usually just go"
+    },
+    {
+      "ko": "그 해의 특별한 날들에만",
+      "en": "on special days of the year"
+    },
+    {
+      "ko": "사원으로",
+      "en": "to the temple."
+    },
+    {
+      "ko": "다른 사람들은 여행을 갑니다.",
+      "en": "Others go on trips"
+    },
+    {
+      "ko": "그의 가족들과 함께",
+      "en": "with their families"
+    },
+    {
+      "ko": "시골로",
+      "en": "to the countryside,"
+    },
+    {
+      "ko": "해변으로,",
+      "en": "seaside,"
+    },
+    {
+      "ko": "또는 놀이공원으로",
+      "en": "or amusement park."
+    },
+    {
+      "ko": "일요일마다",
+      "en": "On Sundays,"
+    },
+    {
+      "ko": "어떤 사람들은 좋아하기도 합니다.",
+      "en": "some people either like"
+    },
+    {
+      "ko": "친구들과 쇼핑가기를",
+      "en": "to go shopping with friends"
+    },
+    {
+      "ko": "또는 그들의 시간을 보내기를",
+      "en": "or spend their time"
+    },
+    {
+      "ko": "컴퓨터 게임을 하면서",
+      "en": "or playing computer games."
+    },
+    {
+      "ko": "때때로",
+      "en": "Sometimes"
+    },
+    {
+      "ko": "만약 내가 가진다면",
+      "en": "if I have"
+    },
+    {
+      "ko": "다가오는 시험을",
+      "en": "a test coming up"
+    },
+    {
+      "ko": "다음주에",
+      "en": "the following week,"
+    },
+    {
+      "ko": "나는 공부해야만 합니다.",
+      "en": "I have to study"
+    },
+    {
+      "ko": "주말 내내",
+      "en": "all weekend long."
+    }
   ]
 }

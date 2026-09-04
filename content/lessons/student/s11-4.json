@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s11-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Sunday Afternoon Leisure (일요일 오후의 여가)",
+  "label": "Chapter 11. What Do I Do during the Weekends? (주말 일과)",
+  "menuLabel": "11-4. Sunday Afternoon Leisure",
   "unit": 11,
   "part": 4,
   "order": 54,
@@ -140,43 +140,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I like visiting my relatives on Sunday afternoons.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 11. What Do I Do during the Weekends? (주말 일과) - Sunday Afternoon Leisure (일요일 오후의 여가)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I like visiting my relatives on Sunday afternoons."
+        },
+        {
+          "n": "2",
+          "text": "It’s nice to see how they are doing."
+        },
+        {
+          "n": "3",
+          "text": "I also like to visit the house of my father’s friend because his children are the same age and we always have great fun spending our time together."
+        },
+        {
+          "n": "4",
+          "text": "We sometimes visit our relatives or they come to our house."
+        },
+        {
+          "n": "5",
+          "text": "Our family often visits the house of my father’s friend."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "It’s nice to see how they are doing.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I also like to visit the house of my father’s friend because his children are the same age and we always have great fun spending our time together.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "We sometimes visit our relatives or they come to our house.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Our family often visits the house of my father’s friend.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그의 아이들이 동갑이고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그의 아이들이 동갑이고his children are the same age",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리 가족은 종종 나의 아버지의 친구 집을 방문합니다.",
+      "text": "나는 일요일 오후에 나의 친척들을 방문하는 것을 좋아합니다.",
       "lang": "ko"
     },
     {
@@ -186,7 +180,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 일요일 오후에 나의 친척들을 방문하는 것을 좋아합니다.",
+      "text": "나는 또한 나의 아빠의 친구를 방문하는 것을 좋아하는데 왜냐하면 그의 아이들이 동갑이고 우리는 항상 우리의 시간을 함께 보내면서 아주 재미있게 보냅니다.",
       "lang": "ko"
     },
     {
@@ -196,233 +190,87 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 또한 나의 아빠의 친구를 방문하는 것을 좋아하는데 왜냐하면 그의 아이들이 동갑이고 우리는 항상 우리의 시간을 함께 보내면서 아주 재미있게 보냅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리의 가족은 종종 방문합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리의 가족은 종종 방문합니다.Our family often visits",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 아버지의 친구 집을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 아버지의 친구 집을 the house of my father's friend.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 때때로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 때때로We sometimes",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 친척들을 방문합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 친척들을 방문합니다. visit our relatives",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/또는 그들이 옵니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/또는 그들이 옵니다. or they come",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 집에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 집에to our house.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 방문하기를 좋아합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 방문하기를 좋아합니다.I like visiting",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친척들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 친척들을 my relatives",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일요일 오후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일요일 오후에on Sunday afternoons.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보는 것이 좋습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "보는 것이 좋습니다.It's nice to see",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들이 어떻게 지내는 가를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그들이 어떻게 지내는 가를 how they are doing.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 또한 방문하기를 좋아합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 또한 방문하기를 좋아합니다.I also like to visit",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 아버지의 친구의 집을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/내 아버지의 친구의 집을 the house of my father's friend",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면 because",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리는 항상",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리는 항상 and we always",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/즐거움을 가집니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/즐거움을 가집니다. have great fun",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 시간을 보내면서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리의 시간을 보내면서spending our time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/함께 together.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do during the Weekends? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sunday Afternoon",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s11-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s11-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "그의 아이들이 동갑이고",
+      "en": "his children are the same age"
+    },
+    {
+      "ko": "우리의 가족은 종종 방문합니다.",
+      "en": "Our family often visits"
+    },
+    {
+      "ko": "내 아버지의 친구 집을",
+      "en": "the house of my father's friend."
+    },
+    {
+      "ko": "우리는 때때로",
+      "en": "We sometimes"
+    },
+    {
+      "ko": "우리의 친척들을 방문합니다.",
+      "en": "visit our relatives"
+    },
+    {
+      "ko": "또는 그들이 옵니다.",
+      "en": "or they come"
+    },
+    {
+      "ko": "우리의 집에",
+      "en": "to our house."
+    },
+    {
+      "ko": "나는 방문하기를 좋아합니다.",
+      "en": "I like visiting"
+    },
+    {
+      "ko": "나의 친척들을",
+      "en": "my relatives"
+    },
+    {
+      "ko": "일요일 오후에",
+      "en": "on Sunday afternoons."
+    },
+    {
+      "ko": "보는 것이 좋습니다.",
+      "en": "It's nice to see"
+    },
+    {
+      "ko": "그들이 어떻게 지내는 가를",
+      "en": "how they are doing."
+    },
+    {
+      "ko": "나는 또한 방문하기를 좋아합니다.",
+      "en": "I also like to visit"
+    },
+    {
+      "ko": "왜냐하면",
+      "en": "because"
+    },
+    {
+      "ko": "그리고 우리는 항상",
+      "en": "and we always"
+    },
+    {
+      "ko": "즐거움을 가집니다.",
+      "en": "have great fun"
+    },
+    {
+      "ko": "우리의 시간을 보내면서",
+      "en": "spending our time"
+    },
+    {
+      "ko": "함께",
+      "en": "together."
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s12-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "School Vacations (방학 맞이)",
+  "label": "Chapter 12. What I Do During School Vacations (방학 생활)",
+  "menuLabel": "12-1. School Vacations",
   "unit": 12,
   "part": 1,
   "order": 55,
@@ -150,64 +150,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "One is during the summer and one is during the winter.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 12. What I Do During School Vacations (방학 생활) - School Vacations (방학 맞이)"
     },
     {
-      "type": "paragraph",
-      "text": "Summer vacation begins in July and the winter vacation begins in December.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Even though we don’t go to public school during these vacations, we still go to private academies.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "We have two main school vacations.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I would like to tell you about what I do during my school vacations.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The best part is we have a lot more free time that we spend doing things we like.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 어떤 것들을 할",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 어떤 것들을 할 that we spend doing things",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 좋아하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 좋아하는 we like.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 방학 동안에 무엇을 하는지에 대해 당신에게 말하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 두 개의 주요한 학교 방학을 가지고 있습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "One is during the summer and one is during the winter."
+        },
+        {
+          "n": "2",
+          "text": "Summer vacation begins in July and the winter vacation begins in December."
+        },
+        {
+          "n": "3",
+          "text": "Even though we don’t go to public school during these vacations, we still go to private academies."
+        },
+        {
+          "n": "4",
+          "text": "We have two main school vacations."
+        },
+        {
+          "n": "5",
+          "text": "I would like to tell you about what I do during my school vacations."
+        },
+        {
+          "n": "6",
+          "text": "The best part is we have a lot more free time that we spend doing things we like."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -221,238 +194,102 @@
     },
     {
       "type": "paragraph",
+      "text": "우리는 두 개의 주요한 학교 방학을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
       "text": "비록 이 방학들 동안 우리는 학교는 가지 않지만 우리는 여전히 사설 학원들은 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 방학 동안에 무엇을 하는지에 대해 당신에게 말하고 싶습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "가장 좋은 부분은 우리가 좋아하는 것들을 하면서 보낼 수 있는 많은 자유시간이 있다는 것입니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 당신에게 말하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 당신에게 말하고 싶습니다.I would like to tell you",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 무엇을 하는지에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 무엇을 하는지에 대해 about what I do",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 방학에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 방학에 관해during my school vacations.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 가집니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리는 가집니다.We have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 두개의 중요한 학교 방학들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 두개의 중요한 학교 방학들을 two main school vacations.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "하나는 여름동안이고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "하나는 여름동안이고One is during the summer",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 하나는 겨울동안 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 하나는 겨울동안 입니다. and one is during the winter.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "여름방학은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "여름방학은Summer vacation",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/7월에 시작합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/7월에 시작합니다. begins in July",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 겨울방학은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 겨울방학은and the winter vacation",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/12월에 시작합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/12월에 시작합니다. begins in December.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 가지않는다 할지라도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 가지않는다 할지라도Even though we don't go",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 국립학교에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 국립학교에 to public school",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이 방학동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이 방학동안 during these vacations,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 여전히 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 여전히 갑니다. we still go",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학원에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학원에 to private academies.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가장 좋은 부분은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "가장 좋은 부분은The best part is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 더 많은 자유시간을 가진다는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리가 더 많은 자유시간을 가진다는 것입니다. we have a lot more free time",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What I Do During School Vacations :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Vacations",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s12-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s12-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "우리가 어떤 것들을 할",
+      "en": "that we spend doing things"
+    },
+    {
+      "ko": "우리는 좋아하는",
+      "en": "we like."
+    },
+    {
+      "ko": "나는 당신에게 말하고 싶습니다.",
+      "en": "I would like to tell you"
+    },
+    {
+      "ko": "무엇을 하는지에 대해",
+      "en": "about what I do"
+    },
+    {
+      "ko": "우리의 방학에 관해",
+      "en": "during my school vacations."
+    },
+    {
+      "ko": "우리는 가집니다.",
+      "en": "We have"
+    },
+    {
+      "ko": "두개의 중요한 학교 방학들을",
+      "en": "two main school vacations."
+    },
+    {
+      "ko": "하나는 여름동안이고",
+      "en": "One is during the summer"
+    },
+    {
+      "ko": "그리고 하나는 겨울동안 입니다.",
+      "en": "and one is during the winter."
+    },
+    {
+      "ko": "여름방학은",
+      "en": "Summer vacation"
+    },
+    {
+      "ko": "그리고 겨울방학은",
+      "en": "and the winter vacation"
+    },
+    {
+      "ko": "우리가 가지않는다 할지라도",
+      "en": "Even though we don't go"
+    },
+    {
+      "ko": "국립학교에",
+      "en": "to public school"
+    },
+    {
+      "ko": "이 방학동안",
+      "en": "during these vacations,"
+    },
+    {
+      "ko": "우리는 여전히 갑니다.",
+      "en": "we still go"
+    },
+    {
+      "ko": "학원에",
+      "en": "to private academies."
+    },
+    {
+      "ko": "가장 좋은 부분은",
+      "en": "The best part is"
+    },
+    {
+      "ko": "우리가 더 많은 자유시간을 가진다는 것입니다.",
+      "en": "we have a lot more free time"
+    }
   ]
 }

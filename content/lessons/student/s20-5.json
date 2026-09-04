@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s20-5",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Jeju Island and Mt. Halla (제주도와 한라산)",
+  "label": "Chapter 20. Famous Places in Korea (한국의 명소)",
+  "menuLabel": "20-5. Jeju Island and Mt. Halla",
   "unit": 20,
   "part": 5,
   "order": 85,
@@ -130,38 +130,45 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "There are so many fun things to do there and many beautiful spots to visit.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 20. Famous Places in Korea (한국의 명소) - Jeju Island and Mt. Halla (제주도와 한라산)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "There are so many fun things to do there and many beautiful spots to visit."
+        },
+        {
+          "n": "2",
+          "text": "I like going to Mt. Halla."
+        },
+        {
+          "n": "3",
+          "text": "It is in the center of Jeju island and is really high."
+        },
+        {
+          "n": "4",
+          "text": "Jeju island is my favorite place to go for vacation."
+        },
+        {
+          "n": "5",
+          "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju."
+        },
+        {
+          "n": "6",
+          "text": "Mt. Halla is the highest mountain in South Korea; it’s almost 2,000 meters high (about 6500 feet)."
+        },
+        {
+          "n": "7",
+          "text": "Jeju Island and Mt. Halla"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "I like going to Mt. Halla.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "It is in the center of Jeju island and is really high.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Jeju island is my favorite place to go for vacation.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Mt. Halla is the highest mountain in South Korea; it’s almost 2,000 meters high (about 6500 feet).",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "어쩌면 한국의 가장 유명한 자연의 경이는 제주라고 불리는 섬입니다.",
+      "text": "그곳에서 할 수 있는 많은 재미있는 것들과 방문할만한 많은 아름다운 장소들이 많이 있습니다.",
       "lang": "ko"
     },
     {
@@ -171,62 +178,7 @@
     },
     {
       "type": "paragraph",
-      "text": "그곳에서 할 수 있는 많은 재미있는 것들과 방문할만한 많은 아름다운 장소들이 많이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저는 한라산에 가는 것을 좋아합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "그것은 제주도 중간에 있으며 매우 높습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한라산은 남한에서 가장 높은 산이고 그것의 높이는 이천 미터 입니다. (약 6500피트)",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "아마도",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "아마도Perhaps",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/가장 유명한",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/가장 유명한 the most famous",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국의 자연의 경이는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한국의 자연의 경이는 natural wonder of Korea is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/제주라 불리는 한 섬입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/제주라 불리는 한 섬입니다. an island called Jeju.",
       "lang": "ko"
     },
     {
@@ -236,163 +188,85 @@
     },
     {
       "type": "paragraph",
-      "text": "제주도는 나의 가장 좋아하는 장소입니다.Jeju island is my favorite place",
+      "text": "어쩌면 한국의 가장 유명한 자연의 경이는 제주라고 불리는 섬입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 휴가를 보내기에",
+      "text": "한라산은 남한에서 가장 높은 산이고 그것의 높이는 이천 미터 입니다. (약 6500피트)",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 휴가를 보내기에 to go for vacation.",
+      "text": "저는 한라산에 가는 것을 좋아합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "있습니다.There are",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 곳에서 할수 있는 너무 많은 재미있는 것들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그 곳에서 할수 있는 너무 많은 재미있는 것들이 so many fun things to do there",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 방문할 만한 많은 아름다운 장소들이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 방문할 만한 많은 아름다운 장소들이 and many beautiful spots to visit.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그것은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그것은It is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 제주도의 중심에 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 제주도의 중심에 있습니다. in the center of Jeju island",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 정말로 높습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 정말로 높습니다. and is really high.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한라산은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한라산은Mt. Halla is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 남한에서 가장 높은 산입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 남한에서 가장 높은 산입니다. the highest mountain in South Korea;",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 it's",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 2000미터 높이입니다 (6500피트)",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 2000미터 높이입니다 (6500피트) almost 2,000 meters high. (about 6500 feet)",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Famous Places :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Jeju Island and Mt. Halla",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s20-5.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s20-5.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "아마도",
+      "en": "Perhaps"
+    },
+    {
+      "ko": "가장 유명한",
+      "en": "the most famous"
+    },
+    {
+      "ko": "한국의 자연의 경이는",
+      "en": "natural wonder of Korea is"
+    },
+    {
+      "ko": "제주라 불리는 한 섬입니다.",
+      "en": "an island called Jeju."
+    },
+    {
+      "ko": "제주도는 나의 가장 좋아하는 장소입니다.",
+      "en": "Jeju island is my favorite place"
+    },
+    {
+      "ko": "휴가를 보내기에",
+      "en": "to go for vacation."
+    },
+    {
+      "ko": "있습니다.",
+      "en": "There are"
+    },
+    {
+      "ko": "그 곳에서 할수 있는 너무 많은 재미있는 것들이",
+      "en": "so many fun things to do there"
+    },
+    {
+      "ko": "그리고 방문할 만한 많은 아름다운 장소들이",
+      "en": "and many beautiful spots to visit."
+    },
+    {
+      "ko": "그것은",
+      "en": "It is"
+    },
+    {
+      "ko": "제주도의 중심에 있습니다.",
+      "en": "in the center of Jeju island"
+    },
+    {
+      "ko": "그리고 정말로 높습니다.",
+      "en": "and is really high."
+    },
+    {
+      "ko": "한라산은",
+      "en": "Mt. Halla is"
+    },
+    {
+      "ko": "남한에서 가장 높은 산입니다.",
+      "en": "the highest mountain in South Korea;"
+    },
+    {
+      "ko": "그것은",
+      "en": "it's"
+    }
   ]
 }

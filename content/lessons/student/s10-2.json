@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s10-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "The Start of a New Week (Monday) (새로운 주의 시작 (월요일))",
+  "label": "Chapter 10. What Do I Do during the Week? (평일 일과)",
+  "menuLabel": "10-2. The Start of a New Week (Monday)",
   "unit": 10,
   "part": 2,
   "order": 47,
@@ -115,39 +115,29 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I want to stay in bed longer, and after a few minutes, I finally get out of bed.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 10. What Do I Do during the Week? (평일 일과) - The Start of a New Week (Monday) (새로운 주의 시작 (월요일))"
     },
     {
-      "type": "paragraph",
-      "text": "After I get up and prepare for school, the first day of my new week has started on this note.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "When my mother shouts at me to wake up, I don’t want to get up.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "For me, it is very hard to get out of bed every Monday morning.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나에게는, 매일 월요일 아침에 일어나는 것이 매우 힘듭니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니가 일어나라고 나에게 소리칠 때, 나는 일어나고 싶지 않습니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I want to stay in bed longer, and after a few minutes, I finally get out of bed."
+        },
+        {
+          "n": "2",
+          "text": "After I get up and prepare for school, the first day of my new week has started on this note."
+        },
+        {
+          "n": "3",
+          "text": "When my mother shouts at me to wake up, I don’t want to get up."
+        },
+        {
+          "n": "4",
+          "text": "For me, it is very hard to get out of bed every Monday morning."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -161,193 +151,80 @@
     },
     {
       "type": "paragraph",
-      "text": "나에게는",
+      "text": "나의 어머니가 일어나라고 나에게 소리칠 때, 나는 일어나고 싶지 않습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나에게는For me,",
+      "text": "나에게는, 매일 월요일 아침에 일어나는 것이 매우 힘듭니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 어렵습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그것은 어렵습니다.it is very hard",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일어나는 것이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일어나는 것이to get out of bed",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일 월요일 아침에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일 월요일 아침에every Monday morning.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니가 나에게 소리칠 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니가 나에게 소리칠 때When my mother shouts at me",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/일어나라고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/일어나라고 to wake up,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 일어나고 싶지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 일어나고 싶지 않습니다. I don't want to get up.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 원합니다.I want",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 더 오랫동안 침대에 머무르기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 더 오랫동안 침대에 머무르기를 to stay in bed longer,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 몇 분 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 몇 분 후에 and after a few minutes,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 결국 침대에서 일어납니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 결국 침대에서 일어납니다. I finally get out of bed",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 일어나고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 일어나고After I get up",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 학교 갈 준비를 한 후",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 학교 갈 준비를 한 후 and prepare for school,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 새로운 주의 첫 날이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 새로운 주의 첫 날이 the first day of my new week",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이렇게 시작합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 이렇게 시작합니다. has started on this note.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do during the Week? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "The Start of a New Week",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s10-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s10-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나에게는",
+      "en": "For me,"
+    },
+    {
+      "ko": "그것은 어렵습니다.",
+      "en": "it is very hard"
+    },
+    {
+      "ko": "일어나는 것이",
+      "en": "to get out of bed"
+    },
+    {
+      "ko": "매일 월요일 아침에",
+      "en": "every Monday morning."
+    },
+    {
+      "ko": "나의 어머니가 나에게 소리칠 때",
+      "en": "When my mother shouts at me"
+    },
+    {
+      "ko": "일어나라고",
+      "en": "to wake up,"
+    },
+    {
+      "ko": "나는 일어나고 싶지 않습니다.",
+      "en": "I don't want to get up."
+    },
+    {
+      "ko": "나는 원합니다.",
+      "en": "I want"
+    },
+    {
+      "ko": "더 오랫동안 침대에 머무르기를",
+      "en": "to stay in bed longer,"
+    },
+    {
+      "ko": "그리고 몇 분 후에",
+      "en": "and after a few minutes,"
+    },
+    {
+      "ko": "나는 결국 침대에서 일어납니다.",
+      "en": "I finally get out of bed"
+    },
+    {
+      "ko": "내가 일어나고",
+      "en": "After I get up"
+    },
+    {
+      "ko": "그리고 학교 갈 준비를 한 후",
+      "en": "and prepare for school,"
+    },
+    {
+      "ko": "나의 새로운 주의 첫 날이",
+      "en": "the first day of my new week"
+    },
+    {
+      "ko": "이렇게 시작합니다.",
+      "en": "has started on this note."
+    }
   ]
 }

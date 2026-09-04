@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s17-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Development and Prosperity of Korea (대한민국의 발전과 번영)",
+  "label": "Chapter 17. History of Korea (한국의 역사)",
+  "menuLabel": "17-4. Development and Prosperity of Korea",
   "unit": 17,
   "part": 4,
   "order": 74,
@@ -125,63 +125,33 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 17. History of Korea (한국의 역사) - Development and Prosperity of Korea (대한민국의 발전과 번영)"
     },
     {
-      "type": "paragraph",
-      "text": "I am very proud of my country and what it has accomplished during its long history.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "From then until now, the country has continued to grow rapidly.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 급속히 성장하기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 급속히 성장하기를 to grow rapidly.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too."
+        },
+        {
+          "n": "2",
+          "text": "I am very proud of my country and what it has accomplished during its long history."
+        },
+        {
+          "n": "3",
+          "text": "From then until now, the country has continued to grow rapidly."
+        },
+        {
+          "n": "4",
+          "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "나는 우리나라가 매우 자랑스럽습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 우리나라가 매우 자랑스럽습니다.I am very proud of my country",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 그것이 달성해 온것이",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 그것이 달성해 온것이 and what it has accomplished",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것의 긴 역사동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그것의 긴 역사동안 during its long history.",
       "lang": "ko"
     },
     {
@@ -198,186 +168,65 @@
       "type": "paragraph",
       "text": "1988년, 한국은 하계올림픽게임을 주최했고 2002년, 한국에서 월드컵 역시 개최되었습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 나라와 긴 역사 동안 달성해 온 것에 대해 매우 자랑스럽습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "전쟁이 끝난 이후로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "전쟁이 끝난 이후로Since the end of the war",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 1953년에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 1953년에 in 1953,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는 the country",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매우 빠르게 발전하기 시작했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매우 빠르게 발전하기 시작했습니다. began to develop very quickly,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 1970년대동안 특별히",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 1970년대동안 특별히 especially during the 1970's.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 때부터 지금까지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 때부터 지금까지From then until now,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는 계속되었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리나라는 계속되었습니다.the country has continued",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "1988년도에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "1988년도에In 1988,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국은 개최했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국은 개최했습니다. Korea hosted",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 하계 올림픽 경기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 하계 올림픽 경기를 the Summer Olympic Games",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 2002년도에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 2002년도에 and in 2002,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 월드컵이 개최되었습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 월드컵이 개최되었습니다. the World Cup was held",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국에서, 역시",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국에서, 역시 in Korea, too.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "History :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Development of Korea",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s17-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s17-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "급속히 성장하기를",
+      "en": "to grow rapidly."
+    },
+    {
+      "ko": "나는 우리나라가 매우 자랑스럽습니다.",
+      "en": "I am very proud of my country"
+    },
+    {
+      "ko": "그리고 그것이 달성해 온것이",
+      "en": "and what it has accomplished"
+    },
+    {
+      "ko": "그것의 긴 역사동안",
+      "en": "during its long history."
+    },
+    {
+      "ko": "전쟁이 끝난 이후로",
+      "en": "Since the end of the war"
+    },
+    {
+      "ko": "우리나라는",
+      "en": "the country"
+    },
+    {
+      "ko": "매우 빠르게 발전하기 시작했습니다.",
+      "en": "began to develop very quickly,"
+    },
+    {
+      "ko": "그 때부터 지금까지",
+      "en": "From then until now,"
+    },
+    {
+      "ko": "우리나라는 계속되었습니다.",
+      "en": "the country has continued"
+    },
+    {
+      "ko": "한국은 개최했습니다.",
+      "en": "Korea hosted"
+    },
+    {
+      "ko": "하계 올림픽 경기를",
+      "en": "the Summer Olympic Games"
+    },
+    {
+      "ko": "월드컵이 개최되었습니다.",
+      "en": "the World Cup was held"
+    },
+    {
+      "ko": "한국에서, 역시",
+      "en": "in Korea, too."
+    }
   ]
 }

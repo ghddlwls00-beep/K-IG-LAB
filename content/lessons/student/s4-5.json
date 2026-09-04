@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s4-5",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "My Favorite Relative (가장 좋아하는 친척)",
+  "label": "Chapter 4. Relative Introduction (친척 소개)",
+  "menuLabel": "4-5. My Favorite Relative",
   "unit": 4,
   "part": 5,
   "order": 24,
@@ -75,19 +75,25 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "When we get together we usually go out for dinner.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 4. Relative Introduction (친척 소개) - My Favorite Relative (가장 좋아하는 친척)"
     },
     {
-      "type": "paragraph",
-      "text": "He lives on the other side of town, and my family visits him twice a month.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My favorite relative is my oldest uncle, (uncle’s name).",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "When we get together we usually go out for dinner."
+        },
+        {
+          "n": "2",
+          "text": "He lives on the other side of town, and my family visits him twice a month."
+        },
+        {
+          "n": "3",
+          "text": "My favorite relative is my oldest uncle, (uncle’s name)."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -103,126 +109,41 @@
       "type": "paragraph",
       "text": "우리가 함께 모였을 때 우리는 종종 저녁 먹으러 밖으로 나갑니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 가장 좋아하는 친척은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 큰 삼촌 길동입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 큰 삼촌 길동입니다. is my oldest uncle, (길동).",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 삽니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 삽니다He lives",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/마을의 반대편에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/마을의 반대편에서on the other side of town,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리 가족은 그를 방문합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 우리 가족은 그를 방문합니다.and my family visits him",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한달에 두번",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/한달에 두번twice a month.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 함께 할 때면",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 함께 할 때면When we get together",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 종종 외식하러 나갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 종종 외식하러 나갑니다. we usually go out for dinner.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Relative Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My favorite relative",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s4-5.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s4-5.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 큰 삼촌 길동입니다.",
+      "en": "is my oldest uncle, (길동)."
+    },
+    {
+      "ko": "그는 삽니다",
+      "en": "He lives"
+    },
+    {
+      "ko": "마을의 반대편에서",
+      "en": "on the other side of town,"
+    },
+    {
+      "ko": "그리고 우리 가족은 그를 방문합니다.",
+      "en": "and my family visits him"
+    },
+    {
+      "ko": "한달에 두번",
+      "en": "twice a month."
+    },
+    {
+      "ko": "우리가 함께 할 때면",
+      "en": "When we get together"
+    },
+    {
+      "ko": "우리는 종종 외식하러 나갑니다.",
+      "en": "we usually go out for dinner."
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s9-3",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "What I Do in the Evening (나의 저녁 일과)",
+  "label": "Chapter 9. What Do I Do Every Day? (나의 하루 일과)",
+  "menuLabel": "9-3. What I Do in the Evening",
   "unit": 9,
   "part": 3,
   "order": 45,
@@ -215,84 +215,53 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "When we eat, my father usually talks about his day, and we share our experiences.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 9. What Do I Do Every Day? (나의 하루 일과) - What I Do in the Evening (나의 저녁 일과)"
     },
     {
-      "type": "paragraph",
-      "text": "After dinner, we watch television together.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My favorite T.V. shows are (T.V. show name) and (T.V. show name).",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "It is my favorite because it is easier than my other subjects.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After that, I quickly write in my journal about my day.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I go to bed at about 10:30 p.m. and think what a wonderful day it was!",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My mother always makes dinner.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My English homework is my favorite.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After finishing classes at the academies, I go home and have dinner with my family.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I start my homework at around 9:00 p.m.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 TV를 봅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리는 TV를 봅니다. we watch television",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 함께 together.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "학원에서 수업을 마친 후, 나는 집에 가서 나의 가족들과 함께 저녁을 먹습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니께서는 항상 저녁을 만드십니다.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "When we eat, my father usually talks about his day, and we share our experiences."
+        },
+        {
+          "n": "2",
+          "text": "After dinner, we watch television together."
+        },
+        {
+          "n": "3",
+          "text": "My favorite T.V. shows are (T.V. show name) and (T.V. show name)."
+        },
+        {
+          "n": "4",
+          "text": "It is my favorite because it is easier than my other subjects."
+        },
+        {
+          "n": "5",
+          "text": "After that, I quickly write in my journal about my day."
+        },
+        {
+          "n": "6",
+          "text": "I go to bed at about 10:30 p.m. and think what a wonderful day it was!"
+        },
+        {
+          "n": "7",
+          "text": "My mother always makes dinner."
+        },
+        {
+          "n": "8",
+          "text": "My English homework is my favorite."
+        },
+        {
+          "n": "9",
+          "text": "After finishing classes at the academies, I go home and have dinner with my family."
+        },
+        {
+          "n": "10",
+          "text": "I start my homework at around 9:00 p.m."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -301,17 +270,7 @@
     },
     {
       "type": "paragraph",
-      "text": "저녁식사 후, 우리는 함께 TV를 봅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 가장 좋아하는 TV쇼들은 미러클과 판타스틱 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 오후 9시쯤에 나의 숙제를 시작합니다.",
+      "text": "학원에서 수업을 마친 후, 나는 집에 가서 나의 가족들과 함께 저녁을 먹습니다.",
       "lang": "ko"
     },
     {
@@ -336,162 +295,7 @@
     },
     {
       "type": "paragraph",
-      "text": "수업을 마친 후",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "수업을 마친 후After finishing classes",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학원에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학원에서at the academies,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 집에 가서 저녁을 먹습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 집에 가서 저녁을 먹습니다. I go home and have dinner",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 가족과 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 가족과 함께 with my family.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 먹을 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "우리가 먹을 때When we eat,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 아버지는 보통 말씀하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 아버지는 보통 말씀하십니다. my father usually talks",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 하루에 대해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그의 하루에 대해 about his day,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리는 나눕니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 우리는 나눕니다. and we share",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 경험들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리의 경험들을 our experiences.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저녁 식사 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "저녁 식사 후에After dinner,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 가장 좋아하는 TV 쇼들은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 가장 좋아하는 TV 쇼들은My favorite T.V. shows",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/기적과 경이 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/기적과 경이 입니다.are (Miracle) and Fantastic).",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 숙제를 시작합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 숙제를 시작합니다.I start my homework",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 밤 9:00경에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 밤 9:00경에 at around 9:00 p.m.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 영어 숙제는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 영어 숙제는My English homework is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 좋아하는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 가장 좋아하는 것입니다. my favorite.",
+      "text": "나의 어머니께서는 항상 저녁을 만드십니다.",
       "lang": "ko"
     },
     {
@@ -501,153 +305,135 @@
     },
     {
       "type": "paragraph",
-      "text": "그것은 내가 가장 좋아하는 것입니다.It is my favorite",
+      "text": "나는 오후 9시쯤에 나의 숙제를 시작합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면 그것이 더 쉽기 때문입니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/왜냐하면 그것이 더 쉽기 때문입니다 because it is easier",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 과목들 보다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/다른 과목들 보다than my other subjects.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 후",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그 후After that,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 빨리 씁니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 빨리 씁니다. I quickly write",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 일기를in my journal",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 하루에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 하루에 관해about my day.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 잠자리에 듭니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 잠자리에 듭니다.I go to bed",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/밤 10:30 경에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/밤 10:30 경에at about 10:30 p.m",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 생각합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 생각합니다 and think",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/얼마나 좋은 하루 였는지",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/얼마나 좋은 하루 였는지what a wonderful day it was!",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do Every Day? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "What do I do in the evening?",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s9-3.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s9-3.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "우리는",
+      "en": "TV를 봅니다."
+    },
+    {
+      "ko": "우리는",
+      "en": "TV를 봅니다. we watch television"
+    },
+    {
+      "ko": "함께",
+      "en": "together."
+    },
+    {
+      "ko": "내가 가장 좋아하는",
+      "en": "TV쇼들은 미러클과 판타스틱 입니다."
+    },
+    {
+      "ko": "수업을 마친 후",
+      "en": "After finishing classes"
+    },
+    {
+      "ko": "학원에서",
+      "en": "at the academies,"
+    },
+    {
+      "ko": "나는 집에 가서 저녁을 먹습니다.",
+      "en": "I go home and have dinner"
+    },
+    {
+      "ko": "나의 가족과 함께",
+      "en": "with my family."
+    },
+    {
+      "ko": "우리가 먹을 때",
+      "en": "When we eat,"
+    },
+    {
+      "ko": "나의 아버지는 보통 말씀하십니다.",
+      "en": "my father usually talks"
+    },
+    {
+      "ko": "그의 하루에 대해",
+      "en": "about his day,"
+    },
+    {
+      "ko": "그리고 우리는 나눕니다.",
+      "en": "and we share"
+    },
+    {
+      "ko": "우리의 경험들을",
+      "en": "our experiences."
+    },
+    {
+      "ko": "저녁 식사 후에",
+      "en": "After dinner,"
+    },
+    {
+      "ko": "내가 가장 좋아하는",
+      "en": "TV 쇼들은"
+    },
+    {
+      "ko": "내가 가장 좋아하는",
+      "en": "TV 쇼들은My favorite T.V. shows"
+    },
+    {
+      "ko": "기적과 경이 입니다.",
+      "en": "are (Miracle) and Fantastic)."
+    },
+    {
+      "ko": "나는 나의 숙제를 시작합니다.",
+      "en": "I start my homework"
+    },
+    {
+      "ko": "나의 영어 숙제는",
+      "en": "My English homework is"
+    },
+    {
+      "ko": "내가 가장 좋아하는 것입니다.",
+      "en": "my favorite."
+    },
+    {
+      "ko": "그것은 내가 가장 좋아하는 것입니다.",
+      "en": "It is my favorite"
+    },
+    {
+      "ko": "왜냐하면 그것이 더 쉽기 때문입니다",
+      "en": "because it is easier"
+    },
+    {
+      "ko": "다른 과목들 보다",
+      "en": "than my other subjects."
+    },
+    {
+      "ko": "그 후",
+      "en": "After that,"
+    },
+    {
+      "ko": "나는 빨리 씁니다.",
+      "en": "I quickly write"
+    },
+    {
+      "ko": "일기를",
+      "en": "in my journal"
+    },
+    {
+      "ko": "나의 하루에 관해",
+      "en": "about my day."
+    },
+    {
+      "ko": "나는 잠자리에 듭니다.",
+      "en": "I go to bed"
+    },
+    {
+      "ko": "그리고 생각합니다",
+      "en": "and think"
+    },
+    {
+      "ko": "얼마나 좋은 하루 였는지",
+      "en": "what a wonderful day it was!"
+    }
   ]
 }

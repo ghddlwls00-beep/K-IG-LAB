@@ -32,6 +32,7 @@ export function LessonBody({
   contentLang = "en",
   voiceGender = "neutral",
   audioTracks = [],
+  chunkDrills = [],
 }: {
   blocks: Block[];
   pairBlocks?: Block[] | null;
@@ -41,6 +42,7 @@ export function LessonBody({
   contentLang?: string;
   voiceGender?: VoiceGender;
   audioTracks?: { src: string; label?: string }[];
+  chunkDrills?: { en: string; ko: string }[];
 }) {
   const { t } = useLanguage();
 
@@ -335,7 +337,57 @@ export function LessonBody({
           );
         })}
 
-      {/* 6. Dictation and Answer Verification Panel */}
+      {/* 6. Phrasal Chunk Drill (청크 직독직해 훈련) */}
+      {chunkDrills && chunkDrills.length > 0 ? (
+        <div className="rounded-xl border border-line bg-surface/80 p-5 shadow-xs">
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+            <div>
+              <h3 className="flex items-center gap-2 text-[15px] font-semibold text-ink">
+                <span>🧩</span> 청크 직독직해 훈련 (Chunk Breakdown Drill)
+              </h3>
+              <p className="mt-0.5 text-[12px] text-ink-soft">
+                문장을 의미 단위(청크)별로 끊어 듣고 따라 말해보세요. (카드를 누르면 발음 청취)
+              </p>
+            </div>
+            <span className="rounded bg-raised px-2.5 py-0.5 font-mono text-[11px] text-ink-soft border border-line/60">
+              {chunkDrills.length}개 청크
+            </span>
+          </div>
+
+          <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+            {chunkDrills.map((chunk, idx) => (
+              <div
+                key={idx}
+                onClick={() => playWord(chunk.en)}
+                className="group flex cursor-pointer items-center justify-between gap-3 rounded-lg border border-line/80 bg-raised/40 p-3 transition-all hover:border-ink/40 hover:bg-raised hover:shadow-2xs active:scale-[0.99]"
+              >
+                <div className="flex flex-col gap-0.5">
+                  <span className="text-[14px] font-medium text-ink group-hover:text-primary transition-colors">
+                    {chunk.en}
+                  </span>
+                  <span className="text-[12px] text-ink-soft">
+                    {chunk.ko}
+                  </span>
+                </div>
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    playWord(chunk.en);
+                  }}
+                  className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-surface text-ink-soft group-hover:bg-ink group-hover:text-surface transition-all shadow-2xs cursor-pointer"
+                  title="청크 발음 듣기"
+                  aria-label="청크 발음 듣기"
+                >
+                  <span className="text-[11px]">🔊</span>
+                </button>
+              </div>
+            ))}
+          </div>
+        </div>
+      ) : null}
+
+      {/* 7. Dictation and Answer Verification Panel */}
       {choice || dictation ? (
         <DictationPanel
           options={choice?.type === "choice" ? choice.options : null}
@@ -375,8 +427,28 @@ function buildPairedSentences(
 ): PairedSentence[] {
   const result: PairedSentence[] = [];
 
-  // Case A: Dialogue courses (man, woman, student) - alternating paragraphs
-  if (["man", "woman", "student"].includes(course)) {
+  // Case A-0: student course (clean sentences block with companion Korean paragraphs)
+  if (course === "student") {
+    const sentBlock = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
+    const koParas = blocks.filter((b) => b.type === "paragraph" && b.lang === "ko") as { type: "paragraph"; text: string }[];
+    if (sentBlock?.items && sentBlock.items.length > 0) {
+      sentBlock.items.forEach((item, idx) => {
+        const ko = koParas[idx]?.text || "";
+        const clipTrack = audioTracks[idx + 1];
+        result.push({
+          index: idx + 1,
+          numberLabel: item.n || String(idx + 1),
+          targetText: cleanSentenceText(item.text),
+          translationText: ko.trim(),
+          audioSrc: clipTrack?.src,
+        });
+      });
+      return result;
+    }
+  }
+
+  // Case A: Dialogue courses (man, woman) - alternating paragraphs
+  if (["man", "woman"].includes(course)) {
     const paragraphs = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
     
     let currentEn = "";

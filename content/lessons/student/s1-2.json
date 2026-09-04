@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s1-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Name, School & Age (이름, 학교 및 나이)",
+  "label": "Chapter 1. Self-introduction (자기소개)",
+  "menuLabel": "1-2. Name, School & Age",
   "unit": 1,
   "part": 2,
   "order": 2,
@@ -60,44 +60,49 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I am a 4th grade student at 한국 Elementary School.",
-      "lang": "ko"
+      "type": "instruction",
+      "text": "Chapter 1. Self-introduction (자기소개) - Name, School & Age (이름, 학교 및 나이)"
     },
     {
-      "type": "paragraph",
-      "text": "I live at 한국Apartmemt.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My name is Hong Gil Dong, and I live in Seoul.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 이름은 홍길동입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 이름은 홍길동입니다.My name is Hong Gil Dong.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 서울에 삽니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 서울에 삽니다 and I live in Seoul.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I am a 4th grade student at 한국 Elementary School."
+        },
+        {
+          "n": "2",
+          "text": "I live at 한국Apartmemt."
+        },
+        {
+          "n": "3",
+          "text": "My name is Hong Gil Dong, and I live in Seoul."
+        },
+        {
+          "n": "4",
+          "text": "My name is (name), and I live in (city, town, or province)."
+        },
+        {
+          "n": "5",
+          "text": "I live at (apartment name)."
+        },
+        {
+          "n": "6",
+          "text": "I am a (1st 2nd,3rd) grade student at (name of school) Elementary School."
+        },
+        {
+          "n": "7",
+          "text": "I am (age) years old."
+        },
+        {
+          "n": "8",
+          "text": "I am 11 years old."
+        },
+        {
+          "n": "9",
+          "text": "Name/School/Age"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -106,18 +111,8 @@
     },
     {
       "type": "paragraph",
-      "text": "My name is (name), and I live in (city, town, or province).",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 한국아파트에 삽니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I live at (apartment name).",
-      "lang": "en"
     },
     {
       "type": "paragraph",
@@ -126,78 +121,32 @@
     },
     {
       "type": "paragraph",
-      "text": "I am a (1st 2nd,3rd) grade student at (name of school) Elementary School.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 11살 입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I am (age) years old.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 4학년 학생입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "나는 4학년 학생입니다.I am a 4th grade student.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 초등학교에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 한국 초등학교에서at 한국 Elementary School.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I am 11 years old.",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "Self-introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Name/School/Age",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s1-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s1-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 이름은 홍길동입니다.",
+      "en": "My name is Hong Gil Dong."
+    },
+    {
+      "ko": "그리고 나는 서울에 삽니다",
+      "en": "and I live in Seoul."
+    },
+    {
+      "ko": "한국 초등학교에서",
+      "en": "at 한국 Elementary School."
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s6-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Introducing My School (우리 학교 소개)",
+  "label": "Chapter 6. My School Teacher (우리 학교 선생님)",
+  "menuLabel": "6-1. Introducing My School",
   "unit": 6,
   "part": 1,
   "order": 32,
@@ -100,38 +100,41 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "My elementary school is fairly large.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 6. My School Teacher (우리 학교 선생님) - Introducing My School (우리 학교 소개)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "My elementary school is fairly large."
+        },
+        {
+          "n": "2",
+          "text": "My brother/sister goes to the same school."
+        },
+        {
+          "n": "3",
+          "text": "There are many clubs that the students can join."
+        },
+        {
+          "n": "4",
+          "text": "My school is pretty close to my house."
+        },
+        {
+          "n": "5",
+          "text": "Today, I would like to tell you about my school."
+        },
+        {
+          "n": "6",
+          "text": "I attend the English Club, and mybrother/sister is in the (Club’s Name) Club."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "My brother/sister goes to the same school.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "There are many clubs that the students can join.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My school is pretty close to my house.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Today, I would like to tell you about my school.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I attend the English Club, and mybrother/sister is in the (Club’s Name) Club.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "오늘, 나는 나의 학교에 대해서 말씀 드리고 싶습니다.",
+      "text": "나의 초등학교는 꽤 큽니다.",
       "lang": "ko"
     },
     {
@@ -141,7 +144,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나의 초등학교는 꽤 큽니다.",
+      "text": "학생들이 가입할 수 있는 많은 클럽들이 있습니다;",
       "lang": "ko"
     },
     {
@@ -151,163 +154,56 @@
     },
     {
       "type": "paragraph",
-      "text": "학생들이 가입할 수 있는 많은 클럽들이 있습니다;",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
       "text": "나는 영어 클럽에 가고 나의 남동생/여동생은 태권도클럽에 갑니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "I attend the English Club, and my brother/sister is in the (Club’s Name) Club.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "오늘 나는 하고 싶다.",
+      "text": "오늘, 나는 나의 학교에 대해서 말씀 드리고 싶습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "오늘 나는 하고 싶다.Today, I would like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 학교에 대해 너에게 말하고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나의 학교에 대해 너에게 말하고 to tell you about my school.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 학교는 있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 학교는 있다.My school is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리 집에서 꽤 가깝게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 우리 집에서 꽤 가깝게 pretty close to my house.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 초등학교는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 초등학교는 My elementary school is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 상당히 크다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 상당히 크다. fairly large.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 클럽들이 있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 클럽들이 있다.There are many clubs",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학생들이 가입할 수 있는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 학생들이 가입할 수 있는that the students can join.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 영어클럽에 다닌다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 영어클럽에 다닌다.I attend the English Club,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 나의 남동생/여동생은 태권도 클럽에 들어있다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 나의 남동생/여동생은 태권도 클럽에 들어있다. and my brother/sister is in the (태권도) Club.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My School Teacher :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Introducing My School",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s6-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s6-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "오늘 나는 하고 싶다.",
+      "en": "Today, I would like"
+    },
+    {
+      "ko": "나의 학교에 대해 너에게 말하고",
+      "en": "to tell you about my school."
+    },
+    {
+      "ko": "나의 학교는 있다.",
+      "en": "My school is"
+    },
+    {
+      "ko": "우리 집에서 꽤 가깝게",
+      "en": "pretty close to my house."
+    },
+    {
+      "ko": "나의 초등학교는",
+      "en": "My elementary school is"
+    },
+    {
+      "ko": "상당히 크다.",
+      "en": "fairly large."
+    },
+    {
+      "ko": "많은 클럽들이 있다.",
+      "en": "There are many clubs"
+    },
+    {
+      "ko": "학생들이 가입할 수 있는",
+      "en": "that the students can join."
+    },
+    {
+      "ko": "나는 영어클럽에 다닌다.",
+      "en": "I attend the English Club,"
+    }
   ]
 }

@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s3-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Friend's Personality (친구의 성격)",
+  "label": "Chapter 3. Friend Introduction (친구 소개)",
+  "menuLabel": "3-2. Friend's Personality",
   "unit": 3,
   "part": 2,
   "order": 16,
@@ -150,128 +150,57 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Their names are (names).",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 3. Friend Introduction (친구 소개) - Friend's Personality (친구의 성격)"
     },
     {
-      "type": "paragraph",
-      "text": "Who is my best friend?",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My best friend is (name), and I have known him/her for 3 years.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Because of this, I have many friends.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I am very outgoing, so I like to do many things with other people.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 매우 외향적입니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 매우 외향적입니다I am very outgoing,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 나는 많은 것들을 하기를 좋아합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그래서 나는 많은 것들을 하기를 좋아합니다 so I like to do many things",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 사람들과 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다른 사람들과 함께with other people.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이것 때문에,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "이것 때문에,Because of this",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 많은 친구들이 있습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 많은 친구들이 있습니다. I have many friends.",
-      "lang": "ko"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Their names are (names)."
+        },
+        {
+          "n": "2",
+          "text": "Who is my best friend?"
+        },
+        {
+          "n": "3",
+          "text": "My best friend is (name), and I have known him/her for 3 years."
+        },
+        {
+          "n": "4",
+          "text": "Because of this, I have many friends."
+        },
+        {
+          "n": "5",
+          "text": "I am very outgoing, so I like to do many things with other people."
+        },
+        {
+          "n": "6",
+          "text": "What is he/she like?"
+        },
+        {
+          "n": "7",
+          "text": "He/She is like me in many ways."
+        },
+        {
+          "n": "8",
+          "text": "He/She is an outgoing but sometimes shy person like me."
+        },
+        {
+          "n": "9",
+          "text": "He/She likes to hang out and play with friends, but he/she does not like to talk to new people."
+        },
+        {
+          "n": "10",
+          "text": "I am like this, too."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "나의 가장 친한친구는 대한입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 가장 친한친구는 대한입니다.My best friend is (대한),",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 그를 알아왔습니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 나는 그를 알아왔습니다 and I have known him/her",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 3년동안",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 3년동안 for 3 years.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 나와 비슷합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 나와 비슷합니다.He/She is like me",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 면에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 많은 면에서in many ways.",
       "lang": "ko"
     },
     {
@@ -301,23 +230,13 @@
     },
     {
       "type": "paragraph",
-      "text": "그는/그녀는 어떨까요?",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What is he/she like?",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "그는/그녀는 나와 많은 면에서 비슷합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "He/She is like me in many ways.",
-      "lang": "en"
+      "text": "그는/그녀는 어떨까요?",
+      "lang": "ko"
     },
     {
       "type": "paragraph",
@@ -326,133 +245,75 @@
     },
     {
       "type": "paragraph",
-      "text": "He/She is an outgoing but sometimes shy person like me.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "그는/그녀는 친구 사귀기와 친구들과 놀기를 좋아하지만 그는/그녀는 새로운 사람들에게 이야기 하기를 좋아하지 않습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "He/She likes to hang out and play with friends, but he/she does not like to talk to new people.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "나도 또한 이와 비슷합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "I am like this, too.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 외향적입니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 외향적입니다He/She is an outgoing",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 때때로 나처럼 내성적이기도 합니다",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 때때로 나처럼 내성적이기도 합니다. but sometimes shy person like me.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 돌아다니기를 좋아하고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는 돌아다니기를 좋아하고 He/She likes to hang out",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 친구와 함께 놀기도 좋아합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 친구와 함께 놀기도 좋아합니다. and play with friends,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 그는 좋아하지 않습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그러나 그는 좋아하지 않습니다. but he/she does not like",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 사람에게 말 걸기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 새로운 사람에게 말 걸기를 to talk to new people.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Friend Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "(My friend’s personality) Outgoing Person",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s3-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s3-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 매우 외향적입니다",
+      "en": "I am very outgoing,"
+    },
+    {
+      "ko": "그래서 나는 많은 것들을 하기를 좋아합니다",
+      "en": "so I like to do many things"
+    },
+    {
+      "ko": "다른 사람들과 함께",
+      "en": "with other people."
+    },
+    {
+      "ko": "이것 때문에,",
+      "en": "Because of this"
+    },
+    {
+      "ko": "나는 많은 친구들이 있습니다.",
+      "en": "I have many friends."
+    },
+    {
+      "ko": "나의 가장 친한친구는 대한입니다.",
+      "en": "My best friend is (대한),"
+    },
+    {
+      "ko": "그리고 나는 그를 알아왔습니다",
+      "en": "and I have known him/her"
+    },
+    {
+      "ko": "그는 나와 비슷합니다.",
+      "en": "He/She is like me"
+    },
+    {
+      "ko": "많은 면에서",
+      "en": "in many ways."
+    },
+    {
+      "ko": "그는 외향적입니다",
+      "en": "He/She is an outgoing"
+    },
+    {
+      "ko": "그러나 때때로 나처럼 내성적이기도 합니다.",
+      "en": "but sometimes shy person like me."
+    },
+    {
+      "ko": "그는 돌아다니기를 좋아하고",
+      "en": "He/She likes to hang out"
+    },
+    {
+      "ko": "친구와 함께 놀기도 좋아합니다.",
+      "en": "and play with friends,"
+    },
+    {
+      "ko": "그러나 그는 좋아하지 않습니다.",
+      "en": "but he/she does not like"
+    },
+    {
+      "ko": "새로운 사람에게 말 걸기를",
+      "en": "to talk to new people."
+    }
   ]
 }

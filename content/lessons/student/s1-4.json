@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s1-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Hobby (취미)",
+  "label": "Chapter 1. Self-introduction (자기소개)",
+  "menuLabel": "1-4. Hobby",
   "unit": 1,
   "part": 4,
   "order": 4,
@@ -50,19 +50,25 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I like to play computer games as well.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 1. Self-introduction (자기소개) - Hobby (취미)"
     },
     {
-      "type": "paragraph",
-      "text": "I especially like watching movies.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My hobbies include reading books, listening to music, hiking, watching movies, and participating in sports.",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I like to play computer games as well."
+        },
+        {
+          "n": "2",
+          "text": "I especially like watching movies."
+        },
+        {
+          "n": "3",
+          "text": "My hobbies include reading books, listening to music, hiking, watching movies, and participating in sports."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -78,81 +84,25 @@
       "type": "paragraph",
       "text": "나는 컴퓨터 게임하기도 또한 좋아합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 취미들은 포함합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 취미들은 포함합니다.My hobbies include",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 책읽기, 음악듣기, 등산하기,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 책읽기, 음악듣기, 등산하기,reading books, listening to music, hiking,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영화보기, 그리고 스포츠에 참가하기",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 영화보기, 그리고 스포츠에 참가하기 watching movies, and participating in sports.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Self-introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Hobby",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s1-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s1-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나의 취미들은 포함합니다.",
+      "en": "My hobbies include"
+    },
+    {
+      "ko": "책읽기, 음악듣기, 등산하기,",
+      "en": "reading books, listening to music, hiking,"
+    },
+    {
+      "ko": "영화보기, 그리고 스포츠에 참가하기",
+      "en": "watching movies, and participating in sports."
+    }
   ]
 }

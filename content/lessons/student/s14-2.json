@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s14-2",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Reasons for Wanting to Become a Teacher (교사가 되고 싶은 이유)",
+  "label": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사))",
+  "menuLabel": "14-2. Reasons for Wanting to Become a Teacher",
   "unit": 14,
   "part": 2,
   "order": 63,
@@ -170,39 +170,41 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "He/she loves children, and when I need help from him/her, he/she alwayshelps me.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 14. My Future Dream Job (Teacher) (나의 미래 꿈 (교사)) - Reasons for Wanting to Become a Teacher (교사가 되고 싶은 이유)"
     },
     {
-      "type": "paragraph",
-      "text": "I want to be able to help others learn and grow, too.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "He/She is excellent at teaching exactly what we need to know.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "First, my schoolteacher sets a good example.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I want to become a good teacher just like him/her.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I want to become a teacher for several reasons.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Second, my teacher knows a lot of things, and shares his/her knowledge with us about many things all of the time.",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He/she loves children, and when I need help from him/her, he/she alwayshelps me."
+        },
+        {
+          "n": "2",
+          "text": "I want to be able to help others learn and grow, too."
+        },
+        {
+          "n": "3",
+          "text": "He/She is excellent at teaching exactly what we need to know."
+        },
+        {
+          "n": "4",
+          "text": "First, my schoolteacher sets a good example."
+        },
+        {
+          "n": "5",
+          "text": "I want to become a good teacher just like him/her."
+        },
+        {
+          "n": "6",
+          "text": "I want to become a teacher for several reasons."
+        },
+        {
+          "n": "7",
+          "text": "Second, my teacher knows a lot of things, and shares his/her knowledge with us about many things all of the time."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -211,22 +213,7 @@
     },
     {
       "type": "paragraph",
-      "text": "나는 좋은 선생님이 되기를 원합니다.I want to become a good teacher",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 꼭 그/그녀 처럼",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 꼭 그/그녀 처럼 just like him/her.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 몇 가지 이유에서 선생님이 되고 싶습니다.",
+      "text": "나는 다른 사람을 도울 수 있기를 원합니다.",
       "lang": "ko"
     },
     {
@@ -241,283 +228,93 @@
     },
     {
       "type": "paragraph",
-      "text": "He/she loves children, and when I need help from him/her, he/she always helps me.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
       "text": "나 또한 다른 사람들을 배우고 성장할 수 있게 도울 수 있기를 원합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "그는/그녀는 우리가 알고 싶어하는 것을 정확하게 가르치는 것을 뛰어나게 잘 하십니다.",
+      "text": "나는 몇 가지 이유에서 선생님이 되고 싶습니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "둘째, 나의 선생님께서는 많은 것들을 알고 계시고, 항상 우리와 함께 많은 것들에 대해서 그의/그녀의 지식을 공유합니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 그/그녀와 같은 좋은 선생님이 되고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 원합니다.I want",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 선생님이 되기를",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 선생님이 되기를 to become a teacher",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 몇 가지 이유에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 몇 가지 이유에서 for several reasons.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫째, 나의 학교 선생님은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "첫째, 나의 학교 선생님은First, my school teacher",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 본보기가 되어 주십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 좋은 본보기가 되어 주십니다. sets a good example.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 아이들을 사랑하시고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 아이들을 사랑하시고He/she loves children,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 도움이 필요할 때",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내가 도움이 필요할 때 and when I need help",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그/그녀로 부터",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그/그녀로 부터 from him/her,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그/그녀는 항상 나를 도우십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그/그녀는 항상 나를 도우십니다. he/she always helps me.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다른 사람을 도울 수 있기를 원합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 다른 사람을 도울 수 있기를 원합니다.I want to be able to help others",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 배우고 성장할 수 있게, 역시",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 배우고 성장할 수 있게, 역시 learn and grow, too",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 훌륭하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그는/그녀는 훌륭하십니다.He/She is excellent",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/정확하게 가르치는 것에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/정확하게 가르치는 것에 at teaching exactly",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 알아야할 필요가 있는 것들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 알아야할 필요가 있는 것들을 what we need to know.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "둘째,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "둘째,Second,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 선생님은 아십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나의 선생님은 아십니다. my teacher knows",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 것들을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 것들을a lot of things,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 그/그녀의 지식을 공유하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 그/그녀의 지식을 공유하십니다. and shares his/her knowledge",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리와 함께",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리와 함께with us",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 것들에 대해서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/많은 것들에 대해서 about many things",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/항상",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/항상 all of the time.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Future Dream Job :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "My Reasons for Wanting to Become a Teacher",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s14-2.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s14-2.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "나는 좋은 선생님이 되기를 원합니다.",
+      "en": "I want to become a good teacher"
+    },
+    {
+      "ko": "나는 원합니다.",
+      "en": "I want"
+    },
+    {
+      "ko": "선생님이 되기를",
+      "en": "to become a teacher"
+    },
+    {
+      "ko": "몇 가지 이유에서",
+      "en": "for several reasons."
+    },
+    {
+      "ko": "첫째, 나의 학교 선생님은",
+      "en": "First, my school teacher"
+    },
+    {
+      "ko": "좋은 본보기가 되어 주십니다.",
+      "en": "sets a good example."
+    },
+    {
+      "ko": "내가 도움이 필요할 때",
+      "en": "and when I need help"
+    },
+    {
+      "ko": "나는 다른 사람을 도울 수 있기를 원합니다.",
+      "en": "I want to be able to help others"
+    },
+    {
+      "ko": "배우고 성장할 수 있게, 역시",
+      "en": "learn and grow, too"
+    },
+    {
+      "ko": "정확하게 가르치는 것에",
+      "en": "at teaching exactly"
+    },
+    {
+      "ko": "우리가 알아야할 필요가 있는 것들을",
+      "en": "what we need to know."
+    },
+    {
+      "ko": "둘째,",
+      "en": "Second,"
+    },
+    {
+      "ko": "나의 선생님은 아십니다.",
+      "en": "my teacher knows"
+    },
+    {
+      "ko": "많은 것들을",
+      "en": "a lot of things,"
+    },
+    {
+      "ko": "우리와 함께",
+      "en": "with us"
+    },
+    {
+      "ko": "많은 것들에 대해서",
+      "en": "about many things"
+    },
+    {
+      "ko": "항상",
+      "en": "all of the time."
+    }
   ]
 }

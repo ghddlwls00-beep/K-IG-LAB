@@ -160,6 +160,7 @@ export default async function LessonPage({
           contentLang={courseInfo?.contentLang ?? "en"}
           voiceGender={voiceGender}
           audioTracks={audio}
+          chunkDrills={lesson.chunkDrills}
         />
       ) : fromFlash ? (
         <p className="text-[13.5px] text-ink-soft">

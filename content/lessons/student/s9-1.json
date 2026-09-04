@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s9-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "What I Do in the Morning (나의 아침 일과)",
+  "label": "Chapter 9. What Do I Do Every Day? (나의 하루 일과)",
+  "menuLabel": "9-1. What I Do in the Morning",
   "unit": 9,
   "part": 1,
   "order": 43,
@@ -210,79 +210,53 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "I clean my room, and then I go jogging with my dog named (dog’s name).",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 9. What Do I Do Every Day? (나의 하루 일과) - What I Do in the Morning (나의 아침 일과)"
     },
     {
-      "type": "paragraph",
-      "text": "I run to and from the playground five times.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After I finish jogging, I take a shower.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I often meet my friends and play around a little in the schoolyard before we go to class.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I have four morning classes that start before lunch time.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Each class is about forty-five minutes long.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I get up at six o’clock every morning.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "After breakfast, I brush my teeth, and I leave for school at about eight o’clock.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Every day I usually follow the same schedule.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "I have breakfast around 7:30 a.m.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 운동장을 왕복으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 운동장을 왕복으로to and from the playground",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다섯번",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 다섯번five times.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I clean my room, and then I go jogging with my dog named (dog’s name)."
+        },
+        {
+          "n": "2",
+          "text": "I run to and from the playground five times."
+        },
+        {
+          "n": "3",
+          "text": "After I finish jogging, I take a shower."
+        },
+        {
+          "n": "4",
+          "text": "I often meet my friends and play around a little in the schoolyard before we go to class."
+        },
+        {
+          "n": "5",
+          "text": "I have four morning classes that start before lunch time."
+        },
+        {
+          "n": "6",
+          "text": "Each class is about forty-five minutes long."
+        },
+        {
+          "n": "7",
+          "text": "I get up at six o’clock every morning."
+        },
+        {
+          "n": "8",
+          "text": "After breakfast, I brush my teeth, and I leave for school at about eight o’clock."
+        },
+        {
+          "n": "9",
+          "text": "Every day I usually follow the same schedule."
+        },
+        {
+          "n": "10",
+          "text": "I have breakfast around 7:30 a.m."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -297,26 +271,6 @@
     {
       "type": "paragraph",
       "text": "나는 나의 방을 청소하고 나서 나는 ○○라는 이름의 개와 함께 조깅을 갑니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 운동장을 왕복 5번 뜁니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 조깅을 끝낸 후에 나는 샤워를 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 오전 7시 30분에 아침식사를 먹습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "아침식사 후, 나는 나의 이를 닦고, 8시쯤에 학교를 갑니다.",
       "lang": "ko"
     },
     {
@@ -336,303 +290,126 @@
     },
     {
       "type": "paragraph",
-      "text": "매일",
+      "text": "아침식사 후, 나는 나의 이를 닦고, 8시쯤에 학교를 갑니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "매일Every day",
+      "text": "나는 운동장을 왕복 5번 뜁니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "/ 나는 보통 따른다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 보통 따른다. I usually follow",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 똑같은 계획을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 똑같은 계획을 the same schedule.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 6시에 일어난다.",
+      "text": "내가 조깅을 끝낸 후에 나는 샤워를 합니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
       "text": "나는 6시에 일어난다.I get up at six o'clock",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일 아침",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 매일 아침 every morning.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 방을 청소한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 나의 방을 청소한다.I clean my room,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 나는 조깅을 간다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그리고 나는 조깅을 간다.and then I go jogging",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/해피라는 이름을 가진 개와",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/해피라는 이름을 가진 개와with my dog named (Happy).",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 달린다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 달린다. I run",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 조깅을 마친 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "내가 조깅을 마친 후에After I finish jogging,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 샤워를 한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 나는 샤워를 한다.I take a shower.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 아침식사를 먹는다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 아침식사를 먹는다. I have breakfast",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 7:30분쯤",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 7:30분쯤 around 7:30 a.m.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "아침식사 후에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "아침식사 후에After breakfast,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 이를 닦고",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/나는 이를 닦고I brush my teeth,",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학교로 출발한다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/학교로 출발한다.and I leave for school",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/약 8:00 에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/약 8:00 에 at about eight o'clock.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 자주 나의 친구들을 만난다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 자주 나의 친구들을 만난다.I often meet my friends",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 약간 논다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 그리고 약간 논다.and play around a little",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/운동장에서",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/운동장에서in the schoolyard",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 수업에 가기전에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/우리가 수업에 가기전에before we go to class.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 가진다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 가진다.I have",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 네 개의 수업을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 네 개의 수업을four morning classes",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 점심식사 전에 시작하는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 점심식사 전에 시작하는that start before lunch time.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "각각의 수업은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "각각의 수업은Each class is",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 45분 길이이다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 약 45분 길이이다.about forty-five minutes long.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "What Do I Do Every Day? :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "What do I do in the morning?",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s9-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s9-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "운동장을 왕복으로",
+      "en": "to and from the playground"
+    },
+    {
+      "ko": "다섯번",
+      "en": "five times."
+    },
+    {
+      "ko": "매일",
+      "en": "Every day"
+    },
+    {
+      "ko": "나는 보통 따른다.",
+      "en": "I usually follow"
+    },
+    {
+      "ko": "똑같은 계획을",
+      "en": "the same schedule."
+    },
+    {
+      "ko": "매일 아침",
+      "en": "every morning."
+    },
+    {
+      "ko": "나는 나의 방을 청소한다.",
+      "en": "I clean my room,"
+    },
+    {
+      "ko": "그리고 나는 조깅을 간다.",
+      "en": "and then I go jogging"
+    },
+    {
+      "ko": "해피라는 이름을 가진 개와",
+      "en": "with my dog named (Happy)."
+    },
+    {
+      "ko": "나는 달린다.",
+      "en": "I run"
+    },
+    {
+      "ko": "내가 조깅을 마친 후에",
+      "en": "After I finish jogging,"
+    },
+    {
+      "ko": "나는 샤워를 한다.",
+      "en": "I take a shower."
+    },
+    {
+      "ko": "나는 아침식사를 먹는다.",
+      "en": "I have breakfast"
+    },
+    {
+      "ko": "아침식사 후에",
+      "en": "After breakfast,"
+    },
+    {
+      "ko": "나는 이를 닦고",
+      "en": "I brush my teeth,"
+    },
+    {
+      "ko": "학교로 출발한다.",
+      "en": "and I leave for school"
+    },
+    {
+      "ko": "나는 자주 나의 친구들을 만난다.",
+      "en": "I often meet my friends"
+    },
+    {
+      "ko": "그리고 약간 논다.",
+      "en": "and play around a little"
+    },
+    {
+      "ko": "운동장에서",
+      "en": "in the schoolyard"
+    },
+    {
+      "ko": "우리가 수업에 가기전에",
+      "en": "before we go to class."
+    },
+    {
+      "ko": "나는 가진다.",
+      "en": "I have"
+    },
+    {
+      "ko": "네 개의 수업을",
+      "en": "four morning classes"
+    },
+    {
+      "ko": "점심식사 전에 시작하는",
+      "en": "that start before lunch time."
+    },
+    {
+      "ko": "각각의 수업은",
+      "en": "Each class is"
+    }
   ]
 }

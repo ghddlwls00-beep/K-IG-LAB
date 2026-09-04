@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s20-4",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Historic City of Gyeongju (역사의 도시 경주)",
+  "label": "Chapter 20. Famous Places in Korea (한국의 명소)",
+  "menuLabel": "20-4. Historic City of Gyeongju",
   "unit": 20,
   "part": 4,
   "order": 84,
@@ -95,43 +95,37 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "The Shilla Kingdom was its most powerful during the 8th century.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 20. Famous Places in Korea (한국의 명소) - Historic City of Gyeongju (역사의 도시 경주)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "The Shilla Kingdom was its most powerful during the 8th century."
+        },
+        {
+          "n": "2",
+          "text": "Many people regard Gyeong-ju as a museum without walls."
+        },
+        {
+          "n": "3",
+          "text": "Koreans refer to it as this because it contains many of the old remains of theShilla Dynasty."
+        },
+        {
+          "n": "4",
+          "text": "Gyeong-ju is the old capital of the Shilla Kingdom."
+        },
+        {
+          "n": "5",
+          "text": "Another attractive destination is Gyeong-ju."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Many people regard Gyeong-ju as a museum without walls.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Koreans refer to it as this because it contains many of the old remains of theShilla Dynasty.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Gyeong-ju is the old capital of the Shilla Kingdom.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Another attractive destination is Gyeong-ju.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 신라왕국을",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 신라왕국을 of the Shilla Dynasty.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "또 다른 매력적인 행선지는 경주 입니다.",
+      "text": "신라 왕국은 8세기에 가장 강력했습니다.",
       "lang": "ko"
     },
     {
@@ -141,7 +135,7 @@
     },
     {
       "type": "paragraph",
-      "text": "신라 왕국은 8세기에 가장 강력했습니다.",
+      "text": "한국인들은 그곳을 이렇게 부릅니다.",
       "lang": "ko"
     },
     {
@@ -153,146 +147,49 @@
       "type": "paragraph",
       "text": "한국인들은 신라왕조의 많은 오래된 유물들을 가지고 있기 때문에 그것을 이렇게 부릅니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Koreans refer to it as this because it contains many of the old remains of the Shilla Dynasty.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "경주는",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "경주는Gyeong-ju",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 신라왕국의 가장오래된 수도입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 신라왕국의 가장오래된 수도입니다. is the old capital of the Shilla Kingdom.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "신라왕국은",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "신라왕국은 The Shilla Kingdom",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 강력했습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 가장 강력했습니다. was its most powerful",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 8세기 동안에",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 8세기 동안에 during the 8thcentury.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 사람들은 경주를 생각합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "많은 사람들은 경주를 생각합니다.Many people regard Gyeong-ju",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 벽이 없는 박물관으로",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 벽이 없는 박물관으로 as a museum without walls.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국인들은 그곳을 이렇게 부릅니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "한국인들은 그곳을 이렇게 부릅니다.Koreans refer to it as this",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그곳은 많은 오래된 유물을 포함하고 있기 때문입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/그곳은 많은 오래된 유물을 포함하고 있기 때문입니다. because it contains many of the old remains",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Famous Places :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Gyeong-Ju",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s20-4.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s20-4.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "신라왕국을",
+      "en": "of the Shilla Dynasty."
+    },
+    {
+      "ko": "경주는",
+      "en": "Gyeong-ju"
+    },
+    {
+      "ko": "신라왕국의 가장오래된 수도입니다.",
+      "en": "is the old capital of the Shilla Kingdom."
+    },
+    {
+      "ko": "신라왕국은",
+      "en": "The Shilla Kingdom"
+    },
+    {
+      "ko": "가장 강력했습니다.",
+      "en": "was its most powerful"
+    },
+    {
+      "ko": "많은 사람들은 경주를 생각합니다.",
+      "en": "Many people regard Gyeong-ju"
+    },
+    {
+      "ko": "벽이 없는 박물관으로",
+      "en": "as a museum without walls."
+    },
+    {
+      "ko": "한국인들은 그곳을 이렇게 부릅니다.",
+      "en": "Koreans refer to it as this"
+    },
+    {
+      "ko": "그곳은 많은 오래된 유물을 포함하고 있기 때문입니다.",
+      "en": "because it contains many of the old remains"
+    }
   ]
 }

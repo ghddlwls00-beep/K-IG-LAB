@@ -4,9 +4,9 @@
   "series": "s",
   "variant": "main",
   "pairId": null,
-  "title": "s4-1",
-  "label": "Chapter 1",
-  "menuLabel": null,
+  "title": "Greeting (인사말)",
+  "label": "Chapter 4. Relative Introduction (친척 소개)",
+  "menuLabel": "4-1. Greeting",
   "unit": 4,
   "part": 1,
   "order": 20,
@@ -50,19 +50,21 @@
   "video": [],
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "Let/Allow me tell you about my relatives.",
-      "lang": "en"
+      "type": "instruction",
+      "text": "Chapter 4. Relative Introduction (친척 소개) - Greeting (인사말)"
     },
     {
-      "type": "paragraph",
-      "text": "Let me introduce my relatives to you.",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "K-IG 교육 FOR STUDENT",
-      "lang": "en"
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Let/Allow me tell you about my relatives."
+        },
+        {
+          "n": "2",
+          "text": "Let me introduce my relatives to you."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -73,86 +75,29 @@
       "type": "paragraph",
       "text": "나의 친척에 대해서 말씀 드리겠습니다.",
       "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "소개하고 싶습니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "소개하고 싶습니다.Let me introduce",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 친척들을 당신에게",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 친척들을 당신에게 my relatives to you.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "당신에게 말하게 해주세요.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "당신에게 말하게 해주세요.Let/Allow me (to) tell you",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 친척들에 관해",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 내 친척들에 관해 about my relatives.",
-      "lang": "ko"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 1"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 2"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 3"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 4"
-    },
-    {
-      "type": "heading",
-      "text": "Chapter 5"
-    },
-    {
-      "type": "paragraph",
-      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "Relative Introduction :",
-      "lang": "en"
-    },
-    {
-      "type": "paragraph",
-      "text": "Greeting",
-      "lang": "en"
     }
   ],
   "legacyPath": "Student/s4-1.html",
   "legacyEncoding": "euc-kr",
   "legacyFlash": [
     "s4-1.swf"
+  ],
+  "chunkDrills": [
+    {
+      "ko": "소개하고 싶습니다.",
+      "en": "Let me introduce"
+    },
+    {
+      "ko": "내 친척들을 당신에게",
+      "en": "my relatives to you."
+    },
+    {
+      "ko": "당신에게 말하게 해주세요.",
+      "en": "Let/Allow me (to) tell you"
+    },
+    {
+      "ko": "내 친척들에 관해",
+      "en": "about my relatives."
+    }
   ]
 }
