@@ -34,8 +34,37 @@
   --line-strong: #0b0b0b;
 
   --dur: 180ms;
-  --dur-slow: 320ms;
+  --dur-slow: 420ms;
   --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes floatSlow {
+  from {
+    transform: translateY(0) scale(1);
+  }
+  to {
+    transform: translateY(-18px) scale(1.05);
+  }
 }
 
 @media (prefers-color-scheme: dark) {

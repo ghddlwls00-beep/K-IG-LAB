@@ -19,29 +19,47 @@ import {
  * a static file — the alternative, a `/[locale]/` segment on every route, would
  * triple the build for what is only interface chrome.
  */
+export type ThemeMode = "light" | "dark";
+
+const THEME_STORAGE_KEY = "passoff:theme";
+
 const LanguageContext = createContext<{
   lang: LangCode;
   setLang: (l: LangCode) => void;
   t: (key: StringKey) => string;
+  theme: ThemeMode;
+  setTheme: (t: ThemeMode) => void;
+  toggleTheme: () => void;
 }>({
   lang: DEFAULT_LANG,
   setLang: () => {},
   t: (key) => translate(DEFAULT_LANG, key),
+  theme: "light",
+  setTheme: () => {},
+  toggleTheme: () => {},
 });
 
 const STORAGE_KEY = "passoff:lang";
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
   const [lang, setLangState] = useState<LangCode>(DEFAULT_LANG);
+  const [theme, setThemeState] = useState<ThemeMode>("light");
 
-  // Restore after mount rather than during render, so the server and client
-  // produce identical first output and hydration stays clean.
+  // Restore language & theme after mount rather than during render, so the
+  // server and client produce identical first output and hydration stays clean.
   useEffect(() => {
     try {
-      const saved = window.localStorage.getItem(STORAGE_KEY);
-      if (saved && saved in HTML_LANG) setLangState(saved as LangCode);
+      const savedLang = window.localStorage.getItem(STORAGE_KEY);
+      if (savedLang && savedLang in HTML_LANG) setLangState(savedLang as LangCode);
+
+      const savedTheme = window.localStorage.getItem(THEME_STORAGE_KEY) as ThemeMode | null;
+      if (savedTheme === "light" || savedTheme === "dark") {
+        setThemeState(savedTheme);
+      } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        setThemeState("dark");
+      }
     } catch {
-      // storage unavailable — the default language is used
+      // storage unavailable — the default language and theme are used
     }
   }, []);
 
@@ -50,6 +68,11 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     document.documentElement.lang = HTML_LANG[lang];
   }, [lang]);
+
+  // Keep html data-theme aligned with current theme
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+  }, [theme]);
 
   const setLang = useCallback((next: LangCode) => {
     setLangState(next);
@@ -62,13 +85,41 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
 
   const t = useCallback((key: StringKey) => translate(lang, key), [lang]);
 
+  const setTheme = useCallback((next: ThemeMode) => {
+    setThemeState(next);
+    try {
+      window.localStorage.setItem(THEME_STORAGE_KEY, next);
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  const toggleTheme = useCallback(() => {
+    setThemeState((prev) => {
+      const next = prev === "light" ? "dark" : "light";
+      try {
+        window.localStorage.setItem(THEME_STORAGE_KEY, next);
+      } catch {
+        // ignore
+      }
+      return next;
+    });
+  }, []);
+
   return (
-    <LanguageContext.Provider value={{ lang, setLang, t }}>{children}</LanguageContext.Provider>
+    <LanguageContext.Provider value={{ lang, setLang, t, theme, setTheme, toggleTheme }}>
+      {children}
+    </LanguageContext.Provider>
   );
 }
 
 export function useLanguage() {
   return useContext(LanguageContext);
+}
+
+export function useTheme() {
+  const { theme, setTheme, toggleTheme } = useContext(LanguageContext);
+  return { theme, setTheme, toggleTheme };
 }
 
 /**

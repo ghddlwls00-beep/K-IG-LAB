@@ -6,8 +6,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "PASS-OFF 영어듣기훈련 프로그램",
-    template: "%s · PASS-OFF",
+    default: "K-IG교육 영어듣기 프로그램",
+    template: "%s · K-IG교육",
   },
   description:
     "English listening and speaking courseware — listening drills, sentence practice, phonics, and composition exercises.",

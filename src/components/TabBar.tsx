@@ -21,6 +21,10 @@ export function TabBar({ tabs, courseTabs }: { tabs: Tab[]; courseTabs: Record<s
   const pathname = usePathname();
   const { lang } = useLanguage();
 
+  if (pathname === "/") {
+    return null;
+  }
+
   // A course taught in the selected language leads the bar, so choosing 中文
   // actually surfaces the Chinese material rather than only relabelling menus.
   const ordered = [...tabs].sort(

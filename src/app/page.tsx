@@ -1,25 +1,27 @@
-import { T } from "@/components/LanguageProvider";
-import { TabList } from "@/components/TabList";
+import { LandingPage, type LandingTab } from "@/components/LandingPage";
 import { getTabs } from "@/lib/content";
+import { COURSE_BY_SLUG } from "@/lib/courses";
 
 export default function Home() {
-  const tabs = getTabs();
+  const tabs: LandingTab[] = getTabs().map((tab, idx) => ({
+    ...tab,
+    n: idx + 1,
+    num: String(idx + 1).padStart(2, "0"),
+    courseDetails: tab.courses
+      .map((slug) => {
+        const c = COURSE_BY_SLUG.get(slug);
+        if (!c) return null;
+        return {
+          slug: c.slug,
+          title: c.title,
+          titleEn: c.titleEn,
+          description: c.description,
+          kind: c.kind,
+        };
+      })
+      .filter((c): c is NonNullable<typeof c> => c !== null),
+  }));
 
-  return (
-    <main className="mx-auto max-w-4xl px-5 py-20">
-      <header className="mb-16">
-        <p className="mb-4 font-mono text-[11px] tracking-[0.25em] text-ink-faint uppercase">
-          <T k="site.subtitle" />
-        </p>
-        <h1 className="max-w-xl text-[2.6rem] leading-[1.08] font-medium tracking-tight text-balance">
-          PASS&#8209;OFF
-        </h1>
-        <p className="mt-5 max-w-lg text-[15px] leading-relaxed text-ink-soft">
-          <T k="site.tagline" />
-        </p>
-      </header>
-
-      <TabList tabs={tabs} />
-    </main>
-  );
+  return <LandingPage tabs={tabs} />;
 }
+
