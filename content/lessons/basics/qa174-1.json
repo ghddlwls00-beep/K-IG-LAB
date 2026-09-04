@@ -1,0 +1,68 @@
+{
+  "id": "qa174-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa174",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 174-1 〕",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 410,
+  "audio": [
+    {
+      "src": "/audio/basics/qa174.mp3",
+      "legacySrc": "sounds/qa174.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 174-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국의 발전) → 어떤 두 개의 사건이 한국을 더욱 더 발전하도록 만들었습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "223",
+          "text": "전쟁 후에, / 우리나라는 / 매우 빠르게 / 발전했어."
+        },
+        {
+          "n": "224",
+          "text": "그때 이후로 / 이 나라는 / 성장을 / 계속했어."
+        },
+        {
+          "n": "225",
+          "text": "우리는 / 올림픽 게임과 / FIFA 월드컵을 / 개최했어."
+        },
+        {
+          "n": "226",
+          "text": "난 / 우리나라가 / 매우 자랑스러워."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa174-1.htm",
+  "legacyEncoding": "utf-8"
+}

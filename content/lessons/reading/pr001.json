@@ -1,0 +1,47 @@
+{
+  "id": "pr001",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 001 ]",
+  "menuLabel": "[ pr001 ]",
+  "unit": 1,
+  "part": null,
+  "order": 0,
+  "audio": [
+    {
+      "src": "/audio/reading/pr001.mp3",
+      "legacySrc": "sounds/pr001.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 001 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Boys and girls speak differently. Scientists say that their differences create problems when mothers talk to sons and fathers talk to daughters. For instance, a mother's good counsel cannot work on her son and fathers often side with their sons. That doesn't mean, though, that parents and their other-sex child are doomed to miscommunicate with each other. As a result, children prefer to talk to their other-sex parent. Their communication will be more successful if parents respect their other-sex child's different way of speaking."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr001.htm",
+  "legacyEncoding": "utf-8"
+}

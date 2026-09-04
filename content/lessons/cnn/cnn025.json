@@ -1,0 +1,156 @@
+{
+  "id": "cnn025",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Japan Lifts Beef Embargo",
+  "label": "Japan Lifts Beef Embargo",
+  "menuLabel": "[ CNN 25 ]",
+  "unit": 25,
+  "part": null,
+  "order": 24,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn025.mp4",
+      "legacySrc": "CNN/CNN1-60/25.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Japan Lifts Beef Embargo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japan has eased its two-year embargo on U.S. beef, originally put in place due to “mad cow disease” fears. And the first limited shipments of U.S. beef arrived over the weekend at a chain of barbecue restaurants. But it may be weeks or even months before it shows up in Japan’s supermarkets and beef-and-rice bowl outlets. Before the ban, Japan had been the most lucrative overseas market for American beef.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "일본, 미국산 쇠고기 수입 금지 조치 해제",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "일본은 당초 ‘광우병’에 대한 우려 때문에 미국산 쇠고기에 대해 내렸던 수입 금지 조치를 2년 만에 완화했습니다. 그리고 한정된 물량의 첫 미국산 쇠고기가 지난 주말, (일본의) 한 바비큐 레스토랑 체인점에 공급됐습니다. 하지만 미국산 쇠고기가 일본의 슈퍼마켓이나 일반 소규모 식당에 공급되기까지는 앞으로 몇 주 혹은 몇 달이 더 있어야 할 것입니다. 일본은 수입금지 조처 이전에는 (수익성이 가장 높은) 미국산 쇠고기의 최대 해외 시장이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "흔히 ‘제팬’으로 알고 있지만, 영어 발음은 2음절에 강세가 있어 [저펜]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전치사 to가 강세를 받지 못해 [두]로 약화되었는데, 문장에 따라서 [루], [르] 등으로 약화되기도 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "limited가 [리미티ㄷ]가 아니라 [리밋잇]으로 발음되어 limit it으로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "U.S. beef/ beef의 끝자음 [f] 발음이 거의 안 들려 bee처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "and의 끝자음 [d]가 탈락되면서 beef와 연음되어 한 단어처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "before의 be-발음이 거의 들리지 않아 for로 착각할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. embargo/ 통상 정지, 수출 금지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) rice bowl/ 밥그릇 (2) outlet/ 판매 대리점, 직판장",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Japan",
+          "text": "[저펜]."
+        },
+        {
+          "n": "due to",
+          "text": "[두두]."
+        },
+        {
+          "n": "limited shipments",
+          "text": "[리밋잇 쉽먼ㅊ]."
+        },
+        {
+          "n": "beef-and-rice",
+          "text": "[비팬라이ㅅ]."
+        },
+        {
+          "n": "Before the ban",
+          "text": "[포더벤]."
+        },
+        {
+          "n": "lift an embargo (on)",
+          "text": "(…을) 해금하다, 통상 정지를 해제하다"
+        },
+        {
+          "n": "ease",
+          "text": "완화하다, 해제하다"
+        },
+        {
+          "n": "put (A) in place",
+          "text": "(A와 같은 조치를) 취하다 [내리다]"
+        },
+        {
+          "n": "due to",
+          "text": "…에 기인하는, …때문에(because of)"
+        },
+        {
+          "n": "mad cow (disease)",
+          "text": "광우병: 소에게 발생하는 전염성 뇌질환의 일종"
+        },
+        {
+          "n": "fear",
+          "text": "두려움, 무서움, 공포; 무서운 이유"
+        },
+        {
+          "n": "shipment",
+          "text": "(화물의) 적하량, 탁송화물; 발송, 선적"
+        },
+        {
+          "n": "barbecue restaurant",
+          "text": "바비큐 레스토랑"
+        },
+        {
+          "n": "show up",
+          "text": "나타나다, 얼굴을 보이다"
+        },
+        {
+          "n": "beef-and-rice bowl outlet[restaurant]",
+          "text": "일반 소규모 음식점[식당]"
+        },
+        {
+          "n": "ban",
+          "text": "금지(령)"
+        },
+        {
+          "n": "lucrative",
+          "text": "이익이 있는, 유리한, 수지가 맞는"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/25.wmv",
+  "legacyEncoding": "binary"
+}

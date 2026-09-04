@@ -1,0 +1,47 @@
+{
+  "id": "pr224",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 224 ]",
+  "menuLabel": "[ pr224 ]",
+  "unit": 224,
+  "part": null,
+  "order": 446,
+  "audio": [
+    {
+      "src": "/audio/reading/pr224.mp3",
+      "legacySrc": "sounds/pr224.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 224 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Today, many states allow television news report of court trials. They seem to think that covering on television is the best way to inform the public about the court system. But I don't agree with them. A fair trials isn't possible when TV cameras are rolling. Judges, juniors, and witnesses will be distracted by knowing that they are being taped on the local evening news. Many witnesses will not want to appears in a trial on TV. Let's use TV cameras for fictional trials, not real ones."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr224.htm",
+  "legacyEncoding": "utf-8"
+}

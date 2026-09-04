@@ -1,0 +1,458 @@
+{
+  "id": "s10-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s10-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 3,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/student/s10-3-1.mp3",
+      "legacySrc": "s10-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-2.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-3.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-4.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-5.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-6.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-7.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-8.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-9.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-10.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-11.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-12.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-13.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-14.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-15.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-16.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-17.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-18.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-19.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-20.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-21.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-22.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-23.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-24.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-25.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-26.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-3-27.mp3",
+      "legacySrc": "s10-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Even after I come home, I study for a couple more hours before going to sleep.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, I feel like I study too much, and it is too hard.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though it is hard work, I am happy to learn new things and spend time with my friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "From Monday to Friday, I go to school for about seven hours and after school, I go to academies for several more hours.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My weekday is similar to the other students in my class.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 평일은 나의 반에 있는 다른 학생들과 비슷합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월요일부터 금요일까지, 나는 약 7시간 동안 학교에 가고 방과 후에 나는 몇 시간 학원들로 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "심지어 내가 집에 온 이후에도, 나는 잠자러 가기 전에 두서너 시간 더 공부합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로, 나는 내가 공부를 너무 많이 하고 그것이 너무 어렵다고 느낍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그것이 어려운 일일지라도, 나는 새로운 것들을 배우는 것과 나의 친구들과 시간을 보내는 것이 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 평일은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 평일은My weekday is",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다른 학생들과 비슷합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다른 학생들과 비슷합니다.similar to the other students",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 반에 있는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 반에 있는in my class.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월요일부터 금요일 까지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월요일부터 금요일 까지 From Monday to Friday,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학교에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학교에 갑니다. I go to school",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 7시간 동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 7시간 동안 for about seven hours",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 방과 후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 방과 후에 and after school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학원에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학원에 갑니다. I go to academies",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇 시간동안 더",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇 시간동안 더for several more hours.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "심지어 내가 집에 온 이후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "심지어 내가 집에 온 이후에Even after I come home,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/공부합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/공부합니다. I study",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/두 서너 시간 동안 더",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/두 서너 시간 동안 더for a couple more hours",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/잠자리에 들기 전에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/잠자리에 들기 전에 before going to sleep.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로Sometimes,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 느낍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 느낍니다. I feel like",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 너무 많이 공부한다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 너무 많이 공부한다고 I study too much,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그것이 너무 어렵다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그것이 너무 어렵다고 and it is too hard.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그것이 어려운 일일지라도",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그것이 어려운 일일지라도Even though it is hard work,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 행복합니다. I am happy",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 새로운 것을 배우로 시간을 보내는 것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 새로운 것을 배우로 시간을 보내는 것이 to learn new things and spend time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 친구들과 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 친구들과 함께 with my friends.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Week? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyday",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s10-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s10-3.swf"
+  ]
+}

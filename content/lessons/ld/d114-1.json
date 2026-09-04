@@ -1,0 +1,99 @@
+{
+  "id": "d114-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d114",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 114 회 ]",
+  "menuLabel": "[ D 114-1 ]",
+  "unit": 114,
+  "part": null,
+  "order": 227,
+  "audio": [
+    {
+      "src": "/audio/ld/d114.mp3",
+      "legacySrc": "sounds/d114.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 114 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "1492년 여름에 컬럼버스는 스페인으로부터 대서양을 건너서 항해했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 아시아로의 지름길을 발견하기를 희망하고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 해 가을에 컬럼버스는 북미 해안 근해의 한 섬에 내렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 컬럼버스는 자신이 인도에 도착했다고 생각해서"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 거기에서 만난 사람들을 “인디언”이라고 불렀다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 번째 인디언 즉 미국 원주민들은 아마 25,000 년 이상 전에 아시아로부터 왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 당시에 세계의 북쪽 절반의 대부분은 얼음으로 덮여있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 얼음이 녹기 전에 지금 물 밑의 땅의 많은 부분이 건조했다."
+    },
+    {
+      "type": "instruction",
+      "text": "인류학자들은 베링 해협 근처의 이 지역 중의 하나가"
+    },
+    {
+      "type": "instruction",
+      "text": "알라스카로 아시아와 연결되어 있었다고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "큰 무리들의 동물을 사냥하고 있었던 사람들은 아마도"
+    },
+    {
+      "type": "instruction",
+      "text": "이 지역을 가로질러 방황하여 북미에 머물렀을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "컬럼버스가 도착할 무렵 미국 원주민은 북미와 남미의 대부분에 살고 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d114-1.htm",
+  "legacyEncoding": "utf-8"
+}

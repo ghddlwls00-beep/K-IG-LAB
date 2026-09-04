@@ -1,0 +1,95 @@
+{
+  "id": "d204-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d204",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 204 회 ]",
+  "menuLabel": "[ D 204-1 ]",
+  "unit": 204,
+  "part": null,
+  "order": 406,
+  "audio": [
+    {
+      "src": "/audio/ld/d204.mp3",
+      "legacySrc": "sounds/d204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 204 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "한때 샌프랜시스코에서 하숙집을 운영하는 한 친절한 노파가 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 정말로 하숙생들의 최상의 이익을 심장에 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 새 하숙생이 생길 때마다 언제나 그녀의 방금 구운 복숭아 파이를 하나 그에게 가져다 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러 해 동안 그녀는 이 단순한 친절 행위에 대하여 그녀의 감사에 찬"
+    },
+    {
+      "type": "instruction",
+      "text": "하숙생이 그녀에게 드리는 감사의 미소를 보는 것을 기뻐했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 어느 날 그녀가 자신의 김이 무럭무럭나는 파이 하나를 새로운 하숙생에게"
+    },
+    {
+      "type": "instruction",
+      "text": "가져갔을 때 그는 정중하게 그 맛있는 것을 거절했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 여인은 약간 마음이 상했으나 그 남자가 당장 거기에서 한 조각을 먹도록 권했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그 패이스트리(과자)가 그에게 맞지 않다고 말하면서 여러 번 사양하려고 시도했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 여인은 거절을 대답으로 받아들이지 않았고 마침내"
+    },
+    {
+      "type": "instruction",
+      "text": "그 가련한 남자는 항복하고 파이 한 조각을 먹었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그날 밤 그는 소화불량으로 죽었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d204-1.htm",
+  "legacyEncoding": "utf-8"
+}

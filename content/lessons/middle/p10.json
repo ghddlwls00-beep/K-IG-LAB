@@ -1,0 +1,171 @@
+{
+  "id": "p10",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle10]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": null,
+  "order": 102,
+  "audio": [
+    {
+      "src": "/audio/middle/p10.mp3",
+      "legacySrc": "sounds/p10.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle10]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 10: What Do I Do during the Week?"
+    },
+    {
+      "type": "hints",
+      "text": "I would like to tell you about my weekday schedule."
+    },
+    {
+      "type": "instruction",
+      "text": "My weekly schedule is just as busy as my daily one."
+    },
+    {
+      "type": "instruction",
+      "text": "Each day is busier than the one before."
+    },
+    {
+      "type": "instruction",
+      "text": "For me, it is very hard to get out of bed every Monday morning."
+    },
+    {
+      "type": "instruction",
+      "text": "When my mother shouts at me to wake up, I don’t want to get up."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to stay in bed longer, and after a few minutes,"
+    },
+    {
+      "type": "instruction",
+      "text": "I finally get out of bed."
+    },
+    {
+      "type": "instruction",
+      "text": "After I get up and prepare for school,"
+    },
+    {
+      "type": "instruction",
+      "text": "the first day of my new week has started on this note."
+    },
+    {
+      "type": "instruction",
+      "text": "My weekday is similar to the other students in my class."
+    },
+    {
+      "type": "instruction",
+      "text": "From Monday to Friday,"
+    },
+    {
+      "type": "instruction",
+      "text": "I go to school for about seven hours and after school,"
+    },
+    {
+      "type": "instruction",
+      "text": "I go to academies for several more hours."
+    },
+    {
+      "type": "instruction",
+      "text": "Even after I come home,"
+    },
+    {
+      "type": "instruction",
+      "text": "I study for a couple more hours before going to sleep."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, I feel like I study too much, and it is too hard."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though it is hard work,"
+    },
+    {
+      "type": "instruction",
+      "text": "I am happy to learn new things and spend time with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Every night when I get home, I chat on the computer with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Nowadays, I am on the computer for a couple of hours every day."
+    },
+    {
+      "type": "instruction",
+      "text": "It is a great way to talk to my friends about what we did during the day."
+    },
+    {
+      "type": "instruction",
+      "text": "I exchange information about our homework, about other friends"
+    },
+    {
+      "type": "instruction",
+      "text": "and what is going on in the entertainment scene in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "Also, I often do my homework on the computer."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I watch TV or listen to music before I go to bed."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite time is Friday night because it is the start of the weekend."
+    },
+    {
+      "type": "instruction",
+      "text": "It is the end of normal schedule of school and academies."
+    },
+    {
+      "type": "instruction",
+      "text": "I can reflect on things that did not go well"
+    },
+    {
+      "type": "instruction",
+      "text": "and hopefully plan a better new week."
+    },
+    {
+      "type": "instruction",
+      "text": "Before I do this, I start thinking about the fun things"
+    },
+    {
+      "type": "instruction",
+      "text": "that I have planned for the upcoming weekend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p10.htm",
+  "legacyEncoding": "utf-8"
+}

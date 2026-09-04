@@ -1,0 +1,47 @@
+{
+  "id": "pr002-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr002",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 002-1 ]",
+  "menuLabel": "[ pr002-1 ]",
+  "unit": 2,
+  "part": null,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/reading/pr002.mp3",
+      "legacySrc": "sounds/pr002.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 002-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "공기의 질이 점점 나빠짐에 따라 민간단체에서 공기를 더 깨끗하게 만들려고 노력하고 있다. (그러나) 계속된 그들의 노력에도 불구하고, 공장과 자동차들은 여전히 너무도 많은 더러운 연기를 만들어 내고 공기 중으로 너무 많은 화학 물질을 내뿜고 있다. 아마도 우리가 어딜 가나 산소 공급통을 가지고 다녀야 할 때가 곧 오게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr002-1.htm",
+  "legacyEncoding": "utf-8"
+}

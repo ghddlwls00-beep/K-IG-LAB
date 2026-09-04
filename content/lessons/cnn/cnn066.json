@@ -1,0 +1,150 @@
+{
+  "id": "cnn066",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "EU to Compete in Education",
+  "label": "EU to Compete in Education",
+  "menuLabel": "[ CNN 66 ]",
+  "unit": 66,
+  "part": null,
+  "order": 65,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn066.mp4",
+      "legacySrc": "CNN/CNN61-120/66.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EU to Compete in Education"
+    },
+    {
+      "type": "paragraph",
+      "text": "The European Union is flexing its academic muscle in a bid to topple the U.S. from its ivory tower. The U.S. is set to unveil plans for a rival to the venerable Massachusetts Institute of Technology. It’s afraid it’s lagging behind the U.S. in technological expertise and the risk to be overtaken by the likes of China and India. EU President Jos? Manuel Barroso says a new elite university will help address that balance. But don’t dust off your mortarboard just yet. EU lawmakers haven’t decided where the university will be located or what form it’ll take.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "EU, 유럽판 MIT 세우기로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유럽연합(EU)이 학문적 역량을 넓혀 미국의 명문대학을 뛰어넘으려는 시도를 하고 있습니다. EU는 명문 매사추세츠 공과 대학에 맞설 경쟁 대학 설립 방안을 발표할 예정입니다. EU는 기술 전문성에서 미국에 뒤처지게 되고, 중국 및 인도와 같은 국가들에게 추월당할까봐 우려하고 있습니다. 호세 마누엘 바로소EU 집행위원장은 새로운 명문대학의 설립이 (학문적) 균형을 이루는 데 기여할 것이라고 밝혔습니다. 하지만, 벌써부터 입학을 준비하지는 마십시오. EU 의원들은 대학이 세워질 위치와 구체적인 대학 형태에 대해 아직 결정하지 못했으니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모음 o는 [아]와 [오]의 중간 발음이지만 영국식 발음에서는 [오]에 가깝게 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "lag의 모음 [에]가 영국식 발음의 영향을 받아 [아]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nd의 끝자음 [d]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "off의 [f]와 your의 [ju]가 연음되어 a few로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. overtake/ 추월하다, …을 따라잡다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. dust off golf club/ 다시 골프클럽에 다니다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "topple",
+          "text": "[토플]."
+        },
+        {
+          "n": "lagging behind",
+          "text": "[라깅 버하인]."
+        },
+        {
+          "n": "off your",
+          "text": "[어퓨어]."
+        },
+        {
+          "n": "flex one’s muscle",
+          "text": "힘을 과시하다, 위세를 보이다"
+        },
+        {
+          "n": "in a bid to",
+          "text": "…하기 위하여"
+        },
+        {
+          "n": "topple",
+          "text": "…에서 넘어뜨리다, 끌어내리다"
+        },
+        {
+          "n": "ivory tower",
+          "text": "대학, 연구실: 주로 학문의 상아탑"
+        },
+        {
+          "n": "U.S.",
+          "text": "문맥상 EU가 맞는데, 앵커가U.S.로 잘못 말하고 있다."
+        },
+        {
+          "n": "unveil",
+          "text": "발표하다(announce)"
+        },
+        {
+          "n": "venerable",
+          "text": "유서 깊은; 존경할 만한, 공경할만한"
+        },
+        {
+          "n": "Massachusetts Institute of Technology",
+          "text": "매사추세츠 공과대학(MIT)"
+        },
+        {
+          "n": "lag behind",
+          "text": "처지다, 뒤떨어지다"
+        },
+        {
+          "n": "expertise",
+          "text": "전문적 기술[지식]"
+        },
+        {
+          "n": "be overtaken by",
+          "text": "…에 의해 추월당하다"
+        },
+        {
+          "n": "the like(s) of",
+          "text": "…와 비슷한 사람[것], 동등한 것"
+        },
+        {
+          "n": "address",
+          "text": "대처하다, 본격적으로 착수하다"
+        },
+        {
+          "n": "dust off",
+          "text": "(방치했던 물건을) 꺼내다; 다시 시작하다"
+        },
+        {
+          "n": "mortarboard",
+          "text": "(대학의 교수나 학생이 쓰는) 학사모, 사각모"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/66.wmv",
+  "legacyEncoding": "binary"
+}

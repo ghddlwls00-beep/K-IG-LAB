@@ -1,0 +1,56 @@
+{
+  "id": "qa013-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa013",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 013-1 〕",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/basics/qa013.mp3",
+      "legacySrc": "sounds/qa013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 013-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "( 나이 ) → 당신은 몇 살 입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "3",
+          "text": "난 / 12살 / 이야."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa013-1.htm",
+  "legacyEncoding": "utf-8"
+}

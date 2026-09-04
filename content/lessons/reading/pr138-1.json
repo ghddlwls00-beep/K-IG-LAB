@@ -1,0 +1,47 @@
+{
+  "id": "pr138-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr138",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 138-1 ]",
+  "menuLabel": "[ pr138-1 ]",
+  "unit": 138,
+  "part": null,
+  "order": 275,
+  "audio": [
+    {
+      "src": "/audio/reading/pr138.mp3",
+      "legacySrc": "sounds/pr138.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 138-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모기는 가장 기꺼이 인간과 겨루려 하는 곤충이다. 가끔 우리는 우리의 손안에 슬리퍼를 가지고 파자마를 입은 채 그리고 눈은 천장에 고정시킨채 침대위에 누운 적이 있다. 사람과 대면하면서 모기의 전략은 진화해왔다. 모기는 이륙할 때 더 빠르게 더 무의식적으로 그리고 활기차게 되는 것을 배워왔다. 최근 세대의 일부 대단한 모기는 주저하지 않고 희생자의 베게밑에 숨는다. 그 모기들은 에드가 알랜 포우의 Stolen Letter의 원리를 발견했다. 가장 좋은 숨을 장소는 가장 잘보이는 곳이다. 왜냐하면 우리는 항상 매우 가가운 것을 멀리서 찾을 것에 대해 항상 생각한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr138-1.htm",
+  "legacyEncoding": "utf-8"
+}

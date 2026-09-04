@@ -1,0 +1,94 @@
+{
+  "id": "cnn039",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Pilot Whales* Beached* in New Zealand",
+  "label": "Pilot Whales* Beached* in New Zealand",
+  "menuLabel": "[ CNN 39 ]",
+  "unit": 39,
+  "part": null,
+  "order": 38,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn039.mp4",
+      "legacySrc": "CNN/CNN1-60/39.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Pilot Whales* Beached* in New Zealand"
+    },
+    {
+      "type": "paragraph",
+      "text": "More than 100 pilot whales have beached themselves on New Zealand’s South Island. Some say this is the country’s biggest case of ‘beaching’ in more than a decade. Conservation authorities say more than a dozen whales have already died and hundreds of rescue workers have refloated the rest of the whales and are trying to keep their skin cool and moist. They hope to keep the animals alive so they can be herded back to sea at high tide.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "뉴질랜드 해안가, 파일럿 고래 떼죽음",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뉴질랜드의 남섬 해변에 100마리가 넘는 파일럿 고래들이 스스로 뭍으로 올라왔습니다. 일각에서는 이번이 지난 십여년 만에 뉴질랜드에서 일어난 최대 규모의‘뭍으로 올라오기’사건이라고 말합니다. 환경보호 당국은 이미 12마리가 넘는 고래가 죽었고 수백명의 구조 대원들이 나머지 고래들을 해변에서 바다 쪽으로 끌어내서 고래의 피부를 차갑고 촉촉하게 유지시켜 주려고 애쓰고 있다고 전해졌습니다. 그들은 이 동물들이 살아 남아서 만조가 되면 다시 떼지어 바다로 돌아갈 수 있게 되기를 바라고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) conservation/ (환경,자원,문화재 따위의) 보존, 보호, 유지 (2) authorities/ 당국, 관헌",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. herd/ 떼를 이루어 가다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* pilot whale",
+          "text": "파일럿 고래, 검은 고래"
+        },
+        {
+          "n": "* beach",
+          "text": "해변에 올라가다[얹히다]"
+        },
+        {
+          "n": "South Island",
+          "text": "남섬: 뉴질랜드는 남섬과 북섬으로 이루어져있는데 그 중에서도 남섬은 자연의 신비함과 아름다움으로 유명하다."
+        },
+        {
+          "n": "Conservation authorities",
+          "text": "환경보호 당국"
+        },
+        {
+          "n": "rescue worker",
+          "text": "구조 대원"
+        },
+        {
+          "n": "refloat",
+          "text": "(배 따위를) 다시 뜨게 하다, 이초(離礁)시키다"
+        },
+        {
+          "n": "moist",
+          "text": "습한, 축축한, 습기를 머금은, 젖은"
+        },
+        {
+          "n": "herd back to",
+          "text": "떼지어 …로 되돌아가다"
+        },
+        {
+          "n": "high tide",
+          "text": "만조; 한사리 때"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/39.wmv",
+  "legacyEncoding": "binary"
+}

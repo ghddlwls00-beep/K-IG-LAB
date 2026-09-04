@@ -1,0 +1,96 @@
+{
+  "id": "po04-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po04",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 4,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/basics/po04.mp3",
+      "legacySrc": "sounds/po04.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "원리 4. 친척 소개"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "36",
+          "text": "난 / 많은 친척들이 / 있어."
+        },
+        {
+          "n": "37",
+          "text": "나의 아버지는 / 두 명의 남동생과 / 한 명의 누나가 / 있어."
+        },
+        {
+          "n": "38",
+          "text": "나의 아버지는 / 둘째 아들 / 이셔."
+        },
+        {
+          "n": "39",
+          "text": "나의 어머니는 / 한 명의 남동생과 / 세 명의 여동생이 / / 있어."
+        },
+        {
+          "n": "40",
+          "text": "나의 엄마는 / 장녀 / 이셔."
+        },
+        {
+          "n": "41",
+          "text": "나의 삼촌과 이모들은 / 모두 결혼하셨어."
+        },
+        {
+          "n": "42",
+          "text": "난 / 열두 명의 사촌들이 / 있어."
+        },
+        {
+          "n": "43",
+          "text": "내가 가장 좋아하는 친척은 / 나의 큰 삼촌/ 이셔."
+        },
+        {
+          "n": "44",
+          "text": "그는 / 매우 친절하고 / 관대하 / 셔."
+        },
+        {
+          "n": "45",
+          "text": "그는 / 피아노와 기타를 / 매우 잘 / 칠 수 있어."
+        },
+        {
+          "n": "46",
+          "text": "그는 / 영어와 불어 둘 다 / 말할 줄 아셔."
+        },
+        {
+          "n": "47",
+          "text": "난 / 정말 / 그분을 / 존경해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po04-1.htm",
+  "legacyEncoding": "utf-8"
+}

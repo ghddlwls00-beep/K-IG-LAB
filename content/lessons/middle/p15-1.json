@@ -1,0 +1,139 @@
+{
+  "id": "p15-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p15",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle15-1]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": null,
+  "order": 151,
+  "audio": [
+    {
+      "src": "/audio/middle/p15.mp3",
+      "legacySrc": "sounds/p15.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle15-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "15과 내가 누구를 존경할까요?"
+    },
+    {
+      "type": "instruction",
+      "text": "몇 년 전에 우리나라는 2002월드컵을 개최했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라의 축구선수들은 최고의 팀 중 하나가 아니었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "월드컵 이전에 축구는 우리나라에서 유명하지 않았습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "스포츠는 새로운 영웅과 스타를 만드는 방법을 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 당신에게 내가 가장 존경하는"
+    },
+    {
+      "type": "instruction",
+      "text": "한국 축구계의 한 사람에 대해서 소개하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 가장 존경하는 사람은"
+    },
+    {
+      "type": "instruction",
+      "text": "네덜란드 출신의 대한민국 국가대표팀 감독인 거스 히딩크 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 한국팀의 감독이었던 시간 동안,"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리 축구선수들을 매우 강하게 훈련시켰습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 히딩크 감독이 많은 시간을 한국의 축구팀 훈련시키는데 보냈지만,"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 여전히 많은 경기를 승리하지 못했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 그에 대해서 불평했고"
+    },
+    {
+      "type": "instruction",
+      "text": "성공의 부족에 대해서 그를 비난했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그에게 있어서 많은 한국 사람들의 신뢰가 부족했음에도 불구하고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 결코 그의 자신감을 잃어버리지 않았습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 항상 좋은 선수들이 되기 위해서는"
+    },
+    {
+      "type": "instruction",
+      "text": "기초부터 시작해야 한다고 강조했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "열심히 하고 그의 계획을 충실히 행함으로써"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 2002년 월드컵 동안 한국팀을 준결승까지 진출시킬 수 있었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "한마디로 말하자면, 히딩크 감독은"
+    },
+    {
+      "type": "instruction",
+      "text": "그의 능력에 대한 한국사람들의 신뢰가 부족함에도 불구하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그가 성공할 수 있다는 것을 증명했습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p15-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "d102-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d102",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 102 회 ]",
+  "menuLabel": "[ D 102-1 ]",
+  "unit": 102,
+  "part": null,
+  "order": 203,
+  "audio": [
+    {
+      "src": "/audio/ld/d102.mp3",
+      "legacySrc": "sounds/d102.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 102 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "매일 수백만명의 사람들이 라디오, 텔레비젼 혹은 신문에서 기사 보도를 점검한다."
+    },
+    {
+      "type": "instruction",
+      "text": "기상 보도는 우리가 우리의 활동을 계획하도록 도와준다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 보도들은 배와 비행기들의 항로를 계획하는 사람들에게 매우 중요하다."
+    },
+    {
+      "type": "instruction",
+      "text": "농부들, 건설자들, 그리고 그 이외의 밖에서 일하는 사람들도 날씨에 대하여 염려한다."
+    },
+    {
+      "type": "instruction",
+      "text": "심한 폭풍의 예언은 많은 인명을 구하는데 도움이 될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "날씨를 연구하고 예언하는 과학자들은 기상학자라고 불린다. 그들은 기상 보도를 준비한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 폭풍, 강한 바람에 대한 경고를 하고 그 날씨의 기록을 보관한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 기상국, 위성, 기상 풍선으로부터 세계의 날씨에 대한 정보를 입수한다."
+    },
+    {
+      "type": "instruction",
+      "text": "특수 비행기와 선박도 날씨에 대한 정보를 수집한다."
+    },
+    {
+      "type": "instruction",
+      "text": "기상학자들은 기상지도를 준비하기 위하여 이 정보를 이용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 지도들은 다른 지역들에서의 온도, 기압, 바람 습도를 보여준다."
+    },
+    {
+      "type": "instruction",
+      "text": "기상학자들은 이런 지도들을 연구하고 그들의 예측을 만든다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d102-1.htm",
+  "legacyEncoding": "utf-8"
+}

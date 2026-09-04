@@ -1,0 +1,138 @@
+{
+  "id": "w20-5",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w20-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 5,
+  "order": 83,
+  "audio": [
+    {
+      "src": "/audio/woman/w20-5-1.mp3",
+      "legacySrc": "w20-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-5-2.mp3",
+      "legacySrc": "w20-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-5-3.mp3",
+      "legacySrc": "w20-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-5-4.mp3",
+      "legacySrc": "w20-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-5-5.mp3",
+      "legacySrc": "w20-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-5-6.mp3",
+      "legacySrc": "w20-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places to Visit in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Natural Wonder: Jeju Island",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "제주 섬은 한국의 신혼부부들이 그들의 신혼여행을 가는 곳 중에 가장 좋아하는 장소입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeju island is a favorite place amongst Korean newlyweds to go on their honeymoons.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "제주 섬에서는 할 재미있는 것들이 많이 있습니다. 그리고 찾아갈 많은 아름다운 장소들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are so many fun things to do on Jeju Island and many beautiful spots to visit.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한라산은 제주 섬에서 가장 보기 쉬운 매력적인 장소입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mt. Halla is the most visible attraction on Jeju Island.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 제주 섬에 위치하고 남한에서 가장 높은 산입니다. 그것은 높이가 약 2천 미터 입니다(약 6천5백 피트)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is located in the center of Jeju Island and is the highest mountainin South Korea; it’s almost 2,000 meters high (about 6500 feet).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "아마도 한국에서 가장 유명한 자연의 신비로움은 제주라 불리는 섬입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w20-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w20-5.swf"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr066",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 066 ]",
+  "menuLabel": "[ pr066 ]",
+  "unit": 66,
+  "part": null,
+  "order": 130,
+  "audio": [
+    {
+      "src": "/audio/reading/pr066.mp3",
+      "legacySrc": "sounds/pr066.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 066 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "According to ancient superstitions, moles reveal a person’s character. For example, a mole on one’s nose means that he or she is strong-willed and trustworthy. Moles are also believed to foretell the future. A good illustration of these is that Having a mole over one’s right eyebrow means he or she will be lucky with money and have a successful career. Other instance in this category include a mole on the hand, the most desired, forecasting talent, health, and happiness."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr066.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "pr052",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 052 ]",
+  "menuLabel": "[ pr052 ]",
+  "unit": 52,
+  "part": null,
+  "order": 102,
+  "audio": [
+    {
+      "src": "/audio/reading/pr052.mp3",
+      "legacySrc": "sounds/pr052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 052 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Every mother and father wants to raise a child with a strong moral"
+    },
+    {
+      "type": "hints",
+      "text": "character. We want our children to know good from bad, and right from"
+    },
+    {
+      "type": "instruction",
+      "text": "wrong. We hope they’ll learn to behave morally and ethically, and grow"
+    },
+    {
+      "type": "instruction",
+      "text": "up to be honest and considerate. In short, we want our children to"
+    },
+    {
+      "type": "instruction",
+      "text": "develop a conscience―a powerful inner voice that will keep them on the"
+    },
+    {
+      "type": "instruction",
+      "text": "right path. But a conscience does not develop by itself, so the job of"
+    },
+    {
+      "type": "instruction",
+      "text": "building one is ours. It’s a process parents need to work on day after"
+    },
+    {
+      "type": "instruction",
+      "text": "day, and year after year. We need to constantly distinguish right from"
+    },
+    {
+      "type": "instruction",
+      "text": "wrong, and to model appropriate behavior. Eventually, our children will"
+    },
+    {
+      "type": "instruction",
+      "text": "fully accept our messages, and they will become the essence of their"
+    },
+    {
+      "type": "instruction",
+      "text": "character."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr052.htm",
+  "legacyEncoding": "utf-8"
+}

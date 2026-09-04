@@ -1,0 +1,343 @@
+{
+  "id": "s11-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s11-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 52,
+  "audio": [
+    {
+      "src": "/audio/student/s11-2-1.mp3",
+      "legacySrc": "s11-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-2.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-3.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-4.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-5.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-6.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-7.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-8.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-9.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-10.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-11.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-12.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-13.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-14.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-15.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-16.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-17.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-18.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-2-19.mp3",
+      "legacySrc": "s11-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My father helps me a lot because he is always interested in knowing what is going on in my life.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes he goes on business trips, but if he is at home, we like to go out for dinner together as a family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On Saturdays, my father also finishes his day early.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 외출하기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 외출하기를 좋아합니다. we like to go out",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 저녁식사를 함께 하러",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 저녁식사를 함께 하러for dinner together",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족으로써",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족으로써 as a family.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "토요일에, 나의 아버지 또한 그의 하루를 일찍 마칩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "가끔씩 그는 출장을 가지만, 그가 집에 계시면, 우리는 함께 저녁식사를 하러 외출하기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes he goes on business trips, but if he is at home, we like togo out for dinner together as a family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지께서는 항상 나의 삶에 무슨 일이 일어나는지에 관심이 있으셔서 나를 많이 도와주십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "토요일 마다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "토요일 마다On Saturdays,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 아버지는 또한 마치십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 아버지는 또한 마치십니다. my father also finishes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 하루를 일찍",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 하루를 일찍 his day early.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로Sometimes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 가십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 가십니다.he goes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 출장을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 출장을on business trips,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그러나 만약 그가 집에 계시면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그러나 만약 그가 집에 계시면 but if he is at home,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 나를 많이 돕습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 나를 많이 돕습니다.My father helps me a lot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 항상 그는 관심이 있으시기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 항상 그는 관심이 있으시기 때문입니다. because he is always interested",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아는데",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아는데in knowing",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 무슨일이 일어나는지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 무슨일이 일어나는지 what is going on",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 삶에 관해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 삶에 관해 in my life.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Weekends? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saturday Night",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s11-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s11-2.swf"
+  ]
+}

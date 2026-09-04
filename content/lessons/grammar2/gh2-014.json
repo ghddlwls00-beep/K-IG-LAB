@@ -1,0 +1,108 @@
+{
+  "id": "gh2-014",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 14 ]",
+  "menuLabel": "[ 14과 영어 ]",
+  "unit": 14,
+  "part": null,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-014.mp3",
+      "legacySrc": "sounds/gh2-014.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 14 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He has studied English for ten years."
+        },
+        {
+          "n": "2",
+          "text": "I was looking for a driver."
+        },
+        {
+          "n": "3",
+          "text": "He will be doing his homework."
+        },
+        {
+          "n": "4",
+          "text": "He has been looking for a clue."
+        },
+        {
+          "n": "5",
+          "text": "Either you or I should do it."
+        },
+        {
+          "n": "6",
+          "text": "Neither you nor I am responsible for it."
+        },
+        {
+          "n": "7",
+          "text": "He ran so fast that I could not keep up with him."
+        },
+        {
+          "n": "8",
+          "text": "Three bombs exploded, one injuring 25 people."
+        },
+        {
+          "n": "9",
+          "text": "He worked hard, hoping to pass the entrance examination."
+        },
+        {
+          "n": "10",
+          "text": "Three bombs exploded, killing three people."
+        },
+        {
+          "n": "11",
+          "text": "He read the letter, tears pouring down his cheeks."
+        },
+        {
+          "n": "12",
+          "text": "He being sick, I took his place."
+        },
+        {
+          "n": "13",
+          "text": "He escaped, afraid he would be punished."
+        },
+        {
+          "n": "14",
+          "text": "Having finished the homework, I had nothing to do."
+        },
+        {
+          "n": "15",
+          "text": "Having finished the homework, I have nothing to do."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-014.htm",
+  "legacyEncoding": "utf-8"
+}

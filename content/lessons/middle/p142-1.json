@@ -1,0 +1,91 @@
+{
+  "id": "p142-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p142",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 142-1 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 147,
+  "audio": [
+    {
+      "src": "/audio/middle/p142.mp3",
+      "legacySrc": "sounds/p142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 142-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(선생님이 되고 싶어하는 나의 이유들)"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 몇 가지 이유에서 선생님이 되고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫째, 나의 학교선생님께서는 좋은 본보기를 보여주셨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는는 아이들을 사랑하시고, 내가 그로부터 도움이 필요할 때에"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 저를 항상 도와주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나 또한다른 사람들을 배우고 성장할 수 있게"
+    },
+    {
+      "type": "instruction",
+      "text": "도울수 있기를 원합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리가 알고 싶어하는 것을 정확하게 가르치는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "뛰어나게 잘 하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "둘째, 나의 선생님께서는 많은 것들을 알고 계시고,"
+    },
+    {
+      "type": "instruction",
+      "text": "항상 우리와 함께 많은 것들에 대해서 그의의 지식을 공유합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그와 같은 좋은 선생님이 되고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p142-1.htm",
+  "legacyEncoding": "utf-8"
+}

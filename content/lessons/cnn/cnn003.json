@@ -1,0 +1,161 @@
+{
+  "id": "cnn003",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Boeing Attempts World’s Longest Flight",
+  "label": "Boeing Attempts World’s Longest Flight",
+  "menuLabel": "[ CNN 3 ]",
+  "unit": 3,
+  "part": null,
+  "order": 2,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn003.mp4",
+      "legacySrc": "CNN/CNN1-60/3.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Boeing Attempts World’s Longest Flight"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wednesday evening in Hong Kong, 35 passengers and crew boarded what Boeing hopes will be a record-breaking flight. The airline’s 777-200LR left Hong Kong bound for London. It’s now somewhere over the Pacific Ocean. Now the aim is to set a new world record for the longest commercial flight, not in terms of time but, rather, in terms of distance. The previous record was set in 1989 by a 747-400 that flew around 17,000 km from London to Sydney. Boeing is aiming to fly more than 20,000 km nonstop.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보잉, 세계 최장거리 비행 도전",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "수요일 저녁 홍콩에서는 35명의 승객과 승무원이 비행 기록을 경신하려는 미 보잉 사의 항공기에 탑승했습니다. 보잉 사의 777-200LR기가 홍콩을 출발하여 런던으로 향했습니다. 이 여객기는 현재 태평양 상공 어딘가를 날고 있습니다. 현재 목표는 비행 시간이 아닌 비행 거리로, 상용 항공기로는 처음으로 최장거리 비행 세계 신기록을 수립하는 것입니다. 종전의 세계 기록은 1989년 보잉 747-400기가 런던에서 시드니까지 총 1만 7천km를 비행한 것입니다. 보잉 사의 이번 기록 경신 목표는 2만km이상을 무착륙 비행하는 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fly/ 비행기로 가다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. LR/ 장거리(long range)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. aim to/ …할 작정이다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. commercial/ 영업용인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. nonstop flight/ 직행 항공편",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Boeing",
+          "text": "보잉 사: 미국의 항공기 제조 회사"
+        },
+        {
+          "n": "attempt",
+          "text": "시도[기도]하다, 기획하다"
+        },
+        {
+          "n": "flight",
+          "text": "비행(거리); 항공편"
+        },
+        {
+          "n": "passenger",
+          "text": "승객, 여객"
+        },
+        {
+          "n": "crew",
+          "text": "(기차, 비행기 따위의) 승무원"
+        },
+        {
+          "n": "board",
+          "text": "(배, 기차, 비행기에) 탑승하다"
+        },
+        {
+          "n": "record-breaking",
+          "text": "기록을 깨는, 전례 없는"
+        },
+        {
+          "n": "airline",
+          "text": "항공사: 여기서는 보잉 사를 뜻함"
+        },
+        {
+          "n": "777-200LR",
+          "text": "보잉 777-200LR기: 보잉 사의 5번째777기종"
+        },
+        {
+          "n": "bound for",
+          "text": "…행의, …에 가려고 하는"
+        },
+        {
+          "n": "aim",
+          "text": "목표, 목적"
+        },
+        {
+          "n": "set a new world record",
+          "text": "세계 신기록을 수립하다"
+        },
+        {
+          "n": "commercial flight",
+          "text": "상용 항공기; 상업비행"
+        },
+        {
+          "n": "in terms of",
+          "text": "…면에서, …관점에서"
+        },
+        {
+          "n": "distance",
+          "text": "거리, 간격"
+        },
+        {
+          "n": "previous",
+          "text": "이전의, 앞선"
+        },
+        {
+          "n": "747-400",
+          "text": "보잉 747-400기: 747 비행기 시리즈 중에서 가장 크며 항속거리가 길다."
+        },
+        {
+          "n": "nonstop",
+          "text": "쉬지 않고, 직행으로"
+        },
+        {
+          "n": "what Boeing",
+          "text": "[웟 보우잉]. 미국식 발음에서는 wh-로 시작되는 단어의 [h]음을 발음하지 않는 게 보통이다. 그래서 what을 [워], white를 [와이ㅌ]로 발음한다."
+        },
+        {
+          "n": "777-200LR",
+          "text": "777-200을 triple seven two hundreds로 읽고 있다. 뒤에 나오는 747-400은 seven forty seven four hundreds로 읽고 있다."
+        },
+        {
+          "n": "not in terms",
+          "text": "[난 텀ㅈ]. not in을 한 단어처럼 약하게 읽어 none처럼 들린다."
+        },
+        {
+          "n": "aiming to",
+          "text": "[이밍 두]. aiming의 첫 모음 [ei]가 [i]로 들린다. to는 문장의 기능어로 약화되어 [두]로 들린다. to는 [투]로만 발음되는 것이 아니라 보통 [두], [드], [르] 등으로 약화되어 발음된다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/3.wmv",
+  "legacyEncoding": "binary"
+}

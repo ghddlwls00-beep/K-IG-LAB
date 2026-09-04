@@ -1,0 +1,132 @@
+{
+  "id": "gh1-093",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ gh1-093 ]",
+  "unit": 93,
+  "part": null,
+  "order": 139,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-093.mp3",
+      "legacySrc": "sounds/gh1-093.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Page 093]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "39",
+          "text": "Why does it take place(happen) outside the border?"
+        },
+        {
+          "n": "40",
+          "text": "Are these minor consequences?"
+        },
+        {
+          "n": "41",
+          "text": "Is this the normal way?"
+        },
+        {
+          "n": "42",
+          "text": "Why are they developing the programs?"
+        },
+        {
+          "n": "43",
+          "text": "Why was he mentioning the three countries?"
+        },
+        {
+          "n": "44",
+          "text": "Why is your mother generous?"
+        },
+        {
+          "n": "45",
+          "text": "When was he alive?"
+        },
+        {
+          "n": "46",
+          "text": "Why are the experts feeling better about the economy?"
+        },
+        {
+          "n": "47",
+          "text": "Why were the people taking the president's speech kindly?"
+        },
+        {
+          "n": "48",
+          "text": "Why do they buy it in a(the) black market?"
+        },
+        {
+          "n": "49",
+          "text": "Why isn't he submitting the budget to the congress?"
+        },
+        {
+          "n": "50",
+          "text": "Is the former the government's idea?"
+        },
+        {
+          "n": "51",
+          "text": "Are these three passengers still missing?"
+        },
+        {
+          "n": "52",
+          "text": "Isn't wine your worst enemy?"
+        },
+        {
+          "n": "53",
+          "text": "Who put this angel on earth just for me?"
+        },
+        {
+          "n": "54",
+          "text": "The congress approved the bill, didn't it?"
+        },
+        {
+          "n": "55",
+          "text": "The law takes effect this month. doesn't it?"
+        },
+        {
+          "n": "56",
+          "text": "Does the rule apply to each of his sons?"
+        },
+        {
+          "n": "57",
+          "text": "Does each student have his own project?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-093.htm",
+  "legacyEncoding": "utf-8"
+}

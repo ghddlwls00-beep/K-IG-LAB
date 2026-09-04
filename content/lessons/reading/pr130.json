@@ -1,0 +1,75 @@
+{
+  "id": "pr130",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 130 ]",
+  "menuLabel": "[ pr130 ]",
+  "unit": 130,
+  "part": null,
+  "order": 258,
+  "audio": [
+    {
+      "src": "/audio/reading/pr130.mp3",
+      "legacySrc": "sounds/pr130.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 130 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Work is desirable, first and foremost, as a preventive of boredom, for"
+    },
+    {
+      "type": "hints",
+      "text": "the boredom that a man feels when he is doing uninteresting work is"
+    },
+    {
+      "type": "instruction",
+      "text": "regarded as nothing in comparison with the boredom that he feels"
+    },
+    {
+      "type": "instruction",
+      "text": "when he has nothing to do with his days. With this advantage of"
+    },
+    {
+      "type": "instruction",
+      "text": "work another is associated, namely that it makes holidays more"
+    },
+    {
+      "type": "instruction",
+      "text": "delicious when they come. Provided a man does not have to work so"
+    },
+    {
+      "type": "instruction",
+      "text": "hard as to impair his vigor, he is likely to find more zest in his free"
+    },
+    {
+      "type": "instruction",
+      "text": "time than an idle man could find."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr130.htm",
+  "legacyEncoding": "utf-8"
+}

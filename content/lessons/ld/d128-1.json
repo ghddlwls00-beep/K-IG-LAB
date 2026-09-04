@@ -1,0 +1,95 @@
+{
+  "id": "d128-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d128",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 128 회 ]",
+  "menuLabel": "[ D 128-1 ]",
+  "unit": 128,
+  "part": null,
+  "order": 255,
+  "audio": [
+    {
+      "src": "/audio/ld/d128.mp3",
+      "legacySrc": "sounds/d128.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 128 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 너에게 나의 친구에 대하여 말하고 싶다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 내가 이때까지 만난 가장 흥미있는 사람이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 하루의 시간을 보내기 위하여 가끔 한번씩 그 여행사에 들어온다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 이름은 Ted Torkelson이다. 나는 그가 지금 쫌 85세쯤이 틀림없다고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매우 흥미있고 신나는 생을 살아왔다. 그는 모든 곳에 가봤고 모든 것을 해보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 12살이었을 때 놀웨이의 집으로부터 달아났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 서커스에 들어가서 유럽 전역을 여행했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그는 제노아에서 선원이 되어 극동으로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 많은 신나는 경험을 해보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 5-6개의 언어들을 잘 말하는 것을 배웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 놀웨이어, 불어, 이태리어, 터키어, 중국어, 영어를 할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그리스어와 미얀마어도 조금 안다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d128-1.htm",
+  "legacyEncoding": "utf-8"
+}

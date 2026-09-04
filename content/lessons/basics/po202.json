@@ -1,0 +1,60 @@
+{
+  "id": "po202",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 202 〕",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 453,
+  "audio": [
+    {
+      "src": "/audio/basics/po202.mp3",
+      "legacySrc": "sounds/po202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 202 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "251",
+          "text": "The Korean Folk Village is in the Gyounggi Province, not far from Seoul."
+        },
+        {
+          "n": "252",
+          "text": "When you visit there, you will see how life was in ancient Korea."
+        },
+        {
+          "n": "253",
+          "text": "Every year many foreigners visit there."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po202.htm",
+  "legacyEncoding": "utf-8"
+}

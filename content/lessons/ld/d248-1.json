@@ -1,0 +1,83 @@
+{
+  "id": "d248-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d248",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 248 회 ]",
+  "menuLabel": "[ D 248-1 ]",
+  "unit": 248,
+  "part": null,
+  "order": 494,
+  "audio": [
+    {
+      "src": "/audio/ld/d248.mp3",
+      "legacySrc": "sounds/d248.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 248 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "사교적(사회적)인 사용법의 무지는 많은 어처구니없는 실수의 결과를 낳을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "시골 출신의 젊은 신혼부부가 신혼 여행으로 뉴욕으로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 행사를 축하하기 위하여 그들은 멋진 식당에서 저녁을 먹기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "저녁 식사는 웨이터가 따뜻한 물이 담긴 두 개의 작은 은사발을"
+    },
+    {
+      "type": "instruction",
+      "text": "신랑신부 앞에 놓은 거의 끝까지 사건없이 진행되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 소녀가 질겁하게도 그녀의 남편이 그 접시를 집어들고는 그 물을 마시기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 아무도 자기 남편이 손가락씻는 사발의 물을 마시는 것을 눈치채지 않았기를"
+    },
+    {
+      "type": "instruction",
+      "text": "간절히 희망하는 동안 그녀의 얼굴을 새빨갛게 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나중에 이 사건은 가족 농담이 되었지만 그 당시에는 그것은 웃을 일이 아니었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d248-1.htm",
+  "legacyEncoding": "utf-8"
+}

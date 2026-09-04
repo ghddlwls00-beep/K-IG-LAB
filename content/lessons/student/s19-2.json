@@ -1,0 +1,283 @@
+{
+  "id": "s19-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s19-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 2,
+  "order": 79,
+  "audio": [
+    {
+      "src": "/audio/student/s19-2-1.mp3",
+      "legacySrc": "s19-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-2.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-3.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-4.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-5.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-6.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-7.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-8.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-9.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-10.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-11.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-12.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-13.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-14.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-2-15.mp3",
+      "legacySrc": "s19-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "However, on traditional holidays, families celebrate these days by wearing traditional costumes called han-bok.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On ordinary occasions, Korean people wear Western style clothes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, I would like to explain about traditional Korean clothing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째로, 저는 우리의 전통 한국의복에 대해서 설명하고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통의 경우, 한국인들은 서양스타일의 옷을 입습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 전통휴일들에는, 가족들은 한복이라 불리는 전통의상을 입음으로써 이 날들을 기념합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, on traditional holidays, families celebrate these days by wearingtraditional costumes called han-bok.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째,First,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 설명하고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 설명하고 싶습니다. I would like to explain",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국 전통의상에 관해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국 전통의상에 관해about traditional Korean clothing.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통의 경우",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통의 경우On ordinary occasions,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국인들은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국인들은Korean people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서양 스타일의 옷을 입습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서양 스타일의 옷을 입습니다. wear Western style clothes.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나However,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 전통휴일에는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 전통휴일에는 on traditional holidays,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족들은 이 날들을 기념합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족들은 이 날들을 기념합니다.families celebrate these days",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 입음으로써",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 입음으로써 by wearing",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한복이라고 불리는 전통의상을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한복이라고 불리는 전통의상을traditional costumes called han-bok.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clothes",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s19-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s19-2.swf"
+  ]
+}

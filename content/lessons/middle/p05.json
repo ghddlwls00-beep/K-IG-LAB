@@ -1,0 +1,187 @@
+{
+  "id": "p05",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle05-1]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": null,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/middle/p05.mp3",
+      "legacySrc": "sounds/p05.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle05-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 5 : Getting ready for school/At school"
+    },
+    {
+      "type": "hints",
+      "text": "Getting ready for school is the hardest part of my day."
+    },
+    {
+      "type": "instruction",
+      "text": "I am often late for school because I sleep-in late,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my mornings are very busy."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is so busy; we can’t even eat breakfast together."
+    },
+    {
+      "type": "instruction",
+      "text": "Before I go to school, my mother gives me my allowance."
+    },
+    {
+      "type": "instruction",
+      "text": "My school is near my house."
+    },
+    {
+      "type": "instruction",
+      "text": "It usually takes me 15 minutes to walk to school."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes in the spring and the fall, I ride my bike to school."
+    },
+    {
+      "type": "instruction",
+      "text": "I can get to school more quickly by bicycle than I can on foot."
+    },
+    {
+      "type": "instruction",
+      "text": "It takes me under 10 minutes by bike."
+    },
+    {
+      "type": "instruction",
+      "text": "On my way to school, I stop by the stationary store"
+    },
+    {
+      "type": "instruction",
+      "text": "and go in to buy the supplies I need for class."
+    },
+    {
+      "type": "instruction",
+      "text": "As I am walking to school,I often see my friends,"
+    },
+    {
+      "type": "instruction",
+      "text": "so we walk to school together."
+    },
+    {
+      "type": "instruction",
+      "text": "At 8:30 in the morning,"
+    },
+    {
+      "type": "instruction",
+      "text": "we meet before class with our teacher for morning session."
+    },
+    {
+      "type": "instruction",
+      "text": "During this time, our teacher calls roll"
+    },
+    {
+      "type": "instruction",
+      "text": "and gives us the announcements for the day."
+    },
+    {
+      "type": "instruction",
+      "text": "While the teacher is conducting the morning session,"
+    },
+    {
+      "type": "instruction",
+      "text": "the students are very noisy so the teacher has to shout at us"
+    },
+    {
+      "type": "instruction",
+      "text": "to get us to quiet down."
+    },
+    {
+      "type": "instruction",
+      "text": "When class starts at 9:00, our teacher checks our homework"
+    },
+    {
+      "type": "instruction",
+      "text": "and our journals that we put on his desk."
+    },
+    {
+      "type": "instruction",
+      "text": "When I don’t do my homework, I get so nervous"
+    },
+    {
+      "type": "instruction",
+      "text": "and feel like I have butterflies in my stomach."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I hide my hands under my desk"
+    },
+    {
+      "type": "instruction",
+      "text": "because I am afraid of what my teacher will say."
+    },
+    {
+      "type": "instruction",
+      "text": "Like most other students, my favorite subject is P.E.,"
+    },
+    {
+      "type": "instruction",
+      "text": "and the class I dislike the most is history."
+    },
+    {
+      "type": "instruction",
+      "text": "Usually in class, the students are very friendly to each other."
+    },
+    {
+      "type": "instruction",
+      "text": "However, sometimes there can be fights and arguments between"
+    },
+    {
+      "type": "instruction",
+      "text": "classmates. Most of the students quickly make up and are friends again."
+    },
+    {
+      "type": "instruction",
+      "text": "Because our class has a lot of smart students in it,"
+    },
+    {
+      "type": "instruction",
+      "text": "we are very competitive."
+    },
+    {
+      "type": "instruction",
+      "text": "At school, I like to study and make friends."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p05.htm",
+  "legacyEncoding": "utf-8"
+}

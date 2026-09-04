@@ -1,0 +1,60 @@
+{
+  "id": "qa062-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa062",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 062-1 〕",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 2,
+  "order": 148,
+  "audio": [
+    {
+      "src": "/audio/basics/qa062.mp3",
+      "legacySrc": "sounds/qa062.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 062-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 학교 소개 2) → 당신은 학교의 무슨 클럽 회원입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "65",
+          "text": "학생들이 / 참여할 수 있는 / 많은 모임들이 / 있어."
+        },
+        {
+          "n": "66",
+          "text": "난 / 영어 모임의 / 회원 이야."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa062-1.htm",
+  "legacyEncoding": "utf-8"
+}

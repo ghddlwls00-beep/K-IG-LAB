@@ -1,0 +1,258 @@
+{
+  "id": "cnn050",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Mice* And Men",
+  "label": "Mice* And Men",
+  "menuLabel": "[ CNN 50 ]",
+  "unit": 50,
+  "part": null,
+  "order": 49,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn050.mp4",
+      "legacySrc": "CNN/CNN1-60/50.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mice* And Men"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANJALI RAO, CNN Anchor: In Tech Watch today, what do men have in common with mice? The link may not be immediately clear but it does exist. And some scientists in Hong Kong have made the discovery they believe could eventually bring joy to both the young and the old. Eunice Yoon has more on this remarkable finding.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "EUNICE YOON, CNN Correspondent: What’s so special about this clumsy little mouse? Some scientists say its genetic makeup could hold the key to help the deaf hear.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KATHRYN CHEAH, University of Hong Kong: Human ears and mouse ears are very similar and they develop in the same way.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Dr. Kathryn Cheah and her team in Hong Kong studied these mutant mice for 12 years and discovered they lack a gene that regulates hearing. The gene, called Sox2 controls the development of hair cells in the inner ear. These cells, when damaged, cause congenital deafness, a disease which affects one out of every 800 children and over half the population over the age of 70.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHEAH: It’s important to be able to understand what is important to make a hair cell grow, develop in the first place. If you know what is the gene that’s essential for that, you can maybe develop methods later to use this gene to stimulate hair cells to grow.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: The mice, nicknamed “Yellow Submarine” for their sandy blond hair, underwent several exercises to test their hearing and sense of balance. None could move normally, swim or tell which way is right side up. And though the research is still in its early stages, scientists both here and overseas say the findings identify a gene, they hope, could be used with stem cell therapy. Eunice Yoon, CNN, Hong Kong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "생쥐와 인간",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "안잘리 라오, CNN 앵커: 오늘의 <테크 와치> 시간입니다. 인간과 생쥐의 공통점은 무엇일까요? 이 둘의 상관관계는 바로 드러나지 않을지 몰라도 이는 분명 존재합니다. 홍콩에 있는 몇몇 과학자들이 마침내 청년층과 노년층 모두에게 기쁨을 안겨다줄 것으로 예상되는 발견을 해냈습니다. 유니스 윤 기자가 이 놀라운 발견에 대해 자세히 소개해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유니스 윤, CNN 기자: 이 볼품 없고 조그만 생쥐가 왜 그렇게 특별한 걸까요? 일부 과학자들은 이 생쥐의 유전자 구조가 청각 장애자의 청력 회복을 도와줄 열쇠를 쥐고 있다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "캐스린 체아, 홍콩 대학: 인간의 귀와 쥐의 귀는 아주 유사하며, 발달과정이 동일합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 캐스린 체아 박사와 홍콩에 있는 박사의 연구팀은 지난 12년 동안 이들 변종 생쥐를 연구한 끝에 생쥐에게는 청각을 관장하는 유전자가 없다는 사실을 발견했습니다. Sox2라고 불리는 이 유전자는 내이에 있는 유모세포의 성장을 조절합니다. 유모세포가 손상될 때 선천성 청각 장애가 유발됩니다. 이런 질환은 어린이 800명 중 한 명꼴로, 그리고 70세가 넘은 노년 인구의 절반 이상에게서 나타납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "체아: 유모세포를 자라게 하고, 성장시키는 직접적인 요인이 무엇인지 이해하는 게 중요합니다. 세포 성장에 필수적인 유전자가 무엇인지를 알게 된다면, 나중에는 그 유전 인자를 이용해 유모세포의 성장을 촉진시키는 방법도 개발할 수 있을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 엷은 갈색의 금발 털 때문에‘노란 잠수함’이라는 별명이 붙은 이 생쥐에게 청각과 균형 감각 실험을 위해 다양한 운동을 시켰습니다. 어떤 생쥐도 정상적으로 움직이거나, 수영을 하거나, 어느 쪽이 위쪽인지를 분간하지 못했습니다. 이 연구가 아직은 초기 단계에 있기는 하지만 홍콩과 해외 과학자들은 모두 이번 발견으로 줄기세포 치료에 이용될 수 있기를 희망하는 유전자를 밝혀냈다고 말합니다. 홍콩에서, CNN 유니스 윤이였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. make a discovery/ 발견하다(discover)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) genetic/ {생물}유전(학)의 (2) makeup/ 조립, 구성, 구조",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. deafness/ 청각 장애",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. development/ 성장, 발달",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* mice",
+          "text": "생쥐(mouse)의 복수형"
+        },
+        {
+          "n": "1) have in common with",
+          "text": "…와 공통점이 있다"
+        },
+        {
+          "n": "2) immediately",
+          "text": "곧, 즉시, 당장에"
+        },
+        {
+          "n": "3) clear",
+          "text": "(형태,윤곽 등이) 뚜렷한; 분명한, 명백한"
+        },
+        {
+          "n": "4) the[one’s] discovery that",
+          "text": "…이라고 하는 발견"
+        },
+        {
+          "n": "5) eventually",
+          "text": "마침내는, 결국"
+        },
+        {
+          "n": "6) remarkable",
+          "text": "주목할 만한; 놀랄 만한"
+        },
+        {
+          "n": "7) finding",
+          "text": "찾아내기, 발견"
+        },
+        {
+          "n": "8) clumsy",
+          "text": "모양 없는, 서투르게 만든; 어색한, 뻑뻑한; 눈치 없는"
+        },
+        {
+          "n": "9) genetic makeup",
+          "text": "유전자 구조"
+        },
+        {
+          "n": "10) hold[have] the key to",
+          "text": "…을 좌지우지하다; …의 열쇠를 쥐다"
+        },
+        {
+          "n": "11) the deaf",
+          "text": "귀가 먼 사람들, 청각 장애자"
+        },
+        {
+          "n": "12) develop",
+          "text": "발달하다, 발육하다"
+        },
+        {
+          "n": "13) study",
+          "text": "연구(하다); 조사(하다)"
+        },
+        {
+          "n": "14) mutant",
+          "text": "{유전}돌연변이의, 변종의"
+        },
+        {
+          "n": "15) lack",
+          "text": "…이 없다, …이 결핍되다, …을 필요로 하다"
+        },
+        {
+          "n": "16) gene",
+          "text": "{생물}유전자, 유전 인자"
+        },
+        {
+          "n": "17) regulate",
+          "text": "(기기,조직,능률 따위를) 조절하다, 조정하다; 제한하다"
+        },
+        {
+          "n": "18) Sox2",
+          "text": "체아 박사의 연구팀에 의해 최근 발견된 선천성 귀머거리 유발 유전자"
+        },
+        {
+          "n": "19) hair cell",
+          "text": "유모(有毛)세포: 달팽이관 가운데층에 있는 수천 개의 미세한 세포들로서 림프액의 진동을 감지하여 그 자극을 전기적 신호로 바꾼 뒤 청신경을 통해 뇌로 전달하면 우리가 실제로 ‘소리’를 들을 수 있다."
+        },
+        {
+          "n": "20) inner ear",
+          "text": "내이(內耳)"
+        },
+        {
+          "n": "21) when (it is) damaged",
+          "text": "손상되면"
+        },
+        {
+          "n": "22) congenital",
+          "text": "(병,장애 따위가) 타고난, 생득적인, 선천적인"
+        },
+        {
+          "n": "23) affect",
+          "text": "(병 따위가) …을 침범하다, 해치다, …에 해롭다"
+        },
+        {
+          "n": "24) in the first place",
+          "text": "(우선) 첫째로; 직접적으로"
+        },
+        {
+          "n": "25) stimulate",
+          "text": "{생리,의학}(기관 따위를) 자극하다, 촉진시키다"
+        },
+        {
+          "n": "26) nickname",
+          "text": "…이라는 별명을 붙이다; 별명"
+        },
+        {
+          "n": "27) submarine",
+          "text": "잠수함"
+        },
+        {
+          "n": "28) undergo",
+          "text": "…을 받다, 경험하다"
+        },
+        {
+          "n": "29) sense of balance",
+          "text": "균형 감각"
+        },
+        {
+          "n": "30) research",
+          "text": "조사, 연구"
+        },
+        {
+          "n": "31) in one’s early stages",
+          "text": "초기 단계에 있는"
+        },
+        {
+          "n": "32) overseas",
+          "text": "외국(으로부터)의, 해외에 있는"
+        },
+        {
+          "n": "33) identify",
+          "text": "(동일물,본인이라고) 확인하다"
+        },
+        {
+          "n": "34) stem cell therapy",
+          "text": "줄기세포 치료"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/50.wmv",
+  "legacyEncoding": "binary"
+}

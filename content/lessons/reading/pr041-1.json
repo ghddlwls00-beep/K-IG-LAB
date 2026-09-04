@@ -1,0 +1,47 @@
+{
+  "id": "pr041-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr041",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 041-1 ]",
+  "menuLabel": "[ pr041-1 ]",
+  "unit": 41,
+  "part": null,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/reading/pr041.mp3",
+      "legacySrc": "sounds/pr041.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 041-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "일반적으로, 모든 성취는 시행착오를 필요로 한다. 젊은이로서, 우리가 사회 집단에서 자신의 자리를 찾거나 또는 차지하기 위해 노력할 때 실수를 범하는 것을 부끄러워 할 필요가 없다. 어떤 집단에 어울리는 것을 배우거나, 우리가 어울릴 수 있도록 도와주는 성격을 개발한다는 것은 쉽지 않다. 그것은 야구나 농구와 같은 경기를 하는 것을 배우는 것과 다소 비슷하다. 우리가 그 과정에서 상당히 많은 실수를 범하지 않고 배우기를 거의 기대할 수 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr041-1.htm",
+  "legacyEncoding": "utf-8"
+}

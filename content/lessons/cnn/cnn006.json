@@ -1,0 +1,139 @@
+{
+  "id": "cnn006",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Ukraine Marks Orange Revolution",
+  "label": "Ukraine Marks Orange Revolution",
+  "menuLabel": "[ CNN 6 ]",
+  "unit": 6,
+  "part": null,
+  "order": 5,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn006.mp4",
+      "legacySrc": "CNN/CNN1-60/6.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Ukraine Marks Orange Revolution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukrainians are rallying today in Kiev’s Independence Square to mark the anniversary of the Orange Revolution. Many are waving orange flags or wearing orange scarves as they bundle against the chill, just as they did a year ago protesting a fraudulent presidential vote. More mass rallies and a repeat vote would lead to the election of Victor Yushchenko. Now an opinion poll suggests a majority feels Mr. Yushchenko has failed to keep the promises he made a year ago. Monday, Mr. Yushchenko vowed to overcome public disappointment.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우크라이나, 오렌지 혁명 기념",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오늘 우크라이나인들은 키에프 독립광장에 다시 모여 오렌지 혁명을 기념했습니다. 바로 1년 전 대통령 선거 부정에 항의하는 시위를 벌였을 때도 그랬던 것처럼, 많은 국민들이 오렌지색 깃발을 흔들거나 추위를 견디기 위해 오렌지색 스카프를 둘렀습니다. 당시 여러 차례의 대규모 시위와 재선거를 통해 빅토르 유시첸코 후보가 대통령에 당선되었습니다. 하지만 최근 여론조사에 따르면, 국민 대다수가 유시첸코 대통령이 1년 전 내걸었던 공약을 지키지 못했다고 느끼는 것으로 나타났습니다. 월요일 유시첸코 대통령은 국민들의 신뢰를 다시 회복하겠다고 약속했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. Ukrainian/ 우크라이나 사람",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. repeat/ 되풀이, 반복",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. disappointment/ 실망, 낙담, 실의",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Orange Revolution",
+          "text": "[오륀쥐 레볼루션]. orange의 첫모음에 강세가 오면 우리말의 [아]에 가깝게 소리 난다. 하지만 영국식 영어는 [오]로 발음한다. 뒤에 나오는 majority도 [머죠러디]로 발음된다."
+        },
+        {
+          "n": "waving orange flags or wearing orange scarves",
+          "text": "접속사 or가 거의 들리지 않을 정도로 [어]로 약화되어 발음되고 있다. 앞에 waving이 있고 wearing이 나오기 때문에 중간에 등위 접속사가 와야 한다."
+        },
+        {
+          "n": "presidential vote",
+          "text": "[프레지덴셜 보우ㅌ]. vote는 boat와 발음이 혼동될 경우가 많다. 하지만 [v]는 윗니로 아랫입술을 살짝 깨물었다가 떼면서 내는 소리이고 [b]는 위아래 입술을 붙였다가 떼면서 내는 소리다."
+        },
+        {
+          "n": "disappointment",
+          "text": "[디써포인 먼ㅌ]. disappointment에서 -ntm-에서 자음이 세 번 겹쳐 중간 자음인 [t]가 탈락되고 있다.Ukraine/ 우크라이나: 흑해 북쪽에 위치한 독립 국가 연합의 한 공화국으로 수도는키에프이다."
+        },
+        {
+          "n": "mark",
+          "text": "…을 기념하다 (mark the anniversary of)"
+        },
+        {
+          "n": "rally",
+          "text": "모이다, 다시 집결하다; 집회"
+        },
+        {
+          "n": "bundle (up)",
+          "text": "따뜻하게 몸을 감싸다"
+        },
+        {
+          "n": "protest",
+          "text": "항의하다, 이의를 제기하다"
+        },
+        {
+          "n": "fraudulent",
+          "text": "속이는, 부정한"
+        },
+        {
+          "n": "presidential vote",
+          "text": "대통령선거"
+        },
+        {
+          "n": "repeat vote",
+          "text": "재투표"
+        },
+        {
+          "n": "election",
+          "text": "당선; 선거, 투표"
+        },
+        {
+          "n": "Victor Yushchenko",
+          "text": "빅토르 유시첸코: 2004년 우크라이나 대통령 선거에서 당선된 개혁 성향의 정치인"
+        },
+        {
+          "n": "opinion poll",
+          "text": "여론조사(opinion survey)"
+        },
+        {
+          "n": "majority",
+          "text": "대부분, 대다수"
+        },
+        {
+          "n": "keep the promise",
+          "text": "약속을 지키다, 공약사항을 지키다"
+        },
+        {
+          "n": "vow to",
+          "text": "…하기로 약속하다, 맹세하다"
+        },
+        {
+          "n": "overcome",
+          "text": "극복하다"
+        },
+        {
+          "n": "public disappointment",
+          "text": "국민들의 실망"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/6.wmv",
+  "legacyEncoding": "binary"
+}

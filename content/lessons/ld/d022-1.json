@@ -1,0 +1,95 @@
+{
+  "id": "d022-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d022",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 022 회 ]",
+  "menuLabel": "[ D 022-1 ]",
+  "unit": 22,
+  "part": null,
+  "order": 43,
+  "audio": [
+    {
+      "src": "/audio/ld/d022.mp3",
+      "legacySrc": "sounds/d022.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 022 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 잉글랜드 옥스퍼드의 이 학교 같은 학교에 다니면 어떻겠나? 정규 수업은 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 학생들은 그들이 원할 때 한 집단에서 다른 집단으로 옮겨간다."
+    },
+    {
+      "type": "instruction",
+      "text": "14,15,16, 혹은 17세 학생들을 모두 같은 집단에서 발견할지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 자기 자신의 속도로 공부한다."
+    },
+    {
+      "type": "instruction",
+      "text": "아무도 그들에게 무엇을 하고 있거나 하고 있지 말아야한다고 말하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 방문했던 날 학교는 9시에 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 학생들은 녹음기로 공부하면서 자신의 목소리들을 듣고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 이들은 물리학에 대한 한 텔레비젼 프로그램을 보고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "세 번째 집단은 도서관에서 공부하고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 아무 것도 하지 않으면서 그냥 앉아있는 어떤 사람도 보지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "아무도 시간을 낭비하고 있지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 식당에서 휴식하고 있는 학생들까지도 정치에 대한 토론을 하고 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d022-1.htm",
+  "legacyEncoding": "utf-8"
+}

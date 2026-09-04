@@ -1,0 +1,87 @@
+{
+  "id": "p084-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p084",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 084-1 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 4,
+  "order": 93,
+  "audio": [
+    {
+      "src": "/audio/middle/p084.mp3",
+      "legacySrc": "sounds/p084.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 084-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(TV보기 / 자러 가기)"
+    },
+    {
+      "type": "instruction",
+      "text": "저녁식사 후에 나의 가족은 함께 TV를 봅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니께서는 우리에게 TV를 많이 보는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "허락하시지 않으십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 엔터테인먼트 프로그램들을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "왜냐하면 나는 유명한 배우들과 음악가들을"
+    },
+    {
+      "type": "instruction",
+      "text": "볼 수 있기 때문입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "TV시청을 마친 후에 나는 학교수업을 준비하기"
+    },
+    {
+      "type": "instruction",
+      "text": "위해 약간의 복습을 하고, 나의 일기를 쓰고, 잠자러 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 나의 일상은 많은 활동들로 가득하지만,"
+    },
+    {
+      "type": "instruction",
+      "text": "그것들은 또한 많이 재미있기도 합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p084-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "hv-10",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-10 ]",
+  "unit": 10,
+  "part": null,
+  "order": 129,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-10.mp3",
+      "legacySrc": "sounds/hv-10.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "billion",
+          "duplicate",
+          "dual",
+          "twist",
+          "twilight",
+          "tribe"
+        ],
+        [
+          "triple",
+          "trivial",
+          "compose",
+          "composer",
+          "composition",
+          "compile"
+        ],
+        [
+          "compromise",
+          "compass",
+          "conform",
+          "confront",
+          "confrontation",
+          "confirm"
+        ],
+        [
+          "condense",
+          "condensation",
+          "correspond",
+          "corresponding",
+          "correspondence",
+          "correspondent"
+        ],
+        [
+          "cooperate",
+          "cooperation",
+          "cooperative",
+          "sympathy",
+          "sympathetic",
+          "sympathize"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-10 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-10.htm",
+  "legacyEncoding": "utf-8"
+}

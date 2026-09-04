@@ -1,0 +1,79 @@
+{
+  "id": "p054",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 054 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 4,
+  "order": 62,
+  "audio": [
+    {
+      "src": "/audio/middle/p054.mp3",
+      "legacySrc": "sounds/p054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 054 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Introducing My Class)"
+    },
+    {
+      "type": "hints",
+      "text": "When class starts at 9:00, our teacher checks our homework"
+    },
+    {
+      "type": "instruction",
+      "text": "and our journals that we put on his desk."
+    },
+    {
+      "type": "instruction",
+      "text": "When I don’t do my homework, I get so nervous"
+    },
+    {
+      "type": "instruction",
+      "text": "and feel like I have butterflies in my stomach."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I hide my hands under my desk"
+    },
+    {
+      "type": "instruction",
+      "text": "because I am afraid of what my teacher will say."
+    },
+    {
+      "type": "instruction",
+      "text": "Like most other students, my favorite subject is P.E.,"
+    },
+    {
+      "type": "instruction",
+      "text": "and the class I dislike the most is history."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p054.htm",
+  "legacyEncoding": "utf-8"
+}

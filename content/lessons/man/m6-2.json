@@ -1,0 +1,103 @@
+{
+  "id": "m6-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m6-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 2,
+  "order": 33,
+  "audio": [
+    {
+      "src": "/audio/man/m6-2-1.mp3",
+      "legacySrc": "m6-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-2-2.mp3",
+      "legacySrc": "m6-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-2-3.mp3",
+      "legacySrc": "m6-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-2-4.mp3",
+      "legacySrc": "m6-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 회사의 축구팀에 가입을 해서 때때로 다른 팀과 대항하여 게임을 하러 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I joined a soccer team with my company, so I sometimes go play games against other teams.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이러한 방법으로 많은 친구를 사귀고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have made many friends this way.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 가족들과 쇼핑을 가고 우리는 보통 일주일 동안 우리가 필요한 모든것을 삽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I go shopping with my family, and we usually pick up everything we need for one week.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Saturday Afternoons",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m6-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m6-2.swf"
+  ]
+}

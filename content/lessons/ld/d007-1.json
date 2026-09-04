@@ -1,0 +1,87 @@
+{
+  "id": "d007-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d007",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 007 회 ]",
+  "menuLabel": "[ D 007-1 ]",
+  "unit": 7,
+  "part": null,
+  "order": 13,
+  "audio": [
+    {
+      "src": "/audio/ld/d007.mp3",
+      "legacySrc": "sounds/d007.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 007 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "John Wenger는 필라델피아에 산다. 그것은 미국의 동쪽 부분의 큰 도시이다."
+    },
+    {
+      "type": "instruction",
+      "text": "필라델피아는 펜실바니아주에 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "존의 어머니인 웽거 여사는 1933년 9월 9일에 독일에서 태어났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 독일어, 폴랜드어, 불란서어, 그리고 물론 영어도 한다. 존의 아버지는 1931년 11월 12일"
+    },
+    {
+      "type": "instruction",
+      "text": "스위스 Berne에서 태어났다. 그는 불어, 독일어, 이태리어, 영어를 한다. 존의 어머니와 아버지는"
+    },
+    {
+      "type": "instruction",
+      "text": "1953년 5월 9일에 결혼했다. 그의 어머니는 20살이었고 그의 아버지는 22세였다."
+    },
+    {
+      "type": "instruction",
+      "text": "존은 1954년 6월 4일에 필라델피아에서 태어났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 지금 22살이고 필라델피아의 펜실바니아 대학에"
+    },
+    {
+      "type": "instruction",
+      "text": "다닌다. 존은 물론 영어를 하고 불어와 독어를 꽤 잘 읽지만 그는 이 두 언어를 말하지는 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "존은 의학 분야에 들어가기를 희망한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d007-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "d265-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d265",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 265 회 ]",
+  "menuLabel": "[ D 265-1 ]",
+  "unit": 265,
+  "part": null,
+  "order": 527,
+  "audio": [
+    {
+      "src": "/audio/ld/d265.mp3",
+      "legacySrc": "sounds/d265.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 265 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "성탄전야가 도착할 무렵에는 그 준비의 대부분이 완전하다."
+    },
+    {
+      "type": "instruction",
+      "text": "트리는 장식이 되었고 어린이들은 그들의 양말을 벽난로 옆에 걸어두었으며"
+    },
+    {
+      "type": "instruction",
+      "text": "부엌은 먹을 훌륭한 것들로 가득차있다."
+    },
+    {
+      "type": "instruction",
+      "text": "당연히 어린이들은 그 다음 날 아침의 흥분에 대하여 생각하느라고 거의 잠을 이루지 못한다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 가족은 그 절기의 진정한 정신을 지키기 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "성탄절에 함께 교회로 가는 것을 관행으로 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 집에서 교환하는 선물은 고대의 세 왕의 황금과 비싼 선물들이 아기 그리스도에 대한"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 사랑을 상징했던 것과 똑같이 서로에 대한 그들의 사랑의 상징물들이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d265-1.htm",
+  "legacyEncoding": "utf-8"
+}

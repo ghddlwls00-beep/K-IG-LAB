@@ -1,0 +1,79 @@
+{
+  "id": "d138-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d138",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 138 회 ]",
+  "menuLabel": "[ D 138-1 ]",
+  "unit": 138,
+  "part": null,
+  "order": 275,
+  "audio": [
+    {
+      "src": "/audio/ld/d138.mp3",
+      "legacySrc": "sounds/d138.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 138 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 할머니 - 나의 어머니 - 가 그들이 좋아하는 모든 것을 준비한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 보통 fried chicken, 옥수수, 꿀을 바른 뜨거운 비스켓을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 항상 충분한 양의 초콜렛 아이스크림과 케이크를 디저트로 내놓는다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 아버지가 얼마나 많이 잡수시는지 볼 때 그가 훨씬 더 체중이 나가지 않는 것에 항상 놀란다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그는 아침 대략 5시부터 저녁에 어두워질 때까지 농장에서 매우 열심히 일하신다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 부모님께서 도시의 우리를 방문하실 때 우리는 보통 그분들을 식당으로 모시고 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그들이 그것을 즐기는 것을 알지만 우리 아버지는 언제나 집에 온 후에 뭔가 다른 것을 잡수신다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 식당에서의 양은 후할지 모르지만 그들은 여전히 배고픈 농부를 위해서 충분히 크지는 않다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d138-1.htm",
+  "legacyEncoding": "utf-8"
+}

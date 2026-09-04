@@ -1,0 +1,47 @@
+{
+  "id": "pr032-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr032",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 032-1 ]",
+  "menuLabel": "[ pr032-1 ]",
+  "unit": 32,
+  "part": null,
+  "order": 63,
+  "audio": [
+    {
+      "src": "/audio/reading/pr032.mp3",
+      "legacySrc": "sounds/pr032.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 032-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "옛 속담, 로마에서는 로마인처럼 행동하라, 는 저녁식사 테이블에서 만큼 더 진실이 아니다. 한국의 일부 지역에서는 많이 입맛을 다시며 차나 국을 마시는 것은 감사의 표시이다. 그러나 대부분의 서구에서는 어떤 소리도 먹는 동안 내어져서는 안된다. 식사도구 역시 나라마다 다르다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr032-1.htm",
+  "legacyEncoding": "utf-8"
+}

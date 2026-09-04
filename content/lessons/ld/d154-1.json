@@ -1,0 +1,79 @@
+{
+  "id": "d154-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d154",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 154 회 ]",
+  "menuLabel": "[ D 154-1 ]",
+  "unit": 154,
+  "part": null,
+  "order": 307,
+  "audio": [
+    {
+      "src": "/audio/ld/d154.mp3",
+      "legacySrc": "sounds/d154.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 154 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "때대로 우리는 우리가 아는 어떤 사람이 둥근 구멍 안의 사각형(peg)이라고 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 우리가 말하고 있는 그 사람이 그가 하고 있는 직업에 적합하지 않다는 것을 의미한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 정말로 배우가 되고 싶어하는 경리이거나 요리하기를 좋아하는 기계공일지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "불행히도 세상의 많은 사람들이 “사각형의 peg”이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 어떤 이유에서인지 그들이 하고 있어야 하는 그런 종류의 일을 하고 있지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 그들은 아마 매우 잘 일하고 있지 않으며 분명히 그들은 행복하지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "올바른 진로를 선택하는 것은 매우 중요하다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 대부분은 우리의 생활의 큰 부분을 우리의 직장에서 보낸다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d154-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d116-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d116",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 116 회 ]",
+  "menuLabel": "[ D 116-1 ]",
+  "unit": 116,
+  "part": null,
+  "order": 231,
+  "audio": [
+    {
+      "src": "/audio/ld/d116.mp3",
+      "legacySrc": "sounds/d116.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 116 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "대평원의 미시시피 강의 서쪽에서는 유랑 종족들이 들소(미국의 들소)의 거대한 무리들을 따라다녔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 대평원 인디언들은 쉽게 이동되는 텐트에서 살았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 들소는 그들의 식량의 대부분의 원천이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 이외에도 그 들소는 그들의 옷과 거처를 위한 원료를 제공했다."
+    },
+    {
+      "type": "instruction",
+      "text": "유럽인들이 처음 도착했을 때 약 2천만명의 미국 원주민들이 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들 중의 약 30만명은 미시시피 강의 동쪽에 살고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 사회들은 대부분 영구적인 마을을 짓고 농업으로 살았다."
+    },
+    {
+      "type": "instruction",
+      "text": "남성들이 사냥과 어업으로 추가적인 식량을 제공하였지만 여성들이 작물을 관리하곤 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 종족들은 구라파 정착민들을 제일 처음 만난 사람들 사이에 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d116-1.htm",
+  "legacyEncoding": "utf-8"
+}

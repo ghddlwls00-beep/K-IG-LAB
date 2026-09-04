@@ -1,0 +1,79 @@
+{
+  "id": "p092",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 092 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 98,
+  "audio": [
+    {
+      "src": "/audio/middle/p092.mp3",
+      "legacySrc": "sounds/p092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 092 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(What do I do in the afternoon?)"
+    },
+    {
+      "type": "hints",
+      "text": "I have lunch at 12:30 p.m. After lunch, I have two more classes."
+    },
+    {
+      "type": "instruction",
+      "text": "I finish my classes at 3:00 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "After school, I go to private academies where I study Art,"
+    },
+    {
+      "type": "instruction",
+      "text": "Piano and English."
+    },
+    {
+      "type": "instruction",
+      "text": "Each academy lesson lasts around fifty minutes."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I get very tired when I’m at the academies,"
+    },
+    {
+      "type": "instruction",
+      "text": "but I enjoy studying with my friends there."
+    },
+    {
+      "type": "instruction",
+      "text": "After my last academy class, I get home at around 6:00 p.m."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p092.htm",
+  "legacyEncoding": "utf-8"
+}

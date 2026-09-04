@@ -1,0 +1,87 @@
+{
+  "id": "d050-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d050",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 050회 ]",
+  "menuLabel": "[ D 050-1 ]",
+  "unit": 50,
+  "part": null,
+  "order": 99,
+  "audio": [
+    {
+      "src": "/audio/ld/d050.mp3",
+      "legacySrc": "sounds/d050.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 050회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "자선은 집에서 시작해야 한다는 것이 자주 말해진다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 우리가 다른 사람의 책임에 대하여 염려하기 전에 가정에서의 우리의 책임을 돌보야야 한다는 것 을 단순히 의미한다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 일부 사람들은 다양한 자선 조직에 속해 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그들의 시간의 대부분을 자선 목적을 위한 기금을 모으는 것을 도우면서 쓰는 것처럼 보인다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 여러분은 이 사람들 중의 일부가 그들의 자신의 아이들을 얼마나 등한시하는지 놀랄 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 브라운 여사는 일주일에 두 번 정도 자선 바자회와 파티에 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 날에는 브라운씨가 아이들을 위한 저녁을 준비해야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "브라운 여사는 그가 이것을 하는 것을 기뻐해야 한다고 늘 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그녀의 남편은 그녀가 집에 머물러서 자녀를 돌봐야한다고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 자선을 행하기 위하여 자기 자신의 집을 떠날 필요는 없다고 믿는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d050-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "pr246",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 246 ]",
+  "menuLabel": "[ pr246 ]",
+  "unit": 246,
+  "part": null,
+  "order": 490,
+  "audio": [
+    {
+      "src": "/audio/reading/pr246.mp3",
+      "legacySrc": "sounds/pr246.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 246 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Darwin was the first to propose that long necks evolved in giraffes because they enabled the animals to eat the treetop leaves."
+    },
+    {
+      "type": "hints",
+      "text": "(A)So Simmons became convinced that this competition for mates, not stretching for treetop food, was what drove the evolution of the neck."
+    },
+    {
+      "type": "instruction",
+      "text": "(B)This seemingly reasonable explanation has held up for over a century, but it is probably wrong, says Robert Simmons, a behavioral ecologist. Simmons was studying eagles in Africa when he came across a pair of male giraffes locked in combat."
+    },
+    {
+      "type": "instruction",
+      "text": "(C)He saw the male giraffes battling for mates by swinging their powerful necks, which were over six feet long and weighed more than 200 pounds. He observed that in contests of this type, males with the longest, thickest necks usually won."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr246.htm",
+  "legacyEncoding": "utf-8"
+}

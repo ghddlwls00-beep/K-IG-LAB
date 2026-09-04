@@ -1,0 +1,88 @@
+{
+  "id": "hv-42",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-42 ]",
+  "unit": 42,
+  "part": null,
+  "order": 161,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-42.mp3",
+      "legacySrc": "sounds/hv-42.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "mention",
+          "merciful",
+          "mechanic",
+          "merciless",
+          "mechanism",
+          "mercy"
+        ],
+        [
+          "manipulate",
+          "merchant",
+          "manipulation",
+          "commercial",
+          "management",
+          "commerce"
+        ],
+        [
+          "manage",
+          "mental",
+          "command",
+          "barometer",
+          "minister",
+          "remembrance"
+        ],
+        [
+          "minority",
+          "remember",
+          "minor",
+          "memorable",
+          "emigrant",
+          "memorial"
+        ],
+        [
+          "emigration",
+          "memorize",
+          "emigrate",
+          "memory",
+          "thermometer",
+          "machinery"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-42 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-42.htm",
+  "legacyEncoding": "utf-8"
+}

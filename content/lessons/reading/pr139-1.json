@@ -1,0 +1,47 @@
+{
+  "id": "pr139-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr139",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 139-1 ]",
+  "menuLabel": "[ pr139-1 ]",
+  "unit": 139,
+  "part": null,
+  "order": 277,
+  "audio": [
+    {
+      "src": "/audio/reading/pr139.mp3",
+      "legacySrc": "sounds/pr139.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 139-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "알버트 아인슈타인은 한때 유명한 과학자의 창의성의 원인을 그가 학교;에 절대 가지 않아서 자유롭게 생각하는 흔치 않은 재능을 보존했다는 사실에 돌렸다. 아인슈타인의 관찰에서 의심할 수 없는 진리가 있다. 많은 예술가와 천재는 자신들의 학교생활을 단점으로 보는 것 같다. 그러나 그런 진리는 학교의 비판은 아니다. 탐험가를 훈련하는 것이 아니라, 교화하는 것이 학교의 기능이다. 사회 질서는 창의성에 파괴적인 두 가지 특성인 단합과 광범위한 동의를 요구한다. 사회의 요구와 창의성과 천재성의 충동사이에는 갈등이 있을 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr139-1.htm",
+  "legacyEncoding": "utf-8"
+}

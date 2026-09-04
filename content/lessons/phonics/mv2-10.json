@@ -1,0 +1,88 @@
+{
+  "id": "mv2-10",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-10 ]",
+  "unit": 10,
+  "part": null,
+  "order": 49,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-10.mp3",
+      "legacySrc": "sounds/mv2-10.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "mix",
+          "alike",
+          "bore",
+          "lose",
+          "allow",
+          "condition"
+        ],
+        [
+          "job",
+          "active",
+          "cheap",
+          "blood",
+          "dangerous",
+          "bend"
+        ],
+        [
+          "hide",
+          "borrow",
+          "expect",
+          "cover",
+          "bear",
+          "harm"
+        ],
+        [
+          "equal",
+          "invite",
+          "border",
+          "decide",
+          "continue",
+          "bite"
+        ],
+        [
+          "breeze",
+          "angry",
+          "gather",
+          "edge",
+          "block",
+          "add"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-10 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-10.htm",
+  "legacyEncoding": "utf-8"
+}

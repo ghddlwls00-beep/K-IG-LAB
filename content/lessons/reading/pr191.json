@@ -1,0 +1,47 @@
+{
+  "id": "pr191",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 191 ]",
+  "menuLabel": "[ pr191 ]",
+  "unit": 191,
+  "part": null,
+  "order": 380,
+  "audio": [
+    {
+      "src": "/audio/reading/pr191.mp3",
+      "legacySrc": "sounds/pr191.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 191 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How many times have you heard it said, \"Just believe you can do it and you can!\" It's the act of believing that is the starting force or generating action that leads great men and women to accomplishment. \"Come on, men, we can beat them,\" shouts someone in command. Whether in a game, or on a battlefield, that sudden voicing of belief reverses the tide. \"I can do it.... I can do it.... I can do it!\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr191.htm",
+  "legacyEncoding": "utf-8"
+}

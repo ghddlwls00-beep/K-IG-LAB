@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { mediaUrl } from "@/lib/media";
 
 /**
  * CNN clips, transcoded from the original Windows Media files.
@@ -24,7 +25,7 @@ export function VideoPlayer({ src }: { src: string }) {
   return (
     <div className="border border-line bg-black transition-colors duration-200 ease-out hover:border-line-strong">
       <video
-        src={src}
+        src={mediaUrl(src)}
         controls
         preload="metadata"
         onError={() => setMissing(true)}

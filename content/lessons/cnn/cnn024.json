@@ -1,0 +1,154 @@
+{
+  "id": "cnn024",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "World Cup Soccer Draw Set",
+  "label": "World Cup Soccer Draw Set",
+  "menuLabel": "[ CNN 24 ]",
+  "unit": 24,
+  "part": null,
+  "order": 23,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn024.mp4",
+      "legacySrc": "CNN/CNN1-60/24.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "World Cup Soccer Draw Set"
+    },
+    {
+      "type": "paragraph",
+      "text": "Football mania reached fever pitch as an estimated 350 million fans tuned in for the televised 2006 World Cup draw. The event was held in the German city of Leipzig. The 32 nations have been split into eight qualifying groups and there are some intriguing match-ups. Germany, the host will kick off the tournament against Costa Rica on June 9. England, one of the tournament favorites, faces Paraguay in their opening match and Brazil, the current champion, plays Croatia in their first game on June 13.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "2006 월드컵 본선 조추첨",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "약 3억 5천만 축구팬들이 2006 월드컵 본선 조추첨TV 중계를 시청하면서 축구 열기가 절정에 달했습니다. 이번 (조추첨) 행사는 독일 라이프치히 시에서 열렸습니다. 32개국이 8개 예선조로 편성된 가운데, 몇몇 흥미진진한 경기가 예상됩니다. 주최국 독일이 6월 9일 코스타리카를 상대로 월드컵 개막전을 치르게 됩니다. 강력한 월드컵 우승 후보들 중 하나로 꼽히는 영국은 파라과이를 상대로 첫 경기를 치루고, 지난 대회 우승국인 브라질은 6월 13일 크로아티아를 상대로 첫 경기를 갖게 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "pitch의 마지막 자음 ch[t∫]가 거의 들리지 않아 pea로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "event가 2음절에 강세가 있어 e[i]가 거의 들리지 않는다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도시명인 Leipzig(라이프치히)가 [라이프쎅]으로 발음된 것에 유의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 Brazil[브러질], Paraguay[페레구와이], Croatia[코에샤]도 유심히 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. maniac/ 광적인 팬",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. qualifying game/ 예선 경기",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "fever pitch",
+          "text": "[피버피취]."
+        },
+        {
+          "n": "The event",
+          "text": "[더벤ㅌ]."
+        },
+        {
+          "n": "German city of Leipzig",
+          "text": "city의 -ty 발음이 약화되어 [씨-]로 들려 sea와 혼동할 수 있다."
+        },
+        {
+          "n": "match-ups",
+          "text": "[메첩ㅅ]. ‘자음+모음’으로 두 단어가 연음되고 있다."
+        },
+        {
+          "n": "draw",
+          "text": "제비 뽑기, 추첨"
+        },
+        {
+          "n": "mania",
+          "text": "열광, 열중"
+        },
+        {
+          "n": "fever pitch",
+          "text": "병적 흥분, 열광"
+        },
+        {
+          "n": "estimated",
+          "text": "어림의, 추측 [예상]의"
+        },
+        {
+          "n": "tune in for",
+          "text": "(방송 프로 따위에) 채널을 맞추다"
+        },
+        {
+          "n": "televise",
+          "text": "TV로 방송하다"
+        },
+        {
+          "n": "Leipzig",
+          "text": "라이프치히: 독일 동남부의 도시로 출판과 음악으로 유명하다."
+        },
+        {
+          "n": "be split into",
+          "text": "…으로 쪼개지다, 갈라지다"
+        },
+        {
+          "n": "qualifying group",
+          "text": "예선 경기 그룹"
+        },
+        {
+          "n": "intriguing",
+          "text": "흥미를 돋우는"
+        },
+        {
+          "n": "match-up",
+          "text": "대결, 대전"
+        },
+        {
+          "n": "host",
+          "text": "주최국; 주최자"
+        },
+        {
+          "n": "kick off",
+          "text": "(회합 등을) 시작하다"
+        },
+        {
+          "n": "tournament",
+          "text": "토너먼트, 승자 진출전: 토너먼트 방식으로 월드컵이 진행되기 때문에 여기서는 ‘월드컵경기’를 의미"
+        },
+        {
+          "n": "favorite",
+          "text": "우승후보"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/24.wmv",
+  "legacyEncoding": "binary"
+}

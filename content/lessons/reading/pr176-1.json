@@ -1,0 +1,47 @@
+{
+  "id": "pr176-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr176",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 176-1 ]",
+  "menuLabel": "[ pr176-1 ]",
+  "unit": 176,
+  "part": null,
+  "order": 351,
+  "audio": [
+    {
+      "src": "/audio/reading/pr176.mp3",
+      "legacySrc": "sounds/pr176.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 176-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람은 들은 다음 말해봄으로써 외국어를 배울 수 있다. 다른 사람은 외국어를 배우기 위해 읽고 써야만 한다. 그래서 어떤 이들은 새로운 것을 배우기 위해 그들의 귀를 더 사용하고, 어떤 이들은 눈을 더 사용한다. 다른 예를 들어보자. 나는 지침서 읽고서 컴퓨터 사용법을 배울 수 없다. 그러나 많은 사람들은 단지 그 설명서만 읽고 컴퓨터 사용법을 배우는 것 같다. 간단히 말해, 사람들은 다양한 방식으로 일을 배운다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr176-1.htm",
+  "legacyEncoding": "utf-8"
+}

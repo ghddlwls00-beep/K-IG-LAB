@@ -1,0 +1,103 @@
+{
+  "id": "d127-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d127",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 127 회 ]",
+  "menuLabel": "[ D 127-1 ]",
+  "unit": 127,
+  "part": null,
+  "order": 253,
+  "audio": [
+    {
+      "src": "/audio/ld/d127.mp3",
+      "legacySrc": "sounds/d127.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 127 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "대양은 또 하나의 에너지 원을 제공할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "과학자들은 전력을 생산하기 위하여 대양의 조류의 에너지를"
+    },
+    {
+      "type": "instruction",
+      "text": "이용하는 방법들을 개발하기 위하여 노력해오고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계 최초의 조력 발전소는 불란서에 세워졌고 1966년에 가동을 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 조력 발전소들을 좀 더 효율적으로 만들기 위하여 새로운 기술이 필요하다."
+    },
+    {
+      "type": "instruction",
+      "text": "태양은 또 중요한 석유의 원천이 되고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 유전들이 대양 아래에서 파져왔지만 그중의 몇몇은 환경문제를 야기했다."
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 또 바다에 쓰레기를 버려오고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 도시에서는 바지선들이 쓰레기, 선업 폐기물 및 다른 물질을"
+    },
+    {
+      "type": "instruction",
+      "text": "바다로 싣고 나가서 그것들을 대양에 버린다."
+    },
+    {
+      "type": "instruction",
+      "text": "대양은 그것의 고기와 식물을 위험하게 하지 않으면서 이런 것을 너무 많이 안고 있을 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계 인구가 증가함에 따라 사람들은 바다로부터의 더 많은 산물들이 필요할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 사람이 대양을 오염으로부터 자유롭도록 지킴으로써"
+    },
+    {
+      "type": "instruction",
+      "text": "이런 산물들을 보호하기 위하여 노력해야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d127-1.htm",
+  "legacyEncoding": "utf-8"
+}

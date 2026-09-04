@@ -1,0 +1,47 @@
+{
+  "id": "pr140",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 140 ]",
+  "menuLabel": "[ pr140 ]",
+  "unit": 140,
+  "part": null,
+  "order": 278,
+  "audio": [
+    {
+      "src": "/audio/reading/pr140.mp3",
+      "legacySrc": "sounds/pr140.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 140 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Recognizing the healing power of humor, many hospitals are starting to take laughing matter seriously. For example, some doctors wheel around a ‘laughmobile' cart. It is stocked with a variety of humorous books and monologues recorded by famous comedians. This idea has met with considerable success. So it seems that at least to the health profession, laughter is no joke."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr140.htm",
+  "legacyEncoding": "utf-8"
+}

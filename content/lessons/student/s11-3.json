@@ -1,0 +1,628 @@
+{
+  "id": "s11-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s11-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 53,
+  "audio": [
+    {
+      "src": "/audio/student/s11-3-1.mp3",
+      "legacySrc": "s11-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-2.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-3.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-4.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-5.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-6.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-7.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-8.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-9.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-10.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-11.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-12.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-13.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-14.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-15.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-16.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-17.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-18.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-19.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-20.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-21.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-22.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-23.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-24.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-25.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-26.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-27.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-28.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-29.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-30.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-31.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-32.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-33.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-34.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-35.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-36.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-37.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-3-38.mp3",
+      "legacySrc": "s11-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "We go to church every Sunday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also have many friends at church.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Others believe in Buddha.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On Sundays, some people either like to go shopping with friends or spend their time watching T.V. or playing computer games.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes if I have a test coming up the following week, I have to study all weekend long.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My family and I are Christians.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Others go on trips with their families to the countryside, seaside, or amusement park.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many religions in Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Buddhists usually just go on special days of the year to the temple.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국에는 많은 종교들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족과 나는 기독교인입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 일요일마다 교회에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 교회에 많은 친구들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "다른 사람들은 불교를 믿습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "불교를 믿는 사람들은 단지 그 해의 특별한 날들에만 절에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "다른 사람들은 그들의 가족들과 함께 시골, 바닷가, 또는 놀이공원으로 여행을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "일요일에, 몇몇의 사람들은 친구들과 함께 쇼핑을 가거나 또는 TV를 보거나 컴퓨터게임을 하면서 그들의 시간을 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On Sundays, some people either like to go shopping with friends or spendtheir time watching T.V. or playing computer games.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나에게 다음주에 다가오는 시험이 있으면, 나는 주말 내내 공부를 해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 종교들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 종교들이 있습니다.There are many religions",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에는 in Korea.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족과 나는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족과 나는My family and I",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 기독교인들입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 기독교인들입니다. are Christians.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 교회에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 교회에 갑니다.We go to church",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매주 일요일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매주 일요일 every Sunday.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 많은 친구들을 가집니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 많은 친구들을 가집니다.I also have many friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 교회에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 교회에서 at church.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 불교신자들은 단지 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 불교신자들은 단지 갑니다.Buddhists usually just go",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그 해의 특별한 날들에만",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그 해의 특별한 날들에만 on special days of the year",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사원으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사원으로 to the temple.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "다른 사람들은 여행을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "다른 사람들은 여행을 갑니다.Others go on trips",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 가족들과 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 가족들과 함께with their families",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/시골로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/시골로 to the countryside,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 해변으로,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 해변으로, seaside,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또는 놀이공원으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또는 놀이공원으로 or amusement park.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "일요일마다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "일요일마다On Sundays,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어떤 사람들은 좋아하기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어떤 사람들은 좋아하기도 합니다. some people either like",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 친구들과 쇼핑가기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 친구들과 쇼핑가기를 to go shopping with friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 또는 그들의 시간을 보내기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 또는 그들의 시간을 보내기를 or spend their time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ TV를 보거나",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ TV를 보거나 watching T.V.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 컴퓨터 게임을 하면서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 컴퓨터 게임을 하면서 or playing computer games.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로Sometimes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 만약 내가 가진다면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 만약 내가 가진다면 if I have",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다가오는 시험을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다가오는 시험을 a test coming up",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다음주에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 다음주에 the following week,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부해야만 합니다. I have to study",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 주말 내내",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 주말 내내 all weekend long.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Weekends? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sunday",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s11-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s11-3.swf"
+  ]
+}

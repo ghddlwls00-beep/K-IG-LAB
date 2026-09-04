@@ -1,0 +1,71 @@
+{
+  "id": "p044",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 044 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 4,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/middle/p044.mp3",
+      "legacySrc": "sounds/p044.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 044 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Mother’s brother and sister"
+    },
+    {
+      "type": "hints",
+      "text": "My mother is the youngest child in her family."
+    },
+    {
+      "type": "instruction",
+      "text": "She has two older brothers and two sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "My uncles and aunts are all married,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I have a lot of cousins as well."
+    },
+    {
+      "type": "instruction",
+      "text": "Because grandfather passed away several years ago,"
+    },
+    {
+      "type": "instruction",
+      "text": "my grandmother lives with my mother’s eldest brother."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p044.htm",
+  "legacyEncoding": "utf-8"
+}

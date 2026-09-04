@@ -1,0 +1,88 @@
+{
+  "id": "mv1-39",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-39 ]",
+  "unit": 39,
+  "part": null,
+  "order": 38,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-39.mp3",
+      "legacySrc": "sounds/mv1-39.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "wolf",
+          "army",
+          "kid",
+          "fog",
+          "effect",
+          "professor"
+        ],
+        [
+          "express",
+          "fault",
+          "smooth",
+          "branch",
+          "forever",
+          "bow"
+        ],
+        [
+          "businessman",
+          "festival",
+          "population",
+          "main",
+          "pleasure",
+          "distance"
+        ],
+        [
+          "prison",
+          "safety",
+          "community",
+          "charge",
+          "flame",
+          "Europe"
+        ],
+        [
+          "grade",
+          "scene",
+          "absent",
+          "coast",
+          "unfortunately",
+          "rough"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-39 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-39.htm",
+  "legacyEncoding": "utf-8"
+}

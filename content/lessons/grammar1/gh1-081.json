@@ -1,0 +1,212 @@
+{
+  "id": "gh1-081",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 081]",
+  "menuLabel": "[ gh1-081 ]",
+  "unit": 81,
+  "part": null,
+  "order": 128,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-081.mp3",
+      "legacySrc": "sounds/gh1-081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 081]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 5 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Are you a student?"
+        },
+        {
+          "n": "2",
+          "text": "Is your father rich(a rich man)?"
+        },
+        {
+          "n": "3",
+          "text": "Does he get up early?"
+        },
+        {
+          "n": "4",
+          "text": "Does your sister go to bed early?"
+        },
+        {
+          "n": "5",
+          "text": "How many people did the police arrest?"
+        },
+        {
+          "n": "6",
+          "text": "The police arrested 15 people, didn't they? (police, people, children은 항상 복수)"
+        },
+        {
+          "n": "7",
+          "text": "Where did the police arrest 15 people?"
+        },
+        {
+          "n": "8",
+          "text": "Why were the police arresting workers?"
+        },
+        {
+          "n": "9",
+          "text": "Why are the police arresting the students?"
+        },
+        {
+          "n": "10",
+          "text": "Why aren't more people doing it?"
+        },
+        {
+          "n": "11",
+          "text": "It is not the end."
+        },
+        {
+          "n": "12",
+          "text": "It is the beginning of the end."
+        },
+        {
+          "n": "13",
+          "text": "What time did you go to bed last night?"
+        },
+        {
+          "n": "14",
+          "text": "What time did you get up?"
+        },
+        {
+          "n": "15",
+          "text": "What time did you get to work?"
+        },
+        {
+          "n": "16",
+          "text": "Why did you get home late?"
+        },
+        {
+          "n": "17",
+          "text": "What time did you leave your home(house)?"
+        },
+        {
+          "n": "18",
+          "text": "Did you take the subway?"
+        },
+        {
+          "n": "19",
+          "text": "Does your mother take the subway?"
+        },
+        {
+          "n": "20",
+          "text": "Do you have breakfast?"
+        },
+        {
+          "n": "21",
+          "text": "What did you have for breakfast?"
+        },
+        {
+          "n": "22",
+          "text": "What time do you have lunch?"
+        },
+        {
+          "n": "23",
+          "text": "Where does he have lunch?"
+        },
+        {
+          "n": "24",
+          "text": "Does she like fast food?"
+        },
+        {
+          "n": "25",
+          "text": "When did you come to Korea?"
+        },
+        {
+          "n": "26",
+          "text": "When does he return(go back) to the U.S.?"
+        },
+        {
+          "n": "27",
+          "text": "Where are you from?"
+        },
+        {
+          "n": "28",
+          "text": "Where do you come from?"
+        },
+        {
+          "n": "29",
+          "text": "Aren't you happy in Korea?"
+        },
+        {
+          "n": "30",
+          "text": "Who shouts?"
+        },
+        {
+          "n": "31",
+          "text": "Who cries?"
+        },
+        {
+          "n": "32",
+          "text": "Do your children cry often?"
+        },
+        {
+          "n": "33",
+          "text": "Why are your children crying?"
+        },
+        {
+          "n": "34",
+          "text": "Is the baby crying?"
+        },
+        {
+          "n": "35",
+          "text": "Your girlfriend whispers but your wife shouts."
+        },
+        {
+          "n": "36",
+          "text": "Are(Were) you mad (angry)?"
+        },
+        {
+          "n": "37",
+          "text": "Who looked for me?"
+        },
+        {
+          "n": "38",
+          "text": "Did your mother look for this?"
+        },
+        {
+          "n": "39",
+          "text": "Your grandmother did not look for this, did she?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-081.htm",
+  "legacyEncoding": "utf-8"
+}

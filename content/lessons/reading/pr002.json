@@ -1,0 +1,47 @@
+{
+  "id": "pr002",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 002 ]",
+  "menuLabel": "[ pr002 ]",
+  "unit": 2,
+  "part": null,
+  "order": 2,
+  "audio": [
+    {
+      "src": "/audio/reading/pr002.mp3",
+      "legacySrc": "sounds/pr002.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 002 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "As the quality of air is becoming poorer and poorer, private organizations are trying to make the air cleaner. In spite of their continued efforts, factories and cars are still producing too much dirty smoke of putting too chemicals into the air. The time may soon come when we have to take an oxygen tank with us wherever we go."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr002.htm",
+  "legacyEncoding": "utf-8"
+}

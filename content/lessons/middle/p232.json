@@ -1,0 +1,67 @@
+{
+  "id": "p232",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 232]",
+  "menuLabel": null,
+  "unit": 23,
+  "part": 2,
+  "order": 218,
+  "audio": [
+    {
+      "src": "/audio/middle/p232.mp3",
+      "legacySrc": "sounds/p232.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 232]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Weekday)"
+    },
+    {
+      "type": "hints",
+      "text": "My weekdays are pretty busy, too."
+    },
+    {
+      "type": "instruction",
+      "text": "My weekdays are similar to other students."
+    },
+    {
+      "type": "instruction",
+      "text": "Every night I get home and chat on the computer with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Nowadays, I am on the computer for a very long time."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite time is Friday because it is the start of the weekend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p232.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "p015-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p015",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 015-1 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 5,
+  "order": 11,
+  "audio": [
+    {
+      "src": "/audio/middle/p015.mp3",
+      "legacySrc": "sounds/p015.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 015-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(취미)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 취미들은 책 읽기, 음악듣기, 등산,"
+    },
+    {
+      "type": "instruction",
+      "text": "영화보기, 스포츠에 참가하는 것 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 특별히 영화 보는 것을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 컴퓨터게임 하기도 또한 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p015-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p152",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 152 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 2,
+  "order": 154,
+  "audio": [
+    {
+      "src": "/audio/middle/p152.mp3",
+      "legacySrc": "sounds/p152.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 152 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(The Person I Admire the Most)"
+    },
+    {
+      "type": "hints",
+      "text": "The person I admire the most is Guus Hiddink, coach of the"
+    },
+    {
+      "type": "instruction",
+      "text": "Korean Republic national soccer team from Holland."
+    },
+    {
+      "type": "instruction",
+      "text": "During his time as coach of the Korean team,"
+    },
+    {
+      "type": "instruction",
+      "text": "he trained our soccer players very hard."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though Coach Hiddink spent a lot of time training Korea’s"
+    },
+    {
+      "type": "instruction",
+      "text": "soccer team, they were still not winning very many games."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people complained about him"
+    },
+    {
+      "type": "instruction",
+      "text": "and blamed him for the lack of success."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p152.htm",
+  "legacyEncoding": "utf-8"
+}

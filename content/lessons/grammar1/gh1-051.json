@@ -1,0 +1,224 @@
+{
+  "id": "gh1-051",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 051]",
+  "menuLabel": "[ gh1-051 ]",
+  "unit": 51,
+  "part": null,
+  "order": 76,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-051.mp3",
+      "legacySrc": "sounds/gh1-051.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 051]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I am happy."
+        },
+        {
+          "n": "2",
+          "text": "He is sad."
+        },
+        {
+          "n": "3",
+          "text": "You are poor."
+        },
+        {
+          "n": "4",
+          "text": "She is healthy."
+        },
+        {
+          "n": "5",
+          "text": "We are young."
+        },
+        {
+          "n": "6",
+          "text": "They are students."
+        },
+        {
+          "n": "7",
+          "text": "This is my hat(cap)."
+        },
+        {
+          "n": "8",
+          "text": "These are your shoes."
+        },
+        {
+          "n": "9",
+          "text": "Those(They) are their guns."
+        },
+        {
+          "n": "10",
+          "text": "My cat is cute."
+        },
+        {
+          "n": "11",
+          "text": "This is yours."
+        },
+        {
+          "n": "12",
+          "text": "It(That) is mine."
+        },
+        {
+          "n": "13",
+          "text": "Am I healthy?"
+        },
+        {
+          "n": "14",
+          "text": "Is he famous?"
+        },
+        {
+          "n": "15",
+          "text": "Is she old?"
+        },
+        {
+          "n": "16",
+          "text": "Are you sad?"
+        },
+        {
+          "n": "17",
+          "text": "Is my car good?"
+        },
+        {
+          "n": "18",
+          "text": "Are they strong?"
+        },
+        {
+          "n": "19",
+          "text": "What is her name?"
+        },
+        {
+          "n": "20",
+          "text": "Where are the students?"
+        },
+        {
+          "n": "21",
+          "text": "Where is the girl?"
+        },
+        {
+          "n": "22",
+          "text": "Where is my car?"
+        },
+        {
+          "n": "23",
+          "text": "Where are my glasses?"
+        },
+        {
+          "n": "24",
+          "text": "What is she?"
+        },
+        {
+          "n": "25",
+          "text": "Is he your boyfriend?"
+        },
+        {
+          "n": "26",
+          "text": "Are they your teachers?"
+        },
+        {
+          "n": "27",
+          "text": "Are these girls your friends?"
+        },
+        {
+          "n": "28",
+          "text": "Whose car is that(it)?"
+        },
+        {
+          "n": "29",
+          "text": "Is your mother happy?"
+        },
+        {
+          "n": "30",
+          "text": "Is this building yours?"
+        },
+        {
+          "n": "31",
+          "text": "Are they(those) yours?"
+        },
+        {
+          "n": "32",
+          "text": "Is it (that) mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where are your brothers?"
+        },
+        {
+          "n": "34",
+          "text": "Where is your sister?"
+        },
+        {
+          "n": "35",
+          "text": "Where are your parents?"
+        },
+        {
+          "n": "36",
+          "text": "How is your wife?"
+        },
+        {
+          "n": "37",
+          "text": "Is she your daughter?"
+        },
+        {
+          "n": "38",
+          "text": "Is it eight o'clock?"
+        },
+        {
+          "n": "39",
+          "text": "It is nine o'clock."
+        },
+        {
+          "n": "40",
+          "text": "Is it hot?"
+        },
+        {
+          "n": "41",
+          "text": "No, it is not hot."
+        },
+        {
+          "n": "42",
+          "text": "It is cool."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-051.htm",
+  "legacyEncoding": "utf-8"
+}

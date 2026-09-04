@@ -1,0 +1,87 @@
+{
+  "id": "d172-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d172",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 172 회 ]",
+  "menuLabel": "[ D 172-1 ]",
+  "unit": 172,
+  "part": null,
+  "order": 342,
+  "audio": [
+    {
+      "src": "/audio/ld/d172.mp3",
+      "legacySrc": "sounds/d172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 172 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 스페인 선교부와 몇몇 목장주들과 농부들과 물론 자신들이"
+    },
+    {
+      "type": "instruction",
+      "text": "발견할 수 있는 누구나 털었던 위험한 강도들이 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "1848년에 모든 것이 바뀌었다."
+    },
+    {
+      "type": "instruction",
+      "text": "금이 발견되었고 그 나라 전역으로부터 사람들이 캘리포니아로 몰려들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 금을 찾기 위하여 체를 치면서 모두 재산을 일구는 꿈을 꾸었다."
+    },
+    {
+      "type": "instruction",
+      "text": "금이 발견된 모든 곳에 광산촌이 나타났다."
+    },
+    {
+      "type": "instruction",
+      "text": "보통 이런 마을들은 한 개의 살롱, 한 호텔, 하나의 마굿간, 하나의 감옥,"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 하나의 공동 묘지보다 별로 더 많지 않게 구성되어 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "100년도 안된 후에 사람들이 다시 캘리포니아로 몰려들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이번에 그들은 금이 아니라 영화에서 재산을 만들 꿈을 꾸었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d172-1.htm",
+  "legacyEncoding": "utf-8"
+}

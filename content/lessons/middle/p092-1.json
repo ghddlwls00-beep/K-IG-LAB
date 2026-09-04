@@ -1,0 +1,79 @@
+{
+  "id": "p092-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p092",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 092-1 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 99,
+  "audio": [
+    {
+      "src": "/audio/middle/p092.mp3",
+      "legacySrc": "sounds/p092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 092-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나는 오후에 무엇을 할까요?)"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오후 12시 30분에 점심을 먹습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "점심식사 후, 나는 수업이 2개 더 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 3시에 나의 수업들을 마칩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "방과 후, 나는 미술, 피아노, 영어를 공부하는 사설 학원들로 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "각각의 학원 수업은 약50분간 지속됩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가끔씩 나는 학원에 있을 때 매우 피곤해지지만,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 친구들과 그곳에서 공부하는 것을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 마지막 학원 수업 후에, 나는 약 오후 6시쯤 집에 도착합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p092-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr100",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 100 ]",
+  "menuLabel": "[ pr100 ]",
+  "unit": 100,
+  "part": null,
+  "order": 198,
+  "audio": [
+    {
+      "src": "/audio/reading/pr100.mp3",
+      "legacySrc": "sounds/pr100.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 100 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In an experiment on their behavior, baby monkeys were separated from their mothers at birth and provided with artificial mother. Some of their artificial mothers were made of cold, hard wire while others were made of warm, soft towel cloth. When given a choice between the two types of mothers, the monkeys repeatedly chose to spend their time with the towel cloth mothers. This experiment suggest that the baby monkeys looked for the comfort supplied by their contact with towel cloth mothers."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr100.htm",
+  "legacyEncoding": "utf-8"
+}

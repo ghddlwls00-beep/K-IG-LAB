@@ -1,0 +1,88 @@
+{
+  "id": "hv-45",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-45 ]",
+  "unit": 45,
+  "part": null,
+  "order": 164,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-45.mp3",
+      "legacySrc": "sounds/hv-45.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "community",
+          "communism",
+          "communist",
+          "communicate",
+          "communication",
+          "common"
+        ],
+        [
+          "uncommon",
+          "commonplace",
+          "mutual",
+          "commute",
+          "commuter",
+          "native"
+        ],
+        [
+          "nation",
+          "national",
+          "nationality",
+          "tragic",
+          "denial",
+          "tragedy"
+        ],
+        [
+          "deny",
+          "melody",
+          "negative",
+          "notable",
+          "nursery",
+          "navigation"
+        ],
+        [
+          "nurse",
+          "note",
+          "navigate",
+          "enormous",
+          "nourishment",
+          "navy"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-45 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-45.htm",
+  "legacyEncoding": "utf-8"
+}

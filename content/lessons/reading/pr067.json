@@ -1,0 +1,55 @@
+{
+  "id": "pr067",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 067 ]",
+  "menuLabel": "[ pr067 ]",
+  "unit": 67,
+  "part": null,
+  "order": 132,
+  "audio": [
+    {
+      "src": "/audio/reading/pr067.mp3",
+      "legacySrc": "sounds/pr067.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 067 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In a meeting of animal Space Scientists, the chimpanzee proudly announced, \"We sent a rocket to the moon. It stayed there for a whole month before making the long trip back to Earth.\""
+    },
+    {
+      "type": "hints",
+      "text": "\"That's nothing,\" said the fox. \" We already sent our spaceship to straight to the sun.\" The chimpanzee and the fox laughed loudly and said, \"Don't be silly. The rocket will melt before it gets there.\""
+    },
+    {
+      "type": "instruction",
+      "text": "\"No, it won't,\" said the pig. \"We're sending it up at night.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr067.htm",
+  "legacyEncoding": "utf-8"
+}

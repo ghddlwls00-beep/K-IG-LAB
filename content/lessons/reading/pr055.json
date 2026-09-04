@@ -1,0 +1,55 @@
+{
+  "id": "pr055",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 055 ]",
+  "menuLabel": "[ pr055 ]",
+  "unit": 55,
+  "part": null,
+  "order": 108,
+  "audio": [
+    {
+      "src": "/audio/reading/pr055.mp3",
+      "legacySrc": "sounds/pr055.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 055 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In making a successful school, we must consider the relationships among the people involved in the school community. Teachers need to know their students well in order to be able to teach them effectively. In addition, teachers must maintain a good relationship with the parents, who are also an important part of the total community."
+    },
+    {
+      "type": "hints",
+      "text": "In a community built on trust and openness, where teachers, students, and parents show respect for each other, students feel secure and can develop the self-confidence which makes learning and personal growth possible. When students are drawn into meaningful relationships with their teachers and other adults, they are better able to see them as real people. This affects their whole attitude toward school and learning."
+    },
+    {
+      "type": "instruction",
+      "text": "In such an environment, teachers feel valued and supported. Parents feel included. As a result, they are more likely to contribute to the improvement of the school and the learning of the students. All members of the school community feel as though they belong and can make a positive contribution to the school."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr055.htm",
+  "legacyEncoding": "utf-8"
+}

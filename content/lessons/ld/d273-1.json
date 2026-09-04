@@ -1,0 +1,83 @@
+{
+  "id": "d273-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d273",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 273 회 ]",
+  "menuLabel": "[ D 273-1 ]",
+  "unit": 273,
+  "part": null,
+  "order": 543,
+  "audio": [
+    {
+      "src": "/audio/ld/d273.mp3",
+      "legacySrc": "sounds/d273.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 273 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "구약에 바벨탑의 이야기가 나온다."
+    },
+    {
+      "type": "instruction",
+      "text": "하나님의 신비를 이해하기 위한 시도에서 인간은 하늘에 도달할 한 탑을 지으려고 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 교만에 대한 처벌로써 그 탑이 무너져서 근로자들의 언어가 혼돈되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것이 전 세계에서 사용되는 다양한 언어의 기원의 우화적인 설명이다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 천개 이상의 언어가 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들 중 많은 것은 공동의 어원으로부터 연유한다."
+    },
+    {
+      "type": "instruction",
+      "text": "불어, 스페인어, 이태리어 같은 로망스말은 모두 라틴어로부터 파생되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "반면에 영어는 많은 언어로부터 여러 요소들을 빌어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 어휘는 부분적으로는 라틴어로부터 온 반면 그 문법은 독일어 문법과 비슷하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d273-1.htm",
+  "legacyEncoding": "utf-8"
+}

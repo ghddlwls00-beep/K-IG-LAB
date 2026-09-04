@@ -1,0 +1,87 @@
+{
+  "id": "d014-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d014",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 014 회 ]",
+  "menuLabel": "[ D 014-1 ]",
+  "unit": 14,
+  "part": null,
+  "order": 27,
+  "audio": [
+    {
+      "src": "/audio/ld/d014.mp3",
+      "legacySrc": "sounds/d014.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 014 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매우 훌륭한 운동 선수다. 그는 농구, 축구, 야구를 할 수 있다. 그는 훌륭한 달리기 선수다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 또 테니스와 골프롤 할 수 있다. 그러나 그는 수영할 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 이유에서 그는 결코 헤엄치는 것을 배울 수 없었다. 만일 그가 수영할 수 없다면"
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 그가 보트타는 것을 좋아하지 않을 것이라고 생각할꺼야."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그것은 그를 성가시게 하는 것 같지 않아. 그는 늘 물 위로 나간다. 그는 언어도 쉽게 배운다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 러시아어, 폴튜갈어, 독일어, 이태리어, 중국어를 안다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 러시아어와 폴투갈어를 말하고 읽고 쓸 수 있다. 그는 독일어를 말할 수 있지만"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 읽을 수는 없다. 그는 중국어를 읽을 수 있지만 그는 그것을 말할 수 없다. 그것을 상상해보라."
+    },
+    {
+      "type": "instruction",
+      "text": "중국어를 읽고 쓰는 것을 배우는 것은 매우 어렵지만 그는 한 마디도 말할 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 이상하지 않나?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d014-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pr143-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr143",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 143-1 ]",
+  "menuLabel": "[ pr143-1 ]",
+  "unit": 143,
+  "part": null,
+  "order": 285,
+  "audio": [
+    {
+      "src": "/audio/reading/pr143.mp3",
+      "legacySrc": "sounds/pr143.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 143-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 시민이 사적 정보를 지키는 권리를 완전히 행사하는 것을 보장하기"
+    },
+    {
+      "type": "instruction",
+      "text": "위한 보다 효과적인 방법이 필요하다. 개인 자료의 수집과 그런 자료의 무"
+    },
+    {
+      "type": "instruction",
+      "text": "제한적 사용 및 배포에 맞서 시민을 보호해야 한다. 정보의 축적과 배포"
+    },
+    {
+      "type": "instruction",
+      "text": "능력은 컴퓨터와 다른 장비의 사용을 통해 증대됬다. 그 결과, 사적 정보는"
+    },
+    {
+      "type": "instruction",
+      "text": "통제되지 않고 수집 및 배포되어, 개인의 사생활에 해를 끼치고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr143-1.htm",
+  "legacyEncoding": "utf-8"
+}

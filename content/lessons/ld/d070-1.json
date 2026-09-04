@@ -1,0 +1,79 @@
+{
+  "id": "d070-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d070",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 070회 ]",
+  "menuLabel": "[ D 070-1 ]",
+  "unit": 70,
+  "part": null,
+  "order": 139,
+  "audio": [
+    {
+      "src": "/audio/ld/d070.mp3",
+      "legacySrc": "sounds/d070.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 070회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "증기에 의해서 달리는 세계 최초의 공공철도는 1825년에 잉글랜드에서 개통되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 단선이었다. 그 다음 큰 철도는 Manchester와 Liverpool 사이를 달리는 복선이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 개통일은 큰 성공이었다 - 즉 Mr.Huskisson에게만 제외하고는. 8대의 열차가 개회식에 참여했다."
+    },
+    {
+      "type": "instruction",
+      "text": "29대의 차량에 600명이 있었다. 17마일을 여행한 후에 그 열차들은 급수받기 위하여 멈춰야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "Huskisson씨는 그 다른 열차 중의 하나에 탄 친구와 이야기하기 위하여 그의 열차에서 나왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "철로를 반쯤 건넜을 때 그는 갑자기 한 열차가 자신을 향하여 질주해오는 것을 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 시속 23마일의 환상적인 속도로 달리고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Huskisson씨는 경악했고 두려움으로 얼어붙었다. 그는 그 열차에 치어서 같은 날 밤에 죽었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d070-1.htm",
+  "legacyEncoding": "utf-8"
+}

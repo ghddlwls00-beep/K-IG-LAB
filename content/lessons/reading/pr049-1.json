@@ -1,0 +1,47 @@
+{
+  "id": "pr049-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr049",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 049-1 ]",
+  "menuLabel": "[ pr049-1 ]",
+  "unit": 49,
+  "part": null,
+  "order": 97,
+  "audio": [
+    {
+      "src": "/audio/reading/pr049.mp3",
+      "legacySrc": "sounds/pr049.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 049-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사업이나 직업에서 성공을 못하는 사람들은 집중을 못하는 사람들이다. 인생에서 성공한 사람들 중 많은 수는 그들의 집중력이 우수하다는 사실의 덕을 보고 있다. 예술가라면 집중력의 도움을 받아 훌륭한 작품을 만들 수 있다. 과학자라면 과학에서 우수한 성과를 거둘 수 있다. 시인이라면 시도 잘 쓸 것이다. 그러나 아무리 자질이 있더라도 집중을 못하면 자신의 자질을 최대한 이용하지 못할 것이다. 그는 결코 자질이 있는 사람이라고 불릴 수 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr049-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "w16-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w16-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 3,
+  "order": 65,
+  "audio": [
+    {
+      "src": "/audio/woman/w16-3-1.mp3",
+      "legacySrc": "w16-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w16-3-2.mp3",
+      "legacySrc": "w16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w16-3-3.mp3",
+      "legacySrc": "w16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w16-3-4.mp3",
+      "legacySrc": "w16-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Popular Sports in Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "2002 월드컵이 한국에서 열린 후로, 축구와 많은 다른 스포츠들이 우리나라에서 더욱 인기 있어졌다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the 2002 Soccer World Cup was held in Korea, soccer and many other sports became more popular in our country.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "주말에, 우리는 대부분 스포츠를 보거나 생생한 게임을 보러 경기장에 간다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On weekends, we mostly watch sports or go to live games at the stadium.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "요즘, 롤러브레이딩과 스케이트 보딩은 한국 어린이들 사이에서 인기를 얻고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nowadays, rollerblading and skate boarding are becoming popular with Korean children.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nowadays, rollerblading and skate boarding are becoming popularwith Korean children.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w16-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w16-3.swf"
+  ]
+}

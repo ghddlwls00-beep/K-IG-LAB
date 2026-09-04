@@ -1,0 +1,79 @@
+{
+  "id": "d170-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d170",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 170 회 ]",
+  "menuLabel": "[ D 170-1 ]",
+  "unit": 170,
+  "part": null,
+  "order": 338,
+  "audio": [
+    {
+      "src": "/audio/ld/d170.mp3",
+      "legacySrc": "sounds/d170.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 170 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "자신의 시간과 노력을 좀 절약하기 위하여 그녀는 음식을 미리 주문했다."
+    },
+    {
+      "type": "instruction",
+      "text": "가까운 식당으로부터 찬 육류와 샐러드를 빵집으로부터"
+    },
+    {
+      "type": "instruction",
+      "text": "빵과 케익을 그리고 현지 양조장으로부터 와인을,"
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 식탁을 차리고 손님이 올 시간 직전에 그 모든 음식을 내놓았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그녀는 앞 현관에서 그들을 기다렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "모두 도착했을 때 그들은 식당으로 들어갔는데 그곳에서"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 사촌은 초대하지 않은 손님이 있다는 것을 발견했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 고양이가 그 식탁에 앉아서 육류의 여러 몫 중의 하나를 행복하게 먹고 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d170-1.htm",
+  "legacyEncoding": "utf-8"
+}

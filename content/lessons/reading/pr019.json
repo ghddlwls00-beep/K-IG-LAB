@@ -1,0 +1,83 @@
+{
+  "id": "pr019",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 019 ]",
+  "menuLabel": "[ pr019 ]",
+  "unit": 19,
+  "part": null,
+  "order": 36,
+  "audio": [
+    {
+      "src": "/audio/reading/pr019.mp3",
+      "legacySrc": "sounds/pr019.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 019 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An Eskimo once told European visitors that the only true wisdom lives"
+    },
+    {
+      "type": "hints",
+      "text": "far from mankind, out in the great loneliness, and can be reached only"
+    },
+    {
+      "type": "instruction",
+      "text": "through suffering. The great loneliness―like the loneliness a caterpillar"
+    },
+    {
+      "type": "instruction",
+      "text": "endures when she wraps herself in a silky cocoon and begins the long"
+    },
+    {
+      "type": "instruction",
+      "text": "transformation to butterfly. It seems that we too must go through such"
+    },
+    {
+      "type": "instruction",
+      "text": "a time, when life as we have known it is over and yet we don’t know"
+    },
+    {
+      "type": "instruction",
+      "text": "who we are supposed to become. All we know is that something bigger"
+    },
+    {
+      "type": "instruction",
+      "text": "is calling us to change. And though we must make the journey alone, and"
+    },
+    {
+      "type": "instruction",
+      "text": "even if suffering is our only companion, soon enough we will become a"
+    },
+    {
+      "type": "instruction",
+      "text": "butterfly, soon enough we will taste the joy of being alive."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr019.htm",
+  "legacyEncoding": "utf-8"
+}

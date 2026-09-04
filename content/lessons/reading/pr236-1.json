@@ -1,0 +1,47 @@
+{
+  "id": "pr236-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr236",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 236-1 ]",
+  "menuLabel": "[ pr236-1 ]",
+  "unit": 236,
+  "part": null,
+  "order": 471,
+  "audio": [
+    {
+      "src": "/audio/reading/pr236.mp3",
+      "legacySrc": "sounds/pr236.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 236-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "창고를 청소할 때, 수집할 만한 물건으로서 그것의 가능성을 결정할 때까지는 어떤 “쓰레기”도 버리지 말라. 사실, 가치 없는 낡은 쓰레기 조각이 귀중한 것일 수도 충분히 있다. 예를 들어 사람들은 종종 오래된 레코드판, 병, 책을 값싸게 팔고 그것들이 나중에 더 큰 수집품의 일부로 수십, 수백만 달러로 다시 팔리는 것을 본다. 드문 경우이지만, 유명한 화가가 그린 그림을 파는 사람이 있다. 그러므로, 차고 세일을 하기 전에 귀중품과 쓸모없는 폐물을 구별하는 것을 도와달라고 골동품 판매상에게 전화를 하라."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr236-1.htm",
+  "legacyEncoding": "utf-8"
+}

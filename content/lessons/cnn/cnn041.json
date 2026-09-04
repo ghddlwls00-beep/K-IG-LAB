@@ -1,0 +1,174 @@
+{
+  "id": "cnn041",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Go Ahead.",
+  "label": "Go Ahead.",
+  "menuLabel": "[ CNN 41 ]",
+  "unit": 41,
+  "part": null,
+  "order": 40,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn041.mp4",
+      "legacySrc": "CNN/CNN1-60/41.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Go Ahead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: 9-1-1 Emergency. Can I have the telephone number from which you are calling?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: I’m calling from 555-3401.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Go ahead.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: A bicyclist was hit by a car near my driveway.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Are there any serious injuries?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: I’m not sure.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Tell me your address and the nearest cross street.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: 598 West Street at the corner of Main.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Help will be there shortly.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: O.K.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "말씀하세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 말씀하세요.여자: 우리 집 차도 근처에서 자전거를 탄 사...남자: 긴급구조 911입니다. 지금 전화하시는 곳의 전화번호를 알 수 있을까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 저희 전화번호는 555-3401입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 말씀하세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 우리 집 차도 근처에서 자전거를 탄 사람이 차에 치였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 부상이 심한가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 모르겠어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 주소와 제일 가까운 교차로를 가르쳐 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 메인 가의 모퉁이에 위치한 웨스트 가 598번지입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 곧 구조원들이 도착할 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 알겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1) emergency",
+          "text": "비상 사태, 돌발 사태"
+        },
+        {
+          "n": "2) bicyclist",
+          "text": "자전거를 타는 사람; 경륜 선수"
+        },
+        {
+          "n": "3) driveway",
+          "text": "개인 차도, (도로에서 집, 차고까지의) 진입로"
+        },
+        {
+          "n": "4) serious",
+          "text": "위독한, 위험한, 심각한; 진지한"
+        },
+        {
+          "n": "5) injury",
+          "text": "부상, 상해"
+        },
+        {
+          "n": "6) address",
+          "text": "(편지, 소포 따위의) 주소"
+        },
+        {
+          "n": "7) cross street",
+          "text": "교차로; (큰 길과 교차하는) 골목길"
+        },
+        {
+          "n": "8) help",
+          "text": "도움이 되는 사람[것]"
+        },
+        {
+          "n": "9) shortly",
+          "text": "곧, 이윽고; 간단히, 짧게"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/41.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "m10-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m10-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 2,
+  "order": 46,
+  "audio": [
+    {
+      "src": "/audio/man/m10-2-1.mp3",
+      "legacySrc": "m10-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-2-2.mp3",
+      "legacySrc": "m10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-2-3.mp3",
+      "legacySrc": "m10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-2-4.mp3",
+      "legacySrc": "m10-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나에게는 사춘기가 일찍 왔지만 나는 그것에 많은 문제가 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For me, puberty came early, but I did not have many problems with this.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "삶에 있어 이때의 생활은 다른 사람들과 비슷했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 삶에 있어 이때의 생활은 다른 사람들과 비슷했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My life at this time of life was similar to others",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 음악 감상과 영화 감상에 아주 흥미가 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was really interested in listening to music and watching movies.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 학교에서 열심히 공부하려 노력했고 그래서 나는 좋은 고등학교에 들어갔지만역시 매우 힘든 시간을 가졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was trying to work hard in school, so I could get into a good high school, but I had a very hard time doing so.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My life at this time of life was similar to others.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Youth in Middle School",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m10-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m10-2.swf"
+  ]
+}

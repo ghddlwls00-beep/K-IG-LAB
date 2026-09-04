@@ -1,0 +1,51 @@
+{
+  "id": "pr086",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 086 ]",
+  "menuLabel": "[ pr086 ]",
+  "unit": 86,
+  "part": null,
+  "order": 170,
+  "audio": [
+    {
+      "src": "/audio/reading/pr086.mp3",
+      "legacySrc": "sounds/pr086.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 086 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps the greatest thing about being a devoted operagoer is that there is so much room for growth. Although you have heard an opera once, you can still hear it five or twenty times more. I have heard at least twenty performances of my favorite operas, and I would happily hear them twenty more times. With each rehearing, you refine what you know. The better you know an opera, the more you will be challenged by the ideas of new singers, conductors, directors, and designers."
+    },
+    {
+      "type": "hints",
+      "text": "Your first experience with Rigoletto and Tosca is only your introduction to those masterpieces. Each time you hear a different singer in any of the key roles, you are hearing a new interpretation. Even the same singer will vary on two different occasions. Artists grow and change in their approach to a character based on their own life experiences and their moods. For example, I saw a famous soprano from Eastern Europe sing Tosca twice within ten months. The first time was a good, honest performance that pleased the audience. The second was impressive Between the performances, the singer’s husband had suddenly died. The love scenes in the second performance seemed much more moving, and her response to the death of her lover was undeniably charming."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr086.htm",
+  "legacyEncoding": "utf-8"
+}

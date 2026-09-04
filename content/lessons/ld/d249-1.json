@@ -1,0 +1,95 @@
+{
+  "id": "d249-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d249",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 249 회 ]",
+  "menuLabel": "[ D 249-1 ]",
+  "unit": 249,
+  "part": null,
+  "order": 496,
+  "audio": [
+    {
+      "src": "/audio/ld/d249.mp3",
+      "legacySrc": "sounds/d249.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 249 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 겁먹는 것을 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "물론 실생활에서는 아니고 책, 영화 및 다른 형태의 허구를 통하여."
+    },
+    {
+      "type": "instruction",
+      "text": "좋은 살인 미스테리나 탐정 이야기를 읽는 것에는 써늘한(소름끼치게 하는) 종류의"
+    },
+    {
+      "type": "instruction",
+      "text": "방식으로 매우 유쾌한 어떤 것이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 가장 용감한 사람일지라도 머리 끝이 뻣뻣하게 서도록 의도된"
+    },
+    {
+      "type": "instruction",
+      "text": "이야기를 읽고 있을 때 다른 누군가가 그 방 안에 있는 것을 더 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "밤에 혼자 미스테리 이야기를 읽을 때 상상력이 그 어느 때보다 더 활발하다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 작은 소리도 몰래 다가오는 발자국 소리처럼 들리며"
+    },
+    {
+      "type": "instruction",
+      "text": "바람 소리가 그 어느 때보다 더 음산하게 된다."
+    },
+    {
+      "type": "instruction",
+      "text": "독자는 신비한 모습들이 그의 방의 그림자 속에 서있는 것이 보이는 것처럼"
+    },
+    {
+      "type": "instruction",
+      "text": "상상하는 것을 시작하기까지 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 무렵에는 그는 더 이상 미스테리 읽기의 기쁨에 어떤 즐거움도 느끼지 않는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d249-1.htm",
+  "legacyEncoding": "utf-8"
+}

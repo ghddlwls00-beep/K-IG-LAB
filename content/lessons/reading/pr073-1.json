@@ -1,0 +1,47 @@
+{
+  "id": "pr073-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr073",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 073-1 ]",
+  "menuLabel": "[ pr073-1 ]",
+  "unit": 73,
+  "part": null,
+  "order": 145,
+  "audio": [
+    {
+      "src": "/audio/reading/pr073.mp3",
+      "legacySrc": "sounds/pr073.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 073-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "토마스 제퍼슨이, 중요한 건 자신의 확신에 대한 용기이다라고 말한 적이 있다. 당신은 건전한 인격의 소유자고, 정직하고, 신뢰할만한, 친절하고 남을 돌보는 사람이라는 진정한 확신에서 나오는 용기를 가지고 있는가? 그렇다면 당신은 다른 사람이 당신을 어떻게 생각하는가에 대해 걱정할 필요가 없을 것이다. 만약 당신이 선하고 고상한 사람이라는 것을 진정으로 알고 있다면, 당신은 남들의 생각을 두려워하지 않고 다가올 인생의 도전에 정면으로 다 대처할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr073-1.htm",
+  "legacyEncoding": "utf-8"
+}

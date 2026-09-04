@@ -1,0 +1,47 @@
+{
+  "id": "pr037",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 037 ]",
+  "menuLabel": "[ pr037 ]",
+  "unit": 37,
+  "part": null,
+  "order": 72,
+  "audio": [
+    {
+      "src": "/audio/reading/pr037.mp3",
+      "legacySrc": "sounds/pr037.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 037 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "It is not knowledge, be it great or small, but the arrogance of knowledge, that misleads men; and the best remedy against this is not knowledge, but knowing something really well."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr037.htm",
+  "legacyEncoding": "utf-8"
+}

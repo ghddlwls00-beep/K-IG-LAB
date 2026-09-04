@@ -1,0 +1,47 @@
+{
+  "id": "pr180",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 180 ]",
+  "menuLabel": "[ pr180 ]",
+  "unit": 180,
+  "part": null,
+  "order": 358,
+  "audio": [
+    {
+      "src": "/audio/reading/pr180.mp3",
+      "legacySrc": "sounds/pr180.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 180 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The aged live with enforced leisure, on fixed income, subject to many continual illnesses. They also live in a culture that worships youth. They are often treated like outcasts by a kind of culturally prejudiced attitude. However, when I we growing up, there were rules of courtesy towards all adults. I still believe old people deserve respect for their experience and wisdom. I sometimes fear that mine will be the last generation to have a sense of what growing old means."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr180.htm",
+  "legacyEncoding": "utf-8"
+}

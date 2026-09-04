@@ -1,0 +1,47 @@
+{
+  "id": "pr256-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr256",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 256-1 ]",
+  "menuLabel": "[ pr256-1 ]",
+  "unit": 256,
+  "part": null,
+  "order": 511,
+  "audio": [
+    {
+      "src": "/audio/reading/pr256.mp3",
+      "legacySrc": "sounds/pr256.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 256-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "20세기에 기술이 많이 발전해 왔다. 과학자들은 우주와 심지어 달에까지 사람들을 보냈다. TV, 자동차, 컴퓨터가 우리의 삶을 엄청나게 변화시켰다. 새로운 의료기술이 중병에 걸린 사람에게 희망과 심지어 생명조차 제공해 준다. 우리는 기술 덕분에 잘 살아가고 있다. 그러나 기술의 엄청난 가능성이 똑같이 골치 아픈 도덕적 문제를 야기하고 있다. 예를 들어, 이런 문제들이 논의 되야 할 것 같다. 기술 발달에 대해 윤리적 한계가 있어야 하는가? 그렇다면, 어디에 한계선을 그어야 하는가? 그리고 누가 결정하는가?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr256-1.htm",
+  "legacyEncoding": "utf-8"
+}

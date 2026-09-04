@@ -1,0 +1,128 @@
+{
+  "id": "gh1-053-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-053",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 053-2]",
+  "menuLabel": "[ gh1-053-2 ]",
+  "unit": 53,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-053-2.mp3",
+      "legacySrc": "sounds/gh1-053-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 053-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "21",
+          "text": "How was he?"
+        },
+        {
+          "n": "22",
+          "text": "Where was she?"
+        },
+        {
+          "n": "23",
+          "text": "Who was he?"
+        },
+        {
+          "n": "24",
+          "text": "What was she?"
+        },
+        {
+          "n": "25",
+          "text": "Was he her boyfriend?"
+        },
+        {
+          "n": "26",
+          "text": "Were these boys her classmates?"
+        },
+        {
+          "n": "27",
+          "text": "Were they her teachers?"
+        },
+        {
+          "n": "28",
+          "text": "Whose books were these?"
+        },
+        {
+          "n": "29",
+          "text": "Was he handsome?"
+        },
+        {
+          "n": "30",
+          "text": "Was this bag yours?"
+        },
+        {
+          "n": "31",
+          "text": "Were those(they) hers?"
+        },
+        {
+          "n": "32",
+          "text": "Was it(that) mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where were the girls?"
+        },
+        {
+          "n": "34",
+          "text": "Where was your mother?"
+        },
+        {
+          "n": "35",
+          "text": "Where were your sisters?"
+        },
+        {
+          "n": "36",
+          "text": "How was your family?"
+        },
+        {
+          "n": "37",
+          "text": "Was he your student?"
+        },
+        {
+          "n": "38",
+          "text": "Was it hot yesterday?"
+        },
+        {
+          "n": "39",
+          "text": "No, it was not hot yesterday."
+        },
+        {
+          "n": "40",
+          "text": "It was cold yesterday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-053-2.htm",
+  "legacyEncoding": "utf-8"
+}

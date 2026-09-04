@@ -1,0 +1,47 @@
+{
+  "id": "pr098-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr098",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 098-1 ]",
+  "menuLabel": "[ pr098-1 ]",
+  "unit": 98,
+  "part": null,
+  "order": 195,
+  "audio": [
+    {
+      "src": "/audio/reading/pr098.mp3",
+      "legacySrc": "sounds/pr098.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 098-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "\"2살된 어린이가 필요로 하지만, 기 스스로를 위하여 만들지 않은, 조용하고 평화스러운 분위기에 가장 도움이 되는것은 마음의 위로가 되는 음악이다. 어떤 형태로 되어 있던 간에. 엄마의 노래가 도움이 될 수도 있다. 가령, \"아침 먹을 시간\"과 같은 말을 노래로 읊조리는 것이 단순한 말보다 더 효과적일 수도 있다. 특히 동요 같은, 녹음 곡이 어린들이 짜증스러운 아침이나 오후 늦은 시간에 딱 좋다. 특히 어떤 남자아이들은 자기 자신만의 음악을 갖는 것을 좋아하고, 아주 오랜 시간 동안을 이것을 들으며 놀 수도 있다.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr098-1.htm",
+  "legacyEncoding": "utf-8"
+}

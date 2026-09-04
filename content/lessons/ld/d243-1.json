@@ -1,0 +1,83 @@
+{
+  "id": "d243-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d243",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 243 회 ]",
+  "menuLabel": "[ D 243-1 ]",
+  "unit": 243,
+  "part": null,
+  "order": 484,
+  "audio": [
+    {
+      "src": "/audio/ld/d243.mp3",
+      "legacySrc": "sounds/d243.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 243 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에는 신화와 미신의 세계에 바쳐진 명절이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "10월 31일 혹은 할로윈은 마녀, 귀신, 악마의 특별한 밤이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 미국 어린이들과 어른들도 역시 이국풍의 의상을 입는 밤이다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 동안 그들은 미신의 이상하고 신비로운 세계로 돌아선다."
+    },
+    {
+      "type": "instruction",
+      "text": "밤이 접어들 때 어린이들은 자신의 의상을 집집마다 보여주기 위하여 동네로 나간다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그들의 이웃 사람들이 그들에게 주는 캔디와 다른 맛있는 것들로"
+    },
+    {
+      "type": "instruction",
+      "text": "가득히 채우는 큰 종이 가방을 갖고 다닌다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 어린 해적, 인디언, 귀신, 기타 등등이 맛있는 것을 구걸하기 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "앞쪽 현관에 모이는 것을 지켜보는 것은 꽤 즐겁다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d243-1.htm",
+  "legacyEncoding": "utf-8"
+}

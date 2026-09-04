@@ -1,0 +1,138 @@
+{
+  "id": "m4b-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m4b-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 2,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/man/m4b-2-1.mp3",
+      "legacySrc": "m4b-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-2.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-3.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-4.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-5.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-6.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 부모님 모두 많은 형제들과 자매들이 있기 때문에 나는 많은 친척들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have many relatives because both of my parents have many brothers and sisters/siblings.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 두 형제와 두 자매가 있고 반면에 나의 어머니는 세 형제와 3 자매가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father has 2 brothers and 2 sisters, while my mother has 3 brothers and 3 sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 그의 가족 중에 가장 나이 들었지만 나의 어머니는 그녀의 가족들 중 둘째입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father is the oldest in his family, while my mother is the second child in her family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 숙모와 삼촌들 대부분은 결혼했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most my aunts and uncles are married.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 총 6명의 삼촌이 있습니다. 3명은 나의 아버지 쪽이고 3명은 나의 어머니 쪽입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a total of 6 cousins: 3 from my father’s side and 3 from my mother’s side of the family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father has 2 brothers and 2 sisters, while my mother has 3 brothers and 3 sisters.3",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "4B Introducing My Relatives :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Uncles, Aunts, and Cousins",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m4b-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m4b-2.swf"
+  ]
+}

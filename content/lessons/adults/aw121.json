@@ -1,0 +1,67 @@
+{
+  "id": "aw121",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 121 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 1,
+  "order": 118,
+  "audio": [
+    {
+      "src": "/audio/adults/aw121.mp3",
+      "legacySrc": "sounds/aw121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 121 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(How I met my husband)"
+    },
+    {
+      "type": "hints",
+      "text": "My husband and I dated for five years before we got married."
+    },
+    {
+      "type": "instruction",
+      "text": "Our wedding was beautiful all of my friends came and sang a song."
+    },
+    {
+      "type": "instruction",
+      "text": "I will always remember that day with happiness."
+    },
+    {
+      "type": "instruction",
+      "text": "Our personalities, hobbies and tastes are similar."
+    },
+    {
+      "type": "instruction",
+      "text": "After we got married we enjoyed spending time and doing things together."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw121.htm",
+  "legacyEncoding": "utf-8"
+}

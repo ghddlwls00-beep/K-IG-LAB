@@ -1,0 +1,143 @@
+{
+  "id": "p03",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle03]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": null,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/middle/p03.mp3",
+      "legacySrc": "sounds/p03.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle03]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 3: Friend Introduction"
+    },
+    {
+      "type": "hints",
+      "text": "I would like to introduce my friend to you."
+    },
+    {
+      "type": "instruction",
+      "text": "/ Allow me to introduce my friend to you."
+    },
+    {
+      "type": "instruction",
+      "text": "He is one of my best friends."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of this, I have many friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Their names are Dai-han (대한) and Min-guk(민국)."
+    },
+    {
+      "type": "instruction",
+      "text": "Who is my best friend?"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend is Dai-han, and I have known him for 3 years."
+    },
+    {
+      "type": "instruction",
+      "text": "What is he like? He is like me in many ways."
+    },
+    {
+      "type": "instruction",
+      "text": "He is an outgoing but sometimes shy person like me."
+    },
+    {
+      "type": "instruction",
+      "text": "He likes to hang out and play with friends,"
+    },
+    {
+      "type": "instruction",
+      "text": "but he does not like to talk to new people. I am like this, too."
+    },
+    {
+      "type": "instruction",
+      "text": "My friend has many talents."
+    },
+    {
+      "type": "instruction",
+      "text": "He is an excellent piano player and very strong athlete."
+    },
+    {
+      "type": "instruction",
+      "text": "In addition, he is good at playing the piano, soccer, computer games,"
+    },
+    {
+      "type": "instruction",
+      "text": "and she is good at speaking English."
+    },
+    {
+      "type": "instruction",
+      "text": "He is a very talented artist, too."
+    },
+    {
+      "type": "instruction",
+      "text": "Her drawings are very bright and colorful."
+    },
+    {
+      "type": "instruction",
+      "text": "So I can learn a lot from him. He is my friend, and I am proud of him."
+    },
+    {
+      "type": "instruction",
+      "text": "He always understands my problems, and when I need help,"
+    },
+    {
+      "type": "instruction",
+      "text": "he is always there."
+    },
+    {
+      "type": "instruction",
+      "text": "He sometimes tells me that he wants to be a police officer, fire fighter,"
+    },
+    {
+      "type": "instruction",
+      "text": "teacher, doctor, interpreter, and he wants to serve the community."
+    },
+    {
+      "type": "instruction",
+      "text": "He is a truly smart person, and I am sure that his dream will come true."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p03.htm",
+  "legacyEncoding": "utf-8"
+}

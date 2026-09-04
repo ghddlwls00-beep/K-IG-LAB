@@ -1,0 +1,75 @@
+{
+  "id": "d090-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d090",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 090회 ]",
+  "menuLabel": "[ D 090-1 ]",
+  "unit": 90,
+  "part": null,
+  "order": 179,
+  "audio": [
+    {
+      "src": "/audio/ld/d090.mp3",
+      "legacySrc": "sounds/d090.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 090회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국의 교육은 보통 네 단계로 나뉘어져있다. 이것들은 초기 아동, 초등, 중등, 고등 교육이다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교 참석은 미국의 모든 주에서 요구되어 진다. 대부분의 주에서 학생들은 16세까지 학교에 다녀야 한 다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 단계는 초기 아동 교육이다. 이것은 6세 미만의 아이들을 위한 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 주된 목적은 어린이들을 학교를 위하여 준비시키는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "유치원 및 취학 전 학교의 어린이는 집단에서 어울리는 것을 배운다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그림 그리기, 노래 부르기 및 놀이에 의하여 자신의 생각과 느낌을 표현한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 초등학교에서의 학습 경험을 위하여 준비된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d090-1.htm",
+  "legacyEncoding": "utf-8"
+}

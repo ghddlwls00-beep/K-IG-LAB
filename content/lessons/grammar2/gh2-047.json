@@ -1,0 +1,124 @@
+{
+  "id": "gh2-047",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 47 ]",
+  "menuLabel": "[ 47과 영어 ]",
+  "unit": 47,
+  "part": null,
+  "order": 80,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-047.mp3",
+      "legacySrc": "sounds/gh2-047.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 47 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He's just got divorced, so he's been a little short lately."
+        },
+        {
+          "n": "2",
+          "text": "Many babies are born to teenagers."
+        },
+        {
+          "n": "3",
+          "text": "What can not be cured must be endured."
+        },
+        {
+          "n": "4",
+          "text": "How is the word spelt?"
+        },
+        {
+          "n": "5",
+          "text": "Korea is known to almost all people around the world."
+        },
+        {
+          "n": "6",
+          "text": "What is this flower called?"
+        },
+        {
+          "n": "7",
+          "text": "Let it be done at once."
+        },
+        {
+          "n": "8",
+          "text": "They expect to vote on Friday."
+        },
+        {
+          "n": "9",
+          "text": "They are expected to vote on Friday."
+        },
+        {
+          "n": "10",
+          "text": "More than 24seamen were killed and 35 more were wounded."
+        },
+        {
+          "n": "11",
+          "text": "He was hoping that he would be allowed to return home."
+        },
+        {
+          "n": "12",
+          "text": "My car was rear-ended by a truck."
+        },
+        {
+          "n": "13",
+          "text": "The monks are followed by a wooden coffin."
+        },
+        {
+          "n": "14",
+          "text": "The monks followed a wooden coffin."
+        },
+        {
+          "n": "15",
+          "text": "The poor boy was well taken care of by a kind lady."
+        },
+        {
+          "n": "16",
+          "text": "He was believed to be an honest man by all."
+        },
+        {
+          "n": "17",
+          "text": "It used to be thought the sun went round the earth."
+        },
+        {
+          "n": "18",
+          "text": "Are credit cards honored here?"
+        },
+        {
+          "n": "19",
+          "text": "Your reservation is made for flight 208 leaving for Chicago Friday at 2 p.m."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-047.htm",
+  "legacyEncoding": "utf-8"
+}

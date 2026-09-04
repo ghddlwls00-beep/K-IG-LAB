@@ -1,0 +1,56 @@
+{
+  "id": "po112-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po112",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 112-1 〕",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 268,
+  "audio": [
+    {
+      "src": "/audio/basics/po112.mp3",
+      "legacySrc": "sounds/po112.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 112-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "131",
+          "text": "토요일 오후에 / 대개 난 / 내 친구들과 / 시간을 보내."
+        },
+        {
+          "n": "132",
+          "text": "때로는 / 생일 파티와 같은 / 특별한 날이 있어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po112-1.htm",
+  "legacyEncoding": "utf-8"
+}

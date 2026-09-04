@@ -1,0 +1,65 @@
+{
+  "id": "po131-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po131",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 131-1 〕",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 1,
+  "order": 320,
+  "audio": [
+    {
+      "src": "/audio/basics/po131.mp3",
+      "legacySrc": "sounds/po131.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 131-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "161",
+          "text": "내가 어렸을 때 / 나의 엄마께서는 / 내가 잠자리에 들기 전에"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게 책을 읽어주곤 하셨어."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "162",
+          "text": "그녀는 / 나로 하여금 많이 읽도록 하셨고 / 난 / 그것을 즐겼어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po131-1.htm",
+  "legacyEncoding": "utf-8"
+}

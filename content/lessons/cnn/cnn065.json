@@ -1,0 +1,144 @@
+{
+  "id": "cnn065",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Thai Prime Minister Dissolves Parliament",
+  "label": "Thai Prime Minister Dissolves Parliament",
+  "menuLabel": "[ CNN 65 ]",
+  "unit": 65,
+  "part": null,
+  "order": 64,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn065.mp4",
+      "legacySrc": "CNN/CNN61-120/65.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Thai Prime Minister Dissolves Parliament"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thailand’s Prime Minister says snap parliamentary elections scheduled for April 2nd, will go ahead as planned. That’s despite a boycott announced by three main opposition parties. Prime Minister Thaksin Shinawatra’s Thai Rak Thai Party was expected to win the election handily even without a boycott. But the opposition’s decision could ratchet up the pressure on Mr. Thaksin to accept proposals for political reform. Critics accuse the Thai Prime Minister of corruption and abuse of power. Meanwhile, thousands gathered again in Bangkok on Monday, demanding Mr. Thaksin’s resignation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "타이 총리, 의회 해산",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "타이 총리는 4월 2일로 예정된 조기 총선이 계획대로 진행될 것이라고 밝혔습니다. 타이 총리는 주요 3대 야당의 (조기 총선) 불참 선언에도 불구하고 이같이 말했습니다. 탁신 시나와트라 총리의 ‘타이 락 타이 당’은 야당의 불참 선언이 없다해도, 총선에서 손쉽게 승리할 것으로 예상됩니다. 하지만 이 같은 야당의 결정으로 탁신 총리는 정치 개혁안 수용 압력을 더 받을 것으로 보입니다. 비판론자들은 총리가 부패했으며 권력을 남용했다고 비난하고 있습니다. 한편 월요일 방콕에선 수천 명이 다시 모여 탁신 총리의 퇴진을 요구했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘자음+모음’이 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 and abuse도 [엔더뷰ㅈ]로 연음되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "2음절에 강세가 있어 ac-가 [ik]으로 약화되어 except와 발음이 혼동될 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. dissolve/ (국회, 의회를) 해산하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "April 2nd",
+          "text": "날짜 읽기는 기수, 서수 둘 다 가능하다. 하지만 서수로 읽을 때는 the를 넣어야 한다는 것을 기억하자."
+        },
+        {
+          "n": "ratchet up",
+          "text": "[레취덥]."
+        },
+        {
+          "n": "accept",
+          "text": "[익쎕]."
+        },
+        {
+          "n": "dissolve parliament",
+          "text": "의회를 해산하다"
+        },
+        {
+          "n": "snap",
+          "text": "불의의, 즉석의"
+        },
+        {
+          "n": "parliamentary election",
+          "text": "국회의원선거"
+        },
+        {
+          "n": "go ahead",
+          "text": "추진하다, 진전시키다"
+        },
+        {
+          "n": "as planned",
+          "text": "계획대로"
+        },
+        {
+          "n": "boycott",
+          "text": "배척운동; 불매운동"
+        },
+        {
+          "n": "the opposition (party)",
+          "text": "야당, (여당에 대한) 반대당"
+        },
+        {
+          "n": "Thaksin Shinawatra",
+          "text": "탁신 시나와트라: 재계 출신의 현 타이 총리"
+        },
+        {
+          "n": "Thai Rak Thai Party",
+          "text": "타이 락 타이당: 탁신 총리가 만든 타이 집권 여당으로, 타이 락 타이는 ‘타이 사람은 타이 사람을 사랑한다’는 뜻이다."
+        },
+        {
+          "n": "handily",
+          "text": "쉽게, 간단하게; 교묘하게, 능란하게"
+        },
+        {
+          "n": "ratchet up",
+          "text": "서서히 올리다[오르다]"
+        },
+        {
+          "n": "accuse A of B",
+          "text": "A를 B로 비난[책망]하다"
+        },
+        {
+          "n": "corruption",
+          "text": "부패, 타락"
+        },
+        {
+          "n": "abuse of power",
+          "text": "권력남용"
+        },
+        {
+          "n": "gather",
+          "text": "모이다, 집합하다"
+        },
+        {
+          "n": "resignation",
+          "text": "사퇴, 퇴진, 하야"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/65.wmv",
+  "legacyEncoding": "binary"
+}

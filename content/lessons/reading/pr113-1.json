@@ -1,0 +1,47 @@
+{
+  "id": "pr113-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr113",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 113-1 ]",
+  "menuLabel": "[ pr113-1 ]",
+  "unit": 113,
+  "part": null,
+  "order": 225,
+  "audio": [
+    {
+      "src": "/audio/reading/pr113.mp3",
+      "legacySrc": "sounds/pr113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 113-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "최근에 새로운 건축 규약이 우리 시에서 시행되었다. 모든 새로운 주택들은 겨울철에 열이 불필요하게 빠져나가지 않도록 적절한 건축 재료로 지어져야만 한다. 그 법률은 분명한 효과를 가져왔다. 사용되는 천연가스와 전기의 양이 50% 절감되었다. 시는 에너지 절약을 위해서 다른 일도 하고 있다. 부분적으로 시의 지원을 받는 버스는 지역 전체에 많은 사람들을 운송하고 있다. 많은 새로운 자전거 도로가 만들어졌으며, 오늘날 시에는 자동차의 두 배만큼 많은 자전거가 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr113-1.htm",
+  "legacyEncoding": "utf-8"
+}

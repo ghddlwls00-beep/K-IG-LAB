@@ -1,0 +1,147 @@
+{
+  "id": "aw17",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 17 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": null,
+  "order": 165,
+  "audio": [
+    {
+      "src": "/audio/adults/aw17.mp3",
+      "legacySrc": "sounds/aw17.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 17 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 17: The History of Korea"
+    },
+    {
+      "type": "hints",
+      "text": "The Foundation of Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "This is the story about how the nation of Korea was founded."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s history started about 5,000 years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "Once upon a time, the King of Heaven, Hwan-in, sent his son, Hwan-ung, to Earth."
+    },
+    {
+      "type": "instruction",
+      "text": "While living on Earth, he married Ung-nyo who had changed from a bear into a woman."
+    },
+    {
+      "type": "instruction",
+      "text": "She gave birth to a son and named him Dan-goon."
+    },
+    {
+      "type": "instruction",
+      "text": "He became the founder of Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "The country’s ancient name was Gojoson."
+    },
+    {
+      "type": "instruction",
+      "text": "The Kingdoms are Divided"
+    },
+    {
+      "type": "instruction",
+      "text": "After Gojoson fell, the Korean Peninsula was divided into three kingdoms: Goguryo, Baekje, and Shilla."
+    },
+    {
+      "type": "instruction",
+      "text": "Later these three kingdoms united as a single nation and referred to it as the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was the most powerful in the middle of the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "It was called the Golden Age of Korean history."
+    },
+    {
+      "type": "instruction",
+      "text": "The Independence of Korea and the Korean War"
+    },
+    {
+      "type": "instruction",
+      "text": "After Shilla fell, many other countries tried to gain power over Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, Korea was ruled by Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "Many Koreans did not like being under the power of Japan, so they fought against Japanese rule."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1945, Korea was liberated from Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "A civil war broke out in 1950 when armies from the North invaded the South."
+    },
+    {
+      "type": "instruction",
+      "text": "As a result, the Korean peninsula became divided into North and South Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "Post-War Development of Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s."
+    },
+    {
+      "type": "instruction",
+      "text": "From then until now, the country has continued to grow rapidly."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very proud of my country and what it has accomplished during its long history."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw17.htm",
+  "legacyEncoding": "utf-8"
+}

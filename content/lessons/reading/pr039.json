@@ -1,0 +1,47 @@
+{
+  "id": "pr039",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 039 ]",
+  "menuLabel": "[ pr039 ]",
+  "unit": 39,
+  "part": null,
+  "order": 76,
+  "audio": [
+    {
+      "src": "/audio/reading/pr039.mp3",
+      "legacySrc": "sounds/pr039.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 039 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The number of hunting accidents has increased sharply this year. The victims were mostly hunters and hikers who were mistake for game. Questions have arisen from victims and their families about who is responsible for these avoidable accidents. They blame policy for not taking proper measures. In fact, police do issue permits to qualified hunters and advice hikers to wear bright, colorful clothing during hunting season. Of course, police should issue some additional warnings or take other preventive actions. It is the victims themselves, however, who are responsible for guaranteeing their own safety. They should not risk their own lives in deep forests when they are alone in plain clothes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr039.htm",
+  "legacyEncoding": "utf-8"
+}

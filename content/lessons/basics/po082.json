@@ -1,0 +1,60 @@
+{
+  "id": "po082",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 082 〕",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 2,
+  "order": 189,
+  "audio": [
+    {
+      "src": "/audio/basics/po082.mp3",
+      "legacySrc": "sounds/po082.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 082 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "89",
+          "text": "I usually do my homework before dinner."
+        },
+        {
+          "n": "90",
+          "text": "If I can't figure out my homework, I can always look on the internet."
+        },
+        {
+          "n": "91",
+          "text": "I like to learn new things."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po082.htm",
+  "legacyEncoding": "utf-8"
+}

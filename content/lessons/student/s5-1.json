@@ -1,0 +1,308 @@
+{
+  "id": "s5-1",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s5-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 1,
+  "order": 27,
+  "audio": [
+    {
+      "src": "/audio/student/s5-1-1.mp3",
+      "legacySrc": "s5-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-2.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-3.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-4.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-5.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-6.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-7.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-8.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-9.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-10.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-11.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-12.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-13.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-14.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-15.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-16.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-1-17.mp3",
+      "legacySrc": "s5-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My family is so busy; we can’t even eat breakfast together.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before I go to school, my mother gives me my allowance.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am often late for school because I sleep-in late, and my mornings are very busy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school is the hardest part of my day.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에 가는 준비는 나의 하루의 가장 어려운 부분입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 늦잠을 자기 때문에 자주 학교에 지각을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 너무 바쁩니다. 그래서 우리는 심지어 아침을 함께 먹을 수도 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제가 학교에 가기 전에 나의 어머니께서는 나에게 용돈을 주십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에 가는 준비는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에 가는 준비는Getting ready for school",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 어려운 부분이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 어려운 부분이다.is the hardest part",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 하루에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 하루에서 of my day.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 자주 지각을 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 자주 지각을 한다.I am often late for school",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면 늦잠을 자기 때문에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면 늦잠을 자기 때문에 because I sleep-in late,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나의 아침은 매우 바쁘다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나의 아침은 매우 바쁘다.and my mornings are very busy.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 너무 바쁘다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 너무 바쁘다.My family is so busy;",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 심지어 먹을 수 없다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 심지어 먹을 수 없다 we can't even eat",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아침식사를 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아침식사를 함께 breakfast together.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 학교 가기 전에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 학교 가기 전에 Before I go to school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머님은 나에게 주신다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머님은 나에게 주신다. my mother gives me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 용돈을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 용돈을 my allowance.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school/At school :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting Ready for School",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s5-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s5-1.swf"
+  ]
+}

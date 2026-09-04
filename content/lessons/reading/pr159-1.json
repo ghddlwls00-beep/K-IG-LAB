@@ -1,0 +1,51 @@
+{
+  "id": "pr159-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr159",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 159-1 ]",
+  "menuLabel": "[ pr159-1 ]",
+  "unit": 159,
+  "part": null,
+  "order": 317,
+  "audio": [
+    {
+      "src": "/audio/reading/pr159.mp3",
+      "legacySrc": "sounds/pr159.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 159-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "친구와 함께 박물관에 가서 똑같은 그림을 보고 그것에 다른 반응을 가져본 적이 있나요? 만약 당신이 본 그림이 바다풍경이었다면, 어두운 색과 거대한 파도가 당신이 고향에서 경험한 멋진 추억을 상기시켜 주기에 그것을 좋아했을 수도 있겠죠. 대조적으로, 당신의 친구는 부정적인 반응을 가졌을지도 모르며, 격렬한 폭풍우 동안에 거친 바다를 항해했던 게 생각나 똑같은 것(그림)이 그의 마음에 두려움을 가져온다고 말했을지도 모른다"
+    },
+    {
+      "type": "instruction",
+      "text": "→ 우리의 (A) 경험은 어떻게 (B) 그림을 해석할 지에 영향을 끼칠지도 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr159-1.htm",
+  "legacyEncoding": "utf-8"
+}

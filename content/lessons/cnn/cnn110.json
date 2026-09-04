@@ -1,0 +1,505 @@
+{
+  "id": "cnn110",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Tell Me Your Secret",
+  "label": "Tell Me Your Secret",
+  "menuLabel": "[ CNN 110 ]",
+  "unit": 110,
+  "part": null,
+  "order": 109,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn110.mp4",
+      "legacySrc": "CNN/CNN61-120/110.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tell Me Your Secret"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINTON, CNN Anchor: Well, we all have secrets. But not all secrets are created equal.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: Some of them, it turns out, are the basis for an unusual Web site and book. Jeanne Moos introduces us to the man who wants you to spill the beans.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: Is that true you have more secrets than a priest? A priest probably has a few more.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "FRANK WARREN, Creator of PostSecret.com: I have more documented secrets than a priest.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Frank Warren has collected over five thousand secrets that strangers sent in. “I only love him when he’s sleeping.” “I tell my wife I don’t want her to get implants, but I’m lying.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frank doesn’t have to promise not to tell since the secrets are divulged anonymously. They range from sad: “Every time I go over a bridge, I have to restrain myself from driving off,” to sexual: “Roses are red, violets are blue, I like to kiss boys and I like to kiss girls too, a lot!”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What started as an art project, has snowballed into several hundred secrets a week arriving at Frank’s home in Germantown, Maryland. Do you ever get sick of people spilling their guts?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WARREN: I never get sick of it. I never get bored with it and it never makes me happy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Frank thinks unlocking secrets is therapeutic, no matter how bizarre they are.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WARREN: “I go to the drugstore and poke tiny holes through condom packages.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Oh, my!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every week Frank posts 10 to 20 new secrets on his Web site, PostSecret.com. “At work, someone kept stealing my lunch from the fridge, so I made a nice sandwich with lettuce, tomato and cat food.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "You know, some of them seem almost too good to be true. I mean, they seem too slick, too “produced” to be a real secret.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WARREN: If you’re asking me if I think all five thousand secrets are true, I would say “No, they’re not.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: But Frank thinks they’re all authentic in the sense that there’s truth to them. “I hate my boyfriend for killing people in Iraq.” Juxtapose that with “I’ve killed people in Iraq and enjoyed it. Does that make me a monster?” Some secrets are so dark (that) Frank put a suicide hot line on his Web site. He even submitted his own secret that he will only describe as a childhood humiliation. Frank’s going to keep them alright in a book that’s due out in a couple of months.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WARREN: “When I’m mad at my husband, I put boogers in his soup.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Hey, not all secrets are appetizing and don’t try this at work. “I put lipstick on my boss’ shirt, so his wife would think we’re having an affair, though we’re not.” Cheating is a favorite subject.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Think of this as the secret place of Web sites where “mum” is not the word. Jeanne Moos, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "당신의 비밀을 말해 줘요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴, CNN 앵커: 누구에게나 비밀은 있습니다. 하지만 모든 비밀이 다 똑같은 것은 아닙니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 어떤 비밀은 결국 한 독특한 웹사이트와 책의 소재가 되기도 합니다. 지니 무스 기자가 여러분이 비밀을 털어놓기를 바라는 한 남자를 소개해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 신부님보다 비밀을 더 많이 가지고 있다는 게 사실인가요? 신부님이 아마 좀더 많을 것 같은데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "프랭크 워런, 포스트시크릿닷컴 설립자: 기록된 비밀은 제가 신부님보다 더 많아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 프랭크 워런 씨는 모르는 사람들이 보내온 비밀을 5천 개 넘게 모았습니다. “제가 그 남자를 사랑하는 건 잠잘 때 뿐이에요.” “아내한테는 당신이 유방 확대 수술을 하는 걸 원치 않는다고 말했지만, 사실 거짓말이에요.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "프랭크 씨가 비밀을 말하지 않겠다고 약속할 필요는 없습니다. 비밀은 익명으로 폭로되기 때문입니다. 이러한 비밀은 “차로 다리를 건널 때마다 강물을 향해 돌진하고 싶은 충동을 억눌러야 합니다.”처럼 우울한 내용에서부터, “장미꽃은 붉고 제비꽃은 푸르네. 나는 남자와 키스하는 것도 좋아하고, 여자와 키스하는 것도 좋아한다. 아주 많이!”처럼 성적인 내용까지 다양합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하나의 예술 프로젝트로 시작했던 일이 점점 눈덩이처럼 불어나서, 매주 수백 개의 비밀이 메릴랜드 주 저먼타운에 있는 프랭크 씨의 집으로 날아들고 있습니다. 사람들이 속사정을 털어놓는 게 지겨운 적은 없으셨나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "워런: 전혀 지겹지 않아요. 질리지도 않지만, 그렇다고 즐겁지도 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 프랭크 씨는 아무리 터무니없는 이야기라고 해도, 비밀을 털어놓는 것이 정신건강에 좋다고 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "워런:“저는 약국에 가서 콘돔 상자에 작은 구멍을 뚫어 놔요.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이런!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "프랭크 씨는 자신의 웹사이트 ‘포스트시크릿닷컴’에 매주 열 개에서 스무 개 정도의 새로운 비밀을 게시합니다. “직장에서 누군가가 냉장고에서 제 점심을 자꾸만 훔쳐 가길래 양상추랑 토마토랑 고양이 밥으로 근사한 샌드위치를 만들어 놨어요.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "어떤 비밀은 너무 그럴듯해서 꾸며낸 게 아닐까 싶기도 한데요. 진짜 비밀이라고 하기에는 너무 빈틈없고 ‘지어낸 듯한’ 인상을 준다고나 할까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "워런: 제게 이 5천 개의 비밀이 다 진짜라고 생각하는지 물으신다면, 전 “아니오, 그렇지 않아요.”라고 대답할 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 하지만 프랭크 씨는 비밀이 전부 나름대로의 진실을 담고 있다는 점에서 모두 진실이라고 생각합니다. “제 남자친구가 미워요. 이라크에서 사람들을 죽였으니까요.”이와 같은 선상에 있는 이야기로“저는 이라크에서 살인을 했고, 또 살인을 즐겼습니다. 제가 괴물이 된 걸까요?”도 있습니다. 너무나 어두운 내용의 비밀들도 있어서, 프랭크 씨는 자신의 웹사이트에 자살 방지 상담 서비스를 설치했습니다. 그는 심지어 자신의 비밀도 올려 놓았다고 하는데요, 그저 어린 시절의 굴욕이라고만 말합니다. 프랭크 씨는 이 비밀들을 몇 달 뒤에 출간되는 책으로 잘 간직하고 있을 예정입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "워런: “남편에게 화가 나면 그가 먹을 수프에 코딱지를 넣어요.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 여러분, 비밀이 전부 식욕을 돋우는 게 아니니까, 직장에서 이런 일은 시도하지도 마세요. “직장 상사의 셔츠에 립스틱을 묻혀 그의 부인이 우리가 불륜을 저지르고 있다고 생각하게 만들었어요. 사실은 그렇지 않지만요.”불륜은 가장 인기 있는 주제입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 웹사이트는“쉿, 비밀이야.”라는 말은 존재하지 않는 비밀공간입니다. 뉴욕에서CNN, 지니 무스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "쉬운 단어인데도 연음으로 인해 언뜻 들으면 다른 단어로 착각할 수 있으니 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하나의 숙어로 뜻을 알고 있어야 내용이 이해된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "sp-는 발음의 편리상 [s]의 뒤에 나오는 [p]가 [ㅃ]로 된소리가 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어가 연음되면서 -nt가 모음 사이에 오고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nt는 모음 사이에 오면 [t]가 앞의 [n]에 동화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 [쎈틴]이 아니라 [쎄닌]이 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "인칭대명사 her의 [h]음은 강세를 받지 못해 약화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 want her가 wanna처럼 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "to는 문장에서 강세를 받지 못해 [투]로 발음되기보다는 [두], [드], [르] 등으로 약화된다. 여기서는 [드]로 발음되어 the로 혼동할 수 있으므로 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 강모음과 약모음 사이에서 [ㄹ]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[레리ㅆ]로 발음되기도 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cheating [취딩]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "바로 이어지는 tomato는 [토마토]가 아니라 [터메이로우]로 발음되는 것을 주의 깊게 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "혀를 굴려야 하는 [r]을 편하게 발음하기 위해 단어의 철자를 뒤바꿔 발음하는 경우가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서도 -ro-를 -or-로 바꿔 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "juxta-의 앞부분을 빈도수가 더 많은 just로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. breast implant/ 유방 확대[융기] 수술",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. guts/ 내장, 창자; 핵심, 본질",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. mum/ 입 다물어! 쉿!",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "turns out",
+          "text": "[턴자웃]."
+        },
+        {
+          "n": "spill the beans",
+          "text": "[스삘더빈ㅈ]."
+        },
+        {
+          "n": "sent in",
+          "text": "[쎄닌]."
+        },
+        {
+          "n": "want her to",
+          "text": "[워너두]."
+        },
+        {
+          "n": "10 to 20",
+          "text": "[텐드트웬티]."
+        },
+        {
+          "n": "lettuce",
+          "text": "[레러ㅆ]."
+        },
+        {
+          "n": "produced",
+          "text": "[퍼-r듀ㅆㅌ]."
+        },
+        {
+          "n": "Juxtapose",
+          "text": "[적스터포우즈]."
+        },
+        {
+          "n": "1) be created equal",
+          "text": "평등하게 창조되다, 즉 똑같은 대접을 받다"
+        },
+        {
+          "n": "2) turn out",
+          "text": "결국 …이되다, 결국 …임이 밝혀지다"
+        },
+        {
+          "n": "3) basis",
+          "text": "(체계 따위의)기초, 기저, 토대"
+        },
+        {
+          "n": "4) spill the beans",
+          "text": "비밀을 누설하다"
+        },
+        {
+          "n": "5) priest",
+          "text": "신부(神父); 성직자, 사제"
+        },
+        {
+          "n": "6) documented",
+          "text": "문서로 기록된"
+        },
+        {
+          "n": "7) get implants",
+          "text": "유방 확대 수술을 받다"
+        },
+        {
+          "n": "8) divulge",
+          "text": "(비밀 따위를) 누설[폭로]하다"
+        },
+        {
+          "n": "9) anonymously",
+          "text": "익명으로, 신원을 밝히지 않고"
+        },
+        {
+          "n": "10) restrain oneself from",
+          "text": "…을 자제하다"
+        },
+        {
+          "n": "11) drive off",
+          "text": "자동차로 …에 뛰어들다"
+        },
+        {
+          "n": "12) range from A to B",
+          "text": "A에서 B의 범위에 이르다, 미치다"
+        },
+        {
+          "n": "13) sexual",
+          "text": "성의, 성적인, 성에 관한"
+        },
+        {
+          "n": "14) roses are red, violets are blue",
+          "text": "장미꽃은 붉고 제비꽃은 푸르네: 영국과 미국의 전래동요 모음집 <마더 구스(Mother Goose)>에 수록된 동요의 앞 구절로 발렌타인 데이에 주로 인용된다."
+        },
+        {
+          "n": "15) snowball",
+          "text": "눈덩이식[가속적]으로 커지다"
+        },
+        {
+          "n": "16) get sick of",
+          "text": "…에 싫증나다, 신물이 나다(get bored with)"
+        },
+        {
+          "n": "17) spill one’s guts",
+          "text": "((속어)) (아는 것을) 모조리 털어놓다"
+        },
+        {
+          "n": "18) unlock",
+          "text": "드러내다, 털어놓다"
+        },
+        {
+          "n": "19) therapeutic",
+          "text": "치료(상)의; 건강 유지에 도움이 되는"
+        },
+        {
+          "n": "20) bizarre",
+          "text": "이상한, 기괴한, 믿을 수 없는"
+        },
+        {
+          "n": "21) drugstore",
+          "text": "약국"
+        },
+        {
+          "n": "22) poke",
+          "text": "(구멍,틈새 따위를) 내다; 쿡쿡 찌르다, 쑤시다"
+        },
+        {
+          "n": "23) post",
+          "text": "게시하다, 공시하다"
+        },
+        {
+          "n": "24) fridge",
+          "text": "냉장고(refrigerator)"
+        },
+        {
+          "n": "25) lettuce",
+          "text": "양상추, 상추"
+        },
+        {
+          "n": "26) slick",
+          "text": "교묘한, 능란한; 교묘히 고안된"
+        },
+        {
+          "n": "27) produced",
+          "text": "가공된, 만들어진"
+        },
+        {
+          "n": "28) authentic",
+          "text": "믿을 만한, 확실한; 진정한, 진짜의"
+        },
+        {
+          "n": "29) juxtapose",
+          "text": "(비교,대조를 위해) 나란히 놓다"
+        },
+        {
+          "n": "30) suicide",
+          "text": "자살; 자결, 자해"
+        },
+        {
+          "n": "31) hot line",
+          "text": "전화 상담 서비스; 긴급 직통 통신[전화]선"
+        },
+        {
+          "n": "32) submit",
+          "text": "제시[제출]하다"
+        },
+        {
+          "n": "33) humiliation",
+          "text": "굴욕, 수치"
+        },
+        {
+          "n": "34) be due out",
+          "text": "(책,앨범 따위가) 출시될 예정이다"
+        },
+        {
+          "n": "35) be mad at",
+          "text": "…에게 화내다"
+        },
+        {
+          "n": "36) booger",
+          "text": "((속어)) 코딱지, 눈꼽"
+        },
+        {
+          "n": "37) appetizing",
+          "text": "식욕을 돋우는; 구미가 당기게 하는; 매력적인"
+        },
+        {
+          "n": "38) have an affair",
+          "text": "바람을 피우다"
+        },
+        {
+          "n": "39) cheat",
+          "text": "((美속어)) 부정을 저지르다"
+        },
+        {
+          "n": "40) mum’s the word",
+          "text": "너만 알고 있어, 비밀이야"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/110.wmv",
+  "legacyEncoding": "binary"
+}

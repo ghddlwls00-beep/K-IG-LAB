@@ -1,0 +1,47 @@
+{
+  "id": "pr078",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 078 ]",
+  "menuLabel": "[ pr078 ]",
+  "unit": 78,
+  "part": null,
+  "order": 154,
+  "audio": [
+    {
+      "src": "/audio/reading/pr078.mp3",
+      "legacySrc": "sounds/pr078.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 078 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The doctor's receptionist was startled when a nun stormed out of the examining room and left without paying. When the doctor appeared she asked what had happened. \"Well.\" said the doctor, \"I examined her and told her she was pregnant.\" \"Doctor!\" exclaimed the receptionist. \"That can't be!\" \"Of course not.\" he replied, \"but it sure cured her hiccups.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr078.htm",
+  "legacyEncoding": "utf-8"
+}

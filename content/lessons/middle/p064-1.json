@@ -1,0 +1,99 @@
+{
+  "id": "p064-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p064",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 064-1 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 4,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/middle/p064.mp3",
+      "legacySrc": "sounds/p064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 064-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(내 선생님은 저를 돕습니다)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 선생님께서는 내가 나의 꿈을 깨닫는 것을 도와주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "또한 나의 선생님은 항상 우리의 꿈들을 달성하기 위해서는"
+    },
+    {
+      "type": "instruction",
+      "text": "목표들을 세워야 한다고 우리에게 말씀하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리를 도와주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리가 많은 책들을 읽어야만 한다고"
+    },
+    {
+      "type": "instruction",
+      "text": "우리에게 말씀하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 모든 학생들에게 매우 친절하시고"
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 좋은 소질을 가르쳐 주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리의 재능을 개발 할 수 있도록"
+    },
+    {
+      "type": "instruction",
+      "text": "우리를 도와주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 선생님께서는 나의 좋은 소질 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "제가 선생님이 되어야 한다고 항상 말씀하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 지금 나는 선생님이 되고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p064-1.htm",
+  "legacyEncoding": "utf-8"
+}

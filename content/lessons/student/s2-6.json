@@ -1,0 +1,383 @@
+{
+  "id": "s2-6",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s2-6",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 6,
+  "order": 13,
+  "audio": [
+    {
+      "src": "/audio/student/s2-6-1.mp3",
+      "legacySrc": "s2-6.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-2.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-3.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-4.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-5.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-6.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-7.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-8.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-9.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-10.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-11.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-12.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-13.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-14.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-15.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-16.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-17.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-18.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-19.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-20.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-21.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-6-22.mp3",
+      "legacySrc": "s2-6.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "She also loves to listen to music and talk to her friends on the phone.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "She is more talkative than my mother.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My family is always happy, and we are very close to one another, which helps me really understand the importance of family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, she has a dog.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My sister likes all kinds of animals.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 여동생은 모든 종류의 동물을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "사실상 그녀는 개를 한 마리 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 그녀는 음악듣기를 좋아하고 전화로 그녀의 친구들에게 이야기 하기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 나의 어머니보다 더 수다스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 항상 행복하고 우리는 서로서로 매우 가깝습니다. 이것은 제가 가족의 중요성을 진정으로 이해하는데 도움을 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 여동생은 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 여동생은 좋아합니다.My sister likes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 모든 종류의 동물들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 모든 종류의 동물들을 all kinds of animals.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "사실",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "사실In fact,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀는 개를 가지고 있습니다 .",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀는 개를 가지고 있습니다 . she has a dog.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀 또한 사랑합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀 또한 사랑합니다.She also loves",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 음악듣기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 음악듣기를to listen to music",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 친구와 이야기 하기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 친구와 이야기 하기를and talk to her friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 전화상으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 전화상으로on the phone.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 더 수다스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 더 수다스럽습니다.She is more talkative",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니보다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니보다 than my mother.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 항상 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 항상 행복합니다.My family is always happy,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 우리는 매우 가깝습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 우리는 매우 가깝습니다. and we are very close",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서로서로에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서로서로에게to one another,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 나를 돕습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 나를 돕습니다 which helps me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 이해하도록",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 이해하도록 really understand",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족의 중요성을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가족의 중요성을 the importance of family.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Sister’s Hobby",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s2-6.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s2-6.swf"
+  ]
+}

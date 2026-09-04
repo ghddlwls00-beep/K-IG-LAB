@@ -1,0 +1,55 @@
+{
+  "id": "p011",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 011 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 2,
+  "audio": [
+    {
+      "src": "/audio/middle/p011.mp3",
+      "legacySrc": "sounds/p011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 011 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Greeting)"
+    },
+    {
+      "type": "hints",
+      "text": "Nice to meet you sir. It’s a pleasure to be with you today."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, thank you for giving me a chance to introduce myself."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p011.htm",
+  "legacyEncoding": "utf-8"
+}

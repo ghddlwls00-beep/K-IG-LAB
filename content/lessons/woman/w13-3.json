@@ -1,0 +1,123 @@
+{
+  "id": "w13-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w13-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 3,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/woman/w13-3-1.mp3",
+      "legacySrc": "w13-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w13-3-2.mp3",
+      "legacySrc": "w13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w13-3-3.mp3",
+      "legacySrc": "w13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w13-3-4.mp3",
+      "legacySrc": "w13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w13-3-5.mp3",
+      "legacySrc": "w13-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Many Korean politicians are corrupt and accept bribes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The two main parties of Korea, the Democrats and the Republicans, fight a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "These problems are not only the politician’s responsibility, but the people’s as well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "We must learn to work together to make Korea the best country it can be.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "13 Politics in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Political Problems of Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국 정치인들은 부정하고 뇌물을 받는다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국의 두 주요 정당은 민주당과 공화당인데 많이 싸운다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 문제들은 정치인들의 책임감뿐만 아니라 사람들의 책임감 역시 그렇다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 한국을 가장 좋은 나라가 될 수 있도록 함께 일하는 것을 배워야 한다",
+      "lang": "ko"
+    }
+  ],
+  "legacyPath": "Woman/w13-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w13-3.swf"
+  ]
+}

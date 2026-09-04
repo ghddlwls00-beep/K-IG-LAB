@@ -1,0 +1,47 @@
+{
+  "id": "pr162-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr162",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 162-1 ]",
+  "menuLabel": "[ pr162-1 ]",
+  "unit": 162,
+  "part": null,
+  "order": 323,
+  "audio": [
+    {
+      "src": "/audio/reading/pr162.mp3",
+      "legacySrc": "sounds/pr162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 162-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "프로 선수들은 그들의 역할이 무엇이 되어야 하는가에 대해 의견이 일치하지 않는다. 몇몇의 스타급 선수들은 그들의 역할은 훌륭한 선수가 되는 것이지 젊은 사람들의 모범이 되어야 한다고 생각하지 않는다. “우리가 모범적인 인물이 되어야 하는 것은 아니죠.”라고 그들은 주장한다. 그들은 그들의 사생활에서 무엇을 하든 그것은 전적으로 자신들만의 문제라고 확고히 믿는다. 반대로, 몇몇의 스타급 선수들은 이들의 의견에 동의하지 않는다. 그들은 스포츠 스타들은 그들이 때로는 원하지 않는다 하더라도 사람들의 모범이 되어야 한다고 생각한다. 이들은 “우리는 모범이 되어야 하는 인물이 될 것으로 선택한 것이 아니라, 선택 받았어요. 우리의 선택은 좋은 모범이 될 것인지, 나쁜 것이 될 것인지에 있지요.”라고 말한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr162-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "gh2-008",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 8 ]",
+  "menuLabel": "[ 8과 영어 ]",
+  "unit": 8,
+  "part": null,
+  "order": 2,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-008.mp3",
+      "legacySrc": "sounds/gh2-008.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 8 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Even if I have to walk all the way, I'll go there."
+        },
+        {
+          "n": "2",
+          "text": "Even though I failed, I would try again."
+        },
+        {
+          "n": "3",
+          "text": "Throw it into the fire."
+        },
+        {
+          "n": "4",
+          "text": "He folded the napkin into a triangle."
+        },
+        {
+          "n": "5",
+          "text": "He turned the spare room into a study."
+        },
+        {
+          "n": "6",
+          "text": "He went into the room."
+        },
+        {
+          "n": "7",
+          "text": "Nobody was in the house when we called."
+        },
+        {
+          "n": "8",
+          "text": "He lives in a small house in the suburbs."
+        },
+        {
+          "n": "9",
+          "text": "He read about it in the newspaper."
+        },
+        {
+          "n": "10",
+          "text": "It will be ready in a week."
+        },
+        {
+          "n": "11",
+          "text": "He's behind the others in reading."
+        },
+        {
+          "n": "12",
+          "text": "You must pay in cash."
+        },
+        {
+          "n": "13",
+          "text": "In an attempt to save a child, she donated one of her kidneys."
+        },
+        {
+          "n": "14",
+          "text": "He has no confidence in his ability."
+        },
+        {
+          "n": "15",
+          "text": "I have no interest in music."
+        },
+        {
+          "n": "16",
+          "text": "She has a strong belief in God."
+        },
+        {
+          "n": "17",
+          "text": "In trying to improve his English, he is building (on) his vocabulary."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-008.htm",
+  "legacyEncoding": "utf-8"
+}

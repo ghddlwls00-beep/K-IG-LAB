@@ -1,0 +1,101 @@
+{
+  "id": "cnn018",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Beaujolais Nouveau* Ready to Pour in Japan",
+  "label": "Beaujolais Nouveau* Ready to Pour in Japan",
+  "menuLabel": "[ CNN 18 ]",
+  "unit": 18,
+  "part": null,
+  "order": 17,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn018.mp4",
+      "legacySrc": "CNN/CNN1-60/18.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Beaujolais Nouveau* Ready to Pour in Japan"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s that time of the year again the annual release of the famous wine Beaujolais Nouveau. And people in Japan as you can see are literally soaking it up. Japan was first to kick off the grape celebration. With imports of 12.5 million bottles, the winecrazy nation is France’s biggest market. Apparently the drink matches perfectly with Japanese cuisine. And it appeals to the Japanese preference for changing foods with the changing seasons.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보졸레 누보, 일본에서 판매 시작해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "올해도 변함없이 그 유명한 보졸레 누보 와인이 시판되는 시기가 찾아왔습니다. 보시다시피 일본인들이 와인을 쭉 들이키고 있습니다. 일본은 최초로 (보졸레 누보) 포도 축제를 연 나라입니다. 1천 250만 병을 수입할 정도로 와인에 열광하는 이 나라는 프랑스의 최대 와인 판매시장입니다. 아마도 일본 음식에는 와인이 제격인가 봅니다. 그리고 계절이 바뀔 때마다 음식을 바꾸는 일본인들의 취향에도 딱입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. soak/ (술을) 진탕 마시다; …을 취하게 하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* Beaujolais Nouveau",
+          "text": "보졸레 누보: 프랑스 보졸레 산의 햇 포도주로 수확된 해의 11월 셋째목요일에 전세계에 일제히 발매됨"
+        },
+        {
+          "n": "annual",
+          "text": "해마다의, 예년의, 1년에 한 번의"
+        },
+        {
+          "n": "release",
+          "text": "발매, 공개, 발사, 방출"
+        },
+        {
+          "n": "literally",
+          "text": "(강조하여) 정말로, 정확히; 실제로"
+        },
+        {
+          "n": "soak up",
+          "text": "…을 빨아들이다, 흡수하다"
+        },
+        {
+          "n": "kick off",
+          "text": "((구어)) …으로 시작하다[되다], 막을 열다 [막이 열리다]"
+        },
+        {
+          "n": "import",
+          "text": "수입품; 수입액"
+        },
+        {
+          "n": "apparently",
+          "text": "아무래도…같은"
+        },
+        {
+          "n": "match with",
+          "text": "…에 어울리다, 조화되다"
+        },
+        {
+          "n": "cuisine",
+          "text": "(독특한) 요리; 요리법"
+        },
+        {
+          "n": "appeal to",
+          "text": "…의(마음에) 와닿다, 매력이 있다, 마음에 들다"
+        },
+        {
+          "n": "preference for",
+          "text": "…을(다른 것보다) 더 좋아함; (기호에 따른) 선택; 편애, (…에 대한) 애호, 선호"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/18.wmv",
+  "legacyEncoding": "binary"
+}

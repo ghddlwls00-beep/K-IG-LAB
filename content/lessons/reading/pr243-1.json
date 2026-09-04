@@ -1,0 +1,47 @@
+{
+  "id": "pr243-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr243",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 243-1 ]",
+  "menuLabel": "[ pr243-1 ]",
+  "unit": 243,
+  "part": null,
+  "order": 485,
+  "audio": [
+    {
+      "src": "/audio/reading/pr243.mp3",
+      "legacySrc": "sounds/pr243.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 243-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "1990년 중반 이후, 외국인에 대한 한국어 교육은 꾸준히 발전해왔다. 현재 많은 대학들이 한국과 해외에서 한국어 교육 프로그램을 제공하고 있고, 한국어 학습자를 위한 많은 교재들도 제작되고 있다. 그러나, 이러한 발전으로부터 이익을 얻는 외국인들은 소수에 불과하다. 많은 외국인 노동자들이 교육의 경험이 전혀 없거나 거의 없는 한국인 직장동료나 자원 봉사자들에게 배우고 있다. 그래서, 외국인 노동자에 대한 한국어 교수법에 대해 더 좋은 교육 프로그램이 세워져야 할 필요가 있는 것이다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr243-1.htm",
+  "legacyEncoding": "utf-8"
+}

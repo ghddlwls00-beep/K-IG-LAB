@@ -1,0 +1,107 @@
+{
+  "id": "d188-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d188",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 188 회 ]",
+  "menuLabel": "[ D 188-1 ]",
+  "unit": 188,
+  "part": null,
+  "order": 374,
+  "audio": [
+    {
+      "src": "/audio/ld/d188.mp3",
+      "legacySrc": "sounds/d188.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 188 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "백인이 미 대륙에 오기 오래 전에 그 땅은 인디언 만의 것이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "체로키족은 지금 미국의 남동부 지역에 해당되는 곳에 살았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 영구적인 마을에 사는 평화를 사랑하는 농부들이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 벽돌과 돌로 된 집과 공공 건물을 지었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 좋은 농장을 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 백인이 왔을 때 체로키족은 그들의 방식 중 많은 것을 복사했다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 체로키 과학자인 Sequoyah는 읽기와 쓰기가 백인에게 얼마나 중요한지 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 구어체 체로키 언어의 문자 형태를 만들기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 그는 각 단어에 대한 표시(sign) 혹은 상징(symbol)을 만들려고 노력했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그것은 불가능한 것으로 판명되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "단지 단어들이 너무나 많았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그는 그 언어를 구성하는 85개의 음을 취했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 자신의 상상력과 한 영어 철자법 책을 이용하여 Sequoyah는"
+    },
+    {
+      "type": "instruction",
+      "text": "각 음에 대한 하나의 표시(sign)를 발명했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 알파벳은 배우기에 놀랍도록 쉬운 것이 입증되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d188-1.htm",
+  "legacyEncoding": "utf-8"
+}

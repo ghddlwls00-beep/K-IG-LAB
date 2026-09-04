@@ -1,0 +1,88 @@
+{
+  "id": "mv2-36",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-36 ]",
+  "unit": 36,
+  "part": null,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-36.mp3",
+      "legacySrc": "sounds/mv2-36.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "application",
+          "wrap",
+          "admire",
+          "slope",
+          "voyage",
+          "smart"
+        ],
+        [
+          "rough",
+          "silly",
+          "sob",
+          "wander",
+          "tire",
+          "climate"
+        ],
+        [
+          "imaginary",
+          "spectator",
+          "sow",
+          "elect",
+          "valuable",
+          "export"
+        ],
+        [
+          "particular",
+          "origin",
+          "wipe",
+          "notice",
+          "handicap",
+          "check"
+        ],
+        [
+          "refuse",
+          "explode",
+          "tough",
+          "birth",
+          "grade",
+          "honor"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-36 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-36.htm",
+  "legacyEncoding": "utf-8"
+}

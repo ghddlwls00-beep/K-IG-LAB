@@ -1,0 +1,260 @@
+{
+  "id": "cnn071",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Tanked Up* on Sugar",
+  "label": "Tanked Up* on Sugar",
+  "menuLabel": "[ CNN 71 ]",
+  "unit": 71,
+  "part": null,
+  "order": 70,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn071.mp4",
+      "legacySrc": "CNN/CNN61-120/71.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tanked Up* on Sugar"
+    },
+    {
+      "type": "paragraph",
+      "text": "EUNICE YOON, CNN Correspondent: Chocolate, cake and candies are full of it and one day it may power your car. It’s already the fuel for millions of Brazilian drivers. For investors and farmers, sugar is sweet again. With President Bush looking to wean the U.S. off foreign oil, investors are betting big on4alternative fuels like ethanol and alcohol derived from sugar and other crops.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPHEN GOLLOP, CEO Of Bridgewater: There’s a global will to get ethanol onto the landscape, basically. And Mr. Bush was talking about raising the figures from ’round about 400 million barrels to 700 million barrels in the next five years or so.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Ethanol is brewed much like beer. Sugar or corn are milled and fermented. The alcohol is extracted and mixed with gasoline, creating a cleaner burning fuel. Sugar producing countries, like Brazil, have invested heavily in ethanol projects to increase their production of the alternative energy. The Brazilians already convert more than half their sugarcane output to ethanol. Other sugar producers, like Thailand, also hope to boost ethanol output..as well as sugar prices..welcome news for farmers like Thailand’s Sakorn Chaichali.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SAKORN CHAICHALI, Thailand Farmer: This year we got a far better price for sugar. I anticipate the price to rise.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Sugar future’s prices are now at 25-year highs. Yet some energy analysts wonder if the rally in sugar prices is justified. They say without government subsidies, making ethanol is not competitive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GOLLOP: Even with the oil prices where they are... it’s still a more expensive fuel to actually produce. Something like 80% of the energy produced by ethanol is used in making it in the first place. So there’s a great deal of time and expense in actually producing it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Most countries would also need to modify their gas stations to handle the new fuel. But with oil prices high, alternative fuels are becoming a more viable option as well as one that can offer environmental benefits. Eunice Yoon, CNN, Hong Kong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "설탕 연료로 달린다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유니스 윤, CNN 기자: 초콜릿, 케이크, 사탕에는 설탕이 듬뿍 들어가 있습니다. 그리고 언젠가는 설탕이 여러분의 차를 움직일지도 모릅니다. 이미 수 백만의 브라질 운전자들은 설탕을 연료로 사용하고 있습니다. 투자가들에게나 농부들에게나 설탕은 역시 달콤합니다. 부시 미 대통령이 석유의 대외 의존도를 낮추기 위한 방안을 모색하고 있는 가운데 투자가들은 설탕 및 여타 곡물에서 생성되는 에탄올과 알코올 같은 대체 연료에 큰 기대를 걸고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스테판 골럽, 브릿지워터 사 최고경영자: 실제로 전세계가 에탄올을 널리 확산시키고 싶어합니다. 게다가 부시 대통령은 향후 5년 정도 안에 그 (대체 연료 생산) 수치를 약 4억 배럴에서 7억 배럴로 높이겠다는 입장을 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 에탄올은 맥주 양조와 거의 비슷한 과정을 거쳐 생산됩니다. 사탕수수나 옥수수를 제분기로 빻은 다음에 발효시킵니다. 알코올을 추출해 휘발유와 혼합하여 청정 연료를 만들어냅니다. 브라질과 같은 설탕 생산국에서는 대체에너지 생산을 증대시키기 위한 에탄올 프로젝트에 많은 돈을 투자해 왔습니다. 브라질인들은 이미 사탕수수 생산량의 절반 이상을 에탄올로 전환시키고 있습니다. 타이와 같은 다른 설탕 생산국들 또한 설탕 가격의 상승뿐 아니라 에탄올 생산량 증대를 희망하고 있습니다. 이는 타이의 사콘 차이찰리와 같은 농부들에게 매우 반가운 소식입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "사콘 차이찰리, 타이 농부: 올해는 훨씬 더 나은 설탕값을 받았습니다. 설탕 값이 더 오를 것으로 예상됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 현재 설탕 선물 가격이 25년 만에 최고치를 기록하고 있습니다. 그러나 일부 에너지 전문가들은 이 같은 설탕 가격 반등이 과연 합당한지 의문을 제기하고 있습니다. 그들은 정부 보조금 없이는 에탄올 생산에 경쟁력이 없다고 말합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "골럽: 지금의 석유 가격과 비교한다고 해도, 에탄올은 실제로 생산하기에 여전히 훨씬 값비싼 연료입니다. 에탄올로 생산되는 에너지의 80% 정도가 에탄올 생산에 우선적으로 사용되고 있습니다. 따라서 에탄올을 생산하는 데에는 엄청난 시간과 비용이 들어갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 또한 이 새로운 연료를 사용하기 위해서는 대부분의 국가가 주유소를 재정비해야 할 것입니다. 그러나 고유가가 지속되는 한, 대체 연료는 환경적인 혜택을 제공함은 물론 점점 더 실제적인 대안(案)이 될 것입니다. 홍콩에서 CNN, 유니스 윤이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. alternative energy/ 대체 에너지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. landscape/ (전체적으로 본) 지형, 지표",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. burning/ 연소(중인)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) sugarcane/ 사탕수수 (2) output/ 생산량",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* tank up",
+          "text": "(휘발유를) 연료 탱크에 가득 채우다"
+        },
+        {
+          "n": "1) be full of",
+          "text": "…으로 가득하다"
+        },
+        {
+          "n": "2) power",
+          "text": "…에 동력을 공급하다; …을 동력으로 움직이다"
+        },
+        {
+          "n": "3) wean A off B",
+          "text": "B에서 A를 떼어놓다"
+        },
+        {
+          "n": "4) bet on",
+          "text": "…을 확신하다; …에 내기를 걸다"
+        },
+        {
+          "n": "5) alternative fuel",
+          "text": "대체 연료"
+        },
+        {
+          "n": "6) ethanol",
+          "text": "에탄올"
+        },
+        {
+          "n": "7) derived from",
+          "text": "…에서 얻은, 생성된"
+        },
+        {
+          "n": "8) crops",
+          "text": "(곡물 따위의) 작물, 수확물"
+        },
+        {
+          "n": "9) get A onto the landscape",
+          "text": "A를 도처[곳곳]에 확산시키다"
+        },
+        {
+          "n": "10) figures",
+          "text": "수치"
+        },
+        {
+          "n": "11) brew",
+          "text": "(맥주 따위를) 양조하다"
+        },
+        {
+          "n": "12) mill",
+          "text": "…을 제분기에 걸다, 찧다"
+        },
+        {
+          "n": "13) ferment",
+          "text": "발효시키다"
+        },
+        {
+          "n": "14) extract",
+          "text": "추출하다"
+        },
+        {
+          "n": "15) cleaner burning fuel",
+          "text": "청정 연소 연료"
+        },
+        {
+          "n": "16) sugarcane output",
+          "text": "사탕수수 생산량"
+        },
+        {
+          "n": "17) convert A to B",
+          "text": "A를 B로 전환시키다"
+        },
+        {
+          "n": "18) boost",
+          "text": "증대시키다"
+        },
+        {
+          "n": "19) anticipate",
+          "text": "…을 예상하다; 기대하다"
+        },
+        {
+          "n": "20) future’s price",
+          "text": "{금융}선물가(價)"
+        },
+        {
+          "n": "21) at 25-year highs",
+          "text": "25년 만의 최고치"
+        },
+        {
+          "n": "22) rally",
+          "text": "(경기 따위의) 회복, 반등"
+        },
+        {
+          "n": "23) justify",
+          "text": "…을 정당화하다"
+        },
+        {
+          "n": "24) government subsidy",
+          "text": "정부 보조금"
+        },
+        {
+          "n": "25) competitive",
+          "text": "경쟁적인; (품질, 가격 따위가) 경쟁력 있는"
+        },
+        {
+          "n": "26) in the first place",
+          "text": "(우선) 첫째로"
+        },
+        {
+          "n": "27) a great deal of",
+          "text": "다량의"
+        },
+        {
+          "n": "28) modify",
+          "text": "…을 변경하다, 수정하다"
+        },
+        {
+          "n": "29) gas station",
+          "text": "주유소"
+        },
+        {
+          "n": "30) handle",
+          "text": "…을 다루다, 사용하다; …을 처리하다"
+        },
+        {
+          "n": "31) viable",
+          "text": "실행 가능한"
+        },
+        {
+          "n": "32) environmental benefit",
+          "text": "환경적 이익"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/71.wmv",
+  "legacyEncoding": "binary"
+}

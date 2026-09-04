@@ -1,0 +1,47 @@
+{
+  "id": "pr001-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr001",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 001-1 ]",
+  "menuLabel": "[ pr001-1 ]",
+  "unit": 1,
+  "part": null,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/reading/pr001.mp3",
+      "legacySrc": "sounds/pr001.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 001-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "남녀는 다르게 말한다. 과학자들은 모친이 아들에게, 부친이 딸에게 말할 때, 그들의 차이점이 문제를 야기시킨다고 말한다. 예를 들어, 모친의의 훌륭한 상담은 아들에게 효과를 발휘하지 못하고, 아버지가 종종 아들의 편을 든다. 하지만 그것은 부모들과 이성인 자녀들이 서로 의사가 안 통하도록 운명지워져 있음을 의미하지 않는다. 결과적으로 아이들은 다른 성의 부모와 말하기를 더 좋아한다. 만약 부모들이 그들과 이성인 자녀들의 말하는 다른 방식을 존중한다면, 그들의 대화는 훨씬 성공적일 것이다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr001-1.htm",
+  "legacyEncoding": "utf-8"
+}

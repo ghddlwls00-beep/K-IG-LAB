@@ -1,0 +1,88 @@
+{
+  "id": "mv3-35",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-35 ]",
+  "unit": 35,
+  "part": null,
+  "order": 114,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-35.mp3",
+      "legacySrc": "sounds/mv3-35.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "icy",
+          "heartily",
+          "civil",
+          "sew",
+          "violate",
+          "ankle"
+        ],
+        [
+          "arise",
+          "bud",
+          "person",
+          "forbid",
+          "port",
+          "jury"
+        ],
+        [
+          "slender",
+          "cliff",
+          "reward",
+          "sensible",
+          "preserve",
+          "repetition"
+        ],
+        [
+          "envious",
+          "quarter",
+          "proportion",
+          "handicap",
+          "complaint",
+          "sunrise"
+        ],
+        [
+          "sunshine",
+          "condemn",
+          "meanly",
+          "unfair",
+          "punishment",
+          "rapid"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-35 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-35.htm",
+  "legacyEncoding": "utf-8"
+}

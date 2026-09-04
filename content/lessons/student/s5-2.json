@@ -1,0 +1,428 @@
+{
+  "id": "s5-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s5-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 28,
+  "audio": [
+    {
+      "src": "/audio/student/s5-2-1.mp3",
+      "legacySrc": "s5-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-2.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-3.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-4.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-5.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-6.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-7.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-8.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-9.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-10.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-11.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-12.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-13.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-14.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-15.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-16.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-17.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-18.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-19.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-20.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-21.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-22.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-23.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-24.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-2-25.mp3",
+      "legacySrc": "s5-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sometimes in the spring and the fall, I ride my bike to school.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I can get to school more quickly by bicycle than I can on foot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It takes me under 10 minutes by bike.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It usually takes me 15 minutes to walk to school.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My school is near my house.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교로 가는 길에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교로 가는 길에On my way to school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 문구점에 들른다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 문구점에 들른다.I stop by the stationary store",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/들어가서 학용품을 사기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/들어가서 학용품을 사기 위해서 and go in to buy the supplies",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/수업에 필요한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/수업에 필요한I need for class.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 학교는 나의 집 가까이에 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에 걸어가는 것은 보통 약 15분 걸립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 봄과 가을에 나는 나의 자전거를 타고 학교에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 걸어서 가는 것 보다 자전거를 타고 가는 것이 학교에 좀 더 빨리 도착할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "자전거를 타면10분 안에 도착합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에 가는 길에 저는 문구점에 들러서 수업에 필요한 준비물을 사러 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On my way to school, I stop by the stationary store and go in to buy the supplies I need for class.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 학교에 걸어갈 때 나는 자주 나의 친구들을 만납니다. 그래서 우리는 함께 학교에 걸어갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As I am walking to school, I often see my friends, so we walk to school together.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 나에게 15분 걸린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 나에게 15분 걸린다.It usually takes me 15 minutes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/학교에 걸어가는 데에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/학교에 걸어가는 데에 to walk to school.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 봄과 가을에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 봄과 가을에Sometimes in the spring and the fall,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학교에 자전거를 타고 간다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 학교에 자전거를 타고 간다. I ride my bike to school.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 학교에 도착할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 학교에 도착할 수 있다.I can get to school",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/자전거를 타고 좀 더 빠르게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/자전거를 타고 좀 더 빠르게more quickly by bicycle",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 걸어서 가는 것보다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 걸어서 가는 것보다 than I can on foot.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것(시간)은 나에게 걸린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것(시간)은 나에게 걸린다.It takes me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 10분 안에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 10분 안에under 10 minutes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 자전거로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 자전거로 by bike.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 학교로 걸어갈 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 학교로 걸어갈 때 As I am walking to school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 자주 친구들을 만난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 자주 친구들을 만난다. I often see my friends,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 우리는 함께 학교에 걸어간다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 우리는 함께 학교에 걸어간다. so we walk to school together.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school/At school :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the Way to School / Going to School",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s5-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s5-2.swf"
+  ]
+}

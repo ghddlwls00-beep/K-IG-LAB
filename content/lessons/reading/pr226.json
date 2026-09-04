@@ -1,0 +1,47 @@
+{
+  "id": "pr226",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 226 ]",
+  "menuLabel": "[ pr226 ]",
+  "unit": 226,
+  "part": null,
+  "order": 450,
+  "audio": [
+    {
+      "src": "/audio/reading/pr226.mp3",
+      "legacySrc": "sounds/pr226.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 226 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Admirers of modern science boast that man's cleverness will find ways to sustain any number of people by using to the fullest every inch of space. But even now we are victims of many science solutions that cause more problems than they solve. Science does not always have the answer at the precise time if it is needed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr226.htm",
+  "legacyEncoding": "utf-8"
+}

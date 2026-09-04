@@ -1,0 +1,47 @@
+{
+  "id": "pr072-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr072",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 072-1 ]",
+  "menuLabel": "[ pr072-1 ]",
+  "unit": 72,
+  "part": null,
+  "order": 143,
+  "audio": [
+    {
+      "src": "/audio/reading/pr072.mp3",
+      "legacySrc": "sounds/pr072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 072-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "당신이 긍정적이지 않으면 일에서 생산적일 수 없다. \"인생은 90%의 자세와 10%의 능력이다. 자신을 어떻게 나타내고 당신이 무엇을 제공할 것인가는 모두 당신의 자세에 있다.\"고 판매 책임자인 Edward Simpson은 말한다. \"성공하기 위해 당신이 알 필요가 있는게 뭔지는 회사가 가르켜 줄 수 있지만, 회사가 자세까지 가르켜 주진 못한다. 흥미를 느끼지 않는 아주 유능한 사람과 열정을 갖은 덜 유능한 사람 중에서 선택할 때, 난 항상 능력보다 열성을 선택한다\"고 그는 덧붙인다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr072-1.htm",
+  "legacyEncoding": "utf-8"
+}

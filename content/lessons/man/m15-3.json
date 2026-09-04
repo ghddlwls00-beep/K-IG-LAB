@@ -1,0 +1,118 @@
+{
+  "id": "m15-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m15-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 3,
+  "order": 66,
+  "audio": [
+    {
+      "src": "/audio/man/m15-3-1.mp3",
+      "legacySrc": "m15-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-3-2.mp3",
+      "legacySrc": "m15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-3-3.mp3",
+      "legacySrc": "m15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-3-4.mp3",
+      "legacySrc": "m15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-3-5.mp3",
+      "legacySrc": "m15-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1990년대에, 한국의 급격한 경제 성장으로 불안정이 시작했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the 1990s, instability began as a result of Korea’s rapidly growing economy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1990년대의 끝에, 한국의 경제는 위기였다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the end of the decade, Korea’s economy was in crisis.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국인들은 이 어려운 시기를 극복하기 위해 아주 부지런히 일했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koreans worked very diligently to overcome this difficult time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 나누어진 부유층과 빈민층의 차이는 계속 커졌다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the gap that separated the rich from the poor continued to grow.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 The Korean Economy :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Nineties",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m15-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m15-3.swf"
+  ]
+}

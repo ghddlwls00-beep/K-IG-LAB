@@ -1,0 +1,83 @@
+{
+  "id": "p052",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 052 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 58,
+  "audio": [
+    {
+      "src": "/audio/middle/p052.mp3",
+      "legacySrc": "sounds/p052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 052 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My school is near my house."
+    },
+    {
+      "type": "hints",
+      "text": "It usually takes me 15 minutes to walk to school."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes in the spring and the fall,"
+    },
+    {
+      "type": "instruction",
+      "text": "I ride my bike to school."
+    },
+    {
+      "type": "instruction",
+      "text": "I can get to school more quickly by bicycle than I can on foot."
+    },
+    {
+      "type": "instruction",
+      "text": "It takes me under 10 minutes by bike."
+    },
+    {
+      "type": "instruction",
+      "text": "On my way to school, I stop by the stationary store"
+    },
+    {
+      "type": "instruction",
+      "text": "and go in to buy the supplies I need for class."
+    },
+    {
+      "type": "instruction",
+      "text": "As I am walking to school, I often see my friends,"
+    },
+    {
+      "type": "instruction",
+      "text": "so we walk to school together."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p052.htm",
+  "legacyEncoding": "utf-8"
+}

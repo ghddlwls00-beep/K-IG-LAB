@@ -1,0 +1,63 @@
+{
+  "id": "p202-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p202",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 202-1]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 199,
+  "audio": [
+    {
+      "src": "/audio/middle/p202.mp3",
+      "legacySrc": "sounds/p202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 202-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "(몇 개의 유명한 장소들)"
+    },
+    {
+      "type": "instruction",
+      "text": "우리 나라는 자연적, 역사적, 그리고 때때로는 사람에 의해 만들어진"
+    },
+    {
+      "type": "instruction",
+      "text": "방문할만한 많은 매력적인 장소들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 장소들은 불국사, 속리산 국립공원, 그리고 독립기념관등을"
+    },
+    {
+      "type": "instruction",
+      "text": "포함하고 있습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p202-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "aw081",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 081 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 1,
+  "order": 83,
+  "audio": [
+    {
+      "src": "/audio/adults/aw081.mp3",
+      "legacySrc": "sounds/aw081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 081 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Christian)"
+    },
+    {
+      "type": "hints",
+      "text": "There are many religions in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is Christian so every Sunday we go to church."
+    },
+    {
+      "type": "instruction",
+      "text": "We see lots of friends when we go."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very happy to go to church we sing hymns, listen to the sermon and study the bible."
+    },
+    {
+      "type": "instruction",
+      "text": "Sunday is always a great day at the church."
+    },
+    {
+      "type": "instruction",
+      "text": "Because we have religion in our lives we are very happy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw081.htm",
+  "legacyEncoding": "utf-8"
+}

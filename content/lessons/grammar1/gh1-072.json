@@ -1,0 +1,112 @@
+{
+  "id": "gh1-072",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 072]",
+  "menuLabel": "[ gh1-072 ]",
+  "unit": 72,
+  "part": null,
+  "order": 113,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-072.mp3",
+      "legacySrc": "sounds/gh1-072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 072]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "이것들은 너의 것들이다."
+        },
+        {
+          "n": "2",
+          "text": "그것들은 그들의 장갑(gloves)들이다."
+        },
+        {
+          "n": "3",
+          "text": "너의 얼굴은 창백(pale)하다."
+        },
+        {
+          "n": "4",
+          "text": "이 땅(land)은 나의 것이다."
+        },
+        {
+          "n": "5",
+          "text": "내가 무거운가(heavy)?"
+        },
+        {
+          "n": "6",
+          "text": "그는 큰가(big)?"
+        },
+        {
+          "n": "7",
+          "text": "그녀는 귀여운가(cute)?."
+        },
+        {
+          "n": "8",
+          "text": "왜 당신은 슬픈가?"
+        },
+        {
+          "n": "9",
+          "text": "이것은 나의 것인가?"
+        },
+        {
+          "n": "10",
+          "text": "그들은 건강하니?"
+        },
+        {
+          "n": "11",
+          "text": "나의 얼굴이 초록색인가(green)?"
+        },
+        {
+          "n": "12",
+          "text": "이것들은 너의 것들이냐?"
+        },
+        {
+          "n": "13",
+          "text": "이 집은 그의 것이냐?"
+        },
+        {
+          "n": "14",
+          "text": "이 고양이들은 그녀의 것(hers)이냐?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-072.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pr011-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr011",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 011-1 ]",
+  "menuLabel": "[ pr011-1 ]",
+  "unit": 11,
+  "part": null,
+  "order": 21,
+  "audio": [
+    {
+      "src": "/audio/reading/pr011.mp3",
+      "legacySrc": "sounds/pr011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 011-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "크레인은 앞으로 여러 면에서 우리를 도울 수 있다. 그것은 거대한 망원"
+    },
+    {
+      "type": "instruction",
+      "text": "경을 만드는 것을 도와 줄 수 있을 것이다. 그러면 우리는 7배나 더 멀리"
+    },
+    {
+      "type": "instruction",
+      "text": "우주를 볼 수 있게 된다. 그것은 우주로 날아가서 다시 돌아오고 다시"
+    },
+    {
+      "type": "instruction",
+      "text": "간다. 또한 그것은 우주에 태양 발전소를 건설할 수 있게 해 준다. 이것은"
+    },
+    {
+      "type": "instruction",
+      "text": "장시간의 비행을 위해 여분의 전력을 그것에 공급할 것이다. 미래에 무슨"
+    },
+    {
+      "type": "instruction",
+      "text": "일이 생길지 누가 알겠는가? 아마도 언젠가 그것은 달로 관광을 가려는"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들을 실어 나를 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr011-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "c1-5",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "科目(과목)",
+  "label": "科目(과목)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 5,
+  "order": 5,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-5-swf1.mp3",
+      "legacySrc": "c1-5.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-swf2.mp3",
+      "legacySrc": "c1-5.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-swf3.mp3",
+      "legacySrc": "c1-5.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-swf4.mp3",
+      "legacySrc": "c1-5.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5.mp3",
+      "legacySrc": "중국어음성/c1-5.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-1.mp3",
+      "legacySrc": "중국어음성/c1-5-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-2.mp3",
+      "legacySrc": "중국어음성/c1-5-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-3.mp3",
+      "legacySrc": "중국어음성/c1-5-3.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-5-4.mp3",
+      "legacySrc": "중국어음성/c1-5-4.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-5"
+    },
+    {
+      "type": "paragraph",
+      "text": "科目(과목)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 학교에서 많은 다른 과목들을 공부하지만 나의 가장 좋아하는 과목은 영어입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我早学校很多科目，但是我最喜欢的科目是英语。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매일 영어공부를 합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我每天学英语课。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 영어를 지금까지 3년간 공부해오고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "到现在我学了三年英语。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "왜냐하면 배우는 것이 재미있고 신이 납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我喜欢英语是因为很有趣很有意思。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "한/중",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    }
+  ],
+  "legacyPath": "중국/c1-5.html",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr175-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr175",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 175-1 ]",
+  "menuLabel": "[ pr175-1 ]",
+  "unit": 175,
+  "part": null,
+  "order": 349,
+  "audio": [
+    {
+      "src": "/audio/reading/pr175.mp3",
+      "legacySrc": "sounds/pr175.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 175-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람들은 다양한 상황의 필요를 충족시키기 위해 그들의 식사 패턴을 바꾼다. 그들은 어떤 음식이 그들의 운동능력을 증대시키고, 체중을 줄이는데 도움을 주며, 낭만적인 분위기에 젖도록 해주는가에 대해 어떤 생각을 갖고 있다. 예를 들어, 이러한 사람들은 육체적 활동을 위한 근력을 얻기 위해 과일과 야채를 선택한다. 그들은 아침 식사로 섬유질이 풍부한 빵과 곡류와 같은 음식을 선택하며, 사업상의 약속을 준비하기 위해 점심으로 샐러드를 선택한다. 그러나, 낭만적인 저녁을 위해, 새우나 바다가재를 선택한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr175-1.htm",
+  "legacyEncoding": "utf-8"
+}

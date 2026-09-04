@@ -1,0 +1,88 @@
+{
+  "id": "mv3-05",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-05 ]",
+  "unit": 5,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-05.mp3",
+      "legacySrc": "sounds/mv3-05.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "gamble",
+          "reverse",
+          "scream",
+          "brilliant",
+          "dread",
+          "dash"
+        ],
+        [
+          "rarely",
+          "hardness",
+          "frighten",
+          "sympathy",
+          "suffering",
+          "reflection"
+        ],
+        [
+          "mental",
+          "block",
+          "utter",
+          "medium",
+          "hawk",
+          "devour"
+        ],
+        [
+          "creature",
+          "weapon",
+          "bid",
+          "obviously",
+          "contempt",
+          "witness"
+        ],
+        [
+          "rude",
+          "civilization",
+          "valueless",
+          "dreadful",
+          "penniless",
+          "virtue"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-05 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-05.htm",
+  "legacyEncoding": "utf-8"
+}

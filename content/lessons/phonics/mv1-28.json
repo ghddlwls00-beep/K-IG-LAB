@@ -1,0 +1,88 @@
+{
+  "id": "mv1-28",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-28 ]",
+  "unit": 28,
+  "part": null,
+  "order": 27,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-28.mp3",
+      "legacySrc": "sounds/mv1-28.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "nobody",
+          "artist",
+          "diary",
+          "cheese",
+          "vegetable",
+          "battle"
+        ],
+        [
+          "promise",
+          "boring",
+          "bother",
+          "sentence",
+          "scholar",
+          "stupid"
+        ],
+        [
+          "race",
+          "rather",
+          "wish",
+          "drop",
+          "habit",
+          "hide"
+        ],
+        [
+          "forward",
+          "expect",
+          "international",
+          "mayor",
+          "master",
+          "match"
+        ],
+        [
+          "gesture",
+          "borrow",
+          "straight",
+          "precious",
+          "beyond",
+          "celebrate"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-28 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-28.htm",
+  "legacyEncoding": "utf-8"
+}

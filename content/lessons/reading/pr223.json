@@ -1,0 +1,47 @@
+{
+  "id": "pr223",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 223 ]",
+  "menuLabel": "[ pr223 ]",
+  "unit": 223,
+  "part": null,
+  "order": 444,
+  "audio": [
+    {
+      "src": "/audio/reading/pr223.mp3",
+      "legacySrc": "sounds/pr223.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 223 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people believe that if they have much money, they will be happy. They believe that if they are wealthy, they will be able to do everything they want, and so they will be happy. On the other hand, some people value their religion, or their intelligence, or their health ; these make them happy. For me , happiness is closely tied to my family. I am happy if my wife and children live in harmony. When all members of my family share good and sad times, and communicate with each other, I am happy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr223.htm",
+  "legacyEncoding": "utf-8"
+}

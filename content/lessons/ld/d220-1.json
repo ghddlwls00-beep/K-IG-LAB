@@ -1,0 +1,83 @@
+{
+  "id": "d220-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d220",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 220 회 ]",
+  "menuLabel": "[ D 220-1 ]",
+  "unit": 220,
+  "part": null,
+  "order": 438,
+  "audio": [
+    {
+      "src": "/audio/ld/d220.mp3",
+      "legacySrc": "sounds/d220.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 220 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "휴가가는 전망은 언제나 신나는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들의 마음에 휴가는 한 가지 - 여행을 의미한다."
+    },
+    {
+      "type": "instruction",
+      "text": "매년 여름 먼 장소의 유혹이 수백만명의 미국인에게 손짓한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 실제로 휴가가 시작되기 전에 몇 주 몇 달 동안 분위기는 휴가 계획으로 가득 찬다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 여행을 계획하는 것이 거의 그 여행 그 자체 만큼이나 재미있다."
+    },
+    {
+      "type": "instruction",
+      "text": "읽을 책, 계획할 루트, 협의할 여행사들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "성공적인 휴가는 주의깊은 계획에 달려있다."
+    },
+    {
+      "type": "instruction",
+      "text": "노련한 여행객은 급하게 계획된 여행은 휴식이 되고 즐겁기보다는"
+    },
+    {
+      "type": "instruction",
+      "text": "피곤하고 골치아프게 끝날 때가 더 많다는 것을 안다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d220-1.htm",
+  "legacyEncoding": "utf-8"
+}

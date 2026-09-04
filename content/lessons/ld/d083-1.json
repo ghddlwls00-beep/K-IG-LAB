@@ -1,0 +1,95 @@
+{
+  "id": "d083-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d083",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 083회 ]",
+  "menuLabel": "[ D 083-1 ]",
+  "unit": 83,
+  "part": null,
+  "order": 165,
+  "audio": [
+    {
+      "src": "/audio/ld/d083.mp3",
+      "legacySrc": "sounds/d083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 083회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Griffith는 영화를 다르게 만들기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 당시에 감독들은 영화를 만들 때 언제나 카메라를 같은 장소에 두었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그 카메라를 연기지역으로부터 약 5미터 떨어진 곳에 두었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 식으로 조명을 움직이지 않고 모든 그 연기를 촬영할 수 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Griffith는 만일 그가 그 카메라를 움직인다면 그의 영화들은 좀 더 흥미진진할 것이라고 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그는 그 카메라를 남녀 배우들에게 매우 가까이 움직였다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그는 그 카메라의 시야를 넓혀주기 위하여 멀리 떨어진 곳으로 옮겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "Griffith의 가장 유명한 영화는 The Birth of a Nation 이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 영화는 미국의 내전과 뒤이은 여러 해에 대해서이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 영화는 매우 인기 있었고 그것이 Griffith를 유명하게 만들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Griffith는 1930년까지 영화를 만드는 것을 계속했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 1948년 7월 22일 캘리포니아의 헐리웃에서 죽었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d083-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "w15-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w15-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 2,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/woman/w15-2-1.mp3",
+      "legacySrc": "w15-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-2-2.mp3",
+      "legacySrc": "w15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-2-3.mp3",
+      "legacySrc": "w15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-2-4.mp3",
+      "legacySrc": "w15-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 The Korean Economy :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Korean Economy: The Seventies and the Eighties",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 경제는 20년 동안 매우 빠르게 발전하기 시작했고 계속되었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our economy started to and continued to develop very quickly during these two decades.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1980년대 동안 올림픽 경기와 다른 문화적인 행사가 한국에서 열렸고, 나라는 세계적으로 더욱 알려졌다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the 1980’s the Olympic games and other cultural events were held in Korea, and the country became known more around the world.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1970년대 후에, 우리나라의 경제는 발전하기 시작했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the 1970s, our country’s economy started to develop.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w15-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w15-2.swf"
+  ]
+}

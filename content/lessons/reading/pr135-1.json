@@ -1,0 +1,83 @@
+{
+  "id": "pr135-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr135",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 135-1 ]",
+  "menuLabel": "[ pr135-1 ]",
+  "unit": 135,
+  "part": null,
+  "order": 269,
+  "audio": [
+    {
+      "src": "/audio/reading/pr135.mp3",
+      "legacySrc": "sounds/pr135.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 135-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "세상에서 우리가 알게 되는 것들을 정의하고 분류하려는 것이 인간의 특성"
+    },
+    {
+      "type": "instruction",
+      "text": "이다. 그러나 세상이 항상 이렇게(정의되고 분류되도록) 만들어진 것 같지"
+    },
+    {
+      "type": "instruction",
+      "text": "는 않다. 그래서, 우리는 종종 흐릿한 가장자리(경계)로 혼동을 겪는다. 부"
+    },
+    {
+      "type": "instruction",
+      "text": "분적으로는 한 범주에 속하고 부분적으로는 또 다른 범주에 속하는 경계"
+    },
+    {
+      "type": "instruction",
+      "text": "선의 경우들이 많이 있다. 이는 우리가 생명체를 정의하려 시도할 때 적용"
+    },
+    {
+      "type": "instruction",
+      "text": "된다. 세상에는 살아 있는 것이다거나 죽은 것이다고 명확하게 불릴 수 없"
+    },
+    {
+      "type": "instruction",
+      "text": "는 것들이 있다. 한 예는 - 병 속에 화학 물질처럼 병에 보관될 수 있지만,"
+    },
+    {
+      "type": "instruction",
+      "text": "살아 있는 세포 속에서는, 스스로 복제(번식)하는 입자인 - 바이러스이다."
+    },
+    {
+      "type": "instruction",
+      "text": "바이러스는 번식을 하지만, 다른 대부분의 생명체의 특성들은 보여주지 못"
+    },
+    {
+      "type": "instruction",
+      "text": "한다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr135-1.htm",
+  "legacyEncoding": "utf-8"
+}

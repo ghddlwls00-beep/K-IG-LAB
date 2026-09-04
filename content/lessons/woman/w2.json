@@ -1,0 +1,112 @@
+{
+  "id": "w2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 6,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "20",
+          "text": "A Busy Morning"
+        },
+        {
+          "n": "21",
+          "text": "In the Morning"
+        },
+        {
+          "n": "22",
+          "text": "In the Afternoon"
+        },
+        {
+          "n": "23",
+          "text": "Dinnertime and At Night"
+        },
+        {
+          "n": "24",
+          "text": "How I Spend Saturday Mornings"
+        },
+        {
+          "n": "25",
+          "text": "How I spend Saturday Afternoons"
+        },
+        {
+          "n": "26",
+          "text": "How I spend Sunday Mornings"
+        },
+        {
+          "n": "27",
+          "text": "How I spend Sunday Afternoons"
+        },
+        {
+          "n": "28",
+          "text": "Why did I Choose My Job?"
+        },
+        {
+          "n": "29",
+          "text": "What do I Think about My Job?"
+        },
+        {
+          "n": "30",
+          "text": "What do I Do on My Job?"
+        },
+        {
+          "n": "31",
+          "text": "How do I Progress in My job?"
+        },
+        {
+          "n": "32",
+          "text": "Christian"
+        },
+        {
+          "n": "33",
+          "text": "Buddhist"
+        },
+        {
+          "n": "34",
+          "text": "Atheist"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w2.swf"
+  ]
+}

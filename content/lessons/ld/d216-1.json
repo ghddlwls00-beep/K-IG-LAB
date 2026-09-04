@@ -1,0 +1,83 @@
+{
+  "id": "d216-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d216",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 216 회 ]",
+  "menuLabel": "[ D 216-1 ]",
+  "unit": 216,
+  "part": null,
+  "order": 430,
+  "audio": [
+    {
+      "src": "/audio/ld/d216.mp3",
+      "legacySrc": "sounds/d216.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 216 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 오늘날에도 많은 미신이 현대인의 생활에 끈질기게 남아있다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 많은 사람들은 검은 고양이는 악과 불행의 징표라고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "죽음에 대한 미신이 많이 발견될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서는 몇몇 미신적인 사람들은 임박한 죽음이 열린 창문을 통하여"
+    },
+    {
+      "type": "instruction",
+      "text": "집으로 날아들어오는 야생의 새에 의하여 상징된다고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들은 바람 속에서 움직이는 빈 흔들의자는 가족 내의 누군가가"
+    },
+    {
+      "type": "instruction",
+      "text": "곧 죽을 것이라는 것을 의미한다고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 대부분의 사람들은 그런 미신에 진정한 신뢰를 두지 않는다(미신을 정말로 믿지는 않는다)."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 단지 그런 것들을 늙은 아낙네의 이야기들의 흥미있는 예로 단지 여긴다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d216-1.htm",
+  "legacyEncoding": "utf-8"
+}

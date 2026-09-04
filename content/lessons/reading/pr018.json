@@ -1,0 +1,47 @@
+{
+  "id": "pr018",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 018 ]",
+  "menuLabel": "[ pr018 ]",
+  "unit": 18,
+  "part": null,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/reading/pr018.mp3",
+      "legacySrc": "sounds/pr018.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 018 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Ever since the coming of television, there has been a rumor that the novel is dying, if not already dead. Indeed, print-oriented novelists seem doomed to disappear, as electronic media and computer games are becoming more influential. Nowadays, many young people seem to prefer surfing the Internet to reading books. And often what they seek is not so much profound knowledge as quick information. One may wonder if literary fiction is destined to become an old-fashioned genre to be preserved in a museum like an extinct species."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr018.htm",
+  "legacyEncoding": "utf-8"
+}

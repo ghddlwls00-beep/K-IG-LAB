@@ -1,0 +1,87 @@
+{
+  "id": "d063-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d063",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 063회 ]",
+  "menuLabel": "[ D 063-1 ]",
+  "unit": 63,
+  "part": null,
+  "order": 125,
+  "audio": [
+    {
+      "src": "/audio/ld/d063.mp3",
+      "legacySrc": "sounds/d063.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 063회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "토요일 아침 9시30분에 나는 레코드 가게를 찾으면서 High Street를 걸어내려가고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람이 나를 정지시키고 나에게 Ritz Hotel로의 길을 물었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그것이 정확히 어디에 있는지 자신이 없었지만 그 낯선 사람과 함께 High Street 끝까지 걸어갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매우 우호적이고 호감이 갔다. 나는 그 사람이 아는 사람이라는 확신이 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 얼굴이 너무나 낯익어 보였다. 그런 다음 나는 Ritz가 어디에 있는지 기억이 나서 그에게 길을 알려주 었다(직역:방향을 주었다)."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나에게 감사하고 뭔가를 주려고 했다. 나는 그것이 돈이라고 생각했고 처음에는 사양했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그가 계속 권해서 그것을 받았다. 나는 그 레코드점으로 돌아가서 몇장의 레코드를 들어보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "“Fantastic Five\"가 최고 20위 중에서 2위인 새 레코드를 갖고 있었다. 나는 그것을 사기로 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 지갑(wallet)을 위하여 지갑(purse)을 들여다 보았고 그 낯선 사람이 준 그 종이 쪽지를 발견했 다. 그것은 사진이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 숨을 헐떡였다. 그의 얼굴이 그렇게 낯익어 보인 것이 이상하지 않다. 그 사람은 ”Fantastic Five\"의 가수였다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d063-1.htm",
+  "legacyEncoding": "utf-8"
+}

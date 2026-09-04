@@ -1,0 +1,47 @@
+{
+  "id": "pr173-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr173",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 173-1 ]",
+  "menuLabel": "[ pr173-1 ]",
+  "unit": 173,
+  "part": null,
+  "order": 345,
+  "audio": [
+    {
+      "src": "/audio/reading/pr173.mp3",
+      "legacySrc": "sounds/pr173.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 173-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "서로 다른 그룹은 아이디어를 개발하는 데 서로 다른 방법을 취한다. 성공적인 그룹들은 그 구성원들이 상상적이고 독창적인 아이디어를 내는 데 고취되며 그것들을 다른 사람들과 공유한다. 성공적이지 못한 그룹의 개인 구성원들은 그렇게 하도록 고취되지 않으며, 대신 항상 집단적 사고를 하도록 강요받는다. 출발에 있어서 이 두 그룹 구성원의 능력이나 자질은 차이가 없다. 하지만, 결국에는 그렇지 않았던 사람들은 실패할 것이고, 창조적인 생각을 하도록 고무되었던 개개인의 구성원들은 성공할 것이다. 그러므로, 그룹의 리더들은 이것을 교훈으로 삼아야 하며, 생산적이고 긍정적인 결과를 성취하기 위해서는 이 점을 활용해야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr173-1.htm",
+  "legacyEncoding": "utf-8"
+}

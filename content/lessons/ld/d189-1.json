@@ -1,0 +1,99 @@
+{
+  "id": "d189-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d189",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 189 회 ]",
+  "menuLabel": "[ D 189-1 ]",
+  "unit": 189,
+  "part": null,
+  "order": 376,
+  "audio": [
+    {
+      "src": "/audio/ld/d189.mp3",
+      "legacySrc": "sounds/d189.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 189 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "머지않아 많은 체로키인들이 자기 자신의 언어를 읽고 쓰는 법을 알았다."
+    },
+    {
+      "type": "instruction",
+      "text": "1828년이 되었을 때는 체로키인들은 그들 자신의 신문을 발간하기까지 하고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "1830년에 미의회가 한 법을 통과시켰다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 정부가 인디언들을 그들의 땅으로부터 합법적으로 몰아내는 것을 허용했다."
+    },
+    {
+      "type": "instruction",
+      "text": "체로키인들은 가기를 거부했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 여러 세기 동안 그들의 땅에서 살아왔었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 그들의 것이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "왜 그들이 미시시피 강을 한참 넘어가는 낯선 땅으로 가야하나?"
+    },
+    {
+      "type": "instruction",
+      "text": "그 체로키인들을 몰아내기 위하여 군대가 보내졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "군인들이 그들의 마을을 포위하고 그들에게 총을 겨누고 그 서쪽 영토로 행진시켰다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 끔찍한 행진동안 4,000명 이상의 체로키인들이 죽었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그 행진을 “The Trail of Tears\"라고 불렀다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 trail의 종말은 위대한 체로키 민족의 종말이기도 했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d189-1.htm",
+  "legacyEncoding": "utf-8"
+}

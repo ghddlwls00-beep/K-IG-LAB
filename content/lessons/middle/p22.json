@@ -1,0 +1,163 @@
+{
+  "id": "p22",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle22]",
+  "menuLabel": null,
+  "unit": 22,
+  "part": null,
+  "order": 211,
+  "audio": [
+    {
+      "src": "/audio/middle/p22.mp3",
+      "legacySrc": "sounds/p22.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle22]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 22: At School/Academy/Home"
+    },
+    {
+      "type": "hints",
+      "text": "I am often late for school because I sleep in late,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my mornings are very busy."
+    },
+    {
+      "type": "instruction",
+      "text": "I usually walk to school. It takes about fifteen minutes to get there."
+    },
+    {
+      "type": "instruction",
+      "text": "When class starts at 9:00,"
+    },
+    {
+      "type": "instruction",
+      "text": "our teacher checks our homework and our journals."
+    },
+    {
+      "type": "instruction",
+      "text": "When I don’t do my homework, I get very nervous."
+    },
+    {
+      "type": "instruction",
+      "text": "Like most other students, my favorite subject is P.E."
+    },
+    {
+      "type": "instruction",
+      "text": "Our class has a lot of smart students in it, so we are very competitive."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher’s name is Ms. Kang."
+    },
+    {
+      "type": "instruction",
+      "text": "She loves children and makes learning fun."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes she tells us great stories. She is a good teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "She has a habit biting her nails, when she teaches."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes she bites herself too hard and shouts out in pain."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher is helping me realize my dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher also always tells us to set goals in order to reach our dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "After school, most of my friends and I go to academies."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite academy is English."
+    },
+    {
+      "type": "instruction",
+      "text": "Everyday I go there to learn new sentences, new words, and new songs."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my friends are really good at memorizing words and phrases."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my friends are really good at conversational English."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a Korean for an English teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "She has studied English for many years and knows it very well."
+    },
+    {
+      "type": "instruction",
+      "text": "When she speaks, she sounds like a native English speaker."
+    },
+    {
+      "type": "instruction",
+      "text": "When I come home after school, my mother is always glad to see me."
+    },
+    {
+      "type": "instruction",
+      "text": "Dinnertime is the only time that our family is together the whole day."
+    },
+    {
+      "type": "instruction",
+      "text": "Usually my father comes home late, so we can’t be together."
+    },
+    {
+      "type": "instruction",
+      "text": "After dinner our family watches TV together."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother doesn’t allow us to watch too much TV."
+    },
+    {
+      "type": "instruction",
+      "text": "My days are very difficult but a lot of fun too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p22.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "mv1-07",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-07 ]",
+  "unit": 7,
+  "part": null,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-07.mp3",
+      "legacySrc": "sounds/mv1-07.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "brother",
+          "sister",
+          "uncle",
+          "example",
+          "computer",
+          "sun"
+        ],
+        [
+          "music",
+          "trip",
+          "thousand",
+          "hundred",
+          "ten",
+          "good-bye"
+        ],
+        [
+          "newspaper",
+          "land",
+          "far",
+          "both",
+          "hotel",
+          "busy"
+        ],
+        [
+          "everything",
+          "cat",
+          "afraid",
+          "nothing",
+          "someone",
+          "bed"
+        ],
+        [
+          "garden",
+          "off",
+          "quite",
+          "present",
+          "shout",
+          "seem"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-07 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-07.htm",
+  "legacyEncoding": "utf-8"
+}

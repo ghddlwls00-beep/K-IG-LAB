@@ -1,0 +1,138 @@
+{
+  "id": "m6-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m6-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 1,
+  "order": 32,
+  "audio": [
+    {
+      "src": "/audio/man/m6-1-1.mp3",
+      "legacySrc": "m6-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-1-2.mp3",
+      "legacySrc": "m6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-1-3.mp3",
+      "legacySrc": "m6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-1-4.mp3",
+      "legacySrc": "m6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-1-5.mp3",
+      "legacySrc": "m6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-1-6.mp3",
+      "legacySrc": "m6-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "최근에, 우리 회사는 토요일에 문을 열지 않아서 나는 많은 여가 시간을 가집니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lately, our company does not open on Saturdays, so I have lots of free time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 주말 시간을 새로운 것을 배우는 데 사용합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I use my weekend time to learn new things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 토요일에는 늦게 일어납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I get up late on Saturday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 아내를 돕고 우리는 보통 스트레스를 해소하기 위해 대중탕에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I help my wife and we usually go to the public baths (spa) to release stress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 운동하고 영어 공부를 하려고 노력합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also try to exercise and practice my English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lately, our company does not open on Saturdays,1 so I have lots of free time.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Saturday Mornings",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m6-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m6-1.swf"
+  ]
+}

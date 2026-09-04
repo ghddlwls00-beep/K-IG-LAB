@@ -1,0 +1,83 @@
+{
+  "id": "d268-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d268",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 268 회 ]",
+  "menuLabel": "[ D 268-1 ]",
+  "unit": 268,
+  "part": null,
+  "order": 533,
+  "audio": [
+    {
+      "src": "/audio/ld/d268.mp3",
+      "legacySrc": "sounds/d268.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 268 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "현 시대는 한 새 유형의 예술이 솟아나는 것을 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 미술은 생생한 사실적인 표현의 고전적인 사랑으로부터 이탈했다."
+    },
+    {
+      "type": "instruction",
+      "text": "현대 미술은 어떤 물체의 영혼을 잡는 것만큼 그것을 눈에 보이는"
+    },
+    {
+      "type": "instruction",
+      "text": "그대로 정확하게 묘사하는 것에 많이 관심을 쏟지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것을 하기 위하여 현대 화가는 추상화를 그린다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 자신이 그리고 있는 물체의 본질만을 표현하려고 노력한다."
+    },
+    {
+      "type": "instruction",
+      "text": "피카소가 현대 화가의 좋은 예이다."
+    },
+    {
+      "type": "instruction",
+      "text": "사물의 그의 개념은 기하학적인 모습의 형태를 취했다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 피카소의 미술은 입체파라고 불린다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d268-1.htm",
+  "legacyEncoding": "utf-8"
+}

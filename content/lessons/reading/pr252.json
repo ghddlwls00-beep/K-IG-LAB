@@ -1,0 +1,47 @@
+{
+  "id": "pr252",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 252 ]",
+  "menuLabel": "[ pr252 ]",
+  "unit": 252,
+  "part": null,
+  "order": 502,
+  "audio": [
+    {
+      "src": "/audio/reading/pr252.mp3",
+      "legacySrc": "sounds/pr252.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 252 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Market researchers often comment that the elderly think of themselves as being much younger than they actually are. In fact, research confirms the public that age is more a state of mind than of body. The level of a person’s mental outlook and activity has much more to do with quality of life than does actual age. A recent study suggests that perceived age may be a more reliable predictor of marketing success on the gray market than actual age. For this reason, many marketers focus on perceived age in marketing campaigns."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr252.htm",
+  "legacyEncoding": "utf-8"
+}

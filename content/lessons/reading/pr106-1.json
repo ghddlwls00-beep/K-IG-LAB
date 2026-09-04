@@ -1,0 +1,47 @@
+{
+  "id": "pr106-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr106",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 106-1 ]",
+  "menuLabel": "[ pr106-1 ]",
+  "unit": 106,
+  "part": null,
+  "order": 211,
+  "audio": [
+    {
+      "src": "/audio/reading/pr106.mp3",
+      "legacySrc": "sounds/pr106.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 106-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "회사들은 이익을 내기 위하여 다양한 방법으로 가격을 낮추고 있다. 그 중의 한 가지는 도매할인이다. 그것은 대규모로 상품을 구입하고 판매하는 상점이나 사업체에 제공한다. 양적 할인도 있는데 그것은 다량으로 물건을 구매할 때에 개인에게 제공된다. 회사들이 가격 할인을 이런 구매자들에게 제공하는 이유는 그들이 판매, 보관, 선적, 청구서 작성 등의 비용을 줄일 수 있기 때문이다. 마지막으로 현금 할인이란 구매하는 사람들에게 저렴한 가격으로 제공되는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr106-1.htm",
+  "legacyEncoding": "utf-8"
+}

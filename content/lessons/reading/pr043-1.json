@@ -1,0 +1,47 @@
+{
+  "id": "pr043-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr043",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 043-1 ]",
+  "menuLabel": "[ pr043-1 ]",
+  "unit": 43,
+  "part": null,
+  "order": 85,
+  "audio": [
+    {
+      "src": "/audio/reading/pr043.mp3",
+      "legacySrc": "sounds/pr043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 043-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "그림을 원상으로 복귀시키는 사람들은 그들의 기술이 고도로 훈련되어 있지만 그 작품을 갖고 어떻게 해야하는 가를 정확하게 알기 위해서는 원래의 화가가 되어야 할 것이다. 먼지를 제거하는 것과 같은 작품의 기술적인 면은 아주 간단하다. 중요한 것은 어떤 그림을 한 예술가의 원래 의도대로 복귀시키는 것이다. 그렇게 하기 위해서 그들은 그 그림에 어떤 것을 첨가하느냐 아니면 그대로 놔두느냐를 결정해야 한다. 그들은 무엇을 손질해야 하고 손질하지 말아야 하는지를 결정하는 것이 아주 어렵다는 것을 인정한다. “우리의 목표는 예술가의 의도를 존중하는 것이지만 동시에 그것을 시각적으로 긴밀히 결부된 예술 작품으로 만드는 것이지요”라고 뉴욕의 현대 미술관의 Michael Duffy는 말한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr043-1.htm",
+  "legacyEncoding": "utf-8"
+}

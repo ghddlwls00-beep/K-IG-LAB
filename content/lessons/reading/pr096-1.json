@@ -1,0 +1,47 @@
+{
+  "id": "pr096-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr096",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 096-1 ]",
+  "menuLabel": "[ pr096-1 ]",
+  "unit": 96,
+  "part": null,
+  "order": 191,
+  "audio": [
+    {
+      "src": "/audio/reading/pr096.mp3",
+      "legacySrc": "sounds/pr096.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 096-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "식물은 바람, 비, 심지어 인간의 접촉과 같은 환경적인 영향에 반응한다고 알려져 있다. 예를 들어, 해안의 나무는 강풍과 폭우에 반응하여 더 짧고 강해진다. 스탠포드대학에서 행해진 실험실 연구에서, 1일 2회 식물을 만짐으로서 식물성장 패턴에 있어 동일한 변화가 발생했다. 또한 연구원들은 이런 성장의 변화는 유전자 활동에서 기인한다는 걸 알아냈다. 그들의 발견은 만약 직접적인 자극이 없었다면 이런 유전자 활동은 일어나지 않았을 거라는 걸 나타낸다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr096-1.htm",
+  "legacyEncoding": "utf-8"
+}

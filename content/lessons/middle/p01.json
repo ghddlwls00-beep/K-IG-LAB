@@ -1,0 +1,155 @@
+{
+  "id": "p01",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle01]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": null,
+  "order": 0,
+  "audio": [
+    {
+      "src": "/audio/middle/p01.mp3",
+      "legacySrc": "sounds/p01.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle01]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 1:Self-introduction"
+    },
+    {
+      "type": "hints",
+      "text": "Nice to meet you sir. It’s a pleasure to be with you today."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, thank you for giving me a chance to introduce myself."
+    },
+    {
+      "type": "instruction",
+      "text": "My name is Hong-gil-dong, and I live in Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "I live at Han-guk apartment."
+    },
+    {
+      "type": "instruction",
+      "text": "I am a 4th grade student at Han-guk Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a 3rd year middle school student at Han-guk Middle School."
+    },
+    {
+      "type": "instruction",
+      "text": "I am 11 years old."
+    },
+    {
+      "type": "instruction",
+      "text": "I am a very outgoing person, but I am also a little shy around new people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a lot of friends."
+    },
+    {
+      "type": "instruction",
+      "text": "I love to be around my friends, and they like to be around me."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person. Most people like me."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m kind of a shy person."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though I am afraid to talk a lot around people,"
+    },
+    {
+      "type": "instruction",
+      "text": "everyone says I am a very likable person and fun to be around."
+    },
+    {
+      "type": "instruction",
+      "text": "Most people like me after they get to know me."
+    },
+    {
+      "type": "instruction",
+      "text": "My hobbies include reading books, listening to music, hiking, watching"
+    },
+    {
+      "type": "instruction",
+      "text": "movies, and participating in sports."
+    },
+    {
+      "type": "instruction",
+      "text": "I especially like watching movies."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to play computer games as well."
+    },
+    {
+      "type": "instruction",
+      "text": "I study many different subjects at school,"
+    },
+    {
+      "type": "instruction",
+      "text": "but my favorite subject is English."
+    },
+    {
+      "type": "instruction",
+      "text": "I study English everyday. I have been studying English for 3 years so far."
+    },
+    {
+      "type": "instruction",
+      "text": "I like studying English because it is fun and exciting to learn."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to help other people, individually."
+    },
+    {
+      "type": "instruction",
+      "text": "When I help others, it makes me happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to volunteer at the orphanage and help the children there."
+    },
+    {
+      "type": "instruction",
+      "text": "Volunteering at the orphanage is an exciting time for me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p01.htm",
+  "legacyEncoding": "utf-8"
+}

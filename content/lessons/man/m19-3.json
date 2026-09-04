@@ -1,0 +1,133 @@
+{
+  "id": "m19-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m19-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 3,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/man/m19-3-1.mp3",
+      "legacySrc": "m19-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m19-3-2.mp3",
+      "legacySrc": "m19-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m19-3-3.mp3",
+      "legacySrc": "m19-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m19-3-4.mp3",
+      "legacySrc": "m19-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m19-3-5.mp3",
+      "legacySrc": "m19-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m19-3-6.mp3",
+      "legacySrc": "m19-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "또 다른 한국 문화의 독특한 면은 음식이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another unique aspect of Korean culture is food.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "전통적인 한국 음식은 보통 끓인 쌀, 스프, 생선 또는 고기, 몇몇 야채 반찬과 하나 또는더 많은 종류의 김치를 포함한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional Korean meals usually include boiled rice, soup, fish or meat, several vegetable side dishes, and one or more kinds of kimchi.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 가장 좋아하는 음식은 불고기이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My favorite food is bulgogi.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "불고기는 가장 인기 있는 한국 고기 음식인 반면 가장 인기 있는 야채 음식은 김치이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bulgogi is the most popular Korean meat dish, while the most popular vegetable dish is kimchi.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 모두 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like them both.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "19 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional Korean Food",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m19-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m19-3.swf"
+  ]
+}

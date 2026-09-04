@@ -1,0 +1,79 @@
+{
+  "id": "d023-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d023",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 023 회 ]",
+  "menuLabel": "[ D 023-1 ]",
+  "unit": 23,
+  "part": null,
+  "order": 45,
+  "audio": [
+    {
+      "src": "/audio/ld/d023.mp3",
+      "legacySrc": "sounds/d023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 023 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴저지 경찰은 오늘 Kid Naiba의 살해에 대하여 Tony Morton을 체포했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그 뚱뚱하고 대머리의 식당 주인인 Morton을 여러 번 체포했다."
+    },
+    {
+      "type": "instruction",
+      "text": "경찰은 과거에 무단 침입, 장물 구입, 공갈의 혐의들에 대하여 그를 심문한 적이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 이번에 경찰은 Morton에 대하여 바람샐틈없는 소송을 만들어냈다고 느낀다."
+    },
+    {
+      "type": "instruction",
+      "text": "누군가가 그 잘 알려진 밀수범을 어젯밤 9시와 9시 30분 사이에 쏘았다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 목격자는 Morton이 그 시간 무렵 그 범죄현장을 떠나는 것을 보았다고 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 Morton은 여자 친구 Gilda Lily를 파티로 데려가서 저녁 내내 그녀의 곁을 결코 떠나지 않았다고 말 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "Gilda는 그 도시의 어딘가에 숨어있다. 경찰은 그들이 그녀를 발견하자마자 Morton의 알리바이를 깰 수 있다고 확신한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d023-1.htm",
+  "legacyEncoding": "utf-8"
+}

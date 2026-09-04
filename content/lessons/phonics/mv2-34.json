@@ -1,0 +1,88 @@
+{
+  "id": "mv2-34",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-34 ]",
+  "unit": 34,
+  "part": null,
+  "order": 73,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-34.mp3",
+      "legacySrc": "sounds/mv2-34.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "surface",
+          "private",
+          "remain",
+          "neat",
+          "appreciate",
+          "responsible"
+        ],
+        [
+          "charge",
+          "transport",
+          "role",
+          "flee",
+          "amaze",
+          "pale"
+        ],
+        [
+          "grave",
+          "crash",
+          "scholar",
+          "consider",
+          "traffic",
+          "physical"
+        ],
+        [
+          "select",
+          "foundation",
+          "disease",
+          "servant",
+          "settle",
+          "poem"
+        ],
+        [
+          "drown",
+          "economy",
+          "nod",
+          "silence",
+          "regular",
+          "blossom"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-34 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-34.htm",
+  "legacyEncoding": "utf-8"
+}

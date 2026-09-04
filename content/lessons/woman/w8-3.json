@@ -1,0 +1,173 @@
+{
+  "id": "w8-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w8-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 3,
+  "order": 38,
+  "audio": [
+    {
+      "src": "/audio/woman/w8-3-1.mp3",
+      "legacySrc": "w8-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-2.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-3.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-4.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-5.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-6.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-7.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w8-3-8.mp3",
+      "legacySrc": "w8-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 Sunday :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atheist",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국에는 무신론자가 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are atheists in Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가족은 일요일에는 그들의 시간을 다르게 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My family spends their time differently on Sunday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편은 낚시를 가가나 등산 또는 친구들을 만나거나 때때로 TV.를 봅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I My husband sometimes goes fishing or hiking or meets his friends, sometimes he watches TV.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 자녀들은 보통으로 그들의 친구들을 만나거나 집에 있거나 컴퓨터게임을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My children usually meet their friends or stay home and play computer games.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 보통으로 쇼핑을 가거나 친구들을 만납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I usually go shopping or meet my friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 우리는 우리의 날을 다르게 보내지만 우리는 함께 저녁식사를 하고 보통으로 친척들을 방문하거나 결혼식에 참석합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although we spend our day differently we are together for dinner and usually visit relatives or attend wedding ceremonies.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "일요일은 새로운 한 주를 시작하기위해서 힘을 얻기에 좋은 시간입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sundays are a good time to receive strength in order to start a new week.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My husband sometimes goes fishing or hiking or meets his friends, sometimes he watches TV.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w8-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w8-3.swf"
+  ]
+}

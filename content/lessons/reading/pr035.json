@@ -1,0 +1,47 @@
+{
+  "id": "pr035",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 035 ]",
+  "menuLabel": "[ pr035 ]",
+  "unit": 35,
+  "part": null,
+  "order": 68,
+  "audio": [
+    {
+      "src": "/audio/reading/pr035.mp3",
+      "legacySrc": "sounds/pr035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 035 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Science and technology have changed a great deal since the latter part of the nineteenth century. The world has changed, too. It has become more complex and increasingly specialized. There is much more to know in every field. It is not only the scientist and the computer expert who need special training now, but also the government official and the business manager. Besides, a rapid increase in the number of college graduates has made the competition for jobs much greater than it used to be. The one best qualified, the expert, wins."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr035.htm",
+  "legacyEncoding": "utf-8"
+}

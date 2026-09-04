@@ -1,0 +1,47 @@
+{
+  "id": "pr088-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr088",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 088-1 ]",
+  "menuLabel": "[ pr088-1 ]",
+  "unit": 88,
+  "part": null,
+  "order": 175,
+  "audio": [
+    {
+      "src": "/audio/reading/pr088.mp3",
+      "legacySrc": "sounds/pr088.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 088-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "시간의 가치가 더 중요하게 여겨짐에 따라서 소비자들의 행동에도 변화가 생기고 있다. 최근의 조사에 의하면, 구매자들은 자신만의 시간을 더 갖고 싶어 하고, 그것을 위한 한 가지 방법은 쇼핑 시간을 줄이는 것이다. 이러한 변화로 인해, 가게 소유자들은 고객이 쇼핑을 더 수월하게 하도록 하고 고객 서비스를 더 쉽게 하기 위해 가게의 디자인을 바꾸고 있다. 예를 들어, 바쁜 구매자들이 매장에서 빠르게 이동할 수 있도록 회사들은 가게 전체의 여러 곳에 층별 지도를 붙여 둔다. 또 쇼핑하는 데 걸리는 시간을 최소화하기 위해 매장들의 규모를 확대해 왔다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr088-1.htm",
+  "legacyEncoding": "utf-8"
+}

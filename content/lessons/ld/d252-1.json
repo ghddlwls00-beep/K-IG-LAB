@@ -1,0 +1,79 @@
+{
+  "id": "d252-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d252",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 252 회 ]",
+  "menuLabel": "[ D 252-1 ]",
+  "unit": 252,
+  "part": null,
+  "order": 502,
+  "audio": [
+    {
+      "src": "/audio/ld/d252.mp3",
+      "legacySrc": "sounds/d252.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 252 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "면담은 인사 책임자의 사무실 문을 두드리는 순간에 시작된다."
+    },
+    {
+      "type": "instruction",
+      "text": "노크하는 수고없이 면접관의 사무실로 밀고들어가는 사람은 이미 나쁜 인상을 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "예절의 규칙들은 면접을 위하여 자신을 내놓을 때봐다 결코 더 중요하지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 노련한 면접관은 지원자를 편안하게 하려고 노력할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그 지원자가 그를 그 회사에 대한 재산으로 만들 자질들을 가지고 있는지"
+    },
+    {
+      "type": "instruction",
+      "text": "알아내려는 진지한 욕구를 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 직종이 구체적인 기술과 재능을 요구한다는 사실에도 불구하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 어떤 직장에 지원할 때 보여줄 수 있는 가장 소중한 자산은 아마 잘 발달된 성격이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d252-1.htm",
+  "legacyEncoding": "utf-8"
+}

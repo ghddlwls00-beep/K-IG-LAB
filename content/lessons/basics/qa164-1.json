@@ -1,0 +1,64 @@
+{
+  "id": "qa164-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa164",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 164-1 〕",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 4,
+  "order": 388,
+  "audio": [
+    {
+      "src": "/audio/basics/qa164.mp3",
+      "legacySrc": "sounds/qa164.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 164-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(꿈을 이루기 위한 방법 1) → 당신은 통역사가 되기위해 어떻게 할려고 합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "209",
+          "text": "난 / 영어를 / 듣고 말하는 연습을 통해 / 매일 / 공부할 거야."
+        },
+        {
+          "n": "210",
+          "text": "난 / 영어 학원 / 에도 다닐거야."
+        },
+        {
+          "n": "211",
+          "text": "내가 어른이 되었을 때 / 난 / 영어를 공부하기 위해 / 해외에 / 가고 싶어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa164-1.htm",
+  "legacyEncoding": "utf-8"
+}

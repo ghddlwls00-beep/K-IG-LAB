@@ -1,0 +1,47 @@
+{
+  "id": "pr180-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr180",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 180-1 ]",
+  "menuLabel": "[ pr180-1 ]",
+  "unit": 180,
+  "part": null,
+  "order": 359,
+  "audio": [
+    {
+      "src": "/audio/reading/pr180.mp3",
+      "legacySrc": "sounds/pr180.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 180-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "나이든 사람들은 어쩔 수 없이 한가하게 고정 수입으로 살며, 계속되는 많은 질병에 영향을 받으며 산다. 그들은 또한 젊음을 숭배하는 문화에서 산다. 그들은 때때로 일종의 문화적 편견을 지닌 태도에 의해 폐물처럼 다루어진다. 그러나 내가 자랄 때는 모든 어른들에 대한 예의범절이 있었다. 나는 아직도 노인들은 그들의 경험과 지혜로 존경받을 만하다고 믿는다. 나는 이따금 나의 세대가 나이를 먹는다는 것이 무엇인지를 아는 마지막 세대가 될까 두려워한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr180-1.htm",
+  "legacyEncoding": "utf-8"
+}

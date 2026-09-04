@@ -1,0 +1,47 @@
+{
+  "id": "pr090-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr090",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 090-1 ]",
+  "menuLabel": "[ pr090-1 ]",
+  "unit": 90,
+  "part": null,
+  "order": 179,
+  "audio": [
+    {
+      "src": "/audio/reading/pr090.mp3",
+      "legacySrc": "sounds/pr090.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 090-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "남편과 아내 그리고 한 자녀로 일어진 가족 내에서의 관계를 생각해 보자. 남편은 그의 아내와 자녀에게 영향을 미친다. 아내는 그의 남편과 자녀에게 영향을 주며, 자녀는 어머니, 아버지 모두에게 영향을 준다. 한 자녀를 더해 보자. 조부모님을, 이모를, 삼촌을 추가해보자. 사촌을, 이웃을, 친구들을 추가해 보자. 만약 우리가 이 명단을 더 늘려간다면 우리는 결국 하나의 전체 사회로 귀결될 것이다. 한 사회란 개인들 간의 관계로 엮어진 하나의 네트워크인 것이다. 각자가 다른 사람들에게 영향을 주며 그들로부터 영향을 받는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr090-1.htm",
+  "legacyEncoding": "utf-8"
+}

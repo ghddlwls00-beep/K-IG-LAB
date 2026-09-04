@@ -1,0 +1,71 @@
+{
+  "id": "d013-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d013",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 013 회 ]",
+  "menuLabel": "[ D 013-1 ]",
+  "unit": 13,
+  "part": null,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/ld/d013.mp3",
+      "legacySrc": "sounds/d013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 013 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매우 좋은 친구가 있다. 그의 이름은 John Jordan이다. 그는 좋은 사람이고 매우 지적이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그에게 한 가지 매우 이상한 것이 있다. 그는 매우 유능하고 몇몇 매우 어려운 것들을 할 수 있 다."
+    },
+    {
+      "type": "instruction",
+      "text": "우스운 것은 그가 생활 속에서 매우 단순한 것들의 몇 가지를 할 수 없다는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "적어도 나는 그것들이 단순하다고 생각한다. 예를 들어 그는 자동차를 운전할 수 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 비행기를 운전할 수 있고 그는 배를 운전할 수 있다. 그러나 그는 자전거를 탈 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 자전거를 타는 것을 결코 배울 수 없었다. 그것은 우스운 것 아닌가?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d013-1.htm",
+  "legacyEncoding": "utf-8"
+}

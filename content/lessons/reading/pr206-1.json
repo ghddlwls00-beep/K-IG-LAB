@@ -1,0 +1,47 @@
+{
+  "id": "pr206-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr206",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 206-1 ]",
+  "menuLabel": "[ pr206-1 ]",
+  "unit": 206,
+  "part": null,
+  "order": 411,
+  "audio": [
+    {
+      "src": "/audio/reading/pr206.mp3",
+      "legacySrc": "sounds/pr206.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 206-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "19C 후반에 떠오른 도시들은 범죄, 화재, 쓰레기, 질병 등과 같은 나름대로의 문제들이 있었다. 그러나 도시들은 또한 즐거움이라는 것도 갖고 있었다. 도시 거주자들은 시골에 사는 사람들보다 덜 고립되었다. 도시 사람들은 생각과 오락, 그리고 공통된 창조적인 관심들을 공유하기 위해 모일 수 있었다. 많은 인구가 도서관, 극장, 박물관 그리고 미술관들의 유지를 위해 필요했기 때문에 이러한 문화적 공공시설들이 도시화의 일부로 먼저 개발되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr206-1.htm",
+  "legacyEncoding": "utf-8"
+}

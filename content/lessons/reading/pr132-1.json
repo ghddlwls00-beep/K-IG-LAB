@@ -1,0 +1,47 @@
+{
+  "id": "pr132-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr132",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 132-1 ]",
+  "menuLabel": "[ pr132-1 ]",
+  "unit": 132,
+  "part": null,
+  "order": 263,
+  "audio": [
+    {
+      "src": "/audio/reading/pr132.mp3",
+      "legacySrc": "sounds/pr132.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 132-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "언어 순수학자는 일부 언어가 다른 언어보다 낫거나 변화가 오염이 된다는 거릇된 믿음 때문에 언어의 변화나 방언의 차이를 저지하기를 원한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr132-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "d141-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d141",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 141 회 ]",
+  "menuLabel": "[ D 141-1 ]",
+  "unit": 141,
+  "part": null,
+  "order": 281,
+  "audio": [
+    {
+      "src": "/audio/ld/d141.mp3",
+      "legacySrc": "sounds/d141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 141 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘은 나에게 매우 좋은 날이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 꽤 오랫동안 새 직장을 찾아오고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 몇몇 고용 기관에 내 이름을 올렸고 몇몇 일자리에 대한 정보를 받았지만 이 직장 중의 어느 곳에도 관심이 가지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "지난 주 나는 시내의 한 새로운 회사에 대한 지원서를 작성하고 개인 인터뷰를 마련했다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 사람이 이 자리에 대한 인터뷰를 받았고 나는 내가 그것을 얻을지 몰랐다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘 아침 그 회사로부터의 누군가가 전화를 해서 두시에 나를 만나자고 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 그의 사무실로 들어갔을 때 그는 내가 고용되었다고 나에게 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 월요일에 일하기 시작할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 내가 이 일을 좋아할 것을 안다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매우 잘 봉급을 받을 것이고 나의 일은 극도로 재미있을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 너무나 행복하게 느끼고 있었기 때문에 그날 나머지에 대한 모든 나의 약속을 취소하기로 결정했고 아내에게 그 좋은 소식을 말하기 위해 곧장 집으로 갔다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d141-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "p151",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 151 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 1,
+  "order": 152,
+  "audio": [
+    {
+      "src": "/audio/middle/p151.mp3",
+      "legacySrc": "sounds/p151.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 151 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(The World Cup)"
+    },
+    {
+      "type": "hints",
+      "text": "A few years ago our country hosted the 2002 World Cup."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s soccer players are not one of the best teams."
+    },
+    {
+      "type": "instruction",
+      "text": "Before the World Cup, soccer was not famous in our country."
+    },
+    {
+      "type": "instruction",
+      "text": "Sports have a way of making new heroes and stars."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce to you one person from the world of"
+    },
+    {
+      "type": "instruction",
+      "text": "Korean soccer that I admire the most."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p151.htm",
+  "legacyEncoding": "utf-8"
+}

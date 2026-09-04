@@ -1,0 +1,176 @@
+{
+  "id": "p02-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p02",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle02-1]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 17,
+  "audio": [
+    {
+      "src": "/audio/middle/p02.mp3",
+      "legacySrc": "sounds/p02.mp3",
+      "autoplay": true
+    },
+    {
+      "src": "/audio/middle/p02-1.mp3",
+      "legacySrc": "sounds/p02-1.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle02-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "2과 가족 소개"
+    },
+    {
+      "type": "instruction",
+      "text": "당신에게 저의 가족을 소개할 수 있는 기회를 주셔서 감사합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 좋은 가족이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가족은 4 명 입니다:"
+    },
+    {
+      "type": "instruction",
+      "text": "저의 아버지, 어머니, 여동생, 그리고 저 자신입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "언젠가, 저는 남동생이나 여동생이 한 명 더 있으면 좋겠습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 작은 핸드폰 회사에서 아주 열심히 일합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 거기에서 거의 10년 동안 일해오고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "제가 생각하기에는 그는 그 회사에서 가장 열심히 일하시는 분 같습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니는 가정주부 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 몇 년 동안 백화점에서 일했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 세상에서 최고의 어머니 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 어머니와 아버지를 정말 사랑합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 부모님은 항상 나의 동생과 제가 중요하고 특별하게 느끼게 만듭니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 부모님은 항상 저희에게 좋은 본보기가 되어줬습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 항상 집안일을 잘 도와줍니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 종종 어머니와 함께 쇼핑을 가십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그를 존경합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니는 훌륭한 요리사 이시고 여전히 아름다운 여성 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그녀의 나이보다 어려 보이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 저의 어머니를 사랑합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 여동생은 (한국)초등학교에 다닙니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 피아노 치기를 잘하고 모든 과목 공부를 잘 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀가 좋은 화가가 되기를 원합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 나보다 재능이 많습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 여동생은 모든 종류의 동물을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "사실상 그녀는 개를 한 마리 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "또한 그녀는 음악듣기를 좋아하고"
+    },
+    {
+      "type": "instruction",
+      "text": "전화로 그녀의 친구들에게 이야기 하기를 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 나의 어머니보다 더 수다스럽습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가족은 항상 행복하고 우리는 서로서로 매우 가깝습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 제가 가족의 중요성을 진정으로 이해하는데 도움을 줍니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p02-1.htm",
+  "legacyEncoding": "utf-8"
+}

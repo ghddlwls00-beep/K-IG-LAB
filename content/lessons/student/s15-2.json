@@ -1,0 +1,398 @@
+{
+  "id": "s15-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s15-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 2,
+  "order": 66,
+  "audio": [
+    {
+      "src": "/audio/student/s15-2-1.mp3",
+      "legacySrc": "s15-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-2.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-3.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-4.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-5.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-6.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-7.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-8.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-9.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-10.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-11.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-12.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-13.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-14.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-15.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-16.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-17.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-18.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-19.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-20.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-21.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-22.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-2-23.mp3",
+      "legacySrc": "s15-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Even though Coach Hiddink spent a lot of time training Korea’s soccer team, they were still not winning very many games.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many people complained about him and blamed him for the lack of success.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "During his time as coach of the Korean team, he trained our soccer players very hard.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The person I admire the most is Guus Hiddink (히딩크), coach of the Korean Republic national soccer team from Holland.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 히딩크 감독이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 히딩크 감독이Even though Coach Hiddink",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 시간을 썼다 할지라도",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 시간을 썼다 할지라도 spent a lot of time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국축구팀을 훈련하는데",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국축구팀을 훈련하는데training Korea's soccer team,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들은 여전히 승리하지 못했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들은 여전히 승리하지 못했습니다. they were still not winning",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 많은 경기에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 많은 경기에서very many games.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 사람들이 불평했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 사람들이 불평했습니다.Many people complained",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그에 대해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그에 대해서 about him",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그를 비난했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그를 비난했습니다. and blamed him",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/성공의 부족에 대해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/성공의 부족에 대해for the lack of success.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 가장 존경하는 사람은 네덜란드 출신의 대한민국 국가대표팀 감독인 거스 히딩크 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 한국팀의 감독이었던 시간 동안, 그는 우리 축구선수들을 매우 강하게 훈련시켰습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 히딩크 감독이 많은 시간을 한국의 축구팀 훈련시키는데 보냈지만, 그들은 여전히 많은 경기를 승리하지 못했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 사람들이 그에 대해서 불평했고 성공의 부족에 대해서 그를 비난했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 가장 존경하는 사람은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 가장 존경하는 사람은The person I admire the most",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ (히딩크), 거스 히딩크이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ (히딩크), 거스 히딩크이다. is Guus Hiddink",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 대한민국 코치인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 대한민국 코치인 coach of the Korean Republic",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 국가축구대표팀의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 국가축구대표팀의 national soccer team",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 네덜란드출신의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 네덜란드출신의 from Holland.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 기간동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 기간동안During his time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국팀의 코치로서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국팀의 코치로서as coach of the Korean team,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 우리 축구선수들을 훈련시켰습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 우리 축구선수들을 훈련시켰습니다. he trained our soccer players",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 강하게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 강하게 very hard.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whom Do I Admire? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Person I Admire the Most",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s15-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s15-2.swf"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "w19-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w19-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 2,
+  "order": 76,
+  "audio": [
+    {
+      "src": "/audio/woman/w19-2-1.mp3",
+      "legacySrc": "w19-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-2-2.mp3",
+      "legacySrc": "w19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-2-3.mp3",
+      "legacySrc": "w19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-2-4.mp3",
+      "legacySrc": "w19-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-2-5.mp3",
+      "legacySrc": "w19-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "19 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional Korean Clothing: Hanbok",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선, 한국은 한복이라 불리는 자신의 전통의상을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, Korea has its own traditional clothing known as hanbok.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "옛 시절에, 한복의 다른 형태가 자신이 어떤 사회계급에 속하는지 결혼을 했는지 안 했는지 와 같이 사회에서 자신의 위치를 결정지었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In ancient times, the different styles of hanbok determined your position in society such as which social class you belonged to and whether or not you were married.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "오늘날 한국 사람들은 매일의 옷 입는 방식은 서구식 의상을 입습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nowadays, Koreans wear Western style clothing for every day fashion.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "전통명절에는, 가족들이 전통 한복을 입고 축하합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On traditional holidays, families celebrate by wearing the traditional hanbok.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w19-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w19-2.swf"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "d221-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d221",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 221 회 ]",
+  "menuLabel": "[ D 221-1 ]",
+  "unit": 221,
+  "part": null,
+  "order": 440,
+  "audio": [
+    {
+      "src": "/audio/ld/d221.mp3",
+      "legacySrc": "sounds/d221.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 221 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "휴가를 계획하는데 있어서 예산을 간과할 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "재력을 넘어서는 여행은 실망으로 판명될 뿐인 반면 좀 더"
+    },
+    {
+      "type": "instruction",
+      "text": "수수한 휴가는 정말 즐거운 것으로 입증될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "여행하기 위한 가장 값싼 방식 중의 하나는 단지 자동차에"
+    },
+    {
+      "type": "instruction",
+      "text": "텐트를 싣고 길을 가면서 캠핑하는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국의 국립공원 중의 하나로의 캠핑 여행은"
+    },
+    {
+      "type": "instruction",
+      "text": "값쌀 뿐 아니라 릴랙스도 되고 알려주기도 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "길을 가면서 캠핑하고 여행이 끝날 때 안락한 휴양지에서 일주일 정도를 보내기를 단지 원하는"
+    },
+    {
+      "type": "instruction",
+      "text": "여행자들을 위하여 대부분의 주들은 자동차 운전자들을 위한 매력있는 노변 캠핑장을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 노변 공원들은 야간 캠핑을 위한 수도 및 시설들을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d221-1.htm",
+  "legacyEncoding": "utf-8"
+}

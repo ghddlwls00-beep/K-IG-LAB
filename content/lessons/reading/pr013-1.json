@@ -1,0 +1,111 @@
+{
+  "id": "pr013-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr013",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 013-1 ]",
+  "menuLabel": "[ pr013-1 ]",
+  "unit": 13,
+  "part": null,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/reading/pr013.mp3",
+      "legacySrc": "sounds/pr013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 013-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Person (A) 일반적으로 사람들은 자신에게 능숙한 일을 좋아하기 때문에 나는 아이들"
+    },
+    {
+      "type": "instruction",
+      "text": "에게 그들이 뛰어난 분야에 집중하라고 말한다. 이러한 목적으로 우리는 초등학교 마"
+    },
+    {
+      "type": "instruction",
+      "text": "지막 학년 동안 다양한 교과 영역에서 아이들의 적성을 테스트해야 한다. 예를 들어,"
+    },
+    {
+      "type": "instruction",
+      "text": "한 아이가 과학에서 좋은 점수를 받으면 그 아이는 과학을 전문적으로 공부하는 중학"
+    },
+    {
+      "type": "instruction",
+      "text": "교와 고등학교에 진학할 것이다. 그러한 체제는 학생들에게 대학에서의 심화된 전공"
+    },
+    {
+      "type": "instruction",
+      "text": "공부뿐만 아니라 고등학교 졸업 후의 취업을 준비시킬 것이다. 사람들이 다른 관심 분"
+    },
+    {
+      "type": "instruction",
+      "text": "야를 추구할 시간은 세상을 사는 동안 충분히 있다. 재학기간은 학생들이 자신들의 강"
+    },
+    {
+      "type": "instruction",
+      "text": "점을 발전시킬 기간이어야 하는데, 그 이유는 오늘날의 세계가 만능인이 아닌 전문인"
+    },
+    {
+      "type": "instruction",
+      "text": "을 요구하기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "Person (B) 나는 우리 아이들의 인생행로를 11~12세에 치러지는 적성 검사의 결과에"
+    },
+    {
+      "type": "instruction",
+      "text": "따라 결정하는 것이 아주 부당하다고 생각한다. 아이들이 6학년 때 재능을 보인다고 여"
+    },
+    {
+      "type": "instruction",
+      "text": "겨지는 분야는 고등학교 마지막 학년을 마칠 때 뛰어남을 보이는 분야와 같이 않을 수"
+    },
+    {
+      "type": "instruction",
+      "text": "있다. 중고등학교는 시야를 제한할 시기가 아니라 확대할 시기이어야 한다. 학생들에"
+    },
+    {
+      "type": "instruction",
+      "text": "게 요구받아야 할 유일한 일은 중고등학교 재학 동안 내내 폭넓은 범위의 교과를 공부"
+    },
+    {
+      "type": "instruction",
+      "text": "하는 것이다. 고등학교 과정을 끝마칠 무렵에 그들은 대학에서 공부하고 싶은 분야에"
+    },
+    {
+      "type": "instruction",
+      "text": "대해 보다 잘 알게 될 것이다. 전문화된 공부를 할 기간은 대학과 대학원 재학 기간이"
+    },
+    {
+      "type": "instruction",
+      "text": "지 그 이전 기간이 아니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr013-1.htm",
+  "legacyEncoding": "utf-8"
+}

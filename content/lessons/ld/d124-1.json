@@ -1,0 +1,75 @@
+{
+  "id": "d124-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d124",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 124 회 ]",
+  "menuLabel": "[ D 124-1 ]",
+  "unit": 124,
+  "part": null,
+  "order": 247,
+  "audio": [
+    {
+      "src": "/audio/ld/d124.mp3",
+      "legacySrc": "sounds/d124.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 124 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "지구에는 인구가 필요로 하는 것보다 더 많은 담수가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "불행히도 이 물의 많은 것은 종종 얻기 어렵다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 많은 것이 적절한 때에 적절한 장소에 있지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "종종 한 장소에는 너무 많은 물이 있고 다른 곳에는 충분한 물이 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계의 대부분의 부분에서는 농업, 공업, 가정 사용을 위한 충분한 물을 제공하기"
+    },
+    {
+      "type": "instruction",
+      "text": "위하여 물공급이 주의깊게 관리되어져야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "물은 하늘로부터 떨어지며 무료이다. 그러나 그것을 관리하는 것은 대단히 비쌀 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d124-1.htm",
+  "legacyEncoding": "utf-8"
+}

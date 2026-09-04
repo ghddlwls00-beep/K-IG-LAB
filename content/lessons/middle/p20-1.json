@@ -1,0 +1,159 @@
+{
+  "id": "p20-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p20",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle20-1]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": null,
+  "order": 195,
+  "audio": [
+    {
+      "src": "/audio/middle/p20.mp3",
+      "legacySrc": "sounds/p20.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle20-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "20과 유명한 장소"
+    },
+    {
+      "type": "instruction",
+      "text": "한국 땅은 중국과 일본 사이에 위치한 반도이고"
+    },
+    {
+      "type": "instruction",
+      "text": "삼면이 바다로 둘러싸여 있습니다: 동해, 서해(황해), 그리고 남해 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 지질학적 경치는 아름답고 방문할 만한"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 훌륭한 장소들로 가득 차 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 나라는 자연적, 역사적, 그리고 때때로는 사람에 의해 만들어진"
+    },
+    {
+      "type": "instruction",
+      "text": "방문할만한 많은 매력적인 장소들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 장소들은 불국사, 속리산 국립공원, 그리고 독립기념관등을"
+    },
+    {
+      "type": "instruction",
+      "text": "포함하고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "방문할만한 매우 흥미 있는 한 장소는 한국민속촌은"
+    },
+    {
+      "type": "instruction",
+      "text": "수도인 서울에서 그다지 멀지 않은 경기도 수원시에 위치해 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "당신이 그곳을 방문할 때에, 전통결혼식을 볼 수 있고,"
+    },
+    {
+      "type": "instruction",
+      "text": "다양한 전통음식을 맛볼 수 있고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 한국인들이 고대시대 동안 어떻게 살았는지도 관찰할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그곳은 많은 외국 방문객들에게 매우 유명한 관광지 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 매력적인 행선지는 경주 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "경주는 신라왕국의 오래된 수도 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "신라 왕국은 8세기에 가장 강력했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 경주는 벽이 없는 박물관이라고 생각합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "한국인들은 신라왕조의 많은 오래된 유물들을 가지고 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 이렇게 부릅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "어쩌면 한국의 가장 유명한 자연의 경이는 제주라고 불리는 섬입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "제주도는 휴가를 보내기에 내가 가장 좋아하는 장소입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그곳에서 할 수 있는 많은 재미있는 것들과"
+    },
+    {
+      "type": "instruction",
+      "text": "방문할만한 많은 아름다운 장소들이 많이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 한라산에 가는 것을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 제주도 중간에 있으며 매우 높습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "한라산은 남한에서 가장 높은 산이고"
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 높이는 이천 미터 입니다. (약 6500피트)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p20-1.htm",
+  "legacyEncoding": "utf-8"
+}

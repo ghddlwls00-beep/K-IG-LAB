@@ -1,0 +1,67 @@
+{
+  "id": "pr163",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 163 ]",
+  "menuLabel": "[ pr163 ]",
+  "unit": 163,
+  "part": null,
+  "order": 324,
+  "audio": [
+    {
+      "src": "/audio/reading/pr163.mp3",
+      "legacySrc": "sounds/pr163.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 163 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The books you read for pleasure can be read in a state of relaxation,"
+    },
+    {
+      "type": "hints",
+      "text": "and nothing is lost. But a great book, a book that raises and tries to"
+    },
+    {
+      "type": "instruction",
+      "text": "answer great fundamental questions, demands the most active reading of"
+    },
+    {
+      "type": "instruction",
+      "text": "which you are capable. You don’t absorb the ideas of a great thinker the"
+    },
+    {
+      "type": "instruction",
+      "text": "way you absorb the crooning of a popular singer. You have to reach for"
+    },
+    {
+      "type": "instruction",
+      "text": "them. You cannot do that while you are asleep."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr163.htm",
+  "legacyEncoding": "utf-8"
+}

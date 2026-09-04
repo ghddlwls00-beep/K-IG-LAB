@@ -1,0 +1,47 @@
+{
+  "id": "pr144",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 144 ]",
+  "menuLabel": "[ pr144 ]",
+  "unit": 144,
+  "part": null,
+  "order": 286,
+  "audio": [
+    {
+      "src": "/audio/reading/pr144.mp3",
+      "legacySrc": "sounds/pr144.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 144 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Crowding stresses us. The more crowded we feel, the more stressed we get. Work stresses us, too. Workers in manufacturing jobs are likely to suffer serious health problems as a result of the noise, or the stress of being paced by mechanical requirements of the assembly line. The amount of work involved, however, does not necessarily determine the level of stress. Air traffic controllers, for instance, report that the long stretches of doing relatively little are at least as stressful as the times when they are handling many aircraft in the sky."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr144.htm",
+  "legacyEncoding": "utf-8"
+}

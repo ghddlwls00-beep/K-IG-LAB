@@ -1,0 +1,87 @@
+{
+  "id": "p113",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 113 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 120,
+  "audio": [
+    {
+      "src": "/audio/middle/p113.mp3",
+      "legacySrc": "sounds/p113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 113 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Sunday)"
+    },
+    {
+      "type": "hints",
+      "text": "There are many religions in Korea. My family and I are Christians."
+    },
+    {
+      "type": "instruction",
+      "text": "We go to church every Sunday. I also have many friends at church."
+    },
+    {
+      "type": "instruction",
+      "text": "Others believe in Buddha."
+    },
+    {
+      "type": "instruction",
+      "text": "Buddhists usually just go on special days of the year to the temple."
+    },
+    {
+      "type": "instruction",
+      "text": "Others go on trips with their families to the countryside, seaside,"
+    },
+    {
+      "type": "instruction",
+      "text": "or amusement park."
+    },
+    {
+      "type": "instruction",
+      "text": "On Sundays, some people either like to go shopping with friends"
+    },
+    {
+      "type": "instruction",
+      "text": "or spend their time watching TV or playing computer games."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes if I have a test coming up the following week,"
+    },
+    {
+      "type": "instruction",
+      "text": "I have to study all weekend long."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p113.htm",
+  "legacyEncoding": "utf-8"
+}

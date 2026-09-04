@@ -1,0 +1,87 @@
+{
+  "id": "d134-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d134",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 134 회 ]",
+  "menuLabel": "[ D 134-1 ]",
+  "unit": 134,
+  "part": null,
+  "order": 267,
+  "audio": [
+    {
+      "src": "/audio/ld/d134.mp3",
+      "legacySrc": "sounds/d134.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 134 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 얼마나 많은 여행 가방을 가져갈지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 기차와 배에서 우리가 원하는 대로 얼마든지 많은 여행 가방을 가져갈 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 차로 여행하고 비행기로 집에 올 때 우리는 문제를 갖게 될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 비행기에서 일인당 44 파운드만을 가질 수 있고 그것은 별로 많지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내가 우리가 무엇을 가져가야 하는지 결정할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 각각의 여행 가방에 많은 것을 집어넣을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 모든 무거운 것들을 먼저 여행 가방에 넣고 그런 다음 더 가벼운 것들을 집어넣는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 네모난 것을 모퉁이에 넣고 둥근 것을 가운데 넣는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 짐을 매우 잘 싼다. 나의 형은 아무 문제없다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 어디에 가든지 단지 하나의 작은 여행 가방만 가져가고 언제가 그가 필요로 하는 모든 것을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d134-1.htm",
+  "legacyEncoding": "utf-8"
+}

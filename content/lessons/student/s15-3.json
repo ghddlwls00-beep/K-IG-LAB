@@ -1,0 +1,413 @@
+{
+  "id": "s15-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s15-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 3,
+  "order": 67,
+  "audio": [
+    {
+      "src": "/audio/student/s15-3-1.mp3",
+      "legacySrc": "s15-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-2.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-3.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-4.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-5.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-6.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-7.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-8.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-9.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-10.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-11.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-12.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-13.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-14.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-15.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-16.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-17.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-18.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-19.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-20.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-21.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-22.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-23.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s15-3-24.mp3",
+      "legacySrc": "s15-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "By working hard and sticking to his plan he was able to bring the Korean team to the semi-finals during the 2002 World Cup.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In short, Coach Hiddink proved that he could succeed despite Korea’s lack of confidence in his abilities.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He always emphasized that in order to be good players, they must start from the basics.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In spite of the lack of confidence in him by many Korean people, he never lost his confidence.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그에게 있어서 많은 한국 사람들의 신뢰가 부족했음에도 불구하고, 그는 결코 그의 자신감을 잃어버리지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 좋은 선수들이 되기 위해서는 기초부터 시작해야 한다고 강조했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "열심히 하고 그의 계획을 충실히 행함으로써 그는 2002년 월드컵 동안 한국팀을 준결승까지 진출시킬 수 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한마디로 말하자면, 히딩크 감독은 그의 능력에 대한 한국사람들의 신뢰가 부족함에도 불구하고 그가 성공할 수 있다는 것을 증명했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "신뢰의 부족에도 불구하고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "신뢰의 부족에도 불구하고In spite of the lack of confidence",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그에 대한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그에 대한 in him",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 한국인들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 한국인들이 by many Korean people,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 결코 자신감을 잃어버리지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 결코 자신감을 잃어버리지 않았습니다. he never lost his confidence.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 강조했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 강조했습니다.He always emphasized that",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/좋은 선수가 되기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/좋은 선수가 되기 위해서 in order to be good players,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그들은 시작해야만 한다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그들은 시작해야만 한다고 they must start",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/기초에서 부터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/기초에서 부터 from the basics.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "열심히 하고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "열심히 하고By working hard",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 계획을 충실히 따름으로써",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 계획을 충실히 따름으로써 and sticking to his plan",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 데려갈 수 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 데려갈 수 있었습니다. he was able to bring",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국팀을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국팀을the Korean team",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 준결승까지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 준결승까지 to the semi-finals",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 2002년 월드컵동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 2002년 월드컵동안 during the 2002 World Cup.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "요약하자면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "요약하자면In short,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 히딩크 감독은 증명했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 히딩크 감독은 증명했습니다. Coach Hiddink proved that",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가 성공할 수 있었다는 것을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가 성공할 수 있었다는 것을 he could succeed",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국의 부족한 신뢰에도 불구하고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국의 부족한 신뢰에도 불구하고 despite Korea's lack of confidence",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 능력에 대한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 능력에 대한 in his abilities.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whom Do I Admire? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why Do I Admire Him?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s15-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s15-3.swf"
+  ]
+}

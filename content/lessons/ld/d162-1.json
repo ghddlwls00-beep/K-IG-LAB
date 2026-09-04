@@ -1,0 +1,91 @@
+{
+  "id": "d162-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d162",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 162 회 ]",
+  "menuLabel": "[ D 162-1 ]",
+  "unit": 162,
+  "part": null,
+  "order": 322,
+  "audio": [
+    {
+      "src": "/audio/ld/d162.mp3",
+      "legacySrc": "sounds/d162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 162 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국의 유모어 배우 윌 로저스는 “내가 아는 모든 것은 내가 신문에서 읽는 것이다.”라고 말하곤 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 유모어를 목적으로 한 과장이지만 신문이 중요한 정보원이라는 것은 사실이다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들은 신문을 읽음으로써 그들의 하루를 시작한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 방식으로 그들은 세상에서 무엇이 진행되고 있는지를 배운다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 때때로 그들은 그 뉴스를 주의깊게 읽을 시간이 없어서"
+    },
+    {
+      "type": "instruction",
+      "text": "일면을 빨리 보는 것으로 만족해야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 어떤 때는 너무나 급해서 머릿 기사를 흘낏 볼 시간 밖에 없을지도 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 독자를 만족시켜줄 신문들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "큰 도시들에서는 매일 몇 가지 다른 판이 있는 많은 유형의 신문들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "작은 마을들에서는 더 작은 신문들이 있고 어쩌면 매일 한 판 밖에 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 지역에서는 그 신문이 주례로 인쇄된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d162-1.htm",
+  "legacyEncoding": "utf-8"
+}

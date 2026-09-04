@@ -1,0 +1,47 @@
+{
+  "id": "pr220",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 220 ]",
+  "menuLabel": "[ pr220 ]",
+  "unit": 220,
+  "part": null,
+  "order": 438,
+  "audio": [
+    {
+      "src": "/audio/reading/pr220.mp3",
+      "legacySrc": "sounds/pr220.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 220 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A common belief is that if we find someone who likes to do the same things we do, then we will get along and we will be happy. Participating in activities together is a great start for relationships; however, I am sure you know people who like to do the same things but who don't get along. This is true with individuals who belong to the same social groups, companies, and teams, as well as other organizations. Obviously, it is not a common interest alone that creates harmonious relationships."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr220.htm",
+  "legacyEncoding": "utf-8"
+}

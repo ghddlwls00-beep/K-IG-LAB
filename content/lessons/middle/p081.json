@@ -1,0 +1,75 @@
+{
+  "id": "p081",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 081 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 1,
+  "order": 86,
+  "audio": [
+    {
+      "src": "/audio/middle/p081.mp3",
+      "legacySrc": "sounds/p081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 081 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(After School)"
+    },
+    {
+      "type": "hints",
+      "text": "When I come home after school,"
+    },
+    {
+      "type": "instruction",
+      "text": "my mother is always glad to see me."
+    },
+    {
+      "type": "instruction",
+      "text": "I say, \"Mom! I’m home,\" and then I take off my backpack and"
+    },
+    {
+      "type": "instruction",
+      "text": "wash my face and feet."
+    },
+    {
+      "type": "instruction",
+      "text": "My mom replies, \"How was your day?\""
+    },
+    {
+      "type": "instruction",
+      "text": "After I chat with my mom for a little while, I go to my room,"
+    },
+    {
+      "type": "instruction",
+      "text": "and I sometimes play on the computer."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p081.htm",
+  "legacyEncoding": "utf-8"
+}

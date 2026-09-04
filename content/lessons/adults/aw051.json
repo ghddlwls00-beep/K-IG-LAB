@@ -1,0 +1,71 @@
+{
+  "id": "aw051",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 051 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 1,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/adults/aw051.mp3",
+      "legacySrc": "sounds/aw051.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 051 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A Busy Morning"
+    },
+    {
+      "type": "hints",
+      "text": "Usually I wake up before my husband and child/children."
+    },
+    {
+      "type": "instruction",
+      "text": "I try to exercise every morning, but this is hard because I have other things to do."
+    },
+    {
+      "type": "instruction",
+      "text": "I exercise as much as I can."
+    },
+    {
+      "type": "instruction",
+      "text": "While my family is sleeping, I am busy in the kitchen preparing breakfast."
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish making breakfast, I wake up my husband and child/children, and I help them get ready for work and school."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, I often go to work without eating breakfast."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw051.htm",
+  "legacyEncoding": "utf-8"
+}

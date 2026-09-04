@@ -1,0 +1,87 @@
+{
+  "id": "p111-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p111",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 111-1 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 1,
+  "order": 117,
+  "audio": [
+    {
+      "src": "/audio/middle/p105.mp3",
+      "legacySrc": "sounds/p105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 111-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(토요일 오후)"
+    },
+    {
+      "type": "instruction",
+      "text": "주말은 나의 주 중에서 최고의 부분 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "토요일에, 우리는 아침에만 학교에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "일단 우리가 점심을 먹기 위해 집으로 돌아오면,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 그날 동안 자유입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 어떤 학원들에도 갈 필요가 없습니다!"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 보통 토요일에 나의 친구들과 함께 시간을 보냅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가끔씩 생일파티 같은 특별한 날이 있으면,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 토요일 오후에 축하를 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 이런 경우들에는 종종 노래방에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 또한 토요일에 컴퓨터를 하는데 많은 시간을 보냅니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p111-1.htm",
+  "legacyEncoding": "utf-8"
+}

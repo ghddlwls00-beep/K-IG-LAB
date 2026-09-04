@@ -1,0 +1,47 @@
+{
+  "id": "pr142",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 142 ]",
+  "menuLabel": "[ pr142 ]",
+  "unit": 142,
+  "part": null,
+  "order": 282,
+  "audio": [
+    {
+      "src": "/audio/reading/pr142.mp3",
+      "legacySrc": "sounds/pr142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 142 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "To keep a pleasant working environment, employers cannot allow certain kinds of behaviors such as arriving late or bothering others. These behaviors may weaken the group work environment and decrease productivity. So employers always consider teamwork when they judge a worker's performance. They look for employees who support each other, take pride in their work, and encourage a pleasant working environment. Respect, good manners, and thoughtful behaviors are keys to successful teamwork. In fact, working well with others is one of the most important job skills."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr142.htm",
+  "legacyEncoding": "utf-8"
+}

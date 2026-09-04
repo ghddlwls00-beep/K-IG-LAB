@@ -1,0 +1,155 @@
+{
+  "id": "p04-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p04",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle04-1]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": null,
+  "order": 41,
+  "audio": [
+    {
+      "src": "/audio/middle/p04.mp3",
+      "legacySrc": "sounds/p04.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle04-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "4과 친척들"
+    },
+    {
+      "type": "instruction",
+      "text": "당신에게 저의 친척을 소개하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지와 어머니가 많은 남자형제와 여자형제가 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 많은 친척들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 두 명의 남자형제와 두 명의 여자형제가 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니 또한 두 명의 남자형제와 두 명의 여자형제가 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 둘째 아들 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 할아버지할머니는 나의 큰아버지와 함께 살고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 고모와 큰 아빠들은 우리 집 가까이에 살고 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 자주 그들에게 가거나 방문합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니는 그녀의 가족가운데 제일 막내입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 오빠가2명 있고, 여동생이2명 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 외삼촌들과 이모들은 모두 결혼을 했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 저도 또한 많은 사촌들이 있습니다. 할"
+    },
+    {
+      "type": "instruction",
+      "text": "머니께서 몇 년 전에 돌아가셨기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 할머니는 나의 어머니의 가장 큰 오빠와 살고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 좋아하는 친척은 나의 가장 나이 많은 삼촌 길동입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 마을의 다른 쪽에 살고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 나의 가족은 그를 한 달에 두 번 방문합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 함께 모였을 때 우리는 종종 저녁 먹으러 밖으로 나갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 나이 많은 삼촌은 많은 기술과 재능을 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 차를 고칠 수 있고 축구를 매우 잘합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 모든 종류의 스포츠를 할 수 있고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 피아노와 기타를 꽤 잘 칩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매우 관대하고, 친절한 사람입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 그를 방문 할 때 그는 항상 저에게 캔디를 주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 영어를 아주 유창하게 말 할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 나는 그를 정말 많이 존경합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p04-1.htm",
+  "legacyEncoding": "utf-8"
+}

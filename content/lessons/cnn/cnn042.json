@@ -1,0 +1,214 @@
+{
+  "id": "cnn042",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "I Think He’s Losing Consciousness*.",
+  "label": "I Think He’s Losing Consciousness*.",
+  "menuLabel": "[ CNN 42 ]",
+  "unit": 42,
+  "part": null,
+  "order": 41,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn042.mp4",
+      "legacySrc": "CNN/CNN1-60/42.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "I Think He’s Losing Consciousness*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Hello, 9-1-1? My husband fell off a ladder and hit his head.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: We’ll get the paramedics there right away.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: All right. Please hurry. I think he’s losing consciousness.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Is there any bleeding?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Not too much.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Is your husband breathing?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Yes, but barely.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Don’t move him. There may be neck injuries also. Try to keep the neck and head still.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Do you have my address?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Yes, we tracked it from your call. The paramedics should be there any minute. I’ll stay on the line with you until they arrive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그이가 의식을 잃고 있는 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 여보세요, 911입니까? 제 남편이 사다리에서 떨어져서 머리를 부딪쳤어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 곧 그곳으로 응급구조원들을 출동시키겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 알겠습니다. 빨리 와주세요. 그이가 의식을 잃고 있는 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 출혈이 있습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 많지는 않아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 남편 분이 숨은 쉬고 있죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 네, 하지만 간신히요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 남편을 옮기지 마세요. 목에 부상을 입었을지도 모르니까요. 가급적 목과 머리 부분을 움직이지 않도록 하세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 우리 주소는 아세요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 네, 거신 전화에서 전화번호를 추적해 알고 있습니다. 구조원들이 금방 갈 겁니다. 그들이 도착할 때까지 저와 계속 통화하시죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. consciousness/ 의식",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. bleed/ 출혈하다, 피가 나다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. injury/ 부상, 상해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. still/ 움직이지 않는, 정지해 있는",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* lose (one’s) consciousness",
+          "text": "의식을 잃다"
+        },
+        {
+          "n": "1) fall off",
+          "text": "(분리되어) 떨어지다, 추락하다, 낙하하다"
+        },
+        {
+          "n": "2) ladder",
+          "text": "사닥다리"
+        },
+        {
+          "n": "3) hit one’s head",
+          "text": "…의 머리가 부딪치다"
+        },
+        {
+          "n": "4) paramedic",
+          "text": "응급구조원, 구급의료사, 진료보조원"
+        },
+        {
+          "n": "5) bleeding",
+          "text": "출혈, 유혈"
+        },
+        {
+          "n": "6) breathing",
+          "text": "숨을 쉬고 있는; 살아 있는"
+        },
+        {
+          "n": "7) barely",
+          "text": "간신히, 겨우"
+        },
+        {
+          "n": "8) move",
+          "text": "옮기다, 이동시키다, 움직이다"
+        },
+        {
+          "n": "9) neck injury",
+          "text": "목 부상"
+        },
+        {
+          "n": "10) keep A still",
+          "text": "A가 움직이지 않게 유지하다"
+        },
+        {
+          "n": "11) track",
+          "text": "…의 뒤를 쫓다, 추적하다(trace)"
+        },
+        {
+          "n": "12) (at) any minute[moment]",
+          "text": "지금 당장에라도, 언제라도"
+        },
+        {
+          "n": "13) stay on the line",
+          "text": "전화를 끊지 않고 기다리다(not hang up)"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/42.wmv",
+  "legacyEncoding": "binary"
+}

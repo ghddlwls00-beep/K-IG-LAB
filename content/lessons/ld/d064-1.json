@@ -1,0 +1,71 @@
+{
+  "id": "d064-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d064",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 064회 ]",
+  "menuLabel": "[ D 064-1 ]",
+  "unit": 64,
+  "part": null,
+  "order": 127,
+  "audio": [
+    {
+      "src": "/audio/ld/d064.mp3",
+      "legacySrc": "sounds/d064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 064회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "사회적이 관습과 행동 방식은 변한다. 많은 해 전에 실례라고 여겨졌던 것들이 지금은 용납된다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 년 전만해도 남자가 길에서 담배피는 것은 무례한 행위로 여겨졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "자신에 대하여 신사라고 여기는 어떤 사람도 숙녀가 방안에 있을 때 담배를 피워서 자기 자신을 바보로 만 들려고 하지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "관습은 또 나라마다 다르다. 당신의 나라에서는 남자가 여자의 왼쪽에서 걷나 오른 쪽에서 걷나?"
+    },
+    {
+      "type": "instruction",
+      "text": "혹은 그것은 상관없나? 식탁 예절은 어떤가? 먹고 있을 때 양손을 써야 하나?"
+    },
+    {
+      "type": "instruction",
+      "text": "한 손을 무릎에 혹은 탁자 위에 남겨두어야 하나?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d064-1.htm",
+  "legacyEncoding": "utf-8"
+}

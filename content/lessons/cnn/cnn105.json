@@ -1,0 +1,144 @@
+{
+  "id": "cnn105",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Candlelight Vigil Marks 20th Anniversary of Chernobyl Disaster",
+  "label": "Candlelight Vigil Marks 20th Anniversary of Chernobyl Disaster",
+  "menuLabel": "[ CNN 105 ]",
+  "unit": 105,
+  "part": null,
+  "order": 104,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn105.mp4",
+      "legacySrc": "CNN/CNN61-120/105.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Candlelight Vigil Marks 20th Anniversary of Chernobyl Disaster"
+    },
+    {
+      "type": "paragraph",
+      "text": "Across the world, and most especially in Ukraine, Belarus and Russia, people are marking the 20th anniversary of the Chernobyl nuclear disaster. Hundreds gathered to light candles at 12:23 AM local time, that’s the exact moment the Chernobyl reactor exploded 20 years ago. The world’s worst nuclear accident has affected many thousands of people, leaving even the survivors with both physical and psychological scars.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "체르노빌 참사 20주년 기리는 촛불 집회 열려",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세계 전역에서, 특히 우크라이나, 벨로루시, 러시아 지역에서 시민들이 체르노빌 원자력발전소 참사 발생 20주년을 기념했습니다. 수백명의 사람들이 현지 시각으로 새벽 12시 23분, 20년 전 체르노빌 원자로가 폭발한 바로 그 시각에 모여 촛불을 밝혔습니다. 사상 최악의 원자력발전소 폭발 사고로 수많은 희생자가 발생했고, 생존자 역시 육체 및 정신적인 상처를 안고 살아가고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘체르노빌’의 영어 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Belarus[벨러러ㅆ], Russia[라씨아]도 주의깊게 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "발음의 편리상 -ing의 [g]가 거의 발음되지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "living으로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Chernobyl",
+          "text": "[치노블]."
+        },
+        {
+          "n": "Ukraine",
+          "text": "[유크레인],"
+        },
+        {
+          "n": "leaving",
+          "text": "[리빈]."
+        },
+        {
+          "n": "candlelight vigil",
+          "text": "촛불 철야 집회"
+        },
+        {
+          "n": "mark",
+          "text": "…을 기록하다, 표시하다"
+        },
+        {
+          "n": "Chernobyl (nuclear) disaster",
+          "text": "체르노빌(원자력발전소) 참사: 1986년4월26일 우크라이나의 키예프 남쪽130 km에 있는 체르노빌 원자력발전소 제4호 원자로에서 방사능이 누출되었던 세계 최대의 참사"
+        },
+        {
+          "n": "across the world",
+          "text": "세계전역에서"
+        },
+        {
+          "n": "Ukraine",
+          "text": "우크라이나: 흑해(黑海) 북쪽에 위치한 독립 국가 연합의 한 공화국"
+        },
+        {
+          "n": "Belarus",
+          "text": "벨로루시: 러시아와 폴란드 사이에 위치한 공화국으로 1991년에 독립했다."
+        },
+        {
+          "n": "gather",
+          "text": "모이다, 집합하다"
+        },
+        {
+          "n": "light candles",
+          "text": "촛불을 켜다[밝히다]"
+        },
+        {
+          "n": "local time",
+          "text": "현지 시각"
+        },
+        {
+          "n": "reactor",
+          "text": "{물리}원자로"
+        },
+        {
+          "n": "explode",
+          "text": "폭발하다"
+        },
+        {
+          "n": "affect",
+          "text": "…에 영향을 미치다"
+        },
+        {
+          "n": "survivor",
+          "text": "생존자"
+        },
+        {
+          "n": "physical",
+          "text": "신체적인"
+        },
+        {
+          "n": "psychological",
+          "text": "심리[정신]적인"
+        },
+        {
+          "n": "scar",
+          "text": "상처"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/105.wmv",
+  "legacyEncoding": "binary"
+}

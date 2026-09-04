@@ -1,0 +1,63 @@
+{
+  "id": "am051",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 051 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 1,
+  "order": 53,
+  "audio": [
+    {
+      "src": "/audio/adults/am051.mp3",
+      "legacySrc": "sounds/am051.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 051 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Before I Go to Work"
+    },
+    {
+      "type": "hints",
+      "text": "Usually I sleep late, so it is very hard for me to get up."
+    },
+    {
+      "type": "instruction",
+      "text": "I strive to exercise every morning, but it is hard because I don’t get up on time."
+    },
+    {
+      "type": "instruction",
+      "text": "I exercise as much as I can."
+    },
+    {
+      "type": "instruction",
+      "text": "I often go to work without eating breakfast."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am051.htm",
+  "legacyEncoding": "utf-8"
+}

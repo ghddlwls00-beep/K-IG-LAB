@@ -1,0 +1,91 @@
+{
+  "id": "p182",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 182 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 2,
+  "order": 180,
+  "audio": [
+    {
+      "src": "/audio/middle/p182.mp3",
+      "legacySrc": "sounds/p182.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 182 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Lunar New Year's Day)"
+    },
+    {
+      "type": "hints",
+      "text": "The first big holiday is Lunar New Year’s also known as seol-lal."
+    },
+    {
+      "type": "instruction",
+      "text": "The most important Lunar New Year custom is the ancestral"
+    },
+    {
+      "type": "instruction",
+      "text": "memorial ceremony."
+    },
+    {
+      "type": "instruction",
+      "text": "Each member of the family gets up early in the morning"
+    },
+    {
+      "type": "instruction",
+      "text": "and dresses in their best clothes."
+    },
+    {
+      "type": "instruction",
+      "text": "Afterwards, we perform a ritual ceremony in honor of our ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "Following the ceremony, the younger people bow to their elders"
+    },
+    {
+      "type": "instruction",
+      "text": "as a gesture of wishing everyone many new blessings"
+    },
+    {
+      "type": "instruction",
+      "text": "during the upcoming new year."
+    },
+    {
+      "type": "instruction",
+      "text": "To bow on the Lunar New Year is a special honor"
+    },
+    {
+      "type": "instruction",
+      "text": "and privilege of showing respect to one’s elders."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p182.htm",
+  "legacyEncoding": "utf-8"
+}

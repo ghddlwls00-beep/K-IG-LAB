@@ -1,0 +1,63 @@
+{
+  "id": "aw181",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 181 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 1,
+  "order": 177,
+  "audio": [
+    {
+      "src": "/audio/adults/aw181.mp3",
+      "legacySrc": "sounds/aw181.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 181 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An Introduction to the Traditional Holidays of Korea"
+    },
+    {
+      "type": "hints",
+      "text": "What is a holiday? Holidays are special times (of the year) when families get together and celebrate."
+    },
+    {
+      "type": "instruction",
+      "text": "Many holidays are known worldwide such as New Year’s Day and Christmas, but most holidays are celebrated by certain cultures."
+    },
+    {
+      "type": "instruction",
+      "text": "These kinds of holidays are called traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "Korea has many traditional holidays, but the two largest ones are Lunar New Year’s and Chuseok."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw181.htm",
+  "legacyEncoding": "utf-8"
+}

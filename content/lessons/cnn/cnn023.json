@@ -1,0 +1,149 @@
+{
+  "id": "cnn023",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Sydney Race Violence Rages on",
+  "label": "Sydney Race Violence Rages on",
+  "menuLabel": "[ CNN 23 ]",
+  "unit": 23,
+  "part": null,
+  "order": 22,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn023.mp4",
+      "legacySrc": "CNN/CNN1-60/23.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sydney Race Violence Rages on"
+    },
+    {
+      "type": "paragraph",
+      "text": "Australian police are warning people away from the beaches in Sydney suburbs. The New South Wales police commissioner says new information points to plans of fresh violence this weekend. Tit for tat racial clashes between whites and Middle Eastern rioters began on Sunday and continued for two nights. Since then, mobile phone text messages have been circulating calling for more clashes next Sunday. Lawmakers in Australia have passed emergency measures giving police extra powers to crack down on race violence.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "시드니, 인종 폭력 사태 계속돼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "호주 경찰은 주민들에게 시드니 외곽 해변지역에 접근하지 말라고 경고하고 있습니다. 뉴사우 스웨일스 경찰청장은 이번 주말 새로운 폭력사태가 계획되어 있다는 최신 정보를 입수했다고 밝혔습니다. 백인과 중동계 과격 시위자들간의 보복성 인종 충돌 사태가 지난 일요일 발생하여, 이틀 밤 동안 계속됐습니다. 그 후로, 다음 주 일요일 더 많은 폭력사태를 선동하는 휴대전화 문자 메시지가 유포되고 있습니다. 호주 국회의원들은 인종간 폭력사태에 엄중 대처할 수 있도록 경찰에게 특별 수사권을 부여하는 긴급 조치안을 통과시켰습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-mm-으로 m이 두번 겹쳐 나오지만 [컴미셔너]가 아니라 [커미셔너]라고 발음한다. 그런데 여기서는 앵커가 빠르게 발음해 -er이 탈락되었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "단어의 끝자음에 우리말의 [으]를 넣어 발음하지 않고, 앞모음의 받침으로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앵커가 영국식 발음을 약간 가미해 [아이어]의 삼중모음을 단모음으로 발음하고 있다. 뒤에 나오는 powers도 모음 [아우어]를 단모음으로 [파-아ㅈ]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "text의 끝자음 [st]를 탈락시켜 발음해 tag와 혼동할 수 있다. message는 1음절에 강세가 있는 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. text message/ (휴대전화로 주고 받는) 문자 메시지",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "commissioner",
+          "text": "[커미슨]."
+        },
+        {
+          "n": "Tit for tat",
+          "text": "[팃포텟]."
+        },
+        {
+          "n": "rioters",
+          "text": "[롸-러ㅈ]."
+        },
+        {
+          "n": "text messages",
+          "text": "[텍 메씨쥐ㅅ]."
+        },
+        {
+          "n": "race violence",
+          "text": "인종간 폭력(사태)"
+        },
+        {
+          "n": "rage on",
+          "text": "계속 맹위를 떨치다 [극성을 떨다]"
+        },
+        {
+          "n": "warn A away from B",
+          "text": "A에게 B에 접근하지 말라고 경고하다"
+        },
+        {
+          "n": "suburbs",
+          "text": "((집합적)) 교외 (지역), 근교"
+        },
+        {
+          "n": "New South Wales",
+          "text": "뉴사우스웨일스: 호주 동남부의 주로 주도는 시드니"
+        },
+        {
+          "n": "police commissioner",
+          "text": "경찰청장, 경찰국장"
+        },
+        {
+          "n": "point to",
+          "text": "…을 지시하다, 암시하다"
+        },
+        {
+          "n": "tit for tat",
+          "text": "맞대응, 되갚기, 앙갚음"
+        },
+        {
+          "n": "clash",
+          "text": "충돌, 알력, 대립"
+        },
+        {
+          "n": "rioter",
+          "text": "폭도; 난봉꾼"
+        },
+        {
+          "n": "mobile phone text message",
+          "text": "휴대 전화 문자 메시지"
+        },
+        {
+          "n": "circulate",
+          "text": "(소문이) 유포되다, 퍼지다, 돌다"
+        },
+        {
+          "n": "call for",
+          "text": "…을 요구하다 [필요로 하다]"
+        },
+        {
+          "n": "emergency measures",
+          "text": "긴급조치, 응급 수단"
+        },
+        {
+          "n": "crack down on",
+          "text": "…에 단호한 조치를 취하다, …을 엄히 다스리다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/23.wmv",
+  "legacyEncoding": "binary"
+}

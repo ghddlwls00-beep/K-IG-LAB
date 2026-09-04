@@ -1,0 +1,168 @@
+{
+  "id": "gh1-065",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 065]",
+  "menuLabel": "[ gh1-065 ]",
+  "unit": 65,
+  "part": null,
+  "order": 108,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-065.mp3",
+      "legacySrc": "sounds/gh1-065.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 065]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 7"
+    },
+    {
+      "type": "instruction",
+      "text": "ABCD로 나누어서 외워주세요."
+    },
+    {
+      "type": "instruction",
+      "text": "<B> 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "27",
+          "text": "Don't your parents have a dream (dreams)?"
+        },
+        {
+          "n": "28",
+          "text": "Doesn't your son have a dream (dreams)?"
+        },
+        {
+          "n": "29",
+          "text": "Doesn't your father love your mother?"
+        },
+        {
+          "n": "30",
+          "text": "Does your boss like it?"
+        },
+        {
+          "n": "31",
+          "text": "Didn't your mother like it?"
+        },
+        {
+          "n": "32",
+          "text": "Did your wife like it?"
+        },
+        {
+          "n": "33",
+          "text": "Does your husband have a dream?"
+        },
+        {
+          "n": "34",
+          "text": "Do your friends have a dream?"
+        },
+        {
+          "n": "35",
+          "text": "Doesn't your wife have a dream?"
+        },
+        {
+          "n": "36",
+          "text": "Does your mother know your boss?"
+        },
+        {
+          "n": "37",
+          "text": "Do the students have a dream?"
+        },
+        {
+          "n": "38",
+          "text": "Didn't your parents have a dream?"
+        },
+        {
+          "n": "39",
+          "text": "Why does he study English?"
+        },
+        {
+          "n": "40",
+          "text": "Is this book expensive?"
+        },
+        {
+          "n": "41",
+          "text": "Are these your books?"
+        },
+        {
+          "n": "42",
+          "text": "Why are they studying English?"
+        },
+        {
+          "n": "43",
+          "text": "Why was he studying English?"
+        },
+        {
+          "n": "44",
+          "text": "Why is your mother happy?"
+        },
+        {
+          "n": "45",
+          "text": "Why was your wife happy?"
+        },
+        {
+          "n": "46",
+          "text": "Why are you looking at her?"
+        },
+        {
+          "n": "47",
+          "text": "Why was she looking at me?"
+        },
+        {
+          "n": "48",
+          "text": "Why do you look at me?"
+        },
+        {
+          "n": "49",
+          "text": "Why is he running?"
+        },
+        {
+          "n": "50",
+          "text": "Are they(those) your sister's books?"
+        },
+        {
+          "n": "51",
+          "text": "Are these books expensive?"
+        },
+        {
+          "n": "52",
+          "text": "Isn't this car expensive?"
+        },
+        {
+          "n": "53",
+          "text": "Who studies English hard?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-065.htm",
+  "legacyEncoding": "utf-8"
+}

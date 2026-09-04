@@ -1,0 +1,159 @@
+{
+  "id": "p02",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle02]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 16,
+  "audio": [
+    {
+      "src": "/audio/middle/p02.mp3",
+      "legacySrc": "sounds/p02.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle02]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 2: Family Introduction"
+    },
+    {
+      "type": "hints",
+      "text": "Thank you for the chance to tell you about my family."
+    },
+    {
+      "type": "instruction",
+      "text": "Thank you for this opportunity to introduce my family."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a nice family."
+    },
+    {
+      "type": "instruction",
+      "text": "There are 4 people in my family: my father, my mother,my sister, and"
+    },
+    {
+      "type": "instruction",
+      "text": "myself."
+    },
+    {
+      "type": "instruction",
+      "text": "Someday, I would like to have one more brother or sister."
+    },
+    {
+      "type": "instruction",
+      "text": "My father works very hard at a small cell phone company."
+    },
+    {
+      "type": "instruction",
+      "text": "He has worked there for almost ten years."
+    },
+    {
+      "type": "instruction",
+      "text": "I think he is the hardest worker in his company."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother is a housewife."
+    },
+    {
+      "type": "instruction",
+      "text": "She had worked at a department store for several years."
+    },
+    {
+      "type": "instruction",
+      "text": "She is the best mother in the world. I really love my mother and father."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents always make my sister and I feel important and special."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents love each other."
+    },
+    {
+      "type": "instruction",
+      "text": "They always have been a good example for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My father is always helpful around the house."
+    },
+    {
+      "type": "instruction",
+      "text": "He often goes shopping with my mother. I look up to him."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother is a very good cook, and is still a beautiful woman."
+    },
+    {
+      "type": "instruction",
+      "text": "She looks younger than her age. I love my mother."
+    },
+    {
+      "type": "instruction",
+      "text": "My sister attends Han-guk Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "She is good at playing the piano,"
+    },
+    {
+      "type": "instruction",
+      "text": "and she is good at studying all kinds of subjects."
+    },
+    {
+      "type": "instruction",
+      "text": "I want her to be a good pianist. She is more talented than me."
+    },
+    {
+      "type": "instruction",
+      "text": "My sister likes all kinds of animals. In fact, she has a dog."
+    },
+    {
+      "type": "instruction",
+      "text": "She also loves to listen to music and talk to her friends on the phone."
+    },
+    {
+      "type": "instruction",
+      "text": "She is more talkative than my mother."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is always happy, and we are very close to one another,"
+    },
+    {
+      "type": "instruction",
+      "text": "which helps me really understand the importance of family."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p02.htm",
+  "legacyEncoding": "utf-8"
+}

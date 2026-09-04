@@ -1,0 +1,67 @@
+{
+  "id": "pr137-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr137",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 137-1 ]",
+  "menuLabel": "[ pr137-1 ]",
+  "unit": 137,
+  "part": null,
+  "order": 273,
+  "audio": [
+    {
+      "src": "/audio/reading/pr137.mp3",
+      "legacySrc": "sounds/pr137.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 137-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 젊은이들이 돈을 받지 않고 가난한 지역 사회의 사람들에게 읽고 쓰"
+    },
+    {
+      "type": "instruction",
+      "text": "는 방법과 그들의 물공급원을 돌보는 방법과 그들의 농장과 동물을 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "더 잘 돌보는 방법을 자원하여 가르친다. 그러므로 이전의 희망없는 지역사"
+    },
+    {
+      "type": "instruction",
+      "text": "회 회원들은 모든 것이 사라지지 않았다고 안다. 그들은 그들 스스로가 더"
+    },
+    {
+      "type": "instruction",
+      "text": "나은 미래를 만드는 것을 도울수 있다는 것을 깨달을 때 그들은 덜 낙담하"
+    },
+    {
+      "type": "instruction",
+      "text": "게된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr137-1.htm",
+  "legacyEncoding": "utf-8"
+}

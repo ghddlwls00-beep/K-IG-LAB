@@ -1,0 +1,204 @@
+{
+  "id": "gh1-121",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 121]",
+  "menuLabel": "[ gh1-121 ]",
+  "unit": 121,
+  "part": null,
+  "order": 181,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-121.mp3",
+      "legacySrc": "sounds/gh1-121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 121]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Create an important permanent memorial."
+        },
+        {
+          "n": "2",
+          "text": "Why don't you create a museum of freedom and remembrance?"
+        },
+        {
+          "n": "3",
+          "text": "He established an international design process."
+        },
+        {
+          "n": "4",
+          "text": "The company constructs(builds) the most moving memorial possible."
+        },
+        {
+          "n": "5",
+          "text": "Why does the Mayor outrage some groups?"
+        },
+        {
+          "n": "6",
+          "text": "Who appointed the 16-member panel?"
+        },
+        {
+          "n": "7",
+          "text": "It will handle(deal with) redevelopment."
+        },
+        {
+          "n": "8",
+          "text": "Where are the relatives of the victims?"
+        },
+        {
+          "n": "9",
+          "text": "Where is new evidence?"
+        },
+        {
+          "n": "10",
+          "text": "How did he get away?"
+        },
+        {
+          "n": "11",
+          "text": "Don't forget it."
+        },
+        {
+          "n": "12",
+          "text": "Are you a multi-millionaire?"
+        },
+        {
+          "n": "13",
+          "text": "We have many loyal viewers in Alaska."
+        },
+        {
+          "n": "14",
+          "text": "Does Alaska have a time zone, too?"
+        },
+        {
+          "n": "15",
+          "text": "They have many time zones, don't they?"
+        },
+        {
+          "n": "16",
+          "text": "We'll have more stories in just a moment."
+        },
+        {
+          "n": "17",
+          "text": "Secretary of State Collin Powell is returning home from his Mid East trip."
+        },
+        {
+          "n": "18",
+          "text": "There are mixed reviews about the progress."
+        },
+        {
+          "n": "19",
+          "text": "Why didn't Powell meet with Egyptian President Mubarak?"
+        },
+        {
+          "n": "20",
+          "text": "Why did Mubarak cancel the meeting?"
+        },
+        {
+          "n": "21",
+          "text": "(The) Palestinians and (the) Israelis must act."
+        },
+        {
+          "n": "22",
+          "text": "Why wasn't Powell's mission successful?"
+        },
+        {
+          "n": "23",
+          "text": "Why couldn't he persuade the Israelis?"
+        },
+        {
+          "n": "24",
+          "text": "When did Israelis end their military offensive against Palestinian lands?"
+        },
+        {
+          "n": "25",
+          "text": "What are insiders saying about the success of Powell's trip?"
+        },
+        {
+          "n": "26",
+          "text": "It's not about you."
+        },
+        {
+          "n": "27",
+          "text": "He has to send it to the judge."
+        },
+        {
+          "n": "28",
+          "text": "What does it say?"
+        },
+        {
+          "n": "29",
+          "text": "Do you really want to read it?"
+        },
+        {
+          "n": "30",
+          "text": "My father was an alcoholic."
+        },
+        {
+          "n": "31",
+          "text": "Does he wear his rings?"
+        },
+        {
+          "n": "32",
+          "text": "Why did you break up with her?"
+        },
+        {
+          "n": "33",
+          "text": "It's not your fault, is it?"
+        },
+        {
+          "n": "34",
+          "text": "Arabs and Israelis must make a choice."
+        },
+        {
+          "n": "35",
+          "text": "He addressed cadets."
+        },
+        {
+          "n": "36",
+          "text": "The responsibility for peace lies with Israel."
+        },
+        {
+          "n": "37",
+          "text": "Israel must continue its withdrawals."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-121.htm",
+  "legacyEncoding": "utf-8"
+}

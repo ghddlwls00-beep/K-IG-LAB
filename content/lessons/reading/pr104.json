@@ -1,0 +1,75 @@
+{
+  "id": "pr104",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 104 ]",
+  "menuLabel": "[ pr104 ]",
+  "unit": 104,
+  "part": null,
+  "order": 206,
+  "audio": [
+    {
+      "src": "/audio/reading/pr104.mp3",
+      "legacySrc": "sounds/pr104.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 104 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Mexico attracts different types of visitors."
+    },
+    {
+      "type": "hints",
+      "text": "One group is composed of artists. As admirers of the Mexican culture,"
+    },
+    {
+      "type": "instruction",
+      "text": "they want to be close to the subjects they are writing about or"
+    },
+    {
+      "type": "instruction",
+      "text": "painting. Another group consists of retirees who also need to live on"
+    },
+    {
+      "type": "instruction",
+      "text": "reduced incomes. They like the unhurried way of life with its long"
+    },
+    {
+      "type": "instruction",
+      "text": "afternoon nap and they enjoy the temperate climate. The third group is"
+    },
+    {
+      "type": "instruction",
+      "text": "attracted by the resort with its colorful night life. In Acapulco, they can"
+    },
+    {
+      "type": "instruction",
+      "text": "play all night, and swim in the warm ocean water."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr104.htm",
+  "legacyEncoding": "utf-8"
+}

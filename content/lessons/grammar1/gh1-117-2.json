@@ -1,0 +1,120 @@
+{
+  "id": "gh1-117-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-117",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 117-2]",
+  "menuLabel": "[ gh1-117-2 ]",
+  "unit": 117,
+  "part": null,
+  "order": 171,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-117-2.mp3",
+      "legacySrc": "sounds/gh1-117-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 117-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "20",
+          "text": "Are fighters hiding in eastern Afghanistan?"
+        },
+        {
+          "n": "21",
+          "text": "Aren't you seeing a clearer picture?"
+        },
+        {
+          "n": "22",
+          "text": "More than forty more were wounded, weren't they?"
+        },
+        {
+          "n": "23",
+          "text": "Are journalists covering the war in Afghanistan?."
+        },
+        {
+          "n": "24",
+          "text": "Didn't they receive a credible threat?"
+        },
+        {
+          "n": "25",
+          "text": "Non-Afghan journalists could be kidnapped, couldn't they?"
+        },
+        {
+          "n": "26",
+          "text": "Why did journalists immediately assess their security arrangements?"
+        },
+        {
+          "n": "27",
+          "text": "They were taking extra precautions, weren't they?"
+        },
+        {
+          "n": "28",
+          "text": "Isn't the threat their way of retaliating(retaliation)?"
+        },
+        {
+          "n": "29",
+          "text": "When did the remains of seven servicemen return home?"
+        },
+        {
+          "n": "30",
+          "text": "Didn't they arrive at the air force base?"
+        },
+        {
+          "n": "31",
+          "text": "The servicemen(soldiers) died in two separate incidents, didn't they?"
+        },
+        {
+          "n": "32",
+          "text": "Most were not killed in a fierce firefight with Taliban forces, were they?"
+        },
+        {
+          "n": "33",
+          "text": "How did the navy petty officer fall out of his helicopter?"
+        },
+        {
+          "n": "34",
+          "text": "Wasn't he then dragged away by Al Qaeda fighters?"
+        },
+        {
+          "n": "35",
+          "text": "Is the recovery effort destroying vital clues?"
+        },
+        {
+          "n": "36",
+          "text": "Isn't it looking for answers?"
+        },
+        {
+          "n": "37",
+          "text": "Why did the twin towers collapse?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-117-2.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr107-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr107",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 107-1 ]",
+  "menuLabel": "[ pr107-1 ]",
+  "unit": 107,
+  "part": null,
+  "order": 213,
+  "audio": [
+    {
+      "src": "/audio/reading/pr107.mp3",
+      "legacySrc": "sounds/pr107.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 107-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "잡지에는 기본적으로 두 가지 종류가 있다. 즉 뉴스 잡지와 특별한 관심사에 관한 잡지가 그것이다. 뉴스 잡지들은 신문과 잡지의 결합체이다. 대개의 잡지들은 매주 발간된다. 그 잡지들은 중요한 세계와 국가의 뉴스 이야기를 요약한다. 그 잡지들은 또한 많은 주제분야의 중요한 사건들을 보도한다. 특별한 관심사에 관한 잡지들은, 그 반대로, 한가지 특정한 주제를 주로 다룬다. 이런 종류의 잡지들은 보통 한 달에 한 번 발간된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr107-1.htm",
+  "legacyEncoding": "utf-8"
+}

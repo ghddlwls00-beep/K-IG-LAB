@@ -1,0 +1,91 @@
+{
+  "id": "d034-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d034",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 034 회 ]",
+  "menuLabel": "[ D 034-1 ]",
+  "unit": 34,
+  "part": null,
+  "order": 67,
+  "audio": [
+    {
+      "src": "/audio/ld/d034.mp3",
+      "legacySrc": "sounds/d034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 034 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들은 the French Quarter를 보러 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 그 도시를 건설한 그 불란서 사람들로부터 그 이름을 얻는다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 다른 방문객들은 좋은 재즈를 들으려 뉴올린즈로 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 도시의 음악가들은 1900년대 초에 재즈를 개발하는 것을 도왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 스포츠 행사, 전시회 및 대회가 the Louisiana Superdome에서 발생한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 세계 최대의 실내 경기장 혹은 스테디엄이다."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴 올린즈에는 백개 이상의 공원과 많은 유명한 식당들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계에서 가장 긴 다리인 the Lake Pontchartrain Causeway가 뉴 올린즈에 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 다리는 47km 이상의 길이이다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 많은 군중들이 퍼레이드와 축제를 곁들인 연례적인 Mardi Grass 축하를 위하여 뉴올린즈로 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴올린즈는 방문하거나 살기에 흥미있는 도시이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d034-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr114-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr114",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 114-1 ]",
+  "menuLabel": "[ pr114-1 ]",
+  "unit": 114,
+  "part": null,
+  "order": 227,
+  "audio": [
+    {
+      "src": "/audio/reading/pr114.mp3",
+      "legacySrc": "sounds/pr114.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 114-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "시민단체가 바람직한 사회변화를 야기하기 위해 노력하면, 긍정적 사회변화가 일어난다. 오늘날, 그런 단체들이 한때 정부가 행했던 많은 일을 떠맡을 수 있다. 소위 이런 비정부 조직들이 사회봉사 활동을 한다. 그들은 법률에서 의료에 이르기까지 다양한 분야에서 활동하고 있다. 그들은 정부가 국내외에서 하는 일을 감시하고 영향력을 행사한다. 게다가, 그들은 흔히 정부보다 일을 더 잘 수행한다. 그 이유는 그들은 모든 분야의 사람을 이용할 수 있기 때문이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr114-1.htm",
+  "legacyEncoding": "utf-8"
+}

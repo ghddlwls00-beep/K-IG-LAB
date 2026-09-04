@@ -1,0 +1,47 @@
+{
+  "id": "pr082",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 082 ]",
+  "menuLabel": "[ pr082 ]",
+  "unit": 82,
+  "part": null,
+  "order": 162,
+  "audio": [
+    {
+      "src": "/audio/reading/pr082.mp3",
+      "legacySrc": "sounds/pr082.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 082 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "You can see and feel exactly what this teenage girl is going through. I can remember feeling very frustrated and confused sometimes in my teens. I can also remember my emotions swing from one extreme to another. So, for example, I would get incredibly mad about something, usually something silly. Then I would get mad at myself about being so angry, and then get mad again about what made me angry. I seemed to have absolutely no control over these feelings."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr082.htm",
+  "legacyEncoding": "utf-8"
+}

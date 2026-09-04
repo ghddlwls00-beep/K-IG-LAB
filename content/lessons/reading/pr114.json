@@ -1,0 +1,75 @@
+{
+  "id": "pr114",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 114 ]",
+  "menuLabel": "[ pr114 ]",
+  "unit": 114,
+  "part": null,
+  "order": 226,
+  "audio": [
+    {
+      "src": "/audio/reading/pr114.mp3",
+      "legacySrc": "sounds/pr114.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 114 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Social change for the better happens when groups of citizens try to"
+    },
+    {
+      "type": "hints",
+      "text": "bring it about. Today, such groups can take on many tasks once"
+    },
+    {
+      "type": "instruction",
+      "text": "performed by governments. These so-called non-governmental"
+    },
+    {
+      "type": "instruction",
+      "text": "organizations deliver social services. They are active in various areas"
+    },
+    {
+      "type": "instruction",
+      "text": "from law to medicine. They watch and influence what government do at"
+    },
+    {
+      "type": "instruction",
+      "text": "home or abroad. What is more, they often work better than"
+    },
+    {
+      "type": "instruction",
+      "text": "governments. This is because they are able to use people from all walks"
+    },
+    {
+      "type": "instruction",
+      "text": "of life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr114.htm",
+  "legacyEncoding": "utf-8"
+}

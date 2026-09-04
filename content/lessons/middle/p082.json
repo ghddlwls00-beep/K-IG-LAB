@@ -1,0 +1,79 @@
+{
+  "id": "p082",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 082 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 2,
+  "order": 88,
+  "audio": [
+    {
+      "src": "/audio/middle/p082.mp3",
+      "legacySrc": "sounds/p082.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 082 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Doing Homework)"
+    },
+    {
+      "type": "hints",
+      "text": "After I play a little, I have to do all of my homework."
+    },
+    {
+      "type": "instruction",
+      "text": "If I can’t figureout my homework, I can always look on the Internet."
+    },
+    {
+      "type": "instruction",
+      "text": "I oftentimes find the answers to my assignments"
+    },
+    {
+      "type": "instruction",
+      "text": "on the World Wide Web."
+    },
+    {
+      "type": "instruction",
+      "text": "I get very tired quickly because I have to do homework"
+    },
+    {
+      "type": "instruction",
+      "text": "from both the academies and school."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though I am tired,"
+    },
+    {
+      "type": "instruction",
+      "text": "I keep studying because I enjoy learning new things."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p082.htm",
+  "legacyEncoding": "utf-8"
+}

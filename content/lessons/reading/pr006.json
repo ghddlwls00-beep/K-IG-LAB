@@ -1,0 +1,47 @@
+{
+  "id": "pr006",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 006 ]",
+  "menuLabel": "[ pr006 ]",
+  "unit": 6,
+  "part": null,
+  "order": 10,
+  "audio": [
+    {
+      "src": "/audio/reading/pr006.mp3",
+      "legacySrc": "sounds/pr006.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 006 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The term \"law,\" as used in the phrases \"a human law\" and \"a law of nature,\" has two different meanings. Human laws had been considered unchangeable in primitive times, but the Greek democracies made the discovery that a community could consciously make new laws or change old ones. This means that a human law is a set of rules that are valid only for a certain number of people over a certain period of time. The term \"law\" has a different meaning, however, when used to describe the regularities of nature."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr006.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d167-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d167",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 167 회 ]",
+  "menuLabel": "[ D 167-1 ]",
+  "unit": 167,
+  "part": null,
+  "order": 332,
+  "audio": [
+    {
+      "src": "/audio/ld/d167.mp3",
+      "legacySrc": "sounds/d167.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 167 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그녀를 만나기도 전에 그녀의 사진에 푹 빠졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 전기 작가들에 의하면 그의 부인이 트웨인의 나중의 작품에 큰 영향을 미쳤다."
+    },
+    {
+      "type": "instruction",
+      "text": "마크 퉤인은 또 매우 성공적인 연사였다."
+    },
+    {
+      "type": "instruction",
+      "text": "다양한 주제에 대한 연설을 하는 그 나라 전역의 그의 여행은 그를"
+    },
+    {
+      "type": "instruction",
+      "text": "유명하게 만드는데 도움이 되었고 그의 책의 매상도 올려주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Tom Sawyer와 Huckleberry Finn은 Twain의 최고의 작품으로 여겨진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 유머와 풍자가 특징이며 독자들에게 그의 시대의 훌륭한 모습을 제공해준다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 마지막 책은 그의 사망 일년 전인 1909년에 완성되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 당시 74세였다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d167-1.htm",
+  "legacyEncoding": "utf-8"
+}

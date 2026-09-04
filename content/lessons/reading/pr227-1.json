@@ -1,0 +1,47 @@
+{
+  "id": "pr227-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr227",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 227-1 ]",
+  "menuLabel": "[ pr227-1 ]",
+  "unit": 227,
+  "part": null,
+  "order": 453,
+  "audio": [
+    {
+      "src": "/audio/reading/pr227.mp3",
+      "legacySrc": "sounds/pr227.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 227-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 자신들을 따뜻하게 유지시키기 위해 담요를 이용하는데 익숙해져 있다. 그래서 그들은 어름을 차갑게 유지시키고 어름이 녹는 것을 방지하기 위해 사용되어지는 담요들을 보고 놀란다. 담요가 항상 뭔가를 따뜻하게 만들 것이라고 기대하기 때문에, 그들은 담요가 얼음도 당연히 따뜻하게 만들 것이라고 생각한다. 그러나 담요가 항상 하는 것(담요의 기본적 역할)은 열이 담요의 한 쪽으로부터 다른 한 쪽으로 통과해 가는 것을 막는 것이다. 따라서, 담요는 몸(물체)의 열이 그 것(그 물체)를 둘러싸고 있는 차가운 공기 안으로 흘러 들어가지 못하게 하고, 담요가 공기의 열이 차가운 얼음 속으로 들어오지 못하게 하는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr227-1.htm",
+  "legacyEncoding": "utf-8"
+}

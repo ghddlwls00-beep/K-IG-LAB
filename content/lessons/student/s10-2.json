@@ -1,0 +1,353 @@
+{
+  "id": "s10-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s10-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 2,
+  "order": 47,
+  "audio": [
+    {
+      "src": "/audio/student/s10-2-1.mp3",
+      "legacySrc": "s10-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-2.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-3.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-4.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-5.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-6.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-7.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-8.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-9.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-10.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-11.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-12.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-13.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-14.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-15.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-16.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-17.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-18.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-19.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s10-2-20.mp3",
+      "legacySrc": "s10-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I want to stay in bed longer, and after a few minutes, I finally get out of bed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After I get up and prepare for school, the first day of my new week has started on this note.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When my mother shouts at me to wake up, I don’t want to get up.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "For me, it is very hard to get out of bed every Monday morning.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나에게는, 매일 월요일 아침에 일어나는 것이 매우 힘듭니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니가 일어나라고 나에게 소리칠 때, 나는 일어나고 싶지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좀더 오랫동안 침대에 머무르고 싶고, 그리고 몇 분 후에, 나는 결국 침대에서 일어납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 일어나서 학교 갈 준비를 한 후, 나의 새로운 주의 첫날이 다시 한번 이렇게 시작됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나에게는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나에게는For me,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 어렵습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 어렵습니다.it is very hard",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일어나는 것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일어나는 것이to get out of bed",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매일 월요일 아침에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매일 월요일 아침에every Monday morning.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니가 나에게 소리칠 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니가 나에게 소리칠 때When my mother shouts at me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/일어나라고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/일어나라고 to wake up,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 일어나고 싶지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 일어나고 싶지 않습니다. I don't want to get up.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 원합니다.I want",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 더 오랫동안 침대에 머무르기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 더 오랫동안 침대에 머무르기를 to stay in bed longer,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 몇 분 후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 몇 분 후에 and after a few minutes,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 결국 침대에서 일어납니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 결국 침대에서 일어납니다. I finally get out of bed",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 일어나고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 일어나고After I get up",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 학교 갈 준비를 한 후",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 학교 갈 준비를 한 후 and prepare for school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 새로운 주의 첫 날이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 새로운 주의 첫 날이 the first day of my new week",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 이렇게 시작합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 이렇게 시작합니다. has started on this note.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Week? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Start of a New Week",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s10-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s10-2.swf"
+  ]
+}

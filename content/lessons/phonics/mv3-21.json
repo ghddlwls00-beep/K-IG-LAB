@@ -1,0 +1,88 @@
+{
+  "id": "mv3-21",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-21 ]",
+  "unit": 21,
+  "part": null,
+  "order": 100,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-21.mp3",
+      "legacySrc": "sounds/mv3-21.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "stress",
+          "grade",
+          "semester",
+          "score",
+          "danger",
+          "exclaim"
+        ],
+        [
+          "obstacle",
+          "practice",
+          "mammal",
+          "principal",
+          "advice",
+          "commend"
+        ],
+        [
+          "pause",
+          "bury",
+          "pronunciation",
+          "edge",
+          "contest",
+          "horizon"
+        ],
+        [
+          "penalize",
+          "biology",
+          "decade",
+          "reflect",
+          "might",
+          "trouble"
+        ],
+        [
+          "balance",
+          "proverb",
+          "executive",
+          "disaster",
+          "miniature",
+          "contemporary"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-21 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-21.htm",
+  "legacyEncoding": "utf-8"
+}

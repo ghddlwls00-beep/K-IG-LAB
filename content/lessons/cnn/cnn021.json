@@ -1,0 +1,233 @@
+{
+  "id": "cnn021",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Watch* Your Speed Limit*.",
+  "label": "Watch* Your Speed Limit*.",
+  "menuLabel": "[ CNN 21 ]",
+  "unit": 21,
+  "part": null,
+  "order": 20,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn021.mp4",
+      "legacySrc": "CNN/CNN1-60/21.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Watch* Your Speed Limit*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Man:Was this your first driving lesson?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Yes, it was. I was a little nervous. How did I do?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Very well. There were just a few problems. First, don’t follow too closely behind the car ahead of you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: O.K. Did I do that?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: A bit. Next, watch your speed limit. You drive a little bit too fast sometimes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: I didn’t see any speed limit posted.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: The speed limit is 55 miles per hour on the highway, 35 miles per hour on residential streets, and 20 miles per hour in school zone.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Always?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Yes, unless you see a sign that says otherwise.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: I have a question. If there are two cars stopped at an intersection, which one goes first?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: The car on the right has priority.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: It’s a lot to remember.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: And there’s lots more. Study this Driver’s Safety Manual before our next lesson.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "제한속도에 주의하세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 이번이 첫 번째 주행 연습이었나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 네, 그래요. 좀 긴장이 됐어요. 오늘 제 운전 어땠나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 아주 잘 하셨습니다. 그런데 몇 가지 고칠 점이 있어요. 첫째, 앞차에 너무 바싹 붙어 운전하지 마세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 그러죠. 제가 그랬나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 약간이오. 다음으로, 제한속도에 주의하세요. 가끔 너무 빨리 운전을 하더라구요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 제한속도 표지판은 보지 못했는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 대로에서의 제한속도는 시속 55마일이고, 주택가에서는 35마일, 그리고 학교 주변에서는20마일입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 항상 그런가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 네, 다르게 쓰여 있는 표지판이 있는 경우를 제외하고요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 질문이 하나 있는데요. 교차로에 차 두 대가 정차한 경우, 어떤 차가 먼저 가나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 우측 차가 우선이에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 기억해야 할 게 많군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 그것말고도 훨씬 더 많습니다. 다음 주행 연습 전에 이 <안전운전교본>을 자세히 살펴보세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. zone/ 지대, 지역, 지구",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* watch",
+          "text": "주의하다, 조심하다"
+        },
+        {
+          "n": "* speed limit",
+          "text": "(자동차의) 제한속도"
+        },
+        {
+          "n": "1) nervous",
+          "text": "긴장한, 초조한, 불안한"
+        },
+        {
+          "n": "2) follow",
+          "text": "뒤를 따르다[오다], …의 다음에 오다"
+        },
+        {
+          "n": "3) closely",
+          "text": "가까이, 접근하여; 밀접하게, 친밀히"
+        },
+        {
+          "n": "4) ahead of",
+          "text": "…앞에"
+        },
+        {
+          "n": "5) post",
+          "text": "게시하다, 공고[공표]하다; (벽, 기둥에) 붙이다"
+        },
+        {
+          "n": "6) mile",
+          "text": "마일: 약 1.6km"
+        },
+        {
+          "n": "7) highway",
+          "text": "대로, 큰길; 주요[간선] 도로"
+        },
+        {
+          "n": "8) residential street",
+          "text": "주택가(residential area)"
+        },
+        {
+          "n": "9) school zone",
+          "text": "학교 주변 지역"
+        },
+        {
+          "n": "10) otherwise",
+          "text": "다르게, 다른 방법으로"
+        },
+        {
+          "n": "11) intersection",
+          "text": "교차로, 사거리; 교차, 횡단"
+        },
+        {
+          "n": "12) priority",
+          "text": "우선권, 우선 사항; 앞서기, 먼저임"
+        },
+        {
+          "n": "13) manual",
+          "text": "안내서, 사용 설명서"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/21.wmv",
+  "legacyEncoding": "binary"
+}

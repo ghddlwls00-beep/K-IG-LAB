@@ -1,0 +1,71 @@
+{
+  "id": "pr157",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 157 ]",
+  "menuLabel": "[ pr157 ]",
+  "unit": 157,
+  "part": null,
+  "order": 312,
+  "audio": [
+    {
+      "src": "/audio/reading/pr157.mp3",
+      "legacySrc": "sounds/pr157.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 157 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "“Liberty is to faction what air is to fire.\" When he wrote these words, James"
+    },
+    {
+      "type": "hints",
+      "text": "Madison clearly expected the faction-ridden nation to produce special-interest"
+    },
+    {
+      "type": "instruction",
+      "text": "groups constantly pressing for advantage. But even the prescient coauthor of"
+    },
+    {
+      "type": "instruction",
+      "text": "the Federalist Papers might be amazed at the abundant fulfillment of his"
+    },
+    {
+      "type": "instruction",
+      "text": "vision by Americans of the present day. The nation has entered a period of"
+    },
+    {
+      "type": "instruction",
+      "text": "factionalism, a time when the larger desires of society can scarcely be heard"
+    },
+    {
+      "type": "instruction",
+      "text": "for the insistent clamor of its numberless pieces."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr157.htm",
+  "legacyEncoding": "utf-8"
+}

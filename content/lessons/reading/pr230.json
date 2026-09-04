@@ -1,0 +1,47 @@
+{
+  "id": "pr230",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 230 ]",
+  "menuLabel": "[ pr230 ]",
+  "unit": 230,
+  "part": null,
+  "order": 458,
+  "audio": [
+    {
+      "src": "/audio/reading/pr230.mp3",
+      "legacySrc": "sounds/pr230.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 230 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Sailors in the 1800s had a hard life. They found rare comfort in the simple songs that they sang aboard their ships. The songs are called sea shanties. Many of these songs have lasted through the years. Sea shanties were valuable friends to sailors, helping them work as a team. Some shanties broke up the boredom of long trips. Others helped them express their feelings of longing and loneliness. Still other shanties let sailors complain about their hard lives. All in all, the sea shanties made their stay aboard less difficult."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr230.htm",
+  "legacyEncoding": "utf-8"
+}

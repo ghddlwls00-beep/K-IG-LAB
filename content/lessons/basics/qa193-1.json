@@ -1,0 +1,68 @@
+{
+  "id": "qa193-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa193",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 193-1 〕",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 3,
+  "order": 442,
+  "audio": [
+    {
+      "src": "/audio/basics/qa193.mp3",
+      "legacySrc": "sounds/qa193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 193-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(음식) → 인기있는 한국요리는 무엇이 있습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "244",
+          "text": "전통 한국 음식은 / 밥, 국, 생선이나 고기와 / 다양한 야채 반찬을 / 포함해."
+        },
+        {
+          "n": "245",
+          "text": "불고기는 / 가장 인기 있는 한국 고기 요리 / 야."
+        },
+        {
+          "n": "246",
+          "text": "가장 인기 있는 야채 음식은 / 김치 / 야."
+        },
+        {
+          "n": "247",
+          "text": "난 / 그것들 둘 다 / 좋아해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa193-1.htm",
+  "legacyEncoding": "utf-8"
+}

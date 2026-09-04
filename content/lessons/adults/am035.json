@@ -1,0 +1,75 @@
+{
+  "id": "am035",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 035 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 5,
+  "order": 35,
+  "audio": [
+    {
+      "src": "/audio/adults/am035.mp3",
+      "legacySrc": "sounds/am035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 035 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend is Talented"
+    },
+    {
+      "type": "hints",
+      "text": "My friend has great talents."
+    },
+    {
+      "type": "instruction",
+      "text": "For example, he is very good at English, and he is very intelligent."
+    },
+    {
+      "type": "instruction",
+      "text": "When he was younger, he studied all of the time and did really well in school."
+    },
+    {
+      "type": "instruction",
+      "text": "He was able to graduate from a very good university, and now, he works for a very prestigious company."
+    },
+    {
+      "type": "instruction",
+      "text": "I’ve learned many things about life from him, and I (still) have a lot to learn from him."
+    },
+    {
+      "type": "instruction",
+      "text": "민수 always understands my problems, and whenever I need help, he is always there."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m proud to call him my best friend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am035.htm",
+  "legacyEncoding": "utf-8"
+}

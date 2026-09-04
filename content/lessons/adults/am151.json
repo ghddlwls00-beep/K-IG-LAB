@@ -1,0 +1,63 @@
+{
+  "id": "am151",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 151 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 1,
+  "order": 144,
+  "audio": [
+    {
+      "src": "/audio/adults/am151.mp3",
+      "legacySrc": "sounds/am151.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 151 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy after the Korean War"
+    },
+    {
+      "type": "hints",
+      "text": "By the end of the Korean War, the entire country had been devastated by death and destruction."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s economy was very unstable."
+    },
+    {
+      "type": "instruction",
+      "text": "At that time, I was very young, so I/my parents experienced a very poor life."
+    },
+    {
+      "type": "instruction",
+      "text": "By the 1970s, Korea’s economy was showing signs of progress."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am151.htm",
+  "legacyEncoding": "utf-8"
+}

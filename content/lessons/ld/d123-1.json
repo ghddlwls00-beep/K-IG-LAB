@@ -1,0 +1,71 @@
+{
+  "id": "d123-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d123",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 123 회 ]",
+  "menuLabel": "[ D 123-1 ]",
+  "unit": 123,
+  "part": null,
+  "order": 245,
+  "audio": [
+    {
+      "src": "/audio/ld/d123.mp3",
+      "legacySrc": "sounds/d123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 123 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 현재 담수 공급은 태양의 에너지에 의한 대양의 증발과 증류의 과정의 지배를 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "대양의 표면으로부터 물이 증발하지만 공기 속의 물의 양은 거의 똑같이 남아있어야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 증발하는 그 물은 침전 - 비와 눈 - 의 형태로 다시 떨어진다."
+    },
+    {
+      "type": "instruction",
+      "text": "대륙의 담수원은 매년 증발의 과정을 통하여 7만 입방 킬로미터의 물을 상실한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 매년 11만 입방 킬로미터의 침전을 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 결과는 4만 입방 킬로미터의 담수가 매년 대양으로부터 대륙으로 이전된다는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d123-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p143",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 143 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 3,
+  "order": 148,
+  "audio": [
+    {
+      "src": "/audio/middle/p143.mp3",
+      "legacySrc": "sounds/p143.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 143 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(How Will I Achieve My Dream?)"
+    },
+    {
+      "type": "hints",
+      "text": "In order to become a teacher,"
+    },
+    {
+      "type": "instruction",
+      "text": "my parents tell me that I need to study hard in all my subjects,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I must go to a good university."
+    },
+    {
+      "type": "instruction",
+      "text": "They also tell me that I need to love children and serve others."
+    },
+    {
+      "type": "instruction",
+      "text": "I think teaching children is fun and rewarding,"
+    },
+    {
+      "type": "instruction",
+      "text": "and that I must have a lot of patience in order to teach them."
+    },
+    {
+      "type": "instruction",
+      "text": "I know that one day I will be able to achieve my dream"
+    },
+    {
+      "type": "instruction",
+      "text": "and help many children learn and grow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p143.htm",
+  "legacyEncoding": "utf-8"
+}

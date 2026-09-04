@@ -1,0 +1,135 @@
+{
+  "id": "p14",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle14]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": null,
+  "order": 142,
+  "audio": [
+    {
+      "src": "/audio/middle/p14.mp3",
+      "legacySrc": "sounds/p14.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle14]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 14: My Future Dream Job"
+    },
+    {
+      "type": "hints",
+      "text": "There are many jobs in the world, and it is very hard to choose only one."
+    },
+    {
+      "type": "instruction",
+      "text": "I am still young, but I have read many different kinds of books"
+    },
+    {
+      "type": "instruction",
+      "text": "that have changed my mind many times already about what I want to be."
+    },
+    {
+      "type": "instruction",
+      "text": "How can I choose among all of the great jobs like being a doctor,"
+    },
+    {
+      "type": "instruction",
+      "text": "movie star, and a lawyer?"
+    },
+    {
+      "type": "instruction",
+      "text": "Out of all these fantastic careers, my dream right now is to be a teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to become a teacher for several reasons."
+    },
+    {
+      "type": "instruction",
+      "text": "First, my schoolteacher sets a good example."
+    },
+    {
+      "type": "instruction",
+      "text": "He loves children, and when I need help from him, he always helps me."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to be able to help others learn and grow, too."
+    },
+    {
+      "type": "instruction",
+      "text": "He is excellent at teaching exactly what we need to know."
+    },
+    {
+      "type": "instruction",
+      "text": "Second, my teacher knows a lot of things,"
+    },
+    {
+      "type": "instruction",
+      "text": "and shares his knowledge with us about many things all of the time."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to become a good teacher just like him."
+    },
+    {
+      "type": "instruction",
+      "text": "In order to become a teacher,"
+    },
+    {
+      "type": "instruction",
+      "text": "my parents tell me that I need to study hard in all my subjects,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I must go to a good university."
+    },
+    {
+      "type": "instruction",
+      "text": "They also tell me that I need to love children and serve others."
+    },
+    {
+      "type": "instruction",
+      "text": "I think teaching children is fun and rewarding,"
+    },
+    {
+      "type": "instruction",
+      "text": "and that I must have a lot of patience in order to teach them."
+    },
+    {
+      "type": "instruction",
+      "text": "I know that one day I will be able to achieve my dream"
+    },
+    {
+      "type": "instruction",
+      "text": "and help many children learn and grow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p14.htm",
+  "legacyEncoding": "utf-8"
+}

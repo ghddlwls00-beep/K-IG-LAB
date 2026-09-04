@@ -1,0 +1,47 @@
+{
+  "id": "pr094-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr094",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 094-1 ]",
+  "menuLabel": "[ pr094-1 ]",
+  "unit": 94,
+  "part": null,
+  "order": 187,
+  "audio": [
+    {
+      "src": "/audio/reading/pr094.mp3",
+      "legacySrc": "sounds/pr094.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 094-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "보통의 소금 양과 덜 들어간 소금의 양을 한 빵 간의 맛에 있어 차이를 조사하기 위한 연구가 행해졌다. 세 종류의 빵이 준비되어졌는데, 소금의 내용물을 제외하고는 모든 면에 있어서 같은 것이었다. 한 덩어리는 보통의 양을 포함했고, 하나는 10%를 덜 포함했고, 하나는 20%를 덜 포함했다. 60 명이 그들이 맛에 있어 어떤 차이를 구별할 수 있는지를 질문 받았다. 그들은 어떤 빵이 보통 양의 소금을, 10% 덜, 20% 덜 포함하고 있는지를 추측해야 했다. 그 결과는 추측의 30%만이 맞다는 결과를 보여 줬는데, 이는 우연히 예상됐던 것과 같은 것이었다. 빵의 맛은 반드시 빵에 포함된 소금의 양에 달린 것이 아니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr094-1.htm",
+  "legacyEncoding": "utf-8"
+}

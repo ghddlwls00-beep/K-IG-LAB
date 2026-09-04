@@ -1,0 +1,55 @@
+{
+  "id": "am202",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 202 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 196,
+  "audio": [
+    {
+      "src": "/audio/adults/am202.mp3",
+      "legacySrc": "sounds/am202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 202 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Hot Spots to Visit in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Our country has many attractive places to visit that are natural, historical, and sometimes man-made."
+    },
+    {
+      "type": "instruction",
+      "text": "Such places include the Bulguk Temple, Soungni-San National Park, and Independence-Hall."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am202.htm",
+  "legacyEncoding": "utf-8"
+}

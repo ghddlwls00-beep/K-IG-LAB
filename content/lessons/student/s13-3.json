@@ -1,0 +1,398 @@
+{
+  "id": "s13-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s13-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 3,
+  "order": 61,
+  "audio": [
+    {
+      "src": "/audio/student/s13-3-1.mp3",
+      "legacySrc": "s13-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-2.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-3.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-4.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-5.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-6.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-7.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-8.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-9.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-10.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-11.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-12.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-13.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-14.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-15.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-16.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-17.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-18.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-19.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-20.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-21.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-22.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s13-3-23.mp3",
+      "legacySrc": "s13-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He was very brave and not afraid to die.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "To General Lee, duty and responsibility were very important.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "One day, I hope to grow up to be as brave and confident as General Soon-Shin Lee.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He was always confident that his soldiers would be successful in battle.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I respect General Lee because he was able to prepare and execute great military victories.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이순신 장군을 존경합니다. 왜냐하면 그는 준비할 수 있었고 큰 군사적 승리를 거둘 수 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 그의 부하들이 전쟁에서 승리할 수 있을 것이라는 자신감이 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 매우 용감했고 죽는 것을 두려워하지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이장군에게, 의무와 책임감은 매우 중요한 것들이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "언젠가, 나는 이순신 장군처럼 용감하고 자신감 있게 자라나기를 희망합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이장군을 존경합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이장군을 존경합니다.I respect General Lee",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그는 할 수 있었기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그는 할 수 있었기 때문입니다. because he was able to",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 준비하고 이룩할 (실행할)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 준비하고 이룩할 (실행할) prepare and execute",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 위대한 군사적 승리들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 위대한 군사적 승리들을 great military victories.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 확신에 차 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 확신에 차 있었습니다.He was always confident",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 군사들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 군사들이that his soldiers",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/승리할 것이라고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/승리할 것이라고would be successful",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/전쟁에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/전쟁에서 in battle.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 매우 용감했고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 매우 용감했고He was very brave",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 죽기를 두려워 하지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 죽기를 두려워 하지 않았습니다. and not afraid to die.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이장군에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이장군에게 To General Lee,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 의무와 책임감은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 의무와 책임감은duty and responsibility",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 중요했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 중요했습니다.were very important.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "언젠가 나는 되고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "언젠가 나는 되고 싶습니다.One day, I hope to",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/자라나기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/자라나기를 grow up to be",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/용감하고 자신감있게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/용감하고 자신감있게as brave and confident",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/이순신 장군처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/이순신 장군처럼as General Soon-Shin Lee.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whom Do I Respect? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why I Respect Him",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s13-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s13-3.swf"
+  ]
+}

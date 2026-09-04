@@ -1,0 +1,158 @@
+{
+  "id": "w9-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w9-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 40,
+  "audio": [
+    {
+      "src": "/audio/woman/w9-2-1.mp3",
+      "legacySrc": "w9-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w9-2-2.mp3",
+      "legacySrc": "w9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w9-2-3.mp3",
+      "legacySrc": "w9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w9-2-4.mp3",
+      "legacySrc": "w9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w9-2-5.mp3",
+      "legacySrc": "w9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w9-2-6.mp3",
+      "legacySrc": "w9-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "저에게는 좋은 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편, 아들, 딸, 그리고 저를 포함해서 4명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가족은 아주 친하고, 우리는 함께 시간을 보내는 것을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Move to the City",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지께서 큰 도시에서 일을 시작하셨기 때문에 나의 가족은 도시로 이사를 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father started working in the big city so my family moved there.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지의 직업 때문에 나의 가족은 여러 번 이사를 해야 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of my father‘s job my family had to move several times.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "도시생활은 매우 편리합니다. 그러나 때때로 나는 시골생활이 그립습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "City life is very convenient but sometimes I miss the country life.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 고층 아파트에 살았습니다. 그러나 크지는 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We lived in a high-rise apartment building and it was not that big.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 아파트는 작았지만 가까이에 아름다운 공원이 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though the apartment was small, there was a beautiful park near by.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though the apartment was small there was a beautiful park near by.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w9-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w9-2.swf"
+  ]
+}

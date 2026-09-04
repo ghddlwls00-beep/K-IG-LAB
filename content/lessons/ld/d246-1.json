@@ -1,0 +1,83 @@
+{
+  "id": "d246-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d246",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 246 회 ]",
+  "menuLabel": "[ D 246-1 ]",
+  "unit": 246,
+  "part": null,
+  "order": 490,
+  "audio": [
+    {
+      "src": "/audio/ld/d246.mp3",
+      "legacySrc": "sounds/d246.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 246 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 예절의 규칙들은 귀찮아 보이지만 그들은 사회 관계를 유쾌하게 만들기 위하여 고안되어 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "예절은 단지 잘 양육된 인간이 행동해야 하는 것첨럼 행동하는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 몇몇 예절바른 관습은 얼핏 보아서는 항상 분명하지는 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 경례하는 관습은 기사들이 갑옷을 입었던 날들로부터 연유한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 투구가 그들의 얼굴을 그런 정도로까지 가리어서"
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 자신의 가장 친한 친구도 알아보는 것이 불가능했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러므로 기사들이 투구의 visor를 들어올림으로써 자신의 신원을 확인하는 것이 관습이 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 보통의 군인은 visor를 쓰지 않지만 여전히 경례를 함으로써"
+    },
+    {
+      "type": "instruction",
+      "text": "이 오래된 중세의 관습을 보존한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d246-1.htm",
+  "legacyEncoding": "utf-8"
+}

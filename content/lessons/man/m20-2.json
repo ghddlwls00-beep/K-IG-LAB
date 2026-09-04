@@ -1,0 +1,88 @@
+{
+  "id": "m20-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m20-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 85,
+  "audio": [
+    {
+      "src": "/audio/man/m20-2-1.mp3",
+      "legacySrc": "m20-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m20-2-2.mp3",
+      "legacySrc": "m20-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m20-2-3.mp3",
+      "legacySrc": "m20-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "우리나라는 자연스럽고, 역사적이고 때때로 인위적인 방문할만한 매력적인 많은 장소가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our country has many attractive places to visit that are natural, historical, and sometimes man-made.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 장소들은 불국사, 속리산 국립공원 그리고 독립기념관을 포함한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Such places include the Bulguk Temple, Soungni-San National Park, and Independence-Hall.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hot Spots to Visit in Korea",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m20-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m20-2.swf"
+  ]
+}

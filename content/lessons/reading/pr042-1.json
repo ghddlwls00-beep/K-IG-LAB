@@ -1,0 +1,47 @@
+{
+  "id": "pr042-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr042",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 042-1 ]",
+  "menuLabel": "[ pr042-1 ]",
+  "unit": 42,
+  "part": null,
+  "order": 83,
+  "audio": [
+    {
+      "src": "/audio/reading/pr042.mp3",
+      "legacySrc": "sounds/pr042.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 042-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리들 각자는 , 비록 짧은 시간일지라도, 또 한 다른 삶을 살기를 아마도 원하고 있을 것이다. 그것은 우리의 삶에 불만족하고 있다는 문제가 아니라, 여행해 보지 못한 길에 대한 더 많은 호기심의 문제일 것이다. 물론 이런 호기심을 만족시키는 한 방법은 여행을 통해서 이다. 우리가 마치 무대 위의 배우이길 꿈꾸듯이, 여행은 우리에게 다른 세상을 경험하게 해준다. 우리가 파리의 까페에 앉아 있는 것을 꿈꾸건 동남아에서 코끼리 등에 앉아 있는 걸 꿈꾸건 간에, 여행은 우리에게 우리가 상상만 해오고 있는 것을 할 기회를 준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr042-1.htm",
+  "legacyEncoding": "utf-8"
+}

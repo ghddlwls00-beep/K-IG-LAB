@@ -1,0 +1,88 @@
+{
+  "id": "hv-29",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-29 ]",
+  "unit": 29,
+  "part": null,
+  "order": 148,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-29.mp3",
+      "legacySrc": "sounds/hv-29.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "absence",
+          "present",
+          "presently",
+          "presence",
+          "satisfy",
+          "satisfaction"
+        ],
+        [
+          "satisfactory",
+          "fable",
+          "preface",
+          "fame",
+          "famous",
+          "infamous"
+        ],
+        [
+          "fate",
+          "fatal",
+          "infancy",
+          "infant",
+          "confess",
+          "confession"
+        ],
+        [
+          "profess",
+          "professor",
+          "profession",
+          "professional",
+          "manufacture",
+          "manufacturer"
+        ],
+        [
+          "facility",
+          "faculty",
+          "facsimile",
+          "factor",
+          "factual",
+          "effect"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-29 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-29.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "d003-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d003",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 003 회 ]",
+  "menuLabel": "[ D 003-1 ]",
+  "unit": 3,
+  "part": null,
+  "order": 5,
+  "audio": [
+    {
+      "src": "/audio/ld/d003.mp3",
+      "legacySrc": "sounds/d003.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 003 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "3",
+          "text": "나는 어제 학교에 없었다. 나는 결석했다. 나는 나의 조부모(할머니, 할아버지)를 방문하고 있었다."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "그들은 시골에 아름다운 농장을 갖고 있다. 그 농가도 아름답다. 그것은 매우 크지는 않지만"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 매우 좋다. 나의 어머니는 그곳에서 태어나셨다. 나의 할아버지도 그곳에서 태어나셨다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 조부모는 지금 늙어가고 있지만 그들은 아직 일하고 계신다. 나의 할아버지는 약 60이다."
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 아직도 농사짓고 있다. 나의 할머니는 아직도 집을 돌보고 계신다."
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 매우 훌륭한 요리사이다. 나는 언제나 그곳에서 즐거운 시간을 보낸다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 언제나 나의 조부모를 보는 것을 좋아하며 나는 먹는 것도 좋아한다 - 특히 할머니의 과자를."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d003-1.htm",
+  "legacyEncoding": "utf-8"
+}

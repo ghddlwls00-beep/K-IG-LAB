@@ -1,0 +1,47 @@
+{
+  "id": "pr090",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 090 ]",
+  "menuLabel": "[ pr090 ]",
+  "unit": 90,
+  "part": null,
+  "order": 178,
+  "audio": [
+    {
+      "src": "/audio/reading/pr090.mp3",
+      "legacySrc": "sounds/pr090.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 090 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Consider the relationships within a family unit made up of a husband, a wife, and a child. The husband influences his wife and child. The wife influences both mother and father. Add another child. A grandparent. Add an aunt. And an uncle. Add a cousin. A neighbor. Friends. If we were to make this list longer, we would end up with an entire society. A society is a network of relationships among individuals. Each will influence the others, and each will be influenced by the others."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr090.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr071-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr071",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 071-1 ]",
+  "menuLabel": "[ pr071-1 ]",
+  "unit": 71,
+  "part": null,
+  "order": 141,
+  "audio": [
+    {
+      "src": "/audio/reading/pr071.mp3",
+      "legacySrc": "sounds/pr071.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 071-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "몸에 끼치는 웃음의 영향을 연구하기 위하여 실험이 수행되었다. 의사가 심장박동률과 혈압, 호흡 그리고 근육을 확인하는 동안 사람들은 웃긴 영화를 본다. 웃음이 육체적인 운동과 비슷한 효과를 가진다는 것이 발견되었다. 웃음은 혈압과 호흡률을 증가시킨다. 또한 얼굴과 위 심지어 발의 근육의 몇 부분에 영향을 끼친다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr071-1.htm",
+  "legacyEncoding": "utf-8"
+}

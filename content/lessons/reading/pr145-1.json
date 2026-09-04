@@ -1,0 +1,47 @@
+{
+  "id": "pr145-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr145",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 145-1 ]",
+  "menuLabel": "[ pr145-1 ]",
+  "unit": 145,
+  "part": null,
+  "order": 289,
+  "audio": [
+    {
+      "src": "/audio/reading/pr145.mp3",
+      "legacySrc": "sounds/pr145.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 145-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리 사회는 소비자 주도의 문화이다. 소비자가 소비하도록 만드는 것은 무엇인가? 우리는 너무도 거칠고 복잡한 사회를 만들어서 그것으로 인해 무기력하고 불안하게 느끼며 개선되기를 바라도록 된 것처럼 보인다. 그러나 정말로 우리 자신이나 운명을 개선한다는 것은 초인적인 일이므로, 그 대신에 우리가 할 수 있는 일을 한다. 우리는 물건을 산다. 경제는 성장하고 세상은 점점 복잡해지며, 우리는 더욱 무기력하고 불안해지고 그래서 더욱 더 많이 산다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr145-1.htm",
+  "legacyEncoding": "utf-8"
+}

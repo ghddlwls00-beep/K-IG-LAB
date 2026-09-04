@@ -1,0 +1,88 @@
+{
+  "id": "mv3-37",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-37 ]",
+  "unit": 37,
+  "part": null,
+  "order": 116,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-37.mp3",
+      "legacySrc": "sounds/mv3-37.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "stone",
+          "lid",
+          "spark",
+          "elbow",
+          "downtown",
+          "cousin"
+        ],
+        [
+          "nail",
+          "tooth",
+          "relax",
+          "terror",
+          "potato",
+          "mercy"
+        ],
+        [
+          "explosion",
+          "blanket",
+          "investment",
+          "scene",
+          "letter",
+          "store"
+        ],
+        [
+          "bridge",
+          "tower",
+          "satire",
+          "deer",
+          "trace",
+          "frog"
+        ],
+        [
+          "doll",
+          "pepper",
+          "bill",
+          "rest",
+          "retire",
+          "beggar"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-37 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-37.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "d234-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d234",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 234 회 ]",
+  "menuLabel": "[ D 234-1 ]",
+  "unit": 234,
+  "part": null,
+  "order": 466,
+  "audio": [
+    {
+      "src": "/audio/ld/d234.mp3",
+      "legacySrc": "sounds/d234.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 234 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서 한때 인기있었던 한 가지 형태의 연예는 minstrel show이다."
+    },
+    {
+      "type": "instruction",
+      "text": "전통적으로 minstrel show는 약 75년 전에 미국의 내부수로를"
+    },
+    {
+      "type": "instruction",
+      "text": "오르내리던 다채로운 showboat와 관련있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 showboat가 마을에 들어서면 모든 사람이 하루 쉬고 minstrel들의"
+    },
+    {
+      "type": "instruction",
+      "text": "노래와 재치응답을 들으러 강으로 내려갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 즐거운 음악과 구김살없는 농담은 대기를 명절 분위기로 가득 채웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "쇼보트가 다른 마을로 떠난 오랜 후에도 그 벤조의 소리는"
+    },
+    {
+      "type": "instruction",
+      "text": "그 광경을 즐겼던 사람들의 마음에 남아있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d234-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "m17-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m17-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 76,
+  "audio": [
+    {
+      "src": "/audio/man/m17-4-1.mp3",
+      "legacySrc": "m17-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-4-2.mp3",
+      "legacySrc": "m17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-4-3.mp3",
+      "legacySrc": "m17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-4-4.mp3",
+      "legacySrc": "m17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-4-5.mp3",
+      "legacySrc": "m17-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1953년 전쟁이 끝난 이래로, 나라는 매우 빠르게 특히 1970년대에 발전하기 시작했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그때부터 지금까지, 나라는 급격하게 성장을 계속해왔다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "From then until now, the country has continued to grow rapidly.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1988년에, 한국은 하계 올림픽을 주최했고, 2002년에 월드컵을 한국에서 또한 개최했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 나라와 그것의 긴 역사동안 이룩한 것이 자랑스럽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very proud of my country and what it has accomplished during its long history.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very proud of my country and what it has accomplished during its longhistory.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "17 The History of Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-War Development of Korea",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m17-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m17-4.swf"
+  ]
+}

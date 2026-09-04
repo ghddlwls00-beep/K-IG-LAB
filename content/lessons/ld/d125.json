@@ -1,0 +1,59 @@
+{
+  "id": "d125",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 125 회 ]",
+  "menuLabel": "[ D 125 ]",
+  "unit": 125,
+  "part": null,
+  "order": 248,
+  "audio": [
+    {
+      "src": "/audio/ld/d125.mp3",
+      "legacySrc": "sounds/d125.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 125 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "build dams streams rivers. settlements technological activities."
+    },
+    {
+      "type": "instruction",
+      "text": "bring water up below the earth's surface wells. water vapor make up deep under ground."
+    },
+    {
+      "type": "instruction",
+      "text": "Arctic regions."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d125.htm",
+  "legacyEncoding": "utf-8"
+}

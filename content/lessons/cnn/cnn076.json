@@ -1,0 +1,137 @@
+{
+  "id": "cnn076",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Energy Security to Dominate G8 Summit",
+  "label": "Energy Security to Dominate G8 Summit",
+  "menuLabel": "[ CNN 76 ]",
+  "unit": 76,
+  "part": null,
+  "order": 75,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn076.mp4",
+      "legacySrc": "CNN/CNN61-120/76.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Energy Security to Dominate G8 Summit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finance Ministers from world’s wealthiest industrialized nations, have expressed concern over the cost of energy. The Group of Eight met in Russia at the weekend with energy security at the top of their agenda. Ministers warned of the effect of volatile energy prices on the world economy but they said they still expected global growth to continue in 2006. The meeting marked Russia’s first presidency of the G8 club. But a recent gas dispute with the Ukraine has raised concerns about Moscow’s reliability as an energy supplier.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "G8, 에너지 안보 문제 협의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전세계 선진 공업국의 재무장관들이 에너지 가격에 우려를 표명했습니다. 선진 8개국은 지난 주말 러시아에서 만나 에너지 안보 문제를 가장 중요한 안건으로 논의했습니다. 재무장관들은 불안정한 에너지 가격이 전세계 경제에 미치는 영향을 경고하면서도, 2006년에도 전세계적으로 경제 성장이 지속될 것으로 전망했습니다. 러시아가 G8 내에서 의장직을 맡기는 이번 회의가 처음입니다. 그러나 최근 발생한 우크라이나와의 가스 분쟁 때문에 에너지 공급 국가로서의 러시아의 신뢰성에 우려가 제기되고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "과거형 -ed가 전혀 발음이 되지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "warned을 want이나 warm으로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "2음절에 강세가 있어 첫모음 e[i]-가 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-lier의 이중 모음을 영국식 발음으로 단모음화해 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. raise concerns about/ …에 대한 우려를 제기하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "warned of the",
+          "text": "[원어ㅂ디]."
+        },
+        {
+          "n": "economy",
+          "text": "[카너미]."
+        },
+        {
+          "n": "supplier",
+          "text": "[써플라아]."
+        },
+        {
+          "n": "energy security",
+          "text": "에너지안보: 에너지 확보와 안정적인 공급"
+        },
+        {
+          "n": "dominate",
+          "text": "우위를 차지하다, 큰 영향을 주다"
+        },
+        {
+          "n": "G8(Group of Eight) Summit",
+          "text": "선진 8개국 정상회담: 독일, 러시아, 미국, 영국, 이탈리아, 일본, 캐나다, 프랑스 등 선진 8개국의 정상들이 매년 모여 정치와 경제문제에 대한 논의를 한다."
+        },
+        {
+          "n": "Finance Minister",
+          "text": "재무장관"
+        },
+        {
+          "n": "express concern over",
+          "text": "…에 대한 우려를 표현하다"
+        },
+        {
+          "n": "warn of",
+          "text": "…을 경고하다"
+        },
+        {
+          "n": "effect",
+          "text": "영향; (원인, 작용의) 결과"
+        },
+        {
+          "n": "volatile",
+          "text": "변덕스러운, 불안정한"
+        },
+        {
+          "n": "mark",
+          "text": "특징짓다; 두드러지게 하다"
+        },
+        {
+          "n": "presidency",
+          "text": "의장직; 통할, 주재"
+        },
+        {
+          "n": "gas dispute",
+          "text": "가스분쟁: 러시아는 우크라이나가 4배 인상 된 가스공급가를 거부하자 가스공급을 전면 중단했다."
+        },
+        {
+          "n": "reliability",
+          "text": "신뢰성, 신빙성"
+        },
+        {
+          "n": "supplier",
+          "text": "원료 공급국[지], 공급하는 사람[것]"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/76.wmv",
+  "legacyEncoding": "binary"
+}

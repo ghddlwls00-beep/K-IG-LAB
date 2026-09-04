@@ -1,0 +1,79 @@
+{
+  "id": "p183",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 183 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 3,
+  "order": 182,
+  "audio": [
+    {
+      "src": "/audio/middle/p183.mp3",
+      "legacySrc": "sounds/p183.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 183 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Chu-seok)"
+    },
+    {
+      "type": "hints",
+      "text": "Chu-seok is the biggest national holiday of the year,"
+    },
+    {
+      "type": "instruction",
+      "text": "and it is often referred to as the Korean Thanksgiving."
+    },
+    {
+      "type": "instruction",
+      "text": "During Chu-seok, People visit their ancestrial tombs"
+    },
+    {
+      "type": "instruction",
+      "text": "and make an offering of food to their ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "In addition, most people play games with their relatives"
+    },
+    {
+      "type": "instruction",
+      "text": "and make song-pyeun, which is a Korean traditional rice cake."
+    },
+    {
+      "type": "instruction",
+      "text": "I like our country's traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "On these days I learn how important family is!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p183.htm",
+  "legacyEncoding": "utf-8"
+}

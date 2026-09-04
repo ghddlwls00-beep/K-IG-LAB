@@ -1,0 +1,520 @@
+{
+  "id": "cnn093",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Do You Have Office Spouses*?",
+  "label": "Do You Have Office Spouses*?",
+  "menuLabel": "[ CNN 93 ]",
+  "unit": 93,
+  "part": null,
+  "order": 92,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Do You Have Office Spouses*?"
+    },
+    {
+      "type": "paragraph",
+      "text": "LORRAINE WILDERMAN, Office Spouse: I’m hungry, I wanna eat!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MIKE O’REAR, Office Spouse: Me too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RUSTY DORNIN, CNN Correspondent: They like the same things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "O’REAR: Let’s go to the Chinese restaurant. (WILDERMAN: OK.)",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: Like where to eat...",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "O’REAR: Let me get the door for you, like I always do. (WILDERMAN: Thank you.)",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: Mike and Lorraine have built a close relationship on banter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WILDERMAN: Mikey, Mikey, Mikey! (UNIDENTIFIED WOMAN: Be patient!) You know the routine. You’ve gotta let the teabag set in there for a while.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: A longtime married couple out for lunch? Hardly! (WILDERMAN: Hey, Mike!) How about co-workers? Mike O’rear and Lorraine Wilderman met when she joined the faculty at Chattahoochee Technical College in Georgia. Over eight years, they’ve become part of a new phenomenon, office spouses.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WILDERMAN: Mike has a lot of the same traits as my husband does... and when I’m at work it’s like “Where’s Mike? Help, I need something.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: In a national survey by the research company Vault Inc., 32% of workers say they have an office spouse. Advertising executive Tina Chadwick recently wrote a magazine article defining this new kind of relationship.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TINA CHADWICK, Creative Director, Match Inc.: When you get particularly close to someone or in terms “click” with them, that starts to develop a spouse relationship with them where you rely on them, you ask for their advice.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WILDERMAN: Mike, do you have a pocketknife or a pair of scissors?(O’REAR: No.) Can you open that for me? (O’REAR: Here’s some scissors.)",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHADWICK: There’s a synergy that develops that can be quite energetic, you know, and quite enlivening rather than just the drudgery of work.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: As they grew closer over the years, Mike and Lorraine started relying on each other for much more than business.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WILDERMAN: If he’s even had a bad weekend or something’s happened to one of his grandchildren, I can almost tell by the expression on his face.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "O’REAR: There’s always problems, you’re gonna have. That’s just part of life. But if you have someone you can share it with... it makes it a little bit better.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: Tina Chadwick says she’s had several office spouses over the years. Her colleagues, Jason Turner and Jeff Stewart say that long hours and business trips with co-workers make it part of modern life.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JASON TURNER, Match Inc.: I mean, they become your best friends, basically, because you’re spending, you know, everyday with them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEFF STEWARD, Match Inc.: And you’re with them longer than with your wife or your spouse or whatever. So, yeah... kind... a line could possibly get crossed, mentally but not really physically.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DORNIN: But whether it’s nine to five or nine to midnight, if things begin to border on the “inappropriate,” business experts say, “Step back.” Rusty Dornin, CNN, Mariella, Georgia.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "사무실 배우자가 있으십니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로레인 윌더만, 사무실 배우자: 배고파. 뭐 좀 먹고 싶어.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마이크 오레어, 사무실 배우자: 나도 그래.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "러스티 도닌, CNN 기자: 이 둘은 같은 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오레어: 중국 식당에 가자. (윌더만: 좋아.)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 가령 식사하러 가는 곳도 …",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오레어: 언제나처럼 그대를 위해 내가 문을 열어주겠소. (윌더만: 고마워요.)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 마이크와 로레인은 서로 가벼운 농담을 주고받는 친밀한 관계로 발전해 왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윌더만: 마이키, 마이키, 마이키! (익명의 여성: 성질도 급하시기는.) 늘 하던 대로 하면 돼. 티백을 잠깐 동안 거기에 담궈 둬야 해.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 점심 식사를 하러 나온 오래된 부부일까요? 천만에요! (윌더만: 이봐요, 마이크!) 아니면 직장 동료일까요? 마이크 오레어와 로레인 윌더만은 로레인이 조지아 주 차타후치 기술 전문 대학의 교직원으로 들어오면서 만났습니다. 그 후 8년 사이에 이 둘은 새로운 사회현상인 ‘사무실 배우자’가 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윌더만: 마이크는 제 남편과 비슷한 성향을 많이 가지고 있어요. 일할 때면 저는 늘 “마이크 어딨죠? 도와 줘요. 도움이 필요해요.”하는 식이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 여론 조사 기관인 볼트 사가 전국적으로 실시한 한 여론 조사에 따르면 직장인들의32%가 사무실 배우자를 가지고 있다고 합니다. 한 광고회사 중역인 티나 채드윅 씨는 최근 이와 같은 새로운 관계를 정의하는 잡지 기사를 기고한 바 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "티나 채드윅, 광고 기획자, 매치 주식회사: 누군가와 특별히 가까워진다거나 대인 관계에서 의기투합이 잘 될 경우, 그들에게 의지하고 조언을 구하기도 하면서 마치 배우자와 같은 관계로 발전하기 시작합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윌더만: 마이크, 주머니칼이나 가위 있어? (오레어: 아니.) 그것 좀 열어 줄래? (오레어: 여기 가위 있어.)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "채드윅: 여기에는 시너지 효과가 발생해서 업무가 지루하고 따분해지기보다는 아주 역동적이고 활기차게 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 수년 동안 마이크와 로레인은 점점 더 친밀해지면서, 일 이외의 여러 부분에서도 서로 의지하기 시작했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윌더만: 마이크가 힘든 주말을 보냈다거나 그의 손자?손녀들 중 한 아이에게 무슨 일이 생겼다면, 그의 얼굴 표정만 봐도 바로 알 수 있어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오레어: 살다 보면 누구에게나 늘 문제는 있기 마련이죠. 그게 삶의 일부이기도 하구요. 하지만 그런 문제를 나누고 이야기할 상대가 있다면 조금 더 낫겠죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 티나 채드윅 씨는 지난 수년 동안 사무실 배우자가 여럿 있었다고 합니다. 그녀의 직장동료인 제이슨 터너와 제프 스튜어트 씨는 직장 동료와 오랜 시간을 보내고 그들과 비즈니스 여행을 가게 되면서 사무실 배우자를 갖는 것이 현대인의 삶의 일부가 되었다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제이슨 터너, 매치 주식회사: 그게, 사실 매일 사무실 배우자들과 가장 많은 시간을 보내기 때문에 그들이 가장 친한 친구가 될 수 밖에 없죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제프 스튜어트, 매치 주식회사: 아내든 배우자든, 다른 누구보다도 그들과 더 오랜 시간을 보내죠. 예, 물론 정신적으로야 어떤 선을 넘을 수도 있겠죠, 하지만 육체적으로는 아니에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "도닌: 하지만 근무 시간이 9시에서 5시까지이든 한밤중까지이든지 간에 상황이 뭔가 부적절하게 돌아가기 시작하면 “한발 뒤로 물러서라”고 비즈니스 전문가들은 충고합니다. 조지아 주 마리엘라에서 CNN, 러스티 도닌이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠르게 진행되는 뉴스나 구어체에서는 발음의 편리상 축약되기 마련이다. gotta는 (have) got a 혹은 (have) got to, wanna be의 wanna는 want to 혹은 want a, gonna have의 gonna는 going to가 축약된 것이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "o가 강세를 받아 [아]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ce[s] s-가 중복되어 한 번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "with them에서도 th가 중복되어 한 번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "incorporated의 약자인 Inc.는 [ink]로 읽는다는 것을 알아두자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "2음절에 강세가 있어 -ven-의 모음이 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "in living으로 혼동하지 않도록 하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "참고로 living은 [리빙]으로 발음되고, live가 [라이ㅂ]로 발음되는 경우는 형용사형으로 ‘살아있는’, ‘생기 있는’의 뜻일 경우다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nd로 끝나는 단어의 끝 자음 [d]는 탈락되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "or는 weekend와 바로 연결되어 a처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "문장의 기능어인 on his의 발음이 약화되면서 his의 [h]가 탈락되어 마치 is처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "인칭대명사(his, her), 부사(here), 조동사(have)의 [h]는 강세를 받지 못해 탈락될 때가 많다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "part의 모음을 [오]로 발음하면서 [t]가 [ㄹ]로 유음화되어 쉬운 단어인데도 알아듣기 힘들다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[d]도 [t]처럼 강모음과 약모음 사이에서 [ㄹ]로 유음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-se와 o-가 연음 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-or이나 -er가 붙으면 ‘사람’을 지칭하는 경우가 많은데, spouse는 뜻 자체가 사람을 뜻한다는 것을 미리 염두에 두고 들어야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. executive/ (기업체 따위의) 경영 간부, 중역, 임원, 이사(manager)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "gotta let",
+          "text": "[가러렛]."
+        },
+        {
+          "n": "office spouses",
+          "text": "[아피쓰빠우씨ㅅ]."
+        },
+        {
+          "n": "Vault Inc.",
+          "text": "[벌잉ㅋ]."
+        },
+        {
+          "n": "enlivening",
+          "text": "[인라이브닝]."
+        },
+        {
+          "n": "weekend or",
+          "text": "[위켄어]."
+        },
+        {
+          "n": "on his face",
+          "text": "[언이즈페이스]."
+        },
+        {
+          "n": "part of life",
+          "text": "[포러라이ㅍ]."
+        },
+        {
+          "n": "modern life",
+          "text": "[마른라이ㅍ]."
+        },
+        {
+          "n": "spouse or",
+          "text": "[스빠우써]."
+        },
+        {
+          "n": "* office spouse",
+          "text": "사무실 배우자: 최근 새롭게 형성되고 있는 직장내 인간관계 유형으로 기존의 업무에만 국한된 단순한 동료관계를 넘어서는 개인적이고 친밀한 관계를 지칭한다."
+        },
+        {
+          "n": "1) get the door",
+          "text": "문을 열다"
+        },
+        {
+          "n": "2) close",
+          "text": "친밀한, 가까운"
+        },
+        {
+          "n": "3) relationship",
+          "text": "관계"
+        },
+        {
+          "n": "4) banter",
+          "text": "희롱, 놀림"
+        },
+        {
+          "n": "5) routine",
+          "text": "일상적인 방식, 관례"
+        },
+        {
+          "n": "6) out for lunch",
+          "text": "점심 먹으러 외출하여(out to lunch)"
+        },
+        {
+          "n": "7) Hardly!",
+          "text": "설마!"
+        },
+        {
+          "n": "8) co-worker",
+          "text": "직장 동료"
+        },
+        {
+          "n": "9) faculty",
+          "text": "(대학,고교의) 전교직원; (학부의) 교수진"
+        },
+        {
+          "n": "10) Technical College",
+          "text": "기술 전문대학: 미국의 2년제 대학은 주로 Community College(지역사회 전문대학)로 불리지만 일부 학교는 Technical College(기술 전문대학)나 Junior College(초급대학)로도 불린다."
+        },
+        {
+          "n": "11) phenomenon",
+          "text": "현상"
+        },
+        {
+          "n": "12) trait",
+          "text": "(성격 따위의) 특성, 특징, 특색"
+        },
+        {
+          "n": "13) national survey",
+          "text": "전국적인 여론 조사"
+        },
+        {
+          "n": "14) research company",
+          "text": "여론 조사 회사"
+        },
+        {
+          "n": "15) Inc.",
+          "text": "((미)) (회사명 뒤에 붙여) 주식 회사(incorporated): 영국에서는 Ltd.(limited)를 쓴다."
+        },
+        {
+          "n": "16) advertising executive",
+          "text": "광고 회사의 중역"
+        },
+        {
+          "n": "17) define",
+          "text": "정의하다, 설명하다"
+        },
+        {
+          "n": "18) creative director",
+          "text": "{광고}광고 제작 감독[총책]"
+        },
+        {
+          "n": "19) particularly",
+          "text": "특별히, 특히"
+        },
+        {
+          "n": "20) get close to",
+          "text": "…와 친해지다, 가까워지다"
+        },
+        {
+          "n": "21) terms",
+          "text": "대인 관계, 사이; 친한 사이"
+        },
+        {
+          "n": "22) click with",
+          "text": "…와 뜻이 맞다, 의기 투합하다"
+        },
+        {
+          "n": "23) rely on",
+          "text": "…을 의지하다, 신뢰하다"
+        },
+        {
+          "n": "24) pocketknife",
+          "text": "(소형) 나이프, 주머니칼 (원래는 깃펜 깎이용)"
+        },
+        {
+          "n": "25) scissor",
+          "text": "가위"
+        },
+        {
+          "n": "26) synergy",
+          "text": "(둘 이상의 기관의) 공동[협동] 작용; 상승 효과"
+        },
+        {
+          "n": "27) energetic",
+          "text": "정력적인, 활기 있는"
+        },
+        {
+          "n": "28) enlivening",
+          "text": "활기를 띠게 하는"
+        },
+        {
+          "n": "29) drudgery of work",
+          "text": "(지루하고 따분한) 고된 일, 싫은 일, 고역"
+        },
+        {
+          "n": "30) expression",
+          "text": "표정"
+        },
+        {
+          "n": "31) colleague",
+          "text": "직장 동료"
+        },
+        {
+          "n": "32) basically",
+          "text": "((문장 수식)) 원래는, 실은; 요컨대, 결국"
+        },
+        {
+          "n": "33) whatever",
+          "text": "뭐가 됐든, 뭐든"
+        },
+        {
+          "n": "34) mentally",
+          "text": "정신적으로"
+        },
+        {
+          "n": "35) border on",
+          "text": "인접하다, 서로 접하다"
+        },
+        {
+          "n": "36) inappropriate",
+          "text": "부적당한, 들어맞지[어울리지] 않는, 타당하지 않은"
+        },
+        {
+          "n": "37) expert",
+          "text": "전문가"
+        },
+        {
+          "n": "38) step back",
+          "text": "한발 뒤로 물러나다; 거리를 두고 생각하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/93.wmv",
+  "legacyEncoding": "binary"
+}

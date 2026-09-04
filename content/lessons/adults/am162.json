@@ -1,0 +1,63 @@
+{
+  "id": "am162",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 162 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 156,
+  "audio": [
+    {
+      "src": "/audio/adults/am162.mp3",
+      "legacySrc": "sounds/am162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 162 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Entertainment in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Today’s youth like musicians, singers, and actors."
+    },
+    {
+      "type": "instruction",
+      "text": "It is very different from our generation."
+    },
+    {
+      "type": "instruction",
+      "text": "Because our generation likes movies and television dramas, entertainers are our modern heroes."
+    },
+    {
+      "type": "instruction",
+      "text": "Now, more young people are becoming addicted to computer games, which are slowly deteriorating their minds."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am162.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d200-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d200",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 200 회 ]",
+  "menuLabel": "[ D 200-1 ]",
+  "unit": 200,
+  "part": null,
+  "order": 398,
+  "audio": [
+    {
+      "src": "/audio/ld/d200.mp3",
+      "legacySrc": "sounds/d200.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 200 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "인간의 호기심은 문명의 발전에도 공헌했다."
+    },
+    {
+      "type": "instruction",
+      "text": "비행기는 비행의 경이로움에 대한 호기심 때문에 발명되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "역사의 탁월한 인물 증 몇몇은 그들의 큰 호기심으로 유명했다."
+    },
+    {
+      "type": "instruction",
+      "text": "벤자민 프랭클린은 모든 것에 대하여 호기심이 많았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 호기심은 그가 전기를 발견하고 우리의 일상 생활의"
+    },
+    {
+      "type": "instruction",
+      "text": "안락함에 기여해온 많은 것들을 발명하도록 이끌었다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 네델란드 과학자의 호기심은 그가 일련의 렌즈를 통하여"
+    },
+    {
+      "type": "instruction",
+      "text": "한 방울의 물의 세계를 조사하도록 자극햇다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것이 현대 현미경의 선두주자였고 의학에 있어서 큰 진보가 이루어질 수 있게 했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d200-1.htm",
+  "legacyEncoding": "utf-8"
+}

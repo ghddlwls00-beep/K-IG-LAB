@@ -1,0 +1,47 @@
+{
+  "id": "pr184",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 184 ]",
+  "menuLabel": "[ pr184 ]",
+  "unit": 184,
+  "part": null,
+  "order": 366,
+  "audio": [
+    {
+      "src": "/audio/reading/pr184.mp3",
+      "legacySrc": "sounds/pr184.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 184 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A professor of business studied employment patterns in Korea and the United States. She described in her book some important differences. Among them, she paid particular attention to the number of years a person stay with a job. Koreans tend to have one job for their whole life. When they are young, they go to work for a company, and they stay with that company. In the United States, people move from one company to another. They change jobs very frequently."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr184.htm",
+  "legacyEncoding": "utf-8"
+}

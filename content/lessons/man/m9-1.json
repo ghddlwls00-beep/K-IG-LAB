@@ -1,0 +1,123 @@
+{
+  "id": "m9-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m9-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 1,
+  "order": 42,
+  "audio": [
+    {
+      "src": "/audio/man/m9-1-1.mp3",
+      "legacySrc": "m9-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-1-2.mp3",
+      "legacySrc": "m9-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-1-3.mp3",
+      "legacySrc": "m9-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-1-4.mp3",
+      "legacySrc": "m9-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-1-5.mp3",
+      "legacySrc": "m9-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 어떤 아름다운 산의 작은 마을에서 태어났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was born in a small village by some beautiful mountains.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 어린 시절의 많은 기억들을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have many great memories of my childhood.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 친구들과 시간의 선로를 종종 잃을 만큼 많이 놀았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I played with my friends so much that we had often lost track of the time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 마을 옆에는 친구들과 내가 수영하고 우리 손으로 물고기를 잡을 수 있는 강이 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There was a river near my village where my friends and I went to swimand to catch fish with our hands.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There was a river near my village where my friends and I went to swim and to catch fish with our hands.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where I Was Born",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m9-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m9-1.swf"
+  ]
+}

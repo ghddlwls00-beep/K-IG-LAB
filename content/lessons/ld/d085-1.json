@@ -1,0 +1,87 @@
+{
+  "id": "d085-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d085",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 085회 ]",
+  "menuLabel": "[ D 085-1 ]",
+  "unit": 85,
+  "part": null,
+  "order": 169,
+  "audio": [
+    {
+      "src": "/audio/ld/d085.mp3",
+      "legacySrc": "sounds/d085.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 085회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터는 정보를 매우 빨리 처리할 수 있는 기계이다."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터는 문제들을 해결하기 위하여 숫자들을 사용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "단지 몇 초 내에 수백개의 문제들이 해결될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "문제를 풀기 위하여 필요한 정보는 컴퓨터에 의하여 숫자로 바뀐다."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터는 그 문제를 풀고 그런 다음 그 답은 단어로 바뀐다."
+    },
+    {
+      "type": "instruction",
+      "text": "정보와 지시를 컴퓨터 안으로 넣기 위하여 특별한 기계들이 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터는 그 정보를 기록하고 그것을 저장한다. 많은 양의 정보가 매우 작은 공간 안에 저장될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 정보는 컴퓨터의 메모리 유닛에 저장된다. 이 유닛은 그 정보를 담는다."
+    },
+    {
+      "type": "instruction",
+      "text": "산술적인 유닛은 문제들을 풀기 위하여 그 정보를 이용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "메모리 유닛과 산술적인 유닛은 그 컴퓨터가 작동하도록 만드는 전자 부품의 대부분을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d085-1.htm",
+  "legacyEncoding": "utf-8"
+}

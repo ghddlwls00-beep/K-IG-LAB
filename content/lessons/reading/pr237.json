@@ -1,0 +1,59 @@
+{
+  "id": "pr237",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 237 ]",
+  "menuLabel": "[ pr237 ]",
+  "unit": 237,
+  "part": null,
+  "order": 472,
+  "audio": [
+    {
+      "src": "/audio/reading/pr237.mp3",
+      "legacySrc": "sounds/pr237.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 237 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Not everyone is in favor of using (a)the big ball, however. Some players, such as hard hitting, six-time Wimbledon champ Pete Sampras, call the change “simply ridiculous.” Also, aside from modifying the current game, there is some concern that players may suffer arm and ligament injuries as they swing harder trying to draw more speed out of the ball."
+    },
+    {
+      "type": "instruction",
+      "text": "*ligament: 인대"
+    },
+    {
+      "type": "hints",
+      "text": "In short, the game has (b)little action. Top male players play for an average of only four minutes per hour on grass, according to recent studies. The hope is that the introduction of the new, bigger ball will cause first-class games to be dominated again by play involving (c)skill and artistry remindful of players like Bjorn Borg, Jimmy Connors and John McEnroe."
+    },
+    {
+      "type": "instruction",
+      "text": "Tennis is in some trouble. People seem to be losing interest in the game. One major reason for this is that the men’s professional game has lost some of its appeal. The pro game has become a contest of (d)strength, where powerful hitters with their high-tech rackets dominate. At Wimbledon, for example, Britain’s Greg Rusedski hit the ball at 138 mph, the fastest recorded serve for the tournament. As a result of (e)this speed, very few points last more than three shots―serve, return and winning point."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr237.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "qa025-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa025",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 025-1 〕",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 5,
+  "order": 52,
+  "audio": [
+    {
+      "src": "/audio/basics/qa025.mp3",
+      "legacySrc": "sounds/qa025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 025-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 어머니 성격) -> 당신 어머니는 어떤 사람입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "18",
+          "text": "나의 어머니는 / 매우 다정하 / 셔."
+        },
+        {
+          "n": "19",
+          "text": "그리고 / 그녀는 / 훌륭한 요리사 / 이셔."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa025-1.htm",
+  "legacyEncoding": "utf-8"
+}

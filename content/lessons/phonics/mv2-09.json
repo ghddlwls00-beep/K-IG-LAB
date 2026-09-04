@@ -1,0 +1,88 @@
+{
+  "id": "mv2-09",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-09 ]",
+  "unit": 9,
+  "part": null,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-09.mp3",
+      "legacySrc": "sounds/mv2-09.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "throw",
+          "carry",
+          "quite",
+          "return",
+          "visit",
+          "clean"
+        ],
+        [
+          "save",
+          "move",
+          "hard",
+          "live",
+          "pay",
+          "difficult"
+        ],
+        [
+          "learn",
+          "important",
+          "believe",
+          "change",
+          "fresh",
+          "dry"
+        ],
+        [
+          "fat",
+          "interested",
+          "different",
+          "balance",
+          "arrive",
+          "find"
+        ],
+        [
+          "bad",
+          "wait",
+          "absent",
+          "satisfy",
+          "catch",
+          "break"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-09 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-09.htm",
+  "legacyEncoding": "utf-8"
+}

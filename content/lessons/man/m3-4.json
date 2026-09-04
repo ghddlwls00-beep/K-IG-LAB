@@ -1,0 +1,103 @@
+{
+  "id": "m3-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m3-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 4,
+  "order": 17,
+  "audio": [
+    {
+      "src": "/audio/man/m3-4-1.mp3",
+      "legacySrc": "m3-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-4-2.mp3",
+      "legacySrc": "m3-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-4-3.mp3",
+      "legacySrc": "m3-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-4-4.mp3",
+      "legacySrc": "m3-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적이라서 나는 다른 사람들과 많은 일을 하는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very outgoing, so I like to do many things with other people.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 또한 아주 외향적인 사람이여서 많은 방면에서 그는 나를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He is like me in many ways, such as he is also very outgoing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 때때로 나보다 더 소심합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although he is sometimes much more shy than I am.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Best Friend’s Personality, Talents, and HobbiesMy Best Friend is an Outgoing Person",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m3-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m3-4.swf"
+  ]
+}

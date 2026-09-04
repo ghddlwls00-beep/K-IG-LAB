@@ -1,0 +1,47 @@
+{
+  "id": "pr096",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 096 ]",
+  "menuLabel": "[ pr096 ]",
+  "unit": 96,
+  "part": null,
+  "order": 190,
+  "audio": [
+    {
+      "src": "/audio/reading/pr096.mp3",
+      "legacySrc": "sounds/pr096.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 096 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Plants are known to react to environmental pressures such as wind, rain, and even human touch. Coastal trees, for example, become shorter and stronger in response to strong winds and heavy rainfall. In a laboratory study conducted at Stanford University, the same changes in plant growth patterns were brought about by touching plants twice a day. The researchers also found that these growth changes resulted from gene activation. Their findings indicate that this gene actuation did not occur unless there was direct stimulation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr096.htm",
+  "legacyEncoding": "utf-8"
+}

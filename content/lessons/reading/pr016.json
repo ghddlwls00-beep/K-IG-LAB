@@ -1,0 +1,47 @@
+{
+  "id": "pr016",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 016 ]",
+  "menuLabel": "[ pr016 ]",
+  "unit": 16,
+  "part": null,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/reading/pr016.mp3",
+      "legacySrc": "sounds/pr016.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 016 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "I believe that only one person in a thousand knows the trick of really living in the present. Most of us spend 59 minutes an hour living in the past with regret for lost joys, or shame for things badly done or in a future which we either long for or dread. The only way to live is to accept each minute as unrepeatable miracle"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr016.htm",
+  "legacyEncoding": "utf-8"
+}

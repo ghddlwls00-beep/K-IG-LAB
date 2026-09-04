@@ -1,0 +1,105 @@
+{
+  "id": "cnn037",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Time’s Persons of the Year",
+  "label": "Time’s Persons of the Year",
+  "menuLabel": "[ CNN 37 ]",
+  "unit": 37,
+  "part": null,
+  "order": 36,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn037.mp4",
+      "legacySrc": "CNN/CNN1-60/37.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Time’s Persons of the Year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microsoft Chairman Bill Gates and his wife Melinda have been named Time Magazine’s Persons of the Year along with the Irish rocker, Bono. The three were chosen for being Good Samaritans who’ve made a difference. They’re recognized for their commitment in trying to eradicate malaria in Africa, HIV and AIDS as well as their work in poverty relief. The magazine’s December 19th issue hits newsstands on Monday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "<타임> 지가 선정한 ‘올해의 인물’",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마이크로소프트 사의 빌 게이츠 회장과 그의 부인 멜린다 여사가 아일랜드 출신의 록커 보노와 함께 <타임> 지의 올해의 인물로 선정되었습니다. 이들 세 명은 변화를 이끌어낸 선한 사마리아인의 역할을 한 것 때문에 선정 되었습니다. 그들은 빈곤 퇴치 활동을 비롯하여 아프리카의 말라리아, 에이즈 바이러스 및 에이즈 퇴치를 위해 헌신적으로 노력한 공로를 인정 받았습니다. <타임> 지의12월19일 자판은 월요일에 발매 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. newsstand/ 신문 가판대",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "name",
+          "text": "(직책,지위 따위에) 지명[임명]하다"
+        },
+        {
+          "n": "Irish",
+          "text": "아일랜드의, 아일랜드인[어]의; 아일랜드 풍의"
+        },
+        {
+          "n": "Bono",
+          "text": "보노: 팔세토(falsetto) 창법이라고 불리우는 고음 음성을 가진 아일랜드 그룹 U2의 보컬로 본명은 폴 데이비드 휴슨(Paul David Hewson)이다."
+        },
+        {
+          "n": "Good Samaritan",
+          "text": "((성서)) 선한 사마리아인: <누가복음>에서 도둑의 습격을 받은 행인을 구해줬던 선한 사마리아인의 일화를 차용한 말로 남을 돕는 착한 사람을 지칭할 때 쓰인다."
+        },
+        {
+          "n": "make a difference",
+          "text": "변화를 가져오다, 차이를 낳다, 영향을 주다"
+        },
+        {
+          "n": "recognize",
+          "text": "(공적 등을) 인정하다, 표창하다"
+        },
+        {
+          "n": "commitment",
+          "text": "(…에의) 헌신, 전념, 열심"
+        },
+        {
+          "n": "eradicate",
+          "text": "…을 근절하다, 박멸하다, 전멸시키다"
+        },
+        {
+          "n": "HIV",
+          "text": "인체 면역결핍 바이러스(Human Immunodeficiency Virus); 에이즈 바이러스"
+        },
+        {
+          "n": "poverty",
+          "text": "가난, 빈곤"
+        },
+        {
+          "n": "relief",
+          "text": "(빈민,난민 등의) 구제, 구원, 구조"
+        },
+        {
+          "n": "issue",
+          "text": "(출판물의) 제 …쇄(刷)[판, 호]"
+        },
+        {
+          "n": "hit (the) newsstands",
+          "text": "((미속어)) 발매되다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/37.wmv",
+  "legacyEncoding": "binary"
+}

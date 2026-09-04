@@ -1,0 +1,47 @@
+{
+  "id": "pr025-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr025",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 025-1 ]",
+  "menuLabel": "[ pr025-1 ]",
+  "unit": 25,
+  "part": null,
+  "order": 49,
+  "audio": [
+    {
+      "src": "/audio/reading/pr025.mp3",
+      "legacySrc": "sounds/pr025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 025-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "만약 우리가 문제들에 대해 단지 생각만 하는 대신에 어떤 행동을 한다면, 우리의 절망과 분노의 감정이 아주 많이 완화될 수 있는 것은 놀라운 일이다. 놀이와 일은 둘 다 건강에 좋은 행동이며 정서적 분노로 초래된 긴장을 풀어준다. 놀이는 육체적인 휴식을 주며 우리가 다른 사람과 감정을 나누기 때문에 긴장을 완화시켜 준다. 일 또한 분노를 삭혀주고 넘쳐흐르는 에너지를 이용하는 효과적인 방법이다. 가끔씩은 생각들이 우리가 행동하기 시작할 때 생겨난다. 행동은 긴장을 풀어주고 우릴 자유롭게 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr025-1.htm",
+  "legacyEncoding": "utf-8"
+}

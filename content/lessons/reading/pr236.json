@@ -1,0 +1,79 @@
+{
+  "id": "pr236",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 236 ]",
+  "menuLabel": "[ pr236 ]",
+  "unit": 236,
+  "part": null,
+  "order": 470,
+  "audio": [
+    {
+      "src": "/audio/reading/pr236.mp3",
+      "legacySrc": "sounds/pr236.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 236 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "When you clean out your storage room, don’t throw out any “junk”"
+    },
+    {
+      "type": "hints",
+      "text": "until you determine its potential as a collectible.In fact, what often"
+    },
+    {
+      "type": "instruction",
+      "text": "appears to be a piece of worthless old junk may very well be quite"
+    },
+    {
+      "type": "instruction",
+      "text": "valuable. For instance, people often sell old record albums, bottles and"
+    },
+    {
+      "type": "instruction",
+      "text": "books for pennies only to see them resold for tens or hundreds of"
+    },
+    {
+      "type": "instruction",
+      "text": "dollars as parts of larger collections. Rarer cases involve people selling"
+    },
+    {
+      "type": "instruction",
+      "text": "paintings that were actually painted by famous painters.Therefore,"
+    },
+    {
+      "type": "instruction",
+      "text": "before you have a garage sale, call an antique dealer to help you"
+    },
+    {
+      "type": "instruction",
+      "text": "separate the valuable from the worthless junk."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr236.htm",
+  "legacyEncoding": "utf-8"
+}

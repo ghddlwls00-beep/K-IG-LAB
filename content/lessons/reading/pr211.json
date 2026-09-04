@@ -1,0 +1,55 @@
+{
+  "id": "pr211",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 211 ]",
+  "menuLabel": "[ pr211 ]",
+  "unit": 211,
+  "part": null,
+  "order": 420,
+  "audio": [
+    {
+      "src": "/audio/reading/pr211.mp3",
+      "legacySrc": "sounds/pr211.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 211 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "When we think of the public face of scientific genius, we often remember someone with old and graying appearances. For example, we think of Albert Einstein's disheveled hair. Charles Darwin's majestic beard. Isaac Newton's wrinkled visage."
+    },
+    {
+      "type": "hints",
+      "text": "Yet the truth is that most of the scientific breakthroughs that have changed our lives are usually made by people who are still in their 30s--and that includes Einstein, Newton and Darwin. Indeed, not surprisingly, younger scientists are less affected by (the intellectual dogma of the day) than their elders."
+    },
+    {
+      "type": "instruction",
+      "text": "They question authority instinctively. They do not believe it when they are told that a new idea is crazy, so they are free to do the impossible."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr211.htm",
+  "legacyEncoding": "utf-8"
+}

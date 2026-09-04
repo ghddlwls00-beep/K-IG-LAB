@@ -1,0 +1,47 @@
+{
+  "id": "pr176",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 176 ]",
+  "menuLabel": "[ pr176 ]",
+  "unit": 176,
+  "part": null,
+  "order": 350,
+  "audio": [
+    {
+      "src": "/audio/reading/pr176.mp3",
+      "legacySrc": "sounds/pr176.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 176 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people can learn a foreign language just by hearing it, and then trying to speak it. Other people have to read it and write it in order to learn it. So some people use their ears more, and others use their eyes more to lean new things. Take another example. I can't learn how to use a computer just by reading an instruction manual. But many people seem to learn how to use a computer just by reading the manual. In short, people learn things in different ways."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr176.htm",
+  "legacyEncoding": "utf-8"
+}

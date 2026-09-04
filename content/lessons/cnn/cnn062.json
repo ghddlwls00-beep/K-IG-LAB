@@ -1,0 +1,200 @@
+{
+  "id": "cnn062",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "How Would You Like Me to Cut Your Hair?",
+  "label": "How Would You Like Me to Cut Your Hair?",
+  "menuLabel": "[ CNN 62 ]",
+  "unit": 62,
+  "part": null,
+  "order": 61,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn062.mp4",
+      "legacySrc": "CNN/CNN61-120/62.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "How Would You Like Me to Cut Your Hair?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Hi. Do you have an appointment?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: No, I don’t.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: I could take you at 2 o’clock.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: That’s fine.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: And your name, please?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: Ashley.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: O.K. I’ll see you then.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: O.K.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Can I get a shampoo and a cut?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Sure. Follow me. How would you like me to cut your hair?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Could you take off about half an inch all over?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Did you want it over your ears?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Just on the ear would be fine.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "어떻게 잘라 드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 안녕하세요. 예약하셨습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 아니오. 안 했는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 2시에 해드릴 수 있겠는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 좋습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 성함이 어떻게 되죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 애실리입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 네. 그때 뵙겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 네.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 샴푸 받고 머리를 자를 수 있을까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 네, 저를 따라 오세요. 어떻게 잘라 드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 전체적으로1cm 정도 잘라 주시겠어요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 귀 위로 잘라 드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 귀에 닿을 정도로 잘라 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1) appointment",
+          "text": "(병원, 미용실 따위의) 예약; (회합 따위의) 약속"
+        },
+        {
+          "n": "2) shampoo",
+          "text": "샴푸하기, 세발(洗髮); 세발제, 샴푸"
+        },
+        {
+          "n": "3) a (hair)cut",
+          "text": "이발; (여성의) 머리 컷"
+        },
+        {
+          "n": "4) follow",
+          "text": "뒤따르다, 다음에 오다"
+        },
+        {
+          "n": "5) take off",
+          "text": "(머리를) 자르다"
+        },
+        {
+          "n": "6) half an inch",
+          "text": "1인치의 반: 1인치는 2.54cm이므로 여기서 1인치의 반을 약 1cm 정도라고 했다."
+        },
+        {
+          "n": "7) all over",
+          "text": "전체적으로"
+        },
+        {
+          "n": "8) over one’s ears",
+          "text": "귀 위로"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/62.wmv",
+  "legacyEncoding": "binary"
+}

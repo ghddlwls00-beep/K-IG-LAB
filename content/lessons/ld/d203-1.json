@@ -1,0 +1,75 @@
+{
+  "id": "d203-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d203",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 203 회 ]",
+  "menuLabel": "[ D 203-1 ]",
+  "unit": 203,
+  "part": null,
+  "order": 404,
+  "audio": [
+    {
+      "src": "/audio/ld/d203.mp3",
+      "legacySrc": "sounds/d203.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 203 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 덕성들에 대하여 이야기할 때 우리는 “중용지덕”이라는 한 오래된 로마 격언을 고려해야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "만약 덕이 지나치면 그것은 쉽게 악으로 변할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 과도한 겸손은 쉽게 위선이나 비겁함이 될지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 친구나 자녀에 대한 지나친 사랑은 이기심의 발로로 여겨질지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 지나친 친절이 악이 된다고 말하기는 어렵다."
+    },
+    {
+      "type": "instruction",
+      "text": "오히려 지나친 친절은 보통 전적으로 좋은 의도에 의하여 동기가 부여된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 단지 다른 사람이 원하는 것들과 바라는 것들을 고려하지 못하는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d203-1.htm",
+  "legacyEncoding": "utf-8"
+}

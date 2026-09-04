@@ -1,0 +1,75 @@
+{
+  "id": "d151-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d151",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 151 회 ]",
+  "menuLabel": "[ D 151-1 ]",
+  "unit": 151,
+  "part": null,
+  "order": 301,
+  "audio": [
+    {
+      "src": "/audio/ld/d151.mp3",
+      "legacySrc": "sounds/d151.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 151 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "큰 나라에서는 보통 굉장히 다양한 다른 물리적인 특성들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서는 넓은 평원과 높은 산과 수천개의 호수와 모든 크기의 강들과"
+    },
+    {
+      "type": "instruction",
+      "text": "시원한 숲과 더운 사막과 수천마일 길이의 해안선들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "긴 해안선뿐만 아니라 많은 호수와 강들이 사람과 사람들에게 필요한 모든 것들의"
+    },
+    {
+      "type": "instruction",
+      "text": "쉬운 수송을 가능하게 만들었기 때문에 그 나라의 발전에 대단히 중요해왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "물에 의한 수송은 여전히 필요하고 중요하다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 현대에는 열차, 자동차, 트럭, 비행기가 이전에 선박에 의하여 행해졌던 일을 많이 하고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d151-1.htm",
+  "legacyEncoding": "utf-8"
+}

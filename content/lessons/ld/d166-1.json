@@ -1,0 +1,83 @@
+{
+  "id": "d166-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d166",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 166 회 ]",
+  "menuLabel": "[ D 166-1 ]",
+  "unit": 166,
+  "part": null,
+  "order": 330,
+  "audio": [
+    {
+      "src": "/audio/ld/d166.mp3",
+      "legacySrc": "sounds/d166.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 166 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "더 잘 알려져 있거나 더 사랑받지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "1835년에 미주리 주에서 태어난 그는 미시시피 강의 강둑에서 자라났고 미시시피강의 뱃사람들이"
+    },
+    {
+      "type": "instruction",
+      "text": "강의 깊이를 측정하는 동안의 그들의 함성으로부터 “마크 퉤인이라는 필명을 나중에 택했다."
+    },
+    {
+      "type": "instruction",
+      "text": "강 환경이 그에게 가장 큰 명성을 가져다 준 두 소설 ”톰 소여“와 ”하클베리 핀“에 영감을 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 책 Life on the Mississippi는 그 시대의 강의 배들에서의 그의 모험에 대하여 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "작가로서 마크 퉤인의 생활이 시작된 것은 남북 전쟁 동안이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 당시에 그는 네바다와 캘리포니아에서 신문인으로서 일하고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 단편 ”The celebrated Jumping Frog of Calaveras County\"는"
+    },
+    {
+      "type": "instruction",
+      "text": "즉각적인 성공이었고 그의 새로운 경력이 시작되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d166-1.htm",
+  "legacyEncoding": "utf-8"
+}

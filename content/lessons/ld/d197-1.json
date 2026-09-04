@@ -1,0 +1,83 @@
+{
+  "id": "d197-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d197",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 197 회 ]",
+  "menuLabel": "[ D 197-1 ]",
+  "unit": 197,
+  "part": null,
+  "order": 392,
+  "audio": [
+    {
+      "src": "/audio/ld/d197.mp3",
+      "legacySrc": "sounds/d197.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 197 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "서커스단에서 뺄 수 없는 한 단원은 광대다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 익살과 묘기는 모든 시대의 어린이들을 즐겁게 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 어른들도 광대의 유머러스한 매력에 면역이 되어 있지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 태평스런 농담과 짓궂은 장난은 일상생활의 틀로부터의 유쾌한 탈출을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 충분히 놀랍게도 현대 서커스계의 가장 사랑받는 광대 중의 한 사람은"
+    },
+    {
+      "type": "instruction",
+      "text": "슬픈 얼굴을 한 “hobo\"다 실생활에서 이 광대는 우리 시대의 으뜸가는"
+    },
+    {
+      "type": "instruction",
+      "text": "서커스 광대인 Emmet Kelly이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 애교있는 유머와 가엾은 외로움은 전세계의 서커스 구경꾼의 마음을 사로잡아왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "거의 언제나 광대는 서커스단의 가장 인기있는 단원이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d197-1.htm",
+  "legacyEncoding": "utf-8"
+}

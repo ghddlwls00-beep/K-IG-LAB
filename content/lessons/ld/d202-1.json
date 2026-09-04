@@ -1,0 +1,87 @@
+{
+  "id": "d202-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d202",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 202 회 ]",
+  "menuLabel": "[ D 202-1 ]",
+  "unit": 202,
+  "part": null,
+  "order": 402,
+  "audio": [
+    {
+      "src": "/audio/ld/d202.mp3",
+      "legacySrc": "sounds/d202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 202 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람도 친절이 훌륭한 덕성이라는 사실을 반박하지 않을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람이 친절하다고 말하는 것은 그가 부드럽고 배려깊고 자선심이 많다고 말하는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 자신의 편리함보다는 다른 사람의 편안함을 중시한다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 알고 사랑해온 사람들을 되돌아보면 우리는 친절에"
+    },
+    {
+      "type": "instruction",
+      "text": "대하여 뛰어났던 어떤 사람들을 기억할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "어쩌면 우리 기억에 가장 생생하게 살아있는 선생님은 친절하고 부드러웠던 그분이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그분은 탁월하게 총명하지 않으셨을지 모르지만 그럼에도 불구하고 그는 우리에게 아마 단순한"
+    },
+    {
+      "type": "instruction",
+      "text": "학문적인 배움보다 더 중요한 친절에 대한 교훈을 가르쳐주셨다."
+    },
+    {
+      "type": "instruction",
+      "text": "친절은 그 부드러운 덕성이다. 그것은 우리 자신의 삶을 밝힐 뿐 아니라"
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 친구들과 친지들의 삶을 행복으로 채워주기도 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d202-1.htm",
+  "legacyEncoding": "utf-8"
+}

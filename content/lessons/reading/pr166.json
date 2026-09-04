@@ -1,0 +1,47 @@
+{
+  "id": "pr166",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 166 ]",
+  "menuLabel": "[ pr166 ]",
+  "unit": 166,
+  "part": null,
+  "order": 330,
+  "audio": [
+    {
+      "src": "/audio/reading/pr166.mp3",
+      "legacySrc": "sounds/pr166.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 166 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Mathematics definitely influenced Renaissance art. Renaissance art was different from the art in the Middle Ages in many ways. Prior to the Renaissance, objects in paintings were flat and symbolic rather than real in appearance. Artists during the Renaissance reformed painting. They wanted objects in paintings to be represented with accuracy. Mathematics was used to portray the essential form of objects in perspective, as they appeared to the human eye. Renaissance artists achieved perspective using geometry, which resulted in a naturalistic, precise, three-dimensional representation of the real world. The application of mathematics to art, particularly in paintings, was one of the primary characteristics of Renaissance art."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr166.htm",
+  "legacyEncoding": "utf-8"
+}

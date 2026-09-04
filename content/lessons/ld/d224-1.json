@@ -1,0 +1,75 @@
+{
+  "id": "d224-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d224",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 224 회 ]",
+  "menuLabel": "[ D 224-1 ]",
+  "unit": 224,
+  "part": null,
+  "order": 446,
+  "audio": [
+    {
+      "src": "/audio/ld/d224.mp3",
+      "legacySrc": "sounds/d224.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 224 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 행복한 사람일지라도 매일의 세계가 때때로 좀 지루할 수 있다는 것을 인정할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "생활비를 버는 것, 가족을 부양하는 것 - 간단히 말해서 생명을 유지하고 행복하게"
+    },
+    {
+      "type": "instruction",
+      "text": "지내는 문제들은 보통 사람에게 상당한 도전을 제시한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 아무리 성공적일지라도 그의 생활은 이따금씩의 우려로 어두워질 수밖에 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 우려를 잊기 위한 시도로써 그는 때때로 상상의 세계로 향한다."
+    },
+    {
+      "type": "instruction",
+      "text": "백일몽을 꾸는 능력은 일상 생활의 염려로부터의 즐거운 탈출을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 어떤 사람들은 자신의 의무와 책임을 등한시할 정도로까지 백일몽을 꾼다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d224-1.htm",
+  "legacyEncoding": "utf-8"
+}

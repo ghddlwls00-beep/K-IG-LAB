@@ -1,0 +1,63 @@
+{
+  "id": "am141",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 141 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 1,
+  "order": 136,
+  "audio": [
+    {
+      "src": "/audio/adults/am141.mp3",
+      "legacySrc": "sounds/am141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 141 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The History of Education in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "The Korean educational system has made many big changes in a fairly short amount of time."
+    },
+    {
+      "type": "instruction",
+      "text": "For instance, frequent changes have been made to our university entrance exam."
+    },
+    {
+      "type": "instruction",
+      "text": "What does this kind of change mean?"
+    },
+    {
+      "type": "instruction",
+      "text": "This means that more improvements must be made to the education system overall and not only to higher education."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am141.htm",
+  "legacyEncoding": "utf-8"
+}

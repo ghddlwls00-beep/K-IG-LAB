@@ -1,0 +1,165 @@
+{
+  "id": "gh1-067",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 067]",
+  "menuLabel": "[ gh1-067 ]",
+  "unit": 67,
+  "part": null,
+  "order": 110,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-067.mp3",
+      "legacySrc": "sounds/gh1-067.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 067]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 7"
+    },
+    {
+      "type": "instruction",
+      "text": "ABCD로 나누어서 외워주세요."
+    },
+    {
+      "type": "instruction",
+      "text": "<C > 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "54",
+          "text": "You studied English, didn't you?"
+        },
+        {
+          "n": "55",
+          "text": "He studies English, doesn't he?"
+        },
+        {
+          "n": "56",
+          "text": "Does he give money to each of his sons?"
+        },
+        {
+          "n": "57",
+          "text": "Does each student have his own room?"
+        },
+        {
+          "n": "58",
+          "text": "He goes there every year, doesn't he?"
+        },
+        {
+          "n": "59",
+          "text": "Which car does he need?"
+        },
+        {
+          "n": "60",
+          "text": "Who needs the house?"
+        },
+        {
+          "n": "61",
+          "text": "Why is the American sitting there?"
+        },
+        {
+          "n": "62",
+          "text": "Why was the British woman sitting there?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "63, She is happy, isn't she?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "64",
+          "text": "He is not poor, is he?"
+        },
+        {
+          "n": "65",
+          "text": "She was poor, wasn't she?"
+        },
+        {
+          "n": "66",
+          "text": "Everybody likes the house, don't they?"
+        },
+        {
+          "n": "67",
+          "text": "Everybody liked the house, didn't they?"
+        },
+        {
+          "n": "68",
+          "text": "Nobody likes it, do they?"
+        },
+        {
+          "n": "69",
+          "text": "Nobody liked it, did they?"
+        },
+        {
+          "n": "70",
+          "text": "Every boy receives a prize."
+        },
+        {
+          "n": "71",
+          "text": "All the boys receive a prize."
+        },
+        {
+          "n": "72",
+          "text": "Each boy receives a prize."
+        },
+        {
+          "n": "73",
+          "text": "Every boy received a prize."
+        },
+        {
+          "n": "74",
+          "text": "All the boys received a prize."
+        },
+        {
+          "n": "75",
+          "text": "Each boy received a prize."
+        },
+        {
+          "n": "76",
+          "text": "Every boy received a prize, didn't he?"
+        },
+        {
+          "n": "77",
+          "text": "Each boy received a prize, didn't he?"
+        },
+        {
+          "n": "78",
+          "text": "All the boys received a prize, didn't they?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-067.htm",
+  "legacyEncoding": "utf-8"
+}

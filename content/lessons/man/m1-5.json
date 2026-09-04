@@ -1,0 +1,78 @@
+{
+  "id": "m1-5",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m1-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 5,
+  "order": 5,
+  "audio": [
+    {
+      "src": "/audio/man/m1-5-1.mp3",
+      "legacySrc": "m1-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-5-2.mp3",
+      "legacySrc": "m1-5.swf#event",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 취미는 독서, 음악 감상, 하이킹, 영화 감상, 운동하는 것과 보는 것이지만 그 중에서도 특히 하이킹을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My hobbies include reading books, listening to music, hiking, watching movies and playing and watching sports, but I especially like hiking.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My hobbies include reading books, listening to music, hiking, watching movies and playing and watching sports, but I especially like hiking.6",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Hobbies",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m1-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m1-5.swf"
+  ]
+}

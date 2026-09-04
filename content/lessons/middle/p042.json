@@ -1,0 +1,55 @@
+{
+  "id": "p042",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 042 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 2,
+  "order": 44,
+  "audio": [
+    {
+      "src": "/audio/middle/p042.mp3",
+      "legacySrc": "sounds/p042.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 042 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Aunts, Uncles, and Cousins)"
+    },
+    {
+      "type": "hints",
+      "text": "I have many relatives because my father and mother have many"
+    },
+    {
+      "type": "instruction",
+      "text": "brothers and sisters."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p042.htm",
+  "legacyEncoding": "utf-8"
+}

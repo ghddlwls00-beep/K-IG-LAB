@@ -1,0 +1,47 @@
+{
+  "id": "pr041",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 041 ]",
+  "menuLabel": "[ pr041 ]",
+  "unit": 41,
+  "part": null,
+  "order": 80,
+  "audio": [
+    {
+      "src": "/audio/reading/pr041.mp3",
+      "legacySrc": "sounds/pr041.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 041 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In general, every achievement requires trial and error. As youth, we need not feel ashamed of making mistakes in trying to find or win our place in a social group. It is not easy to learn to fit into a group or to develop a personality that help us to fit in. It is somewhat like learning to play a game like baseball or basketball. We can hardly expect to learn without making a good many mistakes in the process."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr041.htm",
+  "legacyEncoding": "utf-8"
+}

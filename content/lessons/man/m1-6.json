@@ -1,0 +1,88 @@
+{
+  "id": "m1-6",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m1-6",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 6,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/man/m1-6-1.mp3",
+      "legacySrc": "m1-6.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-6-2.mp3",
+      "legacySrc": "m1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-6-3.mp3",
+      "legacySrc": "m1-6.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 여가시간에, 또한 나는 다른 사람들을 돕는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In my free time, I also like to help/helping other people.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 고아원에서 자원봉사 하는 것을 좋아하고 적어도 한 달 동안 그곳에서 아이들을 돕는 것을 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like to volunteer at the orphanage and help the children there at least once month.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volunteer Work",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m1-6.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m1-6.swf"
+  ]
+}

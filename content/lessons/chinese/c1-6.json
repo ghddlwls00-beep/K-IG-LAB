@@ -1,0 +1,113 @@
+{
+  "id": "c1-6",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "服务活动(봉사 활동)",
+  "label": "服务活动(봉사 활동)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 6,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-6.mp3",
+      "legacySrc": "c1-6.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-6-1.mp3",
+      "legacySrc": "중국어음성/c1-6-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-6-2.mp3",
+      "legacySrc": "중국어음성/c1-6-2.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-6"
+    },
+    {
+      "type": "paragraph",
+      "text": "服务活动(봉사 활동)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른 사람들을 개인적으로 돕기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我喜欢自己帮助别人。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "제가 다른 사람들을 도울 때 그것은 저를 행복하게 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我能帮助别是一件很幸福的事情。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 고아원에 자원하기를 좋아하고 거기서 아이들을 도와줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我喜欢在孤儿院的帮助小孩子。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "고아원에 자원하는 것은 저에게 신나는 시간입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我在孤儿院度过的时间最快乐。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    }
+  ],
+  "legacyPath": "중국/c1-6.html",
+  "legacyEncoding": "utf-8"
+}

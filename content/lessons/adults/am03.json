@@ -1,0 +1,187 @@
+{
+  "id": "am03",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 03 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": null,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/adults/am03.mp3",
+      "legacySrc": "sounds/am03.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 03 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 3: Introducing My Best Friend"
+    },
+    {
+      "type": "hints",
+      "text": "Greeting"
+    },
+    {
+      "type": "instruction",
+      "text": "Almost everyone in the world has a best friend."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce my best friend 김민수 to you."
+    },
+    {
+      "type": "instruction",
+      "text": "About My Friend’s Personal Background"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend 민수 is 40 years old and lives in 서울."
+    },
+    {
+      "type": "instruction",
+      "text": "He has a really wonderful family that includes a beautiful wife, son, and daughter."
+    },
+    {
+      "type": "instruction",
+      "text": "His wife’s name is 박수민, she stays home to take care of their home and family."
+    },
+    {
+      "type": "instruction",
+      "text": "His son, 진수 is (14), and he is a student at 한국 Middle School."
+    },
+    {
+      "type": "instruction",
+      "text": "민지 is his daughter, and she attends 한국 Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "His house and mine are somewhat near each other, so we try to meet once a month to catch up on what’s been going on in our lives."
+    },
+    {
+      "type": "instruction",
+      "text": "How I Met My Best Friend"
+    },
+    {
+      "type": "instruction",
+      "text": "We met for the first time ten years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "We attended the same school, which was located in a beautiful village."
+    },
+    {
+      "type": "instruction",
+      "text": "We were in the same class, so we hung out almost everyday until we graduated high school."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend’s Personality, Talents, and Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend is an Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "He is like me in many ways, such as he is also very outgoing."
+    },
+    {
+      "type": "instruction",
+      "text": "Although he is sometimes much more shy than I am."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend is Talented"
+    },
+    {
+      "type": "instruction",
+      "text": "My friend has great talents."
+    },
+    {
+      "type": "instruction",
+      "text": "For example, he is very good at English, and he is very intelligent."
+    },
+    {
+      "type": "instruction",
+      "text": "When he was younger, he studied all of the time and did really well in school."
+    },
+    {
+      "type": "instruction",
+      "text": "He was able to graduate from a very good university, and now, he works for a very prestigious company."
+    },
+    {
+      "type": "instruction",
+      "text": "I’ve learned many things about life from him, and I (still) have a lot to learn from him."
+    },
+    {
+      "type": "instruction",
+      "text": "민수 always understands my problems, and whenever I need help, he is always there."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m proud to call him my best friend."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend has Many Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "민수 and I share the same hobbies."
+    },
+    {
+      "type": "instruction",
+      "text": "We often meet and do things together."
+    },
+    {
+      "type": "instruction",
+      "text": "We both like to fish and play sports."
+    },
+    {
+      "type": "instruction",
+      "text": "We try to play soccer together once a month."
+    },
+    {
+      "type": "instruction",
+      "text": "We also try to go fishing a few times year together."
+    },
+    {
+      "type": "instruction",
+      "text": "Last winter vacation, our families went to 경주 and had a good time together."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of 민수, I know how important it is to have a best friend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am03.htm",
+  "legacyEncoding": "utf-8"
+}

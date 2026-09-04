@@ -1,0 +1,47 @@
+{
+  "id": "pr200",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 200 ]",
+  "menuLabel": "[ pr200 ]",
+  "unit": 200,
+  "part": null,
+  "order": 398,
+  "audio": [
+    {
+      "src": "/audio/reading/pr200.mp3",
+      "legacySrc": "sounds/pr200.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 200 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "I do not deny that the feeling of success makes it easier to enjoy life. A painter, let us say, who has been obscure throughout his youth, is likely to become happier if he wins recognition. Nor do I deny that money, up to a certain point, is very capable of increasing happiness; beyond that point, I do not think it does so. What I do maintain is that success can only be one ingredient in happiness, and is too dearly purchased if all the other ingredients have been sacrificed to obtain it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr200.htm",
+  "legacyEncoding": "utf-8"
+}

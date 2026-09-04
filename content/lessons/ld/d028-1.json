@@ -1,0 +1,79 @@
+{
+  "id": "d028-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d028",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 028 회 ]",
+  "menuLabel": "[ D 028-1 ]",
+  "unit": 28,
+  "part": null,
+  "order": 55,
+  "audio": [
+    {
+      "src": "/audio/ld/d028.mp3",
+      "legacySrc": "sounds/d028.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 028 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "좋은 오후입니다. 저는 캐나다 전국 수영 대회의 여러분의 스포츠 아나운서인 Kevin taylor입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 현재까지 이곳에서 몇몇 정말로 신나는 경주들을 가져왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "스무개의 스포츠 클럽으로부터 팀들이 왔고 그들의 팬들이 그들과 함께 왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 프로그램의 다음 행사는 여성 100미터 자유형입니다. 여기 이 시합의 수영 선수들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "City Sports Club으로부터의 Angela Edwards는 1번 레인에 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 이 달에 현재까지 세 번의 시합에서 이겼지만 아직 어떤 기록도 깨지 못했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Toronto로부터 온 Karen Gibson은 독감에 걸려서 오늘은 수영할 수 없습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Karen이 올해 네 개의 기록을 깼기 때문에 그것은 너무나 유감입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d028-1.htm",
+  "legacyEncoding": "utf-8"
+}

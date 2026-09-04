@@ -1,0 +1,91 @@
+{
+  "id": "p241",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 241]",
+  "menuLabel": null,
+  "unit": 24,
+  "part": 1,
+  "order": 222,
+  "audio": [
+    {
+      "src": "/audio/middle/p241.mp3",
+      "legacySrc": "sounds/p241.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 241]"
+    },
+    {
+      "type": "instruction",
+      "text": "(The Person Whom I Respect the Most)"
+    },
+    {
+      "type": "hints",
+      "text": "I have read about many interesting people in history books."
+    },
+    {
+      "type": "instruction",
+      "text": "I admire and respect some of those people who appear in them."
+    },
+    {
+      "type": "instruction",
+      "text": "The person I respect the most is General Soon-Shin Lee."
+    },
+    {
+      "type": "instruction",
+      "text": "GeneralLee lived about 500 years ago,"
+    },
+    {
+      "type": "instruction",
+      "text": "and he defeated the Japanese in battle many times."
+    },
+    {
+      "type": "instruction",
+      "text": "He lived during a difficult time of Korean history,"
+    },
+    {
+      "type": "instruction",
+      "text": "but he always thought of Korea and Koreans before himself."
+    },
+    {
+      "type": "instruction",
+      "text": "I respect him because he was able to prepare"
+    },
+    {
+      "type": "instruction",
+      "text": "and carry out great triumphs over his enemies."
+    },
+    {
+      "type": "instruction",
+      "text": "He always was confident that they would be successful"
+    },
+    {
+      "type": "instruction",
+      "text": "and victorious."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p241.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,516 @@
+{
+  "id": "cnn012",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Cloning* Controversy*",
+  "label": "Cloning* Controversy*",
+  "menuLabel": "[ CNN 12 ]",
+  "unit": 12,
+  "part": null,
+  "order": 11,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn012.mp4",
+      "legacySrc": "CNN/CNN1-60/12.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Cloning* Controversy*"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDREW STEVENS, CNN Anchor: A South Korean stem cell research pioneer has publicly apologized for ethical lapses. Dr. Hwang Woo-suk resigned as head of a stem cell research hub after admitting that two female scientists in his laboratory donated their own eggs for research. Sohn Ji-ae has more from Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN JI-AE, CNN Seoul Bureau Chief: Only months ago South Korean stem cell scientist Hwang Woo-suk unveiled yet another breakthrough from his laboratory at Seoul National University, the world's first cloned dog, Snuppy. Hwang won global fame and his creation, Snuppy, landed on the cover of Time Magazine as one of the most promising inventions of 2005. But now Hwang finds himself in the doghouse. The distraught professor sat down with CNN at two in the morning to shed light on ethical violations in his laboratory.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HWANG WOO-SUK, Stem Cell Researcher: It's true that two of my researchers donated their eggs of their free will. I was able to confirm this after May 2004.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN: Under international guidelines scientists are discouraged from using employees as donors as a precaution against exploitation. Hwang said he had denied the egg donations because one of the researchers had asked for her privacy to be maintained.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HWANG: But now looking back, I realize that this will probably be considered the most blatant example of my making the wrong decision.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN: Human eggs are needed to produce cloned human embryos which in turn",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "provide human stem cell lines, possibly providing the cure for such diseases as diabetes or Parkinson's disease. Hwang's laboratory is renowned for creating the human stem cells more efficiently than any other. Even before his announcement, reports of the ethical breach at Hwang's lab had international consequences. A leading U.S. stem cell scientist, Gerald Schatten, has severed ties with Hwang. To prevent further repercussions and to take responsibility for the incident, Hwang has resigned as president of the World Stem Cell Hub, an organization he founded to further global cooperation in stem cell research. And while he will remain a researcher at Seoul National, Hwang will take some time off.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HWANG: My current physical and mental condition doesn't allow me to return to research, right away. I need time to look back on my past and redesign my future.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN: South Koreans, who treat Hwang as a national hero, don't seem to have given up on him. In the past few days, an Internet blog \"I Love Hwang\" has seen over a hundred offers from women wishing to donate their eggs to his research. But Hwang's troubles may be a wake-up call for ambitious researchers.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ART CAPLAN, University of Pennsylvania: When this kind of event takes place, I think the scientific community is reminded it isn't just the science and it isn't just the skills of the scientist. You have to lay in an ethics infrastructure. It has to permeate the lab, it has to permeate the scientists that you're partnering with.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN: And there is anxiety in South Korea at the ethical question surrounding Hwang's work will damage not only the international reputation of his lab, but the country's growing reputation in cloning research. Sohn Ji-ae, CNN, Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "'황우석 복제 요구'를 둘러싼 논란",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤드류 스티븐슨, CNN 앵커: 한국 줄기세포 연구의 선구자가 윤리적 과실에 대해 공개적으로 사과문을 발표했습니다. 황우석 박사는 2명의 여성 연구원이 연구를 위해 난자를 기증한 사실을 시인한 후 줄기세포연구허브 소장직을 사퇴했습니다. 서울에서 손지애 기자가 보다 자세한 소식을 전해 드리겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손지애, CNN 서울 지부장: 불과 몇 달 전만해도 한국인 줄기 세포 과학자, 황우석 박사는 그가 일하는 서울대 연구소가 거둔 또 하나의 과학적 쾌거인 세계 최초의 복제 개, 스너피를 선보였습니다. 이로써 황박사는 세계적 명성을 얻었고, 황박사가 만들어낸 스너피는 2005년 가장 전도유망한 발명품으로 <타임> 지 표지를 장식했습니다. 하지만 이제는 황박사가'개집'에 갇힌 신세가 되었습니다. 넋이 나간 듯한 모습의 황 교수는 새벽 두 시에 CNN기자가 함께 한 자리에서 자신의 연구소에서 일어난 윤리 (준칙) 위배 사실을 솔직히 털어놓았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "황우석, 줄기세포 연구자: 연구원 두 명이 자발적으로 난자를 기증한 것은 사실입니다. 2004년 5월 말 경에야 이 사실을 확인할 수 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손: 국제 지침은 과학자들이 (자신의 직위를 이용한) 착취를 막기 위한 조치로서 피고용인들의 장기를 기증받는 것을 금지하고 있습니다. 황박사는 제공자 중 한 명이 사생활 보호를 요청했기 때문에 난자를 제공받은 사실을 부인했다고 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "황: 돌이켜 보니 그것이 제가 내린 잘못된 결정의 가장 단적인 예가 될 것 같습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손: 인간배아복제를 위해서는 인간의 난자가 필요하고 이 복제된 배아에서 인간(배아)줄기 세포주를 얻게 되며, 이것이 당뇨병, 파킨슨 병과 같은 난치병 치료의 가능성을 제시하고 있습니다. 황박사 연구팀은 그 누구보다도 효율적으로 인간줄기세포를 추출하여 명성을 얻었습니다. 황박사의 공식 성명 발표 이전에 이미 황박사의 연구실에서 일어난 윤리 (준칙) 위배에 대한 보도는 국제적 파장을 불러일으켰습니다. 저명한 미국 줄기 세포 과학자 제럴드 섀튼은 황박사와의 결별을 선언 했습니다. 더 이상의 파장을 막고 이번 사태에 대한 책임을 지기 위해 황박사는 줄기세포 연구의 전세계적인 협력을 도모하려는 목적으로 자신이 설립한 세계줄기세포연구허브의 소장직을 사퇴했습니다. 서울대에 앞으로 연구자로 남게 될 황박사는 당분간 휴식을 취할 것으로 보입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "황: 지금과 같은 몸과, 정신 상태로는 연구에 바로 복귀 하기가 힘듭니다. 지난 시간을 되돌아보고 미래를 다시 설계할 시간이 필요합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손: 황박사를 국가적 영웅으로 여기는 한국인들은 그를 단념하지 않은 듯 보입니다. 지난 며칠간 인터넷 블로그 '아이러브 황우석'에 황박사의 연구에 난자를 제공하겠다는 의사를 밝힌 여성만도 100명을 넘었습니다. 하지만 이번 황박사의 (난자 기증) 파문은 야심찬 연구자들에게 경종을 울리는 듯 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아트 캐플란, 펜실베이니아 대학: 이 같은 일이 발생할 때 이것이 단순히 과학 그 자체나 과학자의 자질을 묻는 게 아니라는 사실을 과학계에 주지시킬 필요가 있다고 생각합니다. 연구는 윤리적 기반 위에서 행해져야 합니다. 이러한 의식이 연구소 내뿐 아니라 같이 일하는 모든 과학자들 사이에 확산되어야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손: 한국 내에서는 황박사의 업적을 둘러싼 윤리문제가 그의 연구소의 국제적 인지도와 세계적으로 명성을 더해가고 있는 한국의 복제 연구에 악영향을 줄까 우려하고 있습니다. 서울에서CNN, 손지애였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "st-는 무성음의 중복으로 발음의 편리상 [스ㄸ]로 [t]를 된소리로 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cell의 첫 자음 [s]는 모음 앞에서는 된소리로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hub가 우리가 알고 있는'허브'로 발음되지 않고 [합]으로 발음된 것에 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "admitting의 ad-가 강세를 받지 못해 [미팅]으로 발음되어 meeting으로 착각할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "after는 앵커가 영국식 발음을 구사해 [애프터]가 아닌 [아프터]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "laboratory의 la-와 3번째, 4번째 모음을 탈락시켜 [레버러츄리]가 아닌 [버츄리]라고 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이렇게 앵커에 따라서 원래의 발음과 다르게 발음되는 경우는 의미를 파악하기 어렵기 때문에 앞뒤 문맥으로 감을 잡을 수 밖에 없다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 손지애 기자가 laboratory를 [레버러터리]라고 발음한 것과 비교해 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "shed와 light의 끝자음을 앞모음의 받침으로 간결하게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "끝자음에 우리말의 [으]를 붙여 [쉐드], [라이트]라고 발음하지 않도록 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parkinson의 -son 부분을 발음하지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 알고 있는'파킨슨'과 다르게 발음된 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앞에 Hwang Woo-suk을 CNN 앵커가 [황우숙]이라고 발음한 것도 발음 실수 중의 하나라고 볼 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[이피션틀리]로 발음되지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫모음 [i]가 강세를 받지 못해 [으]로 약화되고 중간의 -nt가 탈락되어 마치 officially처럼 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠르게 진행되는 대화나 뉴스에서는 종종 단어의 철자가 바뀌어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "물론 발음의 편리상 뒤바뀌는 것인데, repercussions의 -per-가 -pre-로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앞에 나온 promising이나 produce도 모두 같은 경우다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "treat가 [츄리]로 발음되어 tree와 혼동되지만, treat A as B를 하나의 이디엄으로 알아두면 청취에 도움된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tr-은 [t]가 [r]의 영향을 받아 [트]가 아니라 [츄]로 변형 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "national은 1음절에 강세가 있고 2, 3음절이 약화되어 [내셔널]이 아니라 [내슨을]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어가'자음+모음'으로 연음되어 for와 am- 부분이 from으로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. clone/ 복제하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. hub/ (상업,권위 따위의) 중심, 중추",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. sever/ …을 절단하다, 끊다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "stem cell research hub",
+          "text": "[스뗌쎌 리써취 합]."
+        },
+        {
+          "n": "after admitting",
+          "text": "[아프터- 미팅]"
+        },
+        {
+          "n": "in his laboratory",
+          "text": "[인히즈버츄리]."
+        },
+        {
+          "n": "shed light on",
+          "text": "[쉗라잇언]."
+        },
+        {
+          "n": "Parkinson's disease",
+          "text": "[파킨ㅈ 디지ㅈ]."
+        },
+        {
+          "n": "efficiently",
+          "text": "[으피셜리]."
+        },
+        {
+          "n": "further repercussions",
+          "text": "[퍼더 레프리커션ㅈ]."
+        },
+        {
+          "n": "treat Hwang as a national hero",
+          "text": "[츄리ㅌ 황 애스 어 내슨을 히로우]"
+        },
+        {
+          "n": "for ambitious",
+          "text": "[프램비셔ㅅ]."
+        },
+        {
+          "n": "* cloning",
+          "text": "복제: 미수정란의 핵을 체세포의 핵으로 바꿔 놓아 유전적으로 똑같은 생물을 얻는 기술"
+        },
+        {
+          "n": "* controversy",
+          "text": "논쟁"
+        },
+        {
+          "n": "1) stem cell",
+          "text": "줄기세포: 인간의 몸을 구성하는 서로 다른 세포나 장기로 성장하는 일종의 모세포로, 간세포(幹細胞)라 불리기도 한다. 이 줄기 세포에는 사람의 배아를 이용해 만들 수 있는 '배아줄기세포'와 혈구세포를 끊임없이 만드는 골수세포와 같은'성체줄기세포'가 있다."
+        },
+        {
+          "n": "2) pioneer",
+          "text": "(미개지,새 분야 등의) 개척자, 선구자, 주창자"
+        },
+        {
+          "n": "3) publicly",
+          "text": "공개적으로; 공적으로"
+        },
+        {
+          "n": "4) apologize for",
+          "text": "…에 대해 사과하다, 사죄하다, 변명하다"
+        },
+        {
+          "n": "5) ethical",
+          "text": "도덕상의, 윤리적인"
+        },
+        {
+          "n": "6) lapse",
+          "text": "실수, 잘못"
+        },
+        {
+          "n": "7) resign",
+          "text": "(특히 정식으로) 사임하다, 사직하다"
+        },
+        {
+          "n": "8) stem cell research hub",
+          "text": "줄기세포연구허브: 정식명칭은 세계줄기세포허브(WSCH: World Stem Cell Hub)로 인간 줄기세포의 연구와 교육 분야에서 세계적 연구자들간 협력을 통해 질병의 원인 규명, 세포분화 및 신약개발 연구, 새로운 세포치료와 이식의학 기술 개발 등을 추진한다는 계획 하에 서울대학교병원 건강검진센터 내에 세워졌다."
+        },
+        {
+          "n": "9) laboratory",
+          "text": "실험실[소], 시험소, 연구실[소]"
+        },
+        {
+          "n": "10) donate",
+          "text": "(혈액,장기 등을) 제공[기증]하다"
+        },
+        {
+          "n": "11) egg (cell)",
+          "text": "난자"
+        },
+        {
+          "n": "12) unveil",
+          "text": "나타내 보이다, 발표하다"
+        },
+        {
+          "n": "13) breakthrough",
+          "text": "(과학 등의) 큰 발전, 약진, (귀중한) 새 발견"
+        },
+        {
+          "n": "14) win global fame",
+          "text": "국제적 명성을 얻다"
+        },
+        {
+          "n": "15) land on",
+          "text": "…에 착륙하다, 닿다, …에 내리다"
+        },
+        {
+          "n": "16) promising",
+          "text": "장래성 있는, 전도유망한"
+        },
+        {
+          "n": "17) in the doghouse",
+          "text": "((미속어)) 면목을 잃고, 미움을 사서, 인기가 떨어져"
+        },
+        {
+          "n": "18) distraught",
+          "text": "정신이 혼란한"
+        },
+        {
+          "n": "19) shed light on",
+          "text": "…을 명백히하다; …을 비추다"
+        },
+        {
+          "n": "20) violation",
+          "text": "(법률,약속 따위의) 위반; 침해"
+        },
+        {
+          "n": "21) free will",
+          "text": "자유 의지[의사]"
+        },
+        {
+          "n": "22) confirm",
+          "text": "(진술 따위를) 확실하게 하다, 확증하다"
+        },
+        {
+          "n": "23) be discouraged from",
+          "text": "(계획,사업 따위를) 못하게 되다, 단념하게 되다"
+        },
+        {
+          "n": "24) donor",
+          "text": "혈액[조직, 장기] 제공자"
+        },
+        {
+          "n": "25) precaution",
+          "text": "예방 조치, 사전 대책"
+        },
+        {
+          "n": "26) exploitation",
+          "text": "이기적 이용, (노동력의) 착취"
+        },
+        {
+          "n": "27) blatant",
+          "text": "노골적인, 심한"
+        },
+        {
+          "n": "28) embryo",
+          "text": "(보통 임신 8주일까지의) 태아, 배아"
+        },
+        {
+          "n": "29) in turn",
+          "text": "차례로, 번갈아, 이번에는"
+        },
+        {
+          "n": "30) human stem cell line",
+          "text": "인간(배아)줄기세포주: 한 개의 인간배아로부터 추출, 배양된 재생(reproduction) 능력이 있는 세포군(clony)"
+        },
+        {
+          "n": "31) diabetes",
+          "text": "당뇨병"
+        },
+        {
+          "n": "32) Parkinson's disease",
+          "text": "파킨슨 병"
+        },
+        {
+          "n": "33) be renowned for",
+          "text": "…으로 유명하다, 명성이 있다"
+        },
+        {
+          "n": "34) breach",
+          "text": "(법률,도덕,약속 등의) 위반, 불이행, 침해"
+        },
+        {
+          "n": "35) consequences",
+          "text": "결론, 귀결; 중요성, 중대함; (지위,입장 따위의) 중요함"
+        },
+        {
+          "n": "36) leading",
+          "text": "주요한, 중견[중진]의; 일류의, 뛰어난"
+        },
+        {
+          "n": "37) sever ties with",
+          "text": "…와 (인연,관계 등을) 끊다, …의 사이를 가르다"
+        },
+        {
+          "n": "38) repercussion",
+          "text": "(간접적) 영향; (사건,행동 등의 오래 남는) 영향"
+        },
+        {
+          "n": "39) take responsibility for",
+          "text": "…의 책임을 지다"
+        },
+        {
+          "n": "40) found",
+          "text": "(회사,학교 따위를) 창설[창립, 설립, 제정, 수립]하다; …을 시작하다"
+        },
+        {
+          "n": "41) cooperation",
+          "text": "협동, 협력, 협조"
+        },
+        {
+          "n": "42) take some time off",
+          "text": "얼마간 (활동을) 일시적으로 중단하다[휴식을 갖다]"
+        },
+        {
+          "n": "43) mental",
+          "text": "마음의, 정신의, 심적인"
+        },
+        {
+          "n": "44) look back on",
+          "text": "…을 되돌아 보다, 돌이켜보다"
+        },
+        {
+          "n": "45) give up on",
+          "text": "…을 단념하다, 포기하다"
+        },
+        {
+          "n": "46) wake-up call",
+          "text": "경종; 모닝콜"
+        },
+        {
+          "n": "47) ambitious",
+          "text": "대망을 품은, 야심[야망]을 가진, 공명심이 있는"
+        },
+        {
+          "n": "48) scientific community",
+          "text": "과학계: 과학 분야의 연구자 모두를 의미"
+        },
+        {
+          "n": "49) lay in",
+          "text": "…위에 기반하다[놓이다]"
+        },
+        {
+          "n": "50) infrastructure",
+          "text": "(조직,제도 따위의) 하부 조직[구조], 토대, 인프라"
+        },
+        {
+          "n": "51) permeate",
+          "text": "(사상 등이) …에 퍼지다, 보급하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/12.wmv",
+  "legacyEncoding": "binary"
+}

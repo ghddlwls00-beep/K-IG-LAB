@@ -1,0 +1,83 @@
+{
+  "id": "p141",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 141 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 1,
+  "order": 144,
+  "audio": [
+    {
+      "src": "/audio/middle/p141.mp3",
+      "legacySrc": "sounds/p141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 141 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Dream for the Future)"
+    },
+    {
+      "type": "hints",
+      "text": "There are many jobs in the world,"
+    },
+    {
+      "type": "instruction",
+      "text": "and it is very hard to choose only one."
+    },
+    {
+      "type": "instruction",
+      "text": "I am still young,"
+    },
+    {
+      "type": "instruction",
+      "text": "but I have read many different kinds of books that have changed"
+    },
+    {
+      "type": "instruction",
+      "text": "my mind many times already about what I want to be."
+    },
+    {
+      "type": "instruction",
+      "text": "How can I choose among all of the great jobs like being a doctor,"
+    },
+    {
+      "type": "instruction",
+      "text": "movie star, and a lawyer?"
+    },
+    {
+      "type": "instruction",
+      "text": "Out of all these fantastic careers,"
+    },
+    {
+      "type": "instruction",
+      "text": "my dream right now is to be a teacher."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p141.htm",
+  "legacyEncoding": "utf-8"
+}

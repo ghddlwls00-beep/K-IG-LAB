@@ -1,0 +1,59 @@
+{
+  "id": "aw101",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 101 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 1,
+  "order": 99,
+  "audio": [
+    {
+      "src": "/audio/adults/aw101.mp3",
+      "legacySrc": "sounds/aw101.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 101 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Childhood)"
+    },
+    {
+      "type": "hints",
+      "text": "When I was young I liked to play with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "We always played late into the night and when I got home my mother sometimes scolded me."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother said I was a troublemaker and I was accident-prone too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw101.htm",
+  "legacyEncoding": "utf-8"
+}

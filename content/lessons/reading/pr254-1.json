@@ -1,0 +1,47 @@
+{
+  "id": "pr254-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr254",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 254-1 ]",
+  "menuLabel": "[ pr254-1 ]",
+  "unit": 254,
+  "part": null,
+  "order": 507,
+  "audio": [
+    {
+      "src": "/audio/reading/pr254.mp3",
+      "legacySrc": "sounds/pr254.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 254-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리 교육이 수학과 언어같은 기본 과목에 있어 높은 수준을 충족시키지 못하고 있다는 건 의심할 여지가 없다. 또한 우리는 어린이들이 라틴어에 무지하고, 뭇솔리니와 도스토에프스키를 같은 범주로 여기며, 주기율표를 외우지 못한다는 것을 알고 있다. 그렇지만 애들의 성장하는 머리 속에 수많은 기하학 문제와 세계의 강 이름으로 채우기를 더 원할 건가? 진정 그들의 자기표현의 기회를 좌절시키길 원하는가?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr254-1.htm",
+  "legacyEncoding": "utf-8"
+}

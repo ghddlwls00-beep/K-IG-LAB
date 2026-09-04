@@ -1,0 +1,47 @@
+{
+  "id": "pr021-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr021",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 021-1 ]",
+  "menuLabel": "[ pr021-1 ]",
+  "unit": 21,
+  "part": null,
+  "order": 41,
+  "audio": [
+    {
+      "src": "/audio/reading/pr021.mp3",
+      "legacySrc": "sounds/pr021.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 021-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "양심의 기능은 사회가 자기 보존을 위해 만든 모든 법보다 더욱 효과적이다, 그로 인해 사회 법이 준수되는지를 보기 위해 모든 사람의 가슴안에 경찰을 두고 있다. 심지어 사람이 사회가 어떠한 관심을 가지지 않는다고 상상할 수 있는 영역인 인간의 가장 사적인 일에서조차 양심은 사람을 자신의 외부의 이 유기체의 선함에 따라 행하도록 인도하는 것은 주목할 만하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr021-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr238",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 238 ]",
+  "menuLabel": "[ pr238 ]",
+  "unit": 238,
+  "part": null,
+  "order": 474,
+  "audio": [
+    {
+      "src": "/audio/reading/pr238.mp3",
+      "legacySrc": "sounds/pr238.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 238 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Abundant energy is essential to modern civilization. Energy beyond that provided by human or animal muscles is needed for operating our factories, for heating and cooking our homes, for powering most forms of transportation, and for hundreds of other purposes, Presently coal and oil supply the majority of our energy needs. But coal, when burned, tends to pollute the air, and oil is becoming scarcer. Other sources, therefore, must be developed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr238.htm",
+  "legacyEncoding": "utf-8"
+}

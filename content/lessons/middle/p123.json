@@ -1,0 +1,75 @@
+{
+  "id": "p123",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 123 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 130,
+  "audio": [
+    {
+      "src": "/audio/middle/p123.mp3",
+      "legacySrc": "sounds/p123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 123 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Winter Vacation)"
+    },
+    {
+      "type": "hints",
+      "text": "During winter vacation, we don’t travel very often."
+    },
+    {
+      "type": "instruction",
+      "text": "However, last year we went on a short skiing trip"
+    },
+    {
+      "type": "instruction",
+      "text": "to KangWon Province."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother wants me to study more,"
+    },
+    {
+      "type": "instruction",
+      "text": "so every day during winter break, she makes me study."
+    },
+    {
+      "type": "instruction",
+      "text": "Because I like to read by myself, I usually read a lot during vacation."
+    },
+    {
+      "type": "instruction",
+      "text": "I like vacations because I have more freedom to do what I want."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p123.htm",
+  "legacyEncoding": "utf-8"
+}

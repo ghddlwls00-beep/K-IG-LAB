@@ -1,0 +1,141 @@
+{
+  "id": "s2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 7,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "34",
+          "text": "My Favorite Academy"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school/At school",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My School Teacher",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Academy",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After School/at Home",
+      "lang": "en"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "24",
+          "text": "Getting Ready for School"
+        },
+        {
+          "n": "25",
+          "text": "On the Way to School / Going to School"
+        },
+        {
+          "n": "26",
+          "text": "Morning Session"
+        },
+        {
+          "n": "27",
+          "text": "Introducing My Class"
+        },
+        {
+          "n": "28",
+          "text": "My School Friends"
+        },
+        {
+          "n": "29",
+          "text": "Introducing My School"
+        },
+        {
+          "n": "30",
+          "text": "Introducing My Teacher"
+        },
+        {
+          "n": "31",
+          "text": "My Teacher’s Personality"
+        },
+        {
+          "n": "32",
+          "text": "My Teacher Helps Me"
+        },
+        {
+          "n": "33",
+          "text": "Introducing Academies"
+        },
+        {
+          "n": "35",
+          "text": "Friends and Teacher at the Academy"
+        },
+        {
+          "n": "36",
+          "text": "After School"
+        },
+        {
+          "n": "37",
+          "text": "Doing Homework"
+        },
+        {
+          "n": "38",
+          "text": "Dinnertime"
+        },
+        {
+          "n": "39",
+          "text": "Watching TV/Go to bed"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "Student/s2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s2.swf"
+  ]
+}

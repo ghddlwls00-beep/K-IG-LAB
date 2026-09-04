@@ -1,0 +1,83 @@
+{
+  "id": "p142",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 142 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 146,
+  "audio": [
+    {
+      "src": "/audio/middle/p142.mp3",
+      "legacySrc": "sounds/p142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 142 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Reasons for Wanting to Become a Teacher)"
+    },
+    {
+      "type": "hints",
+      "text": "I want to become a teacher for several reasons."
+    },
+    {
+      "type": "instruction",
+      "text": "First, my school teacher sets a good example."
+    },
+    {
+      "type": "instruction",
+      "text": "He loves children, and when I need help from him,"
+    },
+    {
+      "type": "instruction",
+      "text": "he always helps me."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to be able to help others learn and grow, too."
+    },
+    {
+      "type": "instruction",
+      "text": "He is excellent at teaching exactly what we need to know."
+    },
+    {
+      "type": "instruction",
+      "text": "Second, my teacher knows a lot of things,"
+    },
+    {
+      "type": "instruction",
+      "text": "and shares his knowledge with us about many things all of the time."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to become a good teacher just like him."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p142.htm",
+  "legacyEncoding": "utf-8"
+}

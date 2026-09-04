@@ -1,0 +1,47 @@
+{
+  "id": "pr109",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 109 ]",
+  "menuLabel": "[ pr109 ]",
+  "unit": 109,
+  "part": null,
+  "order": 216,
+  "audio": [
+    {
+      "src": "/audio/reading/pr109.mp3",
+      "legacySrc": "sounds/pr109.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 109 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "For every plus, however, there is a minus. For one thing, you might have a job, but unless it is very well-paid, you will not be able to afford many things because living in a city is often very expensive. What is more, public transportation is sometimes crowded and dirty, particularly in the rush hour. Last of all, despite all the crowds, it is still possible to feet very lonely in a city."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr109.htm",
+  "legacyEncoding": "utf-8"
+}

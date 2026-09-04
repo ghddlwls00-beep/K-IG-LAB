@@ -1,0 +1,123 @@
+{
+  "id": "w20-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w20-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 80,
+  "audio": [
+    {
+      "src": "/audio/woman/w20-2-1.mp3",
+      "legacySrc": "w20-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-2-2.mp3",
+      "legacySrc": "w20-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-2-3.mp3",
+      "legacySrc": "w20-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-2-4.mp3",
+      "legacySrc": "w20-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-2-5.mp3",
+      "legacySrc": "w20-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places to Visit in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Famous Places to Visit in Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "아마도 한국에서 찾아갈 더 인기 있고 매력 적인 곳으로 수원에 있는 한국민속촌, 역사적 수도인 경주, 그리고 놀랄만한 제주 섬 등이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps several of the more popular attractions to visit in Korea are the Korean Folk Village in Suwon, the historical capital of GyeongJu, and the breathtaking Jeju Island.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그리고 독립기념관과 같은 사람의 손으로 다듬어진 곳들도 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are still those that were skillfully manmade like Independence Hall.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "어떤 장소들은 설악산과 같이 자연적인 아름다움이 있고, 반면 불국사와 같이 보다 역사적으로 심미적인 곳도 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some places are naturally beautiful such as Sorak Mountain while others are more historically aesthetic such as Bulguk Temple.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국은 찾아갈 만한 많은 매력적인 장소들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korea has a great number of attractive places to visit.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w20-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w20-2.swf"
+  ]
+}

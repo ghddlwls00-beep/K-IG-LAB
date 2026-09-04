@@ -1,0 +1,63 @@
+{
+  "id": "am181",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 181 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 1,
+  "order": 176,
+  "audio": [
+    {
+      "src": "/audio/adults/am181.mp3",
+      "legacySrc": "sounds/am181.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 181 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An Introduction to Korean Holidays"
+    },
+    {
+      "type": "hints",
+      "text": "Holidays are a special time when families in Korea can get together and celebrate."
+    },
+    {
+      "type": "instruction",
+      "text": "My country has many traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "Like many Asian countries, we celebrate New Year’s Day, Independence Day, Arbor Day, Buddha’s Birthday and many more."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to tell you about the two largest traditional holidays in Korea: Lunar New Year’s and Chu-Seok."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am181.htm",
+  "legacyEncoding": "utf-8"
+}

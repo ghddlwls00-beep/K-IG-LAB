@@ -1,0 +1,124 @@
+{
+  "id": "gh2-029",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 29 ]",
+  "menuLabel": "[ 29과 영어 ]",
+  "unit": 29,
+  "part": null,
+  "order": 44,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-029.mp3",
+      "legacySrc": "sounds/gh2-029.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 29 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "We are on a first name basis."
+        },
+        {
+          "n": "2",
+          "text": "The mercury dropped to 6 degrees below zero."
+        },
+        {
+          "n": "3",
+          "text": "If someone asks for George Brown, please direct him to me."
+        },
+        {
+          "n": "4",
+          "text": "How can I thank you enough?"
+        },
+        {
+          "n": "5",
+          "text": "It was nothing."
+        },
+        {
+          "n": "6",
+          "text": "Thank you for inviting me."
+        },
+        {
+          "n": "7",
+          "text": "Operator, I'd like to call New York, collect."
+        },
+        {
+          "n": "8",
+          "text": "I'd like to know a phone number in Seoul, Korea."
+        },
+        {
+          "n": "9",
+          "text": "Can I have the number for James Brown?"
+        },
+        {
+          "n": "10",
+          "text": "May I speak to Mr.Kim?"
+        },
+        {
+          "n": "11",
+          "text": "This is he.(Speaking.)"
+        },
+        {
+          "n": "12",
+          "text": "You have the wrong(right) number."
+        },
+        {
+          "n": "13",
+          "text": "There is no one here by that name."
+        },
+        {
+          "n": "14",
+          "text": "What number did you dial?"
+        },
+        {
+          "n": "15",
+          "text": "Only last week, I talked to him at this same number."
+        },
+        {
+          "n": "16",
+          "text": "He no longer works here."
+        },
+        {
+          "n": "17",
+          "text": "When did he quit?"
+        },
+        {
+          "n": "18",
+          "text": "I am not a quitter."
+        },
+        {
+          "n": "19",
+          "text": "He is on another line."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-029.htm",
+  "legacyEncoding": "utf-8"
+}

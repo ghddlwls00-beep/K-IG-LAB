@@ -1,0 +1,208 @@
+{
+  "id": "gh1-123",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 123]",
+  "menuLabel": "[ gh1-123 ]",
+  "unit": 123,
+  "part": null,
+  "order": 187,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-123.mp3",
+      "legacySrc": "sounds/gh1-123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 123]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "38",
+          "text": "The vision includes an Israeli and Palestinian state."
+        },
+        {
+          "n": "39",
+          "text": "They live in peaceful coexistence."
+        },
+        {
+          "n": "40",
+          "text": "He also spoke about the war on terror."
+        },
+        {
+          "n": "41",
+          "text": "The terrorist network tries to regroup and strike again."
+        },
+        {
+          "n": "42",
+          "text": "The US relied too heavily on Afghan troops."
+        },
+        {
+          "n": "43",
+          "text": "Are soldiers loyal to bin Laden?"
+        },
+        {
+          "n": "44",
+          "text": "That information came from war prisoners."
+        },
+        {
+          "n": "45",
+          "text": "Those claims are unreliable."
+        },
+        {
+          "n": "46",
+          "text": "Do they change their stories frequently?"
+        },
+        {
+          "n": "47",
+          "text": "It is entirely possible."
+        },
+        {
+          "n": "48",
+          "text": "He could still be there."
+        },
+        {
+          "n": "49",
+          "text": "May I help you?"
+        },
+        {
+          "n": "50",
+          "text": "What can I do for you?"
+        },
+        {
+          "n": "51",
+          "text": "Could you just have a seat for a moment?"
+        },
+        {
+          "n": "52",
+          "text": "Which one did you take?"
+        },
+        {
+          "n": "53",
+          "text": "I went down there."
+        },
+        {
+          "n": "54",
+          "text": "I talked to my boss."
+        },
+        {
+          "n": "55",
+          "text": "We are free men."
+        },
+        {
+          "n": "56",
+          "text": "They kept in touch."
+        },
+        {
+          "n": "57",
+          "text": "I'll be travelling around a bit."
+        },
+        {
+          "n": "58",
+          "text": "It'll be a little harder."
+        },
+        {
+          "n": "59",
+          "text": "I got an answering machine."
+        },
+        {
+          "n": "60",
+          "text": "Here's the (phone) number."
+        },
+        {
+          "n": "61",
+          "text": "What's in your heart?"
+        },
+        {
+          "n": "62",
+          "text": "You'll be fine."
+        },
+        {
+          "n": "63",
+          "text": "Does this violate the patient-doctor relationship?"
+        },
+        {
+          "n": "64",
+          "text": "A Tanzanian national is under arrest."
+        },
+        {
+          "n": "65",
+          "text": "Isiah was arrested April 15."
+        },
+        {
+          "n": "66",
+          "text": "His name appeared on a letter."
+        },
+        {
+          "n": "67",
+          "text": "He discovered a letter in a cave."
+        },
+        {
+          "n": "68",
+          "text": "He completed his flight training at an aviation school."
+        },
+        {
+          "n": "69",
+          "text": "He had a counterfeit social security card."
+        },
+        {
+          "n": "70",
+          "text": "They must bring peace to the Middle East."
+        },
+        {
+          "n": "71",
+          "text": "He entered this country legally in May."
+        },
+        {
+          "n": "72",
+          "text": "That visa expired last August."
+        },
+        {
+          "n": "73",
+          "text": "There is a new development in the case."
+        },
+        {
+          "n": "74",
+          "text": "The authorities have arrested several suspects in connection with this case."
+        },
+        {
+          "n": "75",
+          "text": "Five Pakistanis are being questioned."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-123.htm",
+  "legacyEncoding": "utf-8"
+}

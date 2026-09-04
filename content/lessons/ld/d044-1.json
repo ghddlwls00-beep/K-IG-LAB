@@ -1,0 +1,67 @@
+{
+  "id": "d044-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d044",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 044 회 ]",
+  "menuLabel": "[ D 044-1 ]",
+  "unit": 44,
+  "part": null,
+  "order": 87,
+  "audio": [
+    {
+      "src": "/audio/ld/d044.mp3",
+      "legacySrc": "sounds/d044.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 044 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "지금은 6월이고 Bill Patterson과 John Cocoran은 그들의 일학년을 끝낼 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "곧 그들은 2학년생이 될 것이다. 빌은 현대 언어를 전공하고 싶어한다."
+    },
+    {
+      "type": "instruction",
+      "text": "삼학년에는 러시아어를 이수하고 싶어한다. 4학년에는 약간의 중국어를 공부하기 원한다."
+    },
+    {
+      "type": "instruction",
+      "text": "언젠가 그는 어학 교사가 되고 싶어 한다. John은 다른 어떤 것, 화학을 전공하기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "졸업 후에 그는 어딘가에서 화학자로 취직하기 원한다. 빌과 존은 다음 주에 최종 시험을 치를 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d044-1.htm",
+  "legacyEncoding": "utf-8"
+}

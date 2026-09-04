@@ -1,0 +1,115 @@
+{
+  "id": "gh1-021",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 021 ]",
+  "menuLabel": "[ gh1-021 ]",
+  "unit": 21,
+  "part": null,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-021.mp3",
+      "legacySrc": "sounds/gh1-021.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 021 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "문법 확인 문제 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "(1)평서문(나는 소년이다 등등)일 때 영어의 문장순서는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: 주어가 먼저 나오고 그 다음에 동사가 나온다."
+    },
+    {
+      "type": "instruction",
+      "text": "(2)우리 말로 “이다, 있다, --하다”에 해당되는 영어 단어는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: am, is, are(be동사라고 함)이다."
+    },
+    {
+      "type": "instruction",
+      "text": "(3)주어가 1인칭 단수(I:나)일 때 그것에 맞춰서 써야하는 be동사는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: am이다."
+    },
+    {
+      "type": "instruction",
+      "text": "(4)주어가 3인칭 단수(he, she, it, this 등)일 때 써야하는 be동사는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: is를 쓴다."
+    },
+    {
+      "type": "instruction",
+      "text": "(5)주어가 그 이외의 것일 때 써야하는 be 동사는? (we, you, they, those 등)"
+    },
+    {
+      "type": "instruction",
+      "text": "답: are를 쓴다."
+    },
+    {
+      "type": "instruction",
+      "text": "(6)부정문의 문장 순서는?"
+    },
+    {
+      "type": "instruction",
+      "text": "주어 + 동사 + not + 주격보어"
+    },
+    {
+      "type": "instruction",
+      "text": "(7)긍정적인 의문문일 때(나는 소년이냐? 등등) 문장 순서는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: 동사가 먼저 나오고 그 다음에 주어가 나오고 그 다음에 주격보어가 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "(8)부정적인 의문문일 때(나는 소년이 아니냐? 등등) 문장 순서는?"
+    },
+    {
+      "type": "instruction",
+      "text": "답: 동사 + 주어 + not + 주격 보어 혹은 동사와 not를 합친 축약어(isn't, aren't, ain't) + 주어 + 주격"
+    },
+    {
+      "type": "instruction",
+      "text": "보어의 순서로 한다.“"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-021.htm",
+  "legacyEncoding": "utf-8"
+}

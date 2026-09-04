@@ -1,0 +1,47 @@
+{
+  "id": "pr203",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 203 ]",
+  "menuLabel": "[ pr203 ]",
+  "unit": 203,
+  "part": null,
+  "order": 404,
+  "audio": [
+    {
+      "src": "/audio/reading/pr203.mp3",
+      "legacySrc": "sounds/pr203.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 203 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Words like 'English' and 'Korean' have two different meanings. We can say that if a person is English, he speaks English. If he is Korean, he speaks Korean. And so forth. But we cannot always do this because there are exceptions. For example, if a person is Mexican , he speaks Spanish ; if he is Belgian, he speaks Flemish or French ; if he is Brazilian, he speaks Portuguese. more importantly, we cannot switch the argument and say, \" If he speaks German, he is German.\" He may quite well be a Swiss. This is particularly true of the English language."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr203.htm",
+  "legacyEncoding": "utf-8"
+}

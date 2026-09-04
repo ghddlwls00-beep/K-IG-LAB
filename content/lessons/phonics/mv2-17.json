@@ -1,0 +1,88 @@
+{
+  "id": "mv2-17",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-17 ]",
+  "unit": 17,
+  "part": null,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-17.mp3",
+      "legacySrc": "sounds/mv2-17.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "rooster",
+          "horse",
+          "rabbit",
+          "cat",
+          "dog",
+          "hen"
+        ],
+        [
+          "total",
+          "college",
+          "government",
+          "taste",
+          "greet",
+          "copy"
+        ],
+        [
+          "growth",
+          "meat",
+          "magic",
+          "famous",
+          "line",
+          "weight"
+        ],
+        [
+          "fence",
+          "control",
+          "wing",
+          "zoo",
+          "vase",
+          "hang"
+        ],
+        [
+          "tail",
+          "finish",
+          "pond",
+          "sign",
+          "goal",
+          "form"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-17 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-17.htm",
+  "legacyEncoding": "utf-8"
+}

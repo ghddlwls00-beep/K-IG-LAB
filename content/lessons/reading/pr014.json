@@ -1,0 +1,47 @@
+{
+  "id": "pr014",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 014 ]",
+  "menuLabel": "[ pr014 ]",
+  "unit": 14,
+  "part": null,
+  "order": 26,
+  "audio": [
+    {
+      "src": "/audio/reading/pr014.mp3",
+      "legacySrc": "sounds/pr014.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 014 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "I abandoned the medical profession with relief but I do not regret the five years I spent at the hospital - far from it. They taught me pretty well all I know about human nature, for in a hospital you see it naked and raw. People in pain, people in fear of death do not try to hide anything from their doctor, and if they do, he can generally guess what they are hiding."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr014.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "cnn086",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Scientist Unveils Mind-Reading Computer Device",
+  "label": "Scientist Unveils Mind-Reading Computer Device",
+  "menuLabel": "[ CNN 86 ]",
+  "unit": 86,
+  "part": null,
+  "order": 85,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn086.mp4",
+      "legacySrc": "CNN/CNN61-120/86.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Scientist Unveils Mind-Reading Computer Device"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now a computer that reads your mind! A German scientist has unveiled a device that he says is able to do exactly that. The Brain-Computer Interface ??or the BCI ??is able to read our thoughts and translate them into signals enabling us to operate devices that are connected to the Internet. That’s achieved by measuring electric signals sent out by the brain, which are then picked up by electrodes attached to the scalp. Its inventor Klaus Robert Moeller says the device has many uses. “So in the future we want to use this technology to help the disabled. Other interesting directions are man-machine interaction. This is a new unexplored channel to be explored.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "마음을 읽는 컴퓨터 등장",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "자, 여러분의 마음을 읽는 컴퓨터가 등장했습니다. 한 독일 과학자가 바로 이 마음을 읽는다는 장치를 공개했습니다. 두뇌와 컴퓨터 간의 인터페이스, BCI로도 불리는 이 기계는 여러분의 생각을 읽고 그 생각을 신호로 전환, 인터넷에 연결된 기기들을 작동시킬 수 있게 합니다. 이는 뇌가 내보내는 전기신호를 측정함으로써 이루어지는데 이 전기신호는 두피에 부착된 전극을 통해 감지됩니다. 이 기기의 발명자인 클라우스 로버트 뮬러 씨는 이 장비의 용도가 다양하다고 말합니다. “따라서 우리는 이 기술이 장차 장애인들을 돕는데 사용됐으면 합니다. 또 다른 흥미로운 분야는 인간과 기계 간의 상호작용입니다. 이는 더 연구되어야 할 새로운 미개척 분야입니다.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. interface/ {컴퓨터} 컴퓨터와 인간을 연결해주는 장치 (디스플레이, 키보드 등)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "unveil",
+          "text": "…의 베일을 벗다, …을 처음으로 공개하다"
+        },
+        {
+          "n": "the Brain-Computer Interface",
+          "text": "두뇌와 컴퓨터 간의 인터페이스(BCI): 뇌에 전극을 삽입, 뇌에서 발생하는 신호를 측정해 인간의 생각을 컴퓨터에 전달, 실행하는 기술"
+        },
+        {
+          "n": "translate A into B",
+          "text": "A를 B로 전환시키다"
+        },
+        {
+          "n": "operate device",
+          "text": "기계를 작동하다"
+        },
+        {
+          "n": "achieve",
+          "text": "이루다, 성취하다"
+        },
+        {
+          "n": "measure",
+          "text": "측정하다"
+        },
+        {
+          "n": "electric signal",
+          "text": "전기신호"
+        },
+        {
+          "n": "electrode",
+          "text": "{전기}전극"
+        },
+        {
+          "n": "pick up",
+          "text": "{전기} (라디오,망원경,레이더 따위로) …을 감지하다, 포착하다"
+        },
+        {
+          "n": "attached to",
+          "text": "…에 부착된"
+        },
+        {
+          "n": "scalp",
+          "text": "머리가죽, 두피"
+        },
+        {
+          "n": "the disabled",
+          "text": "장애인"
+        },
+        {
+          "n": "direction",
+          "text": "(화제,사상,행동 등의) 방향; 활동분야"
+        },
+        {
+          "n": "man-machine interaction",
+          "text": "인간과 기계의 상호작용"
+        },
+        {
+          "n": "unexplored",
+          "text": "조사[답사, 탐험]되지 않은"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/86.wmv",
+  "legacyEncoding": "binary"
+}

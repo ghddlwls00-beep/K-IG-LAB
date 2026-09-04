@@ -1,0 +1,112 @@
+{
+  "id": "gh2-007",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 7 ]",
+  "menuLabel": "[ 7과 영어 ]",
+  "unit": 7,
+  "part": null,
+  "order": 0,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-007.mp3",
+      "legacySrc": "sounds/gh2-007.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 7 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "If you want to marry me, wait a little."
+        },
+        {
+          "n": "2",
+          "text": "If you don't study hard, you will never speak English fluently."
+        },
+        {
+          "n": "3",
+          "text": "Unless you work harder, you will never pass the examination."
+        },
+        {
+          "n": "4",
+          "text": "She has been working in a bank since she left school."
+        },
+        {
+          "n": "5",
+          "text": "Since she is ill, I can't take her with me."
+        },
+        {
+          "n": "6",
+          "text": "You may watch TV after you finish your homework."
+        },
+        {
+          "n": "7",
+          "text": "Though I love you, I can not do this."
+        },
+        {
+          "n": "8",
+          "text": "Though he is young, he is very wise."
+        },
+        {
+          "n": "9",
+          "text": "As you weren't there, I left a message."
+        },
+        {
+          "n": "10",
+          "text": "I watched her as she combed her hair."
+        },
+        {
+          "n": "11",
+          "text": "As he grew older, he lost interest in everything."
+        },
+        {
+          "n": "12",
+          "text": "As before, he studied hard."
+        },
+        {
+          "n": "13",
+          "text": "She likes music as much as I do."
+        },
+        {
+          "n": "14",
+          "text": "Do as I say."
+        },
+        {
+          "n": "15",
+          "text": "Leave the table as it is."
+        },
+        {
+          "n": "16",
+          "text": "Young as I am, I know it."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-007.htm",
+  "legacyEncoding": "utf-8"
+}

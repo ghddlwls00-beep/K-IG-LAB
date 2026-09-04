@@ -1,0 +1,113 @@
+{
+  "id": "po11",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 11,
+  "part": null,
+  "order": 261,
+  "audio": [
+    {
+      "src": "/audio/basics/po11.mp3",
+      "legacySrc": "sounds/po11.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Principle 11. Weekends"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "130",
+          "text": "On Saturday we only have classes in the morning."
+        },
+        {
+          "n": "131",
+          "text": "On Saturday afternoon I usually spend my time with my friends."
+        },
+        {
+          "n": "132",
+          "text": "Sometimes there is a special day like a birthday party."
+        },
+        {
+          "n": "133",
+          "text": "On Saturday my family likes to go out for dinner."
+        },
+        {
+          "n": "134",
+          "text": "While we're having dinner we talk about many things."
+        },
+        {
+          "n": "135",
+          "text": "My family is interested in what is going on in my life."
+        },
+        {
+          "n": "136",
+          "text": "My family is Christian."
+        },
+        {
+          "n": "137",
+          "text": "We go to church every Sunday morning."
+        },
+        {
+          "n": "138",
+          "text": "I have many friends at church."
+        },
+        {
+          "n": "139",
+          "text": "Other families may go hiking, shopping or play sports on Sunday."
+        },
+        {
+          "n": "140",
+          "text": "I sometimes visit our grandparents or relatives."
+        },
+        {
+          "n": "141",
+          "text": "I like to visit my relatives because I am able to see my cousins."
+        },
+        {
+          "n": "142",
+          "text": "I also like to visit my father's friends because their children are"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "the same age as me."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "143",
+          "text": "We always have a great time."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po11.htm",
+  "legacyEncoding": "utf-8"
+}

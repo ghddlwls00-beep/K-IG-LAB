@@ -1,0 +1,136 @@
+{
+  "id": "gh1-053-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-053",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 053-1]",
+  "menuLabel": "[ gh1-053-1 ]",
+  "unit": 53,
+  "part": null,
+  "order": 83,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-053-1.mp3",
+      "legacySrc": "sounds/gh1-053-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 053-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I was rich."
+        },
+        {
+          "n": "2",
+          "text": "He was poor."
+        },
+        {
+          "n": "3",
+          "text": "She was happy."
+        },
+        {
+          "n": "4",
+          "text": "You were strong."
+        },
+        {
+          "n": "5",
+          "text": "They were soldiers."
+        },
+        {
+          "n": "6",
+          "text": "We were workers (laborers)."
+        },
+        {
+          "n": "7",
+          "text": "These were my dogs."
+        },
+        {
+          "n": "8",
+          "text": "This was my pencil."
+        },
+        {
+          "n": "9",
+          "text": "Those(They) were their cows."
+        },
+        {
+          "n": "10",
+          "text": "My car was blue."
+        },
+        {
+          "n": "11",
+          "text": "It(That) was mine."
+        },
+        {
+          "n": "12",
+          "text": "This was yours."
+        },
+        {
+          "n": "13",
+          "text": "Was I popular?"
+        },
+        {
+          "n": "14",
+          "text": "Was he famous?"
+        },
+        {
+          "n": "15",
+          "text": "Was she rich?"
+        },
+        {
+          "n": "16",
+          "text": "Were you married?"
+        },
+        {
+          "n": "17",
+          "text": "Was my hand cold?"
+        },
+        {
+          "n": "18",
+          "text": "Were they sick?"
+        },
+        {
+          "n": "19",
+          "text": "What was her dream?"
+        },
+        {
+          "n": "20",
+          "text": "Where were they?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-053-1.htm",
+  "legacyEncoding": "utf-8"
+}

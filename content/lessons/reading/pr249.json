@@ -1,0 +1,47 @@
+{
+  "id": "pr249",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 249 ]",
+  "menuLabel": "[ pr249 ]",
+  "unit": 249,
+  "part": null,
+  "order": 496,
+  "audio": [
+    {
+      "src": "/audio/reading/pr249.mp3",
+      "legacySrc": "sounds/pr249.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 249 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Suppose two friends of mine are sitting in my room. One is 165cm tall and the other is 175cm tall. Which do you think is a man and which is a woman? In the absence of other information, you probably conclude that the shorter one is a woman while the taller one is a man. Where does this conclusion come from? Your experience tells you that men tend to be taller than women. So, From the particular men and women you have known, you draw a conclusion about men and women as a whole. In this way, many of your day-to-day judgments and guesses depend on your experience."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr249.htm",
+  "legacyEncoding": "utf-8"
+}

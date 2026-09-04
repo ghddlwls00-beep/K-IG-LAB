@@ -1,0 +1,146 @@
+{
+  "id": "cnn027",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "New York Transit Strike Ruled Illegal",
+  "label": "New York Transit Strike Ruled Illegal",
+  "menuLabel": "[ CNN 27 ]",
+  "unit": 27,
+  "part": null,
+  "order": 26,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn027.mp4",
+      "legacySrc": "CNN/CNN1-60/27.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "New York Transit Strike Ruled Illegal"
+    },
+    {
+      "type": "paragraph",
+      "text": "A New York judge has ordered the Transport Workers Union to be fined a million dollars for each day transport workers in the city stay(ed) on strike. More than 30,000 workers walked off the job on Tuesday despite two court injunctions outlawing a walkout. The strike is paralyzing the city at the height of the holiday season. The workers are protesting a proposal requiring new employees to pay more for health coverage as part of wage negotiations.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "뉴욕 대중교통노조 파업 불법 판결",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뉴욕의 한 판사는 대중교통노조에 뉴욕 시 대중교통 종사자들이 파업을 한 날수만큼 하루당 100만 달러의 벌금을 납부하라고 명령했습니다. 법원이 파업을 불법으로 규정하고 두 차례의 파업 중지 명령을 내렸지만, 3만 명이 넘는 노동자들은 화요일에 파업을 단행 했습니다. 대중교통노조의 파업으로 휴가 시즌이 한창인 뉴욕 시가 마비됐습니다. 노조는 임금 협상의 과정에서 신규 노동자들에게 의료보험료를 더 납부하라는 (사용자측의) 제안에 반대하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "과거형 -ed 발음이 거의 들리지 않지만 앞에 be동사가 있기 때문에 -ed가 되어야 한다는 것을 짐작할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "혀를 입안 쪽으로 구부려 발음해야 하는 [r] 발음의 차이를 소리 내어 연습해 보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "the, of의 발음은 거의 들리지 않고 height, holiday 발음만 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "단어의 철자가 -ro-가 -or-로 뒤바뀌어 발음되는 경우다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[프로퍼절]이 아닌 [퍼-r퍼절]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. coverage/ (보험의) 보호, 보상범위",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "be fined a million dollars",
+          "text": "fine이 동사로 쓰인 경우다."
+        },
+        {
+          "n": "workers walked off the job",
+          "text": "workers와 walkers와 혼동되는 발음이지만, 뒤에 walked 나오기 때문에 worker라는 것을 짐작할 수 있다."
+        },
+        {
+          "n": "the height of the holiday",
+          "text": "문장의 기능어와 내용어의 발음 차이를 확연히 알 수 있는 부분이다."
+        },
+        {
+          "n": "proposal",
+          "text": "[퍼-r퍼절]."
+        },
+        {
+          "n": "transit",
+          "text": "(한 지역의) 공공수송 기관: 수송, 운반"
+        },
+        {
+          "n": "strike",
+          "text": "(노동자의) 동맹파업(walkout)"
+        },
+        {
+          "n": "rule",
+          "text": "판결을 내리다, 결정하다"
+        },
+        {
+          "n": "transport",
+          "text": "교통수단(transportation)"
+        },
+        {
+          "n": "fine",
+          "text": "벌금을 부과하다"
+        },
+        {
+          "n": "walk off the job",
+          "text": "일을 갑자기 그만두다, 파업하다"
+        },
+        {
+          "n": "injunction",
+          "text": "(법원의) 금지[강제] 명령; 이행명령"
+        },
+        {
+          "n": "outlaw",
+          "text": "…을 금지하다, 비합법화하다"
+        },
+        {
+          "n": "paralyze",
+          "text": "마비 상태로 만들다"
+        },
+        {
+          "n": "at the height of",
+          "text": "절정기에, 한창…중에"
+        },
+        {
+          "n": "proposal",
+          "text": "제안, 제의, 계획"
+        },
+        {
+          "n": "health coverage",
+          "text": "건강보험(료)"
+        },
+        {
+          "n": "wage",
+          "text": "임금, 급료"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/27.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "d144-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d144",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 144 회 ]",
+  "menuLabel": "[ D 144-1 ]",
+  "unit": 144,
+  "part": null,
+  "order": 287,
+  "audio": [
+    {
+      "src": "/audio/ld/d144.mp3",
+      "legacySrc": "sounds/d144.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 144 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘 아침 전화를 받았을 때 나는 그 숙녀가 전화를 잘못 걸었다는 것을 즉시 알았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그녀가 그것을 알아내는 것은 오래 걸렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 자신의 이름이 Mrs.Mills라고 말했고 내가 Dr.Cooper의 비서냐고 물었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀에게 부정확한 번호를 갖고 있다고 말했지만"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀가 내 말에 귀기울였다고 생각하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그녀의 남편이 아프고 그를 돌보아야하기 때문에 두시 약속을 취소하고 싶다고 나에게 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀에게 그 말을 듣고 대단히 안됐지만 여전히 그녀가 전화를 잘못 걸었다고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그녀는 다음 주에 약속할 수 있는지 알고 싶어했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀에게 내가 그렇게 해드릴 수 없고 나는 Dr.Cooper의 비서가 아니라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "마침내 그녀는 내가 말하는 것을 들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 왜 내가 그녀가 전화를 잘못 걸었다고 바로 말하지 않았는지 알고 싶어했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 내가 그녀에게 대답할 수 있기 전에 전화를 끊었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d144-1.htm",
+  "legacyEncoding": "utf-8"
+}

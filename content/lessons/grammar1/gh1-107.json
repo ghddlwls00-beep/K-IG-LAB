@@ -1,0 +1,196 @@
+{
+  "id": "gh1-107",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 107]",
+  "menuLabel": "[ gh1-107 ]",
+  "unit": 107,
+  "part": null,
+  "order": 151,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-107.mp3",
+      "legacySrc": "sounds/gh1-107.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 107]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Isn't he a flight risk?"
+        },
+        {
+          "n": "2",
+          "text": "Isn't her next door neighbor now a potential suspect?"
+        },
+        {
+          "n": "3",
+          "text": "Isn't that(it) strange?"
+        },
+        {
+          "n": "4",
+          "text": "Why did they search his house?"
+        },
+        {
+          "n": "5",
+          "text": "Where did they seize the two vehicles?"
+        },
+        {
+          "n": "6",
+          "text": "Are the police cooperating?"
+        },
+        {
+          "n": "7",
+          "text": "The police were not questioning the man."
+        },
+        {
+          "n": "8",
+          "text": "They were wrongly captured, weren't they?"
+        },
+        {
+          "n": "9",
+          "text": "The families were mistakenly killed, weren't they?"
+        },
+        {
+          "n": "10",
+          "text": "Who were killed and captured?"
+        },
+        {
+          "n": "11",
+          "text": "How many fighters are captured?"
+        },
+        {
+          "n": "12",
+          "text": "They were released, weren't they?"
+        },
+        {
+          "n": "13",
+          "text": "The CIA confirmed the report, didn't it?"
+        },
+        {
+          "n": "14",
+          "text": "The CIA did not take part(participate) in that(the) raid, did it?"
+        },
+        {
+          "n": "15",
+          "text": "The heavy snowfall is hampering rescue efforts, isn't it?"
+        },
+        {
+          "n": "16",
+          "text": "The tunnel connects the two regions, doesn't it?"
+        },
+        {
+          "n": "17",
+          "text": "The avalanche trapped a convoy, didn't it?"
+        },
+        {
+          "n": "18",
+          "text": "The interior department acquired the home, didn't it?"
+        },
+        {
+          "n": "19",
+          "text": "Mr. Reagan was popular while he was president, wasn't he?"
+        },
+        {
+          "n": "20",
+          "text": "Why did his popularity increase tremendously?"
+        },
+        {
+          "n": "21",
+          "text": "Why did Reagan's childhood home become a federal historic site?"
+        },
+        {
+          "n": "22",
+          "text": "Where did Bush sign the bill?"
+        },
+        {
+          "n": "23",
+          "text": "Why is the anniversary usually a somber occasion?"
+        },
+        {
+          "n": "24",
+          "text": "Who made the taped confession?"
+        },
+        {
+          "n": "25",
+          "text": "Why could only the rapist know the details?"
+        },
+        {
+          "n": "26",
+          "text": "Was the conviction improper?"
+        },
+        {
+          "n": "27",
+          "text": "Did the victims identify the criminal?"
+        },
+        {
+          "n": "28",
+          "text": "Isn't the Atlanta based fast food chain switching its soft drink?"
+        },
+        {
+          "n": "29",
+          "text": "Who offered a better deal?"
+        },
+        {
+          "n": "30",
+          "text": "Did they always have to type their assignments?"
+        },
+        {
+          "n": "31",
+          "text": "He wasn't a good typist, was he?"
+        },
+        {
+          "n": "32",
+          "text": "Fortunately he was fast and accurate. wasn't he?"
+        },
+        {
+          "n": "33",
+          "text": "I'm glad to help a friend,"
+        },
+        {
+          "n": "34",
+          "text": "Did he do a good job?"
+        },
+        {
+          "n": "35",
+          "text": "They will have dinner together some other time."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-107.htm",
+  "legacyEncoding": "utf-8"
+}

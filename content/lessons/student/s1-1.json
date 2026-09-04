@@ -1,0 +1,188 @@
+{
+  "id": "s1-1",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s1-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/student/s1-1-1.mp3",
+      "legacySrc": "s1-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-2.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-3.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-4.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-5.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-6.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-7.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-8.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-1-9.mp3",
+      "legacySrc": "s1-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "First of all, thank you for giving me a chance to introduce myself.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a pleasure to be with you today.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nice to meet you (sir/ma’am).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선First of all,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 자신을 소개할 수 있는 기회",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 자신을 소개할 수 있는 기회 a chance to introduce myself.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 저에게 주셔서 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 저에게 주셔서 감사합니다. thank you for giving me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "만나서 반갑습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오늘 당신과 함께 있어 정말 기쁩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무엇보다도 내 자신을 소개할 수 있는 기회를 주셔서 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 기쁩니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 기쁩니다It's a pleasure",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 오늘 당신과 함께 있어서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 오늘 당신과 함께 있어서 to be with you today.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s1-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s1-1.swf"
+  ]
+}

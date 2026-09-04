@@ -1,0 +1,47 @@
+{
+  "id": "pr048",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 048 ]",
+  "menuLabel": "[ pr048 ]",
+  "unit": 48,
+  "part": null,
+  "order": 94,
+  "audio": [
+    {
+      "src": "/audio/reading/pr048.mp3",
+      "legacySrc": "sounds/pr048.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 048 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "People are often considered to be rude unintentionally. Absorbed in their own thoughts, people do not see the motions of someone trying to greet them. They may walk right by a friend without noticing him or her. Others indeed do not see―they are without their contact lenses or are quite nearsighted. It is important to take into consideration absent-mindedness or poor eyesight before believing that a friend is actually disregarding you. One friendship I know of was tense for months because a woman thought she was being ignored by a friend who simply was not wearing her glasses and couldn’t see beyond her nose. *nearsighted: 근시안의 We should carefully think about the reason someone’s behavior to avoid coming to a hasty conclusion about it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr048.htm",
+  "legacyEncoding": "utf-8"
+}

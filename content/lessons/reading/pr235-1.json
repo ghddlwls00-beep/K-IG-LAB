@@ -1,0 +1,47 @@
+{
+  "id": "pr235-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr235",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 235-1 ]",
+  "menuLabel": "[ pr235-1 ]",
+  "unit": 235,
+  "part": null,
+  "order": 469,
+  "audio": [
+    {
+      "src": "/audio/reading/pr235.mp3",
+      "legacySrc": "sounds/pr235.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 235-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "아마추어 사진작가들이 저지르는 가장 흔한 실수는 그들이 그들의 대상에 물리적으로 충분히 가까이 가지 않는다는 것이다. 이것은 관심의 중심, 즉 대상이 너무나 작아서 어떤 영향력도 가질 수 없는 하나의 점일 뿐이라는 것을 의미한다. 그것이 인지될 만큼 충분히 클 때조차도 그것은 일반적으로 거의 의미를 지니지 못한다. 보는 사람들은 대상이란 작아야 하는 것이기 때문에 작은 것이라고 생각할지 모른다. 다른 사진작가들의 작품을 볼 때, 그들이 어떻게 구도를 채우는지 주목하라. 그 안에 있는 모든 것들은 그 이미지의 전달에 기여한다. 만일 카메라의 렌즈를 통하여 표현하고자 하는 것에서 벗어나 있는 것들을 본다면, 그것들을 제거하라. 그래서 사람의 사진을 찍을 때, 원치 않는 사물들을 제외시키기 위해 잊지 말고 더 가까이 다가가도록 하라."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr235-1.htm",
+  "legacyEncoding": "utf-8"
+}

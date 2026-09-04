@@ -1,0 +1,88 @@
+{
+  "id": "hv-66",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-66 ]",
+  "unit": 66,
+  "part": null,
+  "order": 185,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-66.mp3",
+      "legacySrc": "sounds/hv-66.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "entertainer",
+          "sustain",
+          "retain",
+          "content",
+          "contentment",
+          "continent"
+        ],
+        [
+          "continental",
+          "continue",
+          "continuous",
+          "technologic",
+          "technology",
+          "technician"
+        ],
+        [
+          "technical",
+          "technique",
+          "continual",
+          "protect",
+          "protection",
+          "protective"
+        ],
+        [
+          "detect",
+          "detective",
+          "temper",
+          "temperate",
+          "temperature",
+          "temperament"
+        ],
+        [
+          "attempt",
+          "temptation",
+          "tempt",
+          "contemporary",
+          "temporarily",
+          "temporary"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-66 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-66.htm",
+  "legacyEncoding": "utf-8"
+}

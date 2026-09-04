@@ -1,0 +1,71 @@
+{
+  "id": "am205",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 205 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 5,
+  "order": 202,
+  "audio": [
+    {
+      "src": "/audio/adults/am205.mp3",
+      "legacySrc": "sounds/am205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 205 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea’s Natural Paradise—Jeju Island"
+    },
+    {
+      "type": "hints",
+      "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "Jeju island is my favorite place to go for vacation."
+    },
+    {
+      "type": "instruction",
+      "text": "There are so many fun things to do there and many beautiful spots to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "I like going to Mt. Halla."
+    },
+    {
+      "type": "instruction",
+      "text": "It is in the center of Jeju island and is a really high mountain."
+    },
+    {
+      "type": "instruction",
+      "text": "Mt. Halla is the highest mountain in South Korea; it’s almost 2,000 meters high (about 6,500 feet)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am205.htm",
+  "legacyEncoding": "utf-8"
+}

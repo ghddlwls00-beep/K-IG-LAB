@@ -1,0 +1,92 @@
+{
+  "id": "cnn019",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "China Unveils 2008 Olympic Mascot*",
+  "label": "China Unveils 2008 Olympic Mascot*",
+  "menuLabel": "[ CNN 19 ]",
+  "unit": 19,
+  "part": null,
+  "order": 18,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn019.mp4",
+      "legacySrc": "CNN/CNN1-60/19.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "China Unveils 2008 Olympic Mascot*"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are just 209 days to go until the World Cup begins. And a thousand days until the start of the 2008 Olympic Games. And on Friday, Beijing unveiled not one, but five mascots in a nationally televised gala. They are cartoon renditions of a panda, a carp, a Tibetan antelope, a swallow and the Olympic flame, each one of the color of one of the Olympic rings. The animals were introduced as Bei Bei, Jing Jing, Hwan Hwan, Ying Ying and Ni Ni, which put together translates to Beijing Welcomes You.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "중국, 2008년 올림픽 마스코트 선보여",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "정확히 209일 남았습니다. 월드컵 개막까지 말입니다. 그리고 1천일이 남았습니다. 2008년 올림픽 개막까지 말입니다. (지난) 금요일에 중국은 하나가 아닌 다섯 개의 마스코트를 선보였습니다. 텔레비전을 통해 전국적으로 방송된 경축행사에서 말입니다. 그들은 판다, 잉어, 티베트 영양, 제비 그리고 올림픽 성화의 만화 캐릭터로서 각각 올림픽링의 색깔을 하나씩 가지고 있습니다. 그 동물들은 베이베이, 징징, 환환, 잉잉, 니니라는 이름으로 소개되었고 모두 합하면‘베이징에 오신걸 환영합니다(베이징 환잉니)’라는 뜻이 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "*mascot",
+          "text": "마스코트, 행운을 가져다 주는 것"
+        },
+        {
+          "n": "unveil",
+          "text": "베일을 벗다, 덮개를 열다; 정체를 드러내다"
+        },
+        {
+          "n": "televise",
+          "text": "TV로 방송[수상]하다"
+        },
+        {
+          "n": "gala",
+          "text": "경축, 축제; 특별한 여흥[대접]"
+        },
+        {
+          "n": "rendition",
+          "text": "번역, (극,음악 따위의) 해석, 연출, 연주"
+        },
+        {
+          "n": "carp",
+          "text": "잉어"
+        },
+        {
+          "n": "antelope",
+          "text": "(아프리카,아시아 산(産)의) 영양(羚羊)"
+        },
+        {
+          "n": "swallow",
+          "text": "제비"
+        },
+        {
+          "n": "Olympic flame",
+          "text": "올림픽 대회의 성화"
+        },
+        {
+          "n": "Olympic ring",
+          "text": "올림픽 링[깃발]"
+        },
+        {
+          "n": "translate",
+          "text": "…을 번역[통역]하다, 옮기다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/19.wmv",
+  "legacyEncoding": "binary"
+}

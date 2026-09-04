@@ -1,0 +1,47 @@
+{
+  "id": "pr028",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 028 ]",
+  "menuLabel": "[ pr028 ]",
+  "unit": 28,
+  "part": null,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/reading/pr028.mp3",
+      "legacySrc": "sounds/pr028.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 028 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Sometime you say something you really don't mean. But words once spoken, like bullets once fired, can't be recalled. Before you say some thing needlessly hurtful, calm down. Speak with reason not just emotion, Otherwise you may say something you'll regret always."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr028.htm",
+  "legacyEncoding": "utf-8"
+}

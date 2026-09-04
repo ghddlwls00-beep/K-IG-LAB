@@ -1,0 +1,153 @@
+{
+  "id": "w7-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w7-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 3,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/woman/w7-3-1.mp3",
+      "legacySrc": "w7-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-2.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-3.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-4.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-5.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-6.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-3-7.mp3",
+      "legacySrc": "w7-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 My Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I Do on My Job?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 분기에 한번 정도 출장을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I sometimes go on business trips once a quarter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋은 교육을 받기위해 세미나도 가야합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have to go to a seminar where I receive valuable training.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "매분기에 나는 우리 회사 지사들도 방문하여 그들의 발전현황도 확인합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each quarter, I stop by the smaller branches of my company and check on their progress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 역시 월 말에 이러한 지사들을 평가합니다. 그리고 그러한 보고서를 사장에게 보고합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also have to do end-of-the-month evaluations for these branches and present them to my boss.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들의 실적에 발전이 없을 때 나에게는 큰 스트레스입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When things are not progressing as they should, it is very stressful for me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "향상 되었을 때 나의 사장은 나에게 칭찬을 해주시며 받은 칭찬으로 저는 무척 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When things are improving, my boss gives me recognition, which I am very happy to receive.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w7-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w7-3.swf"
+  ]
+}

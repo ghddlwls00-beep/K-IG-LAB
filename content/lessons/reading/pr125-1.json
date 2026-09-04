@@ -1,0 +1,47 @@
+{
+  "id": "pr125-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr125",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 125-1 ]",
+  "menuLabel": "[ pr125-1 ]",
+  "unit": 125,
+  "part": null,
+  "order": 249,
+  "audio": [
+    {
+      "src": "/audio/reading/pr125.mp3",
+      "legacySrc": "sounds/pr125.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 125-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "1955년에 최초의 자동차를 제조한 이후로 한국은 성장해서 세계에서 여섯 번째로 가장 큰 자동차 생산국이 되었다. 소형 자동차 생산에서의 경쟁성, 숙련된 노동력 그리고 선도하는 정보 과학 기술 때문에 한국은 2010년경에 미국, 일본 그리고 독일 다음에 세계에서 4대 최고 자동차 생산국에 속할 것으로 예상된다. 2010년에 6백 5십만 대를 생산할 것이 예상되는 가운데 한국은 세계 자동차 시장의 10 퍼센트를 차지할 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr125-1.htm",
+  "legacyEncoding": "utf-8"
+}

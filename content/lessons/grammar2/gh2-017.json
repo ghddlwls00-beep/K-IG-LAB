@@ -1,0 +1,156 @@
+{
+  "id": "gh2-017",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 17 ]",
+  "menuLabel": "[ 17과 영어 ]",
+  "unit": 17,
+  "part": null,
+  "order": 20,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-017.mp3",
+      "legacySrc": "sounds/gh2-017.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 17 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Have you ever loved a woman?"
+        },
+        {
+          "n": "2",
+          "text": "Do you ever watch television?"
+        },
+        {
+          "n": "3",
+          "text": "He is just a boy."
+        },
+        {
+          "n": "4",
+          "text": "He just arrived."
+        },
+        {
+          "n": "5",
+          "text": "It's just two o'clock."
+        },
+        {
+          "n": "6",
+          "text": "This is just what I wanted."
+        },
+        {
+          "n": "7",
+          "text": "She talked on for two hours."
+        },
+        {
+          "n": "8",
+          "text": "The lights were all on.(All the lights were on.)"
+        },
+        {
+          "n": "9",
+          "text": "When do you expect him back?"
+        },
+        {
+          "n": "10",
+          "text": "Back home, he had a family to support."
+        },
+        {
+          "n": "11",
+          "text": "The two are good."
+        },
+        {
+          "n": "12",
+          "text": "Both are good."
+        },
+        {
+          "n": "13",
+          "text": "Both are not good."
+        },
+        {
+          "n": "14",
+          "text": "Neither is good."
+        },
+        {
+          "n": "15",
+          "text": "Anything is good."
+        },
+        {
+          "n": "16",
+          "text": "Nothing is good."
+        },
+        {
+          "n": "17",
+          "text": "Let's meet at a nearby restaurant."
+        },
+        {
+          "n": "18",
+          "text": "Let's meet near a restaurant."
+        },
+        {
+          "n": "19",
+          "text": "Once you start anything, try to do your best."
+        },
+        {
+          "n": "20",
+          "text": "I once had a family."
+        },
+        {
+          "n": "21",
+          "text": "Their relationship is over."
+        },
+        {
+          "n": "22",
+          "text": "He walks fast."
+        },
+        {
+          "n": "23",
+          "text": "He is fast."
+        },
+        {
+          "n": "24",
+          "text": "She is beautiful."
+        },
+        {
+          "n": "25",
+          "text": "She smiles beautifully."
+        },
+        {
+          "n": "26",
+          "text": "He studied English to pass the examination."
+        },
+        {
+          "n": "27",
+          "text": "I will find a way to meet my sister."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-017.htm",
+  "legacyEncoding": "utf-8"
+}

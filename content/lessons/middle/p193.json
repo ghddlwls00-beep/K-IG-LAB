@@ -1,0 +1,79 @@
+{
+  "id": "p193",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 193 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 3,
+  "order": 190,
+  "audio": [
+    {
+      "src": "/audio/middle/p193.mp3",
+      "legacySrc": "sounds/p193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 193 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Food)"
+    },
+    {
+      "type": "hints",
+      "text": "Another unique aspect of Korean culture is its food."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean meals usually include boiled rice, soup, fish"
+    },
+    {
+      "type": "instruction",
+      "text": "or meat, several vegetable side dishes,"
+    },
+    {
+      "type": "instruction",
+      "text": "and one or more kinds of kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "Bulgogi is the most popular Korean meat dish,"
+    },
+    {
+      "type": "instruction",
+      "text": "while the most popular vegetable dish is kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "I like them both."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p193.htm",
+  "legacyEncoding": "utf-8"
+}

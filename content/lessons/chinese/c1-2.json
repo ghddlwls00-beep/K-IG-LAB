@@ -1,0 +1,143 @@
+{
+  "id": "c1-2",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "姓名/学校/年龄(이름/학교/나이)",
+  "label": "姓名/学校/年龄(이름/학교/나이)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 2,
+  "order": 2,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-2-swf1.mp3",
+      "legacySrc": "c1-2.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-swf2.mp3",
+      "legacySrc": "c1-2.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-swf3.mp3",
+      "legacySrc": "c1-2.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2.mp3",
+      "legacySrc": "중국어음성/c1-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-1.mp3",
+      "legacySrc": "중국어음성/c1-2-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-2.mp3",
+      "legacySrc": "중국어음성/c1-2-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-3.mp3",
+      "legacySrc": "중국어음성/c1-2-3.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-2-4.mp3",
+      "legacySrc": "중국어음성/c1-2-4.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-2"
+    },
+    {
+      "type": "paragraph",
+      "text": "姓名/学校/年龄(이름/학교/나이)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 이름은 홍길동입니다 그리고 나는 서울에 삽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 한국아파트에 삽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我在韩国住公寓。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 한국 초등학교 4학년입니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我在韩国读小学四年级。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 11살 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我11岁。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "我的名字叫红吉东。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "我住在首尔。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    }
+  ],
+  "legacyPath": "중국/c1-2.html",
+  "legacyEncoding": "utf-8"
+}

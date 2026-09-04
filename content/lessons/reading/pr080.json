@@ -1,0 +1,67 @@
+{
+  "id": "pr080",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 080 ]",
+  "menuLabel": "[ pr080 ]",
+  "unit": 80,
+  "part": null,
+  "order": 158,
+  "audio": [
+    {
+      "src": "/audio/reading/pr080.mp3",
+      "legacySrc": "sounds/pr080.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 080 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(A)"
+    },
+    {
+      "type": "hints",
+      "text": "That spring, I was taken to my first big-league game. Just as we approached the exit after the game, I caught sight of Willie Mays. He was standing near the gate not ten feet away from me. I rushed to him and said, “Mr. Mays, could I please have your autograph?” He said, “Sure, kid. You got a pencil?” I didn’t have one in my pocket. The great Willie Mays stood there watching in silence. He just shrugged and said, “Sorry, kid.” And then he walked out of the ballpark into the night. I didn’t want to cry, but tears started falling down my cheeks, and there was nothing I could do to stop them."
+    },
+    {
+      "type": "instruction",
+      "text": "(B)"
+    },
+    {
+      "type": "instruction",
+      "text": "I was eight years old. At that moment in my life, nothing was more important to me than baseball. My team was the New York Giants, and I followed the doings of those men in the black-and-orange caps with all the devotion of a true believer. Even now, remembering that team, which no longer exists, I can recite the names of nearly every baseball player on the team. But none was greater, and none more perfect than Willie Mays."
+    },
+    {
+      "type": "instruction",
+      "text": "(C)"
+    },
+    {
+      "type": "instruction",
+      "text": "After that night, I started carrying a pencil with me wherever I went. It became a habit of mine never to leave the house without making sure I had a pencil in my pocket. It’s not that I had any particular plans for that pencil, but I didn’t want to be unprepared. I had been caught empty-handed once, and I wasn’t about to let it happen again. If nothing else, the years have taught me this:If there’s a pencil in your pocket, there’s a good chance that one day you’ll feel tempted to start using it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr080.htm",
+  "legacyEncoding": "utf-8"
+}

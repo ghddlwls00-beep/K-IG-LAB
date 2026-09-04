@@ -1,0 +1,67 @@
+{
+  "id": "pr141-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr141",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 141-1 ]",
+  "menuLabel": "[ pr141-1 ]",
+  "unit": 141,
+  "part": null,
+  "order": 281,
+  "audio": [
+    {
+      "src": "/audio/reading/pr141.mp3",
+      "legacySrc": "sounds/pr141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 141-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "부모들은 친구 선택이 모든 아이들에게 얼마나 중요한지를 안다. 소시적 친구관계"
+    },
+    {
+      "type": "instruction",
+      "text": "로부터 부모들은 아이들이 어떤 경향으로 흐르고 있는지를 알 수 있다. 훌륭한 우"
+    },
+    {
+      "type": "instruction",
+      "text": "정은 여러분을 성장하게 하고 잘못된 우정은 여러분을 저하시키기 때문에 우정은"
+    },
+    {
+      "type": "instruction",
+      "text": "중요하다. 그래서 누가 우리 애들의 친구인가는 중요하다. 애들에 대한 본보기로,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 친구가 누구냐 하는 것도 중요하다. 친구란 보다 나은 부리의 본성의 연합"
+    },
+    {
+      "type": "instruction",
+      "text": "체 여야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr141-1.htm",
+  "legacyEncoding": "utf-8"
+}

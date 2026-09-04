@@ -1,0 +1,144 @@
+{
+  "id": "gh1-015-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-015",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 015-1 ]",
+  "menuLabel": "[ gh1-015-1 ]",
+  "unit": 15,
+  "part": null,
+  "order": 26,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-015-1.mp3",
+      "legacySrc": "sounds/gh1-015-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 015-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "입문 5과 기본문장 연습"
+    },
+    {
+      "type": "instruction",
+      "text": "영작 연습 문제 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Who did it?"
+        },
+        {
+          "n": "2",
+          "text": "Who likes it?"
+        },
+        {
+          "n": "3",
+          "text": "What do you want?"
+        },
+        {
+          "n": "4",
+          "text": "What can I do for you?"
+        },
+        {
+          "n": "5",
+          "text": "Why are you sitting here?"
+        },
+        {
+          "n": "6",
+          "text": "When did you come here?"
+        },
+        {
+          "n": "7",
+          "text": "Whose book is this?"
+        },
+        {
+          "n": "8",
+          "text": "Whose books are they(those)?"
+        },
+        {
+          "n": "9",
+          "text": "Whom do you love?"
+        },
+        {
+          "n": "10",
+          "text": "Who loves you?"
+        },
+        {
+          "n": "11",
+          "text": "Which (What) book do you want?"
+        },
+        {
+          "n": "12",
+          "text": "Which(What) do you want?"
+        },
+        {
+          "n": "13",
+          "text": "This is your book. isn't this?"
+        },
+        {
+          "n": "14",
+          "text": "She loves you, doesn't she?"
+        },
+        {
+          "n": "15",
+          "text": "You didn't have (eat) lunch, did you?"
+        },
+        {
+          "n": "16",
+          "text": "He wants much money, doesn't he?"
+        },
+        {
+          "n": "17",
+          "text": "She needs a little money, doesn't she?"
+        },
+        {
+          "n": "18",
+          "text": "She is a lady, isn't she?"
+        },
+        {
+          "n": "19",
+          "text": "I want apples (혹은 an apple)."
+        },
+        {
+          "n": "20",
+          "text": "So does he."
+        },
+        {
+          "n": "21",
+          "text": "I am happy."
+        },
+        {
+          "n": "22",
+          "text": "So is she."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-015-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr070-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr070",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 070-1 ]",
+  "menuLabel": "[ pr070-1 ]",
+  "unit": 70,
+  "part": null,
+  "order": 139,
+  "audio": [
+    {
+      "src": "/audio/reading/pr070.mp3",
+      "legacySrc": "sounds/pr070.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 070-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "심리학자에 따르면, 신체적인 외모가 첫인상의 55%를 구성한다. 신체적 외모는 표정, 눈 맞춤, 그리고 전반적 용모를 포함한다. 말하는 태도는 첫 인상의 35%를 이룬다. 이는 얼마나 빨리 또는 느리게, 혹은 크게 또는 부드럽게 말하는가, 그리고 목소리의 톤을 포함한다. 여러분이 사용하는 실제 어휘는 단지 10%만 차지한다. 그러므로 사람들의 첫인상은 외모가 어떠한가에 주로 근거하고, 다음으로 어떻게 말하는가에, 그리고 무엇을 말하는가에 가장 약한 근거들 두고 있다고 결론 내려도 될 것 같다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr070-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "p017",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 017 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 7,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/middle/p017.mp3",
+      "legacySrc": "sounds/p017.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 017 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Helping hand)"
+    },
+    {
+      "type": "hints",
+      "text": "I like to help other people, individually."
+    },
+    {
+      "type": "instruction",
+      "text": "When I help others, it makes me happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to volunteer at the orphanage and help the children there."
+    },
+    {
+      "type": "instruction",
+      "text": "Volunteering at the orphanage is an exciting time for me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p017.htm",
+  "legacyEncoding": "utf-8"
+}

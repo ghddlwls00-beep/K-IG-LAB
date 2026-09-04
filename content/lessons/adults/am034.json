@@ -1,0 +1,63 @@
+{
+  "id": "am034",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 034 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 4,
+  "order": 33,
+  "audio": [
+    {
+      "src": "/audio/adults/am034.mp3",
+      "legacySrc": "sounds/am034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 034 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend’s Personality, Talents, and Hobbies"
+    },
+    {
+      "type": "hints",
+      "text": "My Best Friend is an Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "He is like me in many ways, such as he is also very outgoing."
+    },
+    {
+      "type": "instruction",
+      "text": "Although he is sometimes much more shy than I am."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am034.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "w6-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w6-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 2,
+  "order": 29,
+  "audio": [
+    {
+      "src": "/audio/woman/w6-2-1.mp3",
+      "legacySrc": "w6-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-2-2.mp3",
+      "legacySrc": "w6-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-2-3.mp3",
+      "legacySrc": "w6-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-2-4.mp3",
+      "legacySrc": "w6-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "저에게는 좋은 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편, 아들, 딸, 그리고 저를 포함해서 4명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가족은 아주 친하고, 우리는 함께 시간을 보내는 것을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Saturday Afternoons",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 가족과 쇼핑을 가고 우리는 한 주 동안 필요한 모든 것을 삽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I go shopping with my family, and we usually pick upeverything we need for one week.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 친구들과 취미 생활도 하며 그래서 때때로 취미생활을 위해 쇼핑을 가기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I joined a hobby circle with my friends, so I sometimes go shoppingfor things I need for the circle.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이런식으로 새로운 많은 친구를 사귀었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have made many new friends this way.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I joined a hobby circle with my friends, so I sometimes go shopping for things I need for the circle.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I go shopping with my family, and we usually pick up everything we need for one week.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w6-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w6-2.swf"
+  ]
+}

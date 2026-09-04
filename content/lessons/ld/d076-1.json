@@ -1,0 +1,71 @@
+{
+  "id": "d076-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d076",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 076회 ]",
+  "menuLabel": "[ D 076-1 ]",
+  "unit": 76,
+  "part": null,
+  "order": 151,
+  "audio": [
+    {
+      "src": "/audio/ld/d076.mp3",
+      "legacySrc": "sounds/d076.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 076회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "drag racing에 사용되는 차들은 다른 경주용 차와 공통점이 많지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "앞쪽에는 자전거 바퀴처럼 보이는 것이 있다. 크고 두터운 바퀴가 뒤쪽에 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "강력한 엔진이 보통 운전자의 앞에 있다. 시합 동안에는 엔진으로부터 그리고 타이어로부터의 불타는 고 무로부터 너무나 많은 연기가 있어서 그 차들을 보기가 어렵다."
+    },
+    {
+      "type": "instruction",
+      "text": "팬들은 개의치 않는다. 그들은 가장 좋은 시합은 차들이 너무나 빨리 달려서 전혀 볼 수 없는 시합이라고 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "Drag racing은 십대의 소일거리로부터 큰 사업으로 변했다. 지금 직업적인 시합이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "훌륭한 drag racer는 일년에 무려 65,000불까지 벌 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d076-1.htm",
+  "legacyEncoding": "utf-8"
+}

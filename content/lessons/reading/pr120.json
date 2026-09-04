@@ -1,0 +1,47 @@
+{
+  "id": "pr120",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 120 ]",
+  "menuLabel": "[ pr120 ]",
+  "unit": 120,
+  "part": null,
+  "order": 238,
+  "audio": [
+    {
+      "src": "/audio/reading/pr120.mp3",
+      "legacySrc": "sounds/pr120.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 120 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "For centuries, sundials and water clocks inaccurately told us all we needed to know about time. Mechanical clocks started appearing on towers in Italy in the 14th century, but their timekeeping was less impressive than their looks, wandering up to 15 minutes a day. By the 17th century some geniuses, including Galileo and Pascal, had theorized about, but failed to build, better timepieces. Then, in 1656, Dutch astronomer Christian Huygens constructed the first pendulum clock, revolutionizing timekeeping. The precision of Huygens’ clock allowed scientists to use it for their physics experiments, and shopkeepers to open and close at fixed hours. In 1761, Englishman John Harrison perfected a clock that worked at sea and put accurate time in a navigator’s pocket."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr120.htm",
+  "legacyEncoding": "utf-8"
+}

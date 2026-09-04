@@ -1,0 +1,83 @@
+{
+  "id": "p152-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p152",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 152-1 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 2,
+  "order": 155,
+  "audio": [
+    {
+      "src": "/audio/middle/p152.mp3",
+      "legacySrc": "sounds/p152.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 152-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 가장 존경하는 사람)"
+    },
+    {
+      "type": "instruction",
+      "text": "내가 가장 존경하는 사람은"
+    },
+    {
+      "type": "instruction",
+      "text": "네덜란드 출신의 대한민국 국가대표팀 감독인 거스 히딩크 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 한국팀의 감독이었던 시간 동안,"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리 축구선수들을 매우 강하게 훈련시켰습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 히딩크 감독이 많은 시간을 한국의 축구팀 훈련시키는데"
+    },
+    {
+      "type": "instruction",
+      "text": "보냈지만,"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 여전히 많은 경기를 승리하지 못했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 그에 대해서 불평했고"
+    },
+    {
+      "type": "instruction",
+      "text": "성공의 부족에 대해서 그를 비난했습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p152-1.htm",
+  "legacyEncoding": "utf-8"
+}

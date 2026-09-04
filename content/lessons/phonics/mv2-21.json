@@ -1,0 +1,88 @@
+{
+  "id": "mv2-21",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-21 ]",
+  "unit": 21,
+  "part": null,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-21.mp3",
+      "legacySrc": "sounds/mv2-21.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "pyramid",
+          "meal",
+          "law",
+          "honest",
+          "comedy",
+          "stove"
+        ],
+        [
+          "impossible",
+          "coal",
+          "brick",
+          "perform",
+          "square",
+          "circle"
+        ],
+        [
+          "rectangle",
+          "collect",
+          "cylinder",
+          "oval",
+          "spiral",
+          "language"
+        ],
+        [
+          "sphere",
+          "cube",
+          "triangle",
+          "explain",
+          "adult",
+          "final"
+        ],
+        [
+          "avoid",
+          "minister",
+          "patient",
+          "limit",
+          "achieve",
+          "straight"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-21 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-21.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "d089-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d089",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 089회 ]",
+  "menuLabel": "[ D 089-1 ]",
+  "unit": 89,
+  "part": null,
+  "order": 177,
+  "audio": [
+    {
+      "src": "/audio/ld/d089.mp3",
+      "legacySrc": "sounds/d089.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 089회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "자동차 엔진은 너무나 무겁기 때문에 the Wrights는 그들의 비행기를 위한 특별한 엔진도 건조해야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 기계가 준비되었을 때 그들은 그것을 노스캐롤라이나의 KittyHawk로 옮겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 악천후 때문에 몇 주 동안 비행할 수 없었지만 1903년 12월 17일에 그들은 준비가 되어있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Orville이 the Flyer에 기어들어가서 비행기로 비행하는 첫 번째 사람이 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "라이트 형제는 the Flyer를 개발하는 것을 계속했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 세 번째 비행기 the Flyer III은 1905년에 건조되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 90미터를 기어올라가서 40킬로미터를 여행할 수 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 유럽으로 여행했고 비행 시범을 보였다. 사람들은 비행에 매우 흥미를 느끼게 되었고 곧 라이트 형 제는 유럽과 미국에서 비행기를 제조하기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "라이트 형제가 the Flyer를 건조하기 위하여 사용했던 기본적인 아이디어들은 그때 이래로 비행한 모든 비 행기에서 사용되어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 그 최초의 Flyer는 와싱턴 DC의 National Air and Space Museum에서 볼 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d089-1.htm",
+  "legacyEncoding": "utf-8"
+}

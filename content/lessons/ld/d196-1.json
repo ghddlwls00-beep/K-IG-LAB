@@ -1,0 +1,83 @@
+{
+  "id": "d196-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d196",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 196 회 ]",
+  "menuLabel": "[ D 196-1 ]",
+  "unit": 196,
+  "part": null,
+  "order": 390,
+  "audio": [
+    {
+      "src": "/audio/ld/d196.mp3",
+      "legacySrc": "sounds/d196.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 196 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 서커스하는 사람들이 기술이 좋고 대담한 사람들은 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "기형아들은 단지 어던 육체적인 기형이나 이상한 재능 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "재미있거나 특이한 연예인들의 집단이다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 서커스에는 뚱뚱한 부인, 키 큰 사람, 뱀을 부리는 사람, 칼을 삼키는 사람,"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 많은 다른 사람들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 사람들은 어떤 면에서는 모두 가엾지만 아마 뚱뚱한 부인이 가장 동정받아야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 군중이 빤히 쳐다보는 것을 별로 많이 상관하지 않지만 여름의 더위는 거의 견딜 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 그녀는 자신의 비참함을 완화하기 위하여 다이어트를 한다면"
+    },
+    {
+      "type": "instruction",
+      "text": "아마 직업을 잃게 되리라는 것을 안다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d196-1.htm",
+  "legacyEncoding": "utf-8"
+}

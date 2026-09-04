@@ -1,0 +1,68 @@
+{
+  "id": "qa171-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa171",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 171-1 〕",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 1,
+  "order": 398,
+  "audio": [
+    {
+      "src": "/audio/basics/qa171.mp3",
+      "legacySrc": "sounds/qa171.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 171-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(단군신화) → 단군신화에 대하여 나에게 말씀해 주십시오"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "214",
+          "text": "옛날 옛날에 / 하늘의 왕인, 환인이 / 그의 아들 환웅을 / 세상에 / 보냈어."
+        },
+        {
+          "n": "215",
+          "text": "거기에서 / 그는 / 곰에서 여자가 된 / 웅녀와 / 결혼했어."
+        },
+        {
+          "n": "216",
+          "text": "그녀는 / 단군이라 불리는 / 아들을 / 낳았어."
+        },
+        {
+          "n": "217",
+          "text": "그가 / 한국의 시조가 / 되었어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa171-1.htm",
+  "legacyEncoding": "utf-8"
+}

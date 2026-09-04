@@ -1,0 +1,79 @@
+{
+  "id": "d122-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d122",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 122 회 ]",
+  "menuLabel": "[ D 122-1 ]",
+  "unit": 122,
+  "part": null,
+  "order": 243,
+  "audio": [
+    {
+      "src": "/audio/ld/d122.mp3",
+      "legacySrc": "sounds/d122.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 122 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 다른 사람들은 세계는 그것의 자원(식량, 에너지, 땅)이 균등하게 배부된다면"
+    },
+    {
+      "type": "instruction",
+      "text": "훨씬 더 많은 인구를 부양할 수 있을 것으로 느낀다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람들은 식량 증산과 기술 향상이 그 문제를 해결할 것으로 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "1960년대 이래로 식량 생산에 있어서의 큰 증가가 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "불행히도 많은 개도국에서의 인구는 식량 생산의 비율보다 더 빨리 올랐다."
+    },
+    {
+      "type": "instruction",
+      "text": "아프리카와 남미는 2.8%의 연인구 성장률을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 유럽의 인구는 0.6 퍼센트의 비율로 성장하고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "북미의 인구는 매년 0.9 퍼센트 성장하고 있지만 그 비율의 2 퍼센트는 이민의 결과이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d122-1.htm",
+  "legacyEncoding": "utf-8"
+}

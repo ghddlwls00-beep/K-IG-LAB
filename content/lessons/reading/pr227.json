@@ -1,0 +1,71 @@
+{
+  "id": "pr227",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 227 ]",
+  "menuLabel": "[ pr227 ]",
+  "unit": 227,
+  "part": null,
+  "order": 452,
+  "audio": [
+    {
+      "src": "/audio/reading/pr227.mp3",
+      "legacySrc": "sounds/pr227.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 227 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "People are accustomed to using blankets to make themselves warm. So they"
+    },
+    {
+      "type": "hints",
+      "text": "are surprised to see blankets used to keep ice cold and to prevent it from"
+    },
+    {
+      "type": "instruction",
+      "text": "melting. Expecting that a blanket will always make something warm, they"
+    },
+    {
+      "type": "instruction",
+      "text": "think that it must warm ice, too. But what a blanket always does is to"
+    },
+    {
+      "type": "instruction",
+      "text": "prevent heat from passing through one side of it to the other. Thus, it keeps"
+    },
+    {
+      "type": "instruction",
+      "text": "the heat of the body from passing into the colder air surrounding it, and"
+    },
+    {
+      "type": "instruction",
+      "text": "it keeps the heat of the air from passing into the colder ice."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr227.htm",
+  "legacyEncoding": "utf-8"
+}

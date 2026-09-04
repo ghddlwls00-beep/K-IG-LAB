@@ -1,0 +1,115 @@
+{
+  "id": "aw04",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 04 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": null,
+  "order": 41,
+  "audio": [
+    {
+      "src": "/audio/adults/aw04.mp3",
+      "legacySrc": "sounds/aw04.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 04 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 4: Introducing My Relatives"
+    },
+    {
+      "type": "hints",
+      "text": "Greeting"
+    },
+    {
+      "type": "instruction",
+      "text": "Finally, I’d like/love to tell you about my relatives."
+    },
+    {
+      "type": "instruction",
+      "text": "My Uncles, Aunts, and Cousins"
+    },
+    {
+      "type": "instruction",
+      "text": "I have many relatives because both of my parents have many brothers and sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "My father has (2) brothers and (2) sisters, while my mother has (3) brothers and (3) sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "My father is the oldest in his family, while my mother is the second child in her family."
+    },
+    {
+      "type": "instruction",
+      "text": "Most my aunts and uncles are married."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a total of (6) cousins: (3) from my father’s side and (3) from my mother's side of the family."
+    },
+    {
+      "type": "instruction",
+      "text": "My Favorite Relative"
+    },
+    {
+      "type": "instruction",
+      "text": "I have many favorite relatives, but my oldest uncle (홍길동) on my mother’s side is my most favorite one."
+    },
+    {
+      "type": "instruction",
+      "text": "Uncle (홍) lives on the other side of town, and my family visits him twice a month."
+    },
+    {
+      "type": "instruction",
+      "text": "When we get together we usually go out for dinner."
+    },
+    {
+      "type": "instruction",
+      "text": "My oldest uncle has many talents and he is very generous."
+    },
+    {
+      "type": "instruction",
+      "text": "Uncle (홍) can play all kinds of sports, and he can play the piano and guitar pretty well."
+    },
+    {
+      "type": "instruction",
+      "text": "He can speak English very fluently."
+    },
+    {
+      "type": "instruction",
+      "text": "He’s almost like a native speaker."
+    },
+    {
+      "type": "instruction",
+      "text": "I really look up to and admire him a lot."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw04.htm",
+  "legacyEncoding": "utf-8"
+}

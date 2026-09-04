@@ -1,0 +1,473 @@
+{
+  "id": "s17-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s17-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 3,
+  "order": 73,
+  "audio": [
+    {
+      "src": "/audio/student/s17-3-1.mp3",
+      "legacySrc": "s17-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-2.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-3.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-4.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-5.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-6.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-7.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-8.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-9.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-10.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-11.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-12.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-13.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-14.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-15.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-16.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-17.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-18.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-19.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-20.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-21.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-22.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-23.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-24.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-25.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-26.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-27.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-3-28.mp3",
+      "legacySrc": "s17-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Many Koreans did not like being under the power of Japan, so they fought against Japanese rule.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1945, Korea was librated from Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A civil war broke out in 1950 when armies from the North invaded the South.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while, Korea was ruled by Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After Shilla fell, many other countries tried to gain power over Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, the Korean peninsula became divided into North and South Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라가 멸망한 후에, 많은 다른 나라들은 한국을 지배하려고 시도했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "잠시 동안, 한국은 일본에 의해 지배를 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국사람들은 일본의 힘 아래에 있는 것을 좋아하지 않아서 그들은 일본의 통치에 대항해 싸웠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1945년, 한국은 일본으로부터 독립했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1950년 북쪽에서 온 군대가 남쪽을 침범했을 때 내전이 발생했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "결과적으로 한반도는 북한과 남한으로 나누어졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라가 멸망한 이후",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라가 멸망한 이후After Shilla fell,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 나라들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 나라들이many other countries",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/지배하려고 노력했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/지배하려고 노력했습니다. tried to gain power",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국에 대해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국에 대해over Korea.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "잠시동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "잠시동안For a while,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 일본에 의해 지배받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 일본에 의해 지배받았습니다. Korea was ruled by Japan.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국인들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국인들이Many Koreans",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 있는 것을 좋아하지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 있는 것을 좋아하지 않았습니다. did not like being",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본의 권력아래에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본의 권력아래에under the power of Japan,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 그들은 싸웠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 그들은 싸웠습니다. so they fought",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본 통치에 대항하여",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본 통치에 대항하여 against Japanese rule.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1945년에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1945년에In 1945,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 독립했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 독립했습니다. Korea was librated",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본으로 부터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일본으로 부터 from Japan.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1950년에 한국전쟁이 발발했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1950년에 한국전쟁이 발발했습니다.A civil war broke out in 1950",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/북쪽에서 온 군대가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/북쪽에서 온 군대가 when armies from the North",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/남쪽을 침략했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/남쪽을 침략했습니다. invaded the South.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 결과",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 결과As a result,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한반도는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한반도는 the Korean peninsula",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나뉘어 졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나뉘어 졌습니다. became divided",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/북한과 남한으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/북한과 남한으로into North and South Korea.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "History :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Independence of Korea/The Korean Civil War",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s17-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s17-3.swf"
+  ]
+}

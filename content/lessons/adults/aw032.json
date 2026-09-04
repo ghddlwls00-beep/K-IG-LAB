@@ -1,0 +1,71 @@
+{
+  "id": "aw032",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 032 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 2,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/adults/aw032.mp3",
+      "legacySrc": "sounds/aw032.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 032 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Friend’s Personal Background"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend (현주) is (39) years old and lives in (서울)."
+    },
+    {
+      "type": "hints",
+      "text": "She has a really wonderful family that includes a nice husband, son, and daughter."
+    },
+    {
+      "type": "instruction",
+      "text": "Her husband’s name is (이영철), and he works for Cell-Phone Company."
+    },
+    {
+      "type": "instruction",
+      "text": "Her son, (대한) is (14), and he is a student at (한국 Middle School)."
+    },
+    {
+      "type": "instruction",
+      "text": "(소연) is her daughter, and she attends (한국 Elementary School)."
+    },
+    {
+      "type": "instruction",
+      "text": "Her house and mine are very close, so we can meet each other everyday."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw032.htm",
+  "legacyEncoding": "utf-8"
+}

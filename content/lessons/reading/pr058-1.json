@@ -1,0 +1,51 @@
+{
+  "id": "pr058-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr058",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 058-1 ]",
+  "menuLabel": "[ pr058-1 ]",
+  "unit": 58,
+  "part": null,
+  "order": 115,
+  "audio": [
+    {
+      "src": "/audio/reading/pr058.mp3",
+      "legacySrc": "sounds/pr058.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 058-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "성인 일과 삶에 대해 학생을 교육시킬 때 미국 학교는 무엇보다도 실용적이도록 시도한다. 미국 교육은 상당히 John Dewey 라고 불리는 유명한 20세기 철학자의 글에서 크게 영향을 받아왔다. John Dewey는 유일한 가치 있는 지식은 실생활에 사용될 수 있는 지식이라고 믿었다. 그는 교육자들에게 학생들이 쓸모없는 사실을 암기 하게 하는 것은 무의미하다고 확신시켰다."
+    },
+    {
+      "type": "instruction",
+      "text": "차라리 학교는 사람들이 생활하고 일하는 방법에 영향을 끼치는 사고 과정과 기술을 가르쳐야만 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr058-1.htm",
+  "legacyEncoding": "utf-8"
+}

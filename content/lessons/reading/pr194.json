@@ -1,0 +1,47 @@
+{
+  "id": "pr194",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 194 ]",
+  "menuLabel": "[ pr194 ]",
+  "unit": 194,
+  "part": null,
+  "order": 386,
+  "audio": [
+    {
+      "src": "/audio/reading/pr194.mp3",
+      "legacySrc": "sounds/pr194.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 194 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Through the train window, I could see crops ripening in the fields and trees turning red and yellow. If this journey had taken place a week earlier, all this would have pleased my eyes. But now I could not enjoy it. Too many thoughts were running through my head. What had I done to Uncle Joe, the man who had raised me for twenty years? I felt ashamed for not having visited him for the last five years. I disappointed him, the man who loved me like a father. I wasn’t happy with myself, knowing that last week he spent his sixtieth birthday alone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr194.htm",
+  "legacyEncoding": "utf-8"
+}

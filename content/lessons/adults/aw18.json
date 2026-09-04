@@ -1,0 +1,131 @@
+{
+  "id": "aw18",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 18 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": null,
+  "order": 175,
+  "audio": [
+    {
+      "src": "/audio/adults/aw18.mp3",
+      "legacySrc": "sounds/aw18.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 18 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 18: The Traditional Holidays of Korea"
+    },
+    {
+      "type": "hints",
+      "text": "An Introduction to the Traditional Holidays of Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "What is a holiday? Holidays are special times (of the year) when families get together and celebrate."
+    },
+    {
+      "type": "instruction",
+      "text": "Many holidays are known worldwide such as New Year’s Day and Christmas, but most holidays are celebrated by certain cultures."
+    },
+    {
+      "type": "instruction",
+      "text": "These kinds of holidays are called traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "Korea has many traditional holidays, but the two largest ones are Lunar New Year’s and Chuseok."
+    },
+    {
+      "type": "instruction",
+      "text": "Lunar New Year’s (설날)"
+    },
+    {
+      "type": "instruction",
+      "text": "The first big holiday is Lunar New Year’s, which is also known as Seollal."
+    },
+    {
+      "type": "instruction",
+      "text": "It is celebrated on the first day of the first month on the lunar calendar."
+    },
+    {
+      "type": "instruction",
+      "text": "The most important Lunar New Year’s custom is the ancestral memorial rites ceremony."
+    },
+    {
+      "type": "instruction",
+      "text": "Each member of the family gets up early in the morning and dresses in their best clothes."
+    },
+    {
+      "type": "instruction",
+      "text": "During this ceremony, Koreans perform a ritual ceremony in honor of their ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "Following the ceremony, the youth bow to their elders as a gesture of wishing everyone many new blessings during the upcoming new year."
+    },
+    {
+      "type": "instruction",
+      "text": "To bow on the Lunar New Year is a special honor and privilege of showing respect to one’s elders."
+    },
+    {
+      "type": "instruction",
+      "text": "Chuseok (추석)"
+    },
+    {
+      "type": "instruction",
+      "text": "Chuseok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving."
+    },
+    {
+      "type": "instruction",
+      "text": "It is celebrated on the fifteenth day of the eighth month on the lunar calendar."
+    },
+    {
+      "type": "instruction",
+      "text": "During Chuseok, Koreans visit their ancestral tombs and make an offering of food to their ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "Most people play games with their relatives such as yut-nori, which is a traditional game played with four rounded wooden sticks;"
+    },
+    {
+      "type": "instruction",
+      "text": "others make song-pyeun, which is a Korean traditional rice cake eaten especially during Chuseok."
+    },
+    {
+      "type": "instruction",
+      "text": "I like our country’s traditional holidays because it is a time when all family members gather together to celebrate life."
+    },
+    {
+      "type": "instruction",
+      "text": "On these days, I learn how important family really is!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw18.htm",
+  "legacyEncoding": "utf-8"
+}

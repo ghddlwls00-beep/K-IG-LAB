@@ -1,0 +1,132 @@
+{
+  "id": "cnn075",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "KT&G Rejects Icahn Takeover Bid",
+  "label": "KT&G Rejects Icahn Takeover Bid",
+  "menuLabel": "[ CNN 75 ]",
+  "unit": 75,
+  "part": null,
+  "order": 74,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn075.mp4",
+      "legacySrc": "CNN/CNN61-120/75.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "KT&G Rejects Icahn Takeover Bid"
+    },
+    {
+      "type": "paragraph",
+      "text": "A resounding rejection for U.S. entrepreneur Carl Icahn. South Korea’s largest tobacco maker KT&G has rejected a takeover offer valuing the company at 10 billion dollars. The hostile offer from Mr. Icahn and his partner Warren Lichtenstein is being watched with interest by many foreign investors who are facing fierce opposition in national arena. The former state monopoly KT&G which controls 70 percent of the domestic market didn’t say how it intends to fend off the bid.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT&G, 아이칸의 인수 제의 거절",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국의 사업가 아이칸의 인수제의가 완전히 거절당했다는 소식입니다. 한국 최대 담배제조업체인 KT&G 사는 자산 가치를 100억 달러로 상정한 인수 제의를 거절했습니다. 한국 내에서 강한 반발에 직면하고 있는 많은 해외 투자자들은 아이칸과 그의 파트너인 워렌 리히텐스타인측의 적대적 인수 제의를 관심 있게 지켜보고 있습니다. 과거 독점 국영기업으로 현재 한국내 담배시장의 70%를 장악하고 있는KT&G는 아이칸 측의 움직임을 어떤 식으로 방어할지에 대해서는 언급하지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫모음 e가 영국식 발음으로 [오]로 발음되어 en-을 on으로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘자음+모음’이 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. monopoly/ 독점, 전매",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. domestic/ 자국의, 국내의",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "entrepreneur",
+          "text": "[온트러프러너]."
+        },
+        {
+          "n": "takeover",
+          "text": "take와 over를 각각 발음하여 [테이크오우버]라고 하지 않고 연음시켜 [테이코우버]로 발음한다."
+        },
+        {
+          "n": "fend off",
+          "text": "[펜더ㅍ]."
+        },
+        {
+          "n": "KT&G",
+          "text": "KT&G(Korea Tobacco & Ginseng) 사: 전 한국담배인삼공사로 현재는 민영화가 되었다."
+        },
+        {
+          "n": "(Carl) Icahn",
+          "text": "(칼) 아이칸: 기업 합병을 전문으로 하는 미국 기업인"
+        },
+        {
+          "n": "takeover",
+          "text": "경영권 취득; 인계, 접수"
+        },
+        {
+          "n": "resounding",
+          "text": "철저한, 완전한"
+        },
+        {
+          "n": "entrepreneur",
+          "text": "기업가, 사업가"
+        },
+        {
+          "n": "value",
+          "text": "(금전적으로) 평가하다"
+        },
+        {
+          "n": "hostile",
+          "text": "적대적인"
+        },
+        {
+          "n": "Warren Lichtenstein",
+          "text": "워렌 리히텐스타인: 기업 합병을 전문으로 하는 스틸파트너스 사의 회장"
+        },
+        {
+          "n": "fierce",
+          "text": "격심한, 격렬한"
+        },
+        {
+          "n": "arena",
+          "text": "활동장소, (경쟁의) 무대; 시합장"
+        },
+        {
+          "n": "state monopoly",
+          "text": "독점국영기업"
+        },
+        {
+          "n": "domestic market",
+          "text": "국내시장"
+        },
+        {
+          "n": "fend off",
+          "text": "(타격을) 저지하다, 피하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/75.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "d178-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d178",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 178 회 ]",
+  "menuLabel": "[ D 178-1 ]",
+  "unit": 178,
+  "part": null,
+  "order": 354,
+  "audio": [
+    {
+      "src": "/audio/ld/d178.mp3",
+      "legacySrc": "sounds/d178.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 178 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "십초 이상 걸리지 않을 것이다,"
+    },
+    {
+      "type": "instruction",
+      "text": "876, 935, 290, 143, 841, 986. 405. 믿거나 말거나 이 숫자들을"
+    },
+    {
+      "type": "instruction",
+      "text": "전광석화(flash)같이 빨리 읽고 여생 동안 기억할 수 있는 사람들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 카메라가 필름에 어떤 것을 영원히 잡는 것처럼 어떤 것에 집중하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 영원히 그들의 마음 속에 저장할 수 있는 “사진같은” 기억력을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "과학자들은 5,000명에 한명 정도가 이 놀랄 만한 기억력을 갖고 있다고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 23세된 미국인 대학생은 그녀가 결코 공부한 적 없는 외국어로 된 시를 읽고 나서"
+    },
+    {
+      "type": "instruction",
+      "text": "나중에 아무런 도움 없이 그 시들을 암송할 수 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 마음 속으로 그 페이지들을 “볼” 수 있다고 설명했다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것을 입증하기 위하여 그녀는 그 시를 거꾸로 말할 수조차 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 소녀를 몇 달 동안 실험한 후 두 과학자가 특별한 테스트를 준비했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 만개의 흑색 사각형과 백색 사각형이 무작위로 놓여진 거대한 “장기판”을 만들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 소녀는 그 거대한 장기판을 단지 몇 분 동안만 연구했다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 개월 후에 그녀는 여전히 그 모든 사각형의 위치를 완벽하게 묘사할 수 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d178-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,413 @@
+{
+  "id": "s12-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s12-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 57,
+  "audio": [
+    {
+      "src": "/audio/student/s12-3-1.mp3",
+      "legacySrc": "s12-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-2.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-3.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-4.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-5.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-6.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-7.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-8.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-9.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-10.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-11.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-12.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-13.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-14.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-15.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-16.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-17.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-18.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-19.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-20.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-21.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-22.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-23.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-3-24.mp3",
+      "legacySrc": "s12-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My mother wants me to study more, so every day during winter break, she makes me study.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because I like to read by myself, I usually read a lot during vacation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like vacations because I have more freedom to do what I want.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, last year we went on a short skiing trip to KangWon Province.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "During winter vacation, we don’t travel very often.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "겨울방학 동안, 우리는 매우 자주 여행을 하지는 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나, 지난해에 우리는 강원도로 짧은 스키여행을 다녀왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니께서는 내가 더 많이 공부하기를 원하셔서 겨울방학 동안 매일, 그녀는 나를 공부하도록 만드십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 스스로 독서하는 것을 좋아하기 때문에, 나는 보통 방학 동안 많은 독서를 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 원하는 것을 할 수 있는 자유를 더 많이 가질 수 있기 때문에 나는 방학을 좋아 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "겨울방학동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "겨울방학동안During winter vacation,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 매우 자주 여행하지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 매우 자주 여행하지 않습니다. we don't travel very often.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나However,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 지난해에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 지난해에 last year",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 짧은 여행을 갔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 짧은 여행을 갔습니다. we went on a short skiing trip",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 강원도로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 강원도로 to Kang Won Province.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니는My mother",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 더 많이 공부하기를 원하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 더 많이 공부하기를 원하십니다. wants me to study more,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 겨울방학동안 매일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 겨울방학동안 매일 so every day during winter break,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀는 내가 공부하게 시키십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀는 내가 공부하게 시키십니다. she makes me study.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 독서를 좋아하기 때문에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 독서를 좋아하기 때문에Because I like to read",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/스스로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/스스로 by myself,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 보통 많이 읽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 보통 많이 읽습니다. I usually read a lot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/방학동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/방학동안 during vacation.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 방학을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 방학을 좋아합니다.I like vacations",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면 나는 가지기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면 나는 가지기 때문입니다. because I have",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/할 더 많은 자유를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/할 더 많은 자유를more freedom to do",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 원하는 것을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 원하는 것을 what I want.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What I Do During School Vacations :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Winter Vacation",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s12-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s12-3.swf"
+  ]
+}

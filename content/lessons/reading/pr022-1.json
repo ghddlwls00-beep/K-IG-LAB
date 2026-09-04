@@ -1,0 +1,47 @@
+{
+  "id": "pr022-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr022",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 022-1 ]",
+  "menuLabel": "[ pr022-1 ]",
+  "unit": 22,
+  "part": null,
+  "order": 43,
+  "audio": [
+    {
+      "src": "/audio/reading/pr022.mp3",
+      "legacySrc": "sounds/pr022.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 022-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사랑은 특정 사람과의 관계가 아니다. 의지할 때 없는 사람에 대한 사랑은 형제애의 시작이다. 자신의 몸을 사랑하는 것은 업적이 아니다. 목적을 가지고 봉사하지 않는 사람들의 사랑 안에서만이 사랑은 펼쳐지기 시작한다. 무기력한 사람에 대한 동정을 가지고 사람은 형제에 대한 사랑을 전개하기 시작한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr022-1.htm",
+  "legacyEncoding": "utf-8"
+}

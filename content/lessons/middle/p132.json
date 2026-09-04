@@ -1,0 +1,75 @@
+{
+  "id": "p132",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 132 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 2,
+  "order": 138,
+  "audio": [
+    {
+      "src": "/audio/middle/p132.mp3",
+      "legacySrc": "sounds/p132.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 132 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(The Person I Respect the Most)"
+    },
+    {
+      "type": "hints",
+      "text": "The person I respect the most is General Soon-Shin Lee."
+    },
+    {
+      "type": "instruction",
+      "text": "General Lee lived 500 years ago, and he defeated the Japanese over"
+    },
+    {
+      "type": "instruction",
+      "text": "and over again."
+    },
+    {
+      "type": "instruction",
+      "text": "He lived during a difficult time of Korean history,"
+    },
+    {
+      "type": "instruction",
+      "text": "but he always thought of Korea and Koreans before himself."
+    },
+    {
+      "type": "instruction",
+      "text": "He created the turtle ship that he had used against the Japanese"
+    },
+    {
+      "type": "instruction",
+      "text": "and conquered them many times."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p132.htm",
+  "legacyEncoding": "utf-8"
+}

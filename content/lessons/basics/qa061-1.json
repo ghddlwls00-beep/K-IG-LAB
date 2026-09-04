@@ -1,0 +1,64 @@
+{
+  "id": "qa061-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa061",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 061-1 〕",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 1,
+  "order": 144,
+  "audio": [
+    {
+      "src": "/audio/basics/qa061.mp3",
+      "legacySrc": "sounds/qa061.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 061-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 학교 소개 1) → 당신은 당신의 학교에 대하여 무엇을 좋아합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "62",
+          "text": "나의 학교는 / 많은 활동과 / 흥미로운 수업을 / 해."
+        },
+        {
+          "n": "63",
+          "text": "또한 / 훌륭한 선생님들로 / 유명해."
+        },
+        {
+          "n": "64",
+          "text": "내 남동생과 누나도 / 같은 학교에 / 다녀."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa061-1.htm",
+  "legacyEncoding": "utf-8"
+}

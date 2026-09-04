@@ -1,0 +1,79 @@
+{
+  "id": "d015-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d015",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 015 회 ]",
+  "menuLabel": "[ D 015-1 ]",
+  "unit": 15,
+  "part": null,
+  "order": 29,
+  "audio": [
+    {
+      "src": "/audio/ld/d015.mp3",
+      "legacySrc": "sounds/d015.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 015 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "지난 토요일 나는 그 새 디스코택으로 시내로 급히 갔다. 나는 나의 새 양복을 입고 있었지만"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 다른 애들은 “진”과 스포츠셔츠를 입고 있었다. 나는 지나친 복장을 했다는"
+    },
+    {
+      "type": "instruction",
+      "text": "또 바보스럽다는 느낌이 들었다. 모든 사람이 춤을 추며 즐거운 시간을 보내고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 한 예쁜 금발에게 춤을 청했다. 그녀는 그냥 나를 보고 걸어가 버렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 한 동안 그 주변에 앉아있은 다음 일찍 집으로 걸어갔다. 그러나 나는 다음 토요일에 다시 가겠다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 금발을 잊을 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 자주색 바지와 나의 노랑 양말과 나의 녹색 및 청색 셔츠를 입으려고 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 다음에는 나와 춤출 거야."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d015-1.htm",
+  "legacyEncoding": "utf-8"
+}

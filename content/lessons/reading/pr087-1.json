@@ -1,0 +1,47 @@
+{
+  "id": "pr087-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr087",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 087-1 ]",
+  "menuLabel": "[ pr087-1 ]",
+  "unit": 87,
+  "part": null,
+  "order": 173,
+  "audio": [
+    {
+      "src": "/audio/reading/pr087.mp3",
+      "legacySrc": "sounds/pr087.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 087-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "십대들은 상상(허상)의 관객들로 둘러싸여 있다. 그들은 자신이 자기 자신에게 쏟는 관심만큼이나 남들도 그들에게 관심이 있을 것이라고 생각한다. 모든 사람들이 자신들을 지켜보고 있다고 생각하기 때문에, 그들은 대단히 남의 이목을 의식한다. 예를 들면, 자신의 코가 못생겼다고 생각하는 소년에게 다른 사람들은 그의 코에 전혀 신경 쓰지 않는다고 설득하는 것은 불가능하다. 또한, 십대 소녀들이 친구들과 얘기를 할 때면, 그들은 과장되게 표현하거나, 크게 웃고 얘기하며 가상의 청중들이 있는 것처럼 행동한다. 하지만, 그들은 점차 남들은 그들에게 별로 관심이 없다는 사실을 깨닫는다. 십대들의 행동은 남들이 자신들을 지켜보기엔 남들의 삶이 아주 바쁘다는 것을 깨달으면서 변하게 된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr087-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "m18-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m18-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 2,
+  "order": 78,
+  "audio": [
+    {
+      "src": "/audio/man/m18-2-1.mp3",
+      "legacySrc": "m18-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-2.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-3.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-4.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-5.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-6.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-7.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-2-8.mp3",
+      "legacySrc": "m18-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "첫째로 가장 큰 휴일은 Lunar New Year’s인데 이것은 또한 설날로 알려져 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first big holiday is Lunar New Year’s , which is also known as Seo--Lal.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 음력 첫째달의 첫날인데 보통 양력으로 1월 1일 이후이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is celebrated on the first day of the first month on the lunar calendar, which is usually after the 1st of January on the solar calendar.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "가장 중요한 설날의 관습은 조상의 기념 의식이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important Lunar New Year custom is the ancestral memorial ceremony.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "가족 구성원 각자는 아침 일찍 일어나 그들의 가장 좋은 옷을 입는다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each member of the family gets up early in the morning and dresses in their best clothes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 후에, 우리의 조상들에게 경의를 표하는 의식을 행한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Afterwards, we perform a ritual ceremony in honor of our ancestors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 의식 다음으로, 어린 사람들이 그들의 윗사람들에게 모두 다가오는 새해동안 많은 축복이 있기를 기원하며 절을 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the ceremony, the younger people bow to their elders as a gestureof wishing everyone many new blessings during the upcoming new year.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "새해에 하는 절은 어른들에게 존경을 보이는 특별한 예의와 특권이다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "새해에 절을 하는 것은 어른들에게 존경을 보이는 특별한 예의와 특권이다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "To bow on the Lunar New Year is a special honor and privilege of showing respect to one’s elders.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the ceremony, the younger people bow to their elders as a gesture of wishing everyone many new blessings during the upcoming new year.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "18 Korean Holidays :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lunar New Year's Day",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m18-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m18-2.swf"
+  ]
+}

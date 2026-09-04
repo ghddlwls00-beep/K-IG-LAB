@@ -1,0 +1,47 @@
+{
+  "id": "pr075-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr075",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 075-1 ]",
+  "menuLabel": "[ pr075-1 ]",
+  "unit": 75,
+  "part": null,
+  "order": 149,
+  "audio": [
+    {
+      "src": "/audio/reading/pr075.mp3",
+      "legacySrc": "sounds/pr075.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 075-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "카페인과 임신에 관한 논평들은 서로 모순되고 있다. 다른 하나의 1909명의 여성들을 대상으로 한 연구는 매일 300밀리그램 이상의 카페인을 섭취한 것과 임신의 지연을 관련지었던 반면에, 2,817명의 여성들을 대상으로 어느 연구는 카페인이 그들이 임신의 가능성에 미치는 영향을 전혀 발견하지 못했다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr075-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "gh2-041",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 41 ]",
+  "menuLabel": "[ 41과 영어 ]",
+  "unit": 41,
+  "part": null,
+  "order": 68,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-041.mp3",
+      "legacySrc": "sounds/gh2-041.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 41 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "The attacks were in support of coca leaf growers who staged demonstrations."
+        },
+        {
+          "n": "2",
+          "text": "How can you expect people who never respected our drug laws to enforce them now?"
+        },
+        {
+          "n": "3",
+          "text": "Who is the boy that swims in the pool?"
+        },
+        {
+          "n": "4",
+          "text": "He is the best friend that I have."
+        },
+        {
+          "n": "5",
+          "text": "He is the only boy that I can trust."
+        },
+        {
+          "n": "6",
+          "text": "Citizens captured a sex offender whose schemes authorities did not take seriously."
+        },
+        {
+          "n": "7",
+          "text": "It is certain that we can not do it."
+        },
+        {
+          "n": "8",
+          "text": "The fact that he stole the money can not be denied."
+        },
+        {
+          "n": "9",
+          "text": "Do you know what your daughter did to him?"
+        },
+        {
+          "n": "10",
+          "text": "This is what she did."
+        },
+        {
+          "n": "11",
+          "text": "I think I know who did it."
+        },
+        {
+          "n": "12",
+          "text": "Whatever he buys is interesting."
+        },
+        {
+          "n": "13",
+          "text": "Whatever book he buys is interesting."
+        },
+        {
+          "n": "14",
+          "text": "You may choose whichever you like."
+        },
+        {
+          "n": "15",
+          "text": "You may choose whichever book you like."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-041.htm",
+  "legacyEncoding": "utf-8"
+}

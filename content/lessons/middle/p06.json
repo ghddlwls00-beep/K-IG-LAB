@@ -1,0 +1,147 @@
+{
+  "id": "p06",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle06]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": null,
+  "order": 66,
+  "audio": [
+    {
+      "src": "/audio/middle/p06.mp3",
+      "legacySrc": "sounds/p06.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle06]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 6: My School Teacher"
+    },
+    {
+      "type": "hints",
+      "text": "Today, I would like to tell you about my school."
+    },
+    {
+      "type": "instruction",
+      "text": "My school is pretty close to my house."
+    },
+    {
+      "type": "instruction",
+      "text": "My elementary school is fairly large. My brother goes to the same school."
+    },
+    {
+      "type": "instruction",
+      "text": "There are many clubs that the students can join."
+    },
+    {
+      "type": "instruction",
+      "text": "I attend the English Club,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my brother is in the Tai-Kweon-Do(태권도) Club."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce my teacher. My teacher’s name is Mr. 홍."
+    },
+    {
+      "type": "instruction",
+      "text": "He is about 30 years old. He loves children and makes learning fun."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, he tells us great stories. He is a good teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher is from Kang-won province."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, He speaks with a funny accent!"
+    },
+    {
+      "type": "instruction",
+      "text": "He is tall. His hair is black."
+    },
+    {
+      "type": "instruction",
+      "text": "He has a habit of touching his nose, biting his nails, scratching his nails,"
+    },
+    {
+      "type": "instruction",
+      "text": "cracking his knuckles, rubbing his eyes, etc.) when he teaches."
+    },
+    {
+      "type": "instruction",
+      "text": "I think he likes the color blue because he always wears a blue tie."
+    },
+    {
+      "type": "instruction",
+      "text": "He is very kind, and I like him a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher is helping me realize my dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher also always tells us to set goals in order to reach our dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "He helps us."
+    },
+    {
+      "type": "instruction",
+      "text": "He tells us that we must read a lot of books."
+    },
+    {
+      "type": "instruction",
+      "text": "He is very kind to each student and points out our good qualities."
+    },
+    {
+      "type": "instruction",
+      "text": "He helps us to develop our talents."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher always says that I should be a teacher"
+    },
+    {
+      "type": "instruction",
+      "text": "because of my good qualities."
+    },
+    {
+      "type": "instruction",
+      "text": "So now I want to become a teacher."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p06.htm",
+  "legacyEncoding": "utf-8"
+}

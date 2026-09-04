@@ -1,0 +1,59 @@
+{
+  "id": "d054",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 054 회 ]",
+  "menuLabel": "[ D 054 ]",
+  "unit": 54,
+  "part": null,
+  "order": 106,
+  "audio": [
+    {
+      "src": "/audio/ld/d054.mp3",
+      "legacySrc": "sounds/d054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 054 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "by accident. Columbus, searching for a shortcut East India. original inhabitants tribute Columbus."
+    },
+    {
+      "type": "instruction",
+      "text": "Alice fell down rabbit hole, reverse fairy tales. Middle Ages turn metals into gold. laid foundations"
+    },
+    {
+      "type": "instruction",
+      "text": "modern chemical science."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d054.htm",
+  "legacyEncoding": "utf-8"
+}

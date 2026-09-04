@@ -1,0 +1,47 @@
+{
+  "id": "pr076",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 076 ]",
+  "menuLabel": "[ pr076 ]",
+  "unit": 76,
+  "part": null,
+  "order": 150,
+  "audio": [
+    {
+      "src": "/audio/reading/pr076.mp3",
+      "legacySrc": "sounds/pr076.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 076 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "People who are happy don't get everything they want, but they want most of what they can get. In other words, they equip the game in their favor by choosing to value things that are within their grasp. People who find themselves dissatisfied in life often set unreachable goals for themselves, setting themselves up to fail. People who set high goals for themselves and try to reach them are no longer happier than people who set and reach more modest goals.Stay within reality and strive to make things better."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr076.htm",
+  "legacyEncoding": "utf-8"
+}

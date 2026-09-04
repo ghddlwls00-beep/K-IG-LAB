@@ -1,0 +1,178 @@
+{
+  "id": "cnn026",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Asia Marks Tsunami Anniversary",
+  "label": "Asia Marks Tsunami Anniversary",
+  "menuLabel": "[ CNN 26 ]",
+  "unit": 26,
+  "part": null,
+  "order": 25,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn026.mp4",
+      "legacySrc": "CNN/CNN1-60/26.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Asia Marks Tsunami Anniversary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nature’s indiscriminate fury (was) remembered on Monday in ceremonies marking the first anniversary of the tsunami disaster. From Thailand to Sri Lanka, Indonesia and India, mourners gathered to remember their friends and loved ones as well as the swift and brutal horror of that day. The catastrophe killed more than 200,000 people, but the actual toll will never be known because many victims were swept out to sea. The waves, which wiped entire villages off the map, hit as far away as East Africa.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "아시아, 쓰나미 참사 1주년 기려",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난 월요일 쓰나미 참사 1주년을 기리는 추모식장에서, (사람들은) 자연의 무자비했던 분노를 다시금 떠올렸습니다. 타이에서 스리랑카, 인도네시아, 인도에 이르기까지 유가족들이 모여, 순식간에 사람들을 끔찍한 공포 속으로 몰아 넣었던 그날을 떠올리며 친구와 가족들을 추모했습니다. (쓰나미) 대참사로 인한 사망자가 20만 명이 넘었지만, 많은 희생자들이 바다로 휩쓸려 들어갔기 때문에 실제 사망자 수를 파악할 길은 전혀 없습니다. 여러 마을을 지도에서 통째로 사라지게 한 이 해일은 멀리 떨어진 동아프리카까지 강타했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "indiscriminate가 원래 3음절에 강세가 있는데, 앵커가 in-을 강하게 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강모음과 약모음 사이에서 [t]가 [ㄹ]로 유음화되고 있다. horror의 o는 [아]와 [오]의 중간 발음으로 발음하는데, 여기서는 [오]에 가깝게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "정관사 the가 거의 들리지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "catastrophe는 [커테스뜨로피]로 발음되어야 하는데 -tro-발음이 탈락되어 [커테스피-]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "toll을 [토울]이 아닌 [톨]로 발음해 tall로 혼동할 수 있지만, 사망자 관련 기사에서 자주 나오는 단어이므로 잘 알아두면 청취에 도움된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hit as 는 약화되어 거의 들리지 않고 far away를 강하게 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. mourn/ 애도하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. death toll/ 사망자수",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. sweep/ …을 휩쓸어가다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. off the map/ 잊혀진, 존재하지 않은",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "indiscriminate fury",
+          "text": "[인디스끄리밋 퓨어리]."
+        },
+        {
+          "n": "brutal horror",
+          "text": "[부루를 호러]."
+        },
+        {
+          "n": "The catastrophe",
+          "text": "[커테스피-]."
+        },
+        {
+          "n": "actual toll",
+          "text": "[엑츄얼톨]."
+        },
+        {
+          "n": "hit as far away",
+          "text": "[히러 파러웨이]."
+        },
+        {
+          "n": "mark",
+          "text": "…을 기념하다"
+        },
+        {
+          "n": "tsunami",
+          "text": "쓰나미, 지진해일: 해저에서의 급격한 지각변동으로 발생하는 파장이 긴 대규모 해일"
+        },
+        {
+          "n": "indiscriminate",
+          "text": "무차별적인, 가리지 않는"
+        },
+        {
+          "n": "fury",
+          "text": "분노, 격노, 격분"
+        },
+        {
+          "n": "remember",
+          "text": "기억하다; (죽은 사람의) 위령제를 지내다"
+        },
+        {
+          "n": "mourner",
+          "text": "애도자, 슬퍼하는 사람"
+        },
+        {
+          "n": "gather",
+          "text": "모이다, 집합하다"
+        },
+        {
+          "n": "loved one",
+          "text": "연인, 가장 사랑하는 사람; 가족, 친척"
+        },
+        {
+          "n": "swift",
+          "text": "재빠른, 신속한"
+        },
+        {
+          "n": "brutal",
+          "text": "무자비한, 혹독한, 잔혹한"
+        },
+        {
+          "n": "catastrophe",
+          "text": "대참사, 큰 재해"
+        },
+        {
+          "n": "toll",
+          "text": "사상자수; 희생"
+        },
+        {
+          "n": "victim",
+          "text": "희생자, 피해자"
+        },
+        {
+          "n": "be swept out to sea",
+          "text": "바다로 휩쓸려가다"
+        },
+        {
+          "n": "wipe A off the map",
+          "text": "A를 전멸시키다, 말살[제거]하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/26.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr062",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 062 ]",
+  "menuLabel": "[ pr062 ]",
+  "unit": 62,
+  "part": null,
+  "order": 122,
+  "audio": [
+    {
+      "src": "/audio/reading/pr062.mp3",
+      "legacySrc": "sounds/pr062.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 062 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "No one has to let errors of the past destroy his present or cloud his future. The glorious fact is that we can always have a new beginning. Naturally, a wise person will try to avoid feelings of guilt by avoiding the acts that cause them. He will look and exercise his moral judgment before he leaps. But if he does something wrong, he must accept his errors frankly, make an effort to obtain forgiveness, and make compensation if that is possible. Then he can go his way with an untroubled mind."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr062.htm",
+  "legacyEncoding": "utf-8"
+}

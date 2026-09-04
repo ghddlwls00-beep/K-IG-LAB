@@ -1,0 +1,88 @@
+{
+  "id": "mv2-40",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-40 ]",
+  "unit": 40,
+  "part": null,
+  "order": 79,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-40.mp3",
+      "legacySrc": "sounds/mv2-40.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "delight",
+          "special",
+          "scene",
+          "operator",
+          "stamp",
+          "nation"
+        ],
+        [
+          "furniture",
+          "type",
+          "passenger",
+          "mayor",
+          "fur",
+          "peak"
+        ],
+        [
+          "describe",
+          "steam",
+          "person",
+          "plan",
+          "unique",
+          "plant"
+        ],
+        [
+          "yell",
+          "degree",
+          "gym",
+          "organization",
+          "stream",
+          "reservation"
+        ],
+        [
+          "trash",
+          "prize",
+          "race",
+          "informal",
+          "seed",
+          "garage"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-40 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-40.htm",
+  "legacyEncoding": "utf-8"
+}

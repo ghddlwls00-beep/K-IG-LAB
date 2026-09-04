@@ -1,0 +1,207 @@
+{
+  "id": "p25",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle25]",
+  "menuLabel": null,
+  "unit": 25,
+  "part": null,
+  "order": 225,
+  "audio": [
+    {
+      "src": "/audio/middle/p25.mp3",
+      "legacySrc": "sounds/p25.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle25]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 25: My country"
+    },
+    {
+      "type": "hints",
+      "text": "Our country’s history began about 5,000 years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "The first country’s ancient name was Gojoson."
+    },
+    {
+      "type": "instruction",
+      "text": "After it fell, the Korean peninsula was divided into three Kingdoms."
+    },
+    {
+      "type": "instruction",
+      "text": "Later these three kingdoms united as a single nation called"
+    },
+    {
+      "type": "instruction",
+      "text": "the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "After Shilla fell, many other countries tried to control Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, Korea was ruled by Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country was liberated from Japan in 1945."
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Civil War in 1950 divided the Korean peninsula into"
+    },
+    {
+      "type": "instruction",
+      "text": "North and South Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "After the war, the country developed very quickly."
+    },
+    {
+      "type": "instruction",
+      "text": "We hosted the Summer Olympic Games in 1988"
+    },
+    {
+      "type": "instruction",
+      "text": "and the World Cup in 2002."
+    },
+    {
+      "type": "instruction",
+      "text": "I am proud of what my country has accomplished during its long history."
+    },
+    {
+      "type": "instruction",
+      "text": "My country has many traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "There are Lunar New Year’s, Independence Day,"
+    },
+    {
+      "type": "instruction",
+      "text": "Buddha’s Birthday, Chu-seok and many more."
+    },
+    {
+      "type": "instruction",
+      "text": "Lunar New Year’s is the first big holiday celebrated of the year."
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps the biggest national holiday of the year is Chu-seok"
+    },
+    {
+      "type": "instruction",
+      "text": "or what is also referred to as Korean Thanksgiving Day."
+    },
+    {
+      "type": "instruction",
+      "text": "Our culture is different from other cultures."
+    },
+    {
+      "type": "instruction",
+      "text": "For example, our clothes, housing, names,"
+    },
+    {
+      "type": "instruction",
+      "text": "and language are not like that of any other country."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to explain about our traditional food."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean meals include boiled rice, soup, fish or meat,"
+    },
+    {
+      "type": "instruction",
+      "text": "several vegetable side dishes, and, one or more kinds of kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "Bulgogi is the most popular Korean meat dish."
+    },
+    {
+      "type": "instruction",
+      "text": "I am used to eating these delicious foods every day."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country has many places to visit such as Gyeong-ju,"
+    },
+    {
+      "type": "instruction",
+      "text": "Bulguk-Temple, Mt. Halla and the Korea Folk Village."
+    },
+    {
+      "type": "instruction",
+      "text": "The most historical attraction in Korea is the city of Gyeong-ju."
+    },
+    {
+      "type": "instruction",
+      "text": "Gyeong-ju was the ancient capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was at its most powerful during the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people refer to Gyeong-ju as a museum without walls"
+    },
+    {
+      "type": "instruction",
+      "text": "because it contains many old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "instruction",
+      "text": "Another popular place to visit is Mt. Halla on the island of Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "It is located near the center of the island, and it is South Korea’s"
+    },
+    {
+      "type": "instruction",
+      "text": "tallest mountain, standing at almost 2,000 meters tall."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to visit these marvelousplaces someday."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p25.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "cnn067",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "South Korean FM’s Bid for UN Top Job",
+  "label": "South Korean FM’s Bid for UN Top Job",
+  "menuLabel": "[ CNN 67 ]",
+  "unit": 67,
+  "part": null,
+  "order": 66,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn067.mp4",
+      "legacySrc": "CNN/CNN61-120/67.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "South Korean FM’s Bid for UN Top Job"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Korea’s Foreign Minister wants to be the next United Nations Secretary General. Ban Kimoon announced on Tuesday he will seek the post currently held by Kofi Annan. The 61-yearold Ban has been Foreign Minister of South Korea since January 2004. He has also served as South Korea’s ambassador to the UN. He joins a short list of contenders who will bid for the position including the Thai Deputy Prime Minister Surakiart Sathirathai and the Sri Lankan diplomat Jayantha Dhanapala. Beijing and Tokyo have both stated that an Asian should get the post this time. Washington holds Mr. Ban in high regard, but is not saying whether it will support his bid.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국의 반기문 장관, 유엔 사무총장 출마",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국의 외교통상부 장관이 차기 유엔 사무총장이 되려고 합니다. 반기문 장관은 화요일 코피 아난 현 사무총장의 후임 자리에 도전하겠다고 발표했습니다. 61세의 반 장관은 지난 2004년 1월부터 한국의 외교통상부 장관직을 맡아 왔습니다. 그는 한국의 유엔대사를 역임하기도 했습니다. 반 장관과 함께 사무총장에 도전하는 후보들은 몇 안 되는데요, 타이 부총리 수라키앗 사티라타이와 스리랑카 외교관 자얀타 다나팔라도 여기에 포함됩니다. 중국과 일본 양국은 차기 사무총장은 이번에는 아시아 출신이 되어야 한다고 말했습니다. 미국 정부는 반 장관을 높이 평가하고 있지만 그의 출마를 지지할 지는 밝히지않고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어 모두 1음절에 강세가 있어 나머지 발음이 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "특히 -tary 부분이 축약 발음되어 [쎄크리터리]와는 사뭇 다르다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st c-로 자음이 세 번 겹쳐 나와 가운데 자음 [t]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "held는 끝자음 [d]가 탈락되어 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-th는 우리말로 [ㅆ]나 [ㄸ]로 표기하는데, both가 마치 boss처럼 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. regard/ 존경, 경의",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Secretary General",
+          "text": "[쎄크리 제늘]."
+        },
+        {
+          "n": "post currently held",
+          "text": "[퍼ㅆ 카런(을)리 헬]."
+        },
+        {
+          "n": "both stated",
+          "text": "[보스떼이틷]."
+        },
+        {
+          "n": "FM",
+          "text": "외무장관, 외상(Foreign Minister)"
+        },
+        {
+          "n": "bid for",
+          "text": "(명성, 지위를 얻으려) 노력(하다), 도전(하다)"
+        },
+        {
+          "n": "UN top job",
+          "text": "유엔최고위직: 여기서는 secretary general(사무총장)을 뜻함"
+        },
+        {
+          "n": "post",
+          "text": "(책임 있는) 지위, 관직"
+        },
+        {
+          "n": "currently",
+          "text": "현재는, 지금은"
+        },
+        {
+          "n": "Kofi Annan",
+          "text": "코피 아난: 가나 출신의 현 유엔 사무총장으로 2001년 노벨 평화상을 수상했다."
+        },
+        {
+          "n": "serve",
+          "text": "복무하다, (임기, 임무를) 채우다"
+        },
+        {
+          "n": "ambassador to the UN",
+          "text": "유엔대사"
+        },
+        {
+          "n": "contender",
+          "text": "경쟁자, 경쟁상대"
+        },
+        {
+          "n": "diplomat",
+          "text": "외교관"
+        },
+        {
+          "n": "state",
+          "text": "말하다, 보도하다, 알리다"
+        },
+        {
+          "n": "hold A in high regard",
+          "text": "A를 존경하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/67.wmv",
+  "legacyEncoding": "binary"
+}

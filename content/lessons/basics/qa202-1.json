@@ -1,0 +1,64 @@
+{
+  "id": "qa202-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa202",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 202-1 〕",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 456,
+  "audio": [
+    {
+      "src": "/audio/basics/qa202.mp3",
+      "legacySrc": "sounds/qa202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 202-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국민속촌) → 제가 한국민속촌에서 무엇을 볼 수 있습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "251",
+          "text": "한국 민속촌은 / 서울에서 멀지 않은 / 경기도에 / 있어."
+        },
+        {
+          "n": "252",
+          "text": "네가 그 곳을 방문하면, / 넌 / 옛날 한국의 / 삶이 어떠했는지 / 알게 될 거야."
+        },
+        {
+          "n": "253",
+          "text": "매년 / 많은 외국인들이 / 그곳을 / 방문해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa202-1.htm",
+  "legacyEncoding": "utf-8"
+}

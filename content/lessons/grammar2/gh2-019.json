@@ -1,0 +1,152 @@
+{
+  "id": "gh2-019",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 19 ]",
+  "menuLabel": "[ 19과 영어 ]",
+  "unit": 19,
+  "part": null,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-019.mp3",
+      "legacySrc": "sounds/gh2-019.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 19 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "You look very healthy."
+        },
+        {
+          "n": "2",
+          "text": "You look young for your age."
+        },
+        {
+          "n": "3",
+          "text": "She looks her age."
+        },
+        {
+          "n": "4",
+          "text": "She looked at me and smiled."
+        },
+        {
+          "n": "5",
+          "text": "That book looks interesting."
+        },
+        {
+          "n": "6",
+          "text": "He looked proud."
+        },
+        {
+          "n": "7",
+          "text": "He looked proudly around."
+        },
+        {
+          "n": "8",
+          "text": "He got the prize."
+        },
+        {
+          "n": "9",
+          "text": "I got home late last night."
+        },
+        {
+          "n": "10",
+          "text": "My coat got wet."
+        },
+        {
+          "n": "11",
+          "text": "He got me a book."
+        },
+        {
+          "n": "12",
+          "text": "He kept his promise."
+        },
+        {
+          "n": "13",
+          "text": "Please keep (be) quiet."
+        },
+        {
+          "n": "14",
+          "text": "Keep the change."
+        },
+        {
+          "n": "15",
+          "text": "Please keep your fingers crossed."
+        },
+        {
+          "n": "16",
+          "text": "He keeps his body clean."
+        },
+        {
+          "n": "17",
+          "text": "How do you keep in shape?"
+        },
+        {
+          "n": "18",
+          "text": "What kept you so long?"
+        },
+        {
+          "n": "19",
+          "text": "You should not keep dogs in the apartment."
+        },
+        {
+          "n": "20",
+          "text": "The hands of a clock turn very slowly."
+        },
+        {
+          "n": "21",
+          "text": "He turned the key in the lock."
+        },
+        {
+          "n": "22",
+          "text": "May I turn off the light?"
+        },
+        {
+          "n": "23",
+          "text": "Will you turn on the light, please?"
+        },
+        {
+          "n": "24",
+          "text": "Turn up the volume."
+        },
+        {
+          "n": "25",
+          "text": "Will you please turn down the volume?"
+        },
+        {
+          "n": "26",
+          "text": "The rumour turned out false."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-019.htm",
+  "legacyEncoding": "utf-8"
+}

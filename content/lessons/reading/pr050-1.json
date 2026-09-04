@@ -1,0 +1,47 @@
+{
+  "id": "pr050-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr050",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 050-1 ]",
+  "menuLabel": "[ pr050-1 ]",
+  "unit": 50,
+  "part": null,
+  "order": 99,
+  "audio": [
+    {
+      "src": "/audio/reading/pr050.mp3",
+      "legacySrc": "sounds/pr050.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 050-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "언어가 결핍된 사회는 가장 단순한 협업이외의 어떤 일에 종사하는 것이 불가능할 것이다. 개인이나 개인의 집단은 그런 활동을 계획하거나 다른 이에게 그런 활동을 설명하거나 또는 공통의 목표를 향해 협업에 참가자들의 행위를 지도하는 어떤 방법을 가지지 않을 것이다. 왜냐하면 각 개인은 다른 사람의 도움을 확보하는 방법이 없을 것이기 때문에 상당한 정도까지 자신의 힘과 능력에 의존적일 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr050-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "p252",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 252]",
+  "menuLabel": null,
+  "unit": 25,
+  "part": 2,
+  "order": 227,
+  "audio": [
+    {
+      "src": "/audio/middle/p252.mp3",
+      "legacySrc": "sounds/p252.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 252]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Holidays)"
+    },
+    {
+      "type": "hints",
+      "text": "My country has many traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "There are Lunar New Year’s, Independence Day,"
+    },
+    {
+      "type": "instruction",
+      "text": "Buddha’s Birthday, Chu-seok and many more."
+    },
+    {
+      "type": "instruction",
+      "text": "Lunar New Year’s is the first big holiday celebrated of the year."
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps the biggest national holiday of the year is Chu-seok"
+    },
+    {
+      "type": "instruction",
+      "text": "or what is also referred to as Korean Thanksgiving Day."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p252.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "d240-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d240",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 240 회 ]",
+  "menuLabel": "[ D 240-1 ]",
+  "unit": 240,
+  "part": null,
+  "order": 478,
+  "audio": [
+    {
+      "src": "/audio/ld/d240.mp3",
+      "legacySrc": "sounds/d240.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 240 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 여성들은 비록 결혼했지만 과부처럼 느낀다고 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 남편들이 너무나 많은 시간을 골프장에서 보내서"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 아내들이 단지 이따금씩만 보는 것같다."
+    },
+    {
+      "type": "instruction",
+      "text": "당연히 그런 사람들은 골프를 너무 극단적으로 사랑한다."
+    },
+    {
+      "type": "instruction",
+      "text": "스포츠와 취미는 우리의 일상생활에서 중요한 역할을 해야하지만"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 우리의 책임을 등한시하지 않도록 조심해야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "남자의 첫 의무는 그의 가정과 가족에 대해서이다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 의무를 다 한 후에 여가 시간을 좋아하는 스포츠를 추구하는데 쓸 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d240-1.htm",
+  "legacyEncoding": "utf-8"
+}

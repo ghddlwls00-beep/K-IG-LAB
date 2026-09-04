@@ -1,0 +1,95 @@
+{
+  "id": "d021-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d021",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 021 회 ]",
+  "menuLabel": "[ D 021-1 ]",
+  "unit": 21,
+  "part": null,
+  "order": 41,
+  "audio": [
+    {
+      "src": "/audio/ld/d021.mp3",
+      "legacySrc": "sounds/d021.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 021 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "쥬디는 직장에서의 첫날이 즐거울 것이라고 생각했으나 모든 것이 잘못되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫째로 그녀는 늦잠잤다. 그녀는 그것에 대하여 너무나 흥분한 나머지 엉뚱한 버스를 탔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그 청량 음료 공장에 8시 30분 대신에 9시에 도착했다."
+    },
+    {
+      "type": "instruction",
+      "text": "키가 크고 뚱뚱한 남자인 그녀의 새 사장은 매우 화나 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그녀에게 무엇을 할지를 급하게 가르쳤다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 할 모든 것은 한 기계가 병에 콜라를 채우는 것을 보는 것뿐이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그녀는 단추를 누르고 병들을 보내서 뚜껑이 씌어지게 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "점심 시간에 그녀의 사장은 자신에게 샌드위치를 사도록 그녀를 내보냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 자신에게 약간의 과일을 샀지만 그것을 떨어뜨려 밟았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그날 오후의 끝이 되었을 때까지는 그녀는 매우 시장하고 지루하고 피로하다고 느꼈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 평생에 절대로 또 다른 한 병의 콜라도 보기를 원하지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "다음 날 아침 그녀는 정시에 출근해서 그만 두었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d021-1.htm",
+  "legacyEncoding": "utf-8"
+}

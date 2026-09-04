@@ -1,0 +1,47 @@
+{
+  "id": "pr187-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr187",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 187-1 ]",
+  "menuLabel": "[ pr187-1 ]",
+  "unit": 187,
+  "part": null,
+  "order": 373,
+  "audio": [
+    {
+      "src": "/audio/reading/pr187.mp3",
+      "legacySrc": "sounds/pr187.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 187-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "매일 우리들 각자는 많은 형태의 복잡한 활동에 참가한다. 우리는 학교에도 가고, 운동에도 참가하고, 자동차도 몰고, 종종 갈등에 연루되기도 한다. (B)우리는 또한 먹거나 잠을 자는 것과 같은 덜 복잡한 활동도 수행한다. 우리의 신경계가 우리가 수행할 수 있는 활동들의 복잡성을 결정한다. 벌레와 유사한 신경계를 가진 동물들은 축구를 할 수 없고 하물며 체스는 더더욱 할 수 없다. (A)왜 먹거나 번식하는 것과 같은 일부 활동들은 모든 유기체에 공통이지만, 둥지를 짓는 것과 같은 다른 활동들은 특정한 종들에만 제한될까? 왜 일부 동물들은 무리를 지어서 살고 다른 동물들은 혼자 살까? (C)이러한 질문들이 행동 연구의 초점이다. 가장 간단한 형태로 보면, 행동은 한 유기체의 행위, 즉 그것이 활동하는 방식이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr187-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "qa021-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa021",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 021-1 〕",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 1,
+  "order": 36,
+  "audio": [
+    {
+      "src": "/audio/basics/qa021.mp3",
+      "legacySrc": "sounds/qa021.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 021-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "( 가족 구성원들 ) → 당신의 가족은 몇 명입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "12",
+          "text": "나의 가족에는 / 4명이 / 있어 : / 나의 아버지, 나의 어머니, 나의 누나"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa021-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "d100-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d100",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 100회 ]",
+  "menuLabel": "[ D 100-1 ]",
+  "unit": 100,
+  "part": null,
+  "order": 199,
+  "audio": [
+    {
+      "src": "/audio/ld/d100.mp3",
+      "legacySrc": "sounds/d100.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 100회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "어업은 세계의 가장 오래된 산업의 하나이다. 사람들은 4천년 이상 동안 고기를 잡아오고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 세계에서 어업으로 생계를 유지하는 사람은 5백만명 이상이다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에는 약 14만명의 상업적인 어부들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 고기를 포장하고 판매하는 사람들을 위한 수천개의 다른 고용을 창출한다."
+    },
+    {
+      "type": "instruction",
+      "text": "어업은 매년 660억 킬로그램 이상 고기를 잡는다. 이것은 세계의 각 사람에게 약 17킬로그램이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d100-1.htm",
+  "legacyEncoding": "utf-8"
+}

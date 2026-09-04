@@ -1,0 +1,83 @@
+{
+  "id": "d152-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d152",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 152 회 ]",
+  "menuLabel": "[ D 152-1 ]",
+  "unit": 152,
+  "part": null,
+  "order": 303,
+  "audio": [
+    {
+      "src": "/audio/ld/d152.mp3",
+      "legacySrc": "sounds/d152.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 152 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "이십세기의 삶은 준비를 요한다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘 날 한 나라 안의 모든 개인들은 국민으로써 그들의 의무뿐만 아니라"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 일을 위하여 그들을 준비시키는 적절한 교육을 받아야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것을 염두에 두고 모든 곳의 국가 지도자들은 젊은이들의 교육들 더 많이 강조하고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서는 정부 관리들, 부모들, 및 교사들이 내일의 결정권자들인 어린이들에게"
+    },
+    {
+      "type": "instruction",
+      "text": "이용 가능한 최고의 준비를 주기 위하여 열심히 노력하고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서는 전국적인 학교 정책은 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "50개 주가 각각 그것의 학교를 위한 그 자체의 규칙과 규정들을 갖고 있지만"
+    },
+    {
+      "type": "instruction",
+      "text": "그 50개 학교 시스템 사이에는 많은 유사성이 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d152-1.htm",
+  "legacyEncoding": "utf-8"
+}

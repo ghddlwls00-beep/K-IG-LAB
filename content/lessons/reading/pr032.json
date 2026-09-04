@@ -1,0 +1,47 @@
+{
+  "id": "pr032",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 032 ]",
+  "menuLabel": "[ pr032 ]",
+  "unit": 32,
+  "part": null,
+  "order": 62,
+  "audio": [
+    {
+      "src": "/audio/reading/pr032.mp3",
+      "legacySrc": "sounds/pr032.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 032 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The old saying \" When in Rome, do as the Romans do\" is never more true than when at the dinner table. In some parts of Korea, it is a sign of appreciation to drink one's tea or soup with much gusto and smacking of lips. But in most Western countries no noise should be made while eating. Eating utensils, too, differ from country to country."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr032.htm",
+  "legacyEncoding": "utf-8"
+}

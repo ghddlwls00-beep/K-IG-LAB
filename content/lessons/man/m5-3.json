@@ -1,0 +1,123 @@
+{
+  "id": "m5-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m5-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 3,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/man/m5-3-1.mp3",
+      "legacySrc": "m5-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-2.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-3.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-4.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-5.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "점심식사 후에, 나는 졸리고 낮잠을 자고 싶지만 그럴 수 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After lunch, I’m sleepy and feel like having a nap, but I can’t.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 오후에 바쁘고 때때로 사무실 밖에서 약속이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am busy in the afternoons and sometimes have appointments outside of the office.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "하루의 끝에, 나는 하루 동안 했던 일을 나의 상사에게 보고해야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of the day, I need to report what I had done that day to my boss.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 전형적으로 저녁 여섯시에 일이 끝나지만 때때로 일을 더 하고 나는 잔업을 하기 위해 머무릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We typically finish work at 6:00 p.m., but sometimes there is more work, and I stay to work overtime.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After lunch, I’m sleepy and feel like having a nap, 5 but I can’t.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 A Typical Day :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Afternoon at the Office",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m5-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m5-3.swf"
+  ]
+}

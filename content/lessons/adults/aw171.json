@@ -1,0 +1,75 @@
+{
+  "id": "aw171",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 171 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 1,
+  "order": 167,
+  "audio": [
+    {
+      "src": "/audio/adults/aw171.mp3",
+      "legacySrc": "sounds/aw171.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 171 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Foundation of Korea"
+    },
+    {
+      "type": "hints",
+      "text": "This is the story about how the nation of Korea was founded."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s history started about 5,000 years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "Once upon a time, the King of Heaven, Hwan-in, sent his son, Hwan-ung, to Earth."
+    },
+    {
+      "type": "instruction",
+      "text": "While living on Earth, he married Ung-nyo who had changed from a bear into a woman."
+    },
+    {
+      "type": "instruction",
+      "text": "She gave birth to a son and named him Dan-goon."
+    },
+    {
+      "type": "instruction",
+      "text": "He became the founder of Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "The country’s ancient name was Gojoson."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw171.htm",
+  "legacyEncoding": "utf-8"
+}

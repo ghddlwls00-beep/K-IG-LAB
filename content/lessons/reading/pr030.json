@@ -1,0 +1,47 @@
+{
+  "id": "pr030",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 030 ]",
+  "menuLabel": "[ pr030 ]",
+  "unit": 30,
+  "part": null,
+  "order": 58,
+  "audio": [
+    {
+      "src": "/audio/reading/pr030.mp3",
+      "legacySrc": "sounds/pr030.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 030 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Once a week, write a heartfelt letter. Taking a few minutes each week to do so does many things for you. Picking up a pen slows you down long enough to remember the beautiful people in your life. The act of sitting down to write helps to fill your life with appreciation. Once you decide to try this, you’ll probably be amazed at how many people appear on your list. The purpose of your letter is very simple: to express love and gratitude. Don’t worry if you’re not good at writing letters. If you can’t think of much to say, start with short little notes like, “Dear Jasmine, How lucky I am to have friends like you in my life! I am truly blessed, and I wish you all the happiness and joy that life can bring. Love, Richard.” Not only does the act of writing a note like this focus your attention on what’s right in your life, but the person receiving it will be touched and grateful. Often this simple action starts a chain of loving actions whereby the person receiving your letter may decide to do the same thing to someone else, or perhaps will act and feel more loving toward others."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr030.htm",
+  "legacyEncoding": "utf-8"
+}

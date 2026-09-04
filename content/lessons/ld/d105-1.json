@@ -1,0 +1,87 @@
+{
+  "id": "d105-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d105",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 105 회 ]",
+  "menuLabel": "[ D 105-1 ]",
+  "unit": 105,
+  "part": null,
+  "order": 209,
+  "audio": [
+    {
+      "src": "/audio/ld/d105.mp3",
+      "legacySrc": "sounds/d105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 105 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "격언은 사람들이 어떤 상황에 대해서 언급하거나 진리를"
+    },
+    {
+      "type": "instruction",
+      "text": "표현하기 위하여 사용하는 낯익은 문장들이다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 격언은 어떤 사실이나 진실을 직접적으로 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "“정직이 최상의 정책이다.” 그러나 대부분의 격언은 일반적인 진리를"
+    },
+    {
+      "type": "instruction",
+      "text": "암시하기 위하여 하나의 구체적안 상황을 사용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "“너무나 많은 요리사는 국을 망친다.”가 한 예이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 만일 너무 많은 사람들이 동시에 똑같은 사업에 대하여 작업한다면"
+    },
+    {
+      "type": "instruction",
+      "text": "그 결과는 좋지 않을 것이라는 것을 시사한다."
+    },
+    {
+      "type": "instruction",
+      "text": "요리사와 국이라는 단어는 사람들과 사업에 대한 비유이다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 비유는 다른 어떤 것에 대한 비교를 제시함으로써 어떤 것을 묘사한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d105-1.htm",
+  "legacyEncoding": "utf-8"
+}

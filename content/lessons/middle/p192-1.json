@@ -1,0 +1,63 @@
+{
+  "id": "p192-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p192",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 192-1 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 2,
+  "order": 189,
+  "audio": [
+    {
+      "src": "/audio/middle/p192.mp3",
+      "legacySrc": "sounds/p192.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 192-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(의복)"
+    },
+    {
+      "type": "instruction",
+      "text": "첫째로, 저는 우리의 전통 한국의복에 대해서 설명하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "보통의 경우, 한국인들은 서양스타일의 옷을 입습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 전통휴일들에는, 가족들은 한복이라 불리는"
+    },
+    {
+      "type": "instruction",
+      "text": "전통의상을 입음으로써 이 날들을 기념합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p192-1.htm",
+  "legacyEncoding": "utf-8"
+}

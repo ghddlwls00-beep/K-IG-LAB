@@ -1,0 +1,47 @@
+{
+  "id": "pr049",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 049 ]",
+  "menuLabel": "[ pr049 ]",
+  "unit": 49,
+  "part": null,
+  "order": 96,
+  "audio": [
+    {
+      "src": "/audio/reading/pr049.mp3",
+      "legacySrc": "sounds/pr049.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 049 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Those who cannot make a success in their business or profession are the ones whose concentration is poor. Many of those who have succeeded in life owe this to the fact that their concentration is good. If one is an artist, with the help of concentration one can produce wonderful works. If one is a scientist, one can achieve great results in science. If one is a poet, poetry will be easy to write. However qualified a person may be, he will not be able to make the best use of his qualifications without concentration. He can hardly be called qualified at all."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr049.htm",
+  "legacyEncoding": "utf-8"
+}

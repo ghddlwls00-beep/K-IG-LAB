@@ -1,0 +1,47 @@
+{
+  "id": "pr147-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr147",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 147-1 ]",
+  "menuLabel": "[ pr147-1 ]",
+  "unit": 147,
+  "part": null,
+  "order": 293,
+  "audio": [
+    {
+      "src": "/audio/reading/pr147.mp3",
+      "legacySrc": "sounds/pr147.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 147-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 나라에서, 인구과밀 도시들은 주요 문제에 직면해 있다. 이는 주로 외곽 지역으로부터의 대규모의 인구유입에 기인하며, 이런 사람들은 전통적인 농업 생활에 만족하지 못해서, 더 나은 직업과 보수를 바라며 대도시로 몰려들었다. 그러나, 불행히도 주택 문제, 위생 악화, 실업 등의 도시 지역의 악조건이 빈곤, 질병, 범죄의 증가를 가져왔다. 유일한 장기적인 해결책은 농촌 지역의 생활을 더 매력적으로 만드는 것인데, 왜냐하면 그것이 사람들이 거기에 머물도록 장려할 것이기 때문이다. 이는 사람들이 농촌으로 가서 일하도록 유인책 제공함으로써 달성될 수 있다. 교통, 의료, 교육 서비스와 같은 농촌의 편의 시설이, 농촌 생활에 더 긍정적인 태도를 촉진하도록 향상되어야 한다. 농촌 지역의 선행적 발전 없이는 도시 자체는 발전할 수 없기에, 농촌 지역의 개선은 두 배는 더 중요하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr147-1.htm",
+  "legacyEncoding": "utf-8"
+}

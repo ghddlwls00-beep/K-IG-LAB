@@ -1,0 +1,59 @@
+{
+  "id": "am152",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 152 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 2,
+  "order": 146,
+  "audio": [
+    {
+      "src": "/audio/adults/am152.mp3",
+      "legacySrc": "sounds/am152.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 152 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy: The Seventies and the Eighties"
+    },
+    {
+      "type": "hints",
+      "text": "After the 1970s, our country’s economy started to develop."
+    },
+    {
+      "type": "instruction",
+      "text": "During the 1980’s the Olympic games and other cultural events were held in Korea, and the country became known more around the world."
+    },
+    {
+      "type": "instruction",
+      "text": "Our economy started to and continued to develop very quickly during these two decades."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am152.htm",
+  "legacyEncoding": "utf-8"
+}

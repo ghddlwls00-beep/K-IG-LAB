@@ -1,0 +1,68 @@
+{
+  "id": "qa141-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa141",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 141-1 〕",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 1,
+  "order": 344,
+  "audio": [
+    {
+      "src": "/audio/basics/qa141.mp3",
+      "legacySrc": "sounds/qa141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 141-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 미래의 꿈) → 당신이 어른이 되면 어떤 사람이 되기를 원합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "172",
+          "text": "세상에는 / 많은 직업이 / 있어."
+        },
+        {
+          "n": "173",
+          "text": "단지 하나를 / 선택하기란 / 매우 어려워."
+        },
+        {
+          "n": "174",
+          "text": "난 / 무엇이 될까에 대해 / 나의 마음을 / 여러 번 / 바꿨어."
+        },
+        {
+          "n": "175",
+          "text": "지금 / 내 꿈은 / 선생님이 되는 것 / 이야."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa141-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "po116-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po116",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 116-1 〕",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 6,
+  "order": 284,
+  "audio": [
+    {
+      "src": "/audio/basics/po116.mp3",
+      "legacySrc": "sounds/po116.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 116-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "140",
+          "text": "난 / 때로 / 조부모님이나 친척들을 / 방문해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po116-1.htm",
+  "legacyEncoding": "utf-8"
+}

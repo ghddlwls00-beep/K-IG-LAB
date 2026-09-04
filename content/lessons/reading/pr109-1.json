@@ -1,0 +1,47 @@
+{
+  "id": "pr109-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr109",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 109-1 ]",
+  "menuLabel": "[ pr109-1 ]",
+  "unit": 109,
+  "part": null,
+  "order": 217,
+  "audio": [
+    {
+      "src": "/audio/reading/pr109.mp3",
+      "legacySrc": "sounds/pr109.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 109-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 모든 프러스 요인에 비해 마이너스 요인도 있다. 한가지 예로 직업을 가질 수도 있지만, 도시 생활은 흔히 돈이 많이 들기에, 급료가 높은 직업이 아니면 많은 것을 향유할 여유가 없을 것이다. 더구나 대중 교통은 대게는 혼잡하고 지저분한데, 특히 출퇴근 시간에 그러하다. 마지막으로, 많은 군중에도 불구하고 도시에서는 심한 고독감을 느낄 수도 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr109-1.htm",
+  "legacyEncoding": "utf-8"
+}

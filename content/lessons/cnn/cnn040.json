@@ -1,0 +1,96 @@
+{
+  "id": "cnn040",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Christmas Thief Steals ‘Nun* Bun*’",
+  "label": "Christmas Thief Steals ‘Nun* Bun*’",
+  "menuLabel": "[ CNN 40 ]",
+  "unit": 40,
+  "part": null,
+  "order": 39,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn040.mp4",
+      "legacySrc": "CNN/CNN1-60/40.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Christmas Thief Steals ‘Nun* Bun*’"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nine years after a hot cinnamon roll came out of the oven with an uncanny resemblance to Mother Theresa, the so-called ‘Nun Bun’ of Nashville, Tennessee has gone missing. Stolen, the police say, by an evil Grinch early on Christmas morning. The pastry bandit prised the door off the Bongo Java Caf? and got away with the dough. Before it was stolen, anyone who came into the shop could see the bun. It sat on a shelf below the cash register.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스마스날 도둑맞은 ‘수녀 빵’",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "9년 전에 오븐에서 구워져 나온 따끈한 계피빵이 (그것도) 신기하게도 테레사 수녀님을 닮은 테니시 네시빌의 소위 ‘수녀 빵’이 사라졌습니다. 도둑맞은 것이라고 경찰은 말합니다. 크리스마스 날 아침 일찍 악마 그린치가 한 짓이라는군요. 빵 강도는 봉고 자바 카페의 문을 힘겹게 열고 그 빵덩어리를 가지고 도망쳤습니다. 빵을 도둑맞기 전에는 이 가게에 들어오는 사람이라면 누구나 그 빵을 볼 수 있었습니다. 빵은 현금 계산대 아래에 있는 선반에 놓여있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* nun",
+          "text": "수녀"
+        },
+        {
+          "n": "* bun",
+          "text": "(둥근) 롤빵"
+        },
+        {
+          "n": "cinnamon",
+          "text": "계피, 시나몬"
+        },
+        {
+          "n": "uncanny",
+          "text": "불가사의한"
+        },
+        {
+          "n": "resemblance",
+          "text": "유사물; 닮은 얼굴"
+        },
+        {
+          "n": "Mother Theresa",
+          "text": "테레사 수녀 (1910~ 1997): 유고슬라비아 출신의 수녀로 평생 봉사와 희생의 삶을 살아와‘빈자의 성녀’로 추앙받았다."
+        },
+        {
+          "n": "evil Grinch",
+          "text": "괴물 그린치: 어린이 동화 <그린치>에 등장하는 크리스마스가 오는 것을 막으려고 선물과 장식을 마구 훔치는 괴물"
+        },
+        {
+          "n": "pastry",
+          "text": "(가루 반죽으로 만든) 과자"
+        },
+        {
+          "n": "bandit",
+          "text": "산적, 강도, 노상 강도"
+        },
+        {
+          "n": "pris[z]e",
+          "text": "(힘겹게) 열다, 뜯어내다"
+        },
+        {
+          "n": "dough",
+          "text": "가루 반죽; 굽기 전의 빵 반죽"
+        },
+        {
+          "n": "cash register",
+          "text": "금전 등록기"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/40.wmv",
+  "legacyEncoding": "binary"
+}

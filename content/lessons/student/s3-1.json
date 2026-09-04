@@ -1,0 +1,168 @@
+{
+  "id": "s3-1",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s3-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 1,
+  "order": 15,
+  "audio": [
+    {
+      "src": "/audio/student/s3-1-1.mp3",
+      "legacySrc": "s3-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-2.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-3.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-4.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-5.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-6.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-7.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-1-8.mp3",
+      "legacySrc": "s3-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He/She is one of my best friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to introduce my friend to you. Allow me to introduce my friend to you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 소개하고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 소개하고 싶습니다.I would like to introduce",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 친구를 당신에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 친구를 당신에게 my friend to you.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구를 당신에게 소개하고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I would like to introduce my friend to you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 나의 가장 좋은 친구 중 한명 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "소개하도록 해 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "소개하도록 해 주세요.Allow me to introduce",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구를 당신에게 소개하도록 해 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구를 당신에게 소개하도록 해 주세요.Allow me to introduce my friend to you.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Friend Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s3-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s3-1.swf"
+  ]
+}

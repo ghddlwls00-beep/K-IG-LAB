@@ -1,0 +1,75 @@
+{
+  "id": "d186-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d186",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 186 회 ]",
+  "menuLabel": "[ D 186-1 ]",
+  "unit": 186,
+  "part": null,
+  "order": 370,
+  "audio": [
+    {
+      "src": "/audio/ld/d186.mp3",
+      "legacySrc": "sounds/d186.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 186 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "약 1년 전에 나는 한 디트로이트 호텔에 방을 잡았다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 방금 전에 수표를 현찰로 바꾸었고 너무 많은 돈을 갖고 다니기를 원하지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 데스크 직원에게 하룻밤 동안 나를 위해서 1백불 지폐 한 장을 금고에 보관해달라고 부탁했다."
+    },
+    {
+      "type": "instruction",
+      "text": "다음 날 아침 그 직원은 나의 돈에 대한 어떤 지식도 부인했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 영수증도 내가 그에게 내 돈을 주었다는 어떤 다른 증거도 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 그의 말과 나의 말의 대결이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 가장 가까운 변호사에게 가는 것 말고는 할 수 있는 것이 아무 것도 없었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d186-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,478 @@
+{
+  "id": "s16-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s16-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 3,
+  "order": 70,
+  "audio": [
+    {
+      "src": "/audio/student/s16-3-1.mp3",
+      "legacySrc": "s16-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-2.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-3.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-4.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-5.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-6.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-7.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-8.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-9.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-10.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-11.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-12.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-13.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-14.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-15.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-16.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-17.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-18.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-19.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-20.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-21.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-22.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-23.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-24.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-25.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-26.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-27.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-3-28.mp3",
+      "legacySrc": "s16-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I will do this by going to an English Academy every day.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I grow up, I plan on going abroad to study English in another country so that I can listen and speak like a native speaker of English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "If I really want to become a great interpreter, I need to work hard at improving English from now on.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, I will study English everyday, by practicing listening and speaking.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to fulfill my dreams, I have to do many things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이것을 할 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 이것을 할 것입니다.I will do this",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어 학원을 감으로써",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어 학원을 감으로써by going to an English Academy",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매일 every day.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 꿈들을 이루기 위해, 나는 많은 것들을 해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무엇보다도, 나는 매일 듣기와 말하기 연습을 통해 영어공부를 할 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매일 영어학원을 감으로써 이것을 할 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 성인이 되면, 나는 영어공부를 하기 위해 해외로 나갈 계획을 하고 있고 그렇게 함으로써 나는 현지 영어를 쓰는 사람처럼 말할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I grow up, I plan on going abroad to study English in another countryso that I can listen and speak like a native speaker of English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "만약 내가 정말로 훌륭한 통역사가 되고 싶다면, 나는 지금부터 영어실력을 향상시키기 위해 열심히 해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 꿈을 이루기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 꿈을 이루기 위해서In order to fulfill my dreams,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 해야만 합니다. I have to do",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 것들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 것들을 many things.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무엇보다도",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무엇보다도First of all,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 영어로 공부할 것입니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 영어로 공부할 것입니다 I will study English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매일everyday,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/듣기와 말하기를 연습함으로써",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/듣기와 말하기를 연습함으로써by practicing listening and speaking.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 성인이 되면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 성인이 되면When I grow up,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 계획합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 계획합니다. I plan on",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/해외로 나갈",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/해외로 나갈 going abroad",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어로 공부하기 위해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어로 공부하기 위해 to study English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/다른 나라로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/다른 나라로 in another country",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 듣고 말할 수 있기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내가 듣고 말할 수 있기 위해서so that I can listen and speak",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어권 사람처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어권 사람처럼like a native speaker of English.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 정말로 되기를 원한다면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 정말로 되기를 원한다면If I really want to become",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/위대한 통역가가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/위대한 통역가가 a great interpreter,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 열심히 공부할 필요가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 열심히 공부할 필요가 있습니다. I need to work hard",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어를 향상시키기 위해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어를 향상시키기 위해 at improving English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/지금부터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/지금부터 from now on.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Other Dream Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Will Fulfill My Dream",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s16-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s16-3.swf"
+  ]
+}

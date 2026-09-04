@@ -1,0 +1,83 @@
+{
+  "id": "d241-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d241",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 241 회 ]",
+  "menuLabel": "[ D 241-1 ]",
+  "unit": 241,
+  "part": null,
+  "order": 480,
+  "audio": [
+    {
+      "src": "/audio/ld/d241.mp3",
+      "legacySrc": "sounds/d241.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 241 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 사람들이 타고난 에술가인 것과 똑같이 일부 사람들은 타고난 스포츠맨이다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 미국 종합 대학교의 한 대학교수는 일단 그가 마음을 두기만 하면"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 것이든 매스터할 수 있다고 한번 뽐냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "불행히도 그 교수는 운동에 대해서는 거의 아무런 능력이 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 뽐냄을 듣게 된 그의 친구 중 한 사람이 그 교수가 핸드볼에서"
+    },
+    {
+      "type": "instruction",
+      "text": "자신을 무찌르기에 충분한 기술을 결코 쌓을 수 없을 것이라고 내기를 걸었다."
+    },
+    {
+      "type": "instruction",
+      "text": "당연히 그 교수는 그 내기를 받아들여야 했다. 몇주 동안 그는 밤늦게까지 연습했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 시합 날이 왔을 때 그 교수는 무참히 패배했다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 우호적인 시합은 매년 열리지만 오늘날까지 교수는 이기는데 있어서 결코 성공한 적이 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d241-1.htm",
+  "legacyEncoding": "utf-8"
+}

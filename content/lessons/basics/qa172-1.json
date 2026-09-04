@@ -1,0 +1,73 @@
+{
+  "id": "qa172-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa172",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 172-1 〕",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 2,
+  "order": 402,
+  "audio": [
+    {
+      "src": "/audio/basics/qa172.mp3",
+      "legacySrc": "sounds/qa172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 172-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(신라 왕국) → 신라왕국에 대하여 당신은 무엇을 알고 있습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "218",
+          "text": "고조선이 멸망한 후에 / 한반도는 / 세 왕국인; / 고구려, 백제, 그리고 신라"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 로 분리되었어."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "219",
+          "text": "나중에 / 이 세 왕국은 / 신라라고 불려지는 / 단일국가로 / 합쳐졌어."
+        },
+        {
+          "n": "220",
+          "text": "그건 / 한국 역사의 / 황금기 / 라고 불렸어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa172-1.htm",
+  "legacyEncoding": "utf-8"
+}

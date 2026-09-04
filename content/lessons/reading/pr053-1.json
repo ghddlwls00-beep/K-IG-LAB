@@ -1,0 +1,47 @@
+{
+  "id": "pr053-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr053",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 053-1 ]",
+  "menuLabel": "[ pr053-1 ]",
+  "unit": 53,
+  "part": null,
+  "order": 105,
+  "audio": [
+    {
+      "src": "/audio/reading/pr053.mp3",
+      "legacySrc": "sounds/pr053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 053-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 가장 많이 교육받은 사람들의 추측도 종종 비참하게 잘못될 수 있다. Albert Einstein은 “핵에너지를 얻게 될 가능성은 전혀 없다.”라고 말했다. 미래를 예측하는 것은 왜 그렇게 힘들까? 다음에 올 일을 추측하려고 하지 않는 것이 현명할까? 미래를 예측하지 않는 것은 자동차 앞 유리를 통해 앞을 보지 않고 차를 모는 것과 같다. 우리는 미래를 예견해줄 사람을 몹시 필요로 한다. 그들은 우리를 무한히 가능한 미래를 하나, 혹은 적어도 몇 개로 좁히게 해주는데 도움을 준다. 우리는 현재를 살펴보면서 미래를 보지만 그들은 미래의 씨앗들을 본다. 그들은 앞으로의 세상을 돕기 위한 귀중한 정보를 가져오기 위해 비밀스럽게 경계선을 넘어 가는 우리의 정찰대이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr053-1.htm",
+  "legacyEncoding": "utf-8"
+}

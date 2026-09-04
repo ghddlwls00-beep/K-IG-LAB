@@ -1,0 +1,47 @@
+{
+  "id": "pr103-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr103",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 103-1 ]",
+  "menuLabel": "[ pr103-1 ]",
+  "unit": 103,
+  "part": null,
+  "order": 205,
+  "audio": [
+    {
+      "src": "/audio/reading/pr103.mp3",
+      "legacySrc": "sounds/pr103.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 103-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "농업은 약 12,000년 전에 시작되었으며, 지난 300년 동안 급속도로 발전해 왔다. 발전의 속도가 줄어들 조짐은 보이지 않았다. 농업은 주요하게 세 부문으로 계속 발전해 나갈 것이다. 첫 번째로 농업은 새로운 형태의 기술을 사용함으로써 훨씬 더 효율적이 될 것이다. 많은 과정들이 컴퓨터에 의해 조정될 것이다. 두 번째로 부유한 사람뿐만 아니라 가난한 사람들도 이용할 수 있는 새로운 작물의 경작, 저장 및 판매 방식이 개발될 것이다. 세 번째로 농업 생산품은 여러 가지 면에서 사용될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr103-1.htm",
+  "legacyEncoding": "utf-8"
+}

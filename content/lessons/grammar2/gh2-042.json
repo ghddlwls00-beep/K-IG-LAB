@@ -1,0 +1,96 @@
+{
+  "id": "gh2-042",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 42 ]",
+  "menuLabel": "[ 42과 영어 ]",
+  "unit": 42,
+  "part": null,
+  "order": 70,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-042.mp3",
+      "legacySrc": "sounds/gh2-042.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 42 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Lend this money to whomever you trust."
+        },
+        {
+          "n": "2",
+          "text": "It is he who is to blame."
+        },
+        {
+          "n": "3",
+          "text": "I don't care what you think."
+        },
+        {
+          "n": "4",
+          "text": "May I ask what this is about?"
+        },
+        {
+          "n": "5",
+          "text": "Could you tell me what the regular fare is between Los Angeles and New York?"
+        },
+        {
+          "n": "6",
+          "text": "Whose finger was on the button almost defined electoral success."
+        },
+        {
+          "n": "7",
+          "text": "Compare what you have done with what you have seen."
+        },
+        {
+          "n": "8",
+          "text": "Why this is a problem was dramatically illustrated when keynoter Susan was ousted as a former marijuana user."
+        },
+        {
+          "n": "9",
+          "text": "The question is who will reach there first."
+        },
+        {
+          "n": "10",
+          "text": "It is a mystery to me how they can live together when they no longer love each other."
+        },
+        {
+          "n": "11",
+          "text": "There are various problems the solution of which is hopeless."
+        },
+        {
+          "n": "12",
+          "text": "Is this the man of whom you spoke yesterday?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-042.htm",
+  "legacyEncoding": "utf-8"
+}

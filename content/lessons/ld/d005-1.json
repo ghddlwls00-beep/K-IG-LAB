@@ -1,0 +1,83 @@
+{
+  "id": "d005-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d005",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 005 회 ]",
+  "menuLabel": "[ D 005-1 ]",
+  "unit": 5,
+  "part": null,
+  "order": 9,
+  "audio": [
+    {
+      "src": "/audio/ld/d005.mp3",
+      "legacySrc": "sounds/d005.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 005 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "톰과 프레드는 좋은 친구들이다. 그들은 같은 것들 중의 많은 것을 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 같은 종류의 것들 중에서 많은 것을 싫어한다. 예를 들어 두 소년 모두 고기잡는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "좋아한다. 그들은 고기잡는 것을 사랑하며 그들은 항상 고기를 잡는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 다른 스포츠도 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 농구와 야구를 하고 그들 둘다 테니스를 잘 한다. 그들은 같은 음식 중의 많은 것을 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "톰은 생선과 해산물을 좋아하며 프레드도 그들을 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "물론 그들은 둘 다 햄버거와 프렌치프라이를 좋아한다. 그들은 무엇을 좋아하지 않나?"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 학교를 매우 좋아하지 않으며 그들은 공부하는 것을 좋아하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "또한 그들은 아침에 일찍 일어나는 것을 좋아하지 않는다. 그러나 어떤 소년이 좋아하나?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d005-1.htm",
+  "legacyEncoding": "utf-8"
+}

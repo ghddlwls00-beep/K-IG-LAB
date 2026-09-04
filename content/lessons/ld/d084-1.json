@@ -1,0 +1,79 @@
+{
+  "id": "d084-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d084",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 084회 ]",
+  "menuLabel": "[ D 084-1 ]",
+  "unit": 84,
+  "part": null,
+  "order": 167,
+  "audio": [
+    {
+      "src": "/audio/ld/d084.mp3",
+      "legacySrc": "sounds/d084.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 084회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Estelle Jones는 Wren Computer company의 판매 책임자이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 파는 컴퓨터는 미국에서 만들어지고 종종 다른 나라로 보내진다 그들이 선적되기 전에 컴퓨터들 은 조심스럽게 포장된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 무게가 측정되고 라벨이 그 위에 부착된다. 그런 다음 그들은 공항 터미널로 배달된다."
+    },
+    {
+      "type": "instruction",
+      "text": "터미널에서 그들은 비행기로 옮겨져서 화물칸에 실려진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 컴퓨터들이 다른 나라에 도착할 때 그들은 매우 조심스럽게 내려진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 매우 손상입기 쉬우므로 특별한 주의가 기울여진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 포장물들이 조심스럽게 다루어지지 않는다면 그 컴퓨터들이 손상입을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "손상된 컴퓨터들은 미국으로 돌려보내져야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d084-1.htm",
+  "legacyEncoding": "utf-8"
+}

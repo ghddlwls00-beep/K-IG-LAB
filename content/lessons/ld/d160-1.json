@@ -1,0 +1,79 @@
+{
+  "id": "d160-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d160",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 160 회 ]",
+  "menuLabel": "[ D 160-1 ]",
+  "unit": 160,
+  "part": null,
+  "order": 318,
+  "audio": [
+    {
+      "src": "/audio/ld/d160.mp3",
+      "legacySrc": "sounds/d160.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 160 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "“일만 하고 놀지 않으면 바보가 된다.”는 것은 미국에서 인기있는 속담이다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 나라들이 비슷한 속담을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 모두가 레크리에이션이 필요한 것이 사실이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 훌륭한 건강을 유지하고 인생을 즐기려고 한다면 항상 일할 수 는 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 사람이 자기 자신의 릴랙스하는 방식을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "아마 가장 인기있는 방법은 스포츠에 참여하는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "야구, 농구, 축구 같은 단체 경기가 있다. 골프, 수영같은 개인 경기도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 하이킹, 낚시, 스키, 등산이 밖에 있기를 좋아하는 사람들에게 큰 매력이 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d160-1.htm",
+  "legacyEncoding": "utf-8"
+}

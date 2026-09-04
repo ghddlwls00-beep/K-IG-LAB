@@ -1,0 +1,87 @@
+{
+  "id": "d232-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d232",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 232 회 ]",
+  "menuLabel": "[ D 232-1 ]",
+  "unit": 232,
+  "part": null,
+  "order": 462,
+  "audio": [
+    {
+      "src": "/audio/ld/d232.mp3",
+      "legacySrc": "sounds/d232.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 232 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "가장의 것에 탐닉하고자 하는 인간의 욕구는 다양한 형태로 표현을 발견하지만"
+    },
+    {
+      "type": "instruction",
+      "text": "연극이 이런 욕구에 대한 최고의 출구의 하나이다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계의 모든 나라는 어떤 형태의 연출법을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "아프리카에서 발견되는 그런 것들 같은 비교적 미개한 종족들조차"
+    },
+    {
+      "type": "instruction",
+      "text": "의식의 무용과 무언극에서 자신을 표현한다."
+    },
+    {
+      "type": "instruction",
+      "text": "선진 문명은 정교한 극장들을 건설했고 아름다운 연극을 쓴 극작가들을 배출했다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 세계에서 연극은 가장 중요한 사회적 문화적 행사의 하나였다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 희랍인들은 오늘날 여전히 공연되는 비극과 희극들을 만들어냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "음악과 무용은 이런 연극에서 중요한 역할을 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 묘사하는 인물을 나타내기 위하여 배우들은 정교하고 기괴한 가면을 썼다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d232-1.htm",
+  "legacyEncoding": "utf-8"
+}

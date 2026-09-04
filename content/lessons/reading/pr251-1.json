@@ -1,0 +1,47 @@
+{
+  "id": "pr251-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr251",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 251-1 ]",
+  "menuLabel": "[ pr251-1 ]",
+  "unit": 251,
+  "part": null,
+  "order": 501,
+  "audio": [
+    {
+      "src": "/audio/reading/pr251.mp3",
+      "legacySrc": "sounds/pr251.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 251-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "외국 수입품에 대한 일부 세금의 목적은 국가의 방어에 필수적인 상품을 생산하는 산업을 보호하려는 것이다. 예를 들어 자국 석유, 천연 가스 또는 철강 산업은 국가 방어에 중요하기 때문에 보호가 필요할 수도 있다. 보호가 없다면 그런 산업은 외국과의 경쟁에 의해 약해질지도 모른다. 그러므로 국제 위기에 처했을 때 국가는 국가 안보에 필수적인 생산품의 공급 부족 상태에 있게 될지도 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr251-1.htm",
+  "legacyEncoding": "utf-8"
+}

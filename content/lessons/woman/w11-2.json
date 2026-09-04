@@ -1,0 +1,128 @@
+{
+  "id": "w11-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w11-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 47,
+  "audio": [
+    {
+      "src": "/audio/woman/w11-2-1.mp3",
+      "legacySrc": "w11-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-2-2.mp3",
+      "legacySrc": "w11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-2-3.mp3",
+      "legacySrc": "w11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-2-4.mp3",
+      "legacySrc": "w11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-2-5.mp3",
+      "legacySrc": "w11-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 My Single Life :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My First Job",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "대학을 졸업하자마자 나는 작은 무역 회사에 취직을 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As soon as I graduated from University I got a job at a small trade company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "근무 조건은 좋지 않았지만 나는 독립한 것에 행복했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The working conditions were not good but I was happy to be independent.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 사장과 많은 책임들로 스트레스를 받습니다. 그러나 나는 직장에서 팀웍을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I was very stressed out by my boss and all of my responsibilities but I really enjoyed the teamwork in my job.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매우 낙천적인 사람입니다. 그리고 내 생애에서 이 시간을 극복 할 수 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am a very optimistic person and was able to overcome this time in my life.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "As soon as I graduated from University I got a job at a small trade company",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w11-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w11-2.swf"
+  ]
+}

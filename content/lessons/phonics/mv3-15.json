@@ -1,0 +1,88 @@
+{
+  "id": "mv3-15",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-15 ]",
+  "unit": 15,
+  "part": null,
+  "order": 94,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-15.mp3",
+      "legacySrc": "sounds/mv3-15.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "pretty",
+          "kind",
+          "sick",
+          "unlike",
+          "different",
+          "cheep"
+        ],
+        [
+          "afraid",
+          "cool",
+          "brown",
+          "difficult",
+          "interesting",
+          "lose"
+        ],
+        [
+          "close",
+          "arrive",
+          "travel",
+          "wide",
+          "deep",
+          "worry"
+        ],
+        [
+          "marry",
+          "expect",
+          "ancient",
+          "clean",
+          "necessary",
+          "common"
+        ],
+        [
+          "inner",
+          "wise",
+          "reach",
+          "hold",
+          "nuclear",
+          "least"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-15 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-15.htm",
+  "legacyEncoding": "utf-8"
+}

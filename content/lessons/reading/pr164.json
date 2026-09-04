@@ -1,0 +1,51 @@
+{
+  "id": "pr164",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 164 ]",
+  "menuLabel": "[ pr164 ]",
+  "unit": 164,
+  "part": null,
+  "order": 326,
+  "audio": [
+    {
+      "src": "/audio/reading/pr164.mp3",
+      "legacySrc": "sounds/pr164.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 164 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Consumer advocates call for additional testing of crops and mandatory labeling of genetically engineered products. Administration officials say that it is unnecessary, and the food industry has argued that it would unfairly stigmatize bio-tech food."
+    },
+    {
+      "type": "hints",
+      "text": "Who take the strictest stand to the genetically engineered products in the passage ?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr164.htm",
+  "legacyEncoding": "utf-8"
+}

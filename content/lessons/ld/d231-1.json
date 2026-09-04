@@ -1,0 +1,87 @@
+{
+  "id": "d231-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d231",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 231 회 ]",
+  "menuLabel": "[ D 231-1 ]",
+  "unit": 231,
+  "part": null,
+  "order": 460,
+  "audio": [
+    {
+      "src": "/audio/ld/d231.mp3",
+      "legacySrc": "sounds/d231.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 231 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "어쩌면 국립공원 중에서 가장 이상하고 기괴한 것의 하나는 아리조나에 위치한 화석 숲이다."
+    },
+    {
+      "type": "instruction",
+      "text": "수천년전에 이 지역은 울창한 숲이었으나 격렬한 지진이 그것을 큰 바다로 바꾸었다."
+    },
+    {
+      "type": "instruction",
+      "text": "점차적으로 화학 과정을 통하여 그 나무들이 돌로 바뀌었다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 그 지역은 고대 숲의 화석화된 줄기들이 고대 대리석 신전의"
+    },
+    {
+      "type": "instruction",
+      "text": "폐허처럼 모래 위에 흩어져있는 사막이다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 온천과 간헐천으로 유명한 경치좋은 장소는 Yellowstone 국립공원이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 많은 순한 곰도 관광객에게 즐거운 것으로 판명된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 곰들은 관광객과 점심을 같이하는 것을 주저하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "공원 관리들은 방문객들이 그 곰에게 너무 가까이 가는 것을 말린다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 지적하듯이 섭섭해하는 것보다 안전한 것이 더 낫다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d231-1.htm",
+  "legacyEncoding": "utf-8"
+}

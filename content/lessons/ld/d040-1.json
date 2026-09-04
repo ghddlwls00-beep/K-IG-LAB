@@ -1,0 +1,71 @@
+{
+  "id": "d040-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d040",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 040 회 ]",
+  "menuLabel": "[ D 040-1 ]",
+  "unit": 40,
+  "part": null,
+  "order": 79,
+  "audio": [
+    {
+      "src": "/audio/ld/d040.mp3",
+      "legacySrc": "sounds/d040.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 040 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 어린애였을 때 그들의 생각을 내가 존경했던 몇몇 사람들이 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 우리 삼촌 John이 세상에 대하여 모든 것을 안다고 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 여행하며 볼 만한 것은 다 보았다. 나는 그가 일본, 호주, 브라질같은 장소들에 대하여"
+    },
+    {
+      "type": "instruction",
+      "text": "나에게 말하는 것은 무엇이든 믿었다. 야구에 대하여 무엇이든 알고 싶었을 때 나는 우리의 이웃 Fulton씨 에게 물었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 그 경기에 대하여 모르는 것은 아무 것도 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 선생님 Miss Ellis는 자연에 대한 전문가였고 나는 그가 식물과 동물에 대하여 우리 반원들에게 말하 는 것들의 모두를 언제나 믿었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d040-1.htm",
+  "legacyEncoding": "utf-8"
+}

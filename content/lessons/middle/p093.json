@@ -1,0 +1,99 @@
+{
+  "id": "p093",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 093 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 3,
+  "order": 100,
+  "audio": [
+    {
+      "src": "/audio/middle/p093.mp3",
+      "legacySrc": "sounds/p093.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 093 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(What do I do in the evening?)"
+    },
+    {
+      "type": "hints",
+      "text": "After finishing classes at the academies, I go home and have"
+    },
+    {
+      "type": "instruction",
+      "text": "dinner with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother always makes dinner."
+    },
+    {
+      "type": "instruction",
+      "text": "When we eat,my father usually talks about his day,"
+    },
+    {
+      "type": "instruction",
+      "text": "and we share our experiences."
+    },
+    {
+      "type": "instruction",
+      "text": "After dinner, we watch television together."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite TV shows are Miracle and Fantastic."
+    },
+    {
+      "type": "instruction",
+      "text": "I start my homework at around 9:00 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "My English homework is my favorite."
+    },
+    {
+      "type": "instruction",
+      "text": "It is my favorite because it is easier than my other subjects."
+    },
+    {
+      "type": "instruction",
+      "text": "After that, I quickly write in my journal about my day."
+    },
+    {
+      "type": "instruction",
+      "text": "I go to bed at about 10:30 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "and think what a wonderful day it was!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p093.htm",
+  "legacyEncoding": "utf-8"
+}

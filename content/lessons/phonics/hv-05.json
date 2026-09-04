@@ -1,0 +1,88 @@
+{
+  "id": "hv-05",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-05 ]",
+  "unit": 5,
+  "part": null,
+  "order": 124,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-05.mp3",
+      "legacySrc": "sounds/hv-05.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "outstanding",
+          "outline",
+          "outskirts",
+          "outcome",
+          "outlook",
+          "output"
+        ],
+        [
+          "outlaw",
+          "outlet",
+          "outdo",
+          "outnumber",
+          "outgrow",
+          "outweigh"
+        ],
+        [
+          "utter",
+          "utterance",
+          "utterly",
+          "utmost",
+          "aboard",
+          "abroad"
+        ],
+        [
+          "alike",
+          "aside",
+          "accustom",
+          "ashore",
+          "akin",
+          "adjust"
+        ],
+        [
+          "adjustment",
+          "abreast",
+          "accompany",
+          "accumulate",
+          "accumulation",
+          "account"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-05 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-05.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr179",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 179 ]",
+  "menuLabel": "[ pr179 ]",
+  "unit": 179,
+  "part": null,
+  "order": 356,
+  "audio": [
+    {
+      "src": "/audio/reading/pr179.mp3",
+      "legacySrc": "sounds/pr179.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 179 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The early volunteers worked alone and did hard and unpleasant tasks. They devoted themselves to hours of unpaid work for the poor and helpless, never minding that few appreciated what they were doing for society. Up until about two decades ago, they had seldom received funds from the government or private organizations. This was so mainly because society paid little attention to their activities or achievements. Then, in the last ten to 15 years, changes in society brought about a transformation of volunteerism. In the first place, more people and organizations wanted to be involved in helping solve social problems out of their love for humanity. Volunteers grew in number, organized themselves, and became professional. Secondly, society as a whole began to place a great value on the experience or training that comes from volunteer work. Many employers, for instance, are now looking for would-be workers with training. So those seeking a job -- the young and the unskilled -- realize that the best way to get hired is to acquire some experience from volunteer work The result has been a considerable increase in the number of volunteers in recent years."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr179.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "cnn119",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "I’d Like a Salary Increase*.",
+  "label": "I’d Like a Salary Increase*.",
+  "menuLabel": "[ CNN 119 ]",
+  "unit": 119,
+  "part": null,
+  "order": 118,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn119.mp4",
+      "legacySrc": "CNN/CNN61-120/119.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "I’d Like a Salary Increase*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: I’ve read your resume. It’s very impressive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: Thank you. I’ve worked in this field for a long time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: You went to school at night to get your M.B.A.?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: Yes. It was a lot of work, but it was a very good program.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: You have a good job now in product design. Why do you want a position in marketing?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: I’d like a salary increase. I’ve just gotten married. My husband and I would like to buy a home.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: I see. Well, thank you for coming in. We’ll get in touch with you as soon as we make a decision.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: Thank you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "월급을 더 받고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 이력서를 읽어 봤는데, 대단하시네요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 감사합니다. 오랫동안 이 분야에서 일했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 야간 대학에 다니면서 MBA를 받으셨군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 네. 정말 힘들게 공부했는데, 프로그램이 굉장히 좋았어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 지금 제품 디자인 분야에서 좋은 직장을 갖고 있는데, 왜 마케팅 자리를 원하십니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 월급을 더 받고 싶어서요. 얼마 전에 결혼을 했는데, 남편과 저는 집을 장만하고 싶거든요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 알겠습니다. 인터뷰에 응해주셔서 감사합니다. 결정되는 대로 연락 드리겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* salary increase",
+          "text": "봉급 인상"
+        },
+        {
+          "n": "1) resume",
+          "text": "이력서"
+        },
+        {
+          "n": "2) impressive",
+          "text": "인상적인"
+        },
+        {
+          "n": "3) field",
+          "text": "분야"
+        },
+        {
+          "n": "4) go to school at night",
+          "text": "야간에 학교를 다니다"
+        },
+        {
+          "n": "5) M.B.A",
+          "text": "경영학 석사(Master of Business Administration)"
+        },
+        {
+          "n": "6) position",
+          "text": "직책, 직위"
+        },
+        {
+          "n": "7) get in touch with",
+          "text": "…와 연락하다"
+        },
+        {
+          "n": "8) as soon as",
+          "text": "…하자 마자"
+        },
+        {
+          "n": "9) make a decision",
+          "text": "결정을 내리다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/119.wmv",
+  "legacyEncoding": "binary"
+}

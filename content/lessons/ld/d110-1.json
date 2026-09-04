@@ -1,0 +1,91 @@
+{
+  "id": "d110-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d110",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 110 회 ]",
+  "menuLabel": "[ D 110-1 ]",
+  "unit": 110,
+  "part": null,
+  "order": 219,
+  "audio": [
+    {
+      "src": "/audio/ld/d110.mp3",
+      "legacySrc": "sounds/d110.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 110 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin은 그의 지역 사회의 지도자였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 훌륭한 연사이고 조직가였다."
+    },
+    {
+      "type": "instruction",
+      "text": "필라델피이에서 그는 그 도시의 첫 경찰국, 소방국, 병원, 도서관을 조직했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나중에 펜실바니아 대학이 된 학교를 시작하는 것을 도왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin은 또 미국과 캐나다에서 우편 제도를 개선하기 위하여 일했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나중에 그는 영국과 불란서에서 미국의 대표가 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Benjamin Franklin은 1790년에 죽었다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 그는 가장 위대한 미국인의 한 사람으로 기억되는데 그것은"
+    },
+    {
+      "type": "instruction",
+      "text": "그가 많은 것들을 매우 잘 할 수 있었기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그의 지역 사회와 그의 나라 내에서의 삶을 향상시키기 위하여 열심히 일했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 사진은 미국 우표, 동전, 지폐에 나타난다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d110-1.htm",
+  "legacyEncoding": "utf-8"
+}

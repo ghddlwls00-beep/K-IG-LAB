@@ -1,0 +1,67 @@
+{
+  "id": "d049-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d049",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 049회 ]",
+  "menuLabel": "[ D 049-1 ]",
+  "unit": 49,
+  "part": null,
+  "order": 97,
+  "audio": [
+    {
+      "src": "/audio/ld/d049.mp3",
+      "legacySrc": "sounds/d049.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 049회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "대중의 믿음에 따르면 미술가들과 음악인들은 추측컨대 변덕스럽다."
+    },
+    {
+      "type": "instruction",
+      "text": "즉, 그들은 쉽게 화내낸 것처럼 보인다. 예를 들어 한 유명한 피아니스트는 맨 앞 줄의 일부 사람들이 많은 소음을 만들고 있었기 때문에 그의 콘서트 중의 하나 동안 무대를 떠났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 청중의 일부 회원들은 그 피아니스트가 어린애처럼 행동했다고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그가 그를 들으러 온 모든 사람을 모욕했다고 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 실제로 그들은 맨 앞줄의 사람들을 탓했어야 하는데 왜냐하면 그들이 그 피아니스트를 모욕했기 때문이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d049-1.htm",
+  "legacyEncoding": "utf-8"
+}

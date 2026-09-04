@@ -1,0 +1,47 @@
+{
+  "id": "pr004-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr004",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 004-1 ]",
+  "menuLabel": "[ pr004-1 ]",
+  "unit": 4,
+  "part": null,
+  "order": 7,
+  "audio": [
+    {
+      "src": "/audio/reading/pr004.mp3",
+      "legacySrc": "sounds/pr004.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 004-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "두 개의 콜롬비아 리듬은 외국에 기원을 두고 있다. ‘cumbia’는 금광에서 일하기 위해서 그 나라의 더운 지역으로 이송된 아프리카의 노예들에 의해 만들어졌다. 그것은 가족들을 그리워했던 이들의 슬픈 노래다. 이와 대조적으로 ‘banbuco’는 백인, 스페인에 기원을 두고 있다. 그것은 더 추운 지방에서 만들어졌고, 스페인 사람들이 그들의 여자 친구에게 사랑을 표현할 때 사용되어졌다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr004-1.htm",
+  "legacyEncoding": "utf-8"
+}

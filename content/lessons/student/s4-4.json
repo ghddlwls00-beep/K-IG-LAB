@@ -1,0 +1,308 @@
+{
+  "id": "s4-4",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s4-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 4,
+  "order": 23,
+  "audio": [
+    {
+      "src": "/audio/student/s4-4-1.mp3",
+      "legacySrc": "s4-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-2.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-3.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-4.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-5.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-6.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-7.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-8.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-9.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-10.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-11.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-12.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-13.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-14.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-15.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-16.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-4-17.mp3",
+      "legacySrc": "s4-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My uncles and aunts are all married, so I have a lot of cousins as well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because grandfather passed away several years ago, my grandmother lives with my mother’s eldest brother.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "She has two older brothers and two sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My mother is the youngest child in her family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니는 그녀의 가족가운데 제일 막내입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 오빠가2명 있고, 여동생이2명 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 외삼촌들과 이모들은 모두 결혼을 했습니다. 그래서 저도 또한 많은 사촌들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "할머니께서 몇 년 전에 돌아가셨기 때문에 나의 할머니는 나의 어머니의 가장 큰 오빠와 살고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머님은 막내이십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머님은 막내이십니다.My mother is the youngest child",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀의 가족안에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀의 가족안에서 in her family.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 가지고있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 가지고있습니다.She has",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 두명의 오빠와 두명의 여자형제들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 두명의 오빠와 두명의 여자형제들을 two older brothers and two sisters.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 삼촌과 이모들은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 삼촌과 이모들은My uncles and aunts",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/모두 결혼 했습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/모두 결혼 했습니다 are all married,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 많은 사촌들이 있습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 많은 사촌들이 있습니다 so I have a lot of cousins",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또한 as well.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 할아버지가 돌아가셨기 때문에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 할아버지가 돌아가셨기 때문에Because grandfather passed away",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇년전에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇년전에 several years ago,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 할머니는 사십니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 할머니는 사십니다 my grandmother lives",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니의 큰 오빠와",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니의 큰 오빠와 with my mother's eldest brother.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relative Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mother’s brother and sister",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s4-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s4-4.swf"
+  ]
+}

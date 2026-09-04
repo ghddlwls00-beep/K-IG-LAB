@@ -1,0 +1,302 @@
+{
+  "id": "cnn058",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Disney, Pixar* Merge* in $7.4B Deal*",
+  "label": "Disney, Pixar* Merge* in $7.4B Deal*",
+  "menuLabel": "[ CNN 58 ]",
+  "unit": 58,
+  "part": null,
+  "order": 57,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn058.mp4",
+      "legacySrc": "CNN/CNN1-60/58.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Disney, Pixar* Merge* in $7.4B Deal*"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINTON, CNN Anchor: Disney is to buy the animation phenomenon Pixar Studios, ending months of speculation. The deal is worth $7.4 billion, a slight premium over Pixar’s share price. The deal had seemed on the brink of collapse after tensions between the former Disney chief, Michael Eisner and Pixar Chairman Steve Jobs prompted Pixar to end its distribution deal. But Robert Iger, Disney’s new CEO, mended the fences, ultimately convincing Jobs that selling Pixar was the right move.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "STEVE JOBS, Chairman of Pixar: To make a deal like this work, you really have to have a strong personal relationship with the person running the parent company. In this case, that’s Bob Iger. And you need to really have a high degree of trust that they really understand, in this case, Pixar. And as I got to know Bob, I developed that trust and respect.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RIMINTON: Meanwhile, Iger said that capturing Pixar was his number one priority.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROBERT IGER, CEO of Dinsey: Animation really is the heart and soul of the company, dating back to Walt’s days in the late 20’s. So I thought that a real imperative for the company and for me as its new CEO was to make sure that we were making great feature animation movies.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pixar has been doing that for quite a long period of time. We’ve been a partner of theirs and have watched in awe and in wonder how they’ve done it. And when I considered all the different alternatives that we had at a company to achieve this goal, to make great animated films, this ended up rising to the top of all the different choices that we had.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RIMINTON: Under the deal, Jobs who also heads Apple Compute, will take a seat on Disney’s board and become Disney’s largest individual shareholder.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "월트 디즈니, 74억 달러에 픽사 인수",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴, CNN 앵커: 디즈니 사는 애니메이션계의 강자인 픽사 스튜디오를 인수하기로 함에 따라 수개월 간의 여러 추측들에 종지부를 찍었습니다. 이번 거래는 74억 달러 규모로서 픽사의 주가에 약간의 프리미엄을 얹은 것입니다. 이 거래가 무산될 위기에 처했었는데요. 이는 전 디즈니 최고경영자인 마이클 아이즈너와 픽사 회장인 스티브 잡스 사이에 생긴 갈등으로 픽사 측이 자사의 배급 계약을 종결했기 때문입니다. 하지만 로버트 아이거 디즈니 신임 최고경영자가 이 상황을 수습했는데, 결국 픽사를 매각하는 것이 올바른 조치라고 (스티브) 잡스 회장을 설득시켰습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스티브 잡스, 픽사 회장: 이 같은 거래를 성사시키려면 모회사를 운영하는 사람과 돈독한 관계를 유지해야 합니다. 이번 경우에는 그 사람이 밥 아이거였습니다. 이번 경우와 같이, 픽사를 제대로 이해하려면 서로간에 신뢰가 아주 깊어야 합니다. 제가 밥을 알게 되면서 그러한 신뢰와 존경심이 생겨났죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "리밍턴: 한편, 아이거 씨는 픽사 인수가 그에게는 제1순위였다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로버트 아이거, 디즈니 사 최고경영자: 애니메이션은 실제로 이 회사의 핵심 사업으로서 그 역사가 1920년 대 후반의 월트 (디즈니) 회장 시절로까지 거슬러 올라갑니다. 그래서 이 회사나 이곳의 신임 최고경영자인 제게 주어진 당면 과제는 반드시 뛰어난 장편 애니메이션 영화를 만들어내는 것이라 생각했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "픽사는 상당히 오랜 세월 그렇게 해왔습니다. 저희는 이들의 사업 동반자로서 픽사가 그 일들을 이루어내는 과정을 경이로움과 놀라움으로 지켜봤습니다. 뛰어난 애니메이션 영화 제작이라는 목표 달성을 위해 저희 회사가 가진 다른 대안들을 모두 고려해 봤을 때, 이번 거래가 결국 어떤 다른 선택보다도 단연 최우선으로 떠올랐습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "리밍턴: 이번 거래를 통해 애플 컴퓨터 사의 대표이기도 한 잡스 회장는 디즈니 사의 최고 이사회에 합류하게 되고 디즈니 사의 최대 개인주주가 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. phenomenon/ 비범한 사람, 천재, 기재(奇才)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) distribution/ 분배, 배급 (2) deal/ 계약, 거래",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. a high[low] degree of/ 고도[저수준]의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. priority/ 우선 사항, 긴급한 일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. heart and soul/ 핵심",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. awe/ 두려움, 경외",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) take a seat on/ …에 취임하다 (2) board/ 이사회; 회의(의 탁자)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. shareholder/ 주주(stockholder)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* Pixar (Studios)",
+          "text": "픽사 (스튜디오): 스티브 잡스가 설립한 애니메이션 영화사로 <토이 스토리>, <니모를 찾아서>, <몬스터 주식회사>, <인크레더블>, <벅스 라이프> 등 초대형 히트작을 배출했다."
+        },
+        {
+          "n": "* merge",
+          "text": "합병하다, 통합하다"
+        },
+        {
+          "n": "* deal",
+          "text": "((구어)) 거래, 장사, 매매"
+        },
+        {
+          "n": "1) animation phenomenon",
+          "text": "애니메이션계의 강자"
+        },
+        {
+          "n": "2) speculation",
+          "text": "추측, 추론; 심사숙고, 사색"
+        },
+        {
+          "n": "3) premium",
+          "text": "{증권}프리미엄: 주식,채권 따위의 실제 매매 가격이 액면 가격을 초과했을 때의 그 초과액"
+        },
+        {
+          "n": "4) share price",
+          "text": "주가(stock price)"
+        },
+        {
+          "n": "5) on the brink of",
+          "text": "…의 직전에"
+        },
+        {
+          "n": "6) collapse",
+          "text": "무너짐, 붕괴; (계획 따위의) 좌절; (가격 따위의) 폭락"
+        },
+        {
+          "n": "7) Michael Eisner",
+          "text": "마이클 아이즈너: 전 월트 디즈니 사의CEO로 적자에 허덕이던 디즈니사를 다시 회생시켰지만, 타사와의 관계가 원만하지는 못했다."
+        },
+        {
+          "n": "8) prompt A to",
+          "text": "A에게 …하도록 촉구하다"
+        },
+        {
+          "n": "9) distribution deal",
+          "text": "배급 계약"
+        },
+        {
+          "n": "10) mend[repair, look after] the fences",
+          "text": "관계를 개선하다, 화해하다"
+        },
+        {
+          "n": "11) convince A that[of]",
+          "text": "A에게 …라는 것을 […을] 납득시키다"
+        },
+        {
+          "n": "12) move",
+          "text": "조치, 수단; 움직임"
+        },
+        {
+          "n": "13) chairman",
+          "text": "회장; 의장; 사회자; 위원장"
+        },
+        {
+          "n": "14) have a strong personal relationship with",
+          "text": "…와 개인적으로 아주 돈독한 관계를 유지하다"
+        },
+        {
+          "n": "15) run",
+          "text": "경영[운영]하다"
+        },
+        {
+          "n": "16) parent company[firm]",
+          "text": "모(母)회사"
+        },
+        {
+          "n": "17) have a high degree of trust",
+          "text": "신뢰가 아주 깊다"
+        },
+        {
+          "n": "18) develop",
+          "text": "(경향,소질 등을) 드러나게 하다; (습관 따위를) 익히다"
+        },
+        {
+          "n": "19) capture",
+          "text": "(상품 따위를) 획득하다; 붙잡다, 체포하다"
+        },
+        {
+          "n": "20) number one priority",
+          "text": "최우선순위"
+        },
+        {
+          "n": "21) the heart and soul of",
+          "text": "…의 핵심 전력[사업]"
+        },
+        {
+          "n": "22) date back to",
+          "text": "(시기 따위가) …까지 거슬러 올라가다"
+        },
+        {
+          "n": "23) in the late 20’s",
+          "text": "20년대 후반의"
+        },
+        {
+          "n": "24) imperative",
+          "text": "긴급한 과제, 피할 수 없는 것; 의무, 책무"
+        },
+        {
+          "n": "25) make sure that절[to부정사]",
+          "text": "반드시 …하다, …을 확실히 해두다"
+        },
+        {
+          "n": "26) feature",
+          "text": "{영화}장편(극) 영화, 특작"
+        },
+        {
+          "n": "27) in awe",
+          "text": "경외심[경이로움]을 가지고"
+        },
+        {
+          "n": "28) in wonder",
+          "text": "놀랍게도"
+        },
+        {
+          "n": "29) consider",
+          "text": "곰곰이 생각하다, 검토하다"
+        },
+        {
+          "n": "30) alternative",
+          "text": "대안, 달리 취할 길[방법]"
+        },
+        {
+          "n": "31) achieve",
+          "text": "달성하다, 이루다"
+        },
+        {
+          "n": "32) animated film",
+          "text": "만화 영화, 애니메이션 영화 (animated cartoon)"
+        },
+        {
+          "n": "33) end up",
+          "text": "결국[마침내] …이 되다; 종료하다, 끝내다"
+        },
+        {
+          "n": "34) rise to the top of",
+          "text": "…중에서 최우선 사안으로 떠오르다"
+        },
+        {
+          "n": "35) head",
+          "text": "…의 장이 되다; …의 선두에 서다; …을 이끌다"
+        },
+        {
+          "n": "36) Apple Computer",
+          "text": "애플 컴퓨터: 미국 캘리포니아에 본사를 둔 개인용 컴퓨터 제조회사"
+        },
+        {
+          "n": "37) take a seat on one’s board",
+          "text": "…의 이사로 취임하다"
+        },
+        {
+          "n": "38) individual shareholder",
+          "text": "개인주주"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/58.wmv",
+  "legacyEncoding": "binary"
+}

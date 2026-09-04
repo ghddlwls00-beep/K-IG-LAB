@@ -1,0 +1,103 @@
+{
+  "id": "d191-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d191",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 191 회 ]",
+  "menuLabel": "[ D 191-1 ]",
+  "unit": 191,
+  "part": null,
+  "order": 380,
+  "audio": [
+    {
+      "src": "/audio/ld/d191.mp3",
+      "legacySrc": "sounds/d191.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 191 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 나는 안개 속으로부터 나오는 한 음성을 들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "“길을 잃으신 것같군요.도와드릴까요?\""
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나에게 말을 건네는 그 젊은 여성을 거의 볼 수 없었지만"
+    },
+    {
+      "type": "instruction",
+      "text": "안개 속에서 다른 사람을 발견한 것이 고마웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 내가 어디로 가기를 원하는지 설명했고 그녀는 어떻게 그곳으로 가는지 정확히 안다고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 의심이 갔지만 그 캄캄한 길을 가로질러 그녀를 따라갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 도시는 묘지처럼 조용한 것 같았고 나는 나의 길 안내자가 그녀와 그녀의 몇몇 친구들이"
+    },
+    {
+      "type": "instruction",
+      "text": "나에게 강도짓을 할 골목길로 인도하고 있을 수도 있다는 생각을 했던 것이 기억난다."
+    },
+    {
+      "type": "instruction",
+      "text": "그라나 나의 두려움은 사실무근이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 여인은 나의 목적지로 곧장 인도했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그녀가 그 안개를 뚫고 그녀의 길을 얼마나 잘 찾는지 탄복했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“나는 마을의 이 부분을 괘 잘 압니다.”라고 그녀가 대답했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“그러나 이 안개. 이 끔직한 안개는 내가 어떤 것도 보지 못하게 했습니다.”라고 내가 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 그녀가 뭐라고 대답했다고 추측하나? (소경)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d191-1.htm",
+  "legacyEncoding": "utf-8"
+}

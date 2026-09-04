@@ -1,0 +1,79 @@
+{
+  "id": "d104-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d104",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 104 회 ]",
+  "menuLabel": "[ D 104-1 ]",
+  "unit": 104,
+  "part": null,
+  "order": 207,
+  "audio": [
+    {
+      "src": "/audio/ld/d104.mp3",
+      "legacySrc": "sounds/d104.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 104 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 심한 폭풍을 뚫고 절실히 필요로 하는 의약품을 운반하였고 많은 인명을 구하는 것을 도왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "3월에 열리는 그 시합은 개썰매 운전자에게 매우 힘들다."
+    },
+    {
+      "type": "instruction",
+      "text": "매일 개들은 약 4시간 달리고 그런 다음 4시간 쉰다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 밤낮으로 달리고 때로는 하루에 110 킬로미터나 여행한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 운전자는 휴식 시간 동안에 그 개들을 먹이고 돌보아주어야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그들은 매일 약 2시간만 잔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 시합이 너무나 힘들기 때문에 많은 운전자들은 승리할 것을 기대하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 대부분에게는 단지 완주할 수 있다는 것만 해도 승리이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d104-1.htm",
+  "legacyEncoding": "utf-8"
+}

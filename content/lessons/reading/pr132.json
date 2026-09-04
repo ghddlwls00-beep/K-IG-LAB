@@ -1,0 +1,47 @@
+{
+  "id": "pr132",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 132 ]",
+  "menuLabel": "[ pr132 ]",
+  "unit": 132,
+  "part": null,
+  "order": 262,
+  "audio": [
+    {
+      "src": "/audio/reading/pr132.mp3",
+      "legacySrc": "sounds/pr132.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 132 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Language purists wish to stem change in language or dialect differentiation because of their false belief that some languages are better than others, or that change leads to corruption."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr132.htm",
+  "legacyEncoding": "utf-8"
+}

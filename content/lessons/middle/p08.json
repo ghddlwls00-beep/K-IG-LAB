@@ -1,0 +1,167 @@
+{
+  "id": "p08",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle08]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/middle/p08.mp3",
+      "legacySrc": "sounds/p08.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle08]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle: 8 After School/at Home"
+    },
+    {
+      "type": "hints",
+      "text": "When I come home after school, my mother is always glad to see me."
+    },
+    {
+      "type": "instruction",
+      "text": "I say, \"Mom! I’m home,\" and then I take off my backpack"
+    },
+    {
+      "type": "instruction",
+      "text": "and wash my face and feet."
+    },
+    {
+      "type": "instruction",
+      "text": "My mom replies, \"How was your day?\""
+    },
+    {
+      "type": "instruction",
+      "text": "After I chat with my mom for a little while, I go to my room,"
+    },
+    {
+      "type": "instruction",
+      "text": "and I sometimes play on the computer."
+    },
+    {
+      "type": "instruction",
+      "text": "After I play a little, I have to do all of my homework."
+    },
+    {
+      "type": "instruction",
+      "text": "If I can’t figure out my homework, I can always look on the Internet."
+    },
+    {
+      "type": "instruction",
+      "text": "I oftentimes find the answers to my assignments on the World Wide Web."
+    },
+    {
+      "type": "instruction",
+      "text": "I get very tired quickly"
+    },
+    {
+      "type": "instruction",
+      "text": "because I have to do homework from both the academies and school."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though I am tired, I keep studying"
+    },
+    {
+      "type": "instruction",
+      "text": "because I enjoy learning new things."
+    },
+    {
+      "type": "instruction",
+      "text": "Dinnertime is the only time that our family can get together the entire day."
+    },
+    {
+      "type": "instruction",
+      "text": "Usually, my father comes home late,"
+    },
+    {
+      "type": "instruction",
+      "text": "so we can’t be together at suppertime."
+    },
+    {
+      "type": "instruction",
+      "text": "Because my mother worries about the health of our family,"
+    },
+    {
+      "type": "instruction",
+      "text": "she prepares many different kinds of healthy side dishes."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "We always have great conversations at dinnertime."
+    },
+    {
+      "type": "instruction",
+      "text": "We mostly talk about the interesting things"
+    },
+    {
+      "type": "instruction",
+      "text": "that happened to us during the day."
+    },
+    {
+      "type": "instruction",
+      "text": "After dinner, our family watches TV together."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother doesn’t allow us to watch a lot of TV."
+    },
+    {
+      "type": "instruction",
+      "text": "I like the entertainment programs because I can see famous actors"
+    },
+    {
+      "type": "instruction",
+      "text": "and musicians."
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish watching TV, I do a little review to prepare for school,"
+    },
+    {
+      "type": "instruction",
+      "text": "write in my journal, and then go to bed."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though my days are filled with many activities,"
+    },
+    {
+      "type": "instruction",
+      "text": "they are a lot of fun too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p08.htm",
+  "legacyEncoding": "utf-8"
+}

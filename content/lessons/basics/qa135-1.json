@@ -1,0 +1,69 @@
+{
+  "id": "qa135-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa135",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 135-1 〕",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 5,
+  "order": 338,
+  "audio": [
+    {
+      "src": "/audio/basics/qa135.mp3",
+      "legacySrc": "sounds/qa135.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 135-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 그를 존경하는 이유) → 당신은 그를 왜 존경합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "170",
+          "text": "그분은 준비를 잘 하셨고, / 자신보다 / 언제나 한국을 생각하셨기"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 때문에 / 난 / 그분을 존경해."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "171",
+          "text": "또한 / 그분은 / 항상 / 자신의 책임을 / 완수하려고 노력하셨어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa135-1.htm",
+  "legacyEncoding": "utf-8"
+}

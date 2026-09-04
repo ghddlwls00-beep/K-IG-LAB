@@ -1,0 +1,47 @@
+{
+  "id": "pr059",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 059 ]",
+  "menuLabel": "[ pr059 ]",
+  "unit": 59,
+  "part": null,
+  "order": 116,
+  "audio": [
+    {
+      "src": "/audio/reading/pr059.mp3",
+      "legacySrc": "sounds/pr059.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 059 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people become blind because a part of the eye called the cornea doesn't let in enough light. The cornea becomes clouded over. These people can be made to see again, however, if they are able to get clear corneas to let in the light. The blind must get the corneas from people with healthy eyes-people who agree to let blind people use their eyes after they die"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr059.htm",
+  "legacyEncoding": "utf-8"
+}

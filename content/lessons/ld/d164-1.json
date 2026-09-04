@@ -1,0 +1,83 @@
+{
+  "id": "d164-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d164",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 164 회 ]",
+  "menuLabel": "[ D 164-1 ]",
+  "unit": 164,
+  "part": null,
+  "order": 326,
+  "audio": [
+    {
+      "src": "/audio/ld/d164.mp3",
+      "legacySrc": "sounds/d164.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 164 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그 둘 다 우리의 일상 생활의 필수적인 일부분이 되어서"
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 계속해서 그날의 소식에 대하여 정보를 받게 해주고"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 관심 분야에 있어서 우리를 가르쳐주고 노래, 춤, 연기로 우리를 즐겁게 해준다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리에게 라디오를 준 이태리의 발명가 마르코니는 아마도 그의 위대한 발명이"
+    },
+    {
+      "type": "instruction",
+      "text": "다가오는 해들에 있어서 세계에 어떤 영향을 미치게될지 인식하지 않았을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "아마도 라디오는 어떤 다른 통신 장치만큼 많은 영향을 세계에 미쳐왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "전세계적인 관심의 행사들이 발생 몇초 후에 전세계로 보도될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "외진 지역의 탐험가들, 바다의 선박들, 심지어 지구를 도는 우주비행사들조차도"
+    },
+    {
+      "type": "instruction",
+      "text": "라디오의 수단에 의하여 문명과 접촉을 계속할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d164-1.htm",
+  "legacyEncoding": "utf-8"
+}

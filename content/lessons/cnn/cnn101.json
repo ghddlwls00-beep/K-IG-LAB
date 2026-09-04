@@ -1,0 +1,166 @@
+{
+  "id": "cnn101",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "I Placed an Order* to Buy 100 Shares* of Blue Chip",
+  "label": "I Placed an Order* to Buy 100 Shares* of Blue Chip",
+  "menuLabel": "[ CNN 101 ]",
+  "unit": 101,
+  "part": null,
+  "order": 100,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn101.mp4",
+      "legacySrc": "CNN/CNN61-120/101.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "I Placed an Order* to Buy 100 Shares* of Blue Chip"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broker: Champion Brokerage And Securities. Can I have your account number please?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Client: It’s 562-098",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broker: Thank you. Mr. Liu. How can I help you?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Client: I placed an order to buy 100 shares of Blue Chip Steel at $27.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broker: Blue Chip closed at $28, Mr. Liu. We were unable to fill your order at $27.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Client: Oh, no. I thought the stock might go up.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broker: Shall we cancel the order, sir?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Client: No. Try again tomorrow at $27. Thanks.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Steel at $27 27달러에 블루 칩 스틸 100주를 주문했는데요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중개인: 챔피언 증권 회사입니다. 계좌 번호를 알려주시겠습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고객: 562-098입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중개인: 고맙습니다. 루 씨, 뭘 도와드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고객: 27달러에 블루 칩 스틸 100주를 주문했는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중개인: 블루 칩 스틸은 28달러로 마감했습니다. 루 씨. 주문하신 가격 27달러에 살 수 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고객: 저런. 주가가 오를 거라는 생각은 했어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중개인: 주문하신 것을 취소할까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고객: 아니오. 27달러로 내일 다시 해 주세요. 고맙습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* place an order",
+          "text": "주문하다"
+        },
+        {
+          "n": "* share",
+          "text": "주식"
+        },
+        {
+          "n": "1) broker",
+          "text": "주식 중개인"
+        },
+        {
+          "n": "2) brokerage",
+          "text": "중개(업), 중매(업)"
+        },
+        {
+          "n": "3) securities",
+          "text": "증권"
+        },
+        {
+          "n": "4) account number",
+          "text": "계좌번호"
+        },
+        {
+          "n": "5) close",
+          "text": "{증권}(거래 가격이) …으로 끝나다. 마감하다"
+        },
+        {
+          "n": "6) be unable to",
+          "text": "…하는 것이 불가능하다"
+        },
+        {
+          "n": "7) fill an order",
+          "text": "주문에 응하다"
+        },
+        {
+          "n": "8) stock",
+          "text": "{경제}주식, 주"
+        },
+        {
+          "n": "9) go up",
+          "text": "(수량,가격이) 오르다"
+        },
+        {
+          "n": "10) cancel the order",
+          "text": "주문을 취소하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/101.wmv",
+  "legacyEncoding": "binary"
+}

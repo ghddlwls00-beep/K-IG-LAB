@@ -1,0 +1,47 @@
+{
+  "id": "pr197-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr197",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 197-1 ]",
+  "menuLabel": "[ pr197-1 ]",
+  "unit": 197,
+  "part": null,
+  "order": 393,
+  "audio": [
+    {
+      "src": "/audio/reading/pr197.mp3",
+      "legacySrc": "sounds/pr197.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 197-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "물론 얼마나 많이 벌 수 있느냐도 중요하지만, 그것을 무시하면 훗날 좌절감이 생길 수도 있는, 똑같이 중요한 다른 고려사항들도 있다. 진정한 흥미가 있는 곳에서 사람들은 열심히 일한다는 것을 인식하지 않고도 열심히 일을 할 수 있으며, 그러한 상황에서 성공이 따른다. 일반적으로 승진이나 월급 인상을 의미하는 성공보다 더 중요한 것은 일이 가져오는 보상뿐만 아니라 사람들이 일 자체를 위해서 즐기는 일을 하는데서 발견되는 행복이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr197-1.htm",
+  "legacyEncoding": "utf-8"
+}

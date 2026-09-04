@@ -1,0 +1,155 @@
+{
+  "id": "p16",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle16]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": null,
+  "order": 158,
+  "audio": [
+    {
+      "src": "/audio/middle/p16.mp3",
+      "legacySrc": "sounds/p16.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle16]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 16: My Other Dream Job"
+    },
+    {
+      "type": "hints",
+      "text": "I have seen on TV and read about many successful people"
+    },
+    {
+      "type": "instruction",
+      "text": "such as Bill Gates, Ban-Gi-Moon and Angelina Jolie."
+    },
+    {
+      "type": "instruction",
+      "text": "These people have influenced me a lot in one way or another."
+    },
+    {
+      "type": "instruction",
+      "text": "A few years ago, Queen Elizabeth II came to Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "She had an interpreter with her who was very professional."
+    },
+    {
+      "type": "instruction",
+      "text": "Her ability to interpret so well had a great affect on me."
+    },
+    {
+      "type": "instruction",
+      "text": "It has impressed me enough to want to become an interpreter."
+    },
+    {
+      "type": "instruction",
+      "text": "There are many reasons why I want to become an interpreter."
+    },
+    {
+      "type": "instruction",
+      "text": "First, English is the most widely used language in the world."
+    },
+    {
+      "type": "instruction",
+      "text": "So, I know that English is important."
+    },
+    {
+      "type": "instruction",
+      "text": "Second, I want to translate many interesting books"
+    },
+    {
+      "type": "instruction",
+      "text": "so that many more people can enjoy reading them."
+    },
+    {
+      "type": "instruction",
+      "text": "Furthermore, I want to write books in English, too."
+    },
+    {
+      "type": "instruction",
+      "text": "Another reason is that I want to interpret for people"
+    },
+    {
+      "type": "instruction",
+      "text": "who can’t speak English."
+    },
+    {
+      "type": "instruction",
+      "text": "Finally, if I go to another country, the people might not understand Korean,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I must learn to speak English well so that I can communicate with them"
+    },
+    {
+      "type": "instruction",
+      "text": "comfortably."
+    },
+    {
+      "type": "instruction",
+      "text": "In order to fulfill my dreams, I have to do many things."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, I will study English everyday,"
+    },
+    {
+      "type": "instruction",
+      "text": "by practicing listening and speaking."
+    },
+    {
+      "type": "instruction",
+      "text": "I will do this by going to an English Academy every day."
+    },
+    {
+      "type": "instruction",
+      "text": "When I grow up, I plan on going abroad"
+    },
+    {
+      "type": "instruction",
+      "text": "to study English in another country"
+    },
+    {
+      "type": "instruction",
+      "text": "so that I can listen and speak like a native speaker of English."
+    },
+    {
+      "type": "instruction",
+      "text": "If I really want to become a great interpreter,"
+    },
+    {
+      "type": "instruction",
+      "text": "I need to work hard at improving English from now on."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p16.htm",
+  "legacyEncoding": "utf-8"
+}

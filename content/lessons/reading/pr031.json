@@ -1,0 +1,47 @@
+{
+  "id": "pr031",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 031 ]",
+  "menuLabel": "[ pr031 ]",
+  "unit": 31,
+  "part": null,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/reading/pr031.mp3",
+      "legacySrc": "sounds/pr031.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 031 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The best equipment the young can have for the battle of life is conscience. There is no friend so good as a good conscience. There is no enemy so dangerous as a bad conscience."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr031.htm",
+  "legacyEncoding": "utf-8"
+}

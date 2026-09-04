@@ -1,0 +1,79 @@
+{
+  "id": "d072-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d072",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 072회 ]",
+  "menuLabel": "[ D 072-1 ]",
+  "unit": 72,
+  "part": null,
+  "order": 143,
+  "audio": [
+    {
+      "src": "/audio/ld/d072.mp3",
+      "legacySrc": "sounds/d072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 072회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그때 그는 한 사람이 두 번째 차량과 세 번째 차량 사이에서 기는 것을 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "Whitby는 경고를 보낼 수 있기 전에 두 사람에게 맞아 쓰러졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "Mills는 한 도로를 가로지르는 다리로 열차를 몰고가라는 명을 받았다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 그 우체부들이 있었던 그 마지막 10대의 챠량은 강도들이 분리시켜두었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 다리에서 돈가방들이 열차로부터 내려져서 기다리는 트럭들에게로 던져넣어졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 열차들의 일정을 아는 것이 분명했던 그 강도 중의 한 사람이 그의 시계를 계속 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "3시 45분에 그는 “그것으로 충분해야 할꺼야.”라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 강도들은 250만 파운드 이상을 갖고 탈출했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d072-1.htm",
+  "legacyEncoding": "utf-8"
+}

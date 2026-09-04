@@ -1,0 +1,47 @@
+{
+  "id": "pr192",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 192 ]",
+  "menuLabel": "[ pr192 ]",
+  "unit": 192,
+  "part": null,
+  "order": 382,
+  "audio": [
+    {
+      "src": "/audio/reading/pr192.mp3",
+      "legacySrc": "sounds/pr192.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 192 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Most musicians agree that the world's best violins were made in Cremona, Italy, about 300 years ago. These violins sound better than any others. They even sound better than violins made today. Violin makers and scientists now try to make instruments like the Italian violins, but they are not the same. Musicians still prefer the old ones. Why are these old Italian violins so special? No one really knows, but many people think they have an answer. Some people think it is the age of the violins. Other people say that the kind of wood is not so important and that it is more important to cut the wood in a special way."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr192.htm",
+  "legacyEncoding": "utf-8"
+}

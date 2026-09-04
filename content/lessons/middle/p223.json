@@ -1,0 +1,87 @@
+{
+  "id": "p223",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 223]",
+  "menuLabel": null,
+  "unit": 22,
+  "part": 3,
+  "order": 214,
+  "audio": [
+    {
+      "src": "/audio/middle/p223.mp3",
+      "legacySrc": "sounds/p223.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 223]"
+    },
+    {
+      "type": "instruction",
+      "text": "(At Academy)"
+    },
+    {
+      "type": "hints",
+      "text": "After school, most of my friends and I go to academies."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite academy is English."
+    },
+    {
+      "type": "instruction",
+      "text": "Everyday I go there to learn new sentences, new words,"
+    },
+    {
+      "type": "instruction",
+      "text": "and new songs."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my friends are really good at memorizing words"
+    },
+    {
+      "type": "instruction",
+      "text": "and phrase."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my friends are really good at conversational English."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a Korean for an English teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "She has studied English for many years and knows it very well."
+    },
+    {
+      "type": "instruction",
+      "text": "When she speaks, she sounds like a native English speaker."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p223.htm",
+  "legacyEncoding": "utf-8"
+}

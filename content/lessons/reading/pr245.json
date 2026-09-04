@@ -1,0 +1,51 @@
+{
+  "id": "pr245",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 245 ]",
+  "menuLabel": "[ pr245 ]",
+  "unit": 245,
+  "part": null,
+  "order": 488,
+  "audio": [
+    {
+      "src": "/audio/reading/pr245.mp3",
+      "legacySrc": "sounds/pr245.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 245 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "You are a member of your family, a player on the community baseball team, and a student in your school. You are also a citizen of your country. In short, you occupy several different positions in the complex structure of society. This means you should play many roles in different situations. Generally, you have little difficulty performing each of your roles because you know what is expected of you. This knowledge guides you through your daily interactions."
+    },
+    {
+      "type": "hints",
+      "text": "But sometimes you will get caught in a conflict. Each role of yours makes demands on you, and you may be asked to play two or more roles at the same time. When many roles make conflicting demands on you, you may feel quite uncomfortable and at times frustrated. For example, your family is going on a picnic this coming Sunday. But your best friend wants you to join his or her birthday party on the same day. When such role conflicts occur, you need to do more important things first. Thus, the ability to decide what to do in what order is an essential skill to fulfill multiple social roles"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr245.htm",
+  "legacyEncoding": "utf-8"
+}

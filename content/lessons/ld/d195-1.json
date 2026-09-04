@@ -1,0 +1,75 @@
+{
+  "id": "d195-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d195",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 195 회 ]",
+  "menuLabel": "[ D 195-1 ]",
+  "unit": 195,
+  "part": null,
+  "order": 388,
+  "audio": [
+    {
+      "src": "/audio/ld/d195.mp3",
+      "legacySrc": "sounds/d195.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 195 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "서커스하는 사람은 매일 목숨을 건다."
+    },
+    {
+      "type": "instruction",
+      "text": "한번만 미끌어지면 공중 그네 타는 사람은 떨어져 죽을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 순간 부주의하면 사자 조련사는 그의 큰 고양이 중의 한 마리가 할퀴어서 불구가 될지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 사람들은 위험에 익숙하고 그것을 당연히 여긴다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 대부분은 서커스 가족 출신이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 어린 시절부터 big-top 아래에서 공연하는 사람이 되도록 훈련받아왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대의 공예 길드의 기술처럼 그들의 기술은 세대에서 세대로 전수된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d195-1.htm",
+  "legacyEncoding": "utf-8"
+}

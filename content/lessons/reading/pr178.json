@@ -1,0 +1,51 @@
+{
+  "id": "pr178",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 178 ]",
+  "menuLabel": "[ pr178 ]",
+  "unit": 178,
+  "part": null,
+  "order": 354,
+  "audio": [
+    {
+      "src": "/audio/reading/pr178.mp3",
+      "legacySrc": "sounds/pr178.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 178 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Recently, I was in a restaurant when a woman and a young boy sat down at the neighboring table. I happened to hear their conversation, The woman asked: \"So, how have you been?\"."
+    },
+    {
+      "type": "hints",
+      "text": "And the boy, no more than seven or eight years old, replied, \"Frankly, I've been a little depressed lately.\" This remained in my mind because it strengthened my belief that children were changing. As I remember, my friend and I didn't realize we were \"depressed\" until high school. The proof of a change in children has been increasing steadily. Children don't seem childlike anymore. Children speak, dress, and behave more like adults than in the past. Little girls wearing earrings and designer dresses are not uncommon. Boys wearing hairs styles like movie stars aren't rare anymore. These changes are not without reason. In the past, children learned the secrets of adulthood very slowly. Today, however, TV, computers, and the media are pushing children into adult roles. Indeed, the amount of information available to children is quickening the beginning of adulthood."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr178.htm",
+  "legacyEncoding": "utf-8"
+}

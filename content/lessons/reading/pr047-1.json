@@ -1,0 +1,47 @@
+{
+  "id": "pr047-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr047",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 047-1 ]",
+  "menuLabel": "[ pr047-1 ]",
+  "unit": 47,
+  "part": null,
+  "order": 93,
+  "audio": [
+    {
+      "src": "/audio/reading/pr047.mp3",
+      "legacySrc": "sounds/pr047.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 047-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "정부는 기업의 우수성을 강조해 왔다. 정부는 경제가 강하게 유지되어야 한다는 점을 인식하고 이러한 우수성을 성취하기 위해 필요로 하는 것은 무엇이든지 기꺼이 제공하고 있다. 그러나 예술의 중요성, 특히 공연 예술의 중요성을 충분히 인식하지는 못하고 있다. 공연 예술 또한 우수성을 바란다. 그러나 그것을 성취하기 위해서는 재정적 도움이 필요하다. 정부의 지원이 없다면 공연 예술은 생존할 수 없다. 이것은 영화를 포함한 다른 문화 분야에도 영향을 주게 될 것이다. 만약 정부가 공연 예술을 후원하지 않는다면 이 나라는 국민들의 많은 마음과 영혼을 잃게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr047-1.htm",
+  "legacyEncoding": "utf-8"
+}

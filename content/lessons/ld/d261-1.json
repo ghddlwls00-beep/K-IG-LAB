@@ -1,0 +1,75 @@
+{
+  "id": "d261-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d261",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 261 회 ]",
+  "menuLabel": "[ D 261-1 ]",
+  "unit": 261,
+  "part": null,
+  "order": 520,
+  "audio": [
+    {
+      "src": "/audio/ld/d261.mp3",
+      "legacySrc": "sounds/d261.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 261 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서 겨울이 시작되면 햇볕비치는 플로리다나 캘리포니아로 향하는 많은 사람들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 산과 스키장으로 향하는 더 많지는 않다면 똑같이 많은 수의 사람들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 그런 인기있는 겨울 리조트는 Sun Valley이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그곳에서는 아이스 스케이팅, 스키 및 수많은 다른 겨울 여흥이 겨울 운동 열성파들을 기다린다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 Sun Valley는 비교적 따뜻해서 북극에 간 것처럼 느끼지 않고 겨울 스포츠를 즐길 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "더 강인한 사람들을 위해서는 산 속에 자리잡은 다른 겨울 리조트들이 있는데"
+    },
+    {
+      "type": "instruction",
+      "text": "그것들은 다양한 스포츠 시설들과 함께 상쾌한 겨울 날씨의 얼얼함과 쏘는 맛을 제공한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d261-1.htm",
+  "legacyEncoding": "utf-8"
+}

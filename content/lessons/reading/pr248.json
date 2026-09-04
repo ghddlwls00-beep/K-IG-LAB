@@ -1,0 +1,47 @@
+{
+  "id": "pr248",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 248 ]",
+  "menuLabel": "[ pr248 ]",
+  "unit": 248,
+  "part": null,
+  "order": 494,
+  "audio": [
+    {
+      "src": "/audio/reading/pr248.mp3",
+      "legacySrc": "sounds/pr248.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 248 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A small number of people have recognized the value of wild plants in Korea. They are fascinated by the beauty of these plants and have been motivated to conserve them after discovering the tragic realities these plants face. Because of indifference to and destruction of their natural habitats, some wild plants confront an uncertain future. Given this situation, these people have striven to conserve the wild plants growing in Korea. They have taught the public to value plant species and launched efforts to preserve wild plants for generations to come. Thanks to these efforts, more Koreans now understand the full value of their precious wild plants."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr248.htm",
+  "legacyEncoding": "utf-8"
+}

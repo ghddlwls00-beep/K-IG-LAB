@@ -1,0 +1,47 @@
+{
+  "id": "pr088",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 088 ]",
+  "menuLabel": "[ pr088 ]",
+  "unit": 88,
+  "part": null,
+  "order": 174,
+  "audio": [
+    {
+      "src": "/audio/reading/pr088.mp3",
+      "legacySrc": "sounds/pr088.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 088 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An increasing emphasis on the value of time is changing consumers’ behavior. A recent survey has found that shoppers want more time for themselves, and one way to get it is to spend less time shopping. Because of this change, shop owners are changing store designs to make shopping and consumer service easier. For example, to help busy shoppers race through the store, companies now display floor plans in many different places throughout the store. Also, they have made their stores bigger to minimize time spent shopping."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr088.htm",
+  "legacyEncoding": "utf-8"
+}

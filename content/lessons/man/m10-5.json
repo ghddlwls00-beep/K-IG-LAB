@@ -1,0 +1,118 @@
+{
+  "id": "m10-5",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m10-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 5,
+  "order": 49,
+  "audio": [
+    {
+      "src": "/audio/man/m10-5-1.mp3",
+      "legacySrc": "m10-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-5-2.mp3",
+      "legacySrc": "m10-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-5-3.mp3",
+      "legacySrc": "m10-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-5-4.mp3",
+      "legacySrc": "m10-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-5-5.mp3",
+      "legacySrc": "m10-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "2학년 후에, 나는 나의 학업으로부터 부재했고 군역 시작 전에 나는 여섯 달 동안 아르바이트를 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After my sophomore year, I took a leave of absence from my studies and got a part-time job for six months before I started my military service.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 병역은 나의 삶에서 힘든 시간이었지만 나는 많은 것을 배웠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My military service was a hard time in my life, but I learned a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 시간 동안, 나는 인내력이 많이 생겼고 나의 가족이 얼마나 중요한지에 대해서 이해했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During this time, I developed patience and an understanding of how important my family was.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "군역이 모두 끝난 후에, 나는 다시 나의 학업으로 돌아갔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After my military service was completed,10 I returned to my studies once again.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serving Time in the Military",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m10-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m10-5.swf"
+  ]
+}

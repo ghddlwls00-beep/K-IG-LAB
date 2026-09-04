@@ -1,0 +1,125 @@
+{
+  "id": "cnn084",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Australia Could Sign Uranium Deal With China",
+  "label": "Australia Could Sign Uranium Deal With China",
+  "menuLabel": "[ CNN 84 ]",
+  "unit": 84,
+  "part": null,
+  "order": 83,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn084.mp4",
+      "legacySrc": "CNN/CNN61-120/84.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Australia Could Sign Uranium Deal With China"
+    },
+    {
+      "type": "paragraph",
+      "text": "China could reach a deal to buy uranium from Australia as early as next week. Australian Prime Minister John Howard says negotiations are progressing well and a deal on the nuclear fuel could be signed after the Chinese leader arrives in Canberra, the first of April. Australia has more than 40% of the world’s known reserves of Uranium but it will only sell it to countries that have signed the Nuclear Non-Proliferation Treaty. The friendly talks highlight differences between Australia and the U.S.. The U.S. remains wary about China’s military and economic ambitions. China is expected to build at least 40 nuclear power plants over the next 20 years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "호주, 중국과 우라늄 공급 협약 체결 임박",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중국은 빠르면 다음 주, 호주와 우라늄 공급 협정을 체결할 수 있을 것으로 보입니다. 존 하워드 호주 총리는 협상이 순조롭게 진행 중이며, 4월 1일, (원자바오) 중국 총리가 캔버라에 도착하는대로, 핵연료 공급 협정이 체결될 것이라고 밝혔습니다. 호주는 전세계 우라늄인 매장량의40% 이상을 보유하고 있지만 핵확산금지조약에 서명한 국가들에게만 우라늄을 수출하고 있습니다. 이 같은 우호적인 회담은 미국과 호주의 중국에 대한 시각차를 부각시켰습니다. 미국은 국의 군사,경제적 야망에 대해 우려하는 입장을 견지하고 있습니다. 중국은 향후 20년간 최소한 40기의 핵 발전소를 건설할 것으로 예상됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘우라늄’의 영어식 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Canberra(캔버라)는 [켄브라]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ro-의 음가가 탈락되어 발음된 것에 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tr-은 [t]가 [r]의 영향을 받아 [츄]로 변형 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "and의 끝자음 [d]가 탈락되어, an처럼 들리므로 혼동하지 않도록 주의한다. economic이 모음으로 시작해 부정관사가 an처럼 들릴 수 있으므로 더욱 혼동하기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "uranium",
+          "text": "[유레니엄]."
+        },
+        {
+          "n": "Non-Proliferation Treaty",
+          "text": "[난플러퍼레이션 츄리디]."
+        },
+        {
+          "n": "and economic",
+          "text": "[앤 에커나믹]."
+        },
+        {
+          "n": "reach[sign] a deal",
+          "text": "계약[협정]을 맺다"
+        },
+        {
+          "n": "uranium",
+          "text": "우라늄: 백색광을 발하는 방사선 금속 원소로 저농축 우라늄은 핵발전용으로 고농축 우라늄은 핵무기 제조에 사용된다."
+        },
+        {
+          "n": "negotiation",
+          "text": "협상"
+        },
+        {
+          "n": "be progressing well",
+          "text": "순조롭게 진행 중이다"
+        },
+        {
+          "n": "nuclear fuel",
+          "text": "핵연료"
+        },
+        {
+          "n": "known reserves",
+          "text": "기지량[확인 매장량]: 이미 발견이 끝난 양"
+        },
+        {
+          "n": "Nuclear Non-Proliferation Treaty",
+          "text": "핵확산금지조약(NPT): 핵 확산 금지를 위해 1969년에체결된 조약으로 비핵보유국이 새로핵무기를 보유하는 것과 보유국이 비보유국에 대하여 핵무기를 양여하는 것을 동시에 금지하는 조약"
+        },
+        {
+          "n": "highlight difference",
+          "text": "차이를 부각시키다"
+        },
+        {
+          "n": "wary about",
+          "text": "…에 대해 조심스러운, 신중한"
+        },
+        {
+          "n": "military and economic ambition",
+          "text": "군사,경제적 야망"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/84.wmv",
+  "legacyEncoding": "binary"
+}

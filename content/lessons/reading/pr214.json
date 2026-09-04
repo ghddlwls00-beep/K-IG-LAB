@@ -1,0 +1,47 @@
+{
+  "id": "pr214",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 214 ]",
+  "menuLabel": "[ pr214 ]",
+  "unit": 214,
+  "part": null,
+  "order": 426,
+  "audio": [
+    {
+      "src": "/audio/reading/pr214.mp3",
+      "legacySrc": "sounds/pr214.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 214 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Though we cannot dismiss Mr. Smith’s opinion completely, his argument is not persuasive. Contrary to what Mr. Smith may believe, the role of computers in music and the performing arts has been considerable. Computer technology can improve how a work is performed, broadcast, and experienced. Composers, performers, and audience can all have digital control of their music. If today’s top rock singer released his or her next piece on the Internet, it would not only be like playing in a theater with 20 million seats, but each listener could also transform the music depending upon his or her own personal tastes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr214.htm",
+  "legacyEncoding": "utf-8"
+}

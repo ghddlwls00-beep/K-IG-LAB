@@ -1,0 +1,47 @@
+{
+  "id": "pr093",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 093 ]",
+  "menuLabel": "[ pr093 ]",
+  "unit": 93,
+  "part": null,
+  "order": 184,
+  "audio": [
+    {
+      "src": "/audio/reading/pr093.mp3",
+      "legacySrc": "sounds/pr093.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 093 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Killing animals for their fur is wrong. Consider the cute mink, the cuddly raccoon, the lovable harp seal. These animals haven't hurt us, so why should we savagely murder these adorable creature ? Think of a puppy. Picture its soulful trusting eyes. Would you want to wear Spot's hide on you back ? The answer, from any thoughtful individual, must be resounding \" No.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr093.htm",
+  "legacyEncoding": "utf-8"
+}

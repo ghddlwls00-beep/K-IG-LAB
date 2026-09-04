@@ -1,0 +1,144 @@
+{
+  "id": "gh1-079-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-079",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 079-1]",
+  "menuLabel": "[ gh1-079-1 ]",
+  "unit": 79,
+  "part": null,
+  "order": 123,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-079-1.mp3",
+      "legacySrc": "sounds/gh1-079-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 079-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 4 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Why did you beat him?"
+        },
+        {
+          "n": "2",
+          "text": "Why does he beat her?"
+        },
+        {
+          "n": "3",
+          "text": "Why was she looking at him?"
+        },
+        {
+          "n": "4",
+          "text": "Why does your sister look at me?"
+        },
+        {
+          "n": "5",
+          "text": "Why is he tired?"
+        },
+        {
+          "n": "6",
+          "text": "Why are they sad?"
+        },
+        {
+          "n": "7",
+          "text": "This is a very important problem, isn't this?"
+        },
+        {
+          "n": "8",
+          "text": "I am waiting for him."
+        },
+        {
+          "n": "9",
+          "text": "What is your friend waiting for?"
+        },
+        {
+          "n": "10",
+          "text": "You need that(the) special book, don't you?"
+        },
+        {
+          "n": "11",
+          "text": "Is she writing a book?"
+        },
+        {
+          "n": "12",
+          "text": "What book is your husband writing?"
+        },
+        {
+          "n": "13",
+          "text": "Did you call me last night?"
+        },
+        {
+          "n": "14",
+          "text": "Why did you call me last night?"
+        },
+        {
+          "n": "15",
+          "text": "Who called you last week?"
+        },
+        {
+          "n": "16",
+          "text": "Isn't this a real interview?"
+        },
+        {
+          "n": "17",
+          "text": "I didn't lose my best friend."
+        },
+        {
+          "n": "18",
+          "text": "Why don't you feel the same?"
+        },
+        {
+          "n": "19",
+          "text": "We didn't see each other for a long time, did we?"
+        },
+        {
+          "n": "20",
+          "text": "You don't remember the night, do you?"
+        },
+        {
+          "n": "21",
+          "text": "We never talked about it, did we?"
+        },
+        {
+          "n": "22",
+          "text": "How old was he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-079-1.htm",
+  "legacyEncoding": "utf-8"
+}

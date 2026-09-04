@@ -1,0 +1,139 @@
+{
+  "id": "gh2-048",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 48 ]",
+  "menuLabel": "[ 48과 영어 ]",
+  "unit": 48,
+  "part": null,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-048.mp3",
+      "legacySrc": "sounds/gh2-048.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 48 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "If I had enough money(Had I enough money), I would buy you a diamond ring."
+        },
+        {
+          "n": "2",
+          "text": "I wish I knew."
+        },
+        {
+          "n": "3",
+          "text": "If I had known your phone number(Had I known your phone number),"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "I would have given you a ring."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "4",
+          "text": "You shouldn't have done this."
+        },
+        {
+          "n": "5",
+          "text": "I wish I had a room reserved for tonight."
+        },
+        {
+          "n": "6",
+          "text": "I wish I hadn't got a ticket for running a red light."
+        },
+        {
+          "n": "7",
+          "text": "I wish this were not a formal party."
+        },
+        {
+          "n": "8",
+          "text": "The missile could have handed Argentina victory in the war."
+        },
+        {
+          "n": "9",
+          "text": "If they had had the ability to make money(Had they had the ability to make money),"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "they would have had food and clothes."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "10",
+          "text": "He should be in high school now if he had not flunked a grade. (Had he not flunked a grade, he should be in high school now.)"
+        },
+        {
+          "n": "11",
+          "text": "If the blood products had been heat treated(Had the blood product been heat treated),"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "they could not have been contaminated by the HIV virus."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "12",
+          "text": "I should have known you were lying."
+        },
+        {
+          "n": "13",
+          "text": "If only I hadn't promised him."
+        },
+        {
+          "n": "14",
+          "text": "(Were it not for the sun,) nothing could live.(If it were not for the sun,) nothing could live."
+        },
+        {
+          "n": "15",
+          "text": "Should I have been(If I had been, had I been) three minutes late, I should have missed the train."
+        },
+        {
+          "n": "16",
+          "text": "Should you not go, he would go. (If you should not go,) he would go."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-048.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "gh1-079-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-079",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 079-2]",
+  "menuLabel": "[ gh1-079-2 ]",
+  "unit": 79,
+  "part": null,
+  "order": 124,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-079-2.mp3",
+      "legacySrc": "sounds/gh1-079-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 079-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "23",
+          "text": "She misses him, doesn't she?"
+        },
+        {
+          "n": "24",
+          "text": "My dog ate all the bones, didn't it?"
+        },
+        {
+          "n": "25",
+          "text": "What is he doing?"
+        },
+        {
+          "n": "26",
+          "text": "Do you remember the accident?"
+        },
+        {
+          "n": "27",
+          "text": "Are you kidding?"
+        },
+        {
+          "n": "28",
+          "text": "You are kidding, aren't you?"
+        },
+        {
+          "n": "29",
+          "text": "When do you think about that night?"
+        },
+        {
+          "n": "30",
+          "text": "You met someone. didn't you?"
+        },
+        {
+          "n": "31",
+          "text": "He meets someone, doesn't he?"
+        },
+        {
+          "n": "32",
+          "text": "You don't understand."
+        },
+        {
+          "n": "33",
+          "text": "My parents do not understand me."
+        },
+        {
+          "n": "34",
+          "text": "Your teacher does not understand you, does he (or she)?"
+        },
+        {
+          "n": "35",
+          "text": "Did you meet her parents?"
+        },
+        {
+          "n": "36",
+          "text": "Aren't you working this weekend?"
+        },
+        {
+          "n": "37",
+          "text": "Is your boss working on Sunday?"
+        },
+        {
+          "n": "38",
+          "text": "When did we talk about this?"
+        },
+        {
+          "n": "39",
+          "text": "Who talks about this?"
+        },
+        {
+          "n": "40",
+          "text": "I am a busy girl."
+        },
+        {
+          "n": "41",
+          "text": "I had a sister."
+        },
+        {
+          "n": "42",
+          "text": "How many sisters does your mother have?"
+        },
+        {
+          "n": "43",
+          "text": "Do you like the color?"
+        },
+        {
+          "n": "44",
+          "text": "He misses her, doesn't he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-079-2.htm",
+  "legacyEncoding": "utf-8"
+}

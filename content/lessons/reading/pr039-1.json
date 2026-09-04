@@ -1,0 +1,47 @@
+{
+  "id": "pr039-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr039",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 039-1 ]",
+  "menuLabel": "[ pr039-1 ]",
+  "unit": 39,
+  "part": null,
+  "order": 77,
+  "audio": [
+    {
+      "src": "/audio/reading/pr039.mp3",
+      "legacySrc": "sounds/pr039.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 039-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "금년 사냥 사고의 수가 급증하고 있다. 희생자들은 대부분 사냥꾼들이거나 사냥감으로 오인된 등반객들이었다. 이러한 피할 수 있는 사고들에 대한 책임이 누구에게 있는가에 대한 문제들이 희생자들과 그 가족들로부터 제기되고 있다. 그들은 적절한 조치를 취하지 않은 것에 대해 정책을 비난한다. 사실상, 경찰은 자격 있는 사냥꾼들에게 허가증을 발급하고 등반객들에게는 사냥철에는 밝고 눈에 띠는 색의 옷을 입으라고 충고하고 있다. 물론 경찰이 추가적인 경고를 발하고 다른 예방적 조치들을 취해야 한다. 그러나, 자신들의 안전을 보장할 책임이 있는 사람들은 희생자들 자신이다. 그들은 평이한 복장을 한체 외따로 있을 때 깊은 숲 속에서 자신의 생명을 위험에 노출시키지 말아야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr039-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "w2-5",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w2-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 5,
+  "order": 11,
+  "audio": [
+    {
+      "src": "/audio/woman/w2-5-1.mp3",
+      "legacySrc": "w2-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-2.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-3.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-4.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-5.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-6.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "저에게는 좋은 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편, 아들, 딸, 그리고 저를 포함해서 4명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가족은 아주 친하고, 우리는 함께 시간을 보내는 것을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Introducing My Family :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "About My Daughter",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 딸은 한국 초등학교에 다니고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My daughter attends 한국 Elementary school.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 5학년입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She is in the fifth grade.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 많은 재능을 가지고 있지만 그녀는 영어 말하기에 가장 재능이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She has many talents, but she is most talented at speaking English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 그녀는 그녀의 친구들과 전화상으로 말하는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes she likes to talk to her friends on the phone.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 다른 재능은 그림그리기 그리고 피아노치기입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her other talents include drawing and playing the piano.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w2-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w2-5.swf"
+  ]
+}

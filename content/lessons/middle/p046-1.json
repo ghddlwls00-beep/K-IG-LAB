@@ -1,0 +1,79 @@
+{
+  "id": "p046-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p046",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 046-1 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 6,
+  "order": 53,
+  "audio": [
+    {
+      "src": "/audio/middle/p046.mp3",
+      "legacySrc": "sounds/p046.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 046-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 가장 나이 많은 삼촌의 재능)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 나이 많은 삼촌은 많은 기술과 재능을 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 차를 고칠 수 있고 축구를 매우 잘합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 모든 종류의 스포츠를 할 수 있고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 피아노와 기타를 꽤 잘 칩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매우 관대하고, 친절한 사람입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 그를 방문 할 때 그는 항상 저에게 캔디를 주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 영어를 아주 유창하게 말 할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 나는 그를 정말 많이 존경합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p046-1.htm",
+  "legacyEncoding": "utf-8"
+}

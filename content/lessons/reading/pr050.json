@@ -1,0 +1,47 @@
+{
+  "id": "pr050",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 050 ]",
+  "menuLabel": "[ pr050 ]",
+  "unit": 50,
+  "part": null,
+  "order": 98,
+  "audio": [
+    {
+      "src": "/audio/reading/pr050.mp3",
+      "legacySrc": "sounds/pr050.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 050 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A society lacking language would be incapable of engaging in any but the simplest of cooperative enterprises. An individual or group of individuals would have no way of planning such activities , of explaining them to others, or of directing the actions of the participants in cooperative enterprises toward the common goal. Each individual would be to a large extent dependent on his own strength and ability since he would lack the means of securing the help of others."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr050.htm",
+  "legacyEncoding": "utf-8"
+}

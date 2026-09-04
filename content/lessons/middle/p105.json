@@ -1,0 +1,63 @@
+{
+  "id": "p105",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 105 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 5,
+  "order": 112,
+  "audio": [
+    {
+      "src": "/audio/middle/p105.mp3",
+      "legacySrc": "sounds/p105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 105 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Friday Night)"
+    },
+    {
+      "type": "hints",
+      "text": "My favorite time is Friday night because it is the start of the weekend. It is the end of normal schedule of school and academies."
+    },
+    {
+      "type": "instruction",
+      "text": "I can reflect on things that did not go well and hopefully plan a better"
+    },
+    {
+      "type": "instruction",
+      "text": "new week. Before I do this, I start thinking about the fun things that"
+    },
+    {
+      "type": "instruction",
+      "text": "I have planned for the upcoming weekend 듣습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p105.htm",
+  "legacyEncoding": "utf-8"
+}

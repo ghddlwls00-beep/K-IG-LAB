@@ -1,0 +1,533 @@
+{
+  "id": "s19-4",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s19-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 4,
+  "order": 80,
+  "audio": [
+    {
+      "src": "/audio/student/s19-4-1.mp3",
+      "legacySrc": "s19-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-2.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-3.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-4.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-5.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-6.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-7.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-8.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-9.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-10.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-11.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-12.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-13.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-14.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-15.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-16.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-17.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-18.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-19.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-20.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-21.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-22.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-23.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-24.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-25.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-26.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-27.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-28.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-29.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-30.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-31.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s19-4-32.mp3",
+      "legacySrc": "s19-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Instead, they Chinese characters were used in order to write.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people couldn't read or write.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The only people who could read were the scholars or the nobility.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Up until the middle of the 15th century, Korea didn't have its own alphabet.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soon a writing system known as hangul was created.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, the Korean language is not like any other world language.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, in 1420, the current King at that time, Se-jong, asked his royal scholars to create a unique Korean alphabet.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로, 한국 언어는 어떤 다른 세계언어도 같지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "15세기 중반에 이르기까지, 한국은 고유의 문자를 가지고 있지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대신에, 쓰기 위해서 한자기 쓰여졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "읽을 수 있는 유일한 사람들은 학자와 귀족들 이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들은 읽거나 쓰기를 할 수 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나, 1420년, 그 시대의 왕이셨던 세종대왕께서 그의 충실한 학자들에게 독특한한국의 문자를 만들라고 요청했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "곧 한글이라고 알려져 있는 쓰기 시스템이 창제되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로,Finally,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국언어는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국언어는the Korean language",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 같지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 같지 않습니다. is not like",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어떤 다른 세계 언어와도",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어떤 다른 세계 언어와도 any other world language.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중반까지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중반까지Up until the middle of",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/15세기의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/15세기의the 15th century,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국은 갖지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한국은 갖지 않았습니다. Korea didn't have",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그것 고유의 문자를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그것 고유의 문자를 its own alphabet.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대신에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대신에Instead,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한자가 사용되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한자가 사용되었습니다. they Chinese characters were used",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 쓰기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 쓰기 위해서 in order to write.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들은Most people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 읽거나 쓸 수 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 읽거나 쓸 수 없었습니다. couldn't read or write.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유일한 사람들은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유일한 사람들은The only people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 읽을 수 있었던",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 읽을 수 있었던who could read",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학자들이거나 귀족들이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학자들이거나 귀족들이었습니다. were the scholars or the nobility.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 1420년에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 1420년에However, in 1420,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그당시의 왕이셨던 세종은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그당시의 왕이셨던 세종은 the current King at that time, Se-jong,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 충실한 학자들에게 부탁했습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 충실한 학자들에게 부탁했습니다. asked his royal scholars",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 만들라고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 만들라고 to create",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 독특한 한국의 문자를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 독특한 한국의 문자를 a unique Korean alphabet.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "곧 쓰기 시스템은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "곧 쓰기 시스템은Soon a writing system",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한글로 알려진",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한글로 알려진 known as hangul",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 창조되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 창조되었습니다. was created.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Language",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s19-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s19-4.swf"
+  ]
+}

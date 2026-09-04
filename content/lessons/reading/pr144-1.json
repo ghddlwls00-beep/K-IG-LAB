@@ -1,0 +1,67 @@
+{
+  "id": "pr144-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr144",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 144-1 ]",
+  "menuLabel": "[ pr144-1 ]",
+  "unit": 144,
+  "part": null,
+  "order": 287,
+  "audio": [
+    {
+      "src": "/audio/reading/pr144.mp3",
+      "legacySrc": "sounds/pr144.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 144-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "혼잡함이 우리에게 스트레스를 준다. 더 혼잡함을 느낄수록 더 스트레스를 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "일도 우리에게 스트레스를 준다. 제조업 근로자들은, 소음이나 작업 라인의 기계적"
+    },
+    {
+      "type": "instruction",
+      "text": "필요에 보조를 맞추어야 하는 것의 결과로, 심각한 건강상의 문제를 겪기 쉽다. 그"
+    },
+    {
+      "type": "instruction",
+      "text": "러나, 관계된 일의 양이 반드시 스트레스 수준을 결정하지는 않는다. 예를 들어, 항"
+    },
+    {
+      "type": "instruction",
+      "text": "공노선 통제관들은, 상대적으로 사소한 일을 장시간하는 것이 적어도, 하늘을 날고"
+    },
+    {
+      "type": "instruction",
+      "text": "있는 많은 비행기를 다룰 때 만큼, 스트레스를 준다고들 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr144-1.htm",
+  "legacyEncoding": "utf-8"
+}

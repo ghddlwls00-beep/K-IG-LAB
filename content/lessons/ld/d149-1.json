@@ -1,0 +1,83 @@
+{
+  "id": "d149-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d149",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 149 회 ]",
+  "menuLabel": "[ D 149-1 ]",
+  "unit": 149,
+  "part": null,
+  "order": 297,
+  "audio": [
+    {
+      "src": "/audio/ld/d149.mp3",
+      "legacySrc": "sounds/d149.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 149 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "인디언들이 지금 미국인 그 땅의 첫 주민이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "여전히 그 나라의 모든 부분에 살고 있는 이 원주민의 후손들이 많이(많은 수천명이) 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그 인디언들이 “유일한 진정한 미국인들”이라고 말해진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 대부분의 미국인들은 새로운 땅에서 새로운 삶을"
+    },
+    {
+      "type": "instruction",
+      "text": "발견하기 위하여 전 세계로부터 온 사람들의 후손들이다."
+    },
+    {
+      "type": "instruction",
+      "text": "북미의 동쪽 해안에 그들의 집을 이룩하기 위하여 처음에 가장"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 숫자로 온 사람들은 대부분 잉글랜드로부터 왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국이 언어가 영어이고 그것의 문화와 관습이 세상의 다른 어떤 나라보다도"
+    },
+    {
+      "type": "instruction",
+      "text": "잉글랜드의 그것과 더 흡사한 것은 그 이유 때문이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d149-1.htm",
+  "legacyEncoding": "utf-8"
+}

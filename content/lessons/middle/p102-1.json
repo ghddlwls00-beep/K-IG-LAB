@@ -1,0 +1,75 @@
+{
+  "id": "p102-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p102",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 102-1 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 2,
+  "order": 107,
+  "audio": [
+    {
+      "src": "/audio/middle/p102.mp3",
+      "legacySrc": "sounds/p102.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 102-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(한 주의 시작)"
+    },
+    {
+      "type": "instruction",
+      "text": "나에게는, 매일 월요일 아침에 일어나는 것이 매우 힘듭니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니가 일어나라고 나에게 소리칠 때,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 일어나고 싶지 않습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 좀더 오랫동안 침대에 머무르고 싶고, 그리고 몇 분 후에,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 결국 침대에서 일어납니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 일어나서 학교 갈 준비를 한 후,"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 새로운 주의 첫날이 다시 한번 이렇게 시작됩니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p102-1.htm",
+  "legacyEncoding": "utf-8"
+}

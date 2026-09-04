@@ -1,0 +1,120 @@
+{
+  "id": "gh1-059-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-059",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 058-2]",
+  "menuLabel": "[ gh1-059-2 ]",
+  "unit": 59,
+  "part": null,
+  "order": 102,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-058-2.mp3",
+      "legacySrc": "sounds/gh1-058-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 058-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "20",
+          "text": "So do I."
+        },
+        {
+          "n": "21",
+          "text": "So does my mother."
+        },
+        {
+          "n": "22",
+          "text": "She looks tired, doesn't she?"
+        },
+        {
+          "n": "23",
+          "text": "Who helps him?"
+        },
+        {
+          "n": "24",
+          "text": "Who doesn't help her?"
+        },
+        {
+          "n": "25",
+          "text": "She doesn't have it."
+        },
+        {
+          "n": "26",
+          "text": "He is coming home."
+        },
+        {
+          "n": "27",
+          "text": "Isn't he(Is he not) coming here?"
+        },
+        {
+          "n": "28",
+          "text": "She was a lady in every way."
+        },
+        {
+          "n": "29",
+          "text": "Each(Every) student has his own idea."
+        },
+        {
+          "n": "30",
+          "text": "Does each(every) student have his own plan?"
+        },
+        {
+          "n": "31",
+          "text": "Aren't you(Are you not) happy?"
+        },
+        {
+          "n": "32",
+          "text": "Didn't he(Did he not) give money to each of his sons?"
+        },
+        {
+          "n": "33",
+          "text": "Doesn't she(Does she not) give money to each of her daughters?"
+        },
+        {
+          "n": "34",
+          "text": "Does he go there every day?"
+        },
+        {
+          "n": "35",
+          "text": "Isn't he(Is he not) popular?"
+        },
+        {
+          "n": "36",
+          "text": "Weren't they(Were they not) popular?"
+        },
+        {
+          "n": "37",
+          "text": "Am I not(ain't I) famous?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-059-2.htm",
+  "legacyEncoding": "utf-8"
+}

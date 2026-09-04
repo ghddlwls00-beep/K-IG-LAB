@@ -97,8 +97,56 @@ public/
   audio/<course>/*.mp3          # copied from the archive's sounds/ folders
 ```
 
-Both are generated. Neither should be edited by hand, and `public/audio` is
-large enough that it does not belong in version control — see `.gitignore`.
+Both are generated and neither should be edited by hand — but they are treated
+differently by version control, for a measured reason.
+
+`content/` **is committed**: it is text, diffs properly, and gzips by ~88%
+(112KB of sample lessons compress to 13KB). A clone therefore builds a working
+site without needing the original archive.
+
+`public/audio` and `public/video` **are not committed**. MP3 and H.264 are
+already compressed, so there is nothing left to squeeze — measured on this
+archive:
+
+| file | gzip | xz |
+| --- | --- | --- |
+| `m1-1-1.mp3` (237KB) | −3.1% | −2.8% |
+| `c1-1.mp3` (97KB) | −1.9% | −1.9% |
+| `cnn037.mp4` (1.1MB) | −3.9% | −4.0% |
+
+Roughly 2GB of media stays roughly 2GB, permanently, in a history that clones in
+full. Compressing before commit does not change that, and decompressing on the
+way out would break HTTP range requests — which is exactly what audio seeking
+and video scrubbing depend on. So the media goes to a Cloudflare R2 bucket instead.
+
+---
+
+## Media hosting
+
+```bash
+pnpm run upload-media          # uploads public/audio and public/video to R2
+pnpm run upload-media -- --dry-run
+```
+
+1. Create an R2 bucket in the Cloudflare dashboard (**R2 Object Storage →
+   Create bucket**), or `npx wrangler r2 bucket create <name>`.
+2. Put `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` (needs "Workers R2
+   Storage: Edit") and `R2_BUCKET_NAME` in `.env.local` — see `.env.example`
+   for where to find each one.
+3. Run the upload. It skips files already there, so an interrupted run resumes,
+   and it uploads in parallel (`--concurrency N`, default 8).
+4. Make the bucket's contents servable over HTTP — either enable its r2.dev
+   URL (`npx wrangler r2 bucket dev-url enable <name>`) or bind a custom
+   domain to it — and set that URL as `NEXT_PUBLIC_MEDIA_URL`, both in
+   `.env.local` and in your deployment's project environment variables, then
+   redeploy.
+
+`src/lib/media.ts` resolves every media reference through that variable. Leave it
+unset and the app serves from `public/` exactly as before, so local development
+needs no storage account. See `.env.example`.
+
+Cloudflare R2 has no egress fees, unlike most object storage — worth knowing
+since audio/video streaming is almost entirely bandwidth.
 
 ---
 
@@ -216,9 +264,11 @@ scripts/extract.mjs        legacy HTML -> JSON pipeline
 scripts/swf-audio.mjs      pulls audio out of Flash .swf files
 scripts/legacy-menu.mjs    recovers the dropdown navigation from menu.htm
 scripts/audit.mjs          reports legacy destinations with no home here
+scripts/upload-media.mjs   pushes audio and video to Cloudflare R2
 src/lib/types.ts           content model
 src/lib/courses.ts         course taxonomy
 src/lib/content.ts         build-time JSON reader
+src/lib/media.ts           resolves media to public/ or the R2 bucket
 src/lib/tabs.ts            the legacy ten-tab navigation
 src/components/            TabBar, AudioPlayer, LessonBody, DictationPanel
 src/app/                   routes: /, /t/[tab], /[course], /[course]/[lesson]

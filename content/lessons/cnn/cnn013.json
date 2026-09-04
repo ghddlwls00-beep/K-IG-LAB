@@ -1,0 +1,463 @@
+{
+  "id": "cnn013",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "It's Good to Be the \"Sexiest Man Alive\"",
+  "label": "It's Good to Be the \"Sexiest Man Alive\"",
+  "menuLabel": "[ CNN 13 ]",
+  "unit": 13,
+  "part": null,
+  "order": 12,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn013.mp4",
+      "legacySrc": "CNN/CNN1-60/13.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "It's Good to Be the \"Sexiest Man Alive\""
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: It's a little like winning the Nobel Prize, though not as noble. For the rest of your life, you're stuck with being remembered as having once been the Sexiest Man Alive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MEL GIBSON, Actor: I was just very relieved to read that I wasn't the Sexiest Man Dead.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: This year Matthew McConaughey is giving people fever. Sexiest Man Alive is out. And you didn't win.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: Yeah, that's for sure.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Did they get in touch with you?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: No.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: What do you look like behind those sunglasses?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: Old.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: And speaking of old, Mel Gibson was the very first Sexiest Man Alive back in 1985. Though he didn't seem to appreciate People.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GIBSON: One of my favorite publications, by the way, I read it faithfully. It's always in my john.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: In his john? Nothing sexy about that image. Sean Connery was the oldest to be named sexiest at the age of 60. When JFK Jr. was cover boy, his issue sold more than any other Sexiest Man Alive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brad Pitt was the only guy to get the honor twice. This year, Brad's former wife Jennifer Aniston ended up on the cover of GQ's Men of the Year issue for exhibiting poise, grace and humor after Brad took up with Angelina Jolie.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nick Nolte learned the hard way that once you've gotten your mug on Sexiest Man of the Year, perhaps only a mug shot can eclipse it. Can you remember this one?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED WOMAN 1: Woooo, a long time ago that was my kind of guy, but I've progressed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Matthew McConaughey likewise has a mug shot. Neighbors complained about noise and police reportedly arrived to find him in the buff playing the bongos. Now that's sexy. People's latest Sexiest Man Alive issue features some smart sexy guys including CNN's own Anderson Cooper and even Patrick Fitzgerald.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED WOMAN 2: I know that name, what's he in?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: He's in the CIA leak affair. The magazine calls him a 'very special prosecutor.'",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TINA FEY, Saturday Night Live Co-Host: His clear, steady voice... piercing blue eyes... I love you Patrick Fitzgerald, because you don't lie to me... I love you!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: At a certain New York City fountain, (wait a minute), the Fountain of Youth, perhaps... we uncovered a wannabe cover boy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN 3: And I'm the sexiest man alive!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED WOMAN 3: Am I the sexiest woman?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Possibly the sexiest couple alive? This woman nominated a guy named Sotheby... sexiest dog alive?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED WOMAN 4: He's definitely, and also he's intact.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Let's hope you can say the same for Matthew and Jude and all the other cover boys. Jeanne Moos, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보기만 해도 기분 좋은 최고의 섹시남들",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 노벨상 수상과 약간 비슷하기는 하지만 그렇게 고상한 상은 아닙니다. 남은 일생 동안 그들에게는 한 때 현존하는 최고의 섹시남이었다는 꼬리표가 늘 따라다닐 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "멜 깁슨, 영화배우: 기사를 읽고는 그나마 제가 죽은 사람 중 최고의 섹시남이 아니라는 사실에 아주 안심이 되더군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 올해는 매튜 매커너히 씨가 사람들을 흥분시키고 있습니다. (올해의) 현존하는 최고의 섹시남이 발표되었습니다. 당신은 안 뽑혔군요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 1: 당연한거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: <피플> 지 기자들이 당신에게 연락 않던가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 2: 전혀요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 그 선글라스를 벗으면 어떤 모습이죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 2: 늙었죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 늙었다는 말이 나와서 하는 말이지만, 멜 깁슨 씨가 바로 과거 1985년에 선정된 초대 섹시남이었습니다. 그다지 <피플> 지(의 선택)에 고마워하는 기색은 아니었지만 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "깁슨: 어쨌든 제가 가장 즐겨 읽는 출판물 중 하나에요. 그걸 꾸준히 읽는 편이죠. 제 화장실에 늘 구비되어 있으니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 화장실에서라고요? 섹시한 구석이라고는 전혀 찾아 볼 수가 없군요. 숀 코네리는 60살 때 최고령으로 섹시남에 선정되었습니다. 존 F. 케네디 2세가 표지를 장식했던 바로 그 호는 다른 현존 최고의 섹시남들이 표지에 실렸을 때보다 높은 판매부수를 올렸습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "최고의 섹시남에 두 번이나 선정되는 영광을 차지한 남성으로는 브래드 피트가 유일합니다. 올해 그의 전 부인인 제니퍼 애니스톤은 브래드가 안젤리나 졸리와 사귀기 시작한 후에도 침착함과 기품, 유머 감각을 보여줌으로써'올해의 인물'로 선정되어 <지큐> 지의 표지를 장식했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "닉 놀테는 (멋진) 얼굴로 최고의 섹시남에 선정되었다해도 사진 한 방으로 그 이미지가 무너질 수 있다는 사실을 뼈아픈 경험을 통해 배웠습니다. 이 사진 기억나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여성 1: 우~, 예전에는 그가 제 타입이었는데, 이제 제 눈이 많이 높아졌죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 매튜 매커너히 역시 그런 사진이 있습니다. 보도에 따르면 시끄럽다는 이웃 사람들의 민원으로 경찰이 출동해 보니 그가 알몸으로 봉고를 두드리고 있었다고 하는군요. 요즘에는 바로 그런 걸 섹시하다고 하는군요. 현존하는 최고의 섹시남 목록을 발표한 <피플> 지 최신호는 앤더슨 쿠퍼 CNN기자와 패트릭 피츠제럴드처럼 똑똑하고 섹시한 남성 몇 명을 특별히 소개하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여성 2: 저도 그 이름은 알아요. 뭘 하던 사람이더라?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 그는 CIA 리크 게이트를 담당하고 있습니다. <피플> 지는 그를'아주 특별한 검사'라고 부르더군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "티나 페이, <새터데이 나이트 라이브> 공동 진행자: 그의 또렷하고 차분한 목소리… 꿰뚫어보는 듯한 푸른 눈… 패트릭 피츠제럴드, 당신을 사랑합니다. 당신은 제게 거짓말을 하지 않으니까요. 사랑해요!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 뉴욕 시의 한 분수에서, (잠깐만요), 젊음의 분수인 거 같네요. 저희는 표지를 장식하고 싶어하는 한 남자를 발견했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 3: 제가 현존하는 최고의 섹시남입니다!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여성 3: 그럼 전 최고의 섹시녀인가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 아마도 현존하는 최고의 섹시 커플이 아닐까요? 이 여성분은 소더비라는 이름을 가진 녀석을 지목했는데요, 현존하는 최고의 섹시개가 되는 건가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여성 4: 물론이죠, 게다가 이 개는 아주 완벽합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 매튜와 주드 (로), 표지를 장식한 그 외 모든 남성들에게도 동일한 말을 할 수 있기를 바라면서, 뉴욕에서CNN, 지니 무스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fever/ 극도의 흥분 (상태), 열광",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1) Nobel Prize",
+          "text": "노벨상: 물리학상, 문학상, 평화상 등 총 6개 부문에서 '인류에 가장 큰 공헌을 한 사람들'에게 매년 수여하는 세계에서 가장 권위 있는 상"
+        },
+        {
+          "n": "2) noble",
+          "text": "고상한, 숭고한; 저명한, 명성이 있는"
+        },
+        {
+          "n": "3) stick with",
+          "text": "…을 뒤따라 가다; 함께 있다; (일 따위를) 계속하다"
+        },
+        {
+          "n": "4) be relieved to",
+          "text": "…해서 안심이다, 안도하다"
+        },
+        {
+          "n": "5) Matthew McConaughey",
+          "text": "매튜 매커너히: 미국 영화배우로 액션 영화인 <사하라>와 알 파치노와 출연한 영화 <2인조 도박>, <타임 투 킬>등으로 인기를 얻었다."
+        },
+        {
+          "n": "6) give A fever",
+          "text": "A를 흥분시키다"
+        },
+        {
+          "n": "7) be out",
+          "text": "발표되다, 세상에 알려지다; (책 따위가) 출판되다"
+        },
+        {
+          "n": "8) that's for sure",
+          "text": "당연하죠, 틀림없는 사실이다"
+        },
+        {
+          "n": "9) get in touch with",
+          "text": "…와 연락하다"
+        },
+        {
+          "n": "10) speaking of",
+          "text": "…에 대해 말하자면"
+        },
+        {
+          "n": "11) appreciate",
+          "text": "…을 고맙게 생각하다, …을 감사하다"
+        },
+        {
+          "n": "12) People",
+          "text": "<피플> 지: 미국의 대중문화지로 매년 현존하는 최고의 섹시남을 선정,발표한다."
+        },
+        {
+          "n": "13) publication",
+          "text": "출판물, 간행물"
+        },
+        {
+          "n": "14) by the way",
+          "text": "그런데, 말이 난 김에, 그건 그렇고"
+        },
+        {
+          "n": "15) faithfully",
+          "text": "충실하게, 성실히"
+        },
+        {
+          "n": "16) john",
+          "text": "((속어)) 남자용 화장실 opp. jane/ 여자용 화장실"
+        },
+        {
+          "n": "17) JFK",
+          "text": "Jr. 존 F. 케네디 2세: 전 미 대통령 존 F. 케네디의 아들로 지난 1999년 7월 비행기 사고로 운명을 달리했다."
+        },
+        {
+          "n": "18) get the honor",
+          "text": "영광을 차지하다"
+        },
+        {
+          "n": "19) end up",
+          "text": "결국[마침내, 끝내] …이 되다"
+        },
+        {
+          "n": "20) GQ",
+          "text": "<지큐>: 남성을 위한 패션 잡지"
+        },
+        {
+          "n": "21) exhibit",
+          "text": "…을 과시하다, (감정,관심 따위를) 나타내다, 보이다"
+        },
+        {
+          "n": "22) poise",
+          "text": "몸가짐, 자세; 마음의 안정, 평정; 안정"
+        },
+        {
+          "n": "23) grace",
+          "text": "(태도,동작 따위의) 품위[기품] 있음, 우아, 고상, 단아함"
+        },
+        {
+          "n": "24) take up with",
+          "text": "((구어)) …와 친해지다; …와 교제를 시작하다; …에 흥미를 가지다"
+        },
+        {
+          "n": "25) learn the hard way",
+          "text": "힘든 경험을 통해 어렵게 배우다"
+        },
+        {
+          "n": "26) mug",
+          "text": "((속어)) 얼굴 사진(mug shot), 얼굴, 입; 찌푸린 얼굴; (범인의) 인상 착의"
+        },
+        {
+          "n": "27) eclipse",
+          "text": "…의 광채를 뺏다, 무색케 하다, …을 능가하다"
+        },
+        {
+          "n": "28) progress",
+          "text": "진보[발전, 발달]하다"
+        },
+        {
+          "n": "29) reportedly",
+          "text": "((문장수식)) 들리는 바에 의하면, 소문에 의하면; 보도에 의하면"
+        },
+        {
+          "n": "30) (all) in the buff",
+          "text": "((英구어)) 알몸으로"
+        },
+        {
+          "n": "31) bongo(e)s",
+          "text": "봉고 (bongo drum): 라틴 음악에 쓰이는 작은 북"
+        },
+        {
+          "n": "32) feature",
+          "text": "…을 특별 인기거리로 하다; (신문 따위가) …을 특종[특집]으로 하다"
+        },
+        {
+          "n": "33) Anderson Cooper",
+          "text": "앤더슨 쿠퍼: 재벌가문인 반더필트가의 후손으로 언론계에 입문한 뒤 내전과 재난 전문 취재 기자로 활동하다 최근 미국 CNN 방송의 메인 앵커로 기용됐다."
+        },
+        {
+          "n": "34) Patrick Fitzgerald",
+          "text": "패트릭 피츠제럴드: 지난 2년간 CIA 비밀요원 신분누설 사건 관련 수사를 진두지휘해온 특별검사"
+        },
+        {
+          "n": "35) CIA leak affair CIA",
+          "text": "리크 게이트: 미국 행정부의 한 인사가 발레리 플레임이라는 전 중앙정보국 비밀 정보원의 신분을 고의로 누설한 사건"
+        },
+        {
+          "n": "36) prosecutor",
+          "text": "검사, 검찰관"
+        },
+        {
+          "n": "37) clear",
+          "text": "명료한, 또렷한"
+        },
+        {
+          "n": "38) steady",
+          "text": "차분한, 침착한"
+        },
+        {
+          "n": "39) piercing",
+          "text": "(눈 따위가) 날카로운, 통찰력이 있는"
+        },
+        {
+          "n": "40) fountain",
+          "text": "분수"
+        },
+        {
+          "n": "41) uncover",
+          "text": "폭로하다, 털어놓다"
+        },
+        {
+          "n": "42) wannabe",
+          "text": "열렬한 팬[신봉자]"
+        },
+        {
+          "n": "43) nominate",
+          "text": "(사람을) (…의 후보로) 지명[추천]하다"
+        },
+        {
+          "n": "44) definitely",
+          "text": "((전적인 동의나 강한 긍정을 나타내어)) 아무렴(certainly); ((구어)) 분명히, 확실히"
+        },
+        {
+          "n": "45) intact",
+          "text": "(몸이) 건전한[완전한]; 처녀의"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/13.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p121",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 121 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 1,
+  "order": 126,
+  "audio": [
+    {
+      "src": "/audio/middle/p121.mp3",
+      "legacySrc": "sounds/p121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 121 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Vacations)"
+    },
+    {
+      "type": "hints",
+      "text": "I would like to tell you about what I do during my school vacations."
+    },
+    {
+      "type": "instruction",
+      "text": "We have two main school vacations."
+    },
+    {
+      "type": "instruction",
+      "text": "One is during the summer and one is during the winter."
+    },
+    {
+      "type": "instruction",
+      "text": "Summer vacation begins in July and the winter vacation begins in"
+    },
+    {
+      "type": "instruction",
+      "text": "December."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though we don’t go to public school during these vacations,"
+    },
+    {
+      "type": "instruction",
+      "text": "we still go to private academies."
+    },
+    {
+      "type": "instruction",
+      "text": "The best part is we have a lot more free time that we spend doing"
+    },
+    {
+      "type": "instruction",
+      "text": "things we like."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p121.htm",
+  "legacyEncoding": "utf-8"
+}

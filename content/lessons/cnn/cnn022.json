@@ -1,0 +1,420 @@
+{
+  "id": "cnn022",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Saying Goodbye to Tookie*",
+  "label": "Saying Goodbye to Tookie*",
+  "menuLabel": "[ CNN 22 ]",
+  "unit": 22,
+  "part": null,
+  "order": 21,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn022.mp4",
+      "legacySrc": "CNN/CNN1-60/22.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Saying Goodbye to Tookie*"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDREW STEVENS, CNN Anchor: Convicted killer and former U.S. gang leader Stanley 'Tookie' Williams is scheduled to be executed on Tuesday in California. But his attorneys have asked the State Supreme Court for a stay to allow new arguments to be presented. And California Governor Arnold Schwarzenegger is debating whether to commute his death sentence to life in prison. Chris Lawrence has more on Williams' life and the row surrounding his case.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHRIS LAWRENCE, CNN Correspondent: Stanley 'Tookie' Williams co-founded the Crips street gang. He robbed and murdered. He was convicted of his crimes in 1981. But from his cell on death row, Williams spent years writing children's books and preaching against gang violence.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "EDGAR MEDINA, High School Student: And if he dies, some people are not going to have the opportunity to learn from his mistakes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAWRENCE: Edgar Medina read the books and says Williams convinced him to stay in school.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MEDINA: If I would have been in a gang right now, I would probably be in jail... dead.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WESLEY MCBRIDE, Former LA City Sheriff: I heard one report where they say he saved 150,000 kids from joining gangs. That's absurd. How do you know that? It's not against the law to be a gang member. It's against the law to kill people. And that's what he is convicted of.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAWRENCE: A witness says Williams robbed and executed a 7-Eleven employee, then made fun of the man as he died. He was also convicted of gunning down an entire family... father, mother and daughter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MCBRIDE: Writing a few books doesn't exonerate you from your crimes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAWRENCE: In Williams' case, it won't. On December 13th... he's scheduled to die.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "FRED JACKSON, Youth Instructor: You'd be telling gang members or those who wanna be gang members \"don't care how you turn your life around, once you are stuck ... you are stuck.\"",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAWRENCE: No condemned murderer has been granted clemency in California since 1967. The odds are against any man even one like Tookie Williams who was nominated for a Nobel Peace Prize.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MCBRIDE: But he didn't win it. And even if he did, that means you are forgiven for murdering a whole family? No, I don't think so.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAWRENCE: Like his life, Tookie Williams' legacy will be complicated. Chris Lawrence, CNN, Los Angeles.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "투키 윌리엄스, 형장의 이슬로 사라지다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤드류 스티븐스, CNN 앵커: 확정판결을 받은 살인범이자 전직 미 갱단 두목이었던 스탠리'투키'윌리엄스의 사형 집행이 오는 화요일 캘리포니아에서 예정되어있습니다. 하지만 윌리엄스 측 변호인단은 재심 청원을 할 수 있도록 주 대법원에 (사형) 집행 연기 신청을 한 상태입니다. 게다가 아놀드 슈왈제네거 캘리포니아 주지사는 그가 받은 사형 선고를 종신형으로 감형시킬지의 여부를 두고 논의중에 있습니다. 크리스 로렌스 기자가 윌리엄스의 삶과 이번 사안을 둘러싼 논란에 대해 자세히 전해드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스 로렌스, CNN 기자: 스탠리'투키'윌리엄스는 크립스라는 거리 갱단을 공동 결성했습니다. 그는 강도와 살인과 같은 범죄를 일삼다 1981년 유죄 선고를 받았습니다. 하지만 사형수로 수감중이던 감방에서 그는 지난 수년간 아동 서적을 집필하고 갱단의 폭력에 반대하는 운동을 펼쳐 왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "에드가 메디나, 고등학생: 그가 죽는다면 사람들은 그의 실수를 통해 배울 수 있는 기회를 영원히 놓치게 될 거에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로렌스: 에드가 메디나 군는 윌리엄스가 쓴 책을 읽었으며 그의 교화 덕으로 계속 학교에 남아있을 수 있었다고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "메디나: 지금 제가 갱단에 소속되어 있었다면 아마도 저는 감옥에 있거나 죽었겠지요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "웨슬리 맥브라이드, 전 로스앤젤레스 시 보안관: 한 보고서에 따르면 그 사람 덕에 15만 명의 아이들이 갱단에 가입하지 않게 되었다고 하더군요. 터무니없는 말이죠. 그걸 어떻게 압니까? 갱단에 들어가는 게 불법이 아니라 사람을 죽이는 게 불법이죠. 그래서 그가 유죄선고를 받은 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로렌스: 한 증인에 따르면 윌리엄스는 세븐일레븐을 털고나서, 한 종업원을 살해하고는 죽어가는 사람을 희롱했다고 합니다. 게다가 그는 아버지, 어머니, 딸 등 일가족 전체를 총으로 살해한 혐의로 유죄 선고를 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥브라이드: 책을 몇 권 썼다고 해서 범죄를 용서 받는건 아닙니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로렌스: 윌리엄스의 경우, 그럴 일은 없을 겁니다. 12월 13일, 그의 사형이 집행될 예정입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "프레드 잭슨, 청소년 지도자: 갱단 멤버들이나 갱단에 들어가고 싶어하는 사람들에게\"앞으로의 삶을 바꿀려고 애쓰지마. 한번 찍히면 그걸로 끝이야.\"라고 말하는 거나 마찬가지죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로렌스: 1967년 이후 캘리포니아에서는 사형 선고를 받은 사람에게 집행이 면제된 경우는 한 번도 없었습니다. 노벨평화상 후보에까지 오른 투키 윌리엄스와 같은 사람은 물론이고 어떤 사람에 대해서도 그럴 가능성은 전혀 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥브라이드: 그가 상을 받은 것도 아니잖아요. 그리고 설령 받았다고 해도 그게 일가족을 살해한 죄를 용서받았다는 뜻이겠습니까? 전혀 그렇지 않다고 봅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로렌스: 그의 목숨을 둘러싼 논란만큼이나 투키 윌리엄스가 남기고 간 것들에 대해서도 의견이 분분할 것으로 보입니다. 로스앤젤레스에서 CNN, 크리스 로렌스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "schedule은 [쉐쥴] 혹은 [스케쥴] 두 가지로 발음된다는 것을 알아두자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 전자로, 뒷부분에서는 후자로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "기사를 들어보며 차이점을 느껴보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "execute는 [엑씨큐ㅌ]로 1음절에 강세가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex-는 [eks], [igz], [iks] 세 가지로 발음되는데, 여기서는 [eks]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[h]는 인칭대명사, 조동사, 부사 등에서 음가가 약해지는데, his도 명확히 [히ㅈ]가 아니라 약하게 is로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 attorneys가 2음절에 강세가 있어 첫 모음 a-가 거의 들리지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "and의 [æ]를 [아]로 발음하면서 the를 강하게 발음해 therow를 though 혹은 through로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "spent를 [스삔]에 가깝게 발음해 spin으로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[s] 다음에 무성음 [p], [t], [k]가 오면 발음의 편리상 각각 [ㅃ], [ㄸ], [ㄲ]로 경음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 뒤에 나오는 stuck이 [스딱]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "자칫 of 가 up 처럼 들리기 쉬우나 동사와 함께 오는 전치사를 익혀두면 혼동하지 않고 전치사를 들을 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. be convicted of/ …으로 유죄 선고를 받다, …라는 판결을 받다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. sentence/ {법률}판결, 선고, 형벌",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. death row/ (한 줄로 늘어선) 사형수 감방",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. clemency/ (죄인 등에 대한) 관대한 조치, 자비",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "scheduled to be executed",
+          "text": "[쉐쥴 두비 엑스큐티ㄷ]."
+        },
+        {
+          "n": "But his attorneys",
+          "text": "[벗이ㅈ터-니]."
+        },
+        {
+          "n": "and the row",
+          "text": "[안떠로우]."
+        },
+        {
+          "n": "spent years",
+          "text": "[스뻰 이어ㅅ]."
+        },
+        {
+          "n": "convicted of",
+          "text": "[컨빅티- 덥]."
+        },
+        {
+          "n": "* (Stanley) Tookie (Williams)",
+          "text": "(스탠리) 투키 (윌리엄스)(1953~2005): 미국내 최대 흑인갱단 '크립스'의 설립자로 1979년 일가족을 살해한 혐의로 사형판결을 받았으나 1990년 이후 반폭력 운동가로서 활동하며 많은 청소년들을 교화하기 위한 책을 저술 해왔다. 그러한 활동이 인정되어 2001년부터 5년간 노벨 평화상 후보에까지 올랐다. 그의 사형을 반대하는 수많은 사람들의 감형 운동과 탄원에도 불구하고 2005년 12월 13일, 독극물 주사에 의한 사형이 집행되었다."
+        },
+        {
+          "n": "1) convicted",
+          "text": "기소된"
+        },
+        {
+          "n": "2) be scheduled to",
+          "text": "…할 예정이다"
+        },
+        {
+          "n": "3) be executed",
+          "text": "사형이 집행되다, 사형에 처해지다"
+        },
+        {
+          "n": "4) attorney",
+          "text": "법률가, 변호사(lawyer)"
+        },
+        {
+          "n": "5) State Supreme Court",
+          "text": "주 대법원: 여기서는 캘리포니아 주 대법원을 의미한다."
+        },
+        {
+          "n": "6) stay",
+          "text": "{법률}연기, 유예, 중지"
+        },
+        {
+          "n": "7) present arguments",
+          "text": "청원하다"
+        },
+        {
+          "n": "8) Governor",
+          "text": "((미)) 주지자; 도지사"
+        },
+        {
+          "n": "9) death sentence",
+          "text": "사형 선고"
+        },
+        {
+          "n": "10) commute A to B",
+          "text": "(형벌, 의무 따위를) A에서 B로 경감하다"
+        },
+        {
+          "n": "11) life in prison",
+          "text": "종신형"
+        },
+        {
+          "n": "12) row",
+          "text": "[rau] ((구어)) 소란, 소동; 말다툼, 시끄러운 입씨름"
+        },
+        {
+          "n": "13) surrounding",
+          "text": "에워싸는; 주위의, 근처의"
+        },
+        {
+          "n": "14) Crips",
+          "text": "크립스: 로스앤젤레스를 본거지로 한 미국내 최대 흑인갱단으로 조직원 200 여명에 2만5천 여명의 동조자를 둔 것으로 알려져 있다."
+        },
+        {
+          "n": "15) rob",
+          "text": "(남으로부터 금품,권리 따위를) 빼앗다, 약탈하다, 강탈하다"
+        },
+        {
+          "n": "16) cell",
+          "text": "(수도원,교도소 따위의) 작은 방, 독방, 밀실"
+        },
+        {
+          "n": "17) on death row",
+          "text": "사형수로 수감 중인"
+        },
+        {
+          "n": "18) preach",
+          "text": "(…의 필요성을) 설명[설득, 권면]하다, 창도(唱道)하다"
+        },
+        {
+          "n": "19) convince A to",
+          "text": "A를 설득하여 …하게 하다, …하도록 설득하다"
+        },
+        {
+          "n": "20) in jail",
+          "text": "수감되어"
+        },
+        {
+          "n": "21) sheriff",
+          "text": "보안관: 군(county)의 치안 책임자"
+        },
+        {
+          "n": "22) absurd",
+          "text": "불합리한, 모순된; 어리석은, 어처구니없는, 우스운"
+        },
+        {
+          "n": "23) against the law",
+          "text": "불법인"
+        },
+        {
+          "n": "24) witness",
+          "text": "증거, 증인; 목격자"
+        },
+        {
+          "n": "25) 7-Eleven",
+          "text": "세븐일레븐: 세계 최대의 편의점 체인"
+        },
+        {
+          "n": "26) employee",
+          "text": "종업원, 고용인"
+        },
+        {
+          "n": "27) make fun of",
+          "text": "…을 놀리다, 조롱하다"
+        },
+        {
+          "n": "28) gun down",
+          "text": "총을 쏘아 쓰러뜨리다, 사살하다"
+        },
+        {
+          "n": "29) exonerate",
+          "text": "…의 혐의를 풀어주다, …의 결백[무죄]을 입증하다; …을 (의무?임무?일 따위에서) 면제하다"
+        },
+        {
+          "n": "30) instructor",
+          "text": "교사, 교관, 강사, 지도자, 가르치는 사람"
+        },
+        {
+          "n": "31) turn around",
+          "text": "방향을 바꾸다, 뒤돌아보게 하다"
+        },
+        {
+          "n": "32) stick",
+          "text": "빠져나오지 못하다, 선 채로 꼼짝 못하다, 움직이지 못하게 되다"
+        },
+        {
+          "n": "33) condemned",
+          "text": "비난받은; 유죄(특히 사형,무기형의) 선고를 받은; 사형수를 위한"
+        },
+        {
+          "n": "34) be granted clemency",
+          "text": "선처를 받다: 여기서는 '사형수가 종신형으로 감형되다'라는 뜻"
+        },
+        {
+          "n": "35) The odds are against[in favor of]",
+          "text": "…할 가능성이 없다[있다]"
+        },
+        {
+          "n": "36) legacy",
+          "text": "유산, 유물"
+        },
+        {
+          "n": "37) complicated",
+          "text": "복잡한, 뒤섞인, 착잡한"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/22.wmv",
+  "legacyEncoding": "binary"
+}

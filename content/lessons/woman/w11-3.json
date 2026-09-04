@@ -1,0 +1,163 @@
+{
+  "id": "w11-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w11-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/woman/w11-3-1.mp3",
+      "legacySrc": "w11-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-2.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-3.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-4.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-5.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-6.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w11-3-7.mp3",
+      "legacySrc": "w11-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 My Single Life :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dating",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 5년이 넘게 데이트를 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We dated over five years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남자 친구는 잘 생긴 외모는 아니지만 나를 잘 대해 주었고 나는 그것이 좋았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My boyfriend was not nice looking but he treated me very well and I liked that.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "시간이 지날수록 나는 그를 더 잘 알게 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over time I got to know him better and better.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 계속 데이트를 했으며 나는 그를 더 좋아했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We continued to date and I liked him more.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 처음 만났을 때 나는 그에게 관심이 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we met the first time I was not interested in him.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그 직장에서 근무 했을 때 나의 친구가 나에게 한 남자를 소개 시켜주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was working in that company my friend introduced me toa man.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was working in that company my friend introduced me to a man.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "We continued to date and I. I liked him more.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w11-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w11-3.swf"
+  ]
+}

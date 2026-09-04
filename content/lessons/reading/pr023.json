@@ -1,0 +1,47 @@
+{
+  "id": "pr023",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 023 ]",
+  "menuLabel": "[ pr023 ]",
+  "unit": 23,
+  "part": null,
+  "order": 44,
+  "audio": [
+    {
+      "src": "/audio/reading/pr023.mp3",
+      "legacySrc": "sounds/pr023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 023 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "For the past 25 years you have been a valued and respected employee of this company. Since you started in the mail room in 1979, your contributions to this firm have been invaluable. Your skills led to your being promoted to executive secretary in 1992. Thus, it is safe to say that without your contributions over the years, we would not be as successful as we have been. On behalf of all the executives, we wish you well and hope you enjoy your well-earned retirement."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr023.htm",
+  "legacyEncoding": "utf-8"
+}

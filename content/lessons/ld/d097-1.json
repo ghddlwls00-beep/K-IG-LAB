@@ -1,0 +1,79 @@
+{
+  "id": "d097-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d097",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 097회 ]",
+  "menuLabel": "[ D 097-1 ]",
+  "unit": 97,
+  "part": null,
+  "order": 193,
+  "audio": [
+    {
+      "src": "/audio/ld/d097.mp3",
+      "legacySrc": "sounds/d097.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 097회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "공기 오염은 오늘 날 세계에서 가장 심각한 문제 중의 하나이다."
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 개스와 연기를 만들어내는 기계로 공기를 더럽게 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "심하게 오염된 공기는 병과 심지어는 죽음을 초래할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "누구나 오염을 중단시키기를 원하지만 그것은 해결하기에 어려운 문제이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 오염의 대부분은 사람들이 필요로 하는 것들에 의하여 야기된다."
+    },
+    {
+      "type": "instruction",
+      "text": "자동차와 비행기가 오염을 야기하지만 그들은 또 사람들에게 교통을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "공장도 공기 오염을 초래하지만 사람들에게 직장과 제품도 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "복잡한 도시에서 매일 수천개의 자동차와 공장이 수톤의 오염을 공기에 더할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d097-1.htm",
+  "legacyEncoding": "utf-8"
+}

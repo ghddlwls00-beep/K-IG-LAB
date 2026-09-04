@@ -1,0 +1,118 @@
+{
+  "id": "m12-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m12-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 2,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/man/m12-2-1.mp3",
+      "legacySrc": "m12-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-2-2.mp3",
+      "legacySrc": "m12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-2-3.mp3",
+      "legacySrc": "m12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-2-4.mp3",
+      "legacySrc": "m12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-2-5.mp3",
+      "legacySrc": "m12-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "결혼 2 년 후, 우리는 첫째 아이를 가졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After two years of marriage, we had our first baby.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 좋은 부모가 되기 위해 열심히 일했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We worked hard to become good parents.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 아이들을 키우는 것은 매우 어려워서 우리는 책을 읽으려 시도했고 가족들과 친구들에게 좋은 부모가 되는 기술에 대해서 물었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It was sometimes very difficult to raise our children, so we tried to read up and ask our family and friends about good parenting skills.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "결국, 우리의 아이들은 꽤 좋아졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over all, our children turned out pretty good.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "12 Married Life :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Starting a Family",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m12-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m12-2.swf"
+  ]
+}

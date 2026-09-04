@@ -1,0 +1,47 @@
+{
+  "id": "pr101-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr101",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 101-1 ]",
+  "menuLabel": "[ pr101-1 ]",
+  "unit": 101,
+  "part": null,
+  "order": 201,
+  "audio": [
+    {
+      "src": "/audio/reading/pr101.mp3",
+      "legacySrc": "sounds/pr101.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 101-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "수세기 동안 우리는 신체적인 몸이라는 측면에서만 건강을 생각하는 경향이 있어 왔다. 의학계는 우리의 마음이 병과 치료에 중요한 역할을 할 수 있는 가능성을 진지하게 생각하지 않았다. 그러나 최근에는 우리 마음이 병과 치료에 영향을 미친다는 것을 증명하는 많은 연구가 있다. 어떤 의료 기관에서는 환자의 반 이상이 어떤 신체 기관의 병을 가지고 있는 것이 아니라 심리적인 도움을 찾으려는 사람들이라고 보고했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr101-1.htm",
+  "legacyEncoding": "utf-8"
+}

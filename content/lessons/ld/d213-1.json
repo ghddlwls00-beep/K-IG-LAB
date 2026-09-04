@@ -1,0 +1,79 @@
+{
+  "id": "d213-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d213",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 213 회 ]",
+  "menuLabel": "[ D 213-1 ]",
+  "unit": 213,
+  "part": null,
+  "order": 424,
+  "audio": [
+    {
+      "src": "/audio/ld/d213.mp3",
+      "legacySrc": "sounds/d213.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 213 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "동물이 동물원의 유일한 흥미로운 특징은 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "동물원을 방문하러 가는 사람들은 그들 자신의 권리로 매혹적이다."
+    },
+    {
+      "type": "instruction",
+      "text": "동물원 관리들은 사람들이 표지를 읽지 못하는 것 같이 보인다고 자주 불평한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 정반대의 표지가 분명히 붙어있는데도 동물에게 먹을 것을 주는 것을 고집한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그런 사람들은 고의적으로 심술궂으려고 노력하고 있는 것이 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 단지 친절하려고 노력하고 있다. 그러나 그들이 그 동물에게 가장 유익한 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "정말로 생각한다면 그들은 동물에게 먹이를 주는 것을 삼갈 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "동물에게 그릇된 종류의 음식을 먹임으로써 그들은 문자 그대로 친절로 동물을 잡을 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d213-1.htm",
+  "legacyEncoding": "utf-8"
+}

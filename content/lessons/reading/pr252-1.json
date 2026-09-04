@@ -1,0 +1,47 @@
+{
+  "id": "pr252-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr252",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 252-1 ]",
+  "menuLabel": "[ pr252-1 ]",
+  "unit": 252,
+  "part": null,
+  "order": 503,
+  "audio": [
+    {
+      "src": "/audio/reading/pr252.mp3",
+      "legacySrc": "sounds/pr252.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 252-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "시장 연구자들은, 나이든 사람들은 자신이 실제보다 훨씬 더 젊다고 생각한다고 종종 말한다. 실제로, 연구는 나이가 신체의 상태보다 마음의 상태를 가리킨다는 일반적인 생각을 확신시켜 준다. 사람의 수명이나 삶의 질은 나이보다 정신적인 시야나 정신 활동의 정도와 훨씬 많은 관련이 있다. 최근의 한 연구에 따르면, 체감 나이는 실제 나이보다 회색 시장에서 마케팅의 성공을 예측하는 데 더 도움이 된다. 이러한 이유로, 많은 마케팅 담당자들은 매매 촉진 운동에서 체감 나이에 초점을 맞춘다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr252-1.htm",
+  "legacyEncoding": "utf-8"
+}

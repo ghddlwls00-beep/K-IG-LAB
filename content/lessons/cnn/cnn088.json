@@ -1,0 +1,133 @@
+{
+  "id": "cnn088",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Charles And Camilla Begin Visit in Punjab",
+  "label": "Charles And Camilla Begin Visit in Punjab",
+  "menuLabel": "[ CNN 88 ]",
+  "unit": 88,
+  "part": null,
+  "order": 87,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn088.mp4",
+      "legacySrc": "CNN/CNN61-120/88.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Charles And Camilla Begin Visit in Punjab"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Prince of Wales, Prince Charles and the Duchess of Cornwall have begun a tour of the northern Indian state of Punjab. The Prince inaugurated a new foundation devoted to organic farming. The heir to the British throne and his wife, Camilla Parker-Bowles, also took in a mock village that represented the village way of life in Punjab. Charles and Camilla are on a six-day tour of India, once dubbed the Jewel in the Crown of the British Empire. Charles famously visited the country with his late wife, first wife, Diana in 1992.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "찰스 왕세자 내외 인도 펀자브 주 방문",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "웨일스 왕자인 영국 찰스 왕세자와 콘월 공작부인이 인도 북부 펀자브 주 방문을 시작했습니다. 찰스 왕세자는 한 유기 농법 재단을 새롭게 발족시켰습니다. 영국 왕위 계승자인 찰스 왕세자와 아내인 카밀라 파커 볼스 공작부인은 펀자브 주 마을의 생활 양식을 재현한 모형 마을도 방문했습니다. 찰스 왕세자 내외는 한때 대영제국 ‘왕관의 보석’으로 불렸던 인도를 6일 일정으로 방문 중입니다. 찰스 왕세자가 지난 1992년 첫 번째 전 부인인 고 다이애나 왕세자비와 함께 인도를 방문한 것도 널리 알려져 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[h]가 묵음인 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "air와 동음 이의어로 항상 혼동되지만, 문맥을 고려해 어떤 단어가 맞는지 판단해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ed와 the가 조음위치가 비슷해 한 번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "jewel은 [쥬얼]이 아닌 [쥴-]로 축약되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. mock/ 모형의",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "The heir",
+          "text": "[디에어]."
+        },
+        {
+          "n": "once dubbed the Jewel",
+          "text": "[원ㅆ답더쥴-]."
+        },
+        {
+          "n": "the Prince of Wales",
+          "text": "웨일스 왕자: 영국 찰스 왕세자의 공식직함"
+        },
+        {
+          "n": "the Duchess of Cornwall",
+          "text": "콘월 공작부인: 카밀라 파커 볼스가 찰스 왕세자와 결혼하면서 받은 직위"
+        },
+        {
+          "n": "begin a tour of",
+          "text": "…의 방문을 시작하다"
+        },
+        {
+          "n": "inaugurate",
+          "text": "발족시키다, 개시하다"
+        },
+        {
+          "n": "foundation",
+          "text": "재단"
+        },
+        {
+          "n": "devoted to",
+          "text": "…에 헌신적인, 열심인"
+        },
+        {
+          "n": "organic farming",
+          "text": "유기농법"
+        },
+        {
+          "n": "heir to the throne",
+          "text": "왕위계승자"
+        },
+        {
+          "n": "take in",
+          "text": "…을 방문하다, 구경하다"
+        },
+        {
+          "n": "mock village",
+          "text": "모형마을"
+        },
+        {
+          "n": "represent",
+          "text": "…을 묘사하다"
+        },
+        {
+          "n": "dub A B",
+          "text": "A에게 B라는 별명을 붙이다"
+        },
+        {
+          "n": "the Jewel in the Crown of the British Empire",
+          "text": "대영제국 ‘왕관의보석’"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/88.wmv",
+  "legacyEncoding": "binary"
+}

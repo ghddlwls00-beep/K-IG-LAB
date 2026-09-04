@@ -1,0 +1,151 @@
+{
+  "id": "cnn028",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Clinton Heats Up Climate Conference",
+  "label": "Clinton Heats Up Climate Conference",
+  "menuLabel": "[ CNN 28 ]",
+  "unit": 28,
+  "part": null,
+  "order": 27,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn028.mp4",
+      "legacySrc": "CNN/CNN1-60/28.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Clinton Heats Up Climate Conference"
+    },
+    {
+      "type": "paragraph",
+      "text": "Former U.S. President Bill Clinton is urging other countries to work with the U.S. on its environmental policy. Clinton spoke to delegates from some 200 nations as they wrapped up a climate change conference in Canada. The conference focused on plans to cut greenhouse emissions beyond a 2012 Kyoto commitment. The U.S. did not agree with the Kyoto Protocol because of concerns it would damage the economy. Clinton told the conference he believes those concerns are deadly wrong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "클린턴, 기후변화회의에서 적극적인 참여 강조",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빌 클린턴 전 미 대통령이 여타 국가들에게 미국의 환경보호 정책에 동참해 줄 것을 촉구하고 나섰습니다. 클린턴 전 대통령은 캐나다에서 열리고 있는 기후변화회의 마지막 날, 200여 회원국 대표단 앞에서 연설을 했습니다. 이번 회의에서는 교토의 정서가 2012년에 목표로 한 수치 이상으로 온실가스 배출량을 감축하는 계획이 중점적으로 논의됐습니다. 미국은 자국이 입을 경제적 타격을 우려하여 교토의 정서에 합의하지 않았습니다. 클린턴 전 대통령은 이번 회의에서, 이 같은 (미국의) 우려는 순전히 기우에 지나지 않는 것으로 생각한다고 말했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "복수형 -es의 발음이 들리지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "명사일 때는 [델리것], 동사일 때는 [델리게이ㅌ]로 발음되는 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세 단어가 ‘자음+모음’으로 연음되어 한 단어처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "emission의 e-가 강세를 받지 못해 약화되어mission과 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "beyond a는 서로 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. emission/ 배기, 배출, 방출",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. commitment/ 약속 사항: 여기서는 온실가스 감축치를 의미",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "delegates",
+          "text": "[델리겟]."
+        },
+        {
+          "n": "wrapped up a",
+          "text": "[뢥더버]."
+        },
+        {
+          "n": "emissions beyond a",
+          "text": "[(으)미션비연더]."
+        },
+        {
+          "n": "2012 Kyoto commitment",
+          "text": "2012를 연도를 읽는 원칙대로 twenty twelve로 읽고 있다. Kyoto commitment은 [쿄오로 커미ㅌ먼]으로 발음된다."
+        },
+        {
+          "n": "heat up",
+          "text": "한층 활기를 띠게 하다, 점점 뜨거워지게 하다"
+        },
+        {
+          "n": "urge A to B",
+          "text": "A에게 B하도록 촉구하다"
+        },
+        {
+          "n": "environmental",
+          "text": "환경보호의, 환경 친화적인"
+        },
+        {
+          "n": "delegate",
+          "text": "대표, 사절; 대리인"
+        },
+        {
+          "n": "wrap up",
+          "text": "…을 마치다, 마무리 짓다"
+        },
+        {
+          "n": "focus on",
+          "text": "(주의, 관심을) …에 집중시키다"
+        },
+        {
+          "n": "cut",
+          "text": "줄이다, 감축하다"
+        },
+        {
+          "n": "beyond",
+          "text": "…(보다) 이상으로; ((시간)) …을 지나서, …보다 늦게"
+        },
+        {
+          "n": "greenhouse emission",
+          "text": "온실가스 배출"
+        },
+        {
+          "n": "a 2012 Kyoto commitment",
+          "text": "2012년 교토의정서 합의사항: 온실감축 목표에 관한 의정서인 교토의정서에 따라 각국은 2012년까지 당사국의 감축량만큼 온실가스를 줄여야 한다."
+        },
+        {
+          "n": "protocol",
+          "text": "의정서, 조약원안; 국가간의 협정"
+        },
+        {
+          "n": "damage",
+          "text": "손해[손상]을 입히다"
+        },
+        {
+          "n": "deadly",
+          "text": "완전히, 전적으로, 매우(dead)"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/28.wmv",
+  "legacyEncoding": "binary"
+}

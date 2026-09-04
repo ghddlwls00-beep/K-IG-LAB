@@ -1,0 +1,88 @@
+{
+  "id": "hv-22",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-22 ]",
+  "unit": 22,
+  "part": null,
+  "order": 141,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-22.mp3",
+      "legacySrc": "sounds/hv-22.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "broadcast",
+          "broadcaster",
+          "precede",
+          "precedent",
+          "unprecedented",
+          "access"
+        ],
+        [
+          "accessible",
+          "concentrate",
+          "concentration",
+          "eccentric",
+          "exceed",
+          "excess"
+        ],
+        [
+          "excessive",
+          "succeed",
+          "success",
+          "successful",
+          "succession",
+          "successive"
+        ],
+        [
+          "successor",
+          "cease",
+          "ceaseless",
+          "incessant",
+          "predecessor",
+          "proceed"
+        ],
+        [
+          "proceeding",
+          "procedure",
+          "procession",
+          "process",
+          "discern",
+          "concern"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-22 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-22.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr085-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr085",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 085-1 ]",
+  "menuLabel": "[ pr085-1 ]",
+  "unit": 85,
+  "part": null,
+  "order": 169,
+  "audio": [
+    {
+      "src": "/audio/reading/pr085.mp3",
+      "legacySrc": "sounds/pr085.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 085-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "점은 인간의 피부에 있는 검은 반점이다. 그것들은 밝은 갈색에서부터 어두운 갈색이나 검정 색까지 다양하다. 거의 모든 사람들은 적어도 한 개의 점을 갖고 있다. 고대의 미신에 따르면 점은 사람의 성격을 나타낸다. 예를 들어, 코에 있는 점은 그가 의지가 강하고 믿을 수 있다는 것을 의미한다. 점들은 또한 미래를 예언해준다고 믿어진다. 오른쪽 눈썹 위의 점은 그가 금전 운이 있을 것이고 성공적인 직업을 가질 것임을 의미한다. 그러나 손에 있는 점이 가장 좋다. 그것은 재능과 건강과 행복을 예측해준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr085-1.htm",
+  "legacyEncoding": "utf-8"
+}

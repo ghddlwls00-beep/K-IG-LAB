@@ -1,0 +1,140 @@
+{
+  "id": "gh1-055-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-055",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 055-2]",
+  "menuLabel": "[ gh1-055-2 ]",
+  "unit": 55,
+  "part": null,
+  "order": 90,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-055-2.mp3",
+      "legacySrc": "sounds/gh1-055-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 055-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "24",
+          "text": "He knows it."
+        },
+        {
+          "n": "25",
+          "text": "They know me."
+        },
+        {
+          "n": "26",
+          "text": "You know him."
+        },
+        {
+          "n": "27",
+          "text": "Do I know him?"
+        },
+        {
+          "n": "28",
+          "text": "Does he want it?"
+        },
+        {
+          "n": "29",
+          "text": "Do you want it?"
+        },
+        {
+          "n": "30",
+          "text": "I wanted it."
+        },
+        {
+          "n": "31",
+          "text": "I loved him."
+        },
+        {
+          "n": "32",
+          "text": "He knew it."
+        },
+        {
+          "n": "33",
+          "text": "They wanted it."
+        },
+        {
+          "n": "34",
+          "text": "You loved me."
+        },
+        {
+          "n": "35",
+          "text": "Did I want it?"
+        },
+        {
+          "n": "36",
+          "text": "Did he want money?"
+        },
+        {
+          "n": "37",
+          "text": "Did they want water?"
+        },
+        {
+          "n": "38",
+          "text": "Wasn't there water?"
+        },
+        {
+          "n": "39",
+          "text": "Weren't there girls?"
+        },
+        {
+          "n": "40",
+          "text": "Didn't I have money?"
+        },
+        {
+          "n": "41",
+          "text": "Didn't you have a vision?"
+        },
+        {
+          "n": "42",
+          "text": "Didn't he have lunch?"
+        },
+        {
+          "n": "43",
+          "text": "Didn't they have dinner?"
+        },
+        {
+          "n": "44",
+          "text": "Didn't you love her?"
+        },
+        {
+          "n": "45",
+          "text": "Didn't he know her?"
+        },
+        {
+          "n": "46",
+          "text": "Didn't they know me?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-055-2.htm",
+  "legacyEncoding": "utf-8"
+}

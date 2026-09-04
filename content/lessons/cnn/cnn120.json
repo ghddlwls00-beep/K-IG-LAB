@@ -1,0 +1,177 @@
+{
+  "id": "cnn120",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "I Think I’m Ready for* a New Challenge.",
+  "label": "I Think I’m Ready for* a New Challenge.",
+  "menuLabel": "[ CNN 120 ]",
+  "unit": 120,
+  "part": null,
+  "order": 119,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn120.mp4",
+      "legacySrc": "CNN/CNN61-120/120.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "I Think I’m Ready for* a New Challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: We’ve had a lot of applicants for this position, but yours is one of the best resumes I’ve ever seen.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: Thank you. I’ve been very lucky. I’ve worked in some good companies in some very good departments.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: You certainly have. Personnel, product design, advertising... the only thing you haven’t done is marketing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: I think I’m ready for a new challenge.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: You earned $45,000 as a personnel manager, but then you left that job for a product design position for $42,000.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: Yes, I’ve always liked to be creative. I really enjoyed product design.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: Why do you want to go into marketing?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Job Applicant: I think marketing will give me a chance to use all the skills I’ve acquired.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manager: Good. Thank you for coming in. We’ll be in touch with you within next three weeks.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "뭔가 새로운 일에 도전할 때인 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 이 자리에 지원자가 많은데, 이 이력서가 제가 본 것 중 제일 좋은 편이군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 감사합니다. 좋은 회사에, 좋은 부서에서만 쭉 일해 왔으니까, 운이 좋았던 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 정말 그렇군요. 인사부, 제품 디자인, 광고… 마케팅 빼고는 다 해보셨네요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 뭔가 새로운 일에 도전할 때인 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 4만5천 달러 받고 일하던 인사 부장 자리를 그만두고 4만2천 달러 받는 제품 디자인 부서로 옮기셨네요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 네. 전 항상 창조적인 일을 좋아했거든요. 제품 디자인 일은 아주 재미있었어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 마케팅 일을 하고 싶어하는 이유라도 있습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지원자: 마케팅 분야에서 일하게 되면 제가 그동안 습득한 기술들을 모두 발휘할 수 있을 것 같아서요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부장: 좋습니다. 와 주셔서 감사합니다. 3주 내로 연락 드리겠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. personnel manager/ 인사 부장",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* ready for",
+          "text": "…할 준비가 된"
+        },
+        {
+          "n": "1) applicant",
+          "text": "지원자"
+        },
+        {
+          "n": "2) department",
+          "text": "(공공기관,회사 등의) 부서"
+        },
+        {
+          "n": "3) certainly",
+          "text": "확실히, 분명히"
+        },
+        {
+          "n": "4) personnel",
+          "text": "(관청,회사 등의) 인사부"
+        },
+        {
+          "n": "5) challenge",
+          "text": "도전"
+        },
+        {
+          "n": "6) creative",
+          "text": "창조적인"
+        },
+        {
+          "n": "7) go into",
+          "text": "…에 진출하다"
+        },
+        {
+          "n": "8) give A a chance to",
+          "text": "A에게 …할 기회를 주다"
+        },
+        {
+          "n": "9) skill",
+          "text": "능력, 역량; 기술"
+        },
+        {
+          "n": "10) acquire",
+          "text": "습득하다, 배우다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/120.wmv",
+  "legacyEncoding": "binary"
+}

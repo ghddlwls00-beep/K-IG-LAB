@@ -1,0 +1,88 @@
+{
+  "id": "hv-69",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-69 ]",
+  "unit": 69,
+  "part": null,
+  "order": 188,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-69.mp3",
+      "legacySrc": "sounds/hv-69.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "abstract",
+          "extract",
+          "contract",
+          "contraction",
+          "treat",
+          "treaty"
+        ],
+        [
+          "retreat",
+          "track",
+          "trace",
+          "trail",
+          "portray",
+          "portrait"
+        ],
+        [
+          "tradition",
+          "traditional",
+          "betray",
+          "distribution",
+          "distribute",
+          "attribute"
+        ],
+        [
+          "contribution",
+          "contribute",
+          "tremendous",
+          "tremble",
+          "traitor",
+          "intrusion"
+        ],
+        [
+          "intrude",
+          "truthful",
+          "entrust",
+          "trustworthy",
+          "trust",
+          "betrayal"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-69 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-69.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr169-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr169",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 169-1 ]",
+  "menuLabel": "[ pr169-1 ]",
+  "unit": 169,
+  "part": null,
+  "order": 337,
+  "audio": [
+    {
+      "src": "/audio/reading/pr169.mp3",
+      "legacySrc": "sounds/pr169.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 169-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "고대 수메리아의 쐐기 문자는 보통의 산문을 쓰는 데 사용될 수가 없었고, 단순한 전보를 보내기 위한 속기였는데, 그것의 어휘는 이름과 수와 측정의 단위로 제한되었다. 관련된 제한은 사람들이 거의 이러한 초기의 문자를 쓰는 것을 배우지 못했다는 것이다. 쓰는 것을 아는 것은 왕이나 사원에서 일하는 전문가에게 한정되었다. 반면에 그리스의 알파벳 쓰기는 시와 유머의 수단이었고 개인 가정에서 읽혔다. 그리스 알파벳 쓰기의 최초로 보존된 예는 기원전 740년 경의 아테네 술병에 새겨진 것으로 무용 경연 대회에서 발표한 “무용가 중에 누구든지 가장 우아하게 춤추는 자가 꽃병을 상으로 얻을 것이다“라는 시의 한 구절이었다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr169-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "qa095-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa095",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 095-1 〕",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 5,
+  "order": 230,
+  "audio": [
+    {
+      "src": "/audio/basics/qa095.mp3",
+      "legacySrc": "sounds/qa095.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 095-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(오후에 3) → 당신은 몇시에 집에 돌아옵니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "111",
+          "text": "난 / 약 오후 6시에 / 집에 와."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa095-1.htm",
+  "legacyEncoding": "utf-8"
+}

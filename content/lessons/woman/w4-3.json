@@ -1,0 +1,173 @@
+{
+  "id": "w4-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w4-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 22,
+  "audio": [
+    {
+      "src": "/audio/woman/w4-3-1.mp3",
+      "legacySrc": "w4-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-2.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-3.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-4.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-5.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-6.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-7.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-8.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Introducing My Relatives :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Favorite Relative",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋아하는 친척들이 많이 있습니다. 그러나 나의 가장 좋아하는 친척은 엄마 형제인 큰 삼촌 홍길동입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have many favorite relatives, but my oldest uncle (홍길동) on my mother’s side is my most favorite one.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "홍삼촌은 마을 다른 편에 살고 계십니다. 그리고 우리 가족은 한 달에 2번 그를 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uncle (홍) lives on the other side of town, and my family visits him twice a month.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 함께 모일때 우리는 보통 외식을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we get together we usually go out for dinner.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 큰 삼촌은 많은 재능을 가지고 있습니다. 그리고 그는 아주 관대합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My oldest uncle has many talents and he is very generous.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "삼촌홍은 모든 스포츠를 잘하며 그는 피아노와 기타를 아주 잘 연주합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uncle (홍) can play all kinds of sports, and he can play the piano and guitar pretty well.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 유창하게 말 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He can speak English very fluently.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그를 무척 존경합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I really look up to and admire him a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He’s almost like a native speaker.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w4-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w4-3.swf"
+  ]
+}

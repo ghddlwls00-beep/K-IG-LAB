@@ -1,0 +1,75 @@
+{
+  "id": "p174-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p174",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 174-1 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 175,
+  "audio": [
+    {
+      "src": "/audio/middle/p174.mp3",
+      "legacySrc": "sounds/p174.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 174-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국의 발전)"
+    },
+    {
+      "type": "instruction",
+      "text": "1953년 전쟁이 끝난 이래로, 나라는 매우 빨리 발전하기 시작했고,"
+    },
+    {
+      "type": "instruction",
+      "text": "특히 1970년대에 그랬습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그때부터 지금까지, 나라는 계속 급성장 했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "1988년, 한국은 하계올림픽게임을 주최했고 2002년,"
+    },
+    {
+      "type": "instruction",
+      "text": "한국에서 월드컵 역시 개최되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 나라와 긴 역사 동안 달성해 온 것에 대해"
+    },
+    {
+      "type": "instruction",
+      "text": "매우 자랑스럽습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p174-1.htm",
+  "legacyEncoding": "utf-8"
+}

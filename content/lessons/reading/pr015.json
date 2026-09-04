@@ -1,0 +1,51 @@
+{
+  "id": "pr015",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 015 ]",
+  "menuLabel": "[ pr015 ]",
+  "unit": 15,
+  "part": null,
+  "order": 28,
+  "audio": [
+    {
+      "src": "/audio/reading/pr015.mp3",
+      "legacySrc": "sounds/pr015.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 015 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Next to worry probably one of the most potent causes of unhappiness is"
+    },
+    {
+      "type": "hints",
+      "text": "envy. Envy is, I should say, one of the most universal and deep-seated of human passions. It is very noticeable in children before they are a year old, and has to be treated with the most tender respect by every educator. The very slightest appearance of favoring one child at the expense of another is instantly observed and resented. Distributive justice, absolute, rigid and unvarying, must observed by any one who has children to deal with."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr015.htm",
+  "legacyEncoding": "utf-8"
+}

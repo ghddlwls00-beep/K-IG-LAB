@@ -1,0 +1,95 @@
+{
+  "id": "d095-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d095",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 095회 ]",
+  "menuLabel": "[ D 095-1 ]",
+  "unit": 95,
+  "part": null,
+  "order": 189,
+  "audio": [
+    {
+      "src": "/audio/ld/d095.mp3",
+      "legacySrc": "sounds/d095.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 095회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "당신은 미국에서의 Pat의 일주일에 대하여 들었습니까? 그녀는 한 컨테스트에서 수상시를 썼습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 상은 샌프랜시스코로의 여행이었다. 그녀는 10일날 저녁 9시 30분에 떠났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 11일 아침 8시 40분에 샌프랜시스코에 도착했다. 일류 호텔에서의 하루 밤이 그 상의 일부였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 그녀는 곧장 그곳으로 갔다. 그녀는 너무나 피곤해서 하루 종일 잤다."
+    },
+    {
+      "type": "instruction",
+      "text": "그날 밤 8시에 그녀는 저녁 식사를 위하여 일어났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 호텔 식당에서 식사했고 계산서가 너무나 비싸서 침대로 곧장 돌아갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "다음 날 아침 Pat는 자기 돈을 세어보았다. 그녀는 자신이 거의 충분히 가져오지 않았다는 것을 발견했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 더 싼 호텔을 발견해서 요금을 미리 지불했다. 그런 다음 자신의 현금을 다시 세어보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 하루에 한끼만 먹는 한 5일 동안 충분히 갖게 될 것이라고 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 자신의 현금의 대부분을 박물관, 극장표, 그리고 Napa Valley의 버스 관광에 썼다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 집으로 가는 비행기를 탔을 때 그녀는 피곤하고 빈털터리고 시장했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그녀는 나에게 어쨌든 즐거웠다고 말했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d095-1.htm",
+  "legacyEncoding": "utf-8"
+}

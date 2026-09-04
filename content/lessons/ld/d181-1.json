@@ -1,0 +1,107 @@
+{
+  "id": "d181-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d181",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 181 회 ]",
+  "menuLabel": "[ D 181-1 ]",
+  "unit": 181,
+  "part": null,
+  "order": 360,
+  "audio": [
+    {
+      "src": "/audio/ld/d181.mp3",
+      "legacySrc": "sounds/d181.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 181 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "왼손잡이들은 불신당하거나 불찬성과 함께 주시되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 이 부당한 태도가 점진적으로 바뀌고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 만일 당신이 왼손잡이라면 외롭거나 거부당한다고 느낄 필요가 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계의 인구의 약 1/3이 왼손잡이다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 자녀가 왼손을 사용하는 것을 자동적으로 선호하지만 대부분의 부모들은"
+    },
+    {
+      "type": "instruction",
+      "text": "더 이상 오른 손을 사용하도록 강제하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "세계의 오른손잡이들은 세계가 그것의 왼손잡이 구성원들에게 얼마나 부당해왔는지 깨닫기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "왼손잡이에게는 가위가 들지 않는다. 깡통따개는 사실상 사용불능이다."
+    },
+    {
+      "type": "instruction",
+      "text": "수동기어가 달린 자동차는 운전하기 어렵다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 마침내 “왼손잡이들”을 위한 도움이 오고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "Anything Left-Handed.Ltd.는 런던의 새 가게이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 왼손잡이들을 위하여 특별히 설계된 믿을만한 제품들을 합리적인 가격에 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 기계는 왼쪽에 태엽이 있는 시계로부터 왼손잡이 가위, 손톱깎이, 감자깎이, 펜, 골프채까지"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 것이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런데 Anything Left-handed의 주인은 오른손잡이이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d181-1.htm",
+  "legacyEncoding": "utf-8"
+}

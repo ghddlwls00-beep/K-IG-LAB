@@ -1,0 +1,196 @@
+{
+  "id": "gh1-109",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 109]",
+  "menuLabel": "[ gh1-109 ]",
+  "unit": 109,
+  "part": null,
+  "order": 153,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-109.mp3",
+      "legacySrc": "sounds/gh1-109.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 109]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "36",
+          "text": "When will they(are they going to) finish their freshman year?"
+        },
+        {
+          "n": "37",
+          "text": "They will be(become) sophomores, won't they?"
+        },
+        {
+          "n": "38",
+          "text": "It's going to(will) take time."
+        },
+        {
+          "n": "39",
+          "text": "This is a reasonably large area, isn't this?"
+        },
+        {
+          "n": "40",
+          "text": "Some day, he wants to be a language teacher."
+        },
+        {
+          "n": "41",
+          "text": "When did they have their final examinations?"
+        },
+        {
+          "n": "42",
+          "text": "Sometimes he cut classes, didn't he?"
+        },
+        {
+          "n": "43",
+          "text": "Isn't English a required subject?"
+        },
+        {
+          "n": "44",
+          "text": "German is an elective, isn't it?."
+        },
+        {
+          "n": "45",
+          "text": "How many English classes does he have a week?"
+        },
+        {
+          "n": "46",
+          "text": "When do they have to pass the final examinations?"
+        },
+        {
+          "n": "47",
+          "text": "When did he open a small grocery store in his hometown?"
+        },
+        {
+          "n": "48",
+          "text": "Within two years, he added another."
+        },
+        {
+          "n": "49",
+          "text": "Recently he opened a third, didn't he?"
+        },
+        {
+          "n": "50",
+          "text": "They do not have time to get together, do they?"
+        },
+        {
+          "n": "51",
+          "text": "Why does Phil rarely go to the shopping district?"
+        },
+        {
+          "n": "52",
+          "text": "Who likes anything sweet?"
+        },
+        {
+          "n": "53",
+          "text": "When did he recommend a nearby candy shop?"
+        },
+        {
+          "n": "54",
+          "text": "Why did the President criticize the Japanese economy severely?"
+        },
+        {
+          "n": "55",
+          "text": "When did customs agents seize the financial records?"
+        },
+        {
+          "n": "56",
+          "text": "The relief foundation is denying any link to terrorism, isn't it?"
+        },
+        {
+          "n": "57",
+          "text": "I am extremely tall, ain't I?"
+        },
+        {
+          "n": "58",
+          "text": "You are not that tall."
+        },
+        {
+          "n": "59",
+          "text": "Will I ever play in the NBA?"
+        },
+        {
+          "n": "60",
+          "text": "It is decidedly so."
+        },
+        {
+          "n": "61",
+          "text": "Why do we always stay here?"
+        },
+        {
+          "n": "62",
+          "text": "It's nicer than my place(house)."
+        },
+        {
+          "n": "63",
+          "text": "I've never seen your place(house)."
+        },
+        {
+          "n": "64",
+          "text": "They don't really come down here that much."
+        },
+        {
+          "n": "65",
+          "text": "Professor Mcarthy is going to(will) give a difficult examination."
+        },
+        {
+          "n": "66",
+          "text": "The government was freezing the assets of terrorist groups."
+        },
+        {
+          "n": "67",
+          "text": "Did the athletes deliver a peak performance?"
+        },
+        {
+          "n": "68",
+          "text": "Where are many athletes training?"
+        },
+        {
+          "n": "69",
+          "text": "How many people have skin cancer?"
+        },
+        {
+          "n": "70",
+          "text": "Hundreds of people have skin cancer, don't they?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-109.htm",
+  "legacyEncoding": "utf-8"
+}

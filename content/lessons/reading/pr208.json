@@ -1,0 +1,47 @@
+{
+  "id": "pr208",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 208 ]",
+  "menuLabel": "[ pr208 ]",
+  "unit": 208,
+  "part": null,
+  "order": 414,
+  "audio": [
+    {
+      "src": "/audio/reading/pr208.mp3",
+      "legacySrc": "sounds/pr208.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 208 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "We've known about this problem for several years. We've warned the owners and managers of the factories concerned and they have promised to install antipollution equipment as soon as they can afford to. Of course, we would like them to stop polluting the river now but we can't force them because they pay a lot of taxes and employ a lot of workers. If we made them close their factories, many people would lose their jobs."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr208.htm",
+  "legacyEncoding": "utf-8"
+}

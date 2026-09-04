@@ -1,0 +1,67 @@
+{
+  "id": "p025",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 025 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 5,
+  "order": 26,
+  "audio": [
+    {
+      "src": "/audio/middle/p025.mp3",
+      "legacySrc": "sounds/p025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 025 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Sister)"
+    },
+    {
+      "type": "hints",
+      "text": "School/Talents"
+    },
+    {
+      "type": "instruction",
+      "text": "My sister attends Han-guk Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "She is good at playing the piano,"
+    },
+    {
+      "type": "instruction",
+      "text": "and she is good at studying all kinds of subjects."
+    },
+    {
+      "type": "instruction",
+      "text": "I want her to be a good pianist. She is more talented than me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p025.htm",
+  "legacyEncoding": "utf-8"
+}

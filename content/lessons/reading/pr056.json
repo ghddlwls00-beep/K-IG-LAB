@@ -1,0 +1,55 @@
+{
+  "id": "pr056",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 056 ]",
+  "menuLabel": "[ pr056 ]",
+  "unit": 56,
+  "part": null,
+  "order": 110,
+  "audio": [
+    {
+      "src": "/audio/reading/pr056.mp3",
+      "legacySrc": "sounds/pr056.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 056 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The young should learn that no one can win all the time and that it's possible to enjoy a game even when they don't win. A child who doesn't make the baseball team feels terrible. But parents should not offer a quick prize or say, \"It doesn't matter,\" because it does. The youngster should be allowed to experience disappointment."
+    },
+    {
+      "type": "hints",
+      "text": "① disappointment ② misdeeds"
+    },
+    {
+      "type": "instruction",
+      "text": "③ delight ③ praises ⑤ patriotism"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr056.htm",
+  "legacyEncoding": "utf-8"
+}

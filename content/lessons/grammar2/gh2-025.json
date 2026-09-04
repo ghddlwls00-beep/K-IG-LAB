@@ -1,0 +1,128 @@
+{
+  "id": "gh2-025",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 25 ]",
+  "menuLabel": "[ 25과 영어 ]",
+  "unit": 25,
+  "part": null,
+  "order": 36,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-025.mp3",
+      "legacySrc": "sounds/gh2-025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 25 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Call me between 9 a.m. and 5 p.m. by day and between 8 and 11 p.m. by night."
+        },
+        {
+          "n": "2",
+          "text": "I worked at a factory by day and studied at a library bynight."
+        },
+        {
+          "n": "3",
+          "text": "May I have the day off tomorrow(have tomorrow off)?"
+        },
+        {
+          "n": "4",
+          "text": "May I have a few days off next month?"
+        },
+        {
+          "n": "5",
+          "text": "May I have this Friday off?"
+        },
+        {
+          "n": "6",
+          "text": "Will you do me a favor?"
+        },
+        {
+          "n": "7",
+          "text": "May I ask you a personal question?"
+        },
+        {
+          "n": "8",
+          "text": "I have a previous engagement."
+        },
+        {
+          "n": "9",
+          "text": "He sounded alarm."
+        },
+        {
+          "n": "10",
+          "text": "Don't take it personal."
+        },
+        {
+          "n": "11",
+          "text": "I'll take that one over there."
+        },
+        {
+          "n": "12",
+          "text": "I need a ride to the airport."
+        },
+        {
+          "n": "13",
+          "text": "Where shall we pick you up at two sharp?"
+        },
+        {
+          "n": "14",
+          "text": "Do you take credit cards?"
+        },
+        {
+          "n": "15",
+          "text": "What do I owe you?"
+        },
+        {
+          "n": "16",
+          "text": "That will be 1000 dollars."
+        },
+        {
+          "n": "17",
+          "text": "Can you come down a little?"
+        },
+        {
+          "n": "18",
+          "text": "Sorry but we don't discount."
+        },
+        {
+          "n": "19",
+          "text": "I would like to get a refund on this."
+        },
+        {
+          "n": "20",
+          "text": "I think this is defective."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-025.htm",
+  "legacyEncoding": "utf-8"
+}

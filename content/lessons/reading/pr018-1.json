@@ -1,0 +1,47 @@
+{
+  "id": "pr018-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr018",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 018-1 ]",
+  "menuLabel": "[ pr018-1 ]",
+  "unit": 18,
+  "part": null,
+  "order": 35,
+  "audio": [
+    {
+      "src": "/audio/reading/pr018.mp3",
+      "legacySrc": "sounds/pr018.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 018-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "텔레비전이 도래한 이후로 소설이 이미 죽지는 않았다 하더라도 죽어가고 있다는 소문이 있어왔다. 정말로, 전자 매체와 컴퓨터 게임이 더 영향력있게 됨에 따라 인쇄 지향적인 소설가들은 사라질 운명에 처한 것처럼 보인다. 요즈음 많은 젊은이들은 책을 읽는 것보다 인터넷을 검색하는 것을 더 좋아한다. 그리고 종종 그들이 추구하는 것은 심오한 지식이라기보다는 빠른 정보이다. 문학 소설이 멸종된 종처럼 박물관에 보존되는 구식 장르가 될 운명이 아닌지 사람들은 궁금해한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr018-1.htm",
+  "legacyEncoding": "utf-8"
+}

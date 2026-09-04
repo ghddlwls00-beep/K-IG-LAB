@@ -1,0 +1,47 @@
+{
+  "id": "pr074-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr074",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 074-1 ]",
+  "menuLabel": "[ pr074-1 ]",
+  "unit": 74,
+  "part": null,
+  "order": 147,
+  "audio": [
+    {
+      "src": "/audio/reading/pr074.mp3",
+      "legacySrc": "sounds/pr074.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 074-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "“가장 최고의 인물들은 실수로부터 형성되고, 또한 대체로 상당히 나쁘기 때문에 그만큼 더 좋은 사람이 된다고 사람들은 말한다.\"라고 셰익스피어는 Measure for Measure에 적고 있다. 그리하여, 각각의 실수는 자기 개선을 위한 주요한 기회로 간주될 수 있다. 진정으로, 실수가 크면 클수록, 일단 당신이 실수를 보충하는 법을 알기만 한다면, 당신이 보다 좋은 사람이 되게 도와줄 가능성은 더 커진다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr074-1.htm",
+  "legacyEncoding": "utf-8"
+}

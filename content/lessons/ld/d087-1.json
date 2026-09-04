@@ -1,0 +1,75 @@
+{
+  "id": "d087-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d087",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 087회 ]",
+  "menuLabel": "[ D 087-1 ]",
+  "unit": 87,
+  "part": null,
+  "order": 173,
+  "audio": [
+    {
+      "src": "/audio/ld/d087.mp3",
+      "legacySrc": "sounds/d087.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 087회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "작년에 Bruce는 휴가를 뉴올리언즈에서 보냈다. 날씨가 매우 더웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그 도시가 그렇게 붐비지 않았더라면 그는 더 즐거운 시간을 가졌을지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "어디에서나 긴 줄이 있었다. 만일 그가 그의 여행을 좀 더 조심스럽게 계획했더라면 그는 더 많은 것을 할 수 있었을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 강의 배(riverboat)를 타러 갈 수 있었을 것이며 혹은 그는 박물관들을 방문할 수 있었을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그가 표를 예약했더라면 그는 재즈 컨서트에 갈 수 있었을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 또 더 나은 호텔을 선택할 수 있었을 것이다. 그는 호텔이 더 좋았다면 더 즐겼을지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "올해에 그는 휴가를 해변에서 보낼 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d087-1.htm",
+  "legacyEncoding": "utf-8"
+}

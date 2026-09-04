@@ -1,0 +1,158 @@
+{
+  "id": "m17-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m17-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 3,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/man/m17-3-1.mp3",
+      "legacySrc": "m17-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-2.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-3.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-4.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-5.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-6.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m17-3-7.mp3",
+      "legacySrc": "m17-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "신라가 무너진 후, 많은 다른 나라들이 한국에서 힘을 얻으려 시도했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After Shilla fell, many other countries tried to gain power over Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "오래 동안, 한국은 일본에 의해 지배되었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while, Korea was ruled by Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국인들은 일본의 힘 아래에 사는 것을 좋아하지 않았고 그래서 그들은 일본인들의 지배에 저항하여 싸웠다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many Koreans did not like being under the power of Japan, so they fought against Japanese rule.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1945년에, 한국은 일본으로부터 해방했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1945, Korea was liberated from Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1950년에 북쪽과 남쪽으로부터 군대가 나눠졌을 때 남북 전쟁이 발생했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "A civil war broke out in 1950 when armies from the North invadedthe South.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "결과적으로, 한국 영토는 북한과 남한으로 나뉘어 졌다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, the Korean peninsula became divided into North andSouth Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A civil war broke out in 1950 when armies from the North invaded the South.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, the Korean peninsula became divided into North and South Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "17 The History of Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Independence of Korea and the Korean War",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m17-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m17-3.swf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d161-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d161",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 161 회 ]",
+  "menuLabel": "[ D 161-1 ]",
+  "unit": 161,
+  "part": null,
+  "order": 320,
+  "audio": [
+    {
+      "src": "/audio/ld/d161.mp3",
+      "legacySrc": "sounds/d161.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 161 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "스포츠 행사를 즐기는 사람은 모두 다 참여하기를 좋아하는 것은 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들은 직접 게임에 참석하든지, 텔레비젼으로 보든지"
+    },
+    {
+      "type": "instruction",
+      "text": "라디오로 듣든지 관객이 되는 것은 것을 선호한다."
+    },
+    {
+      "type": "instruction",
+      "text": "중요한 야구 시합이나 권투 시합이 있다면 표를 사는 것이 거의 불가능하다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 사람이 참석하기 원한다. 장기, 화투 치기, 춤추기는"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 즐기는 형태들의 실내 레크레이션이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 빠른 탁구를 하든지 브릿지 테이블에 집중하든지"
+    },
+    {
+      "type": "instruction",
+      "text": "상쾌한 가을 오후에 숲을 통하여 산책하러 가는 것이든 상관없다."
+    },
+    {
+      "type": "instruction",
+      "text": "이따금 릴랙스하고 어떤 형태의 레크레이션을 즐기는 것은 모든 사람에게 중요하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d161-1.htm",
+  "legacyEncoding": "utf-8"
+}

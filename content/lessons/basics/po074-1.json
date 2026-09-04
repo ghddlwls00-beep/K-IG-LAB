@@ -1,0 +1,60 @@
+{
+  "id": "po074-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po074",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 074-1 〕",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 4,
+  "order": 180,
+  "audio": [
+    {
+      "src": "/audio/basics/po074.mp3",
+      "legacySrc": "sounds/po074.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 074-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "84",
+          "text": "나에게는 / 한국인 영어 선생님이 / 계셔."
+        },
+        {
+          "n": "85",
+          "text": "그 분이 영어를 말씀하실 때, / 그 분은 / 원어민처럼 / 들려."
+        },
+        {
+          "n": "86",
+          "text": "난 / 그 분이 하는 것만큼 잘 / 영어를 / 말할 수 있기를 / 바래."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po074-1.htm",
+  "legacyEncoding": "utf-8"
+}

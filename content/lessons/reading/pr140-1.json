@@ -1,0 +1,75 @@
+{
+  "id": "pr140-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr140",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 140-1 ]",
+  "menuLabel": "[ pr140-1 ]",
+  "unit": 140,
+  "part": null,
+  "order": 279,
+  "audio": [
+    {
+      "src": "/audio/reading/pr140.mp3",
+      "legacySrc": "sounds/pr140.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 140-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 병원들이 유머의 병을 치유하는데 도움이 된다는 것을 인식하고, 웃"
+    },
+    {
+      "type": "instruction",
+      "text": "음을 유발하는 것을 진지하게 생각하기 시작하였다. 예를 들면, 일부 의사"
+    },
+    {
+      "type": "instruction",
+      "text": "들은 ‘움직이는 웃음’수레(웃음을 유발할 수 있는 자료를 담은 수레)를 몰"
+    },
+    {
+      "type": "instruction",
+      "text": "고 다닌다. 수레에는 다양한 종류의 웃음을 유발할 수 있는 책과 유명 코"
+    },
+    {
+      "type": "instruction",
+      "text": "미디언들이 떠들어대는 (우스꽝스러운) 이야기가 녹음된 것이 빼곡하게 채"
+    },
+    {
+      "type": "instruction",
+      "text": "워져 있다. 이런 발상은 상당한 성공을 거두었다. 그래서 최소한 건강에 관"
+    },
+    {
+      "type": "instruction",
+      "text": "련되는 직업에 종사하는 사람에게는 웃음이란 (단순하게) 웃고 넘어갈 수"
+    },
+    {
+      "type": "instruction",
+      "text": "있는 것이 아니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr140-1.htm",
+  "legacyEncoding": "utf-8"
+}

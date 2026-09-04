@@ -1,0 +1,136 @@
+{
+  "id": "gh2-024",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 24 ]",
+  "menuLabel": "[ 24과 영어 ]",
+  "unit": 24,
+  "part": null,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-024.mp3",
+      "legacySrc": "sounds/gh2-024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 24 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "She is away from her desk at the moment."
+        },
+        {
+          "n": "2",
+          "text": "The connection seems to be very bad."
+        },
+        {
+          "n": "3",
+          "text": "I'll hang up and call again."
+        },
+        {
+          "n": "4",
+          "text": "Would you mind if I ask a few questions about Korean customs?"
+        },
+        {
+          "n": "5",
+          "text": "No, I don t. Go ahead."
+        },
+        {
+          "n": "6",
+          "text": "Can you speak up, please?"
+        },
+        {
+          "n": "7",
+          "text": "I can hardly hear you."
+        },
+        {
+          "n": "8",
+          "text": "What time do you start your day?"
+        },
+        {
+          "n": "9",
+          "text": "Let's call it a day."
+        },
+        {
+          "n": "10",
+          "text": "Do you have time?"
+        },
+        {
+          "n": "11",
+          "text": "Do you have the time?"
+        },
+        {
+          "n": "12",
+          "text": "What's the date today?"
+        },
+        {
+          "n": "13",
+          "text": "What day is today?"
+        },
+        {
+          "n": "14",
+          "text": "What's the occasion?"
+        },
+        {
+          "n": "15",
+          "text": "What are we celebrating?"
+        },
+        {
+          "n": "16",
+          "text": "Why are we eating out at this expensive restaurant?"
+        },
+        {
+          "n": "17",
+          "text": "Today is our tenth wedding anniversary."
+        },
+        {
+          "n": "18",
+          "text": "How time flies!"
+        },
+        {
+          "n": "19",
+          "text": "Christmas is just around the corner."
+        },
+        {
+          "n": "20",
+          "text": "Time is really dragging for me."
+        },
+        {
+          "n": "21",
+          "text": "What day does Christmas fall on this year?"
+        },
+        {
+          "n": "22",
+          "text": "We are gonna have a three-day weekend."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-024.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p131-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p131",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 131-1 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 1,
+  "order": 137,
+  "audio": [
+    {
+      "src": "/audio/middle/p131.mp3",
+      "legacySrc": "sounds/p131.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 131-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 가장 좋아하는 종류의 책)"
+    },
+    {
+      "type": "instruction",
+      "text": "내가 어렸을 때부터, 나는 많은 사람들의 지혜에 대해서 읽을 수"
+    },
+    {
+      "type": "instruction",
+      "text": "있었기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "역사책과 소설책 읽기를 좋아하는 것을 알게 되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 이러한 역사책들을 통해서 많은 흥미로운 사람들에 대해"
+    },
+    {
+      "type": "instruction",
+      "text": "읽었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 많은 책들을 읽음으로 해서 많은 사람들을 존경하는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "배웠습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 내가 가장 좋아하는 사람에 대해 당신에게 소개하고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p131-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr092-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr092",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 092-1 ]",
+  "menuLabel": "[ pr092-1 ]",
+  "unit": 92,
+  "part": null,
+  "order": 183,
+  "audio": [
+    {
+      "src": "/audio/reading/pr092.mp3",
+      "legacySrc": "sounds/pr092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 092-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 10대들은 사마귀와 여드름을 두려워한다. 피부과학자 또는 피부과 의사는 많은 이러한 피부 질병은 실제로 두려움에 의해 생겨난다. Hilton Kline 박사는 어떤 경우에 사마귀와 여드름이 근심에 의해 생겨나는지를 보여주는 실험을 수행했다. 그의 연구 중의 하나에 의하면 대학생들이 큰 시험전에 막 여드름이 더 잘 생기는 경향이 있다. 그는 또한 사마귀는 환자가 사마귀가 떨어졌는다고 상사함으로써 최면을 통해 치료될 수 있음을 보였다. 다른 말로 하면 피부를 깨끗이 하는 열쇠는 모두 당신의 마음속에 달려있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr092-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "p251",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 251]",
+  "menuLabel": null,
+  "unit": 25,
+  "part": 1,
+  "order": 226,
+  "audio": [
+    {
+      "src": "/audio/middle/p251.mp3",
+      "legacySrc": "sounds/p251.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 251]"
+    },
+    {
+      "type": "instruction",
+      "text": "(History)"
+    },
+    {
+      "type": "hints",
+      "text": "Our country’s history began about 5,000 years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "The first country’s ancient name was Gojoson. A"
+    },
+    {
+      "type": "instruction",
+      "text": "fter it fell, the Korean peninsula was divided into three Kingdoms."
+    },
+    {
+      "type": "instruction",
+      "text": "Later these three kingdoms united as a single nation called"
+    },
+    {
+      "type": "instruction",
+      "text": "the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "After Shilla fell, many other countries tried to control Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, Korea was ruled by Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country was liberated from Japan in 1945."
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Civil War in 1950 divided the Korean peninsula"
+    },
+    {
+      "type": "instruction",
+      "text": "into North and South Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "After the war, the country developed very quickly."
+    },
+    {
+      "type": "instruction",
+      "text": "We hosted the Summer Olympic Games in 1988"
+    },
+    {
+      "type": "instruction",
+      "text": "and the World Cup in 2002."
+    },
+    {
+      "type": "instruction",
+      "text": "I am proud of what my country has accomplished"
+    },
+    {
+      "type": "instruction",
+      "text": "during its long history."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p251.htm",
+  "legacyEncoding": "utf-8"
+}

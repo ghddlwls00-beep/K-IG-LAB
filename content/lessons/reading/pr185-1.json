@@ -1,0 +1,47 @@
+{
+  "id": "pr185-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr185",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 185-1 ]",
+  "menuLabel": "[ pr185-1 ]",
+  "unit": 185,
+  "part": null,
+  "order": 369,
+  "audio": [
+    {
+      "src": "/audio/reading/pr185.mp3",
+      "legacySrc": "sounds/pr185.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 185-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "음반 가게에 들어가자마자, 사람들은 쉽게 들을 수 있는 음악에서 재즈와 고전음악까지 다양한 장르를 만나게 된다. 재즈와 고전 음악은 많은 것들을 공통점으로 가지고 있다. 하지만, 그것들은 또한 많은 차이점을 가지고 있다. 소리로 녹음하기 전에, 고전 음악은 쓰여진 악보를 통하여 전달이 된 반면에, 초기의 재즈는 주로 실제 공연에 의존했다. 고전음악에서는 작곡가들이 통제를 한다. 즉 그들은 세부적인 지시 사항이 동반된 악보를 쓴다. 반면에, 재즈에서는 공연을 하는 사람들이 종종 자신들의 멜로디를 즉석에서 만든다. 요약하자면, 고전음악과 재즈는 모두 깊이 있는 표현과 세부사항을 제공하려고 하지만, 그것들은 다른 접근법을 통해 그것들의 목표를 성취한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr185-1.htm",
+  "legacyEncoding": "utf-8"
+}

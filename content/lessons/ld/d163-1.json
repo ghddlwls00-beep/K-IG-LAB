@@ -1,0 +1,79 @@
+{
+  "id": "d163-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d163",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 163 회 ]",
+  "menuLabel": "[ D 163-1 ]",
+  "unit": 163,
+  "part": null,
+  "order": 324,
+  "audio": [
+    {
+      "src": "/audio/ld/d163.mp3",
+      "legacySrc": "sounds/d163.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 163 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 신문은 그 판이 평소보다 더 큰 특히 일요일에는 여러 섹션을 가지고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 중요한 소식이 있는 1면 이외에 스포츠면, 사회면, 만화, 연예면, 경제면, 사설이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "인구가 계속 정보를 받도록 도와주는 또 다른 형태의 출판은 잡지이다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 잡지는 주례로 출판되고 어떤 것은 월간으로 나온다."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴스 잡지, 문학 잡지가 있고 또 사진, 운동, 미술, 음악 같은 특별한 관심사들을 위한 잡지도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 잡지는 주로 남자를 위한 책이고 어떤 잡지는 여성을 위한 것이고"
+    },
+    {
+      "type": "instruction",
+      "text": "어린이의 잡지들을 선정한 것도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에는 거의 모든 취향과 관심을 위한 출판물들이 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d163-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "aw043",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 043 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 50,
+  "audio": [
+    {
+      "src": "/audio/adults/aw043.mp3",
+      "legacySrc": "sounds/aw043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 043 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Favorite Relative"
+    },
+    {
+      "type": "instruction",
+      "text": "I have many favorite relatives, but my oldest uncle (홍길동) on my mother’s side is my most favorite one."
+    },
+    {
+      "type": "instruction",
+      "text": "Uncle (홍) lives on the other side of town, and my family visits him twice a month."
+    },
+    {
+      "type": "hints",
+      "text": "When we get together we usually go out for dinner."
+    },
+    {
+      "type": "instruction",
+      "text": "My oldest uncle has many talents and he is very generous."
+    },
+    {
+      "type": "instruction",
+      "text": "Uncle (홍) can play all kinds of sports, and he can play the piano and guitar pretty well."
+    },
+    {
+      "type": "instruction",
+      "text": "He can speak English very fluently."
+    },
+    {
+      "type": "instruction",
+      "text": "He’s almost like a native speaker."
+    },
+    {
+      "type": "instruction",
+      "text": "I really look up to and admire him a lot."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw043.htm",
+  "legacyEncoding": "utf-8"
+}

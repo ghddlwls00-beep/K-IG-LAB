@@ -1,0 +1,47 @@
+{
+  "id": "pr172",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 172 ]",
+  "menuLabel": "[ pr172 ]",
+  "unit": 172,
+  "part": null,
+  "order": 342,
+  "audio": [
+    {
+      "src": "/audio/reading/pr172.mp3",
+      "legacySrc": "sounds/pr172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 172 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "It is common knowledge that ability to do a particular job and performance on the job do not always go hand in hand. Persons with great potential abilities sometimes fall down on the job because of laziness or lack of interest in the job. while persons with mediocre talents have often achieved excellent results through their industry and their loyalty to the interests of their employers. It is, therefore, that the final test of any employee is his performance on the job."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr172.htm",
+  "legacyEncoding": "utf-8"
+}

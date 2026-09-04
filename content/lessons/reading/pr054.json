@@ -1,0 +1,91 @@
+{
+  "id": "pr054",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 054 ]",
+  "menuLabel": "[ pr054 ]",
+  "unit": 54,
+  "part": null,
+  "order": 106,
+  "audio": [
+    {
+      "src": "/audio/reading/pr054.mp3",
+      "legacySrc": "sounds/pr054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 054 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In order to implement successful database marketing solutions, you need"
+    },
+    {
+      "type": "hints",
+      "text": "to know how to identify and gather relevant data about customers and"
+    },
+    {
+      "type": "instruction",
+      "text": "prospects, use data warehousing techniques to transform raw data into"
+    },
+    {
+      "type": "instruction",
+      "text": "powerful marketing information, apply statistical techniques to customer and"
+    },
+    {
+      "type": "instruction",
+      "text": "prospect databases to analyze behavior, and score individuals in terms of"
+    },
+    {
+      "type": "instruction",
+      "text": "the probability of their response. At the Database Marketing Seminar, we"
+    },
+    {
+      "type": "instruction",
+      "text": "will address these topics and more, as we introduce you to the only"
+    },
+    {
+      "type": "instruction",
+      "text": "end-to-end software solution for database marketing. By applying database"
+    },
+    {
+      "type": "instruction",
+      "text": "marketing capabilities, you can increase profits while decreasing expenses."
+    },
+    {
+      "type": "instruction",
+      "text": "You can also increase your number of customers while reducing customer"
+    },
+    {
+      "type": "instruction",
+      "text": "attrition. Come and explore this important topic in depth with SAS Institute,"
+    },
+    {
+      "type": "instruction",
+      "text": "the leader in applied analysis."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr054.htm",
+  "legacyEncoding": "utf-8"
+}

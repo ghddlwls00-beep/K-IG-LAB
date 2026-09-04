@@ -1,0 +1,103 @@
+{
+  "id": "d133-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d133",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 133 회 ]",
+  "menuLabel": "[ D 133-1 ]",
+  "unit": 133,
+  "part": null,
+  "order": 265,
+  "audio": [
+    {
+      "src": "/audio/ld/d133.mp3",
+      "legacySrc": "sounds/d133.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 133 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 올해 가족을 해외로 데려가고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내와 나와 우리의 두 자녀가 모두 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 형은 농부이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 해외에 한번도 가본 적이 없고 그는 우리와 함께 가기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 그는 그의 농장으로부터 버스 정거장으로 말을 타고 갈 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 우리 집까지 버스를 타고 올 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "이곳으로부터 우리는 모두 함께 갈 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 뉴욕으로 기차를 타고 갈 것이고 그런 다음 유럽으로 배를 타고 갈 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 유럽에 도착할 때 차를 렌트해서 우리가 원하는 어디로든지 차를 몰고 갈 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 우리는 그 차를 돌려줄 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 집으로 비행기를 타고 가려고 계획하고 있다 우리가 어디로 갈지 결정하는데 오랜 시간이 걸렸지만 나는 우리가 매우 재미있는 여행을 계획했다고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 우리는 비행기를 타고 가기를 원했는데 왜냐하면 그것이 더 빠를 것이고 경치구경할 더 많은 시간을 우리에게 줄 것이기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 나의 형은 배 여행을 하는 것을 매우 갈망하고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "아이들도 그것을 즐길 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d133-1.htm",
+  "legacyEncoding": "utf-8"
+}

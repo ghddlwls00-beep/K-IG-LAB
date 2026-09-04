@@ -1,0 +1,63 @@
+{
+  "id": "aw093",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 093 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 3,
+  "order": 95,
+  "audio": [
+    {
+      "src": "/audio/adults/aw093.mp3",
+      "legacySrc": "sounds/aw093.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 093 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Where I Grew Up)"
+    },
+    {
+      "type": "hints",
+      "text": "When I was in the 5th grade in Elementary school I moved to the city."
+    },
+    {
+      "type": "instruction",
+      "text": "I spent the rest of my school days in the big city."
+    },
+    {
+      "type": "instruction",
+      "text": "Most of my friends I made in the city."
+    },
+    {
+      "type": "instruction",
+      "text": "Although I was not born here it is my second hometown."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw093.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "cnn047",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Premier League Announces Corruption Inquiry",
+  "label": "Premier League Announces Corruption Inquiry",
+  "menuLabel": "[ CNN 47 ]",
+  "unit": 47,
+  "part": null,
+  "order": 46,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn047.mp4",
+      "legacySrc": "CNN/CNN1-60/47.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Premier League Announces Corruption Inquiry"
+    },
+    {
+      "type": "paragraph",
+      "text": "The latest and perhaps the most controversial comments, the newspaper alleges, Erikkson made surrounded illegal payments or bongs at English Premiership clubs. The England boss is reported in the paper claiming that three unnamed Premier League clubs have been involved in illegal deals, a comment that followed similar talk by Luton Town manager, Mike Newell and Queens Park Rangers boss Ian Holloway who each said, they’d been offered sweeteners by agents. The Premier League has now sanctioned an independent inquiry into the matter focusing on transfers made since January 2004.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "프리미어리그, 부패의혹 조사 착수",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "최근 가장 큰 논란을 불러일으키고 있는 에릭손 감독의 발언은 신문이 전하듯 영국 프리미어리그 축구팀내 뇌물 수수 및 마약 사용을 둘러싸고 벌어진 것입니다. 신문 기사에 따르면, (에릭손) 잉글랜드 축구대표팀 감독이 익명의 프리미어리그 축구 세 팀이 불법 거래에 연루됐다고 말한 주장이 보도되었습니다. 이같은 발언은 루튼 타운 팀의 마이크 뉴웰 감독과 퀸스파크 레인저스 팀의 이안 홀로웨이 감독이 각자 에이전트로부터 뇌물을 제의 받은 일이 있다고 말한 직후 나왔습니다. 현재 프리미어리그는 2004년 1월 이후에 발생한 선수 이적 문제에 초점을 맞춘 독립 조사를 받아들였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st c-로 자음이 세번 겹쳐 나와 중간 자음인 [t]가 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "each의 첫모음 [i]가 강세를 받아 [에]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "said의 끝자음은 앞모음의 받침으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[tn] 발음은 [t]가 탈락되고 숨을 코로 내보내면서 [은] 하듯이 발음한다. ex. Britain[브릿은],",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "partner[팟은어].",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "most controversial",
+          "text": "[모쓰컨츄러버셜]."
+        },
+        {
+          "n": "who each said",
+          "text": "[후 에이치쎋]."
+        },
+        {
+          "n": "sweeteners",
+          "text": "[스(우)윗으너ㅈ]."
+        },
+        {
+          "n": "Premier League",
+          "text": "프리미어리그: 4부로 구성된 영국 프로축구리그 가운데 1부 리그"
+        },
+        {
+          "n": "corruption",
+          "text": "(도덕적) 부패, 타락; 부정행위"
+        },
+        {
+          "n": "inquiry",
+          "text": "조사, 취조, 심리"
+        },
+        {
+          "n": "controversial",
+          "text": "논란[논쟁]의 여지가 있는"
+        },
+        {
+          "n": "make a comment",
+          "text": "발언[언급]하다"
+        },
+        {
+          "n": "allege",
+          "text": "(확실한 증거 없이) 주장하다"
+        },
+        {
+          "n": "(Sven-Goran) Erikkson",
+          "text": "(스벤-요란) 에릭손: 스웨덴 출신의 현 잉글랜드 축구 대표팀 감독"
+        },
+        {
+          "n": "surround",
+          "text": "둘러싸다, 에워싸다"
+        },
+        {
+          "n": "b(h)ong",
+          "text": "마리화나용 물파이프: 마약 사용을 상징적으로 나타냄"
+        },
+        {
+          "n": "be involved in",
+          "text": "…에 휘말리다, 연루되다"
+        },
+        {
+          "n": "sweetener",
+          "text": "회유책, 뇌물"
+        },
+        {
+          "n": "sanction",
+          "text": "인가하다, 승인하다"
+        },
+        {
+          "n": "focus on",
+          "text": "…을 중점적으로 다루다"
+        },
+        {
+          "n": "transfer",
+          "text": "(선수들의) 이적"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/47.wmv",
+  "legacyEncoding": "binary"
+}

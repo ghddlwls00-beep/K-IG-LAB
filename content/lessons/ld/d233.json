@@ -1,0 +1,55 @@
+{
+  "id": "d233",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 233 회 ]",
+  "menuLabel": "[ D 233 ]",
+  "unit": 233,
+  "part": null,
+  "order": 463,
+  "audio": [
+    {
+      "src": "/audio/ld/d233.mp3",
+      "legacySrc": "sounds/d233.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 233 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "Heaven, Hell, Virtue, Vice. abstractions living characters spectators graphic living catechism. front"
+    },
+    {
+      "type": "instruction",
+      "text": "steps cathedrals, accommodate marketplace."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d233.htm",
+  "legacyEncoding": "utf-8"
+}

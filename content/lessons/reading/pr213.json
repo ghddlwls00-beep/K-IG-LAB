@@ -1,0 +1,59 @@
+{
+  "id": "pr213",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 213 ]",
+  "menuLabel": "[ pr213 ]",
+  "unit": 213,
+  "part": null,
+  "order": 424,
+  "audio": [
+    {
+      "src": "/audio/reading/pr213.mp3",
+      "legacySrc": "sounds/pr213.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 213 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "[A]"
+    },
+    {
+      "type": "hints",
+      "text": "Sue had a newspaper route in her neighborhood. She got up at 5:30 every morning to deliver the newspapers to her customers. She had this job for a year and never missed a day. It did not matter whether it rained or snowed. Her customs were all satisfied because they were always sure they would get the news early in the morning. Sometimes Sue woke up feeling sick. Howeve, she delivered the newspapers not to disappoint her customers."
+    },
+    {
+      "type": "instruction",
+      "text": "[B]"
+    },
+    {
+      "type": "instruction",
+      "text": "Robert's friends made fun of him because he could not ride a bicycle, So, Robert wanted to learn how to do it. One afternoon he asked his big brother to teach him. His brother held the bike from behind, and Robert soon became confident. Right after his brother took his hands off the bike, though, he could not balance himself and fell. After the fall, Robert got up and tried again. The same thing happened again and again, which hurt him. Howeve, Robert kept trying and finally learned to ride a bike."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr213.htm",
+  "legacyEncoding": "utf-8"
+}

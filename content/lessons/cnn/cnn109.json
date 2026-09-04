@@ -1,0 +1,451 @@
+{
+  "id": "cnn109",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Where Will Hyundai Scandal Lead?",
+  "label": "Where Will Hyundai Scandal Lead?",
+  "menuLabel": "[ CNN 109 ]",
+  "unit": 109,
+  "part": null,
+  "order": 108,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn109.mp4",
+      "legacySrc": "CNN/CNN61-120/109.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Where Will Hyundai Scandal Lead?"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINTON, CNN Anchor: The chairman of Hyundai has been questioned by prosecutors in a bribery scandal that has rocked South Korea’s largest automaker. The cameras are rolling when Chung Mong-koo issued his second public apology. Sohn Jie-ae reports.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN JIE-AE, CNN Seoul Bureau Cheif: The chairman of Korea’s giant Hyundai Motor Group, Chung Mong-koo, walked into the Seoul Prosecutors’ Office to answer questions in a probe over whether the company had a multi-billion-dollar slush fund and offered money for favors from government officials.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chung is also under investigation for how he is trying to hand over management of the company to his son. Doing business in the “old way” in South Korea is no longer acceptable today. Years ago, Chung’s father bequeathed him Hyundai’s auto business. Now the chairman is in trouble for doing the same thing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HANK MORRIS, Economic Analyst: As Chairman Chung Mong-koo is now in his late sixties, he obviously felt it was time for him to begin to make arrangements to enable his son to carry on as ultimately his successor.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOHN: The son, Chung Eui-sun, is already president of Kia Motors and was also questioned by investigators. The probe is having an impact on Hyundai. A planned billion-dollar-plant in Georgia in the U.S. and another factory in the Czech Republic are “on hold.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hyundai also owns Kia Motors. It’s the second largest conglomerate in South Korea and the seventh largest car maker in the world and is rapidly expanding worldwide.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Hyundai empire started with the late founder Chung Ju-young who built it from the ashes of the Korean War, starting in construction and spreading into shipbuilding, financing and automobiles. But whether it can continue under the Chung family control is now in question. Chung Mong-koo and his son announced last week they are donating 1 billion to charity. But few believe this would sway the case.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the prosecution builds its case, storm clouds are gathering over the management of Hyundai Motor(s) Company, signaling that the day may soon come when the Chung family is no longer in the driver’s seat. Sohn Jie-ae, CNN, Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "위기에 빠진 현대차, 어디로 가나?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴, CNN 앵커: 한국 최대 자동차기업을 뒤흔든 비자금 사건으로 현대(차) 회장이 검찰조사를 받고 있습니다. 정몽구 회장이 두 번째 대국민 사과문을 발표하는 모습을 카메라...휴 리밍턴, CNN 앵커: 한국 최대 자동차기업을 뒤흔든 비자금 사건으로 현대(차) 회장이 검찰조사를 받고 있습니다. 정몽구 회장이 두 번째 대국민 사과문을 발표하는 모습을 카메라들이 비추고 있습니다. 손지애 기자가 보도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손지애, CNN 서울 지국장: 정몽구 한국 거대 재벌 현대차 그룹 총수가 서울 검찰청에 출두했습니다. 현대차 그룹이 수십억 달러의 비자금을 조성, 정부 관리들에게 청탁을 목적으로 제공했는 지 여부에 관한 검찰 조사에 응하기 위해서입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "정씨는 또한 회사의 경영권을 자신의 아들에게 (편법) 승계하려던 방식에 대해서도 조사를 받고 있습니다. 오늘날 한국에서는 더 이상‘해묵은 방식’으로 사업을 하는 것이 불가능합니다. 수년 전, 정씨의 아버지는 그에게 현대의 자동차사업을 넘겼습니다. 현재 정회장은 동일한 방식의 경영권 승계로 난관에 봉착했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "행크 모리스, 경제 전문가: 정몽구 회장은 현재 60대 후반이기 때문에, 그는 분명 지금이 사실상 후계자인 그의 아들이 경영을 할 수 있도록 준비를 시작해야 할 때라고 생각했을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "손: 아들인 정의선 씨는 이미 기아자동차 사장으로 그 역시 검찰에게 조사를 받았습니다. 이번 조사는 현대에 큰 영향을 미치고 있습니다. 수십억 달러가 투입될 예정이었던 미국 조지아 공장과 체코 공장 착공이 ‘연기된 상태’입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "현대는 또한 기아자동차 사를 소유하고 있습니다. 기아자동차 사는 한국에선 두 번째로 규모가 큰 자동차 기업이고, 세계에선 일곱 번째로 큰 자동차기업으로 전세계로 급속도로 확장되고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "현대 제국은 창업주인 고(故) 정주영 씨로부터 시작되었습니다. 그는 한국전쟁의 잿더미 속에서 이 기업을 세웠습니다. 현대는 건설업을 시작으로, 조선업, 금융업, 자동차 분야로 사업을 확장해 나갔습니다. 그러나 정씨 일가가 현대 제국을 계속해서 통치할지는 현재 미지수입니다. 정몽구 회장과 그의 아들은 지난 주 자선 사업에 10억 달러를 기부하겠다고 발표했습니다. 그러나 이 같은 결정이 이번 사건에 영향을 줄 것으로 믿는 사람은 거의 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "검찰이 이번 사건에 본격 착수하면서, 현대자동차 사의 경영권을 둘러싸고 먹구름이 짙게 드리워지고 있습니다. 정씨 일가가 현대차 경영에서 물러날 그날이 머지 않았음을 예고하면서 말이죠. 서울에서CNN, 손지애였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자 앵커가 ‘현대’의 ‘현’발음을 [휸]으로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 손지애 기자가 발음한 것과 비교해 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 알고 있는 ‘카메라’와 발음이 다른 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "multi-는 [멀티] 혹은 [멀타이] 두 가지로 발음이 가능하다는 것을 알아두자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 후자로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "정치 기사에서 많이 나오는 단어다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한 단어로 알아두면 slush를 slash로 혼동하는 일은 없을 것이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "fund는 -nd로 끝자음 [d]가 탈락된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "management도 같은 경우로 [t]가 탈락되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "인칭대명사 him의 [h]가 거의 음가를 잃으면서 앞의 -thed와 연음되어 [비퀴즈듬]으로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 강모음, 약모음 사이에서 유음화되어 [오러]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "order로 혼동하지 않도록 주의한다. 뒤의 charity[체러리]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "t가 바로 뒤에 나오는 모음 i와 연결되어 연음되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 built it도 [빌틷]으로 발음되니 주의깊게 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-mate- 부분이 탈락되어 [얼티메이틀리]가 아니라 [얼티멀리]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤의 signaling도 -na- 부분이 탈락되어 [씨글링]으로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. bribery/ 뇌물, 비자금",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Hyundai",
+          "text": "[휸대]."
+        },
+        {
+          "n": "cameras",
+          "text": "[캐므러]."
+        },
+        {
+          "n": "multi-billion",
+          "text": "[멀타이 빌리언]."
+        },
+        {
+          "n": "slush fund",
+          "text": "[슬러시 펀]."
+        },
+        {
+          "n": "bequeathed him",
+          "text": "[비퀴즈듬]."
+        },
+        {
+          "n": "auto",
+          "text": "[오러]."
+        },
+        {
+          "n": "felt it",
+          "text": "[펠틷]."
+        },
+        {
+          "n": "ultimately",
+          "text": "[얼티멀리]."
+        },
+        {
+          "n": "1) question",
+          "text": "질문하다, 심문하다"
+        },
+        {
+          "n": "2) prosecutor",
+          "text": "검찰관, 검사"
+        },
+        {
+          "n": "3) bribery scandal",
+          "text": "비자금 사건"
+        },
+        {
+          "n": "4) rock",
+          "text": "동요시키다, 흔들어놓다"
+        },
+        {
+          "n": "5) automaker",
+          "text": "자동차 제조업체"
+        },
+        {
+          "n": "6) roll",
+          "text": "(영화,카메라가) 돌아가다"
+        },
+        {
+          "n": "7) issue a public apology",
+          "text": "대국민 사과문을 발표하다"
+        },
+        {
+          "n": "8) chairman",
+          "text": "회장, 의장"
+        },
+        {
+          "n": "9) giant",
+          "text": "(재능,지력,권력 따위에서의) 거인, 거장, 대장: 여기서는 ‘거대 자동차 기업’"
+        },
+        {
+          "n": "10) walk into",
+          "text": "…으로 들어가다"
+        },
+        {
+          "n": "11) prosecutors’ office",
+          "text": "검찰청"
+        },
+        {
+          "n": "12) probe",
+          "text": "(엄밀한,철저한) 조사"
+        },
+        {
+          "n": "13) multi-billion",
+          "text": "수십억의"
+        },
+        {
+          "n": "14) slush fund",
+          "text": "비자금"
+        },
+        {
+          "n": "15) offer money for favors",
+          "text": "청탁을 목적으로 돈을 제공하다"
+        },
+        {
+          "n": "16) government official",
+          "text": "정부 관리"
+        },
+        {
+          "n": "17) be under investigation",
+          "text": "조사를 받고 있다"
+        },
+        {
+          "n": "18) hand over",
+          "text": "(재산,권한,책임 등을) 이양[양도]하다"
+        },
+        {
+          "n": "19) management",
+          "text": "경영, 권리"
+        },
+        {
+          "n": "20) do business in the “old way”",
+          "text": "‘해묵은 방식’으로 사업을 하다"
+        },
+        {
+          "n": "21) acceptable",
+          "text": "받아들일 수 있는"
+        },
+        {
+          "n": "22) bequeath A B",
+          "text": "{법률}A에게 B(동산 따위)를 유증(遺贈)하다"
+        },
+        {
+          "n": "23) be in trouble",
+          "text": "문제에 봉착하다"
+        },
+        {
+          "n": "24) be in one’s late sixties",
+          "text": "60대 후반의 나이다"
+        },
+        {
+          "n": "25) obviously",
+          "text": "분명히"
+        },
+        {
+          "n": "26) make arrangements to",
+          "text": "…할 준비를 하다"
+        },
+        {
+          "n": "27) carry on",
+          "text": "경영하다, 관리하다"
+        },
+        {
+          "n": "28) ultimately",
+          "text": "궁극적으로, 결국에"
+        },
+        {
+          "n": "29) successor",
+          "text": "후계자"
+        },
+        {
+          "n": "30) have an impact on",
+          "text": "…에 영향을 주다"
+        },
+        {
+          "n": "31) planned",
+          "text": "계획된"
+        },
+        {
+          "n": "32) plant",
+          "text": "(제조) 공장"
+        },
+        {
+          "n": "33) the Czech Republic",
+          "text": "체코 공화국"
+        },
+        {
+          "n": "34) on hold",
+          "text": "보류[연기]하여"
+        },
+        {
+          "n": "35) conglomerate",
+          "text": "{경제}재벌"
+        },
+        {
+          "n": "36) expand worldwide",
+          "text": "전세계로 확장하다"
+        },
+        {
+          "n": "37) empire",
+          "text": "제국"
+        },
+        {
+          "n": "38) the late",
+          "text": "고(故)…, (최근) 작고한, 최근 돌아가신"
+        },
+        {
+          "n": "39) from the ashes of the Korean War",
+          "text": "한국 전쟁의 잿더미 속에서"
+        },
+        {
+          "n": "40) construction",
+          "text": "건설"
+        },
+        {
+          "n": "41) spread into",
+          "text": "…으로 확산되다"
+        },
+        {
+          "n": "42) shipbuilding",
+          "text": "조선(업)"
+        },
+        {
+          "n": "43) financing",
+          "text": "금융"
+        },
+        {
+          "n": "44) automobile",
+          "text": "자동차"
+        },
+        {
+          "n": "45) under the control",
+          "text": "통제하에 있는"
+        },
+        {
+          "n": "46) in question",
+          "text": "문제의; 논쟁[검토]중의"
+        },
+        {
+          "n": "47) announce",
+          "text": "발표하다"
+        },
+        {
+          "n": "48) donate A to B",
+          "text": "A를 B에 기부하다"
+        },
+        {
+          "n": "49) sway",
+          "text": "…을 움직이다, 영향을 주다"
+        },
+        {
+          "n": "50) build one’s case",
+          "text": "사건 수사를 본격화시키다"
+        },
+        {
+          "n": "51) storm cloud",
+          "text": "폭풍 구름"
+        },
+        {
+          "n": "52) gather",
+          "text": "(폭풍 따위가) 증가하다"
+        },
+        {
+          "n": "53) signal",
+          "text": "나타내다, 표시하다"
+        },
+        {
+          "n": "54) in the driver’s seat",
+          "text": "경영자[책임자] 입장에 있는"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/109.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d256-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d256",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 256 회 ]",
+  "menuLabel": "[ D 256-1 ]",
+  "unit": 256,
+  "part": null,
+  "order": 510,
+  "audio": [
+    {
+      "src": "/audio/ld/d256.mp3",
+      "legacySrc": "sounds/d256.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 256 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "치료를 행하는 인디언 주술사의 광경은 정말로 기억할 만한 어떤 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 얼굴은 요란한 색깔이 칠해져있고 그의 의상은 그 환자의 병을 야기하고 있다고"
+    },
+    {
+      "type": "instruction",
+      "text": "생각되는 악령들에게 겁을 주기 위하여 기묘하고 괴상하다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 그의 환자의 침상 주위에서 춤추는 동안 그의 눈이 돌고 그는 그 악령을 겁주기 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "고안된 무서운 음성으로 소리지르고 울부짖는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 춤은 그가 지쳐서 땅에 쓰러질 때가지 점점 더 격렬해진다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그 악령들이 그의 춤이 끝날 때 겁먹지 않는다면 마을 사람들의 나머지들이 분명히 겁먹는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d256-1.htm",
+  "legacyEncoding": "utf-8"
+}

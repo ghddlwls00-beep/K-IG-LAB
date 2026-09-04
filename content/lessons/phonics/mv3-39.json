@@ -1,0 +1,88 @@
+{
+  "id": "mv3-39",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-39 ]",
+  "unit": 39,
+  "part": null,
+  "order": 118,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-39.mp3",
+      "legacySrc": "sounds/mv3-39.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "hide",
+          "guess",
+          "carry",
+          "smell",
+          "roll",
+          "pull"
+        ],
+        [
+          "bring",
+          "belong",
+          "happen",
+          "shake",
+          "fill",
+          "fail"
+        ],
+        [
+          "fight",
+          "fear",
+          "shoot",
+          "obey",
+          "ride",
+          "need"
+        ],
+        [
+          "build",
+          "hurry",
+          "return",
+          "believe",
+          "surprise",
+          "benefit"
+        ],
+        [
+          "gather",
+          "throw",
+          "raise",
+          "overestimate",
+          "pail",
+          "merchandise"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-39 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-39.htm",
+  "legacyEncoding": "utf-8"
+}

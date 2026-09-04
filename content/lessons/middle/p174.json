@@ -1,0 +1,79 @@
+{
+  "id": "p174",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 174 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 174,
+  "audio": [
+    {
+      "src": "/audio/middle/p174.mp3",
+      "legacySrc": "sounds/p174.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 174 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Development of Korea)"
+    },
+    {
+      "type": "hints",
+      "text": "Since the end of the war in 1953,"
+    },
+    {
+      "type": "instruction",
+      "text": "the country began to develop very quickly,"
+    },
+    {
+      "type": "instruction",
+      "text": "especially during the 1970’s."
+    },
+    {
+      "type": "instruction",
+      "text": "From then until now, the country has continued to grow rapidly."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1988, Korea hosted the Summer Olympic Games"
+    },
+    {
+      "type": "instruction",
+      "text": "and in 2002, the World Cup was held in Korea, too."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very proud of my country"
+    },
+    {
+      "type": "instruction",
+      "text": "and what it has accomplished during its long history."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p174.htm",
+  "legacyEncoding": "utf-8"
+}

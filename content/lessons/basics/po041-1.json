@@ -1,0 +1,60 @@
+{
+  "id": "po041-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po041",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 041-1 〕",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 1,
+  "order": 86,
+  "audio": [
+    {
+      "src": "/audio/basics/po041.mp3",
+      "legacySrc": "sounds/po041.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 041-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "36",
+          "text": "난 / 많은 친척들이 / 있어."
+        },
+        {
+          "n": "37",
+          "text": "나의 아버지는 / 두 명의 남동생과 / 한 명의 누나가 / 있어."
+        },
+        {
+          "n": "38",
+          "text": "나의 아버지는 / 둘째 아들 / 이셔."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po041-1.htm",
+  "legacyEncoding": "utf-8"
+}

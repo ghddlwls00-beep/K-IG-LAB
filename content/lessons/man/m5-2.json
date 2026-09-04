@@ -1,0 +1,118 @@
+{
+  "id": "m5-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m5-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 29,
+  "audio": [
+    {
+      "src": "/audio/man/m5-2-1.mp3",
+      "legacySrc": "m5-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-2.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-3.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-4.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-5.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "때때로 나의 상사는 나에게 너무 많은 할 일을 줘서 그것은 나에게 아주 스트레스를 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes my boss gives me too much work to do, and it can be very stressful for me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 업무를 완성했을 때, 그것은 나를 매우 행복하게 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I complete a task, it makes me very happy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매일 컴퓨터에서 일하고 아주 자주 밖으로 일하러 나가지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I work inside all day on the computer and do not go outside very often at work.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 일하러 갔을 때, 나는 보통 사무 업무를 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I get to work, I usually do paperwork.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 A Typical Day",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Morning at the Office",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m5-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m5-2.swf"
+  ]
+}

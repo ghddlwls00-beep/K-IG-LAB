@@ -1,0 +1,67 @@
+{
+  "id": "aw025",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 025 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 5,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/adults/aw025.mp3",
+      "legacySrc": "sounds/aw025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 025 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Daughter"
+    },
+    {
+      "type": "instruction",
+      "text": "My daughter attends 한국 Elementary school."
+    },
+    {
+      "type": "hints",
+      "text": "She is in the fifth grade."
+    },
+    {
+      "type": "instruction",
+      "text": "She has many talents, but she is most talented at speaking English."
+    },
+    {
+      "type": "instruction",
+      "text": "Her other talents include drawing and playing the piano."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes she likes to talk to her friends on the phone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw025.htm",
+  "legacyEncoding": "utf-8"
+}

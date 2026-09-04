@@ -1,0 +1,75 @@
+{
+  "id": "d086-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d086",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 086회 ]",
+  "menuLabel": "[ D 086-1 ]",
+  "unit": 86,
+  "part": null,
+  "order": 171,
+  "audio": [
+    {
+      "src": "/audio/ld/d086.mp3",
+      "legacySrc": "sounds/d086.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 086회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터는 많은 다른 방식으로 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "산업체들과 은행들은 재정 기록을 유지하기 위하여 컴퓨터를 사용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 산업체들에서는 컴퓨터가 제품을 만드는 다른 기계들을 제어하기 위하여 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "정부, 병원, 학교, 통신회사들은 컴퓨터로 일한다."
+    },
+    {
+      "type": "instruction",
+      "text": "로케트, 비행기, 선박, 자동차를 위하여 특별 컴퓨터들이 개발되어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 사람들은 그들의 집에 작은 컴퓨터 시스템을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "컴퓨터들이 그렇게 많은 용도가 있으므로 컴퓨터 산업은 세계에서 가장 큰 산업의 하나가 되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d086-1.htm",
+  "legacyEncoding": "utf-8"
+}

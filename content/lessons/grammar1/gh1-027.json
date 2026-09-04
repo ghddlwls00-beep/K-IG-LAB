@@ -1,0 +1,156 @@
+{
+  "id": "gh1-027",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 027 ]",
+  "menuLabel": "[ gh1-027 ]",
+  "unit": 27,
+  "part": null,
+  "order": 40,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-027.mp3",
+      "legacySrc": "sounds/gh1-027.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 027 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I was a boy."
+        },
+        {
+          "n": "2",
+          "text": "You were a girl."
+        },
+        {
+          "n": "3",
+          "text": "He was a boy."
+        },
+        {
+          "n": "4",
+          "text": "She was a girl."
+        },
+        {
+          "n": "5",
+          "text": "This was a pen."
+        },
+        {
+          "n": "6",
+          "text": "It was a book."
+        },
+        {
+          "n": "7",
+          "text": "These were pens."
+        },
+        {
+          "n": "8",
+          "text": "Those(they) were books."
+        },
+        {
+          "n": "9",
+          "text": "I was happy."
+        },
+        {
+          "n": "10",
+          "text": "You were happy."
+        },
+        {
+          "n": "11",
+          "text": "He was happy."
+        },
+        {
+          "n": "12",
+          "text": "She was happy."
+        },
+        {
+          "n": "13",
+          "text": "I was in Korea."
+        },
+        {
+          "n": "14",
+          "text": "You were in Korea."
+        },
+        {
+          "n": "15",
+          "text": "He was in Korea."
+        },
+        {
+          "n": "16",
+          "text": "She was in Korea."
+        },
+        {
+          "n": "17",
+          "text": "I was not happy."
+        },
+        {
+          "n": "18",
+          "text": "You were not happy."
+        },
+        {
+          "n": "19",
+          "text": "He was not happy."
+        },
+        {
+          "n": "20",
+          "text": "She was not happy."
+        },
+        {
+          "n": "21",
+          "text": "This was not a pen."
+        },
+        {
+          "n": "22",
+          "text": "It was not a book."
+        },
+        {
+          "n": "23",
+          "text": "These were not pens."
+        },
+        {
+          "n": "24",
+          "text": "They(those) were not books."
+        },
+        {
+          "n": "25",
+          "text": "Was I a boy?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-027.htm",
+  "legacyEncoding": "utf-8"
+}

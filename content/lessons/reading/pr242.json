@@ -1,0 +1,47 @@
+{
+  "id": "pr242",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 242 ]",
+  "menuLabel": "[ pr242 ]",
+  "unit": 242,
+  "part": null,
+  "order": 482,
+  "audio": [
+    {
+      "src": "/audio/reading/pr242.mp3",
+      "legacySrc": "sounds/pr242.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 242 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A child will often ask for approval openly. \"Look at my painting! Isn't it pretty?\" But adults are generally less honest about their need for support. A grown-up who tried his or her best at something isn't like to ask, \"Didn't I do a good job!\" But the adult needs to hear it all the same. In other words, children and adults alike want to hear positive remarks. Therefore, don't forget to praise others when they need support."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr242.htm",
+  "legacyEncoding": "utf-8"
+}

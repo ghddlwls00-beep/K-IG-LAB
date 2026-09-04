@@ -1,0 +1,63 @@
+{
+  "id": "p045-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p045",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 045-1 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 5,
+  "order": 51,
+  "audio": [
+    {
+      "src": "/audio/middle/p045.mp3",
+      "legacySrc": "sounds/p045.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 045-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 가장 좋아하는 친척)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 좋아하는 친척은 나의 가장 나이 많은 삼촌 길동입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 마을의 다른 쪽에 살고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 나의 가족은 그를 한 달에 두 번 방문합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 함께 모였을 때 우리는 종종 저녁 먹으러 밖으로 나갑니다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p045-1.htm",
+  "legacyEncoding": "utf-8"
+}

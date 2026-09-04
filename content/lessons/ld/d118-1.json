@@ -1,0 +1,111 @@
+{
+  "id": "d118-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d118",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 118 회 ]",
+  "menuLabel": "[ D 118-1 ]",
+  "unit": 118,
+  "part": null,
+  "order": 235,
+  "audio": [
+    {
+      "src": "/audio/ld/d118.mp3",
+      "legacySrc": "sounds/d118.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 118 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "점점 더 많은 유럽 정착민들이 도착함에 따라 미국인 원주민들은"
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 항상 살아왔던 땅을 떠나도록 강요당했다."
+    },
+    {
+      "type": "instruction",
+      "text": "새로운 정착민들이 여러 지역으로 이주해 들어와서 농사를 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "땅을 개간했고 미국 원주민들이 사냥하곤 했던 야생 동물들이 사라지기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "영국 정착민들은 땅을 사려고 시도했지만 인디언들은"
+    },
+    {
+      "type": "instruction",
+      "text": "구라파인들의 부동산 개념을 받아들일 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 왜 누군가가 땅을 그의 개인적인 용도를 위하여 간직하기 원하려는지 이해할 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 종족들은 그들의 소유물들을 공동으로 소유했고"
+    },
+    {
+      "type": "instruction",
+      "text": "일부는 개인 재산의 개념을 전혀 갖고 있지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 미국 원주민 지도자는 이렇게 물었다."
+    },
+    {
+      "type": "instruction",
+      "text": "“어떻게 우리가 땅을 팔 수 있나? 왜 공기, 구름, 혹은 바다는 팔지 않나?\""
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 정착민들은 그것의 대부분을 ”사거나“ 빼앗는 것을 가까스로 해냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국 원주민들은 또 미국으로 가져와진 그 질병들로부터 끔찍하게 고통을 당했다."
+    },
+    {
+      "type": "instruction",
+      "text": "인디언들은 전에는 홍역, mumps, 유행성 이하선염, 천연두, 수두(chicken pox) 같은"
+    },
+    {
+      "type": "instruction",
+      "text": "질병에 전에는 결코 노출된 적이 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 질병들이 미대륙들을 통하여 퍼졌을 때 수백만명의 인디언들이 죽었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d118-1.htm",
+  "legacyEncoding": "utf-8"
+}

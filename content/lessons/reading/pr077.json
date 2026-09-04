@@ -1,0 +1,47 @@
+{
+  "id": "pr077",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 077 ]",
+  "menuLabel": "[ pr077 ]",
+  "unit": 77,
+  "part": null,
+  "order": 152,
+  "audio": [
+    {
+      "src": "/audio/reading/pr077.mp3",
+      "legacySrc": "sounds/pr077.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 077 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "According to some experts, we are leaving our children and grandchildren a frightening inheritance : an increased accumulation of so-called greenhouse gases in the atmosphere and the potentially disastrous climate changes that this increase may bring about. However, the scientific communityis not speaking with one voice . Other scientists claim that they evidence for global warming is inconclusive and argue that predictions based on it are questionable. The scientific debate has been intense. It has also fueled a political controversy about what measures, if any, should be taken to address the possible problem of climate changes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr077.htm",
+  "legacyEncoding": "utf-8"
+}

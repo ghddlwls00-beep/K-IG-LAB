@@ -1,0 +1,83 @@
+{
+  "id": "d171-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d171",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 171 회 ]",
+  "menuLabel": "[ D 171-1 ]",
+  "unit": 171,
+  "part": null,
+  "order": 340,
+  "audio": [
+    {
+      "src": "/audio/ld/d171.mp3",
+      "legacySrc": "sounds/d171.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 171 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그냥 웃으면서 그녀에게 걱정하지 말하라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 사촌은 그 고양이를 밖으로 내놓았고 그들은 모두 그 남은 몫의 음식을 나누어 먹었다."
+    },
+    {
+      "type": "instruction",
+      "text": "커피가 나오는 동안 나의 사촌이 우연히 창문 밖을 흘낏 내다보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 고양이가 마당에 꼼짝않고 누워있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 사촌과 그녀의 모든 친구들이 탁자로부터 펄쩍 뛰어 일어나서 병원으로 급히 달려갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 분명히 식중독의 사례였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 응급실의 의사는 그들에게서 아무런 잘못된 것도 발견하지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 왜 그런지 짐작할 수 있나?"
+    },
+    {
+      "type": "instruction",
+      "text": "(그 고양이가 식중독에 걸린 것이 아니라 차에 치었다)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d171-1.htm",
+  "legacyEncoding": "utf-8"
+}

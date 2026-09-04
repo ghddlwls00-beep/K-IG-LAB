@@ -1,0 +1,47 @@
+{
+  "id": "pr240-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr240",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 240-1 ]",
+  "menuLabel": "[ pr240-1 ]",
+  "unit": 240,
+  "part": null,
+  "order": 479,
+  "audio": [
+    {
+      "src": "/audio/reading/pr240.mp3",
+      "legacySrc": "sounds/pr240.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 240-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한 개의 기억처럼 보이는 것이 실제로는 복잡한 과정을 갖고 있다). 예를 들어, 우리의 두뇌는 망치를 생각할 때, 그 도구의 이름, 외모, 기능 그리고 울리는 소리를 급하게 생각해낸다. 그런고로, 기억의 약화는 사실, 당신 두뇌에 저장된 독립된 부분을 종합하는데 실패하기 때문에 온다. 많은 사람들이 20대에 벌써 조립하는 과정(힌트)의 쇠약을 경험하기 시작한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr240-1.htm",
+  "legacyEncoding": "utf-8"
+}

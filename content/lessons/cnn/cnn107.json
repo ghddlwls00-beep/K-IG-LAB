@@ -1,0 +1,235 @@
+{
+  "id": "cnn107",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "No Kidding!",
+  "label": "No Kidding!",
+  "menuLabel": "[ CNN 107 ]",
+  "unit": 107,
+  "part": null,
+  "order": 106,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn107.mp4",
+      "legacySrc": "CNN/CNN61-120/107.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "No Kidding!"
+    },
+    {
+      "type": "paragraph",
+      "text": "RANDI KAYE, CNN Correspondent: They are a family of two. Jennifer Shawne and Alan Rapp, married five years and “childfree.” So tell me why you got married, if you don’t want to have kids.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JENNIFER SHAWNE, Childless by Choice: We felt like we were a family. We wanted to make that official, even though, you know, we don’t, maybe, look like the traditional family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KAYE: Jennifer published this book, Baby Not On Board, extolling the virtues of life as a “non-breeder.” Instead of late night feedings, Jennifer and her husband go to late night parties. Instead of spending weekends on the soccer fields and the playgrounds, they sleep late and do Yoga. Instead of traveling to grandma’s, they travel the world. And instead of kids, they have cats.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SHAWNE: This is Eda. The cost of raising a cat is much less than raising a child.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KAYE: Some people might hear that and say “That sounds really selfish of them.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SHAWNE: You can turn the tables and say “Gosh! Isn’t it selfish that you’ve had children that you expect to take care of you when you’re old? Isn’t it selfish that you want a replica of yourself?”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KAYE: Alan and Jennifer are not alone. According to the National Marriage Institute, back in the 1800’s about 80% of all households had children. Today, less than one third do. And there is a slow, but not so silent movement underway by those who say “I do” to marriage, but “I don’t” to kids. The support group “No Kidding” boasts active chapters in six countries and nearly every state. Web sites such as childfree.net and even a lifestyle magazine called dink, double income no kids, advocates ways to spend your time and money when kids aren’t in the picture.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "자녀는 노우!!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "랜디 카이, CNN 기자: 이들은 2인 가족입니다. 제니퍼 숀과 앨런 랩씨는 결혼 5년차지만 자녀로부터 자유롭습니다. 그렇다면 결혼은 왜 하셨는지 말씀 좀 해주세요. 자녀를 원치 않는데 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제니퍼 숀, 무자녀족: 우리는 우리가 가족이라고 느꼈어요. 그걸 공식화하고 싶었구요. 비록 우리가 전통적인 개념의 가족처럼 보이지않는다 해도 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카이: 제니퍼 씨는 <아이는 비(非)탑승>이라는 바로 이 책을 출간하여 ‘무자녀족’으로서의 삶이 지닌 장점을 격찬하고 있습니다. 밤늦게 아이에게 젖을 물리는 대신에 제니퍼와 그녀의 남편은 심야 파티에 갑니다. 주말을 축구장이나 놀이터에서 보내는 대신에 그들은 늦잠을 자고 요가를 합니다. 할머니 댁을 방문하는 대신에 그들은 전세계를 돌아다닙니다. 게다가 자녀 대신에 그들은 고양이를 기릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "숀: 얘는 이다예요. 고양이 한 마리를 기르는 비용이 아이 한 명을 키우는 비용보다 훨씬 덜 들어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카이: 어떤 사람들은 이런 이야기를 들으면“그 사람들 정말 이기적인 것 같네요.”라고 말할지도 모릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "숀: 역으로 생각하면, “어머! 노후에 자신들을 돌봐줄 자식들을 필요로 하는 게 더 이기적인 것 아닌가요? 자기 자신이랑 똑같이 생긴 2세를 원하는 건 이기적인 게 아닌가요?”라고 말할 수 있죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카이: 이런 자녀없는 부부가 앨런과 제니퍼 부부만 있는 건 아닙니다. 전미결혼위원회에 따르면 과거 1800년대에는 미국내 가정의 약 80%가 자녀가 있었다고 합니다. 하지만 오늘날은 자녀가 있는 가정이 그들 중 3분의 1도 채 안됩니다. 게다가 결혼에는‘찬성’ 하지만 자녀에는‘반대’를 외치는 사람들에 의해 무자녀 운동이 서서히 하지만 활발하게 일어나고 있습니다. 무자녀 지지 단체인 ‘노키딩’은 6개 국가와 미국 내 거의 모든 주에 지부를 두고 활발히 활동하고 있습니다. 차일드프리닷넷과 같은 웹사이트와 심지어 자녀 없는 맞벌이 부부를 뜻하는 <딩크>라는 한 라이프스타일 잡지도 자녀가 없는 인생에서 시간과 돈을 사용하는 방법들을 소개하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. by choice/ 선택에 의한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. breeder/ 가축 사육자, 축산가; (식물) 재배자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. feed/ (젖먹이에게) 젖을 주다; …에게 먹을 것[먹이]을 주다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1) childfree",
+          "text": "자녀로부터 자유로운, 자녀가 없는(childless)"
+        },
+        {
+          "n": "2) kid",
+          "text": "아이"
+        },
+        {
+          "n": "3) childless by choice",
+          "text": "무자녀족"
+        },
+        {
+          "n": "4) make A official",
+          "text": "A를 공식화하다"
+        },
+        {
+          "n": "5) traditional family",
+          "text": "전통적인 가족"
+        },
+        {
+          "n": "6) publish",
+          "text": "출판하다, 간행하다"
+        },
+        {
+          "n": "7) on board",
+          "text": "비행기에 탑승하여, 버스에 타고; 차 안에"
+        },
+        {
+          "n": "8) extol",
+          "text": "(사람,행위 등을) 칭찬하다, 격찬[찬양]하다"
+        },
+        {
+          "n": "9) virtue",
+          "text": "(어떤 특수한) 덕, 미덕, 덕목"
+        },
+        {
+          "n": "10) non-breeder",
+          "text": "비양육인, 무자녀족"
+        },
+        {
+          "n": "11) instead of",
+          "text": "…대신에"
+        },
+        {
+          "n": "12) feeding",
+          "text": "수유"
+        },
+        {
+          "n": "13) soccer field",
+          "text": "축구장"
+        },
+        {
+          "n": "14) playground",
+          "text": "운동장; 놀이터"
+        },
+        {
+          "n": "15) raise",
+          "text": "(동물을) 사육하다; (아이를) 기르다, 양육하다"
+        },
+        {
+          "n": "16) selfish",
+          "text": "이기적인"
+        },
+        {
+          "n": "17) turn the tables",
+          "text": "형세를 역전시키다, 주객을 전도시키다, 역전하다"
+        },
+        {
+          "n": "18) Gosh!",
+          "text": "((놀라움, 기쁨, 의혹을 나타내어)) 아이쿠!, 어머!, 뭐라고!"
+        },
+        {
+          "n": "19) take care of",
+          "text": "…을 돌보다"
+        },
+        {
+          "n": "20) replica",
+          "text": "사본, 복제, 똑같은 것"
+        },
+        {
+          "n": "21) household",
+          "text": "((집합적; 단,복수 양용)) 가족; 온 집안 사람, 가구"
+        },
+        {
+          "n": "22) underway",
+          "text": "진행중인"
+        },
+        {
+          "n": "23) support group",
+          "text": "지지 단체"
+        },
+        {
+          "n": "24) boast",
+          "text": "자랑하다"
+        },
+        {
+          "n": "25) chapter",
+          "text": "(조합,단체 따위의) 지부"
+        },
+        {
+          "n": "26) dink",
+          "text": "딩크족(double income no kids): 자녀를 두지 않는 맞벌이 부부를 일컫는 말"
+        },
+        {
+          "n": "27) advocate",
+          "text": "지지[옹호]하다"
+        },
+        {
+          "n": "28) in the picture",
+          "text": "마침 현장에 있는, 관계가 있는; 중요한"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/107.wmv",
+  "legacyEncoding": "binary"
+}

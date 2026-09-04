@@ -1,0 +1,87 @@
+{
+  "id": "d146-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d146",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 146 회 ]",
+  "menuLabel": "[ D 146-1 ]",
+  "unit": 146,
+  "part": null,
+  "order": 291,
+  "audio": [
+    {
+      "src": "/audio/ld/d146.mp3",
+      "legacySrc": "sounds/d146.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 146 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 와싱턴 대학 학생이다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 공부하느라고 매우 바쁘지만 언제나 매주 몇 통의 편지를 쓸 시간을 낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 편지를 받는 것을 좋아하며 친구로부터 소식을 듣기 원한다면 편지를 써야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오늘 아침 상당히 실망했다."
+    },
+    {
+      "type": "instruction",
+      "text": "우체부가 우편물을 배달했고 나는 다섯 통의 편지와 하나의 소포와 두장의 엽서를 받았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 나는 기다리고 있었던 편지를 받지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그날 나중에 우체부가 특별 배달 편지를 배달해주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그것을 받고 대단히 기뻤고 나는 내가 여러분이 그 편지를"
+    },
+    {
+      "type": "instruction",
+      "text": "읽게 해줄 때 왜 그런지 이해할 것으로 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것이 그 편지이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d146-1.htm",
+  "legacyEncoding": "utf-8"
+}

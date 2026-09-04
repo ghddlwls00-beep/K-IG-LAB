@@ -1,0 +1,51 @@
+{
+  "id": "pr118",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 118 ]",
+  "menuLabel": "[ pr118 ]",
+  "unit": 118,
+  "part": null,
+  "order": 234,
+  "audio": [
+    {
+      "src": "/audio/reading/pr118.mp3",
+      "legacySrc": "sounds/pr118.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 118 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(A) More frequent use of computers will create a serious danger to our health. First of all, more people will have to wear glasses, because always staring at computer screens is likely to damage our eyes. Sitting at computer desks for hours can also cause damage to our backs. In addition, we won't get enough exercise, for we will often be forced to spend a long period of time at the computers."
+    },
+    {
+      "type": "hints",
+      "text": "(B) The future will be a lonely place to live because of computers. We won't be going to the supermarket, or even to school any more. Everyday goods and even education will come to us on-line. In addition , we will talk with one another using the computer. All of these will make us less human, in that the computer will take away our opportunities to meet for true human relationships."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr118.htm",
+  "legacyEncoding": "utf-8"
+}

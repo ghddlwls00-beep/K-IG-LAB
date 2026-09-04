@@ -1,0 +1,73 @@
+{
+  "id": "qa027-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa027",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 027-1 〕",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 7,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/basics/qa027.mp3",
+      "legacySrc": "sounds/qa027.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 027-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 누나 취미) → 당신 누나의 취미는 무엇입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "22",
+          "text": "그녀는 / 모든 종류의 동물을 / 좋아하고,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀는 /그것들을 기르는 것에 / 관심이 있어."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "23",
+          "text": "그녀는 / 또한 / 음악 듣는 것을 / 즐겨."
+        },
+        {
+          "n": "24",
+          "text": "난 / 나의 가족을 / 사랑해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa027-1.htm",
+  "legacyEncoding": "utf-8"
+}

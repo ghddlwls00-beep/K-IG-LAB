@@ -1,0 +1,59 @@
+{
+  "id": "am182",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 182 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 2,
+  "order": 178,
+  "audio": [
+    {
+      "src": "/audio/adults/am182.mp3",
+      "legacySrc": "sounds/am182.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 182 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Lunar New Year's Day"
+    },
+    {
+      "type": "hints",
+      "text": "The first big holiday is Lunar New Year’s , which is also known as Seo--Lal."
+    },
+    {
+      "type": "instruction",
+      "text": "It is celebrated on the first day of the first month on the lunar calendar, which is usually after the 1st of January on the solar calendar."
+    },
+    {
+      "type": "instruction",
+      "text": "The most important Lunar New Year custom is the ancestral memorial ceremony."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am182.htm",
+  "legacyEncoding": "utf-8"
+}

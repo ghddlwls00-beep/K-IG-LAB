@@ -1,0 +1,116 @@
+{
+  "id": "gh1-057-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-057",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 057-2]",
+  "menuLabel": "[ gh1-057-2 ]",
+  "unit": 57,
+  "part": null,
+  "order": 96,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-057-2.mp3",
+      "legacySrc": "sounds/gh1-057-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 057-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "19",
+          "text": "Why were you sad?"
+        },
+        {
+          "n": "20",
+          "text": "Why is she sad?"
+        },
+        {
+          "n": "21",
+          "text": "When are they sad?"
+        },
+        {
+          "n": "22",
+          "text": "Who were you?"
+        },
+        {
+          "n": "23",
+          "text": "Who was she?"
+        },
+        {
+          "n": "24",
+          "text": "Who were they?"
+        },
+        {
+          "n": "25",
+          "text": "What does he know?"
+        },
+        {
+          "n": "26",
+          "text": "Whom does she know?"
+        },
+        {
+          "n": "27",
+          "text": "What do they know?"
+        },
+        {
+          "n": "28",
+          "text": "Where does she live?"
+        },
+        {
+          "n": "29",
+          "text": "Where do you live?"
+        },
+        {
+          "n": "30",
+          "text": "Where does he go?"
+        },
+        {
+          "n": "31",
+          "text": "Why is he running?"
+        },
+        {
+          "n": "32",
+          "text": "Why does he look at her?"
+        },
+        {
+          "n": "33",
+          "text": "Who likes it?"
+        },
+        {
+          "n": "34",
+          "text": "Who wants it?"
+        },
+        {
+          "n": "35",
+          "text": "Who were they?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-057-2.htm",
+  "legacyEncoding": "utf-8"
+}

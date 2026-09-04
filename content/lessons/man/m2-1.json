@@ -1,0 +1,73 @@
+{
+  "id": "m2-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m2-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 1,
+  "order": 8,
+  "audio": [
+    {
+      "src": "/audio/man/m2-1-1.mp3",
+      "legacySrc": "m2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-1-2.mp3",
+      "legacySrc": "m2-1.swf#event",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "지금부터 나의 가족들을 당신에게 소개하고 싶다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I would like to introduce my family to you.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Introducing My Family :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m2-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m2-1.swf"
+  ]
+}

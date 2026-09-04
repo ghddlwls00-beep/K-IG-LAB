@@ -1,0 +1,95 @@
+{
+  "id": "p224",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 231]",
+  "menuLabel": null,
+  "unit": 22,
+  "part": 4,
+  "order": 215,
+  "audio": [
+    {
+      "src": "/audio/middle/p231.mp3",
+      "legacySrc": "sounds/p231.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 231]"
+    },
+    {
+      "type": "instruction",
+      "text": "(A day)"
+    },
+    {
+      "type": "hints",
+      "text": "I have a pretty hectic daily schedule."
+    },
+    {
+      "type": "instruction",
+      "text": "I get up at seven o’clock every morning"
+    },
+    {
+      "type": "instruction",
+      "text": "and have breakfast at 7:30 a.m."
+    },
+    {
+      "type": "instruction",
+      "text": "I leave for school at about 7:45 a.m."
+    },
+    {
+      "type": "instruction",
+      "text": "I meet my friends and play around a little before we go to class."
+    },
+    {
+      "type": "instruction",
+      "text": "I have four morning classes that begin at 9 a.m."
+    },
+    {
+      "type": "instruction",
+      "text": "After lunch, I have two more classes."
+    },
+    {
+      "type": "instruction",
+      "text": "I finish my classes, and then I go to a private academy"
+    },
+    {
+      "type": "instruction",
+      "text": "where I study art, piano and English."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I get tired after attending my academies."
+    },
+    {
+      "type": "instruction",
+      "text": "After going to the academy,"
+    },
+    {
+      "type": "instruction",
+      "text": "I go home and have dinner with my family."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p224.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr189",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 189 ]",
+  "menuLabel": "[ pr189 ]",
+  "unit": 189,
+  "part": null,
+  "order": 376,
+  "audio": [
+    {
+      "src": "/audio/reading/pr189.mp3",
+      "legacySrc": "sounds/pr189.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 189 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Buy Nothing Day is an international day for buying nothing at all. It asks us to think about what we buy and whether buying more actually increases our quality of life. Every product we buy has an effect on the environment. Even before we spend our money, making, advertising, and packaging what we buy can cost a lot in pure water, air, and soil. In short, our shopping habits can have considerable effects on the environment."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr189.htm",
+  "legacyEncoding": "utf-8"
+}

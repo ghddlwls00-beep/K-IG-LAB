@@ -1,0 +1,71 @@
+{
+  "id": "aw073",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 073 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 3,
+  "order": 78,
+  "audio": [
+    {
+      "src": "/audio/adults/aw073.mp3",
+      "legacySrc": "sounds/aw073.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 073 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "What do I Do on My Job?"
+    },
+    {
+      "type": "hints",
+      "text": "I sometimes go on business trips once a quarter."
+    },
+    {
+      "type": "instruction",
+      "text": "I have to go to a seminar where I receive valuable training."
+    },
+    {
+      "type": "instruction",
+      "text": "Each quarter, I stop by the smaller branches of my company and check on their progress."
+    },
+    {
+      "type": "instruction",
+      "text": "I also have to do end-of-the-month evaluations for these branches and present them to my boss."
+    },
+    {
+      "type": "instruction",
+      "text": "When things are not progressing as they should, it is very stressful for me."
+    },
+    {
+      "type": "instruction",
+      "text": "When things are improving, my boss gives me recognition, which I am very happy to receive."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw073.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "p013",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 013 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/middle/p013.mp3",
+      "legacySrc": "sounds/p013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 013 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Personality)"
+    },
+    {
+      "type": "hints",
+      "text": "Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I am a very outgoing person,"
+    },
+    {
+      "type": "instruction",
+      "text": "but I am also a little shy around new people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a lot of friends."
+    },
+    {
+      "type": "instruction",
+      "text": "I love to be around my friends, and they like to be around me."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person. Most people like me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p013.htm",
+  "legacyEncoding": "utf-8"
+}

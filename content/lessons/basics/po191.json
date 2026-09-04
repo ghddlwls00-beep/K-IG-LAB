@@ -1,0 +1,60 @@
+{
+  "id": "po191",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 191 〕",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 1,
+  "order": 431,
+  "audio": [
+    {
+      "src": "/audio/basics/po191.mp3",
+      "legacySrc": "sounds/po191.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 191 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "239",
+          "text": "Our culture is different from other cultures."
+        },
+        {
+          "n": "240",
+          "text": "Especially our language and life style are not like any other country's."
+        },
+        {
+          "n": "241",
+          "text": "Korean culture is very unique."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po191.htm",
+  "legacyEncoding": "utf-8"
+}

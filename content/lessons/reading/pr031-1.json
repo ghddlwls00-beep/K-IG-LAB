@@ -1,0 +1,47 @@
+{
+  "id": "pr031-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr031",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 031-1 ]",
+  "menuLabel": "[ pr031-1 ]",
+  "unit": 31,
+  "part": null,
+  "order": 61,
+  "audio": [
+    {
+      "src": "/audio/reading/pr031.mp3",
+      "legacySrc": "sounds/pr031.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 031-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "젊은이가 인생의 전투를 위해 가질수 있는 가장 좋은 장비는 양심이다. 좋은 양심 만큼 좋은 친구는 없다. 나쁜 양심만큼 위험한 적도 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr031-1.htm",
+  "legacyEncoding": "utf-8"
+}

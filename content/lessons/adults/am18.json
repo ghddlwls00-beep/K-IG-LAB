@@ -1,0 +1,123 @@
+{
+  "id": "am18",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 18 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": null,
+  "order": 174,
+  "audio": [
+    {
+      "src": "/audio/adults/am18.mp3",
+      "legacySrc": "sounds/am18.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 18 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 18: Korean Holidays"
+    },
+    {
+      "type": "hints",
+      "text": "An Introduction to Korean Holidays"
+    },
+    {
+      "type": "instruction",
+      "text": "Holidays are a special time when families in Korea can get together and celebrate."
+    },
+    {
+      "type": "instruction",
+      "text": "My country has many traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "Like many Asian countries, we celebrate New Year’s Day, Independence Day, Arbor Day, Buddha’s Birthday and many more."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to tell you about the two largest traditional holidays in Korea: Lunar New Year’s and Chu-Seok."
+    },
+    {
+      "type": "instruction",
+      "text": "Lunar New Year's Day"
+    },
+    {
+      "type": "instruction",
+      "text": "The first big holiday is Lunar New Year’s , which is also known as Seo--Lal."
+    },
+    {
+      "type": "instruction",
+      "text": "It is celebrated on the first day of the first month on the lunar calendar, which is usually after the 1st of January on the solar calendar."
+    },
+    {
+      "type": "instruction",
+      "text": "The most important Lunar New Year custom is the ancestral memorial ceremony."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 중요한 설날의 관습은 조상의 기념 의식이다."
+    },
+    {
+      "type": "instruction",
+      "text": "가족 구성원 각자는 아침 일찍 일어나 그들의 가장 좋은 옷을 입는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 후에, 우리의 조상들에게 경의를 표하는 의식을 행한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 의식 다음으로, 어린 사람들이 그들의 윗사람들에게 모두 다가오는 새해동안 많은 축복이 있기를 기원하며 절을 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "Chu-Seok"
+    },
+    {
+      "type": "instruction",
+      "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving."
+    },
+    {
+      "type": "instruction",
+      "text": "During Chu-seok, people visit their ancestrial tombs and make an offering of food to their ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake."
+    },
+    {
+      "type": "instruction",
+      "text": "I like our country’s traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "On these days I learn how important family is!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am18.htm",
+  "legacyEncoding": "utf-8"
+}

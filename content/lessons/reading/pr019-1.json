@@ -1,0 +1,47 @@
+{
+  "id": "pr019-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr019",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 019-1 ]",
+  "menuLabel": "[ pr019-1 ]",
+  "unit": 19,
+  "part": null,
+  "order": 37,
+  "audio": [
+    {
+      "src": "/audio/reading/pr019.mp3",
+      "legacySrc": "sounds/pr019.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 019-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한 에스키모인이 유럽의 방문객들에게 유일하고 진실한 지혜는 인간과 아주 멀리 떨어져, 엄청난 고독 속에 나와서 살며 오직 고통을 통해서만 도달할 수 있다고 말한 적이 있다. 엄청난 고독 - 유충이 자신을 명주실로된 고치로 감싸고 나비로의 오랜 변형을 시작할 때 그 유충이 견디어내는 외로움과 같다. 우리가 인생을 알고 있었던 것처럼 인생 끝났지만 우리가 어떤 사람이 되기로 예정이 되어 있는지 모를 때, 우리 역시 그러한 시기를 격어야만 하는것 같다. 우리가 아는 모든 것은 더 큰 무언인가 우리가 변화도록 요구하고 있는 것이다. 그리고 우리가 비록 홀로 그 여행을 해야 하지만, 심지어 고통이 유일한 동반자 일지라도 충분히 빨리 우리는 나비가 될 것이며, 충분히 빨리 우리는 살아있는 것의 즐거움을 맛보게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr019-1.htm",
+  "legacyEncoding": "utf-8"
+}

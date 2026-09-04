@@ -1,0 +1,47 @@
+{
+  "id": "pr026-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr026",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 026-1 ]",
+  "menuLabel": "[ pr026-1 ]",
+  "unit": 26,
+  "part": null,
+  "order": 51,
+  "audio": [
+    {
+      "src": "/audio/reading/pr026.mp3",
+      "legacySrc": "sounds/pr026.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 026-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "보통 사람의 두뇌는 선천적으로 게으르고 저항심을 거의 갖고 있지 않다. 그래서 일반 사람들의 정신세계는 의심하지 않고 사실을 받아들이고 그것을 굳게 믿고 있다. 이런 익숙한 기존 개념을 흔드는 어떤 것이던 적대심을 본능적으로 갖게 된다. 그가 가지고 있던 믿음과 맞지 않는 새로운 생각은 그의 정신을 다시 바꾸어야 하는 필요성을 의미한다. 그리고 이런 과정은 힘이 들고, 두뇌의 활동이라는 고통의 대가가 따른다. 대 다수를 형성하고 있는 그나 그 들의 동료들에게는, 기존의 믿음과 관례에 의혹을 불러일으키는 새로운 생각과 관례는 그 들이 받아들이기가 유쾌하지 못하기 때문에 악처럼 보인다. 이런 태도는 사회의 진보를 위해서는 바꾸는 것이 바람직하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr026-1.htm",
+  "legacyEncoding": "utf-8"
+}

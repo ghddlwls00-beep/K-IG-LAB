@@ -1,0 +1,83 @@
+{
+  "id": "d260-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d260",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 260 회 ]",
+  "menuLabel": "[ D 260-1 ]",
+  "unit": 260,
+  "part": null,
+  "order": 518,
+  "audio": [
+    {
+      "src": "/audio/ld/d260.mp3",
+      "legacySrc": "sounds/d260.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 260 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "전 세계의 어린이들은 겨울을 매우 기뻐한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들에게 겨울은 썰매를 꺼내고 아이스 스케이트의 날을 가는 시간을 의미한다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 눈이 올 때 어린이들은 누가 가장 좋은 눈사람을 만들 수 있는지 보기 위하여 서로 경쟁한다."
+    },
+    {
+      "type": "instruction",
+      "text": "어린 소년들은 맹렬한 눈싸움을 벌이며 때로는 만약 그들이 현지의"
+    },
+    {
+      "type": "instruction",
+      "text": "말괄량이 여자에게 눈덩이를 던지게 되면 그 싸움에서 지기 쉽다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 눈이 충분히 단단하면 이웃의 언덕들은 곧 썰매타는"
+    },
+    {
+      "type": "instruction",
+      "text": "이린이들의 모습으로 가득 차게 될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "물론 그들의 아버지들은 아이들이 다치지 않도록 지켜보기 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "또 그들 자신도 몰래 몇 번 썰매를 타기 위하여 함께 간다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d260-1.htm",
+  "legacyEncoding": "utf-8"
+}

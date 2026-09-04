@@ -1,0 +1,107 @@
+{
+  "id": "d008-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d008",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 008 회 ]",
+  "menuLabel": "[ D 008-1 ]",
+  "unit": 8,
+  "part": null,
+  "order": 15,
+  "audio": [
+    {
+      "src": "/audio/ld/d008.mp3",
+      "legacySrc": "sounds/d008.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 008 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "친애하는 페기에게. 우리는 마침내 농장을 갖게 될 것이다. 우리는 이번 주에 그것을 산다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 네가 와서 그것을 보기를 원하기 때문에 나는 너에게 그것에 대하여 맨먼저 이야기하고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 우리는 네가 며칠 동안 우리와 함께 머물기를 원한다. 그것은 시내로부터 불과 5마일 떨어진"
+    },
+    {
+      "type": "instruction",
+      "text": "약 20 에이커의 매우 좋은 작은 농장이다. 아이들을 위한 스쿨 버스가 한 대 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 아침에 그들을 위하여 정차하고 오후에 그들을 집으로 데려다준다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그들이 그것을 좋아할 것을 안다. 나도 그것을 좋아할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 집은 새 것은 아니지만 꽤 좋은 집이다. 그것은 거실, 식당, 부엌, 네 침실과 하나의 화장실이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 그 집에 전기를 갖고 있고 우리는 내년에 헛간에 전기를 넣을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 집에는 또 현대적인 난방 장치가 있다. 그 집은 겨울에 매우 따뜻하다."
+    },
+    {
+      "type": "instruction",
+      "text": "Don은 농작물들에 대한 계획을 세우고 있다. 그는 많은 옥수수와 밀과 온갖 종류의 야채를 재배할 것이 다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 큰 꽃밭을 가질 것이다. 우리는 많은 할 일을 갖게 되겠지만 나는 그것이 재미있을 것이라고"
+    },
+    {
+      "type": "instruction",
+      "text": "생각한다. 우리는 소 열 마리, 닭 약 백마리, 몇 마리의 양과 몇 마리의 돼지를 키우기 원한다."
+    },
+    {
+      "type": "instruction",
+      "text": "아이들은 말을 한 마리 원하지만 Don과 나는 그들이 너무 어리다고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 개를 한 마리 가지려고 계획하며 우리는 한 두 마리의 고양이를 살 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "제발 빨리 와서 우리를 만나줘. 사랑하는 낸시."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d008-1.htm",
+  "legacyEncoding": "utf-8"
+}

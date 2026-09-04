@@ -1,0 +1,140 @@
+{
+  "id": "cnn046",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Chile Elects First Female President",
+  "label": "Chile Elects First Female President",
+  "menuLabel": "[ CNN 46 ]",
+  "unit": 46,
+  "part": null,
+  "order": 45,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn046.mp4",
+      "legacySrc": "CNN/CNN1-60/46.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chile Elects First Female President"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelle Bachelet has won Chile’s presidential election and will become that nation’s first woman leader when she assumes office in March. The one-time political prisoner was jailed and tortured by the military junta of Augusto Pinochet. Bachelet is the Socialist who served as Defense Minister for the outgoing president, Ricardo Lagos. She says she’ll work to lessen the prosperity gap between rich and poor. Latin America is experiencing a political shift to the left, with leftists now in charge in Argentina, Brazil, Uruguay and Venezuela.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "칠레, 최초의 여성 대통령 선출",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미첼 바첼렛 후보가 칠레 대통령 선거에서 당선돼, 칠레 최초의 여성대통령으로 올 3월에 취임합니다. 한때 정치범으로 그녀는 아우구스토 피노체트 군사정권에 의해 투옥돼 고문을 받았습니다. 사회당 출신인 바첼렛 당선자는 퇴임하는 리카르도 라고스 대통령 정부하에서 국방장관을 역임한 바 있습니다. 그녀는 빈부격차 해소에 주력하겠다고 밝혔습니다. (요즘) 중남미 국가들이 정치적으로 좌경화하고 있는 추세인데, 현재 아르헨티나, 브라질, 우루과이, 베네수엘라에서 좌파 정부가 집권하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강세를 받지 못한 a-가 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "junta는 [쥰터] 혹은 [훈터] 두 가지로 발음이 가능한데, 여기서는 전자로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 강모음과 약모음 사이인데도, 영국식 발음으로 [t]음을 그대로 살려 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]음이 중복되어 한번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "she assumes",
+          "text": "[쉬슘ㅈ]."
+        },
+        {
+          "n": "junta",
+          "text": "[쥰터]."
+        },
+        {
+          "n": "shift to the left",
+          "text": "[쉬프투 더 레프ㅌ]."
+        },
+        {
+          "n": "elect",
+          "text": "선출하다, 당선시키다"
+        },
+        {
+          "n": "Michelle Bachelet",
+          "text": "미첼 바첼렛: 칠레 중도좌파 성향의 최초 여성 대통령"
+        },
+        {
+          "n": "presidential election",
+          "text": "대통령선거"
+        },
+        {
+          "n": "assume office",
+          "text": "취임하다(take office)"
+        },
+        {
+          "n": "political prisoner",
+          "text": "정치[국사]범"
+        },
+        {
+          "n": "be jailed",
+          "text": "수감되다"
+        },
+        {
+          "n": "torture",
+          "text": "고문하다, 몹시 괴롭히다"
+        },
+        {
+          "n": "(military) junta",
+          "text": "(쿠데타 직후 정권을 장악하는) 군사정부"
+        },
+        {
+          "n": "Augusto Pinochet",
+          "text": "아우구스토 피노체트: 1973년 칠레에서 쿠데타를 일으켜 정권을 잡은 군인 출신의 정치가"
+        },
+        {
+          "n": "outgoing",
+          "text": "퇴임하는, 물러나는"
+        },
+        {
+          "n": "Ricardo Lagos",
+          "text": "리카르도 라고스: 피노체트에 반대해 반체제 투쟁을 벌인 칠레의 대표적 좌파 지식인 출신의 대통령"
+        },
+        {
+          "n": "lessen",
+          "text": "감소시키다, 완화시키다"
+        },
+        {
+          "n": "prosperity",
+          "text": "번영, 번창; (금전상의) 성공"
+        },
+        {
+          "n": "shift",
+          "text": "전환, 이동; 변화, 변경"
+        },
+        {
+          "n": "in charge",
+          "text": "…을 맡은, 담당인"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/46.wmv",
+  "legacyEncoding": "binary"
+}

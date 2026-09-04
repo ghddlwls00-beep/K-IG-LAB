@@ -1,0 +1,63 @@
+{
+  "id": "pr089-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr089",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 089-1 ]",
+  "menuLabel": "[ pr089-1 ]",
+  "unit": 89,
+  "part": null,
+  "order": 177,
+  "audio": [
+    {
+      "src": "/audio/reading/pr089.mp3",
+      "legacySrc": "sounds/pr089.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 089-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "경쟁은 상대편의 행동을 지배하는 법칙들을 함축하고 있다. 모든 경우에"
+    },
+    {
+      "type": "instruction",
+      "text": "속임 수와 신체적 위협은 금지된다. 예를 들어, 두 개의 축구팀이 경기를"
+    },
+    {
+      "type": "instruction",
+      "text": "할 때 각 팀은 상대편보다 더 많은 점수를 얻기 위해 노력한다. 그러나 점"
+    },
+    {
+      "type": "instruction",
+      "text": "수는 제한된 수의 정당한 방법으로만 얻을 수 있고, 그 경기는 일련의 규"
+    },
+    {
+      "type": "instruction",
+      "text": "칙들에 의해 지배된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr089-1.htm",
+  "legacyEncoding": "utf-8"
+}

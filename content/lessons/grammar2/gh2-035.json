@@ -1,0 +1,96 @@
+{
+  "id": "gh2-035",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 35 ]",
+  "menuLabel": "[ 35과 영어 ]",
+  "unit": 35,
+  "part": null,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-035.mp3",
+      "legacySrc": "sounds/gh2-035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 35 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Some states are suing tobacco companies to recover Medicaid costs for smoking-related illnesses."
+        },
+        {
+          "n": "2",
+          "text": "Just about everyone wants the prime minister to resign."
+        },
+        {
+          "n": "3",
+          "text": "He controls enough parliamentary votes to defeat the no-confidence motion."
+        },
+        {
+          "n": "4",
+          "text": "I have nothing to lose."
+        },
+        {
+          "n": "5",
+          "text": "The riot police smashed through barricades to round up some student protesters."
+        },
+        {
+          "n": "6",
+          "text": "I have no reason to believe they are still alive."
+        },
+        {
+          "n": "7",
+          "text": "What can we do to fight the crime?"
+        },
+        {
+          "n": "8",
+          "text": "They seek to root out the problem."
+        },
+        {
+          "n": "9",
+          "text": "The timing is right to do that."
+        },
+        {
+          "n": "10",
+          "text": "The spread of AIDS prompted men to search for younger sex partners."
+        },
+        {
+          "n": "11",
+          "text": "When you happen to come to town, be sure to look me up again."
+        },
+        {
+          "n": "12",
+          "text": "I am sorry to hear that you've got divorced."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-035.htm",
+  "legacyEncoding": "utf-8"
+}

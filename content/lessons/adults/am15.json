@@ -1,0 +1,139 @@
+{
+  "id": "am15",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 15 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": null,
+  "order": 142,
+  "audio": [
+    {
+      "src": "/audio/adults/am15.mp3",
+      "legacySrc": "sounds/am15.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 15 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 15: The Korean Economy"
+    },
+    {
+      "type": "hints",
+      "text": "The Korean Economy after the Korean War"
+    },
+    {
+      "type": "instruction",
+      "text": "By the end of the Korean War, the entire country had been devastated by death and destruction."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s economy was very unstable."
+    },
+    {
+      "type": "instruction",
+      "text": "At that time, I was very young, so I/my parents experienced a very poor life."
+    },
+    {
+      "type": "instruction",
+      "text": "By the 1970s, Korea’s economy was showing signs of progress."
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy: The Seventies and the Eighties"
+    },
+    {
+      "type": "instruction",
+      "text": "After the 1970s, our country’s economy started to develop."
+    },
+    {
+      "type": "instruction",
+      "text": "During the 1980’s the Olympic games and other cultural events were held in Korea, and the country became known more around the world."
+    },
+    {
+      "type": "instruction",
+      "text": "Our economy started to and continued to develop very quickly during these two decades."
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy: The Nineties"
+    },
+    {
+      "type": "instruction",
+      "text": "By the 1990s, instability began as a result of Korea’s rapidly growing economy."
+    },
+    {
+      "type": "instruction",
+      "text": "By the end of the decade, Korea’s economy was in crisis."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans worked very diligently to overcome this difficult time."
+    },
+    {
+      "type": "instruction",
+      "text": "However, the gap that separated the rich from the poor continued to grow."
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy Today"
+    },
+    {
+      "type": "instruction",
+      "text": "Even in modern times, no country’s economy is completely stable."
+    },
+    {
+      "type": "instruction",
+      "text": "This goes for Korea’s economy as well."
+    },
+    {
+      "type": "instruction",
+      "text": "As the cost of living increases, so does the price of oil."
+    },
+    {
+      "type": "instruction",
+      "text": "This makes life very difficult for us in Korea because we are a very oil dependent nation."
+    },
+    {
+      "type": "instruction",
+      "text": "On the bright side, our country’s is exporting more and more of its products every year."
+    },
+    {
+      "type": "instruction",
+      "text": "As a citizen of Korean, I’m trying my best to help the economy by not wasting money and following a strict budget."
+    },
+    {
+      "type": "instruction",
+      "text": "Hopefully, all Korean people will do their part in improving the economy."
+    },
+    {
+      "type": "instruction",
+      "text": "By doing so, we will all financially prosper in the future."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am15.htm",
+  "legacyEncoding": "utf-8"
+}

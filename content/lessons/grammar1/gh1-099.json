@@ -1,0 +1,132 @@
+{
+  "id": "gh1-099",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 099]",
+  "menuLabel": "[ gh1-099 ]",
+  "unit": 99,
+  "part": null,
+  "order": 145,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-099.mp3",
+      "legacySrc": "sounds/gh1-099.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 099]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "96",
+          "text": "The athletes didn't pay for lunch, did they?"
+        },
+        {
+          "n": "97",
+          "text": "The company took part(participated) in the project, didn't it?"
+        },
+        {
+          "n": "98",
+          "text": "He doesn't go on a date today, does he?"
+        },
+        {
+          "n": "99",
+          "text": "Does he borrow some money?"
+        },
+        {
+          "n": "100",
+          "text": "Doesn't he lend some money?"
+        },
+        {
+          "n": "101",
+          "text": "Didn't the staff support the ambassador?"
+        },
+        {
+          "n": "102",
+          "text": "How fast(soon, quickly) does it become clear?"
+        },
+        {
+          "n": "103",
+          "text": "How fast did the meeting end?"
+        },
+        {
+          "n": "104",
+          "text": "She sees him many times every day, doesn't she?"
+        },
+        {
+          "n": "105",
+          "text": "He takes care of the patient many hours every day, doesn't he?"
+        },
+        {
+          "n": "106",
+          "text": "You did not mean it, did you?"
+        },
+        {
+          "n": "107",
+          "text": "Why didn't North and South reach a compromise?"
+        },
+        {
+          "n": "108",
+          "text": "There was no attempt to negotiate, was there?"
+        },
+        {
+          "n": "109",
+          "text": "He is (a) Korean, isn't he?"
+        },
+        {
+          "n": "110",
+          "text": "He is not (a) Japanese, is he?"
+        },
+        {
+          "n": "111",
+          "text": "She was (an) American, wasn't she?"
+        },
+        {
+          "n": "112",
+          "text": "She was not (a) Filipino, was she?"
+        },
+        {
+          "n": "113",
+          "text": "Wasn't the ambassador in Germany?"
+        },
+        {
+          "n": "114",
+          "text": "He can't speak German, can he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-099.htm",
+  "legacyEncoding": "utf-8"
+}

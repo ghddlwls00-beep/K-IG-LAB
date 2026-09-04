@@ -1,0 +1,47 @@
+{
+  "id": "pr091-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr091",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 091-1 ]",
+  "menuLabel": "[ pr091-1 ]",
+  "unit": 91,
+  "part": null,
+  "order": 181,
+  "audio": [
+    {
+      "src": "/audio/reading/pr091.mp3",
+      "legacySrc": "sounds/pr091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 091-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사법 제도의 목적은 국민의 권리를 보호하는 것이다. 예를 들어, 미국 법에 의하면 어떤 사람이 범죄로 고발되면, 그 사람이 유죄라는 걸 법정이 증명할 때까지는 무죄로 여긴다. 다시 말하자면, 유죄를 입증하는 것은 법정의 책임이라는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr091-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr186-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr186",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 186-1 ]",
+  "menuLabel": "[ pr186-1 ]",
+  "unit": 186,
+  "part": null,
+  "order": 371,
+  "audio": [
+    {
+      "src": "/audio/reading/pr186.mp3",
+      "legacySrc": "sounds/pr186.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 186-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "구경꾼과 진정한 예술 감상자 사이에는 차이가 있다. 구경꾼은, 마음은 딴 곳에 있는 체로 눈은 그 것을 보면서, 예술품의 옆을 자나 간다. 그들은 예술품을 진정으로 감상하지 않는다. 반면에, 감상자는 충분한 지식과 감상력이 있다. 그들은 예술품이 자신에게 의미있는 것이 되도록 시간과 정력을 쏟는다. 그들은 단순히 예술품 곁에 존재하는게 아니다. 그들은 일상의 사소한 부분에서도 예술이 존재함을 인식한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr186-1.htm",
+  "legacyEncoding": "utf-8"
+}

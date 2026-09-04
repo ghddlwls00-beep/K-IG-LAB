@@ -1,0 +1,47 @@
+{
+  "id": "pr105",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 105 ]",
+  "menuLabel": "[ pr105 ]",
+  "unit": 105,
+  "part": null,
+  "order": 208,
+  "audio": [
+    {
+      "src": "/audio/reading/pr105.mp3",
+      "legacySrc": "sounds/pr105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 105 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The primary aims of government should be three: security, justice, and conservation. These are things of the utmost importance to human happiness, and they are things that only government can bring about. At the same time, no one of them is absolute; each may, in some circumstances, have to be sacrificed in some degree for the sake of a greater degree of some other good. I shall say something about each in turn."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr105.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "d057-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d057",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 057회 ]",
+  "menuLabel": "[ D 057-1 ]",
+  "unit": 57,
+  "part": null,
+  "order": 113,
+  "audio": [
+    {
+      "src": "/audio/ld/d057.mp3",
+      "legacySrc": "sounds/d057.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 057회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "시골 생활은 많은 유리한 점이 있다. 한 가지로써 공기는 신선하고 깨끗하며 많은 평화와 고요함이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 유리한 점은 많은 면에서 시골 생활은 도시 생활보다 더 경제적이라는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "필요로 하는 대부분의 야채를 공급해줄 정원을 간직할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 계란을 공급해줄 충분한 닭을 키울 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 만약 자기 자신의 집을 짓고 싶다면 시골에서 땅이 더 싸다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 이유 이외에도 시골집은 도시에서 일하는 바쁜 하루 후에 돌아갈 쾌적한 장소 뿐 아니라 가족을 키울 좋은 장소를 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "당신 자신이 시골에서 살아본 적이 혹시라도 있다면 자유롭고 편안한 생활에 관한 한 시골집이 최고라는 것에 아마 동의할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 도시에서 일하지만 시골 생활의 유리한 점들은 직장으로 출퇴근하면서 쓰는 시간들을 보충해준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d057-1.htm",
+  "legacyEncoding": "utf-8"
+}

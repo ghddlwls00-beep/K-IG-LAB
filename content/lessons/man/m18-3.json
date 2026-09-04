@@ -1,0 +1,133 @@
+{
+  "id": "m18-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m18-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 3,
+  "order": 79,
+  "audio": [
+    {
+      "src": "/audio/man/m18-3-1.mp3",
+      "legacySrc": "m18-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-3-2.mp3",
+      "legacySrc": "m18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-3-3.mp3",
+      "legacySrc": "m18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-3-4.mp3",
+      "legacySrc": "m18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-3-5.mp3",
+      "legacySrc": "m18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m18-3-6.mp3",
+      "legacySrc": "m18-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "추석은 연중 가장 큰 연휴이고 그것은 종종 한국의 추수감사절로 불린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석동안, 사람들은 그들의 조상의 무덤을 방문하고 조상들에게 바칠 음식을 만든다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During Chu-seok, people visit their ancestrial tombs and make an offering of food to their ancestors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가, 많은 사람들은 그들의 친척과 함께 게임을 하고 송편을 만드는데 송편은 한국의 전통적인 떡이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 우리나라의 전통적인 휴일을 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like our country’s traditional holidays.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "요즘에 나는 얼마나 가족이 중요한지 배운다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On these days I learn how important family is!",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "18 Korean Holidays :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chu-Seok",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m18-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m18-3.swf"
+  ]
+}

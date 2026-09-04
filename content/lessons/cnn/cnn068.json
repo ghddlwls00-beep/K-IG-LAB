@@ -1,0 +1,142 @@
+{
+  "id": "cnn068",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "EU Not Ready to Admit Belgrade",
+  "label": "EU Not Ready to Admit Belgrade",
+  "menuLabel": "[ CNN 68 ]",
+  "unit": 68,
+  "part": null,
+  "order": 67,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn068.mp4",
+      "legacySrc": "CNN/CNN61-120/68.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "EU Not Ready to Admit Belgrade"
+    },
+    {
+      "type": "paragraph",
+      "text": "EU Foreign Ministers open a two-day meeting in Brussels today to debate ties with Serbia and Montenegro. The ministers will hear a report recommending suspension of aid and EU accession talks because Belgrade has failed to deliver top war crimes suspects. Rumors have circulated recently, especially about negotiations on the arrest of top wartime military commander Radco Mladich. Belgrade said on Sunday that it didn’t believe the EU would sever ties at the Brussels meeting, but would grant it a few more weeks to capture and deliver Mladich.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "EU, 세르비아-몬테니그로 아직 인정 못해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "EU 회원국 외무장관들은 오늘부터 이틀간 브뤼셀에서 회의을 열어 세르비아-몬테니그로와의 관계 정상화에 관한 논의를 합니다. 외무 장관들은 세르비아-몬테니그로가 핵심 전범 용의자들의 신병을 인도하지 않은 이상, 원조 중단과EU 가입 협상 중단을 권고하는 보고를 받을 계획입니다. 특히, 전시 최고사령관이었던 라드코 믈라디치의 체포와 관련한 협상에 대해 최근 소문이 무성하게 일고 있습니다. 세르비아-몬테니그로는 EU가 브뤼셀 회담에서 관계 단절을 할 것으로는 보지 않으며, 믈라디치를 체포, 인도하는데 필요한 기간을 몇 주 더 줄 것으로 기대하고 있다고 지난 일요일 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브뤼셀의 영어 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Belgrade(베오그라드)는 [벨그레이]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-sp- 무성음의 중복으로 [p]가 [ㅃ]로 경음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1음절에 강세가 있어 -ate-의 [eit] 부분이 약화되어 [릿]에 가깝게 소리 나고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. accession/ 가맹, 가입",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. war criminal/ 전쟁범죄자, 전범(戰犯)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Brussels",
+          "text": "[브러썰ㅈ]."
+        },
+        {
+          "n": "suspension",
+          "text": "[써스뺀션]."
+        },
+        {
+          "n": "circulated",
+          "text": "[써큘레이릿]."
+        },
+        {
+          "n": "admit",
+          "text": "인정하다, 승인하다"
+        },
+        {
+          "n": "Belgrade",
+          "text": "베오그라드: 세르비아-몬테니그로의 수도로 구(舊) 유고연방의 수도이기도 했다."
+        },
+        {
+          "n": "Serbia and Montenegro",
+          "text": "세르비아-몬테니그로: 유고연방의 6개 공화국 중 세르비아와 몬테니그로 공화국이 합쳐 1992년 세운 국가"
+        },
+        {
+          "n": "suspension",
+          "text": "중지; 지불 정지; 정학"
+        },
+        {
+          "n": "deliver",
+          "text": "인도하다, 넘겨주다"
+        },
+        {
+          "n": "EU accession talks EU",
+          "text": "가입회담"
+        },
+        {
+          "n": "war crimes",
+          "text": "전쟁범죄"
+        },
+        {
+          "n": "circulate",
+          "text": "(소문이) 퍼지다, 돌다"
+        },
+        {
+          "n": "wartime",
+          "text": "전시: 여기서는 보스니아 내전(1992~95년)을 뜻함"
+        },
+        {
+          "n": "commander",
+          "text": "지휘관, 사령관"
+        },
+        {
+          "n": "Radco Mladich",
+          "text": "라드코 믈라디치: 보스니아 내전 당시 보스니아 민병대 사령관으로 8천여명의 이슬람교도를 살해했다."
+        },
+        {
+          "n": "sever ties (with)",
+          "text": "(…와의) 관계를 끊다, 단절하다"
+        },
+        {
+          "n": "grant",
+          "text": "(권리를) 주다; 허가하다, 인정하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/68.wmv",
+  "legacyEncoding": "binary"
+}

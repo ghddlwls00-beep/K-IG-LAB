@@ -1,0 +1,83 @@
+{
+  "id": "d068-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d068",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 068회 ]",
+  "menuLabel": "[ D 068-1 ]",
+  "unit": 68,
+  "part": null,
+  "order": 135,
+  "audio": [
+    {
+      "src": "/audio/ld/d068.mp3",
+      "legacySrc": "sounds/d068.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 068회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 십대일 때 우리는 바깥 시골에 살았다. 우리가 시내로 가기를 원한다면 우리는 걸어야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런데 내가 나의 첫 번째 차를 샀다. 나는 결코 그것을 잊지 않을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 그 당시 멀리 달라스에 계셨다. 나는 그를 놀래주고 그 차로 그를 만나기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그가 내가 그의 짐을 집까지 먼 길을(줄곧) 운반해줄 것을 기대한다는 것을 알고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "어머니는 내가 시내로 차를 몰고 가는 것을 원하지 않으셨다"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 전에 꼭 한번 운전해 보았고 매우 자신있는 운전자가 아니었다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 그녀는 아버지가 새차를 볼 때 뭐라고 할지 두려웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 내가 정거장으로 걸어가서 나중에 그에게 그 차에 대하여 말하기를 원했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 나는 모든 사람에게 나의 완전한 새 차를 보여주고 싶었고 그래서 나는 출발했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d068-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "m1-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m1-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/man/m1-3-1.mp3",
+      "legacySrc": "m1-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-3-2.mp3",
+      "legacySrc": "m1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-3-3.mp3",
+      "legacySrc": "m1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-3-4.mp3",
+      "legacySrc": "m1-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적인 사람이지만, 나는 때때로 조금은 새로운 사람들에게 소심합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though I’m a very outgoing person, I’m sometimes a little shy around new people.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 주위에 내가 사랑하는 많은 친구들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a lot of friends who(m) I love to be around.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 꽤 행복한 사람이므로 많은 사람들이 나를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m a pretty happy person, so most people like me.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Personality - I’m An Outgoing Person",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m1-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m1-3.swf"
+  ]
+}

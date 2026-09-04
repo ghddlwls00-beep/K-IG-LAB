@@ -1,0 +1,75 @@
+{
+  "id": "d242-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d242",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 242 회 ]",
+  "menuLabel": "[ D 242-1 ]",
+  "unit": 242,
+  "part": null,
+  "order": 482,
+  "audio": [
+    {
+      "src": "/audio/ld/d242.mp3",
+      "legacySrc": "sounds/d242.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 242 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 스포츠가 경기하기에 어려운 것과 똑같이 일부는 이해하기에 어렵다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 미국 축구 게임은 거의 전쟁의 전투만큼이나 복잡하다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 스포츠의 복잡한 내용을 정말로 이해할 수 있는 사람은 소수이지만"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들은 그것의 광경 때문에 그것을 즐긴다."
+    },
+    {
+      "type": "instruction",
+      "text": "군중의 응원, 그 현장의 빛나는 색채, 밴드의 군악은 모두 합쳐져서 축구 정신을 만들어낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 광경이 아니라면 일부 사람들은 축구 시합에 가지 않을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 많은 사람들은 축구를 이해하는 척하기를 좋아한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d242-1.htm",
+  "legacyEncoding": "utf-8"
+}

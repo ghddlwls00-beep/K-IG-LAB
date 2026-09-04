@@ -1,0 +1,47 @@
+{
+  "id": "pr110",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 110 ]",
+  "menuLabel": "[ pr110 ]",
+  "unit": 110,
+  "part": null,
+  "order": 218,
+  "audio": [
+    {
+      "src": "/audio/reading/pr110.mp3",
+      "legacySrc": "sounds/pr110.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 110 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Another physical benefit takes longer to achieve, but it is well worth the effort, particularly for women. If done regularly and over a long period of time, exercise can help prevent osteoporosis, a gradual process of bone loss that occurs naturally as people age. This can be stopped by regular exercise. It actually helps increase bone mass, and is said to be the best preventive measure to avoid osteoporosis."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr110.htm",
+  "legacyEncoding": "utf-8"
+}

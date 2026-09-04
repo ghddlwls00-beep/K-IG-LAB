@@ -1,0 +1,64 @@
+{
+  "id": "qa191-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa191",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 191-1 〕",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 1,
+  "order": 434,
+  "audio": [
+    {
+      "src": "/audio/basics/qa191.mp3",
+      "legacySrc": "sounds/qa191.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 191-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국의 문화) → 한국문화는 무엇이 독특합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "239",
+          "text": "우리 문화는 / 다른 문화와는 / 달라."
+        },
+        {
+          "n": "240",
+          "text": "특히 / 우리의 언어와 삶의 양식이 / 어떤 다른 나라와도 / 같지 않아."
+        },
+        {
+          "n": "241",
+          "text": "한국 / 문화는 / 매우 독특해."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa191-1.htm",
+  "legacyEncoding": "utf-8"
+}

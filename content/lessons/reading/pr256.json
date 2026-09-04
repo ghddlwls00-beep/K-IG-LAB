@@ -1,0 +1,47 @@
+{
+  "id": "pr256",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 256 ]",
+  "menuLabel": "[ pr256 ]",
+  "unit": 256,
+  "part": null,
+  "order": 510,
+  "audio": [
+    {
+      "src": "/audio/reading/pr256.mp3",
+      "legacySrc": "sounds/pr256.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 256 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In the twentieth century, there have been many advances in technology. Scientists have sent people out into space and even to the moon. Television, cars, and computers have changed our lives profoundly. New medical treatments have offered hope and even life itself to severely ill people. We have come a long way because of technology. Yet the great possibilities of technology have created equally troubling ethical problems. These questions, for instance, should be asked : Should there be ethical limits to technological development? If so, how do we decide where to draw the line? And who should decide?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr256.htm",
+  "legacyEncoding": "utf-8"
+}

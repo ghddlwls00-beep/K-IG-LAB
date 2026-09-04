@@ -1,0 +1,47 @@
+{
+  "id": "pr017-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr017",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 017-1 ]",
+  "menuLabel": "[ pr017-1 ]",
+  "unit": 17,
+  "part": null,
+  "order": 33,
+  "audio": [
+    {
+      "src": "/audio/reading/pr017.mp3",
+      "legacySrc": "sounds/pr017.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 017-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "자연의 세계를 접하는 기쁨은 예술가를 위해서만 예비된 것이 아니다. 그것들은, 한적한 산 정상이나 숲의 고요함의 영향하에 자신을 두고자 하는 어떤 사람에게도 이용될 수 있다. 나는, 자연미가 어떤 개인 또는 어떤 사회의 정신적 발달에 필요한 공간을 가진다고 믿는다. 우리가 미를 파괴할 때마다 혹은 지구의 자연적인 특징을 인위적인 것으로 대체할 때마다 인간의 정신적인 성장을 지체시켜 오고 있다고 난 믿는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr017-1.htm",
+  "legacyEncoding": "utf-8"
+}

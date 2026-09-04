@@ -1,0 +1,84 @@
+{
+  "id": "d002-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d002",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 002 회 ]",
+  "menuLabel": "[ D 002-1 ]",
+  "unit": 2,
+  "part": null,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/ld/d002.mp3",
+      "legacySrc": "sounds/d002.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 002 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "2",
+          "text": "나의 이름은 로드 왓슨입니다. 나의 성명은 로드니 힐 왓슨입니다."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 밥 왓슨의 형제이고 나는 콜로라도주 덴버에 삽니다. 콜로라도는 미국의 서부주의 하나입니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 저 너머의 저 집에서 삽니다. 나는 클레이턴 가에서 삽니다. 그 번지(호)는 1490입니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 주소는 클레이턴가 1490번지입니다. 밥과 나는 둘 다 덴버에서 태어났지만 밥은 지금 위스컨신의"
+    },
+    {
+      "type": "paragraph",
+      "text": "매디슨에 삽니다. 나는 1937년에 태어났습니다. 나의 생일은 3월 1일입니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "밥은 1941년에 태어났습니다. 나는 공무원입니다. 나는 경제학자입니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 시내에서 한 큰 사무실 빌딩에서 일합니다. 나는 거기에 한 좋은 사무실을 갖고 있습니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 일을 매우 많이 즐깁니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d002-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "p21",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle21]",
+  "menuLabel": null,
+  "unit": 21,
+  "part": null,
+  "order": 206,
+  "audio": [
+    {
+      "src": "/audio/middle/p21.mp3",
+      "legacySrc": "sounds/p21.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle21]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 21: Introduction"
+    },
+    {
+      "type": "hints",
+      "text": "My name is James. I am 12 years old and am in the fifth grade."
+    },
+    {
+      "type": "instruction",
+      "text": "I go to Han -guk Elementary School. I live in Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "I am a very outgoing person, and I have a lot of friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My hobbies include reading books, listening to music"
+    },
+    {
+      "type": "instruction",
+      "text": "and watching movies. My favorite subject is English."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to help other people. When I help others, it makes me happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a nice family. There are 4 people in my family :"
+    },
+    {
+      "type": "instruction",
+      "text": "my father, my mother, my sister, and me."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents always make my sister and I feel important and special."
+    },
+    {
+      "type": "instruction",
+      "text": "My sister attends Han-guk Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "She likes all kinds of animals."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is always happy, and we are very close to one another."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend is Mary. She is like me in many ways."
+    },
+    {
+      "type": "instruction",
+      "text": "She is also very outgoing but he is shier than I am."
+    },
+    {
+      "type": "instruction",
+      "text": "She has many talents like speaking English and playing computer games."
+    },
+    {
+      "type": "instruction",
+      "text": "She sometimes tells me that she wants to be an interpreter someday."
+    },
+    {
+      "type": "instruction",
+      "text": "She is smart, and I am sure that her dream will come true."
+    },
+    {
+      "type": "instruction",
+      "text": "I have many relatives because both my father and mother"
+    },
+    {
+      "type": "instruction",
+      "text": "have many brothers and sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "My uncles and aunts are all married, so I have a lot of cousins as well."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite relative is my oldest uncle."
+    },
+    {
+      "type": "instruction",
+      "text": "My family visits him twice a month."
+    },
+    {
+      "type": "instruction",
+      "text": "He has children who are similar in age to me."
+    },
+    {
+      "type": "instruction",
+      "text": "When we get together, we usually go out for dinner."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p21.htm",
+  "legacyEncoding": "utf-8"
+}

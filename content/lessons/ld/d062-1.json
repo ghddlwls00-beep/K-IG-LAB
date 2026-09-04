@@ -1,0 +1,83 @@
+{
+  "id": "d062-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d062",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 062회 ]",
+  "menuLabel": "[ D 062-1 ]",
+  "unit": 62,
+  "part": null,
+  "order": 123,
+  "audio": [
+    {
+      "src": "/audio/ld/d062.mp3",
+      "legacySrc": "sounds/d062.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 062회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 우리는 그 많은 군중을 뚫고 나갈 길을 찾을 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "갑자기 우리는 Taggy의 분장실 밖의 우리를 발견했다. 우리는 안을 들여다보고 싶어서 견딜 수가 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 순간 우리는 누가 오는 소리를 들었다. 나는 왜 그랬는지 모르지만 우리는 그 벽장 안에 숨었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 바깥 분장실에서 Taggy와 한 음악인 친구가 이야기하는 것을 들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Taggy가 “맥주 좀 주게. 그리고 자선을 위한 한 수표를 써라."
+    },
+    {
+      "type": "instruction",
+      "text": "언론이 그것의 몇 사진을 찍게 하고 그런 다음 그것을 태워 버려."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 단지 내 돈을 줘서 없애기 위하여 일하지는 않아.”라고 말했다. 나는 나의 여자 친구를 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 분노로 빨갛게 변했었다. 우리는 벽장 문을 열고 우리의 사인들을 탁자 위로 던지고 그 방으로부터 행진해나갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Taggy Montag는 우리가 그 “진짜” Taggy Montag 이야기를 가지고 신문사로 가지 않을까 하면서 행복하 지 않은 한 두 시간을 보냈을 것이 틀림없다. 그러나 우리는 결코 그러지 않았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d062-1.htm",
+  "legacyEncoding": "utf-8"
+}

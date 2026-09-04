@@ -1,0 +1,87 @@
+{
+  "id": "p221",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 221]",
+  "menuLabel": null,
+  "unit": 22,
+  "part": 1,
+  "order": 212,
+  "audio": [
+    {
+      "src": "/audio/middle/p221.mp3",
+      "legacySrc": "sounds/p221.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 221]"
+    },
+    {
+      "type": "instruction",
+      "text": "(At School)"
+    },
+    {
+      "type": "hints",
+      "text": "I am often late for school because I sleep in late,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my mornings are very busy."
+    },
+    {
+      "type": "instruction",
+      "text": "I usually walk to school."
+    },
+    {
+      "type": "instruction",
+      "text": "It takes about fifteen minutes to get there."
+    },
+    {
+      "type": "instruction",
+      "text": "When class starts at 9:00,"
+    },
+    {
+      "type": "instruction",
+      "text": "our teacher checks our homework and our journals."
+    },
+    {
+      "type": "instruction",
+      "text": "When I don’t do my homework, I get very nervous."
+    },
+    {
+      "type": "instruction",
+      "text": "Like most other students, my favorite subject is P.E."
+    },
+    {
+      "type": "instruction",
+      "text": "Our class has a lot of smart students in it,"
+    },
+    {
+      "type": "instruction",
+      "text": "so we are very competitive."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p221.htm",
+  "legacyEncoding": "utf-8"
+}

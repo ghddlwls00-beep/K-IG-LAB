@@ -1,0 +1,95 @@
+{
+  "id": "p254",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 254]",
+  "menuLabel": null,
+  "unit": 25,
+  "part": 4,
+  "order": 229,
+  "audio": [
+    {
+      "src": "/audio/middle/p254.mp3",
+      "legacySrc": "sounds/p254.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 254]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Famous Places)"
+    },
+    {
+      "type": "hints",
+      "text": "Our country has many places to visit such as Gyeong-ju,"
+    },
+    {
+      "type": "instruction",
+      "text": "Bulguk-Temple, Mt. Halla and the Korea Folk Village."
+    },
+    {
+      "type": "instruction",
+      "text": "The most historical attraction in Korea is the city of Gyeong-ju."
+    },
+    {
+      "type": "instruction",
+      "text": "Gyeong-ju was the ancient capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was at its most powerful during the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people refer to Gyeong-ju as a museum without walls"
+    },
+    {
+      "type": "instruction",
+      "text": "because it contains many old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "instruction",
+      "text": "Another popular place to visit is Mt. Halla on the island of Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "It is located near the center of the island,"
+    },
+    {
+      "type": "instruction",
+      "text": "and it is South Korea’s tallest mountain,"
+    },
+    {
+      "type": "instruction",
+      "text": "standing at almost 2,000 meters tall."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to visit these marvelous places someday."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p254.htm",
+  "legacyEncoding": "utf-8"
+}

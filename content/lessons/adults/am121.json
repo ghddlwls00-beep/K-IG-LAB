@@ -1,0 +1,59 @@
+{
+  "id": "am121",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 121 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 1,
+  "order": 117,
+  "audio": [
+    {
+      "src": "/audio/adults/am121.mp3",
+      "legacySrc": "sounds/am121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 121 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Life as Newlyweds"
+    },
+    {
+      "type": "hints",
+      "text": "During our early newlywed years, we did not have much money, so my wife suffered more than me because of this."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes we had many arguments because it had taken a while for us to adjust to life together."
+    },
+    {
+      "type": "instruction",
+      "text": "We each had a different upbringing, and we worked hard to learn to live together happily."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am121.htm",
+  "legacyEncoding": "utf-8"
+}

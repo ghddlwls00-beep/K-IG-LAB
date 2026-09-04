@@ -1,0 +1,75 @@
+{
+  "id": "pr232",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 232 ]",
+  "menuLabel": "[ pr232 ]",
+  "unit": 232,
+  "part": null,
+  "order": 462,
+  "audio": [
+    {
+      "src": "/audio/reading/pr232.mp3",
+      "legacySrc": "sounds/pr232.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 232 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "People all around the world spend an average of 1.1 hours on the road each"
+    },
+    {
+      "type": "hints",
+      "text": "day. Thousands of people are killed, and hundreds of thousands injured each"
+    },
+    {
+      "type": "instruction",
+      "text": "day in car accidents. We are pumping huge quantities of CO2 into the"
+    },
+    {
+      "type": "instruction",
+      "text": "atmosphere, almost one-third of which comes from cars. We know that this"
+    },
+    {
+      "type": "instruction",
+      "text": "gas causes a greenhouse effect. Our roads are crowded no matter how many"
+    },
+    {
+      "type": "instruction",
+      "text": "we build, and building them destroys nature. Huge amounts of space are given"
+    },
+    {
+      "type": "instruction",
+      "text": "over to parking lots rather than to trees and birds. Thus, we know of many"
+    },
+    {
+      "type": "instruction",
+      "text": "ways in which car use is costly and harmful."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr232.htm",
+  "legacyEncoding": "utf-8"
+}

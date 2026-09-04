@@ -1,0 +1,75 @@
+{
+  "id": "p105-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p105",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 105-1 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 5,
+  "order": 113,
+  "audio": [
+    {
+      "src": "/audio/middle/p105.mp3",
+      "legacySrc": "sounds/p105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 105-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(금요일 밤)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 좋아하는 날은 금요일 밤 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "왜냐하면 그것은 주말의 시작이기 때문입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 학원들과 학교의 정상적인 계획의 끝입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 잘되지 못한 것들을 되돌아 볼 수 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "희망을 가지고 더 나은 새로운 한 주를 계획할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 이것을 하기 전에, 나는 다가오는 주를 위해 내가 계획했던"
+    },
+    {
+      "type": "instruction",
+      "text": "재미있는 것들에 대해 생각하기 시작합니다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p105-1.htm",
+  "legacyEncoding": "utf-8"
+}

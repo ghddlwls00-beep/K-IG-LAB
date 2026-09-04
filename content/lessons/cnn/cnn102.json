@@ -1,0 +1,165 @@
+{
+  "id": "cnn102",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Chinese President Meets With U.S. Business Leaders",
+  "label": "Chinese President Meets With U.S. Business Leaders",
+  "menuLabel": "[ CNN 102 ]",
+  "unit": 102,
+  "part": null,
+  "order": 101,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn102.mp4",
+      "legacySrc": "CNN/CNN61-120/102.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chinese President Meets With U.S. Business Leaders"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chinese President Hu Jintao has been speaking to U.S. business leaders as he wraps up his visit to Washington DC. His message, “continued efforts to deepen bilateral ties with the United States” largely reemphasizing the message he stressed in earlier meetings with the U.S. President George W. Bush. The two also vowed more efforts to resolve a shopping list of concerns including a widening trade gap, intellectual piracy, energy conservation and pro-independence moves in Taiwan. But, at day’s end, no word on any significant changes in the status quo. During his first two days in the U.S., Mr. Hu kept the focus on trade issues, touting lucrative contracts with U.S. businesses that came just before the summit.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "후진타오, 미 재계 지도자들과 회동",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "후진타오 중국 국가 주석은 미 재계 지도자들을 상대로 연설하는 것으로 워싱턴 방문 일정을 마무리했습니다. 지속적인 노력을 통해 미-중 양국 관계를 돈독히 해나가자는 후 주석의 이날 메시지는 주로 앞서 열린 부시 미 대통령과의 정상회담에서 중점을 뒀던 내용을 재차 강조하는 것이었습니다. 양국 정상은 또한 무역 불균형 악화, 지적 재산권 침해, 에너지 보존, 타이완의 독립추구 움직임 등과 같은 중대 관심 사안들의 해결을 위해 더 많은 노력을 기울이기로 약속했습니다. 하지만 그 날의 일정을 마칠 때까지도 양국 관계의 현황에 중대한 변화를 시사하는 발표 내용은 없었습니다. 후 주석은 방미 일정 첫 이틀 동안은 무역 문제에 집중했는데, 정상회담 직전에 체결한 미 기업들과의 수익성 높은 사업 계약을 높이 평가했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[d] 다음에 g, k, p 등의 자음이 오면 탈락되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤의 trade issues의 경우는 [d]가 그대로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비교해 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강모음 a와 약모음 u 사이에 있는 [t]는 [r]로 유음화되어 [스태(이)러스]라고 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "qu는 단모음이 아니라 복모음으로 발음해야 하므로 quo는 [쿼]가 아니라 [쿠오]로 순차적으로 빨리 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "trade gap",
+          "text": "[트레이-갭]."
+        },
+        {
+          "n": "status quo",
+          "text": "[스태(이)러스쿠오]."
+        },
+        {
+          "n": "wrap up",
+          "text": "…을 매듭짓다, 마무리하다"
+        },
+        {
+          "n": "visit",
+          "text": "방문"
+        },
+        {
+          "n": "deepen",
+          "text": "심화하다, 돈독히 하다"
+        },
+        {
+          "n": "bilateral ties",
+          "text": "쌍무[양자] 관계"
+        },
+        {
+          "n": "largely",
+          "text": "주로, 대부분"
+        },
+        {
+          "n": "reemphasize",
+          "text": "다시 강조하다"
+        },
+        {
+          "n": "stress",
+          "text": "강조하다, 무게[중점]를 두다"
+        },
+        {
+          "n": "vow",
+          "text": "맹세하다, 약속하다"
+        },
+        {
+          "n": "resolve",
+          "text": "해결하다"
+        },
+        {
+          "n": "shopping list",
+          "text": "(회의의) 논의사항, 요구[주의]사항"
+        },
+        {
+          "n": "concern",
+          "text": "관심사, 중대사"
+        },
+        {
+          "n": "widening",
+          "text": "확대되는, 증가하는"
+        },
+        {
+          "n": "trade gap",
+          "text": "무역불균형"
+        },
+        {
+          "n": "intellectual piracy",
+          "text": "지적재산권침해: 주로 불법 복제문제"
+        },
+        {
+          "n": "energy conservation",
+          "text": "에너지보존"
+        },
+        {
+          "n": "pro-independence",
+          "text": "독립추구"
+        },
+        {
+          "n": "significant",
+          "text": "중요한, 의미심장한"
+        },
+        {
+          "n": "status quo",
+          "text": "현상, 현상유지"
+        },
+        {
+          "n": "tout",
+          "text": "극구 선전[칭찬]하다"
+        },
+        {
+          "n": "lucrative",
+          "text": "이익이 되는, 수지맞는"
+        },
+        {
+          "n": "summit",
+          "text": "정상회담"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/102.wmv",
+  "legacyEncoding": "binary"
+}

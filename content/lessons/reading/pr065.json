@@ -1,0 +1,47 @@
+{
+  "id": "pr065",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 065 ]",
+  "menuLabel": "[ pr065 ]",
+  "unit": 65,
+  "part": null,
+  "order": 128,
+  "audio": [
+    {
+      "src": "/audio/reading/pr065.mp3",
+      "legacySrc": "sounds/pr065.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 065 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In order to avoid the greenhouse effect, we have to find other sources of energy. They have to be clean and less expensive. Scientists think that one such source is solar energy. It can be used to produce electricity, which can then be used to run cars and fly airplanes. Now we should take steps to find clean energy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr065.htm",
+  "legacyEncoding": "utf-8"
+}

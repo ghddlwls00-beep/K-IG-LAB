@@ -1,0 +1,75 @@
+{
+  "id": "d238-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d238",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 238 회 ]",
+  "menuLabel": "[ D 238-1 ]",
+  "unit": 238,
+  "part": null,
+  "order": 474,
+  "audio": [
+    {
+      "src": "/audio/ld/d238.mp3",
+      "legacySrc": "sounds/d238.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 238 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 초심자 비행기 승객은 보통 자신의 두려움은 사실무근이라는 것을 발견한다."
+    },
+    {
+      "type": "instruction",
+      "text": "비행기는 그가 알아차리지 못하는 가운데 지상을 떠난다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 기다려오고 있는 그 병드는 느낌은 결코 오지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 창문 밖을 보고 아랫 쪽의 도시와 마을들이 점점 더 작아지는 것을 볼 때 놀란다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 두려움에도 불구하고 그는 곧 자신이 그 비행기 여행을 즐기는 것을 발견한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 구름 위로 비행하는 동안 새로운 자유의 느낌을 경험하고 어쩌면 지상에서보다"
+    },
+    {
+      "type": "instruction",
+      "text": "하늘에 약간 더 가깝다고 느끼기까지 할지 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d238-1.htm",
+  "legacyEncoding": "utf-8"
+}

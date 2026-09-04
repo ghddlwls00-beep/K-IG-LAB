@@ -1,0 +1,75 @@
+{
+  "id": "pr234",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 234 ]",
+  "menuLabel": "[ pr234 ]",
+  "unit": 234,
+  "part": null,
+  "order": 466,
+  "audio": [
+    {
+      "src": "/audio/reading/pr234.mp3",
+      "legacySrc": "sounds/pr234.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 234 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The post-cold war world is a very different place. Power is moving from"
+    },
+    {
+      "type": "hints",
+      "text": "Western countries to other areas of the world. Global politics, as a result, has"
+    },
+    {
+      "type": "instruction",
+      "text": "become more complex, involving countries from many civilizations. In this new"
+    },
+    {
+      "type": "instruction",
+      "text": "world, both differences and similarities in culture determine partners and"
+    },
+    {
+      "type": "instruction",
+      "text": "enemies. These factors have caused political and economic differences among"
+    },
+    {
+      "type": "instruction",
+      "text": "countries. Moreover, these differences often cause local conflicts to grow into"
+    },
+    {
+      "type": "instruction",
+      "text": "larger wars. Thus, the most important issue facing these countries is"
+    },
+    {
+      "type": "instruction",
+      "text": "understanding the difference among cultures."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr234.htm",
+  "legacyEncoding": "utf-8"
+}

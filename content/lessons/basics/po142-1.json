@@ -1,0 +1,72 @@
+{
+  "id": "po142-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po142",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 142-1 〕",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 346,
+  "audio": [
+    {
+      "src": "/audio/basics/po142.mp3",
+      "legacySrc": "sounds/po142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 142-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "176",
+          "text": "난 / 많은 이유로 / 선생님이 / 되고 싶어."
+        },
+        {
+          "n": "177",
+          "text": "첫 번째로 / 나의 학교 선생님이 / 좋은 본보기이셔."
+        },
+        {
+          "n": "178",
+          "text": "그녀는 / 아이들을 사랑 하고 / 우리를 가르치는 것을 / 좋아하셔."
+        },
+        {
+          "n": "179",
+          "text": "내가 / 그녀로부터 도움이 필요할 / 때 / 그녀는 / 항상 / 나를 도와주셔."
+        },
+        {
+          "n": "180",
+          "text": "두 번째로 / 나의 선생님은 / 많이 / 아셔."
+        },
+        {
+          "n": "181",
+          "text": "난 / 그녀처럼 / 훌륭한 선생님이 / 되고 싶어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po142-1.htm",
+  "legacyEncoding": "utf-8"
+}

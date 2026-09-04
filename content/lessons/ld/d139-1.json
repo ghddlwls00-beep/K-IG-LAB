@@ -1,0 +1,71 @@
+{
+  "id": "d139-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d139",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 139 회 ]",
+  "menuLabel": "[ D 139-1 ]",
+  "unit": 139,
+  "part": null,
+  "order": 277,
+  "audio": [
+    {
+      "src": "/audio/ld/d139.mp3",
+      "legacySrc": "sounds/d139.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 139 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내와 나는 언제든지 할 수 있을 때면 극장에 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 우리는 표를 사기 전에 그 극이 좋은지 나쁜지 알기를 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "새로운 극이 시작할 때 우리는 보통 그것에 대한 정보를 얻기 위하여 우리의 신문에서 평론을 읽는다."
+    },
+    {
+      "type": "instruction",
+      "text": "지난 주에 한 새로운 코메디가 극장에서 시작되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "신문 기사는 그것이 매우 재미있다고 말했으므로 우리는 토요일 밤에 가기로 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내는 무엇을 입을지 마음을 정하는데 오랜 시간이 걸렸고 우리는 약간 늦게 우리의 집을 떠났다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d139-1.htm",
+  "legacyEncoding": "utf-8"
+}

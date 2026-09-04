@@ -1,0 +1,47 @@
+{
+  "id": "pr255",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 255 ]",
+  "menuLabel": "[ pr255 ]",
+  "unit": 255,
+  "part": null,
+  "order": 508,
+  "audio": [
+    {
+      "src": "/audio/reading/pr255.mp3",
+      "legacySrc": "sounds/pr255.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 255 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "As many as 700 millon people are chronically malnourished in the world today, and global population is expected to increase 70 percents by the year 2025. There is no question, then, that global food production must increase significantly over the next several decades to keep pace. The questionis,withmoderncropsalreadypushedclosetomaximum yields,wherewillthosefoodproductiongainscomefrom?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr255.htm",
+  "legacyEncoding": "utf-8"
+}

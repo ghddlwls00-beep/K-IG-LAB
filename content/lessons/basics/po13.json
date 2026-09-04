@@ -1,0 +1,110 @@
+{
+  "id": "po13",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 13,
+  "part": null,
+  "order": 317,
+  "audio": [
+    {
+      "src": "/audio/basics/po13.mp3",
+      "legacySrc": "sounds/po13.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Principle 13. Who I respect (1)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "161",
+          "text": "When I was young my mother would read to me before I went to bed."
+        },
+        {
+          "n": "162",
+          "text": "She made me read a lot and I enjoyed them."
+        },
+        {
+          "n": "163",
+          "text": "I like fiction, history and books about other countries."
+        },
+        {
+          "n": "164",
+          "text": "But I especially like history books because I can read about the wisdom"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "of many people."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "165",
+          "text": "I have read about many interesting people in history books."
+        },
+        {
+          "n": "166",
+          "text": "I admire some of them."
+        },
+        {
+          "n": "167",
+          "text": "The person I respect the most is General Lee Soon-sin."
+        },
+        {
+          "n": "168",
+          "text": "General Lee lived 500 years ago."
+        },
+        {
+          "n": "169",
+          "text": "He made a Turtle ship and defeated Japan."
+        },
+        {
+          "n": "170",
+          "text": "I respect him because he prepared well and he always thought of Korea"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "before himself."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "171",
+          "text": "As well he always tried to complete his responsibilities."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po13.htm",
+  "legacyEncoding": "utf-8"
+}

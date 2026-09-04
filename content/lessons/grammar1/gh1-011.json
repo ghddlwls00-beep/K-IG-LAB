@@ -1,0 +1,240 @@
+{
+  "id": "gh1-011",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 011 ]",
+  "menuLabel": "[ gh1-011 ]",
+  "unit": 11,
+  "part": null,
+  "order": 13,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-011.mp3",
+      "legacySrc": "sounds/gh1-011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 011 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "입문 3과 기본문장 연습"
+    },
+    {
+      "type": "instruction",
+      "text": "영작 연습 문제 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "There was a boy."
+        },
+        {
+          "n": "2",
+          "text": "There were boys."
+        },
+        {
+          "n": "3",
+          "text": "There is a boy."
+        },
+        {
+          "n": "4",
+          "text": "There are boys."
+        },
+        {
+          "n": "5",
+          "text": "I have a dream."
+        },
+        {
+          "n": "6",
+          "text": "You have a dream."
+        },
+        {
+          "n": "7",
+          "text": "He has a dream."
+        },
+        {
+          "n": "8",
+          "text": "They have dreams (혹은 a dream.)"
+        },
+        {
+          "n": "9",
+          "text": "I had a dream."
+        },
+        {
+          "n": "10",
+          "text": "You had a dream."
+        },
+        {
+          "n": "11",
+          "text": "He had a dream."
+        },
+        {
+          "n": "12",
+          "text": "Was there a boy?"
+        },
+        {
+          "n": "13",
+          "text": "Were there boys?"
+        },
+        {
+          "n": "14",
+          "text": "Is there a boy?"
+        },
+        {
+          "n": "15",
+          "text": "Are there boys?"
+        },
+        {
+          "n": "16",
+          "text": "Do I have a dream?"
+        },
+        {
+          "n": "17",
+          "text": "Do you have a dream?"
+        },
+        {
+          "n": "18",
+          "text": "Does he have a dream?"
+        },
+        {
+          "n": "19",
+          "text": "Do they have dreams (혹은 a dream)?"
+        },
+        {
+          "n": "20",
+          "text": "Did I have a dream?"
+        },
+        {
+          "n": "21",
+          "text": "Did you have a dream?"
+        },
+        {
+          "n": "22",
+          "text": "Did he have a dream?"
+        },
+        {
+          "n": "23",
+          "text": "I know you."
+        },
+        {
+          "n": "24",
+          "text": "He likes it."
+        },
+        {
+          "n": "25",
+          "text": "They like it."
+        },
+        {
+          "n": "26",
+          "text": "You know me."
+        },
+        {
+          "n": "27",
+          "text": "Do I know you?"
+        },
+        {
+          "n": "28",
+          "text": "Does he like it?"
+        },
+        {
+          "n": "29",
+          "text": "Do they like it?"
+        },
+        {
+          "n": "30",
+          "text": "Do you like it?"
+        },
+        {
+          "n": "31",
+          "text": "I knew him."
+        },
+        {
+          "n": "32",
+          "text": "He liked it."
+        },
+        {
+          "n": "33",
+          "text": "They liked it."
+        },
+        {
+          "n": "34",
+          "text": "You knew me."
+        },
+        {
+          "n": "35",
+          "text": "Did I know him?"
+        },
+        {
+          "n": "36",
+          "text": "Did he like it(that)?"
+        },
+        {
+          "n": "37",
+          "text": "Did they like it(that)?"
+        },
+        {
+          "n": "38",
+          "text": "Wasn't there a boy? (Was there not a boy?)"
+        },
+        {
+          "n": "39",
+          "text": "Weren't there boys? (Were there not boys?)"
+        },
+        {
+          "n": "40",
+          "text": "Didn't I have a dream?"
+        },
+        {
+          "n": "41",
+          "text": "Didn't you have a dream?"
+        },
+        {
+          "n": "42",
+          "text": "Didn't he have a dream?"
+        },
+        {
+          "n": "43",
+          "text": "Didn't they have dreams? (혹은 a dream)?"
+        },
+        {
+          "n": "44",
+          "text": "Didn't you like it(that)?"
+        },
+        {
+          "n": "45",
+          "text": "Didn't he like it(that)?"
+        },
+        {
+          "n": "46",
+          "text": "Didn't they like it(that)?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-011.htm",
+  "legacyEncoding": "utf-8"
+}

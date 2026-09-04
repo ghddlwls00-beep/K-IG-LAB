@@ -1,0 +1,153 @@
+{
+  "id": "w3-5",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w3-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 5,
+  "order": 17,
+  "audio": [
+    {
+      "src": "/audio/woman/w3-5-1.mp3",
+      "legacySrc": "w3-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-2.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-3.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-4.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-5.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-6.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-5-7.mp3",
+      "legacySrc": "w3-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Best Friend is Talented",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "현주는 모든 종류의 요리와 그리고 영어말하기를 잘하는 거와 같은 많은 재능 들을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "(현주) has many talents like cooking all kinds of food and speaking English.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "현주는 항상 저의 문제들을 잘 이해해 주며 내가 도움이 필요 할 때면 언제든지 거기에 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "(현주) always understands my problems, and whenever I need help, she is always there.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 가장 친구라고 자랑스럽게 부릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m proud to call her my best friend.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 그림을 또한 잘 그립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She is good at drawing, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그녀로부터 어떻게 김치를 만들고 뜨개질을 하는지 등과 같은 많은 것을 배웁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve learned a lot from her such as how to make kimchi and sew clothes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그녀로부터 많은 것을 배웠지만 나는 여전히 그녀로부터 배울 것이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Though I’ve learned many things from her, I (still) have a lot to learn from her.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w3-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w3-5.swf"
+  ]
+}

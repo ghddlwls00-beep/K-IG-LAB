@@ -1,0 +1,71 @@
+{
+  "id": "p151-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p151",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 151-1 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 1,
+  "order": 153,
+  "audio": [
+    {
+      "src": "/audio/middle/p151.mp3",
+      "legacySrc": "sounds/p151.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 151-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(월드컵)"
+    },
+    {
+      "type": "instruction",
+      "text": "몇 년 전에 우리나라는 2002월드컵을 개최했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라의 축구선수들은 최고의 팀 중 하나가 아니었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "월드컵 이전에 축구는 우리나라에서 유명하지 않았습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "스포츠는 새로운 영웅과 스타를 만드는 방법을 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 당신에게 내가 가장 존경하는 한국 축구계의 한 사람에 대해서"
+    },
+    {
+      "type": "instruction",
+      "text": "소개하고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p151-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "m6-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m6-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 4,
+  "order": 35,
+  "audio": [
+    {
+      "src": "/audio/man/m6-4-1.mp3",
+      "legacySrc": "m6-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-4-2.mp3",
+      "legacySrc": "m6-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m6-4-3.mp3",
+      "legacySrc": "m6-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "어떤 일요일 오후에, 나의 친구들과 나는 서로의 집을 방문하고 우리는 모두 외식을하거나 그냥 방문을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On some Sunday afternoons, my friends and I visit each other’s homes,and we either go out to eat or just visit.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "만일 우리가 친구들을 방문하지 않는다면 우리는 보통 나의 가족들 혹은 아내의 가족들의 집을 가서 그들과 함께 시간을 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "If we don’t visit with our friends, we usually go to either my family’s or my wife’s family’s house and spend time with them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On some Sunday afternoons, my friends and I visit each other’s homes, and we either go out to eat or just visit.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Sunday Afternoons",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m6-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m6-4.swf"
+  ]
+}

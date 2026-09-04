@@ -1,0 +1,171 @@
+{
+  "id": "p12-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p12",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle12-1]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": null,
+  "order": 125,
+  "audio": [
+    {
+      "src": "/audio/middle/p12.mp3",
+      "legacySrc": "sounds/p12.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle12-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "12과 학교 방학 중에 저는 무엇을 할까요?"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 방학 동안에 무엇을 하는지에 대해 당신에게 말하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 두개의 주요한 학교방학을 가지고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "하나는 여름 동안이고 하나는 겨울 동안 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "여름방학은 6월에 시작하고 겨울방학은 12월에 시작합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "비록 이 방학들 동안 우리는 학교는 가지 않지만"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 여전히 사설 학원들은 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 좋은 부분은 우리가 좋아하는 것들을 하면서 보낼 수 있는"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 자유시간이 있다는 것입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 여름방학을 겨울방학과는 조금 다르게 보냅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "여름방학 동안, 나의 가족은 보통 우리의 친척들을 방문하기 위해"
+    },
+    {
+      "type": "instruction",
+      "text": "짧은 여행을 갑니다. 지난 여름방학에, 우리 가족은 동해 옆에 있는"
+    },
+    {
+      "type": "instruction",
+      "text": "바닷가로 갔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "매 휴일마다 큰 교통체증이 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 아주 짧은 거리를 가는 데에 많은 시간이 걸리게 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "또한 여행을 하기에도 매우 덥습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "어쨌든, 비록 여름 동안 지독히 덥다 하더라도,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 가족과 함께 여행하는 것이 행복합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "겨울방학 동안, 우리는 매우 자주 여행을 하지는 않습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나, 지난해에 우리는 강원도로 짧은 스키여행을 다녀왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니께서는 내가 더 많이 공부하기를 원하셔서"
+    },
+    {
+      "type": "instruction",
+      "text": "겨울방학 동안 매일, 그녀는 나를 공부하도록 만드십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 스스로 독서하는 것을 좋아하기 때문에,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 보통 방학 동안 많은 독서를 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 원하는 것을 할 수 있는 자유를 더 많이 가질 수 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 방학을 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 친구들 중 많은 아이들이 방학 때 외국으로 나가 본적이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 꿈꾸는 방학은 영어를 사용하는 국가로 해외여행 하는 것 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 3년간 사설학원선생님으로부터 영어를 공부해 왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 캐나다인이고 우리에게 캐나다에 관해 많이이야기를 해 주셨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 내가 배운 영어의 모든 것을 사용하기 위해"
+    },
+    {
+      "type": "instruction",
+      "text": "미래에 언젠가거기에 가고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p12-1.htm",
+  "legacyEncoding": "utf-8"
+}

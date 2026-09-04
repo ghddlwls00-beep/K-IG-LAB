@@ -1,0 +1,95 @@
+{
+  "id": "d012-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d012",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 012 회 ]",
+  "menuLabel": "[ D 012-1 ]",
+  "unit": 12,
+  "part": null,
+  "order": 23,
+  "audio": [
+    {
+      "src": "/audio/ld/d012.mp3",
+      "legacySrc": "sounds/d012.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 012 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "글세, 수영복 없이 해변에 있을 수는 없어. 그러나 베키의 어머니가 월요일 밤에 우리를 쇼핑하러"
+    },
+    {
+      "type": "instruction",
+      "text": "데리고 갔고 나는 예쁜 파란 것을 발견했어. 그것은 매우 비싸지 않았어."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그것에 대한 값을 치르기 시작했는데 나의 지갑이 사라졌어."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 베키의 어머니로부터 약간의 돈을 빌렸지만 분명히 화났어. 다음에 무엇이 일어났는지 짐작해봐."
+    },
+    {
+      "type": "instruction",
+      "text": "화요일 아침 두 소년이 문을 두드렸어. 그들 중의 한 사람이 나의 지갑을 갖고 있었어."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그것을 그 가게 밖에서 발견했어. 그것은 그 안에 베키의 주소를 갖고 있었고 정직한 사람이"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 발견해서 나는 운이 좋았어. 그리고 나는 얼마나 운이 좋았던가."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 이름은 Teddy Williams야. 그는 인명구조원으로써 잘 생기고 매우매우 좋아."
+    },
+    {
+      "type": "instruction",
+      "text": "그와 그의 친구는 베키와 나를 boardwalk에서의 금요일 밤의 무도회에 초대했고"
+    },
+    {
+      "type": "instruction",
+      "text": "베키의 어머니는 우리가 갈 수 있다고 말씀하셔. 나에 대해서는 충분해. 너는 어떻게 지내고 있니?"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 와싱턴에서 너를 그리워하며 네가 세인트루이스를 즐기고 많은 친구를 사귀고 있기를 희망한 다."
+    },
+    {
+      "type": "instruction",
+      "text": "제발 빨리 편지해줘."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d012-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "p13",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle13]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": null,
+  "order": 134,
+  "audio": [
+    {
+      "src": "/audio/middle/p13.mp3",
+      "legacySrc": "sounds/p13.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle13]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 13: Whom Do I Respect?"
+    },
+    {
+      "type": "hints",
+      "text": "Since I was young, I learned to like history books and novels because"
+    },
+    {
+      "type": "instruction",
+      "text": "I could read about the wisdom of many people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have read about many interesting people from these historical texts."
+    },
+    {
+      "type": "instruction",
+      "text": "I learned to respect many people from reading a lot of books."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce to you the person I respect the most."
+    },
+    {
+      "type": "instruction",
+      "text": "The person I respect the most is General Soon-Shin Lee."
+    },
+    {
+      "type": "instruction",
+      "text": "General Lee lived 500 years ago,"
+    },
+    {
+      "type": "instruction",
+      "text": "and he defeated the Japanese over and over again."
+    },
+    {
+      "type": "instruction",
+      "text": "He lived during a difficult time of Korean history,"
+    },
+    {
+      "type": "instruction",
+      "text": "but he always thought of Korea and Koreans before himself."
+    },
+    {
+      "type": "instruction",
+      "text": "He created the turtle ship that he had used against the Japanese"
+    },
+    {
+      "type": "instruction",
+      "text": "and conquered them many times."
+    },
+    {
+      "type": "instruction",
+      "text": "I respect General Lee because he was able to prepare"
+    },
+    {
+      "type": "instruction",
+      "text": "and execute great military victories."
+    },
+    {
+      "type": "instruction",
+      "text": "He was always confident that his soldiers would be successful in battle."
+    },
+    {
+      "type": "instruction",
+      "text": "He was very brave and not afraid to die."
+    },
+    {
+      "type": "instruction",
+      "text": "To General Lee, duty and responsibility were very important."
+    },
+    {
+      "type": "instruction",
+      "text": "One day, I hope to grow up to be as brave and confident as"
+    },
+    {
+      "type": "instruction",
+      "text": "General Soon-Shin Lee."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p13.htm",
+  "legacyEncoding": "utf-8"
+}

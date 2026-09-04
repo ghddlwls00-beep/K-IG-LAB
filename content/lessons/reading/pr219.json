@@ -1,0 +1,47 @@
+{
+  "id": "pr219",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 219 ]",
+  "menuLabel": "[ pr219 ]",
+  "unit": 219,
+  "part": null,
+  "order": 436,
+  "audio": [
+    {
+      "src": "/audio/reading/pr219.mp3",
+      "legacySrc": "sounds/pr219.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 219 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Argument is often considered disrespectful in rigid families. Arguing, however, is a way of life with normal developing youths. In early adolescence they'll argue with their parents about anything. As they grow older, the quantity of argument decreases but the quality increases. Arguing is something that adolescents need to do in their family life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr219.htm",
+  "legacyEncoding": "utf-8"
+}

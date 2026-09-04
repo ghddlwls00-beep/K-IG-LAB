@@ -1,0 +1,88 @@
+{
+  "id": "mv3-02",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-02 ]",
+  "unit": 2,
+  "part": null,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-02.mp3",
+      "legacySrc": "sounds/mv3-02.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "sad",
+          "gay",
+          "understand",
+          "break",
+          "smoke",
+          "lend"
+        ],
+        [
+          "shut",
+          "sleep",
+          "lay",
+          "paint",
+          "lead",
+          "certain"
+        ],
+        [
+          "important",
+          "stormy",
+          "true",
+          "become",
+          "merry",
+          "colorful"
+        ],
+        [
+          "wonderful",
+          "peaceful",
+          "fairly",
+          "mean",
+          "robber",
+          "leisure"
+        ],
+        [
+          "fancy",
+          "relief",
+          "inspire",
+          "relieve",
+          "sensitive",
+          "additional"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-02 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-02.htm",
+  "legacyEncoding": "utf-8"
+}

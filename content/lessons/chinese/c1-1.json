@@ -1,0 +1,224 @@
+{
+  "id": "c1-1",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "礼节 (인사)",
+  "label": "礼节 (인사)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-1-swf1.mp3",
+      "legacySrc": "c1-1.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1-swf2.mp3",
+      "legacySrc": "c1-1.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1-swf3.mp3",
+      "legacySrc": "c1-1.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1.mp3",
+      "legacySrc": "중국어음성/c1-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1-1.mp3",
+      "legacySrc": "중국어음성/c1-1-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1-2.mp3",
+      "legacySrc": "중국어음성/c1-1-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-1-3.mp3",
+      "legacySrc": "중국어음성/c1-1-3.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-1"
+    },
+    {
+      "type": "paragraph",
+      "text": "礼节 (인사)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "만나서 반갑습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "认识你很高兴！",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "무엇보다도 내 자신을 소개할 수 있는 기회를 주셔서 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "能有机会介绍我自己 感到很高兴。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "오늘 당신과 함께 있어 정말 기쁩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "今天和您在一起很开心，或今天过得很开心。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "认识 你 很 高兴。\nRènshi nǐ hěn gāoxìng."
+        },
+        {
+          "n": "2",
+          "text": "今天 和 你 在 一起 非常 开心。\nJīntiān hé nǐ zài yìqǐ fēicháng kāixīn."
+        },
+        {
+          "n": "3",
+          "text": "首先， 感谢 给 了 我 介绍 自己 的 机会。\nShǒuxiān, gǎnxiè gěi le wǒ jièshào zìjǐ de jīhuì."
+        },
+        {
+          "n": "4",
+          "text": "我 的 名字 是 红 吉 东。\nWǒ de míngzi shì Hóng jí dōng."
+        },
+        {
+          "n": "5",
+          "text": "还有 我 生活 在 首尔。\nHáiyǒu wǒ shēnghuó zài Shǒu'ěr."
+        },
+        {
+          "n": "6",
+          "text": "我 住 在 韩国 公寓。\nWǒ zhù zài Hánguó gōngyù."
+        },
+        {
+          "n": "7",
+          "text": "我 是 韩国 小学 四 年级 学生。\nWǒ shì Hánguó xiǎoxué sì niánjí xuésheng."
+        },
+        {
+          "n": "8",
+          "text": "我 十一 岁。\nWǒ shíyī suì."
+        },
+        {
+          "n": "9",
+          "text": "我 是 很 活泼 的 人，不过 在 陌生人 面前 还是 有些 害羞。\nWǒ shì hěn huópò de rén, búguò zài meòshēngrén miànqián háishi yǒuxiē haìxiū."
+        },
+        {
+          "n": "10",
+          "text": "我 有 很 多 朋友。\nWǒ yǒu hěn duō péngyou."
+        },
+        {
+          "n": "11",
+          "text": "我 喜欢 和 朋友们 在 一起，并且 他们也喜欢陪在我身边。\nWǒ xǐhuan hé péngyoumen zài yìqǐ, bìngqiě tāmen yě xǐhuan péi zài wǒ shēnbiān."
+        },
+        {
+          "n": "12",
+          "text": "我 是 非常 幸福 的 人。\nWǒ shì fēicháng xìngfú de rén."
+        },
+        {
+          "n": "13",
+          "text": "大多数 人 都 喜欢 我。\nDàduōshù rén dōu xǐhuan wǒ."
+        },
+        {
+          "n": "14",
+          "text": "我 的 爱好 包括 读 书， 听 音乐，爬山，看电影和参加运动会。\nWǒ de àihào bāokuò dú shū, tīng yīnyuè, páshān, kàn diànyǐng hé"
+        },
+        {
+          "n": "15",
+          "text": "我 特别 喜欢 看 电影。\nWǒ tèbié xǐhuan kàn diànyǐng."
+        },
+        {
+          "n": "16",
+          "text": "我 也 喜欢 玩儿 电脑游戏。\nWǒ yě xǐhuan wánr diànnǎoyóuxì."
+        },
+        {
+          "n": "17",
+          "text": "我 在 学校 学习很多不同的科目，不过我最喜欢的科目是英语。\nWǒ zài xuéxiào xuéxí hěn duō bùtóng de kēmù, búguò wǒ zuì xǐhuan de kēmù shì Yīngyǔ."
+        },
+        {
+          "n": "18",
+          "text": "我 每天 学习 英语。\nWǒ měitiān xuéxí Yīngyǔ."
+        },
+        {
+          "n": "19",
+          "text": "到 现在 我 学 了 三 年 的 英语 了。\nDào xiànzài wǒ xué le sān nián de Yingyǔ le."
+        },
+        {
+          "n": "20",
+          "text": "我 喜欢 学习 英语， 是 因为 学习 有趣 的、开心 的。\nWǒ xǐhuan xuéxí Yīngyǔ, shì yīnwèi xuéxí yǒuqù de,"
+        },
+        {
+          "n": "21",
+          "text": "我 喜欢 自发 地 帮助 别人。\nWǒ xǐhuan zìfā de bāngzhù biérén."
+        },
+        {
+          "n": "22",
+          "text": "帮助 别人 的时候， 那 事儿 让 我 感到 幸福。\nBāngzhù biérén deshíhou, nà shìr ràng wǒ gǎndào xìngfú."
+        },
+        {
+          "n": "23",
+          "text": "我 喜欢 在 孤儿院 做 志愿 活动，并在那里帮助小孩子们。\nWǒ xǐhuan zài gū'éryuàn zuò zhìyuàn huódòng, bìng zài nàli bāngzhù xiǎoháizimen."
+        },
+        {
+          "n": "24",
+          "text": "在孤儿院做志愿活动的日子，对我来说是一个愉快的时光。\nzài gū'éryuàn zuò zhìyuàn huódòng de rìzi, duì wǒ lái shuō shì yí ge yúkuài de shíguāng."
+        }
+      ]
+    }
+  ],
+  "legacyPath": "중국/c1-1.html",
+  "legacyEncoding": "utf-8"
+}

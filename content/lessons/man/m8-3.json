@@ -1,0 +1,108 @@
+{
+  "id": "m8-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m8-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 3,
+  "order": 41,
+  "audio": [
+    {
+      "src": "/audio/man/m8-3-1.mp3",
+      "legacySrc": "m8-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-3-2.mp3",
+      "legacySrc": "m8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-3-3.mp3",
+      "legacySrc": "m8-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-3-4.mp3",
+      "legacySrc": "m8-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한 달에 한 번 나의 고등학교 친구들을 만날 때, 우리는 어렸을 때나 노래방에 갔을 때의 좋았던 시간을 이야기 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I meet with my high school friends once a month, we talk about the good times that we had when we were young or go to the singing room.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 때때로 우리가 모두 늙어가고 있음을 깨달을 때 서로 놀랍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We surprise each other sometimes when we realize we are all getting older.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 만남 동안, 우리는 또한 십년 후 함께 할 해외여행을 위해 돈을 저축 할 계획을 의논합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During these meetings, we also discuss the plan of saving money for our trip abroad together ten years later.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I meet with my high school friends once a month,5 we talk about the good times that we had when we were young or go to the singing room.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 My Leisure Time :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meeting My Friends",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m8-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m8-3.swf"
+  ]
+}

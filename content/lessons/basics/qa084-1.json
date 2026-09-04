@@ -1,0 +1,60 @@
+{
+  "id": "qa084-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa084",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 084-1 〕",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 4,
+  "order": 200,
+  "audio": [
+    {
+      "src": "/audio/basics/qa084.mp3",
+      "legacySrc": "sounds/qa084.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 084-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(TV 보기 1) → 당신은 얼마나 자주 TV를 봅니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "95",
+          "text": "난 / 매일 저녁 / 가족과 함께 / TV를 봐."
+        },
+        {
+          "n": "96",
+          "text": "하지만 나의 엄마는 / 우리가 / 아주 오래 / TV를 보도록 / 허락하지는 않으셔."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa084-1.htm",
+  "legacyEncoding": "utf-8"
+}

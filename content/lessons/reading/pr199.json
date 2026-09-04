@@ -1,0 +1,47 @@
+{
+  "id": "pr199",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 199 ]",
+  "menuLabel": "[ pr199 ]",
+  "unit": 199,
+  "part": null,
+  "order": 396,
+  "audio": [
+    {
+      "src": "/audio/reading/pr199.mp3",
+      "legacySrc": "sounds/pr199.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 199 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Everyone has instincts, and listening to your inner voice is always a good idea. But when you’re making a decision, following your instincts is necessary but not sufficient. Learning how to use your instincts as a guide in decision making requires effort. After all, no one’s instincts are always correct; so how do you know when to follow them and when to ignore them? Following your instincts could lead you to make impulsive decisions that you may regret later. The key is to learn how to use your instincts to support, not dictate, your decisions. Use your experience to analyze the situation. Your past experience gives you the basis for judging whether your instincts can be trusted."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr199.htm",
+  "legacyEncoding": "utf-8"
+}

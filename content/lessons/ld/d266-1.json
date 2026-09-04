@@ -1,0 +1,87 @@
+{
+  "id": "d266-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d266",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 266 회 ]",
+  "menuLabel": "[ D 266-1 ]",
+  "unit": 266,
+  "part": null,
+  "order": 529,
+  "audio": [
+    {
+      "src": "/audio/ld/d266.mp3",
+      "legacySrc": "sounds/d266.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 266 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "같은 인간과 의사소통하려는 인간의 욕구는 매우 강하다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 욕구가 인간으로 하여금 언어와 전화 및 전신 같은 언어를"
+    },
+    {
+      "type": "instruction",
+      "text": "교신하는 수단을 고안하도록 자극을 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 인간은 또 말로 표현할 수 없는 것들을 표현하고자 하는 욕구도 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "스켓치, 그림그리기, 조각 만들기 같은 미술은 이런 욕구를 만족시키는 것을 돕는다."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 원시인도 예술에 탐닉했다. 그의 동굴의 벽에서"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 수천년된 동물과 새들의 스케치를 발견한다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 경우에는 원시화가의 기술이 꽤 발달했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 사용했던 색상과 물감은 오늘날까지 지속되어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "수천년의 마모를 뚫고 지속되는 어떤 그림도 그것을 만든 화가의 기술에 대한 찬사이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d266-1.htm",
+  "legacyEncoding": "utf-8"
+}

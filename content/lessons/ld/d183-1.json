@@ -1,0 +1,91 @@
+{
+  "id": "d183-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d183",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 183 회 ]",
+  "menuLabel": "[ D 183-1 ]",
+  "unit": 183,
+  "part": null,
+  "order": 364,
+  "audio": [
+    {
+      "src": "/audio/ld/d183.mp3",
+      "legacySrc": "sounds/d183.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 183 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "짝이 맞는 진주에 대하여 25,000불을 제의했다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 그 광고에 응했으나 아무도 꼭 맞는 진주를 갖고 있지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 보석상이 희망을 막 포기했을 때 한 작은 노파가 그의 가게로 들어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 깜짝 놀라도록 그녀는 지갑으로부터 완벽한 진주를 꺼냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 슬프게 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“나는 그것과 헤어지고 싶지 않아요. 나는 그것을 나의 어머니로부터 물려받았어요."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 나의 어머니는 그녀의 어머니로부터 그것을 물려받았어요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 나는 정말로 그 돈이 필요해요.”"
+    },
+    {
+      "type": "instruction",
+      "text": "그 보석상은 그녀가 마음을 바꾸기 전에 얼른 그 노파에게 돈을 지불하기 위하여 신속했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그는 그 좋은 소식을 말하기 위하여 그 백만장자의 호텔에 전화했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 백만장자는 발견되도록 어디에도 있지 않앗다.(공범자)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d183-1.htm",
+  "legacyEncoding": "utf-8"
+}

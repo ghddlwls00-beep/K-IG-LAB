@@ -1,0 +1,47 @@
+{
+  "id": "pr143",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 143 ]",
+  "menuLabel": "[ pr143 ]",
+  "unit": 143,
+  "part": null,
+  "order": 284,
+  "audio": [
+    {
+      "src": "/audio/reading/pr143.mp3",
+      "legacySrc": "sounds/pr143.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 143 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "We need more effective ways to ensure that every citizen can fully exercise the right to secure private information. We must protect citizens against the compiling of personal data and the unrestricted use and distribution of such data. The capacity to store and distribute information has increased through the use of computers and other devices, Thus, personal information has been collected and distributed without control, causing harm to the right to privacy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr143.htm",
+  "legacyEncoding": "utf-8"
+}

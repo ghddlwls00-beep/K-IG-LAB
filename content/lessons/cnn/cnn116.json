@@ -1,0 +1,414 @@
+{
+  "id": "cnn116",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Celebrities*’ Unusual* Baby Names",
+  "label": "Celebrities*’ Unusual* Baby Names",
+  "menuLabel": "[ CNN 116 ]",
+  "unit": 116,
+  "part": null,
+  "order": 115,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn116.mp4",
+      "legacySrc": "CNN/CNN61-120/116.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Celebrities*’ Unusual* Baby Names"
+    },
+    {
+      "type": "paragraph",
+      "text": "MAX FOSTER, CNN Anchor: Role names such as Elizabeth tend to be on the conservative side, steeped in tradition, if you will.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MALLIKA KAPUR, CNN Anchor: Not so with today’s celebrities. Jeanne Moos takes a look at a trend towards the unusual and unusual things celebrities do and that’s more than just names for their children.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: At least after all those public displays of affection, they have something to show for it. Tom plus Katie equals (UNIDENTIFIED MALE 1: TomKat.) And a TomKat baby equals (UNIDENTIFIED FEMALE 1: A TomKitten.) The parents, smitten with their TomKitten, named her “Suri,” a name that means “princess” in Hebrew and “red rose” in Persian. But in Japanese... well, apparently it means “pickpocket” in Japanese.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 2: Really?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 2: So you have a red rose Persian princess who pickpockets.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: It could be worse. The star of My Name Is Earl named his kid “Pilot Inspector.” Rachel Griffiths from Six Feet Under named hers “Banjo.” And Penn from Penn & Teller named his “Moxie Crime Fighter.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 3: I think the parents did it to satisfy their ego.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 2: Basically I like Tom, Dick, Harry, John, Fred. Then you have nothing to live up to.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: It’s one thing to name your dog “Twiggy,” (Hey, Twiggy.) another to name your daughter “Apple” as Gwyneth Paltrow did. Like if your kid’s name’s Apple, what kind of jokes are people going to make?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 3: Applesauce... what are your kids going to be, applesauce when you beat them or something? I don’t know.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 4: They’ll call her a fruit.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Nothing wrong with fruit, as Gwyneth explained to Oprah. “Apples are so sweet, and they’re wholesome, and it’s Biblical. And I just thought it sounded so lovely and clean.” Not quite lovely and clean was what Tom Cruise told GQ Magazine.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JON STEWART, Host of The Daily Show: He says that after his baby is born he’s going to eat the placenta and the umbilical cord.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Jon Stewart pointed out that Tom was joking, but what with all the couch hopping, words spread on the Web that the Scientologist was serious. And what are the chances of Tom’s fianc?e giving birth...",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PETER CASTRO, People Magazine: Not only on the same day but in the very same hospital and on the same floor as his former nemesis Brooke Shields.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Remember how Tom and Brooke parted ways over taking drugs for postpartum depression.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TOM CRUISE, Actor: And she doesn’t understand the history of psychiatry.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: It’s been a long nine months. Poor little TomKitten’s already the butt of jokes on the Internet. “TomKat Baby From Outer Space” portrays TomKitten as an alien. And “Dial-AFetus!” shows TomKitten talking on a cell to Brad Pitt and Angelina Jolie’s fetus.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When TomKitten is born and takes one look around and decides to return to the womb. The womb would look pretty good if you knew these people would kill for a baby picture. Jeanne Moos, CNN, New York",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "할리우드 2세, 튀는 이름이 좋아",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥스 포스터, CNN 앵커: 엘리자베스 같은 전형적인 이름은 이제 보수적인 축에 드는 경향이 있습니다. 아주 전통적인 이름이라고 말할 수 있죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "말리카 카푸르, CNN 앵커: 오늘날 유명인사들은 다릅니다. 지니 무스 기자가 튀고 또 튀는 것을 선호하는 스타들의 성향을 살펴보는데요, 그런 성향은 아이 이름 짓는 데만 국한된 것이 아니라고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 공개석상에서 그렇게 애정을 과시하더니 어쨌든 보여줄 결과물이 생겼습니다. 톰 더하기 케이티는…(익명의 남자 1: 톰캣이요.) 그럼 톰캣의 아기는… (익명의 여자 1: 톰키튼이요.) 새로 태어난 아기 ‘톰키튼’ 에게 푹 빠진 이 부모는 딸 이름을 ‘수리’라고 지었습니다. 수리는 히브리어로는 ‘공주’, 페르시아어로는 ‘붉은 장미’를 뜻하지만, 일본어로는 발음상 ‘소매치기’를 의미합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 2: 그래요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 2: 그러니까 소매치기를 하는 붉은 장미의 페르시아 공주가 생긴 거군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이보다 더 안 좋은 경우도 있습니다. <내 이름은 얼>의 주인공은 아이 이름을‘파일럿 인스펙터’로 지었습니다. <식스 피트 언더>의 배우 레이첼 그리피스는 아이 이름으로 ‘밴조’를 택했습니다. <펜 앤 텔러>의 펜은 아이를 ‘막시 크라임 파이터’라고 부르기로 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 3: 부모들이 자기 만족을 위해서 이름을 그렇게 짓는 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 2: 기본적으로 전 톰, 딕, 해리, 존, 프레드 같은 이름이 좋아요. 그럼 이름에 걸맞게 행동할 필요는 없잖아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 키우는 개 이름을 ‘트위기’라고 짓는 것과 (이리 와, 트위기.) 기네스 팰트로처럼 딸 이름을‘애플’이라고 짓는 것은 분명히 다른 문제입니다. 여러분의 아이 이름이 ‘애플’이면 좋겠습니까? 사람들이 뭐라고 놀릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 3: 사과소스요. 아이가 뭐가 되겠어요, 마구 때리거나 하면 사과소스인가요? 모르겠어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 4: 사람들은 그 애를 ‘과일’이라고 부를 거예요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 기네스 팰트로는 오프라 쇼에 출연해서 과일 이름이 나쁠 게 없다고 설명했습니다. “사과는 아주 달콤하고, 건강에도 좋은 데다가 성경에도 나오잖아요. 그리고 저한테는 그냥 사랑스럽고 산뜻하게만 들려요.”하지만 톰 크루즈의 지 인터뷰 내용은 그다지 사랑스럽지도 산뜻하지도 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "존 스튜어트, <데일리 쇼> 진행자: 톰 크루즈는 아이가 태어나면 태반과 탯줄을 먹겠다고 하더군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 존 스튜어트는 톰 크루즈가 농담을 한 거라고 말했지만, 소파에서 껑충껑충 뛰었던 사건으로 볼 때 이 사이언톨로지 신도 톰 크루즈는 진심이었다는 이야기가 인터넷에 퍼졌습니다. 그렇다면 톰의 약혼녀처럼 아이를 낳을 확률은 얼마나 될까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "피터 카스트로, <피플> 지: (케이티 홈즈는) 톰과 앙숙이었던 브룩 쉴즈와 날짜만 같을 뿐 아니라 같은 병원, 그것도 같은 층에서 출산을 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 톰 크루즈와 브룩 쉴즈가 산후우울증 약물 복용에 대해 서로 이견이 있었던 것을 기억하실 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "톰 크루즈, 영화배우: 쉴즈는 정신 의학의 역사도 모른다구요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 9개월은 긴 시간이었습니다. 그 불쌍하고 작은 ‘톰키튼’은 벌써부터 인터넷에서 웃음거리가 되고 있습니다. ‘외계에서 온 톰캣의 아기’는 톰 크루즈의 딸을 외계인으로 묘사합니다. 그리고 ‘태아와 통화를!’에서는 톰의 태아가 브래드 피트와 안젤리나 졸리의 태아와 휴대전화로 통화하는 상황을 보여줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘톰키튼’은 태어난 뒤 주변을 한 번 둘러보고는 자궁으로 돌아가기로 결심합니다. 이 사람들이 아기 사진 한장을 찍기 위해 살인도 불사할 기세인 것을 알면, 자궁이 차라리 안락해 보일 것입니다. 뉴욕에서CNN, 지니무스였습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. role/ 역할, 임무",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. tomcat/ 수코양이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) couch/ 소파, 긴 의자 (2) hopping/ (껑충껑충) 뜀, 도약",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. Scientology/ 사이언톨로지: 미국의 공상과학 소설가인 로널드 허바드가 창설한 신흥 종교로 과학기술을 통한 정신치료, 영혼 윤회설 등을 믿는다. 톰 크루즈는 사이언톨로지의 열렬한 신자다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. butt/ (냉소,비꼼,경멸의) 대상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. cell/ 휴대전화(cellular phone)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1) role name",
+          "text": "전형적인 이름"
+        },
+        {
+          "n": "2) conservative",
+          "text": "보수적인, 보수주의의"
+        },
+        {
+          "n": "3) steeped in tradition",
+          "text": "유서 깊은, 뿌리 있는"
+        },
+        {
+          "n": "4) trend",
+          "text": "유행; 경향, 추세"
+        },
+        {
+          "n": "5) display",
+          "text": "과시, 자랑해 보이기; (감정 따위의) 드러냄, 표시"
+        },
+        {
+          "n": "6) affection",
+          "text": "애정, 호의"
+        },
+        {
+          "n": "7) TomKat",
+          "text": "톰캣: 톰 크루즈와 케이티 홈즈 커플의 별명"
+        },
+        {
+          "n": "8) smitten with",
+          "text": "…에 홀린, 반한"
+        },
+        {
+          "n": "9) apparently",
+          "text": "분명히, 명백히"
+        },
+        {
+          "n": "10) pickpocket",
+          "text": "소매치기; (지갑,돈 따위를) 소매치기하다"
+        },
+        {
+          "n": "11) My Name Is Earl",
+          "text": "<내 이름은 얼>: 미국 NBC에서 방영 중인 시트콤으로 남에게 민폐만 끼치고 살았던 ‘얼’이라는 주인공이 인과응보를 믿게 되면서 그 동안의 잘못했던 일을 목록으로 만들어 하나하나 풀어간다는 내용이다."
+        },
+        {
+          "n": "12) inspector",
+          "text": "검사[감사, 조사]관; 감독"
+        },
+        {
+          "n": "13) Rachel Griffiths",
+          "text": "레이첼 그리피스: 호주 출신 여배우로 <뮤리엘의 웨딩(1994)>으로 데뷔했다."
+        },
+        {
+          "n": "14) Six Feet Under",
+          "text": "<식스 피트 언더>: 미국 HBO 방영TV 시리즈로 LA에서 장의사 일을 하는 피셔(Fisher) 가족의 이야기를 다룬 블랙 코미디물이다. 미국에서는 2001년 처음 방영된 이후 독특한 소재와 형식으로 폭발적인 인기를 끌었다. 사람이 죽으면 관을 땅에서 6피트 아래에 묻는 서양 관습에 따라 ‘식스 피트 언더’는 죽은 자를 상징한다."
+        },
+        {
+          "n": "15) banjo",
+          "text": "밴조: 아프리카에서 유래한 현악기로 미국에서는 19세기에 흑인 노예들에 의해 널리 퍼졌으며 이후 유럽에 전래되었다."
+        },
+        {
+          "n": "16) Penn & Teller",
+          "text": "<펜 앤 텔러>: 펜 질레트와 텔러 질레트가 출연하는 TV 쇼"
+        },
+        {
+          "n": "17) ego",
+          "text": "자아, 자기; 자신"
+        },
+        {
+          "n": "18) live up to",
+          "text": "…에 어울리는 생활을 하다; (기대 따위에) 부응하다"
+        },
+        {
+          "n": "19) Gwyneth Paltrow",
+          "text": "기네스 팰트로: 미국 영화 배우로 <셰익스피어인 러브>로 1999년 아카데미 여우주연상을 수상했다."
+        },
+        {
+          "n": "20) applesauce",
+          "text": "사과소스"
+        },
+        {
+          "n": "21) wholesome",
+          "text": "건강에 좋은, 위생에 좋은"
+        },
+        {
+          "n": "22) Biblical",
+          "text": "성경의, 성경에 있는[관한]"
+        },
+        {
+          "n": "23) placenta",
+          "text": "태반"
+        },
+        {
+          "n": "24) umbilical cord",
+          "text": "탯줄"
+        },
+        {
+          "n": "25) couch hopping",
+          "text": "소파에서 뛰기: 톰 크루즈가 <오프라 윈프리 쇼>에 출연해 소파 위에 올라가 껑충껑충 뛰며“나는 사랑에 빠졌어요. 사랑에 빠졌단 말이에요!”라고 외쳤던 사건을 말한다."
+        },
+        {
+          "n": "26) Scientologist",
+          "text": "사이언톨로지 신도"
+        },
+        {
+          "n": "27) give birth",
+          "text": "출산하다, 아이를 낳다"
+        },
+        {
+          "n": "28) nemesis",
+          "text": "앙숙; (이길 수 없는) 강적; 복수의 여신"
+        },
+        {
+          "n": "29) Brooke Shields",
+          "text": "브룩 쉴즈: 미국의 여배우로 톰 크루즈가 NBC TV의 한 토크 쇼에서 산후우울증을 치료하기 위해 항우울제를 복용하며 정신치료를 받고 있는 브룩 쉴즈에게 “사이비 의학에 의존하고 있다.”고 발언해 논쟁을 불러일으키며 앙숙이 되었다."
+        },
+        {
+          "n": "30) part ways over",
+          "text": "…에 대해 서로 다른 견해를 갖다"
+        },
+        {
+          "n": "31) postpartum depression",
+          "text": "산후우울증"
+        },
+        {
+          "n": "32) psychiatry",
+          "text": "정신 의학; 정신병 치료법"
+        },
+        {
+          "n": "33) the butt of jokes",
+          "text": "웃음거리, 조롱의 대상"
+        },
+        {
+          "n": "34) outer space",
+          "text": "(대기권 외) 우주 공간"
+        },
+        {
+          "n": "35) portray",
+          "text": "묘사하다; 극적으로 표현하다"
+        },
+        {
+          "n": "36) alien",
+          "text": "우주인, 외계인"
+        },
+        {
+          "n": "37) fetus",
+          "text": "(임신 9주 이후의) 태아"
+        },
+        {
+          "n": "38) talk on a cell",
+          "text": "휴대전화로 통화하다"
+        },
+        {
+          "n": "39) womb",
+          "text": "자궁; 내부, 핵심"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/116.wmv",
+  "legacyEncoding": "binary"
+}

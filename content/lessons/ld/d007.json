@@ -1,0 +1,63 @@
+{
+  "id": "d007",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 007 회 ]",
+  "menuLabel": "[ D 007 ]",
+  "unit": 7,
+  "part": null,
+  "order": 12,
+  "audio": [
+    {
+      "src": "/audio/ld/d007.mp3",
+      "legacySrc": "sounds/d007.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 007 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "John Wenger Philadelphia. state of Pennsylvania. Mrs.Wenger, John's mother Germany"
+    },
+    {
+      "type": "instruction",
+      "text": "September 9, 1933. German, Polish French English, Berne, Switzerland November 12, 1931. French,"
+    },
+    {
+      "type": "instruction",
+      "text": "German, Italian, English. May 9, 1953. 20 22. June 4, 1954. 22 University of Pennsylvania"
+    },
+    {
+      "type": "instruction",
+      "text": "French German field of medicine."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d007.htm",
+  "legacyEncoding": "utf-8"
+}

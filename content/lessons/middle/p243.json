@@ -1,0 +1,67 @@
+{
+  "id": "p243",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 243]",
+  "menuLabel": null,
+  "unit": 24,
+  "part": 3,
+  "order": 224,
+  "audio": [
+    {
+      "src": "/audio/middle/p243.mp3",
+      "legacySrc": "sounds/p243.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 243]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Preparing for My Dream)"
+    },
+    {
+      "type": "hints",
+      "text": "When I grow up I want to go abroad to study English."
+    },
+    {
+      "type": "instruction",
+      "text": "While studying English,"
+    },
+    {
+      "type": "instruction",
+      "text": "I really want to work hard so that I can accomplish my dream."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to learn as much English as I can"
+    },
+    {
+      "type": "instruction",
+      "text": "so that I can become a great interpreter."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p243.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "p113-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p113",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 113-1 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 121,
+  "audio": [
+    {
+      "src": "/audio/middle/p113.mp3",
+      "legacySrc": "sounds/p113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 113-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(일요일)"
+    },
+    {
+      "type": "instruction",
+      "text": "한국에는 많은 종교들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의가족과 나는 기독교인입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 일요일마다 교회에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 또한 교회에 많은 친구들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들은 불교를 믿습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "불교를 믿는 사람들은 단지 그 해의 특별한 날들에만 절에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들은 그들의 가족들과 함께 시골, 바닷가,"
+    },
+    {
+      "type": "instruction",
+      "text": "또는 놀이공원으로 여행을 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "일요일에, 몇몇의 사람들은 친구들과 함께 쇼핑을 가거나"
+    },
+    {
+      "type": "instruction",
+      "text": "또는 TV를 보거나 컴퓨터게임을 하면서 그들의 시간을 보냅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 나에게 다음주에 다가오는 시험이 있으면,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 주말 내내 공부를 해야만 합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p113-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p063",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 063 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 3,
+  "order": 72,
+  "audio": [
+    {
+      "src": "/audio/middle/p063.mp3",
+      "legacySrc": "sounds/p063.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 063 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Teacher’s Personality)"
+    },
+    {
+      "type": "hints",
+      "text": "My teacher is from Kang-won province."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, he speaks with a funny accent!"
+    },
+    {
+      "type": "instruction",
+      "text": "He is tall. His hair is black."
+    },
+    {
+      "type": "instruction",
+      "text": "He has a habit of touching his nose, biting his nails,"
+    },
+    {
+      "type": "instruction",
+      "text": "scratching his nails, cracking his knuckles,"
+    },
+    {
+      "type": "instruction",
+      "text": "rubbing his eyes, etc. when he teaches."
+    },
+    {
+      "type": "instruction",
+      "text": "I think he likes the color blue because he always wears a blue tie."
+    },
+    {
+      "type": "instruction",
+      "text": "He is very kind, and I like him a lot."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p063.htm",
+  "legacyEncoding": "utf-8"
+}

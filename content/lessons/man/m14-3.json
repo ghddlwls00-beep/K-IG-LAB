@@ -1,0 +1,118 @@
+{
+  "id": "m14-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m14-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 3,
+  "order": 63,
+  "audio": [
+    {
+      "src": "/audio/man/m14-3-1.mp3",
+      "legacySrc": "m14-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m14-3-2.mp3",
+      "legacySrc": "m14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m14-3-3.mp3",
+      "legacySrc": "m14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m14-3-4.mp3",
+      "legacySrc": "m14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m14-3-5.mp3",
+      "legacySrc": "m14-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한국의 교육 정책에는 두 가지 주요 문제가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two main problems in the education system of Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선, 한국의 인구가 점점 증가하기 때문에 교육 정책에 따른 경쟁도 또한 증가한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, because the population of Korea is continually on the rise, competition within the educational system also increases.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 번째는 돈을 가진 사람들과 그렇지 않은 사람들 사이에 교육적인 기회의 차이가 너무 크다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The second is that there is a wide gap between the educational opportunities given to those who have money and those who do not.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "함께 일하며 우리는 이러한 문제를 해결해야 하고 모두에게 좋은 교육을 받을 수 있는 기회를 제공해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Working together, we need to solve these problems, and provide the chance for all to obtain a good education.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "14 The Korean Education System :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Problems of Korea’s Educational Policies",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m14-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m14-3.swf"
+  ]
+}

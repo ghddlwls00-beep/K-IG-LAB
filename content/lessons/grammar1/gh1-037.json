@@ -1,0 +1,164 @@
+{
+  "id": "gh1-037",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 037 ]",
+  "menuLabel": "[ gh1-037 ]",
+  "unit": 37,
+  "part": null,
+  "order": 50,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-037.mp3",
+      "legacySrc": "sounds/gh1-037.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 037 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 4 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "26",
+          "text": "Was she studying English?"
+        },
+        {
+          "n": "27",
+          "text": "Were they studying English?"
+        },
+        {
+          "n": "28",
+          "text": "I don't study English."
+        },
+        {
+          "n": "29",
+          "text": "You don't study English."
+        },
+        {
+          "n": "30",
+          "text": "He doesn't study English."
+        },
+        {
+          "n": "31",
+          "text": "She doesn't study English."
+        },
+        {
+          "n": "32",
+          "text": "They don't study English."
+        },
+        {
+          "n": "33",
+          "text": "I am not studying English."
+        },
+        {
+          "n": "34",
+          "text": "You are not studying English."
+        },
+        {
+          "n": "35",
+          "text": "He is not studying English."
+        },
+        {
+          "n": "36",
+          "text": "She is not studying English."
+        },
+        {
+          "n": "37",
+          "text": "They are not studying English."
+        },
+        {
+          "n": "38",
+          "text": "I was not studying English."
+        },
+        {
+          "n": "39",
+          "text": "You were not studying English."
+        },
+        {
+          "n": "40",
+          "text": "He was not studying English."
+        },
+        {
+          "n": "41",
+          "text": "She was not studying English."
+        },
+        {
+          "n": "42",
+          "text": "They were not studying English."
+        },
+        {
+          "n": "43",
+          "text": "Am I not studying English(혹은 Ain't I studying English)?"
+        },
+        {
+          "n": "44",
+          "text": "Aren't you studying English(혹은 Are you not studying English)?"
+        },
+        {
+          "n": "45",
+          "text": "Isn't he studying English?(혹은 Is he not studying English)?"
+        },
+        {
+          "n": "46",
+          "text": "Isn't she studying English(혹은Is she not studying English)?"
+        },
+        {
+          "n": "47",
+          "text": "Aren't they studying English(혹은 Are they not studying English)?"
+        },
+        {
+          "n": "48",
+          "text": "Was I not studying English(혹은 Wasn't I studying English)?"
+        },
+        {
+          "n": "49",
+          "text": "Were you not studying English(혹은 Weren't you studying English)"
+        },
+        {
+          "n": "50",
+          "text": "Wasn't he studying English(혹은 Was he not studying English)?"
+        },
+        {
+          "n": "51",
+          "text": "Wasn't she studying English(혹은 Was she not studying English)?"
+        },
+        {
+          "n": "52",
+          "text": "Weren't they studying English(혹은 Were they not studying English)?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-037.htm",
+  "legacyEncoding": "utf-8"
+}

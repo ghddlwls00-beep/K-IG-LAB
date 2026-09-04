@@ -1,0 +1,79 @@
+{
+  "id": "d010-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d010",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 010 회 ]",
+  "menuLabel": "[ D 010-1 ]",
+  "unit": 10,
+  "part": null,
+  "order": 19,
+  "audio": [
+    {
+      "src": "/audio/ld/d010.mp3",
+      "legacySrc": "sounds/d010.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 010 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Anne는 몇몇 언어를 잘 한다. 그녀는 아프리카 언어들의 어떤 것도 몰랐지만"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 괜찮게 꾸려나갈 수 있었다. 그 나라들 중의 몇몇의 사람들은 영어를 했고 몇몇 다른 장소에서"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 불어나 폴튜갈어를 했다. 그녀는 이 두 언어를 모두 안다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 특히 케냐의 야생 동물들의 사진들을 즐겼다. Keith는 사자와 코끼리들의 몇몇 좋은 사진을 찍었 다."
+    },
+    {
+      "type": "instruction",
+      "text": "아프리카의 경치는 아름다웠다. 나는 전혀 몰랐다. Keith는 빅토리아 호수와 나일강의 몇몇"
+    },
+    {
+      "type": "instruction",
+      "text": "아름다운 사진을 찍었다. 그는 또 사하라 사막의 몇몇 특이한 사진도 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 아프리카로부터 극동으로 날아갔다. 우리는 네 시간 동안 그 사진들을 보았고 그중의"
+    },
+    {
+      "type": "instruction",
+      "text": "겨우 절반만 보았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d010-1.htm",
+  "legacyEncoding": "utf-8"
+}

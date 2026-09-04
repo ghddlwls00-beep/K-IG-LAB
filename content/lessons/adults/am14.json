@@ -1,0 +1,107 @@
+{
+  "id": "am14",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 14 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": null,
+  "order": 134,
+  "audio": [
+    {
+      "src": "/audio/adults/am14.mp3",
+      "legacySrc": "sounds/am14.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 14 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle14: The Korean Education System"
+    },
+    {
+      "type": "hints",
+      "text": "The History of Education in Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean educational system has made many big changes in a fairly short amount of time."
+    },
+    {
+      "type": "instruction",
+      "text": "For instance, frequent changes have been made to our university entrance exam."
+    },
+    {
+      "type": "instruction",
+      "text": "What does this kind of change mean?"
+    },
+    {
+      "type": "instruction",
+      "text": "This means that more improvements must be made to the education system overall and not only to higher education."
+    },
+    {
+      "type": "instruction",
+      "text": "Education in Korea Today"
+    },
+    {
+      "type": "instruction",
+      "text": "Everyday, the tuition of private institutes increases due to the changes in social classes."
+    },
+    {
+      "type": "instruction",
+      "text": "This is becoming a daily problem in Korean society."
+    },
+    {
+      "type": "instruction",
+      "text": "Only the rich can provide more opportunities for a better education while the poor lack the options to provide a decent education for their children."
+    },
+    {
+      "type": "instruction",
+      "text": "Over the years, educational policies in Korea have changed for the better, but they still have a long way to go before they are truly effective and efficient."
+    },
+    {
+      "type": "instruction",
+      "text": "The Problems of Korea’s Educational Policies"
+    },
+    {
+      "type": "instruction",
+      "text": "There are two main problems in the education system of Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, because the population of Korea is continually on the rise, competition within the educational system also increases."
+    },
+    {
+      "type": "instruction",
+      "text": "The second is that there is a wide gap between the educational opportunities given to those who have money and those who do not."
+    },
+    {
+      "type": "instruction",
+      "text": "Working together, we need to solve these problems, and provide the chance for all to obtain a good education."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am14.htm",
+  "legacyEncoding": "utf-8"
+}

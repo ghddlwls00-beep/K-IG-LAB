@@ -1,0 +1,47 @@
+{
+  "id": "pr160",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 160 ]",
+  "menuLabel": "[ pr160 ]",
+  "unit": 160,
+  "part": null,
+  "order": 318,
+  "audio": [
+    {
+      "src": "/audio/reading/pr160.mp3",
+      "legacySrc": "sounds/pr160.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 160 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "As the snow piles up higher in a woodland over the course of winter, it creates advantages and problems for animals. For the rabbit, deep snow may provide food. Since it feeds on the winter buds of young trees, the deeper icy snow helps the animal to reach more buds. What's more, sometimes the weight of the snow causes some trees to bend to the ground. This means their tender tops are easier to reach for the rabbit. On the other hand, the situation is the opposite for deer."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr160.htm",
+  "legacyEncoding": "utf-8"
+}

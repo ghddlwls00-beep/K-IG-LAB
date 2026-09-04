@@ -1,0 +1,83 @@
+{
+  "id": "p205",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 205]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 5,
+  "order": 204,
+  "audio": [
+    {
+      "src": "/audio/middle/p205.mp3",
+      "legacySrc": "sounds/p205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 205]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Jeju Island and Mt. Halla)"
+    },
+    {
+      "type": "hints",
+      "text": "Perhaps the most famous natural wonder of Korea is"
+    },
+    {
+      "type": "instruction",
+      "text": "an island called Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "Jeju island is my favorite place to go for vacation."
+    },
+    {
+      "type": "instruction",
+      "text": "There are so many fun things to do there"
+    },
+    {
+      "type": "instruction",
+      "text": "and many beautiful spots to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "I like going to Mt. Halla."
+    },
+    {
+      "type": "instruction",
+      "text": "It is in the center of Jeju island and is really high."
+    },
+    {
+      "type": "instruction",
+      "text": "Mt. Halla is the highest mountain in South Korea;"
+    },
+    {
+      "type": "instruction",
+      "text": "it’s almost 2,000 meters high (about 6500 feet)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p205.htm",
+  "legacyEncoding": "utf-8"
+}

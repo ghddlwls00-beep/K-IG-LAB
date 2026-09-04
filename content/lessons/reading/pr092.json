@@ -1,0 +1,47 @@
+{
+  "id": "pr092",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 092 ]",
+  "menuLabel": "[ pr092 ]",
+  "unit": 92,
+  "part": null,
+  "order": 182,
+  "audio": [
+    {
+      "src": "/audio/reading/pr092.mp3",
+      "legacySrc": "sounds/pr092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 092 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Many teenagers dread and fear warts and pimples. A dermatologist, or skin doctor, says that a lot of these skin diseases may actually be caused by fear. Dr. Hilton Kline has done studies indicating that, in some cases, warts and pimples are caused by anxiety. According to one of his studies, college students are more likely to break out in pimples just before a big exam. He's also shown that warts can be cured through hypnosis, by having the patient imagine that the warts are falling off. In other words, the key to clear skin may all be in your mind."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr092.htm",
+  "legacyEncoding": "utf-8"
+}

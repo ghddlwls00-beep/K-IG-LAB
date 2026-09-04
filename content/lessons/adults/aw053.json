@@ -1,0 +1,63 @@
+{
+  "id": "aw053",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 053 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 3,
+  "order": 58,
+  "audio": [
+    {
+      "src": "/audio/adults/aw053.mp3",
+      "legacySrc": "sounds/aw053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 053 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In the Afternoon"
+    },
+    {
+      "type": "hints",
+      "text": "After I finish shopping for groceries, I’m sleepy and feel like having a nap, but I can’t."
+    },
+    {
+      "type": "instruction",
+      "text": "I am busy in the afternoons taking my child/children to their (Subject) institute."
+    },
+    {
+      "type": "instruction",
+      "text": "After I return home, I need to hurry up and prepare dinner before my family comes home."
+    },
+    {
+      "type": "instruction",
+      "text": "My child/children typically return at 6:00 p.m., and my husband usually comes in between 7:00 and 8:00 p.m"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw053.htm",
+  "legacyEncoding": "utf-8"
+}

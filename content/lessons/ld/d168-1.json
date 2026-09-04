@@ -1,0 +1,75 @@
+{
+  "id": "d168-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d168",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 168 회 ]",
+  "menuLabel": "[ D 168-1 ]",
+  "unit": 168,
+  "part": null,
+  "order": 334,
+  "audio": [
+    {
+      "src": "/audio/ld/d168.mp3",
+      "legacySrc": "sounds/d168.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 168 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "하루 수업이 끝날 때 아리조나주 Tempe의 많은 학생들은"
+    },
+    {
+      "type": "instruction",
+      "text": "오후의 서핑을 위하여 “Big Surf\"라는 장소에서 만난다."
+    },
+    {
+      "type": "instruction",
+      "text": "Tempe가 태평양으로부터 400 마일 이상 떨어진 사막의 한 가운데에 있다는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "모르는 한 이것은 이상하게 들리지 않을지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떻게 사막에서의 서핑이 가능해졌나?"
+    },
+    {
+      "type": "instruction",
+      "text": "그 모든 것은 Dexter라는 사람이 몇 년 전 캘리포니아에서 휴가를 보냈을 때 시작되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 서핑 보드 위에서 거대한 태평양의 파도를 타는 서핑객들에 깊은 감동을 받았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d168-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "m20-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m20-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 3,
+  "order": 86,
+  "audio": [
+    {
+      "src": "/audio/man/m20-3-1.mp3",
+      "legacySrc": "m20-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m20-3-2.mp3",
+      "legacySrc": "m20-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m20-3-3.mp3",
+      "legacySrc": "m20-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m20-3-4.mp3",
+      "legacySrc": "m20-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "방문하기 매우 흥미로운 장소는 경기도의 수원 근처에 위치한 한국 민속촌인데 그곳은 서울과 멀지 않다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyoung-gi Province, not far from the capital of Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "당신이 거기에 방문했을 때, 당신은 전통적인 예식을 볼 수 있고, 다양한 전통 음식을 맛 볼 수 있고 당신은 고대에 한국인들이 어떻게 생활했는지 관찰할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans livedduring ancient times.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그곳은 많은 외국인 방문자들에게 인기 있는 곳이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is a very popular attraction for many foreign visitors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Korean Folk Village in Suwon",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m20-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m20-3.swf"
+  ]
+}

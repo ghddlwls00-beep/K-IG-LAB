@@ -1,0 +1,83 @@
+{
+  "id": "d253-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d253",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 253 회 ]",
+  "menuLabel": "[ D 253-1 ]",
+  "unit": 253,
+  "part": null,
+  "order": 504,
+  "audio": [
+    {
+      "src": "/audio/ld/d253.mp3",
+      "legacySrc": "sounds/d253.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 253 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "면접 동안 질문에 정확하고 솔직하게 대답할 준비가 되어야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 은행의 책임자는 지원자에게 자신의 주요 결점과"
+    },
+    {
+      "type": "instruction",
+      "text": "장점이 무엇인지를 아는지 물어보는 것을 좋아했다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 지원자들은 이 질문에 대답할 수 없었다 ."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그 책임자는 지원자들에게 자신의 성품에 대하여"
+    },
+    {
+      "type": "instruction",
+      "text": "숙고해본 적이 있는지 물어보곤 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "분명히 그는 고대 그리스인들의 좌우명 “너 자신을 알아라”를 신봉했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 아마 자신의 두 가지 간단한 질문에 대답할 수 있는 사람들은 그를 그의 직원 에 대한"
+    },
+    {
+      "type": "instruction",
+      "text": "소중한 추가적인 인물로 만들어줄 자기 개선을 위한 인격과 열의를 갖고 있다는 추측을 했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d253-1.htm",
+  "legacyEncoding": "utf-8"
+}

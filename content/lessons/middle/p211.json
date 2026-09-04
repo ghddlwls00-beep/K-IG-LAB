@@ -1,0 +1,83 @@
+{
+  "id": "p211",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 211]",
+  "menuLabel": null,
+  "unit": 21,
+  "part": 1,
+  "order": 207,
+  "audio": [
+    {
+      "src": "/audio/middle/p211.mp3",
+      "legacySrc": "sounds/p211.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 211]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Self-Introduction)"
+    },
+    {
+      "type": "hints",
+      "text": "My name is James."
+    },
+    {
+      "type": "instruction",
+      "text": "I am 12 years old and am in the fifth grade."
+    },
+    {
+      "type": "instruction",
+      "text": "I go to Han-guk Elementary School. I live in Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "I am a very outgoing person, and I have a lot of friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My hobbies include reading books, listening to music"
+    },
+    {
+      "type": "instruction",
+      "text": "and watching movies."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite subject is English."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to help other people."
+    },
+    {
+      "type": "instruction",
+      "text": "When I help others, it makes me happy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p211.htm",
+  "legacyEncoding": "utf-8"
+}

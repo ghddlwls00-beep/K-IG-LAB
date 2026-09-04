@@ -1,0 +1,47 @@
+{
+  "id": "pr172-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr172",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 172-1 ]",
+  "menuLabel": "[ pr172-1 ]",
+  "unit": 172,
+  "part": null,
+  "order": 343,
+  "audio": [
+    {
+      "src": "/audio/reading/pr172.mp3",
+      "legacySrc": "sounds/pr172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 172-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 특정한 일을 하는 능력과 업무수행능력이 향상 병행되는 것은 아니다(주제문). 대단한 잠재능력을 가진 사람이 가끔 게으름과 일에 대한 흥미부족으로 실패하기도 한다. 반면에, 평범한 능력을 가진 사람도 종종 근면과 고용주에 대한 충성심으로 뛰어난 결과를 성취하기도 한다. 그런고로, 어떤 종업원에(피고용인)대한 마지막 평가는 일에 대한 수행능력이다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr172-1.htm",
+  "legacyEncoding": "utf-8"
+}

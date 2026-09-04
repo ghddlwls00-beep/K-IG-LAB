@@ -1,0 +1,139 @@
+{
+  "id": "m5",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": null,
+  "order": 27,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "The History of Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean Holidays",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean Culture",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Famous Places in Korea",
+      "lang": "en"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "07",
+          "text": "Helping hand"
+        },
+        {
+          "n": "01",
+          "text": "Greeting"
+        },
+        {
+          "n": "69",
+          "text": "The Foundation of Korea"
+        },
+        {
+          "n": "70",
+          "text": "The Kingdoms are Divided"
+        },
+        {
+          "n": "71",
+          "text": "Independence of Korea/The Korean Civil War"
+        },
+        {
+          "n": "72",
+          "text": "Post-War Development of Korea"
+        },
+        {
+          "n": "73",
+          "text": "An Introduction to Korean Holidays"
+        },
+        {
+          "n": "74",
+          "text": "Lunar New Year's Day"
+        },
+        {
+          "n": "75",
+          "text": "Chu-seok"
+        },
+        {
+          "n": "76",
+          "text": "Korean Culture is Unique"
+        },
+        {
+          "n": "77",
+          "text": "Traditional Korean Clothing"
+        },
+        {
+          "n": "78",
+          "text": "Traditional Korean Food"
+        },
+        {
+          "n": "79",
+          "text": "Hangul—The Korean Language"
+        },
+        {
+          "n": "80",
+          "text": "Korea’s Geographical Location"
+        },
+        {
+          "n": "81",
+          "text": "Hot Spots to Visit in Korea"
+        },
+        {
+          "n": "82",
+          "text": "The Korean Folk Village in Suwon"
+        },
+        {
+          "n": "83",
+          "text": "The Ancient Capital of Gyeong-ju"
+        },
+        {
+          "n": "84",
+          "text": "Korea’s Natural Paradise—Jeju Island"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "Man/m5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m5.swf"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr193",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 193 ]",
+  "menuLabel": "[ pr193 ]",
+  "unit": 193,
+  "part": null,
+  "order": 384,
+  "audio": [
+    {
+      "src": "/audio/reading/pr193.mp3",
+      "legacySrc": "sounds/pr193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 193 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "If you ask most children what their favorite treat is, they will answer “Ice cream!” There is nothing like delicious ice-cream cone on a hot, summer day. Every year Americans eat more than four billion ice-cream cones. Did you know that the ice-cream cone was invented by accident? St. Louis was having a world’s fair in 1904. Ice cream was a big seller. One person selling ice-cream ran out of dishes and did’t know what to do. Luckily, a person nearby, who was selling waffles, suggested rolling a waffle and putting the ice-cream inside. It was an instant success."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr193.htm",
+  "legacyEncoding": "utf-8"
+}

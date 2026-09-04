@@ -1,0 +1,55 @@
+{
+  "id": "d095",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 095 회 ]",
+  "menuLabel": "[ D 095 ]",
+  "unit": 95,
+  "part": null,
+  "order": 188,
+  "audio": [
+    {
+      "src": "/audio/ld/d095.mp3",
+      "legacySrc": "sounds/d095.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 095 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "Pat's week United States winning poem contest. San Francisco. tenth nine thirty evening. 8:40 a.m."
+    },
+    {
+      "type": "instruction",
+      "text": "eleventh. 8 that night, museums, Napa Valley. broke,"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d095.htm",
+  "legacyEncoding": "utf-8"
+}

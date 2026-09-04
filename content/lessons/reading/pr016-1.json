@@ -1,0 +1,55 @@
+{
+  "id": "pr016-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr016",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 016-1 ]",
+  "menuLabel": "[ pr016-1 ]",
+  "unit": 16,
+  "part": null,
+  "order": 31,
+  "audio": [
+    {
+      "src": "/audio/reading/pr016.mp3",
+      "legacySrc": "sounds/pr016.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 016-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 천명중의 단 한사람만이 현재에 정말로 살아가는 묘미를 안다고 믿는다. 대부분의 우리는 잃어버린 기쁨이나 잘못 행한 일들에 대한 수치심"
+    },
+    {
+      "type": "instruction",
+      "text": "에 대한 후회를 가지고 과거에 살거나 또는 갈망하거나 두려운 미래 안에서"
+    },
+    {
+      "type": "instruction",
+      "text": "사는데 시간당 59분을 쓴다. 생활하는 유일한 방법은 매분을 반복될수 없는 기적으로 받아들이는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr016-1.htm",
+  "legacyEncoding": "utf-8"
+}

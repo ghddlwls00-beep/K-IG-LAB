@@ -1,0 +1,184 @@
+{
+  "id": "gh1-083",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 083]",
+  "menuLabel": "[ gh1-083 ]",
+  "unit": 83,
+  "part": null,
+  "order": 132,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-083.mp3",
+      "legacySrc": "sounds/gh1-083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 083]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 6 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "The ski resort makes its own snow."
+        },
+        {
+          "n": "2",
+          "text": "The storm dumps three feet of snow."
+        },
+        {
+          "n": "3",
+          "text": "The official cancels ski races."
+        },
+        {
+          "n": "4",
+          "text": "My father remembers this."
+        },
+        {
+          "n": "5",
+          "text": "The scientist has a good memory."
+        },
+        {
+          "n": "6",
+          "text": "The soldier closes the bridge."
+        },
+        {
+          "n": "7",
+          "text": "My mother closes the door."
+        },
+        {
+          "n": "8",
+          "text": "The monkey uses the tool."
+        },
+        {
+          "n": "9",
+          "text": "He spends some time on an island."
+        },
+        {
+          "n": "10",
+          "text": "My mother waits for test results."
+        },
+        {
+          "n": "11",
+          "text": "He reads his newspaper."
+        },
+        {
+          "n": "12",
+          "text": "Didn't he spend some time on an island?"
+        },
+        {
+          "n": "13",
+          "text": "Are they spending some time on an island?"
+        },
+        {
+          "n": "14",
+          "text": "They spent some time on an island, didn't they?"
+        },
+        {
+          "n": "15",
+          "text": "They didn't spend some time on an island, did they?"
+        },
+        {
+          "n": "16",
+          "text": "They were not spending some time on an island."
+        },
+        {
+          "n": "17",
+          "text": "Are they waiting for test results?"
+        },
+        {
+          "n": "18",
+          "text": "Isn't he waiting for test results?"
+        },
+        {
+          "n": "19",
+          "text": "Didn't they wait for test results?"
+        },
+        {
+          "n": "20",
+          "text": "He read his newspaper."
+        },
+        {
+          "n": "21",
+          "text": "Does he read his newspaper?"
+        },
+        {
+          "n": "22",
+          "text": "When does the monkey use the tool?"
+        },
+        {
+          "n": "23",
+          "text": "Is the monkey using the tool?"
+        },
+        {
+          "n": "24",
+          "text": "He opens the door, doesn't he?"
+        },
+        {
+          "n": "25",
+          "text": "Does he open the door?"
+        },
+        {
+          "n": "26",
+          "text": "Are the soldiers closing the bridge?"
+        },
+        {
+          "n": "27",
+          "text": "Do you have a good memory?"
+        },
+        {
+          "n": "28",
+          "text": "Does the scientist have a good memory?"
+        },
+        {
+          "n": "29",
+          "text": "He remembers this, doesn't he?"
+        },
+        {
+          "n": "30",
+          "text": "Do officials cancel ski races?"
+        },
+        {
+          "n": "31",
+          "text": "Are officials cancelling ski races?"
+        },
+        {
+          "n": "32",
+          "text": "Did officials cancel ski races?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-083.htm",
+  "legacyEncoding": "utf-8"
+}

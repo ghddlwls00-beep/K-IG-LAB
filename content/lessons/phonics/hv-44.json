@@ -1,0 +1,88 @@
+{
+  "id": "hv-44",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-44 ]",
+  "unit": 44,
+  "part": null,
+  "order": 163,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-44.mp3",
+      "legacySrc": "sounds/hv-44.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "diminish",
+          "administer",
+          "mess",
+          "marvel(l)ous",
+          "accommodate",
+          "commodity"
+        ],
+        [
+          "marvel",
+          "modernization",
+          "admiration",
+          "admirable",
+          "modernize",
+          "mold"
+        ],
+        [
+          "missionary",
+          "administration",
+          "ministry",
+          "commitment",
+          "admission",
+          "murder"
+        ],
+        [
+          "mission",
+          "moment",
+          "motivation",
+          "missile",
+          "motive",
+          "emit"
+        ],
+        [
+          "submission",
+          "motive",
+          "momentary",
+          "mortality",
+          "commit",
+          "admit"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-44 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-44.htm",
+  "legacyEncoding": "utf-8"
+}

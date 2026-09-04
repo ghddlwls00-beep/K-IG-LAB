@@ -1,0 +1,83 @@
+{
+  "id": "p032",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 032 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 2,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/middle/p032.mp3",
+      "legacySrc": "sounds/p032.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 032 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Outgoing Person"
+    },
+    {
+      "type": "hints",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of this, I have many friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Their names are Dai-han (대한) and Min-guk(민국)."
+    },
+    {
+      "type": "instruction",
+      "text": "Who is my best friend?"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend is Dai-han, and I have known him for 3 years."
+    },
+    {
+      "type": "instruction",
+      "text": "What is he like? He is like me in many ways."
+    },
+    {
+      "type": "instruction",
+      "text": "He is an outgoing but sometimes shy person like me."
+    },
+    {
+      "type": "instruction",
+      "text": "He likes to hang out and play with friends, but he does not"
+    },
+    {
+      "type": "instruction",
+      "text": "like to talk to new people. I am like this, too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p032.htm",
+  "legacyEncoding": "utf-8"
+}

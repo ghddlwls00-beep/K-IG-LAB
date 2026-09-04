@@ -1,0 +1,47 @@
+{
+  "id": "pr023-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr023",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 023-1 ]",
+  "menuLabel": "[ pr023-1 ]",
+  "unit": 23,
+  "part": null,
+  "order": 45,
+  "audio": [
+    {
+      "src": "/audio/reading/pr023.mp3",
+      "legacySrc": "sounds/pr023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 023-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "지난 25년 동안 귀하는 이 회사에서 높이 평가받고 존경받는 사원이었습니다. 귀하는 1979년에 우편실에서 시작한 이래로 이 회사에 대한 귀하의 공헌이 아주 귀중했습니다. 귀하의 기술 때문에 귀하는 1992년에 사무국장으로 승진하게 되었습니다. 따라서 수년에 걸친 귀하의 공헌이 없었다면 우리들은 지금까지 성공했던 것만큼 성공하지 않았을 것입니다. 모든 중역들을 대표하여 우리는 귀하의 건강을 빌고 열심히 일한 대가로 얻은 은퇴를 즐기시기를 바랍니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr023-1.htm",
+  "legacyEncoding": "utf-8"
+}

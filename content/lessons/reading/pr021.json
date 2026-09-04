@@ -1,0 +1,47 @@
+{
+  "id": "pr021",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 021 ]",
+  "menuLabel": "[ pr021 ]",
+  "unit": 21,
+  "part": null,
+  "order": 40,
+  "audio": [
+    {
+      "src": "/audio/reading/pr021.mp3",
+      "legacySrc": "sounds/pr021.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 021 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "More effective than all the laws society has made for its self-preservation is the function of conscience, setting thereby a policeman in every man's bosom to see that its laws are obeyed. It is remarkable that even in a man's most private affairs, where one might imagine society has no concern, conscience leads him to act according to the good of this organism outside himself."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr021.htm",
+  "legacyEncoding": "utf-8"
+}

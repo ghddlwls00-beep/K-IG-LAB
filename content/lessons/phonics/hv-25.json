@@ -1,0 +1,88 @@
+{
+  "id": "hv-25",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-25 ]",
+  "unit": 25,
+  "part": null,
+  "order": 144,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-25.mp3",
+      "legacySrc": "sounds/hv-25.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "disclose",
+          "disclosure",
+          "recognize",
+          "recognition",
+          "ignore",
+          "ignorant"
+        ],
+        [
+          "ignorance",
+          "noble",
+          "nobility",
+          "acknowledge",
+          "acquaint",
+          "acquainted"
+        ],
+        [
+          "acquaintance",
+          "accord",
+          "accordance",
+          "according",
+          "accordingly",
+          "cordial"
+        ],
+        [
+          "discord",
+          "courage",
+          "courageous",
+          "encourage",
+          "encouragement",
+          "core"
+        ],
+        [
+          "corps",
+          "corporate",
+          "corporation",
+          "create",
+          "creature",
+          "creation"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-25 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-25.htm",
+  "legacyEncoding": "utf-8"
+}

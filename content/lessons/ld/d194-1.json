@@ -1,0 +1,75 @@
+{
+  "id": "d194-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d194",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 194 회 ]",
+  "menuLabel": "[ D 194-1 ]",
+  "unit": 194,
+  "part": null,
+  "order": 386,
+  "audio": [
+    {
+      "src": "/audio/ld/d194.mp3",
+      "legacySrc": "sounds/d194.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 194 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "어린이의 생활에 있어서 가장 큰 사건 중의 하나는 서커스가 마을에 오는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "아침 일찍 서커스 열차 행렬이 마을로 들어와서 곧 big-top을 세우기 위한 준비가 시작된다."
+    },
+    {
+      "type": "instruction",
+      "text": "수톤의 천막이 펼쳐지고 남자들이 소리지르며 당기고 서커스 코끼리들이"
+    },
+    {
+      "type": "instruction",
+      "text": "거대한 천막 기둥을 제위치에 세우는 것을 돕는다."
+    },
+    {
+      "type": "instruction",
+      "text": "곧 전에서는 공지였던 것이 작은 천막 도시가 된다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 도시는 수많은 괴상한 사람들에 의하여 주민이 구성된다."
+    },
+    {
+      "type": "instruction",
+      "text": "사자 조련사, 곡예사. 기형아 - 모두가 “지상 최대의 쇼”이 시민들이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d194-1.htm",
+  "legacyEncoding": "utf-8"
+}

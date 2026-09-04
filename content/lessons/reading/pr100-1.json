@@ -1,0 +1,47 @@
+{
+  "id": "pr100-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr100",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 100-1 ]",
+  "menuLabel": "[ pr100-1 ]",
+  "unit": 100,
+  "part": null,
+  "order": 199,
+  "audio": [
+    {
+      "src": "/audio/reading/pr100.mp3",
+      "legacySrc": "sounds/pr100.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 100-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 행동에 대한 한 실험에서, 새끼 원숭이들은 태어나자마자 그들의 엄마 원숭이로부터 분리되어서 가짜 엄마에게 맡겨졌다. 일부의 가짜 엄마들은 차갑고 단단한 철사로 만들어져 있었고 반면에 다른 가짜 엄마들은 따뜻하고 부드러운 수건 천으로 만들어져 있었다. 그 두 유형의 엄마들 중에서 선택해야 했을 때, 새끼 원숭이들은 반복적으로 수건 천 엄마와 시간을 보내는 쪽을 선택했다. 이 실험은 새끼 원숭이들이 그들의 수건 천 엄마와의 접촉에 의해 제공되는 안락함을 찾는다는 것을 보여 준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr100-1.htm",
+  "legacyEncoding": "utf-8"
+}

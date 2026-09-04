@@ -1,0 +1,91 @@
+{
+  "id": "d175-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d175",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 175 회 ]",
+  "menuLabel": "[ D 175-1 ]",
+  "unit": 175,
+  "part": null,
+  "order": 348,
+  "audio": [
+    {
+      "src": "/audio/ld/d175.mp3",
+      "legacySrc": "sounds/d175.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 175 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 “나는 기계가 나를 바보로 만들도록 허용하기 전에 내 손에 해머를 쥐고 죽겠다.”고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 시합이 마련되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 45분 혹은 경쟁자 중의 한쪽이 포기할 때까지 계속될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "승자는 바위 안으로 가장 깊이 판 사람이나 기계가 될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "수백명의 사람이 이 굉장한 구경꺼리를 보기 위하여 Big Bend로 몰려왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "30분 후에 그 기계는 망가졌지만 John Henry는 계속해서 일했다. 45분 후에 그 작업이 측정되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 기계는 겨우 9피트 팠다."
+    },
+    {
+      "type": "instruction",
+      "text": "John Henry는 15피트 팠다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 굉장한 승리를 했지만 그 노력은 이 거인에게조차도 너무 많았었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 노래가 말하듯이 “그가 손에 망치를 쥐고 죽었나이다."
+    },
+    {
+      "type": "instruction",
+      "text": "주여, 주여, 그의 손에 망치를 쥐고 죽었나이다.”"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d175-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,216 @@
+{
+  "id": "gh1-053",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 053]",
+  "menuLabel": "[ gh1-053 ]",
+  "unit": 53,
+  "part": null,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-053.mp3",
+      "legacySrc": "sounds/gh1-053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 053]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I was rich."
+        },
+        {
+          "n": "2",
+          "text": "He was poor."
+        },
+        {
+          "n": "3",
+          "text": "She was happy."
+        },
+        {
+          "n": "4",
+          "text": "You were strong."
+        },
+        {
+          "n": "5",
+          "text": "They were soldiers."
+        },
+        {
+          "n": "6",
+          "text": "We were workers (laborers)."
+        },
+        {
+          "n": "7",
+          "text": "These were my dogs."
+        },
+        {
+          "n": "8",
+          "text": "This was my pencil."
+        },
+        {
+          "n": "9",
+          "text": "Those(They) were their cows."
+        },
+        {
+          "n": "10",
+          "text": "My car was blue."
+        },
+        {
+          "n": "11",
+          "text": "It(That) was mine."
+        },
+        {
+          "n": "12",
+          "text": "This was yours."
+        },
+        {
+          "n": "13",
+          "text": "Was I popular?"
+        },
+        {
+          "n": "14",
+          "text": "Was he famous?"
+        },
+        {
+          "n": "15",
+          "text": "Was she rich?"
+        },
+        {
+          "n": "16",
+          "text": "Were you married?"
+        },
+        {
+          "n": "17",
+          "text": "Was my hand cold?"
+        },
+        {
+          "n": "18",
+          "text": "Were they sick?"
+        },
+        {
+          "n": "19",
+          "text": "What was her dream?"
+        },
+        {
+          "n": "20",
+          "text": "Where were they?"
+        },
+        {
+          "n": "21",
+          "text": "How was he?"
+        },
+        {
+          "n": "22",
+          "text": "Where was she?"
+        },
+        {
+          "n": "23",
+          "text": "Who was he?"
+        },
+        {
+          "n": "24",
+          "text": "What was she?"
+        },
+        {
+          "n": "25",
+          "text": "Was he her boyfriend?"
+        },
+        {
+          "n": "26",
+          "text": "Were these boys her classmates?"
+        },
+        {
+          "n": "27",
+          "text": "Were they her teachers?"
+        },
+        {
+          "n": "28",
+          "text": "Whose books were these?"
+        },
+        {
+          "n": "29",
+          "text": "Was he handsome?"
+        },
+        {
+          "n": "30",
+          "text": "Was this bag yours?"
+        },
+        {
+          "n": "31",
+          "text": "Were those(they) hers?"
+        },
+        {
+          "n": "32",
+          "text": "Was it(that) mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where were the girls?"
+        },
+        {
+          "n": "34",
+          "text": "Where was your mother?"
+        },
+        {
+          "n": "35",
+          "text": "Where were your sisters?"
+        },
+        {
+          "n": "36",
+          "text": "How was your family?"
+        },
+        {
+          "n": "37",
+          "text": "Was he your student?"
+        },
+        {
+          "n": "38",
+          "text": "Was it hot yesterday?"
+        },
+        {
+          "n": "39",
+          "text": "No, it was not hot yesterday."
+        },
+        {
+          "n": "40",
+          "text": "It was cold yesterday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-053.htm",
+  "legacyEncoding": "utf-8"
+}

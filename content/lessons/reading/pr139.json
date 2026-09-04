@@ -1,0 +1,47 @@
+{
+  "id": "pr139",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 139 ]",
+  "menuLabel": "[ pr139 ]",
+  "unit": 139,
+  "part": null,
+  "order": 276,
+  "audio": [
+    {
+      "src": "/audio/reading/pr139.mp3",
+      "legacySrc": "sounds/pr139.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 139 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Albert Einstein once attribute the creativity of a famous scientist to the fact that he never went to school, and therefore preserved the rare gift of thinking freely. There is undoubtedly truth in Einstein's observation; many artists and geniuses seem to view their schooling as an disadvantage. But such a truth is not a criticism of schools. It is the function of schools to civilize, not to train explorers. The social order demands unity and widespread agreement, both characteristics that are destructive to creativity. There will be conflict between the demands of society and the impulses of creativity and genius."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr139.htm",
+  "legacyEncoding": "utf-8"
+}

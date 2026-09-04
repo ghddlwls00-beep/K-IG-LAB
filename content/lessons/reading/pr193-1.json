@@ -1,0 +1,47 @@
+{
+  "id": "pr193-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr193",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 193-1 ]",
+  "menuLabel": "[ pr193-1 ]",
+  "unit": 193,
+  "part": null,
+  "order": 385,
+  "audio": [
+    {
+      "src": "/audio/reading/pr193.mp3",
+      "legacySrc": "sounds/pr193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 193-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "만약 당신이 대부분의 아이들에게 가장 좋은 대접이 무엇이냐고 물으면 그들은 아이스크림이라고 답할 것이다. 더운 여름날 맛있는 아이스크림 콘 같은 것은 없다. 매년 미국인은 40억 이상의 콘을 먹는다. 아이스크림 콘이 우연히 발명되었다는 사실을 아느냐? 세인트 루이스는 7904년에 세게 박람회를 개최하고 있었다. 아이스크림을 판매하는 어떤 사람이 접시가 다떨어져 무엇을 해야할 지 몰랐다. 운좋게도 근처에 와플을 파는 한 사람이 와플을 감아서 그 안에 아이스크림을 넣을 것을 제안했다. 그것은 즉각적인 성공이었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr193-1.htm",
+  "legacyEncoding": "utf-8"
+}

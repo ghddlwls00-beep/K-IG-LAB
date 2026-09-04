@@ -1,0 +1,47 @@
+{
+  "id": "pr153-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr153",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 153-1 ]",
+  "menuLabel": "[ pr153-1 ]",
+  "unit": 153,
+  "part": null,
+  "order": 305,
+  "audio": [
+    {
+      "src": "/audio/reading/pr153.mp3",
+      "legacySrc": "sounds/pr153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 153-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "교향악단은 음악으로 건물 전체를 꽉 채워 울리게 할 수 있다. 즐겁거나 슬플 수도, 흥분시키거나 안도시킬 수도 있는, 이런 아름다운 소리는 계획하고 함께 작업한 결과이다. 화가가 자기 미술 작품을 위해서 다양한 색을 선택하는 것처럼 작곡가들은 음악을 만들기 위해서 여러 가지 악기의 소리를 선택한다. 교향악단의 목적은 한 악절 한 악절을 연주하는 것이 아니다. '교향곡'이이란 단어는 '함께 소리를 내는 것'을 의미한다. 이렇게 함께 울리는 소리가, 우리 모두가 좋아하는 훌륭한 음악을 창조해 낸다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr153-1.htm",
+  "legacyEncoding": "utf-8"
+}

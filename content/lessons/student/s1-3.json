@@ -1,0 +1,213 @@
+{
+  "id": "s1-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s1-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/student/s1-3-1.mp3",
+      "legacySrc": "s1-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-2.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-3.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-4.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-5.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-6.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-7.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-8.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-9.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-10.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-3-11.mp3",
+      "legacySrc": "s1-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I love to be around my friends, and they like to be around me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m a pretty happy person.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people like me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a lot of friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am a very outgoing person, but I am also a little shy around new people.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 친구들 주위에 있기를 좋아합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 친구들 주위에 있기를 좋아합니다 I love to be around my friends,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그들도 나와 함께 있기를 좋아합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그들도 나와 함께 있기를 좋아합니다 and they like to be around me.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적인 사람이지만 나는 또한 새로운 사람들 주위에서는 약간 부끄러움을 탑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 친구들이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 친구들 주위에 있기를 좋아하고 그들도 제 주위에 있기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 아주 행복한 사람입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들이 저를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적인 사람입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적인 사람입니다.I am a very outgoing person,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그러나 나는 약간의 부끄러움을 탑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그러나 나는 약간의 부끄러움을 탑니다. but I am also a little shy",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/새로운 사람 주위에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/새로운 사람 주위에서 around new people.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personality - Outgoing Person",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s1-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s1-3.swf"
+  ]
+}

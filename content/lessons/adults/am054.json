@@ -1,0 +1,59 @@
+{
+  "id": "am054",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 054 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 4,
+  "order": 59,
+  "audio": [
+    {
+      "src": "/audio/adults/am054.mp3",
+      "legacySrc": "sounds/am054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 054 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "After Work and At Night"
+    },
+    {
+      "type": "hints",
+      "text": "I usually eat dinner with my co-workers after work."
+    },
+    {
+      "type": "instruction",
+      "text": "Otherwise, I go directly home and spend time with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is always happy to see me, and my busy day and stress are forgotten."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am054.htm",
+  "legacyEncoding": "utf-8"
+}

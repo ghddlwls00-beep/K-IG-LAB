@@ -1,0 +1,95 @@
+{
+  "id": "p162",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 162 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 162,
+  "audio": [
+    {
+      "src": "/audio/middle/p162.mp3",
+      "legacySrc": "sounds/p162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 162 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Why Do I Want to Become an Interpreter?)"
+    },
+    {
+      "type": "hints",
+      "text": "There are many reasons why I want to become an interpreter."
+    },
+    {
+      "type": "instruction",
+      "text": "First, English is the most widely used language in the world."
+    },
+    {
+      "type": "instruction",
+      "text": "So, I know that English is important."
+    },
+    {
+      "type": "instruction",
+      "text": "Second, I want to translate many interesting books"
+    },
+    {
+      "type": "instruction",
+      "text": "so that many more people can enjoy reading them."
+    },
+    {
+      "type": "instruction",
+      "text": "Furthermore, I want to write books in English, too."
+    },
+    {
+      "type": "instruction",
+      "text": "Another reason is that I want to interpret for people who can’t speak"
+    },
+    {
+      "type": "instruction",
+      "text": "English."
+    },
+    {
+      "type": "instruction",
+      "text": "Finally, if I go to another country,"
+    },
+    {
+      "type": "instruction",
+      "text": "the people might not understand Korean,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I must learn to speak English well so that I can communicate"
+    },
+    {
+      "type": "instruction",
+      "text": "with them comfortably."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p162.htm",
+  "legacyEncoding": "utf-8"
+}

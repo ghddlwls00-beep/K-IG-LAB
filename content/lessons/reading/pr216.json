@@ -1,0 +1,47 @@
+{
+  "id": "pr216",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 216 ]",
+  "menuLabel": "[ pr216 ]",
+  "unit": 216,
+  "part": null,
+  "order": 430,
+  "audio": [
+    {
+      "src": "/audio/reading/pr216.mp3",
+      "legacySrc": "sounds/pr216.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 216 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How much one can earn is important, of course, but there are other equally important considerations, neglect of which may produce frustration in later years. Where there is genuine interest, one may work diligently without even realizing it, and in such situations success follows. More important than success, which generally means promotion or an increase in salary, is the happiness which can only be found in doing work that one enjoys for its own sake and not merely for the rewards it brings."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr216.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "p062",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 062 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 2,
+  "order": 70,
+  "audio": [
+    {
+      "src": "/audio/middle/p062.mp3",
+      "legacySrc": "sounds/p062.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 062 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Introducing My Teacher)"
+    },
+    {
+      "type": "hints",
+      "text": "I would like to introduce my teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher’s name is Mr. 홍."
+    },
+    {
+      "type": "instruction",
+      "text": "He is about 30 years old."
+    },
+    {
+      "type": "instruction",
+      "text": "He loves children and makes learning fun."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, he tells us great stories."
+    },
+    {
+      "type": "instruction",
+      "text": "He is a good teacher."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p062.htm",
+  "legacyEncoding": "utf-8"
+}

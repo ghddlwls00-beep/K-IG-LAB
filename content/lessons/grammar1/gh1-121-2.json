@@ -1,0 +1,120 @@
+{
+  "id": "gh1-121-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-121",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 121-2]",
+  "menuLabel": "[ gh1-121-2 ]",
+  "unit": 121,
+  "part": null,
+  "order": 183,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-121-2.mp3",
+      "legacySrc": "sounds/gh1-121-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 121-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "20",
+          "text": "Why did Mubarak cancel the meeting?"
+        },
+        {
+          "n": "21",
+          "text": "(The) Palestinians and (the) Israelis must act."
+        },
+        {
+          "n": "22",
+          "text": "Why wasn't Powell's mission successful?"
+        },
+        {
+          "n": "23",
+          "text": "Why couldn't he persuade the Israelis?"
+        },
+        {
+          "n": "24",
+          "text": "When did Israelis end their military offensive against Palestinian lands?"
+        },
+        {
+          "n": "25",
+          "text": "What are insiders saying about the success of Powell's trip?"
+        },
+        {
+          "n": "26",
+          "text": "It's not about you."
+        },
+        {
+          "n": "27",
+          "text": "He has to send it to the judge."
+        },
+        {
+          "n": "28",
+          "text": "What does it say?"
+        },
+        {
+          "n": "29",
+          "text": "Do you really want to read it?"
+        },
+        {
+          "n": "30",
+          "text": "My father was an alcoholic."
+        },
+        {
+          "n": "31",
+          "text": "Does he wear his rings?"
+        },
+        {
+          "n": "32",
+          "text": "Why did you break up with her?"
+        },
+        {
+          "n": "33",
+          "text": "It's not your fault, is it?"
+        },
+        {
+          "n": "34",
+          "text": "Arabs and Israelis must make a choice."
+        },
+        {
+          "n": "35",
+          "text": "He addressed cadets."
+        },
+        {
+          "n": "36",
+          "text": "The responsibility for peace lies with Israel."
+        },
+        {
+          "n": "37",
+          "text": "Israel must continue its withdrawals."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-121-2.htm",
+  "legacyEncoding": "utf-8"
+}

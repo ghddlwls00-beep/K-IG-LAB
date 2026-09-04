@@ -1,0 +1,47 @@
+{
+  "id": "pr215",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 215 ]",
+  "menuLabel": "[ pr215 ]",
+  "unit": 215,
+  "part": null,
+  "order": 428,
+  "audio": [
+    {
+      "src": "/audio/reading/pr215.mp3",
+      "legacySrc": "sounds/pr215.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 215 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "People are happy with developments in medicine. Then they worry about the increased number of births. Scientists make great advances in agricultural chemistry, greatly increasing our food supply. Then our rivers become so polluted that we cannot even swim in them. We are happy with the developments in air transportation and impressed by the great airplanes. Then we are frightened by the horrors of air crash or air war. We are excited by the fact that space can now be entered. But we will undoubtedly see the other side there, too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr215.htm",
+  "legacyEncoding": "utf-8"
+}

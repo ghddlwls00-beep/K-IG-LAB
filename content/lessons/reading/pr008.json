@@ -1,0 +1,47 @@
+{
+  "id": "pr008",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 008 ]",
+  "menuLabel": "[ pr008 ]",
+  "unit": 8,
+  "part": null,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/reading/pr008.mp3",
+      "legacySrc": "sounds/pr008.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 008 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The average brain is naturally lazy and tends to take the line of least resistance. The mental world of the ordinary man consists of beliefs which he has accepted without questioning and to which he is firmly attached; he is instinctively hostile to anything which would upset the established order of this familiar world."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr008.htm",
+  "legacyEncoding": "utf-8"
+}

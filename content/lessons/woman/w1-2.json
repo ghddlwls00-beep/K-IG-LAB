@@ -1,0 +1,148 @@
+{
+  "id": "w1-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w1-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 2,
+  "order": 2,
+  "audio": [
+    {
+      "src": "/audio/woman/w1-2-1.mp3",
+      "legacySrc": "w1-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-2-2.mp3",
+      "legacySrc": "w1-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-2-3.mp3",
+      "legacySrc": "w1-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-2-4.mp3",
+      "legacySrc": "w1-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-2-5.mp3",
+      "legacySrc": "w1-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-2-6.mp3",
+      "legacySrc": "w1-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Introducing Myself :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Personal and Educational Background",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 부산에서 태어났습니다. 그러나 지금 서울에서 살고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was born in 부산, but now I live in 서울.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 남편과 그리고 2자녀와 함께 한국 아파트에서 살고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I live at the 한국 Apartment with my husband and 2 children.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 1990년에 서울에 있는 한국여자고등학교를 졸업했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I graduated from 한국 Women’s High School in 1990 in 서울.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 고등학교 때, 나는 매일 영어 공부하는 것을 즐겼습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was in high school, I enjoyed studying English every day.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 한국 대학에서 영어를 공부했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I studied (English) at 한국 University.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m 39 years old.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I live at the 한국 Apartments with my husband and 2 children.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    }
+  ],
+  "legacyPath": "Woman/w1-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w1-2.swf"
+  ]
+}

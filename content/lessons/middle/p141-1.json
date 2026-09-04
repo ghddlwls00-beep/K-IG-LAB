@@ -1,0 +1,83 @@
+{
+  "id": "p141-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p141",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 141-1 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 1,
+  "order": 145,
+  "audio": [
+    {
+      "src": "/audio/middle/p141.mp3",
+      "legacySrc": "sounds/p141.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 141-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(장래희망)"
+    },
+    {
+      "type": "instruction",
+      "text": "세계에는 많은 직업들이 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "그 중 하나만을 선택하기란 매우 어렵습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 아직 어리지만, 많은 다른 종류의 책들을 읽었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 책들은 내가 무엇이 되고 싶은지에 대해"
+    },
+    {
+      "type": "instruction",
+      "text": "이미 여러 번 나의 마음을 바꾸었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "의사, 영화배우, 변호사가 되는 것과 같은"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 훌륭한 직업들 중에서 어떻게 제가 선택 할 수 있겠습니까?"
+    },
+    {
+      "type": "instruction",
+      "text": "이러한 모든 멋진 직업들 중에서,"
+    },
+    {
+      "type": "instruction",
+      "text": "바로 지금의 나의 꿈은 선생님이 되는것입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p141-1.htm",
+  "legacyEncoding": "utf-8"
+}

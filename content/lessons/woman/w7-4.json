@@ -1,0 +1,93 @@
+{
+  "id": "w7-4",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w7-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 4,
+  "order": 35,
+  "audio": [
+    {
+      "src": "/audio/woman/w7-4-1.mp3",
+      "legacySrc": "w7-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-4-2.mp3",
+      "legacySrc": "w7-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-4-3.mp3",
+      "legacySrc": "w7-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 My Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do I Progress in My job?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 직업을 통해서 계속해서 배우고 나의 기술들을 발전시켜야합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have to continually learn and improve my skills throughout my career.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "요즈음 우리회사직원들은 모두 영어를 배워야 합니다. 그래서 나는 나의 영어 실력을 향상시키기 위해 열심히 공부하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "These days, my company is requiring that all of its employees learn English, so I am studying hard to improve my English language skills.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w7-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w7-4.swf"
+  ]
+}

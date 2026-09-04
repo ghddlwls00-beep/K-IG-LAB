@@ -1,0 +1,83 @@
+{
+  "id": "p024-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p024",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 024-1 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 4,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/middle/p024.mp3",
+      "legacySrc": "sounds/p024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 024-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "집에서의 생활"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 부모님은 항상 나의 동생과 제가 중요하고"
+    },
+    {
+      "type": "instruction",
+      "text": "특별하게 느끼게 만듭니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 부모님은 항상 저희에게 좋은 본보기가 되어줬습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 항상 집안일을 잘 도와줍니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 종종 어머니와 함께 쇼핑을 가십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그를 존경합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니는 훌륭한 요리사 이시고 여전히 아름다운 여성 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그녀의 나이보다 어려 보이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 저의 어머니를 사랑합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p024-1.htm",
+  "legacyEncoding": "utf-8"
+}

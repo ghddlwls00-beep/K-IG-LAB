@@ -1,0 +1,47 @@
+{
+  "id": "pr211-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr211",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 211-1 ]",
+  "menuLabel": "[ pr211-1 ]",
+  "unit": 211,
+  "part": null,
+  "order": 421,
+  "audio": [
+    {
+      "src": "/audio/reading/pr211.mp3",
+      "legacySrc": "sounds/pr211.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 211-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 과학의 천재들의 대중적인 얼굴을 생각하며, 종종 나이가 들었던지, 반백이 다 된 외모를 생각한다. 예를 들어서, 우리는 아인슈타인의 헝클러진 머리칼, 다윈의 장엄한 수염, 그리고 뉴튼의 주름진 얼굴을 생각한다. 그러나, 사실은 우리의 삶을 바꾼 과학의 대 발견은 30대의 사람들에 의해 되어졌고, 그리고 아인슈타인, 뉴튼 그리고 다윈도 포함된다. 참으로 그들보다 나이든 사람보다 그들의 시대의 지적 원리에 영향을 들 받았다는 것은 별로 놀랄 일은 아니다. 그들은 본능적으로 기존의 원리에 의문을 품었다. 그들은 새로운 생각은 미친 짓이라는 이야기를 들어도 믿지 않고, 불가능한 일에 자유롭게 도전했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr211-1.htm",
+  "legacyEncoding": "utf-8"
+}

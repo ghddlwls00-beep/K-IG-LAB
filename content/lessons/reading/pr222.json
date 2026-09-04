@@ -1,0 +1,59 @@
+{
+  "id": "pr222",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 222 ]",
+  "menuLabel": "[ pr222 ]",
+  "unit": 222,
+  "part": null,
+  "order": 442,
+  "audio": [
+    {
+      "src": "/audio/reading/pr222.mp3",
+      "legacySrc": "sounds/pr222.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 222 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The claim that we have recently entered the information age is misleading. Flooded by cellphones, the Internet, and television, we incorrectly imagine that our ancestors inhabited an innocent world where the news did not travel far beyond the village. It may not be valid to assume that the media make our time distinct from the past, because we know relatively little about how information was shared in the past."
+    },
+    {
+      "type": "hints",
+      "text": "In fact, the Olympics celebrate the memory of the Greek soldier who brought the news of the Athenian victory over the Persians. Most of us could come up with many other examples―message drums, smoke signals, church bells, ship flags. But their primitiveness would only confirm our sense that we live in a fundamentally different world, one of constant, instant access to information."
+    },
+    {
+      "type": "instruction",
+      "text": "All ages have had a means of sharing information."
+    },
+    {
+      "type": "instruction",
+      "text": "What makes our time distinct is not the density of the data we take in. It is the technology that does the transmitting. Thanks to satellites, we can find out instantly about events that occur on the other side of the world. It usually took five weeks for Benjamin Franklin in Paris to receive a letter sent from Philadelphia. But the news was still new and surprising to people there."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr222.htm",
+  "legacyEncoding": "utf-8"
+}

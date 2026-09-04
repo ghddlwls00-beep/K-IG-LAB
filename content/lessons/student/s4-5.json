@@ -1,0 +1,228 @@
+{
+  "id": "s4-5",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s4-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 5,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/student/s4-5-1.mp3",
+      "legacySrc": "s4-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-2.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-3.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-4.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-5.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-6.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-7.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-8.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-9.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-10.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-11.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-5-12.mp3",
+      "legacySrc": "s4-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "When we get together we usually go out for dinner.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He lives on the other side of town, and my family visits him twice a month.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My favorite relative is my oldest uncle, (uncle’s name).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가장 좋아하는 친척은 나의 가장 나이 많은 삼촌 길동입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 마을의 다른 쪽에 살고 있습니다. 그리고 나의 가족은 그를 한 달에 두 번 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 함께 모였을 때 우리는 종종 저녁 먹으러 밖으로 나갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 가장 좋아하는 친척은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 큰 삼촌 길동입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 큰 삼촌 길동입니다. is my oldest uncle, (길동).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 삽니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 삽니다He lives",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/마을의 반대편에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/마을의 반대편에서on the other side of town,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 우리 가족은 그를 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 우리 가족은 그를 방문합니다.and my family visits him",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한달에 두번",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/한달에 두번twice a month.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 함께 할 때면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 함께 할 때면When we get together",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 종종 외식하러 나갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리는 종종 외식하러 나갑니다. we usually go out for dinner.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relative Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My favorite relative",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s4-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s4-5.swf"
+  ]
+}

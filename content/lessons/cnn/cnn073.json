@@ -1,0 +1,378 @@
+{
+  "id": "cnn073",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Will People Pay for Mobile TV*?",
+  "label": "Will People Pay for Mobile TV*?",
+  "menuLabel": "[ CNN 73 ]",
+  "unit": 73,
+  "part": null,
+  "order": 72,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn073.mp4",
+      "legacySrc": "CNN/CNN61-120/73.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Will People Pay for Mobile TV*?"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: Television services for mobile phones are a hot topic at this year’s 3GSM World Congress in Barcelona. But the big question is, “Will people be willing to pay for it?” Jim Boulden takes a look at the services companies are offering in a bid to recoup the billions of dollars they’ve invested in 3G phone services.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JIM BOULDEN, CNN Correspondent: Your mobile phone can do so much these days, from recording video to downloading music, even watching live television. But has your bill soared? Probably not. All these 3G gadget phones cost billions of dollars to develop, but unless you pay a lot more for the services, then 3G is still a promising technology, not yet a profitable business.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "That’s why this week’s annual wireless convention, this time in Barcelona, is focusing on content. Microsoft, Walt Disney, MTV and the music labels are all there to find out how media content can be packaged so you will pay for it over a wireless connection.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, downloading music and ringtones has generated the most money in the 3G world, while other very expensive services like television are just getting started. No surprise, then, that market leader Nokia announced in Barcelona, it and Sanyo will share the costs to make one of the next generation mobile phones. Nokia will also soon ship mobile phones that will connect to the Internet to tap into the growing market of making cheap calls over the Web.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JORMA OLLIA, CEO of Nokia: Innovative players are already providing fixed voice calls over the Internet and now Internet voice is going mobile.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: It’s been nearly six years since mobile operators spent 34 billion dollars to grab 3G licenses in Britain and then another 46 billion dollars for the German market. It then took years for handset makers like Nokia, Motorola, Sony Ericsson and Samsung to produce phones that use 3G services like video and music.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of what has excited phone users in recent years has happened outside of 3G. Cheaper text messaging and picturephones were credited with the boom in phone sales seen in the last few years. But now, operators and content providers need you to spend more money to make the 3G mobile phone your “must-have” entertainment device. Jim Boulden, CNN, London.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "모바일 TV 시대 열리는가?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 올해 바르셀로나에서 열린 3GSM 세계회의에서 최고의 화젯거리는 휴대전화의 TV 수신 서비스입니다. 하지만 가장 큰 문제는 역시“과연 사람들이 기꺼이 돈을 내고 볼까?”입니다. 짐 볼든 기자가 이동통신사들이 3G폰 서비스에 투자한 수십억 달러를 회수하기 위해 제공하고 있는 서비스를 살펴보았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "짐 볼든, CNN 기자: 요즘 휴대전화는 기능이 정말 많은데요, 동영상 촬영에서부터 음악 다운로드, 심지어 실시간 TV 시청까지 할 수 있습니다. 그렇다고 통신 요금이 올랐을까요? 아마 그렇지는 않을 겁니다. 이 모든 3G폰 기종은 개발되는 데만 수십억 달러가 들었습니다. 그러나 사용자들이 이런 서비스에 훨씬 더 많은 요금을 지불하지 않으면, 3G폰 기술은 그저 장밋빛 기술일뿐 아직은 수익성 있는 사업이 될 수 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "바로 그 점 때문에 이번 주, 이번에 바르셀로나에서 열린, 연례 무선통신 세계대회의 초점은 콘텐츠에 맞춰져 있습니다. 마이크로소프트, 월트 디즈니, MTV 방송사, 그리고 음반사들이 모두 이곳에 모여, 사용자들이 무선 접속 사용료를 지불하게 만들려면 방송 콘텐츠를 어떻게 통합해야 할지 모색하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지금까지는 음악과 벨소리 다운로드가 3G(폰) 업계의 수익 대부분을 창출해 왔습니다. 반면, TV 수신과 같은 여타의 값비싼 서비스는 이제 막 시작 단계에 있습니다. 따라서 (휴대전화) 시장 선두업체인 노키아 사가 산요 사와 함께 공동 출자 방식으로 차세대 휴대전화를 만들기로 했다고 바르셀로나에서 발표한 것도 전혀 놀랄 일이 아닙니다. 노키아 사는 또 곧 인터넷 접속이 가능한 휴대전화를 출시하여, 성장하고 있는 저렴한 인터넷 전화 시장에 진입할 계획입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조르마 올리아, 노키아 사 최고경영자: 혁신적인 기업들은 이미 유선 인터넷 전화 서비스를 제공하고 있습니다. 이제는 인터넷 전화도 휴대전화처럼 되어가는 추세입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 거의 6년 전부터 이동통신사들은3G 특허권을 얻기 위해 영국에서 340억 달러를, 그리고 독일 시장을 위해 추가로 460억 달러를 투자해 왔습니다. 그 후 노키아, 모토롤라, 소니- 에릭슨, 그리고 삼성 같은 단말기 제조업체들이 동영상과 음악을 비롯한 3G 서비스용 전화기를 생산하는데 수년이 걸렸습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "최근 몇 년 간 휴대전화 사용자들을 흥분시킨 대부분의 서비스는 3G 분야 이외의 것들이었습니다. 더욱 저렴해진 문자 메시지 서비스와 화상전화가 지난 몇 년 간 보인 단말기 판매 호조에 한몫 단단히했습니다. 하지만 지금 이동통신사들과 콘텐츠 제공업체들은 소비자들의 추가지출을 발판으로3G폰을‘필수’오락기구로 만들려고 합니다. 런던에서 CNN, 짐 볼든이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "바르셀로나의 영어 발음이다. 지명, 인명, 고유 명사 등은 우리가 알고 있는 발음과 영어 발음이 다른 경우가 많다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "in a가 연음되고 있다. bid의 경우, -d가 탈락되어 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "d, p, k, t 등으로 끝나는 단어의 자음은 탈락되거나 앞모음의 받침으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "live는 여기서처럼 형용사이면 [라이ㅂ]로 발음되고, 동사일 경우는 [리ㅂ]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[s]가 모음 앞에 오거나 단어 끝에 오면 [ㅆ]로 경음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠른 대화나 뉴스에서 -ate은 보통 [에잇]이 아니라 [잇]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. separate(세퍼레잇), animate(에니메잇)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "o가 강세를 받으면 [아]에 가깝게 소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "offering[아퍼링], content[칸텐]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "have의 h음이 탈락되면서, ‘자음(t)+모음(a)’이 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "mustard(겨자)와 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) wireless/ 무선(의) (2) convention/ 회의, 협의회",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. label/ 레코드 회사",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. content provider/ 콘텐츠 제공자[제공업체]",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. generation/ (전자, 기기의) 세대, 종류",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fixed/ 장착된, 설비된",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. text message/ (휴대전화로 주고 받는) 문자 메시지; 문자 메시지를 보내다(text)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. device/ 고안물, (기계적) 장치",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Barcelona",
+          "text": "[바슬로나]."
+        },
+        {
+          "n": "in a bid to",
+          "text": "[이너비투]."
+        },
+        {
+          "n": "live",
+          "text": "[라이ㅂ]."
+        },
+        {
+          "n": "soared",
+          "text": "[쏘어ㄷ]."
+        },
+        {
+          "n": "generated",
+          "text": "[제너레이딧]."
+        },
+        {
+          "n": "operators",
+          "text": "[아퍼레이터ㅈ]."
+        },
+        {
+          "n": "must-have",
+          "text": "[머스테ㅂ]."
+        },
+        {
+          "n": "* mobile TV",
+          "text": "휴대용 TV: 여기서는 휴대전화로 TV를 보는 것을 의미"
+        },
+        {
+          "n": "1) 3GSM World Congress",
+          "text": "3GSM 세계회의: 이동통신 분야에서 세계 최대의 행사"
+        },
+        {
+          "n": "2) in a bid to",
+          "text": "…하기 위하여, …을 겨냥하여"
+        },
+        {
+          "n": "3) recoup",
+          "text": "(손실을) 회복[벌충]하다"
+        },
+        {
+          "n": "4) invest in",
+          "text": "…에 투자하다[돈을 쓰다]"
+        },
+        {
+          "n": "5) bill",
+          "text": "청구서, 계산서"
+        },
+        {
+          "n": "6) soar",
+          "text": "(물가가) 치솟다, 급상승하다"
+        },
+        {
+          "n": "7) gadget",
+          "text": "그럴듯한[정교한] 기계, 도구"
+        },
+        {
+          "n": "8) promising",
+          "text": "장래성이 있는; 전망이 좋은"
+        },
+        {
+          "n": "9) profitable",
+          "text": "이익이 많은, 수익성이 있는"
+        },
+        {
+          "n": "10) annual",
+          "text": "해마다의, 1년에 한 번의"
+        },
+        {
+          "n": "11) wireless convention",
+          "text": "무선통신 회의: 여기서는 3GSM World Congress를 뜻함"
+        },
+        {
+          "n": "12) focus on",
+          "text": "…에 집중하다, …을 집중적으로 다루다"
+        },
+        {
+          "n": "13) music label",
+          "text": "음반사"
+        },
+        {
+          "n": "14) content(s)",
+          "text": "콘텐츠: 인터넷 상의 각종 정보나 그 내용물"
+        },
+        {
+          "n": "15) package",
+          "text": "내용 일체를 세트로 팔다; 일괄 프로로서 제작[제공]하다"
+        },
+        {
+          "n": "16) wireless connection",
+          "text": "무선 접속"
+        },
+        {
+          "n": "17) ringtone",
+          "text": "(휴대전화) 벨소리"
+        },
+        {
+          "n": "18) generate",
+          "text": "산출하다; 발생시키다"
+        },
+        {
+          "n": "19) Nokia",
+          "text": "노키아 사: 세계에서 가장 큰 이동전화 제조회사로 핀란드에 본사가 있다."
+        },
+        {
+          "n": "20) Sanyo",
+          "text": "산요 사: 일본 전자제품 제조회사"
+        },
+        {
+          "n": "21) next generation",
+          "text": "차세대"
+        },
+        {
+          "n": "22) ship",
+          "text": "수송하다: 여기서는 시장에 내보내다, 즉 ‘출시하다’의 의미로 쓰이고 있다. ex. ship cattle by railroad/ 소를 철도로 수송하다"
+        },
+        {
+          "n": "23) connect to",
+          "text": "…와 연결[접속]되다"
+        },
+        {
+          "n": "24) tap into",
+          "text": "…에 다가가다[접근하다]; (문을) 가볍게 두드리다"
+        },
+        {
+          "n": "25) innovative",
+          "text": "혁신적인(new and original)"
+        },
+        {
+          "n": "26) player",
+          "text": "((구어)) (회의, 상거래 따위의 주요) 참가자"
+        },
+        {
+          "n": "27) fixed voice call",
+          "text": "유선 음성 전화"
+        },
+        {
+          "n": "28) Internet voice (call)",
+          "text": "인터넷 (음성) 전화: 인터넷 전화 기술(Voice-over Internet Protocol)을 이용한 전화"
+        },
+        {
+          "n": "29) mobile (phone) operator",
+          "text": "이동통신 사업자"
+        },
+        {
+          "n": "30) grab",
+          "text": "움켜쥐다, 재빨리 손에 쥐다"
+        },
+        {
+          "n": "31) license",
+          "text": "면허, 인허; 특허"
+        },
+        {
+          "n": "32) handset",
+          "text": "휴대폰 단말기; 전화기"
+        },
+        {
+          "n": "33) text messaging",
+          "text": "문자 메시지 전송"
+        },
+        {
+          "n": "34) picturephone",
+          "text": "((상표)) 화상[텔레비전] 전화"
+        },
+        {
+          "n": "35) be credited with",
+          "text": "(공적 등이) …에게 있다고 인정되다"
+        },
+        {
+          "n": "36) must-have",
+          "text": "꼭 가져야 하는; 필수품"
+        },
+        {
+          "n": "37) entertainment device",
+          "text": "오락기구"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/73.wmv",
+  "legacyEncoding": "binary"
+}

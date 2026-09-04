@@ -1,0 +1,83 @@
+{
+  "id": "d103-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d103",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 103 회 ]",
+  "menuLabel": "[ D 103-1 ]",
+  "unit": 103,
+  "part": null,
+  "order": 205,
+  "audio": [
+    {
+      "src": "/audio/ld/d103.mp3",
+      "legacySrc": "sounds/d103.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 103 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "알라스카는 그것의 춥고 눈이 많은 날씨로 알려져있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 해 동안 개썰매가 긴 겨울 동안 유일한 교통 수단이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 일부 알라스카 사람들은 연례적인 개썰매 시합에서 재미와 힘든 작업을 합친다."
+    },
+    {
+      "type": "instruction",
+      "text": "The Iditarod Trail Race는 세계에서 가장 긴 개썰매 경주이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 2주에서 3주 계속되며 거의 1700 킬로미터를 카버한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 시합은 알라스카를 가로질러 앵커리지로부터 Nome으로 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 알라스카의 광야에서 금을 찾아다녔던 사람들이 한 때 사용했던 길을 따라간다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 시합은 1925년의 겨울에 앵커리지로부터 Nome으로 약을 운반했던"
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 용감한 알라스카 사람들의 길도 따라간다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d103-1.htm",
+  "legacyEncoding": "utf-8"
+}

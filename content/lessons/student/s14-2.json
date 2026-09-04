@@ -1,0 +1,523 @@
+{
+  "id": "s14-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s14-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 63,
+  "audio": [
+    {
+      "src": "/audio/student/s14-2-1.mp3",
+      "legacySrc": "s14-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-2.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-3.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-4.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-5.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-6.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-7.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-8.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-9.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-10.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-11.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-12.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-13.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-14.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-15.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-16.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-17.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-18.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-19.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-20.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-21.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-22.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-23.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-24.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-25.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-26.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-27.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-28.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-29.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-30.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-2-31.mp3",
+      "legacySrc": "s14-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He/she loves children, and when I need help from him/her, he/she alwayshelps me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to be able to help others learn and grow, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She is excellent at teaching exactly what we need to know.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, my schoolteacher sets a good example.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to become a good teacher just like him/her.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to become a teacher for several reasons.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, my teacher knows a lot of things, and shares his/her knowledge with us about many things all of the time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋은 선생님이 되기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋은 선생님이 되기를 원합니다.I want to become a good teacher",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 꼭 그/그녀 처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 꼭 그/그녀 처럼 just like him/her.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 몇 가지 이유에서 선생님이 되고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째, 나의 학교선생님께서는 좋은 본보기를 보여주셨습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 아이들을 사랑하시고, 내가 그는/그녀로부터 도움이 필요할 때에 그는/그녀는 저를 항상 도와주십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/she loves children, and when I need help from him/her, he/she always helps me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나 또한 다른 사람들을 배우고 성장할 수 있게 도울 수 있기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 우리가 알고 싶어하는 것을 정확하게 가르치는 것을 뛰어나게 잘 하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째, 나의 선생님께서는 많은 것들을 알고 계시고, 항상 우리와 함께 많은 것들에 대해서 그의/그녀의 지식을 공유합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그/그녀와 같은 좋은 선생님이 되고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 원합니다.I want",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 선생님이 되기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 선생님이 되기를 to become a teacher",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇 가지 이유에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 몇 가지 이유에서 for several reasons.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째, 나의 학교 선생님은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째, 나의 학교 선생님은First, my school teacher",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 좋은 본보기가 되어 주십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 좋은 본보기가 되어 주십니다. sets a good example.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 아이들을 사랑하시고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 아이들을 사랑하시고He/she loves children,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 도움이 필요할 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 도움이 필요할 때 and when I need help",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그/그녀로 부터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그/그녀로 부터 from him/her,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그/그녀는 항상 나를 도우십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그/그녀는 항상 나를 도우십니다. he/she always helps me.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른 사람을 도울 수 있기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른 사람을 도울 수 있기를 원합니다.I want to be able to help others",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 배우고 성장할 수 있게, 역시",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 배우고 성장할 수 있게, 역시 learn and grow, too",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 훌륭하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 훌륭하십니다.He/She is excellent",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/정확하게 가르치는 것에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/정확하게 가르치는 것에 at teaching exactly",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리가 알아야할 필요가 있는 것들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리가 알아야할 필요가 있는 것들을 what we need to know.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째,Second,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 선생님은 아십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 선생님은 아십니다. my teacher knows",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 것들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 것들을a lot of things,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그/그녀의 지식을 공유하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그/그녀의 지식을 공유하십니다. and shares his/her knowledge",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리와 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리와 함께with us",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 것들에 대해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 것들에 대해서 about many things",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/항상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/항상 all of the time.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Future Dream Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Reasons for Wanting to Become a Teacher",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s14-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s14-2.swf"
+  ]
+}

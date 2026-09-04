@@ -1,0 +1,79 @@
+{
+  "id": "d052-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d052",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 052회 ]",
+  "menuLabel": "[ D 052-1 ]",
+  "unit": 52,
+  "part": null,
+  "order": 103,
+  "audio": [
+    {
+      "src": "/audio/ld/d052.mp3",
+      "legacySrc": "sounds/d052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 052회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들은 여름을 고대하는데 그때 그들은 몇주 동안 휴가를 갈 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국인들에게 좋아하는 휴가 장소 중의 하나는 천개의 호수의 땅인 Northern Wisconsin이다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 가족들이 그 호수 중의 하나 근처에 천막을 치고 낚시하거나 수영하거나 그냥 릴랙스하면서 몇주를 보낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 사람들은 캐빈에 머무는 것을 선호한다. 그러나 그것은 야영하는 것보다 훨씬 더 비싸다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 텐트에서 사는 것이 훨씬 더 재미있다. 어두워진 다음에 대부분의 캠핑객들은 모닥불 주위에 모여 서 노래부르는 것을 좋아한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 친구를 사귀는 좋은 방식이고 그것은 휴가의 많은 즐거운 추억들을 준다."
+    },
+    {
+      "type": "instruction",
+      "text": "일주일 남짓 캘핑 후에는 정말로 휴식하고 릴랙스했다고 느낀다."
+    },
+    {
+      "type": "instruction",
+      "text": "휴가들에 대한 유일한 나쁜 점은 그것들이 끝나야 한다는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d052-1.htm",
+  "legacyEncoding": "utf-8"
+}

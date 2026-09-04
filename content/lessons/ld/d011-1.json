@@ -1,0 +1,91 @@
+{
+  "id": "d011-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d011",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 011 회 ]",
+  "menuLabel": "[ D 011-1 ]",
+  "unit": 11,
+  "part": null,
+  "order": 21,
+  "audio": [
+    {
+      "src": "/audio/ld/d011.mp3",
+      "legacySrc": "sounds/d011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 011 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Kim Norris는 뉴저지의 Ocean City에 있는데 그곳에서 그녀는 그녀의 친구 Becky Field의 숙객이다."
+    },
+    {
+      "type": "instruction",
+      "text": "Kim은 약 6개월 전에 와싱턴으로부터 이사간 그녀의 매우 좋은 친구 Laura Beckett에게 편지를 쓰고"
+    },
+    {
+      "type": "instruction",
+      "text": "있다. 목요일, 친애하는 Laura. 내가 어디에 있는지 맞춰보렴."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴저지의 Ocean City에. Becky Field와 그녀의 부모님들이 이곳 해변의 그들의 여름 집에서"
+    },
+    {
+      "type": "instruction",
+      "text": "그들과 함께 일주일을 보내도록 나를 초대했어. 너는 Becky 기억하니?"
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 짧은 검정 머리를 가진 소녀 - 항상 미소짓고 웃는 그 사람이야."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 네가 나의 집에서 그녀를 만났다고 생각해. 이곳의 그 집은 매우 좋고 안락해."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 크기도 해. 그것은 세 개의 침실이 있어. 해변은 아름답고 멋진 판자산책로(boardwalk)가 있어."
+    },
+    {
+      "type": "instruction",
+      "text": "어제 우리는 오전 6시부터 8시까지 그 판자산책로에서 자전거를 탔어. 그것은 매우 재미있었어."
+    },
+    {
+      "type": "instruction",
+      "text": "자전거타는 사람이 약 300명 있었어. 나는 집에서 새로운 흰색 수영복을 샀고"
+    },
+    {
+      "type": "instruction",
+      "text": "그런데 나는 그것을 가져오는 것을 잊었어. 나는 정말 화났어."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d011-1.htm",
+  "legacyEncoding": "utf-8"
+}

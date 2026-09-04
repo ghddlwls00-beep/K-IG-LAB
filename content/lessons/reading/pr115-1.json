@@ -1,0 +1,47 @@
+{
+  "id": "pr115-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr115",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 115-1 ]",
+  "menuLabel": "[ pr115-1 ]",
+  "unit": 115,
+  "part": null,
+  "order": 229,
+  "audio": [
+    {
+      "src": "/audio/reading/pr115.mp3",
+      "legacySrc": "sounds/pr115.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 115-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "가장 만족스럽고 표현이 풍부한 그림은 몸 전체의 능동적 참여시켜서 이루어 진다. 당신의 손은 바닥에 서 있는 발에 의해 떠받쳐져서 당신의 팔 전체, 팔에서 몸통까지 연결되어 있다. 그림을 그릴 때 몸 전체를 능동적으로 참여시키기 위해 다음과 같이 시도해 보라. 당신의 손가락을 가지고 공간에 작은 원을 그리며 시작하라. 그리고 손목 주위를 원을 그리며 움직여라. 다음에 팔뚝을 가지고 좀 더 큰 원을 그려라. 그리고, 마지막으로 거대한 원을 팔을 돌려 만들어라. 지금 당신은 당신의 전체 몸이 그림을 그리는 일에 어떻게 사용되는가를 볼 수가 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr115-1.htm",
+  "legacyEncoding": "utf-8"
+}

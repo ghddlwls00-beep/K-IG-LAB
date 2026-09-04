@@ -1,0 +1,59 @@
+{
+  "id": "pr187",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 187 ]",
+  "menuLabel": "[ pr187 ]",
+  "unit": 187,
+  "part": null,
+  "order": 372,
+  "audio": [
+    {
+      "src": "/audio/reading/pr187.mp3",
+      "legacySrc": "sounds/pr187.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 187 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Every day each of us engages in many types of complex activities. We may go to school, participate in sports, drive cars, and sometimes become involved in conflicts."
+    },
+    {
+      "type": "hints",
+      "text": "(A)Why are some activities, such as eating and reproducing, common to all organisms, whereas other activities, such as nest-building, are limited to certain species? Why do some animals live in groups and others live alone?"
+    },
+    {
+      "type": "instruction",
+      "text": "(B)We also perform other, less complex activities such as eating and sleeping. Our nervous system determines the complexity of activities that we are able to perform. Animals with nervous systems similar to a worm’s cannot play soccer, much less chess."
+    },
+    {
+      "type": "instruction",
+      "text": "(C)Questions such as these are the focus of the study of behavior. In its simplest form, behavior is the conduct of an organism―the way it acts."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr187.htm",
+  "legacyEncoding": "utf-8"
+}

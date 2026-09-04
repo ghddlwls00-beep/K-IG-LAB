@@ -1,0 +1,71 @@
+{
+  "id": "d250-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d250",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 250 회 ]",
+  "menuLabel": "[ D 250-1 ]",
+  "unit": 250,
+  "part": null,
+  "order": 498,
+  "audio": [
+    {
+      "src": "/audio/ld/d250.mp3",
+      "legacySrc": "sounds/d250.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 250 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들은 허구의 위대한 탐정과 머리 싸움을 하면서 즐거운 스릴을 찾는다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 모두 실생활에서 셜록홈즈가 될 수 없지만 책장 속에서"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 모두 안락의자 탐정이 될 기회를 찾을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "좋은 미스테리 이야기를 읽는 것은 한 동안 경찰의 일원이 되는 것과 같다."
+    },
+    {
+      "type": "instruction",
+      "text": "좋은 미스테리 이야기는 독자들에게 스스로 그 미스테리를 풀 충분한 단서를 준다."
+    },
+    {
+      "type": "instruction",
+      "text": "마지막 장의 설명을 읽기 전에 그 미스테리를 푸는 것은 독자에게 큰 성취감을 준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d250-1.htm",
+  "legacyEncoding": "utf-8"
+}

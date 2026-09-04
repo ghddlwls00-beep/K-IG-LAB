@@ -1,0 +1,51 @@
+{
+  "id": "pr067-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr067",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 067-1 ]",
+  "menuLabel": "[ pr067-1 ]",
+  "unit": 67,
+  "part": null,
+  "order": 133,
+  "audio": [
+    {
+      "src": "/audio/reading/pr067.mp3",
+      "legacySrc": "sounds/pr067.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 067-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "동물 우주 과학자들의 모임에서 침팬지가\"우리가 달에 로켓을 보냈어. 그 로켓이 귀환하기 전에 한 달 내내 거기 머물었지.\" 라고 자랑스럽게 말했다.\"그것은 아무 것도 아니야.\"라고 여우가 말했다. \"우리는 이미 태양으로 곧바로 우주선을 보냈어.\" \"우리는 너희 둘 모두를 물리칠 수 있어.\"라고 돼지가 말했다. \"우리는 태양으로 직접 로켓을 보낼 예정이야.\" 침팬지와 여우"
+    },
+    {
+      "type": "instruction",
+      "text": "가 큰 소리로 웃으면서 말하기를 \"어리석은 소리하지 마라. 그 로켓은 거기에 도착하기도 전에 녹아버릴거야.\"\"아니야, 그렇지 않을 거야. 우리는 그 로켓을 밤에 올려 보낼 거니까.\"라고 돼지가 말했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr067-1.htm",
+  "legacyEncoding": "utf-8"
+}

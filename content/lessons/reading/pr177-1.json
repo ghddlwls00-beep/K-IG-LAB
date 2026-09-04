@@ -1,0 +1,47 @@
+{
+  "id": "pr177-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr177",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 177-1 ]",
+  "menuLabel": "[ pr177-1 ]",
+  "unit": 177,
+  "part": null,
+  "order": 353,
+  "audio": [
+    {
+      "src": "/audio/reading/pr177.mp3",
+      "legacySrc": "sounds/pr177.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 177-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 부모들은 아이들이 옳고 그름의 차이를 배워야 한다는 데 동의한다. 이 교훈을 가르치기 위해서 그들은 종종 아이들에게 벌을 준다. 그러나 아이들에게 어떻게 벌을 주어야 하는가에 대해서는 문화마다, 그리고 가정마다 다르다. 어떤 부모들은 아이들을 체벌하는 것이 벌을 주는 가장 좋은 방법이라고 믿는다. 다른 사람들은 부모들이 자녀들을 결코 때려서는 안 된다고 생각한다. 대부분의 부모들은 그들이 그들의 부모에 의해 벌을 받은 것과 똑같은 방식으로 자신들의 자녀들에게 벌을 준다. 간단히 말해서, 아이들에게 벌을 주는 가장 좋은 방법에 대해서는 상당한 불일치가 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr177-1.htm",
+  "legacyEncoding": "utf-8"
+}

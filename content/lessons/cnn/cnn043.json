@@ -1,0 +1,131 @@
+{
+  "id": "cnn043",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Hamas Wins Upset Victory in Palestinian Election",
+  "label": "Hamas Wins Upset Victory in Palestinian Election",
+  "menuLabel": "[ CNN 43 ]",
+  "unit": 43,
+  "part": null,
+  "order": 42,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn043.mp4",
+      "legacySrc": "CNN/CNN1-60/43.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hamas Wins Upset Victory in Palestinian Election"
+    },
+    {
+      "type": "paragraph",
+      "text": "Palestinian voters have delivered a major upset. Prime Minister Ahmed Qorei has resigned along with his cabinet as unofficial election results point to a clear parliamentary majority for the militant Hamas party and the end of 40 years of Fatah rule. Well, Hamas supporters are in celebration. Their party says it’s won at least 75 of the 132 seats in the Palestinian Legislative Council. And Hamas leaders have reiterated the party’s hard line against Israel, saying negotiations are not on the agenda",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "하마스, 팔레스타인 총선에서 예상외 압승 거둬",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "팔레스타인 유권자들이 예상을 뒤엎는 반전을 불러 일으켰습니다. 비공식 총선 개표 결과 무장단체인 하마스 정당의 과반 의석 확보와 파타당의 40년 집권의 종식이 분명해지면서, 아흐메드 쿠레이 총리 가 내각과 함께 사퇴했습니다. 한편 하마스 지지자들은 축제 분위기입니다. 하마스당은 팔레스타인 의회내 132개 의석 가운데 최소한 75석을 확보했다고 밝혔습니다. 또한 하마스 지도부는 이스라엘에 대한 강경 노선을 재차 강조하면서, 협상은 계획에 없다고 말했습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. upset/ 의외의 결과; 충격",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. parliamentary/ 의회의; 의회제의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. legislative/ 입법(상)의",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Hamas",
+          "text": "하마스: 팔레스타인 이슬람주의 (이슬람 수니파) 무장단체"
+        },
+        {
+          "n": "upset victory",
+          "text": "역전승, 의외의 승리"
+        },
+        {
+          "n": "deliver",
+          "text": "…을 내다, 산출[배출]하다"
+        },
+        {
+          "n": "Ahmed Qorei",
+          "text": "아흐메드 쿠레이: 전 팔레스타인 자치정부의 총리"
+        },
+        {
+          "n": "resign",
+          "text": "사임[사퇴]하다"
+        },
+        {
+          "n": "cabinet",
+          "text": "내각; ((집합적)) 각료"
+        },
+        {
+          "n": "point to",
+          "text": "…을 지시하다, 암시하다"
+        },
+        {
+          "n": "parliamentary majority",
+          "text": "의회[국회] 과반수"
+        },
+        {
+          "n": "militant",
+          "text": "무장세력, 무장단체; 호전적인, 투쟁적인"
+        },
+        {
+          "n": "Fatah",
+          "text": "파타당, 알파타(Al Fatah): 팔레스타인 자치정부가 이끌었던 정당으로 팔레스타인 해방기구의 최대 게릴라 조직이기도 하다."
+        },
+        {
+          "n": "Legislative Council",
+          "text": "입법부"
+        },
+        {
+          "n": "reiterate",
+          "text": "반복하다, 되풀이하다"
+        },
+        {
+          "n": "hard line",
+          "text": "강경노선[방침] opp. soft line/ 온건노선"
+        },
+        {
+          "n": "agenda",
+          "text": "(단계적 수순을 담은) 계획, 행동지침; 의제"
+        },
+        {
+          "n": "militant Hamas",
+          "text": "[밀리턴 하마ㅆ]. -nt로 끝나는 단어의 끝자음 [t]는 주로 탈락되어 발음된다. Hamas는 2음절에 강세가 있다."
+        },
+        {
+          "n": "Fatah rule",
+          "text": "[파터로울]. 알파타(Al Fatah)의 영어 발음이다. rule은 role 혹은 roll처럼 발음되고 있다."
+        },
+        {
+          "n": "have reiterated",
+          "text": "[헤ㅂ 리이이더릿]. [t]가 강모음과 약모음 사이에서 유음화되고, -ate가 [잇]으로 축약되어 들린다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/43.wmv",
+  "legacyEncoding": "binary"
+}

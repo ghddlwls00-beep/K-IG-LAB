@@ -1,0 +1,119 @@
+{
+  "id": "po19",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 19,
+  "part": null,
+  "order": 429,
+  "audio": [
+    {
+      "src": "/audio/basics/po19.mp3",
+      "legacySrc": "sounds/po19.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Principle 19. culture"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "239",
+          "text": "Our culture is different from other cultures."
+        },
+        {
+          "n": "240",
+          "text": "Especially our language and life style are not like any other country's."
+        },
+        {
+          "n": "241",
+          "text": "Korean culture is very unique."
+        },
+        {
+          "n": "242",
+          "text": "My family celebrates Chuseok and New Year's Day wearing the Hanbok,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "our traditional clothing."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "243",
+          "text": "I like Hanboks because they are so beautiful."
+        },
+        {
+          "n": "244",
+          "text": "Traditional Korean meals include boiled rice, soup, fish or meat"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "and several vegetable side dishes."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "245",
+          "text": "Bulgogi is the most popular Korean meat dish."
+        },
+        {
+          "n": "246",
+          "text": "The most popular vegetable dish is kimchi."
+        },
+        {
+          "n": "247",
+          "text": "I like them both."
+        },
+        {
+          "n": "248",
+          "text": "In 1420, the King Sejong asked scholars to invent a unique,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean alphabet."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "249",
+          "text": "I'm proud of my country and my culture."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po19.htm",
+  "legacyEncoding": "utf-8"
+}

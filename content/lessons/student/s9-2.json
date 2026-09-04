@@ -1,0 +1,458 @@
+{
+  "id": "s9-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s9-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 44,
+  "audio": [
+    {
+      "src": "/audio/student/s9-2-1.mp3",
+      "legacySrc": "s9-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-2.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-3.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-4.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-5.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-6.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-7.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-8.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-9.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-10.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-11.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-12.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-13.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-14.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-15.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-16.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-17.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-18.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-19.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-20.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-21.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-22.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-23.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-24.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-25.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-26.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s9-2-27.mp3",
+      "legacySrc": "s9-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I finish my classes at 3:00 p.m.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After school, I go to private academies where I study Art, Piano and English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each academy lesson lasts around fifty minutes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After lunch, I have two more classes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After my last academy class, I get home at around 6:00 p.m.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have lunch at 12:30 p.m.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes I get very tired when I’m at the academies, but I enjoy studying with my friends there.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 오후 12시 30분에 점심을 먹습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "점심식사 후, 나는 수업이 2개 더 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 3시에 나의 수업들을 마칩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "방과 후, 나는 미술, 피아노, 영어를 공부하는 사설 학원들로 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "각각의 학원 수업은 약 50분간 지속됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "가끔씩 나는 학원에 있을 때 매우 피곤해지지만, 나는 나의 친구들과 그곳에서 공부하는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 마지막 학원 수업 후에, 나는 약 오후 6시쯤 집에 도착합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 점심을 먹는다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 점심을 먹는다.I have lunch",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 12:30분에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 12:30분에at 12:30 p.m.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "점심식사 후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "점심식사 후에After lunch,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 두개 이상의 수업을 가지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 두개 이상의 수업을 가지고 있다.I have two more classes.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 수업을 마친다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 수업을 마친다.I finish my classes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 3:00에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 3:00에at 3:00 p.m.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "방과후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "방과후에After school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 학원에 간다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 학원에 간다.I go to private academies",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 그 곳에서 공부한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 그 곳에서 공부한다. where I study",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/미술, 피아노, 그리고 영어를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/미술, 피아노, 그리고 영어를 Art, Piano and English.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "각각의 학원수업은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "각각의 학원수업은Each academy lesson",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 50분간 지속된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 50분간 지속된다.lasts around fifty minutes.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 매우 피곤하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 매우 피곤하다.Sometimes I get very tired",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 학원에 있을 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 학원에 있을 때 when I'm at the academies,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그러나 나는 공부하는 것을 즐긴다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그러나 나는 공부하는 것을 즐긴다. but I enjoy studying",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 친구들과 그곳에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 친구들과 그곳에서 with my friends there.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내 마지막 학원 수업 후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내 마지막 학원 수업 후에After my last academy class,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 집에 도착한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 집에 도착한다. I get home",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 6:00 경에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 약 6:00 경에 at around 6:00 p.m.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do Every Day? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I do in the afternoon?",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s9-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s9-2.swf"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "p242",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 242]",
+  "menuLabel": null,
+  "unit": 24,
+  "part": 2,
+  "order": 223,
+  "audio": [
+    {
+      "src": "/audio/middle/p242.mp3",
+      "legacySrc": "sounds/p242.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 242]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Dream)"
+    },
+    {
+      "type": "hints",
+      "text": "I have many dreams for the future."
+    },
+    {
+      "type": "instruction",
+      "text": "However, my dream job is to become an interpreter."
+    },
+    {
+      "type": "instruction",
+      "text": "There are many reasons I want to become an interpreter."
+    },
+    {
+      "type": "instruction",
+      "text": "First, I like learning other languages,"
+    },
+    {
+      "type": "instruction",
+      "text": "and learning English is very exciting for me."
+    },
+    {
+      "type": "instruction",
+      "text": "Second, English is the most widely used language in the world,"
+    },
+    {
+      "type": "instruction",
+      "text": "so I know that English is an important to build good international"
+    },
+    {
+      "type": "instruction",
+      "text": "relationships."
+    },
+    {
+      "type": "instruction",
+      "text": "Another reason is that I want to translate many interesting books"
+    },
+    {
+      "type": "instruction",
+      "text": "so that many Koreans can truly enjoy many fun"
+    },
+    {
+      "type": "instruction",
+      "text": "and interesting books."
+    },
+    {
+      "type": "instruction",
+      "text": "Furthermore, I want to interpret for people who can’t speak English,"
+    },
+    {
+      "type": "instruction",
+      "text": "so that they can know what is going on in the world around them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p242.htm",
+  "legacyEncoding": "utf-8"
+}

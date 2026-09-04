@@ -1,0 +1,199 @@
+{
+  "id": "gh1-095",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 095]",
+  "menuLabel": "[ gh1-095 ]",
+  "unit": 95,
+  "part": null,
+  "order": 141,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-095.mp3",
+      "legacySrc": "sounds/gh1-095.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 095]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "58",
+          "text": "He wakes up next to a beautiful woman, doesn't he?"
+        },
+        {
+          "n": "59",
+          "text": "What policy does he need?"
+        },
+        {
+          "n": "60",
+          "text": "Who needs the blueprint?"
+        },
+        {
+          "n": "61",
+          "text": "Why was the American sitting there?"
+        },
+        {
+          "n": "62",
+          "text": "Why was the vice president taking part(participating) in that project?"
+        },
+        {
+          "n": "63",
+          "text": "She is in charge, isn't she?"
+        },
+        {
+          "n": "64",
+          "text": "He is not on this plane, is he?"
+        },
+        {
+          "n": "65",
+          "text": "She was different from most of the girls, wasn't she?"
+        },
+        {
+          "n": "66",
+          "text": "Everybody(everyone) likes the solution, don't they?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All like the solution, don't they?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "67",
+          "text": "Everybody(everyone) liked the contract, didn't they?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All liked the contract, didn't they?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "68",
+          "text": "Nobody likes the terms, do they?"
+        },
+        {
+          "n": "69",
+          "text": "Nobody hated her, did they?"
+        },
+        {
+          "n": "70",
+          "text": "Every(Each) agency increases security."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All agencies increase security."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "71",
+          "text": "All the boys get a tour of the center."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each(Every) boy gets a tour of the center."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "72",
+          "text": "Each(Every) boy worries about his future."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All the boys worry about their future."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "73",
+          "text": "Every(Each) boy received a prize."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All the boys received a prize."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "74",
+          "text": "All the boys (Each boy, Every boy) ignored the advice."
+        },
+        {
+          "n": "75",
+          "text": "Each(Every) boy did his homework."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All the boys did their homework."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "76",
+          "text": "Every(Each) priest attended the fundraiser, didn't he?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All the priests attended the fundraiser, didn't they?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-095.htm",
+  "legacyEncoding": "utf-8"
+}

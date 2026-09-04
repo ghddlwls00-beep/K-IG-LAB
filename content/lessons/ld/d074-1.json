@@ -1,0 +1,83 @@
+{
+  "id": "d074-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d074",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 074회 ]",
+  "menuLabel": "[ D 074-1 ]",
+  "unit": 74,
+  "part": null,
+  "order": 147,
+  "audio": [
+    {
+      "src": "/audio/ld/d074.mp3",
+      "legacySrc": "sounds/d074.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 074회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 어떤 남자 못지 않게 잘 비행할 수 있다는 것을 입증하기 위하여 혼자서 오스트렐리아로 비행하기 로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "부모님이 그녀에게 비행기를 살 돈을 빌려주었다. Amy는 1930년 5월 5일에 출발했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 항로는 그녀를 비엔나, 콘스탄티노불과 바그다드 상공으로 데려갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 모래 폭풍에 잡혀서 사막에 비상착륙을 해야했다. 그러나 그녀는 6일 후에 인도에 착륙했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 인도까지의 기록을 이틀 단축했다. 버마 상공에서 그녀는 몬순에 마주쳐서 단지 축구장에 착륙함 으로써 목숨을 구할 수 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 마침내 오스트렐리아에 도착했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 마지막 착륙 동안 비행기 프로펠러가 망가져서 불시착해야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 Amy는 그녀가 비행할 수 있다는 것과 여성이 정말로 마음을 두는 대부분의 어떤 것도 할 수 있다 는 것을 입증했다."
+    },
+    {
+      "type": "instruction",
+      "text": "Amy Johnson은 나중에 오스트렐리아에서 자신을 구출하려 왔던 그 조종사와 결혼했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d074-1.htm",
+  "legacyEncoding": "utf-8"
+}

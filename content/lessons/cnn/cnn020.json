@@ -1,0 +1,239 @@
+{
+  "id": "cnn020",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Seat Belt* Is Fastened*.",
+  "label": "Seat Belt* Is Fastened*.",
+  "menuLabel": "[ CNN 20 ]",
+  "unit": 20,
+  "part": null,
+  "order": 19,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn020.mp4",
+      "legacySrc": "CNN/CNN1-60/20.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Seat Belt* Is Fastened*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Ready for your first lesson?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: I guess I am.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: What about your seat belt?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Oh, sorry! I forgot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: It’s the law. Do you know which side of the road to drive on?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: On the right?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Good. How much do you know about the car? Where’s the steering wheel?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Right here.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: O.K. The brake?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: The pedal on the left.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Good. The accelerator?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: The one on the right.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Good. How about the turn signals?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Left... and right.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Uh-huh. Seat belt is fastened. O.K. We’re ready to go. Start the engine.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "안전벨트는 맸고요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 첫 수업을 받을 준비가 됐나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 그런 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 안전벨트는 매셨나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 아, 미안해요! 깜빡 잊었어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 그건 도로 법규입니다. 길의 어느 편에서 운전해야 하는지는 아세요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 오른편이지요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 맞았어요. 차에 대해서는 얼마나 아세요? 핸들은 어디 있죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 바로 여기요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 좋아요. 브레이크는요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 왼쪽 페달요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 좋아요. 액셀러레이터는요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 오른쪽 페달요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 맞았어요. 방향 지시등은요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 왼쪽… 그리고 오른쪽.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 그래요. 안전벨트는 맸고요. 좋아요. 출발 준비가 됐어요. 엔진 시동을 거세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. rules of road/ 도로에서 지켜야 할 교통 규칙",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. apply[put on] on the brake/ 브레이크[제동]를 걸다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. step on the accelerator/ 액셀러레이터를 밟다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* seat belt",
+          "text": "안전[좌석]벨트(safety belt)"
+        },
+        {
+          "n": "* fasten",
+          "text": "단단히 고정시키다[동여매다, 얽어매다]"
+        },
+        {
+          "n": "1) law",
+          "text": "법규, 규칙"
+        },
+        {
+          "n": "2) steering wheel",
+          "text": "(차의) 핸들, (배의) 타륜(舵輪)"
+        },
+        {
+          "n": "3) brake",
+          "text": "브레이크, 제동기"
+        },
+        {
+          "n": "4) pedal",
+          "text": "(기계, 자동차의) 페달, 발판"
+        },
+        {
+          "n": "5) accelerator",
+          "text": "액셀러레이터, 가속 페달"
+        },
+        {
+          "n": "6) turn signal (light)",
+          "text": "(차량의) 방향 지시등, 깜빡이(blinker)"
+        },
+        {
+          "n": "7) start the engine",
+          "text": "(차의) 엔진에 시동을 걸다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/20.wmv",
+  "legacyEncoding": "binary"
+}

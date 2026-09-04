@@ -1,0 +1,47 @@
+{
+  "id": "pr108",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 108 ]",
+  "menuLabel": "[ pr108 ]",
+  "unit": 108,
+  "part": null,
+  "order": 214,
+  "audio": [
+    {
+      "src": "/audio/reading/pr108.mp3",
+      "legacySrc": "sounds/pr108.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 108 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Elements of culture can be divided into two categories. The first is the material culture, which is made up of all the physical objects that people make and give meaning to. Books, clothing, and buildings are some examples. We have a shared understanding of their purposes and meanings. In contrast, nonmaterial culture consists of human creations that are not physical. Examples of nonmaterial culture are values and customs. Our beliefs and the languages we speak are also part of our nonmaterial culture."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr108.htm",
+  "legacyEncoding": "utf-8"
+}

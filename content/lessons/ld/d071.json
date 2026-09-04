@@ -1,0 +1,59 @@
+{
+  "id": "d071",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 071 회 ]",
+  "menuLabel": "[ D 071 ]",
+  "unit": 71,
+  "part": null,
+  "order": 140,
+  "audio": [
+    {
+      "src": "/audio/ld/d071.mp3",
+      "legacySrc": "sounds/d071.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 071 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "three a.m. August 8, Jack Mills controls Glasgow London. made up of 13 coaches."
+    },
+    {
+      "type": "instruction",
+      "text": "71 mailmen sort mail. second coach five mailmen 128 bags five pound notes."
+    },
+    {
+      "type": "instruction",
+      "text": "100 years three minutes past three, helper David Whitby yellow warning light. out of order."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d071.htm",
+  "legacyEncoding": "utf-8"
+}

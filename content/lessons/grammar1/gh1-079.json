@@ -1,0 +1,232 @@
+{
+  "id": "gh1-079",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 079]",
+  "menuLabel": "[ gh1-079 ]",
+  "unit": 79,
+  "part": null,
+  "order": 122,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-079.mp3",
+      "legacySrc": "sounds/gh1-079.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 079]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 4 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Why did you beat him?"
+        },
+        {
+          "n": "2",
+          "text": "Why does he beat her?"
+        },
+        {
+          "n": "3",
+          "text": "Why was she looking at him?"
+        },
+        {
+          "n": "4",
+          "text": "Why does your sister look at me?"
+        },
+        {
+          "n": "5",
+          "text": "Why is he tired?"
+        },
+        {
+          "n": "6",
+          "text": "Why are they sad?"
+        },
+        {
+          "n": "7",
+          "text": "This is a very important problem, isn't this?"
+        },
+        {
+          "n": "8",
+          "text": "I am waiting for him."
+        },
+        {
+          "n": "9",
+          "text": "What is your friend waiting for?"
+        },
+        {
+          "n": "10",
+          "text": "You need that(the) special book, don't you?"
+        },
+        {
+          "n": "11",
+          "text": "Is she writing a book?"
+        },
+        {
+          "n": "12",
+          "text": "What book is your husband writing?"
+        },
+        {
+          "n": "13",
+          "text": "Did you call me last night?"
+        },
+        {
+          "n": "14",
+          "text": "Why did you call me last night?"
+        },
+        {
+          "n": "15",
+          "text": "Who called you last week?"
+        },
+        {
+          "n": "16",
+          "text": "Isn't this a real interview?"
+        },
+        {
+          "n": "17",
+          "text": "I didn't lose my best friend."
+        },
+        {
+          "n": "18",
+          "text": "Why don't you feel the same?"
+        },
+        {
+          "n": "19",
+          "text": "We didn't see each other for a long time, did we?"
+        },
+        {
+          "n": "20",
+          "text": "You don't remember the night, do you?"
+        },
+        {
+          "n": "21",
+          "text": "We never talked about it, did we?"
+        },
+        {
+          "n": "22",
+          "text": "How old was he?"
+        },
+        {
+          "n": "23",
+          "text": "She misses him, doesn't she?"
+        },
+        {
+          "n": "24",
+          "text": "My dog ate all the bones, didn't it?"
+        },
+        {
+          "n": "25",
+          "text": "What is he doing?"
+        },
+        {
+          "n": "26",
+          "text": "Do you remember the accident?"
+        },
+        {
+          "n": "27",
+          "text": "Are you kidding?"
+        },
+        {
+          "n": "28",
+          "text": "You are kidding, aren't you?"
+        },
+        {
+          "n": "29",
+          "text": "When do you think about that night?"
+        },
+        {
+          "n": "30",
+          "text": "You met someone. didn't you?"
+        },
+        {
+          "n": "31",
+          "text": "He meets someone, doesn't he?"
+        },
+        {
+          "n": "32",
+          "text": "You don't understand."
+        },
+        {
+          "n": "33",
+          "text": "My parents do not understand me."
+        },
+        {
+          "n": "34",
+          "text": "Your teacher does not understand you, does he (or she)?"
+        },
+        {
+          "n": "35",
+          "text": "Did you meet her parents?"
+        },
+        {
+          "n": "36",
+          "text": "Aren't you working this weekend?"
+        },
+        {
+          "n": "37",
+          "text": "Is your boss working on Sunday?"
+        },
+        {
+          "n": "38",
+          "text": "When did we talk about this?"
+        },
+        {
+          "n": "39",
+          "text": "Who talks about this?"
+        },
+        {
+          "n": "40",
+          "text": "I am a busy girl."
+        },
+        {
+          "n": "41",
+          "text": "I had a sister."
+        },
+        {
+          "n": "42",
+          "text": "How many sisters does your mother have?"
+        },
+        {
+          "n": "43",
+          "text": "Do you like the color?"
+        },
+        {
+          "n": "44",
+          "text": "He misses her, doesn't he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-079.htm",
+  "legacyEncoding": "utf-8"
+}

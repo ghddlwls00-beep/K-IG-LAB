@@ -1,0 +1,152 @@
+{
+  "id": "cnn103",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Nepal Pro-democracy Protest Becomes Victory Rally",
+  "label": "Nepal Pro-democracy Protest Becomes Victory Rally",
+  "menuLabel": "[ CNN 103 ]",
+  "unit": 103,
+  "part": null,
+  "order": 102,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn103.mp4",
+      "legacySrc": "CNN/CNN61-120/103.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nepal Pro-democracy Protest Becomes Victory Rally"
+    },
+    {
+      "type": "paragraph",
+      "text": "“People Power Wins” That’s Tuesday morning’s headline in the Katmandu Post. Demonstrating turned to rejoicing after the Nepalese King Gyanendra bowed to weeks of protest and agreed to reinstate parliament. On the streets of the capital, thousands took part in impromptu victory celebrations. The seven-party opposition alliance named 84-year-old former Prime Minister Girija Prasad Koirala as the new head of government. King Gyanendra made concessions hich effectively returned power to elected politicians in a late night speech on Monday. But the opposition’s united front has collapsed as Maoist rebels called the King’s offer a “sham” and vowed to blockade Katmandu and other major centers.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "네팔 민주화 운동 승리",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘민중의 힘이 승리했다’바로 화요일 아침 <카트만두 포스트> 지의 머리기사 제목입니다. 갸넨드라 네팔 국왕이 수주 간 계속된 시위에 굴복, 의회 재구성에 동의함에 따라 시위가 축제로 변했습니다. 수도 카트만두의 거리에서는 수천 명의 시민들이 즉석에서 벌어진 축하연에 참석했습니다. 7개 야당 연합은 84세의 기리자 프라사드 코이랄라 전 총리를 정부의 새 수장으로 추대했습니다. 갸넨드라 국왕은 월요일 밤 연설을 통해, 민선 정치인들에게 사실상 권력을 이양하겠다며 한 발짝 물러섰습니다. 하지만 마오이스트 공산 반군이 국왕의 제의를‘속임수’라 주장하며 카트만두와 여타 주요 거점 지역을 봉쇄하겠다고 선언함에 따라 야당 연합이 붕괴됐습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[d]와 [t]의 조음위치가 비슷해 한 번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "bow와 vow는 발음을 구별하기 어려우므로 문맥으로 추측해 듣도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. Nepal/ 네팔",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. reinstate/ (원래 지위,상태로) 복귀[복원]시키다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "bowed to",
+          "text": "[바우 투]."
+        },
+        {
+          "n": "pro-democracy protest",
+          "text": "민주화 시위"
+        },
+        {
+          "n": "victory rally",
+          "text": "승리집회"
+        },
+        {
+          "n": "demonstrating",
+          "text": "시위"
+        },
+        {
+          "n": "rejoicing",
+          "text": "기쁨; 환호; 축하(연)"
+        },
+        {
+          "n": "Nepalese",
+          "text": "네팔의"
+        },
+        {
+          "n": "bow to",
+          "text": "…에 굴복하다"
+        },
+        {
+          "n": "reinstate parliament",
+          "text": "의회를 재구성하다"
+        },
+        {
+          "n": "take part in",
+          "text": "…에 참여하다"
+        },
+        {
+          "n": "impromptu",
+          "text": "즉흥적인, 즉석의"
+        },
+        {
+          "n": "victory celebration",
+          "text": "승리축하(연)"
+        },
+        {
+          "n": "seven-party opposition alliance",
+          "text": "7개 야당 연합: 다당제 민주주의 복원을 위해 투쟁하는 의회파로 네팔 국민의회당과 네팔 공산당 등 정치권의 주요 정당이 주축을 이룬다."
+        },
+        {
+          "n": "name A as B",
+          "text": "A를 B로 임명[지명]하다"
+        },
+        {
+          "n": "make concessions",
+          "text": "양보하다"
+        },
+        {
+          "n": "elected",
+          "text": "선출된, 민선의"
+        },
+        {
+          "n": "united front",
+          "text": "통일[공동] 전선"
+        },
+        {
+          "n": "collapse",
+          "text": "붕괴하다"
+        },
+        {
+          "n": "Maoist rebels",
+          "text": "마오이스트 공산 반군: 1996년부터 전(前)중국 국가주석 마오쩌둥의 혁명사상을 기반으로 왕정을 폐지하고 인민공화국 건설을 목표로 활동해 온 무장 게릴라 조직이다."
+        },
+        {
+          "n": "sham",
+          "text": "속임수"
+        },
+        {
+          "n": "vow",
+          "text": "단언하다; 맹세하다"
+        },
+        {
+          "n": "blockade",
+          "text": "봉쇄하다, 차단하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/103.wmv",
+  "legacyEncoding": "binary"
+}

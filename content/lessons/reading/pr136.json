@@ -1,0 +1,79 @@
+{
+  "id": "pr136",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 136 ]",
+  "menuLabel": "[ pr136 ]",
+  "unit": 136,
+  "part": null,
+  "order": 270,
+  "audio": [
+    {
+      "src": "/audio/reading/pr136.mp3",
+      "legacySrc": "sounds/pr136.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 136 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Poetry moves us to sympathize with the emotions of the poet himself"
+    },
+    {
+      "type": "hints",
+      "text": "or with those of the persons whom his imagination has created. We"
+    },
+    {
+      "type": "instruction",
+      "text": "witness their struggles, triumphs and failures. We feel their loves and"
+    },
+    {
+      "type": "instruction",
+      "text": "losses, joys and sorrows, hopes and fears, somewhat as if they were"
+    },
+    {
+      "type": "instruction",
+      "text": "our own. Though we sometimes suffer along with their anxieties and"
+    },
+    {
+      "type": "instruction",
+      "text": "sorrows, we receive a pleasure from the experience. Poetry provides"
+    },
+    {
+      "type": "instruction",
+      "text": "us with what is missing in our own lives - the experience of"
+    },
+    {
+      "type": "instruction",
+      "text": "imaginative pleasure. That is why we appreciate poetry in everyday"
+    },
+    {
+      "type": "instruction",
+      "text": "life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr136.htm",
+  "legacyEncoding": "utf-8"
+}

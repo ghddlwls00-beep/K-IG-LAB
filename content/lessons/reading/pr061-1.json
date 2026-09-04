@@ -1,0 +1,47 @@
+{
+  "id": "pr061-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr061",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 061-1 ]",
+  "menuLabel": "[ pr061-1 ]",
+  "unit": 61,
+  "part": null,
+  "order": 121,
+  "audio": [
+    {
+      "src": "/audio/reading/pr061.mp3",
+      "legacySrc": "sounds/pr061.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 061-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "졸업 기념 앨범이 곧 출판됩니다. 그것은 여러분의 고교 시절의 인물들과 행사들로 가득 차 있습니다. Westport 고등학교 학생으로서, 여러분은 많은 이러한 행사들의 중심에 있었습니다. 여러분은 여러분 학교 팀이 축구 우승하는 것을 보았습니다. 여러분은 많은 흥미로운 장소를 여행했습니다. 여러분은 학교 음악 축제에 참석했습니다. 이 모든 큰 행사들이 여러분을 위해 이 앨범에 기록되어 있습니다. 앨범 한 권을 예약하기 위해서는 11월 30일 까지 212호실로 가셔서, 비서에게 한 권 사기를 원한다는 것을 말씀하셔야 합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr061-1.htm",
+  "legacyEncoding": "utf-8"
+}

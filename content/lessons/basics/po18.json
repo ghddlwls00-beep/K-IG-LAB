@@ -1,0 +1,105 @@
+{
+  "id": "po18",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 18,
+  "part": null,
+  "order": 411,
+  "audio": [
+    {
+      "src": "/audio/basics/po18.mp3",
+      "legacySrc": "sounds/po18.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Principle 18. Holidays"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "227",
+          "text": "My country has many national holidays."
+        },
+        {
+          "n": "228",
+          "text": "The Holidays are New Year's Day, Arbor Day, Independence Day,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Chuseok and many more."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "229",
+          "text": "Each member of family gets up early in the morning."
+        },
+        {
+          "n": "230",
+          "text": "We usually wear the traditional Korean dress, Hanbok."
+        },
+        {
+          "n": "231",
+          "text": "Younger people bow to the older people to offer New Year's greetings."
+        },
+        {
+          "n": "232",
+          "text": "This is to wish everyone new blessings for the new year."
+        },
+        {
+          "n": "233",
+          "text": "Chuseok is one of the most popular national holidays of the year."
+        },
+        {
+          "n": "234",
+          "text": "It's often called the Korean Thanksgiving Day."
+        },
+        {
+          "n": "235",
+          "text": "All my relatives get together and have a good time."
+        },
+        {
+          "n": "236",
+          "text": "People visit their ancestors' tombs."
+        },
+        {
+          "n": "237",
+          "text": "We enjoy the full moon at night."
+        },
+        {
+          "n": "238",
+          "text": "We eat Songpyeon which is a traditional Korean rice cake."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po18.htm",
+  "legacyEncoding": "utf-8"
+}

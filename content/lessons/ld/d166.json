@@ -1,0 +1,63 @@
+{
+  "id": "d166",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 166 회 ]",
+  "menuLabel": "[ D 166 ]",
+  "unit": 166,
+  "part": null,
+  "order": 329,
+  "audio": [
+    {
+      "src": "/audio/ld/d166.mp3",
+      "legacySrc": "sounds/d166.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 166 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "author American literature Samuel Langorne Clemens. Missouri 1835, banks of the Mississippi"
+    },
+    {
+      "type": "instruction",
+      "text": "River adopt pen name of \"Mark Twain\" call of the boatmen measure depth inspire fame: Tom"
+    },
+    {
+      "type": "instruction",
+      "text": "Sawyer Huckleberry Finn. Life on the Mississippi, adventures Civil War Nevada California. \"The"
+    },
+    {
+      "type": "instruction",
+      "text": "Celebrated Jumping Frog of Calaveras County,\" immediate success career"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d166.htm",
+  "legacyEncoding": "utf-8"
+}

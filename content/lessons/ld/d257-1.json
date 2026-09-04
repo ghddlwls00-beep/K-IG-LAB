@@ -1,0 +1,75 @@
+{
+  "id": "d257-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d257",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 257 회 ]",
+  "menuLabel": "[ D 257-1 ]",
+  "unit": 257,
+  "part": null,
+  "order": 512,
+  "audio": [
+    {
+      "src": "/audio/ld/d257.mp3",
+      "legacySrc": "sounds/d257.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 257 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "현대 의사는 원시적인 인디언 주술사와는 극명한 대조를 이룬다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 치료제들은 페인트와 기괴한 춤이 아니라 과학적인 지식, 숙련된 기술, 효과적인 화학약품이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 병자를 고치는데 자신을 바치고 의학의 발전에 기여하겠다는 선서를 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "사무실이나 병원에서 긴 하루를 보낸 후에 대부분의 의사는"
+    },
+    {
+      "type": "instruction",
+      "text": "귀가해서 자신을 개인적인 연구와 공부에 바친다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 자신의 의무를 효율적으로 완수할 수 있기 위해서는"
+    },
+    {
+      "type": "instruction",
+      "text": "최근의 발전과 보조를 맞추는 것이 필수불가결하다는 것을 인식한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d257-1.htm",
+  "legacyEncoding": "utf-8"
+}

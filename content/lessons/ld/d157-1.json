@@ -1,0 +1,91 @@
+{
+  "id": "d157-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d157",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 157 회 ]",
+  "menuLabel": "[ D 157-1 ]",
+  "unit": 157,
+  "part": null,
+  "order": 313,
+  "audio": [
+    {
+      "src": "/audio/ld/d157.mp3",
+      "legacySrc": "sounds/d157.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 157 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그 일은 과거만큼 그렇게 어렵지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "Olaf는 한 때 손으로 했던 것들의 많은 것을 하는 몇 개의 기계를 샀다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 세 자녀는 이사갔다. Sigrid는 농부와 결혼해서 가까이에서 산다."
+    },
+    {
+      "type": "instruction",
+      "text": "Carl은 미네아폴리스에서 살고 있는데 그곳에서 낙농 제품을 만드는"
+    },
+    {
+      "type": "instruction",
+      "text": "공장의 지배인으로써 좋은 직장을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 공장에 의해서 사용되는 우유의 일부는 Olaf Jensen의 농장으로부터 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "Inga는 주립 대학에 다녔고 이제 St.Paul의 고등학교에서 가르치고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "젠슨 가족의 이야기는 이례적이 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "농장에서의 생활은 많이 바뀌었지만 농업은 아직 필요하고 대단히 중요한 직업이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 도시 생활이 Carl과 Inga Jensen같은 사람들을 끌어들인다."
+    },
+    {
+      "type": "instruction",
+      "text": "매년 그중의 많은 사람들은 농장을 떠나고 대도시 내에 혹은 가까이에 위치한 많은 공장에 취직한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d157-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pr229-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr229",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 229-1 ]",
+  "menuLabel": "[ pr229-1 ]",
+  "unit": 229,
+  "part": null,
+  "order": 457,
+  "audio": [
+    {
+      "src": "/audio/reading/pr229.mp3",
+      "legacySrc": "sounds/pr229.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 229-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람들은 ‘즐거움을 위한’ 독서(직업에 직접적으로 연관되어 있지"
+    },
+    {
+      "type": "instruction",
+      "text": "않은 것이나, 금방 실용화할 수 없는 것)는 시간 낭비라고 느낀다. 그들이"
+    },
+    {
+      "type": "instruction",
+      "text": "생각하기에 책을 읽으며 몇 시간을 보낸다는 것은 비생산적인 꿈이다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들면, 그들은 독서에 대해 질문을 받을 때, 어떤 경영자들은 흔히"
+    },
+    {
+      "type": "instruction",
+      "text": "“나는 전문적인 서적에는 뒤쳐지지 않지만, 책을 읽을 시간이"
+    },
+    {
+      "type": "instruction",
+      "text": "없습니다.”라고 대답한다. 그들의 어조는 독서할 시간이 있는 사람은"
+    },
+    {
+      "type": "instruction",
+      "text": "어쨌든 한가한 사람이라는 것을 암시한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr229-1.htm",
+  "legacyEncoding": "utf-8"
+}

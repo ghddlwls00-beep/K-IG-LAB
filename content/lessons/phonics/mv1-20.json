@@ -1,0 +1,88 @@
+{
+  "id": "mv1-20",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-20 ]",
+  "unit": 20,
+  "part": null,
+  "order": 19,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-20.mp3",
+      "legacySrc": "sounds/mv1-20.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "ear",
+          "mom",
+          "village",
+          "quiet",
+          "golden",
+          "skate"
+        ],
+        [
+          "problem",
+          "strange",
+          "wear",
+          "trouble",
+          "wood",
+          "language"
+        ],
+        [
+          "foreign",
+          "dish",
+          "different",
+          "surprise",
+          "welcome",
+          "decide"
+        ],
+        [
+          "dictionary",
+          "shake",
+          "lose",
+          "bear",
+          "culture",
+          "inside"
+        ],
+        [
+          "hungry",
+          "noise",
+          "church",
+          "easily",
+          "cloud",
+          "cool"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-20 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-20.htm",
+  "legacyEncoding": "utf-8"
+}

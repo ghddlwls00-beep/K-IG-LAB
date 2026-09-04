@@ -1,0 +1,145 @@
+{
+  "id": "cnn069",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Crash Stuns Oscars, Wins Best Film",
+  "label": "Crash Stuns Oscars, Wins Best Film",
+  "menuLabel": "[ CNN 69 ]",
+  "unit": 69,
+  "part": null,
+  "order": 68,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn069.mp4",
+      "legacySrc": "CNN/CNN61-120/69.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Crash Stuns Oscars, Wins Best Film"
+    },
+    {
+      "type": "paragraph",
+      "text": "The family of Ang Lee celebrating his award as Best Director for the gay cowboy romance, Brokeback Mountain. But the film expected to overshadow this year’s Oscars was outmaneuvered in the category for Best Film. Crash picked up a total of three Oscars. Set in Los Angeles, the film homes in on the problems caused by racial prejudice in contemporary America. Also stepping up to the podium were actors Philip Seymour Hoffman. He won Best Actor for his depiction of homosexual writer Truman Capote and Reese Witherspoon won Best Actress for her role as June Carter in Walk The Line.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "<크래시> 예상 깨고, 오스카 작품상 수상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이안 감독의 가족들은 카우보이의 동성애을 다룬 <브로크백 마운틴> 으로 그가 최우수 감독상을 받은 것을 축하했습니다. 하지만 올해 오스카상을 휩쓸 것으로 기대되었던 이 영화는 최고의 작품상 부문에서는 의외로 밀려났습니다. <크래시>가 총 3개 부문에서 오스카상을 수상했습니다. LA를 배경으로 한 이 영화는 현대 미국 사회에서 인종 편견으로 인해 야기되는 문제들을 집중 조명하고 있습니다. 또한 수상 단상에 올라선 배우로는 필립 세이뮤어 호프만이 있습니다. 동성애자 작가인 트루먼 카포티를 연기한 그는 남우주연상을 수상했습니다. 그리고 리즈 위더스푼은 <앙코르>에서 준 카터를 연기해 여우주연상을 수상했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ed, up와 a가 연음이 되어 하나의 단어처럼 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앵커가 homes를 [혼즈]로 잘못 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hone은 ‘연마하다(sharpen)’라는 뜻의 단어이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "st는 무성음의 중복으로 [t]가[ㄸ]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. prejudice/ 편견",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "picked up a",
+          "text": "[삑더퍼]."
+        },
+        {
+          "n": "homes in",
+          "text": "[혼즈-인]."
+        },
+        {
+          "n": "stepping up",
+          "text": "[스떼삥업]."
+        },
+        {
+          "n": "stun",
+          "text": "깜짝 놀라게 하다"
+        },
+        {
+          "n": "Ang Lee",
+          "text": "이안: <브로크백 마운틴>, <헐크>, <와호장룡> 등의 영화를 만든 감독"
+        },
+        {
+          "n": "overshadow",
+          "text": "무색하게 만들다"
+        },
+        {
+          "n": "outmaneuver",
+          "text": "…을 능가하다, 의표를 찌르다"
+        },
+        {
+          "n": "Crash",
+          "text": "<크래시>: 폴 해기스 감독의 영화로 미국의 인종문제를 다루고 있다."
+        },
+        {
+          "n": "home in on",
+          "text": "(TV 카메라가 피사체에) 접근하다"
+        },
+        {
+          "n": "racial prejudice",
+          "text": "인종편견"
+        },
+        {
+          "n": "contemporary",
+          "text": "현대의, 당대의"
+        },
+        {
+          "n": "step up to",
+          "text": "…으로 올라가다[다가가다]"
+        },
+        {
+          "n": "podium",
+          "text": "지휘대, 연단"
+        },
+        {
+          "n": "Philip Seymour Hoffman",
+          "text": "필립 세이뮤어 호프만: <카포티>, <레드 드래곤> 등의 영화에 출연한 미국 배우"
+        },
+        {
+          "n": "depiction",
+          "text": "묘사, 서술"
+        },
+        {
+          "n": "Truman Capote",
+          "text": "트루먼 카포티: <티파니에서 아침을>이란 책을 쓴 미국의 작가로 몇 편의영화에도 출연했다."
+        },
+        {
+          "n": "Reese Witherspoon",
+          "text": "리즈 위더스푼: <저스트 라이크 헤븐>, <배니티 페어> 등의 영화에 출연한 미국 배우"
+        },
+        {
+          "n": "Walk The Line",
+          "text": "<앙코르>: 천재 팝 스타 자니 캐시의 사랑과 역경을 그린 영화"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/69.wmv",
+  "legacyEncoding": "binary"
+}

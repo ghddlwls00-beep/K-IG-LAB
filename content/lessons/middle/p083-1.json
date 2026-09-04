@@ -1,0 +1,83 @@
+{
+  "id": "p083-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p083",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 083-1 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 3,
+  "order": 91,
+  "audio": [
+    {
+      "src": "/audio/middle/p083.mp3",
+      "legacySrc": "sounds/p083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 083-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(저녁식사 시간)"
+    },
+    {
+      "type": "instruction",
+      "text": "저녁식사 시간은 하루 중 나의 가족들이 모이는 유일한 시간 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "보통 나의 아버지께서는 늦게 오시기에"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 저녁시간을 함께 할 수 없습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니께서는 우리 가족들의 건강을 걱정하시기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 많은 다른 종류의 건강한 반찬들을 준비합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저의 가장 좋아하는 음식은 불고기 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 저녁식사시간에 항상 많은 대화를 나눕니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 대부분 하루 동안 우리에게 일어났던"
+    },
+    {
+      "type": "instruction",
+      "text": "재미있는 것들에 대해서 이야기 합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p083-1.htm",
+  "legacyEncoding": "utf-8"
+}

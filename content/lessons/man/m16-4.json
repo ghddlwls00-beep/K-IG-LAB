@@ -1,0 +1,118 @@
+{
+  "id": "m16-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m16-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 4,
+  "order": 71,
+  "audio": [
+    {
+      "src": "/audio/man/m16-4-1.mp3",
+      "legacySrc": "m16-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-4-2.mp3",
+      "legacySrc": "m16-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-4-3.mp3",
+      "legacySrc": "m16-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-4-4.mp3",
+      "legacySrc": "m16-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-4-5.mp3",
+      "legacySrc": "m16-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한국에서 영화 산업은 요즘 갑자기 인기가 높아지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The film industry in Korea is really booming these days.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 영화는 아시아 전역으로 수출되고 우리 배우들은 유명해지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our films are exported all over Asia, and our actors are becoming famous.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이는 한국 경제에도 매우 좋다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is very good for the Korean economy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국 사람들은 또한 전 세계의 영화 보는 것을 즐긴다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean people also enjoy watching films from all over the world.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean Films",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m16-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m16-4.swf"
+  ]
+}

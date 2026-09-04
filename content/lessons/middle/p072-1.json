@@ -1,0 +1,75 @@
+{
+  "id": "p072-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p072",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 072-1 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 2,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/middle/p072.mp3",
+      "legacySrc": "sounds/p072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 072-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(가장 좋아하는 학원)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 좋아하는 학원은 영어입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매일 가고 새로운 문장들, 단어들, 그리고 노래들을 배웁니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 역할연기 그리고 나의 친구들과 함께"
+    },
+    {
+      "type": "instruction",
+      "text": "영어로 말하는 것을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "미래에 영어를 유창하게 말하기 위해 배우고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "왜냐하면 나는 영어가 나의 미래 직업에 도움이 될 것이라는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "알고 있기 때문입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p072-1.htm",
+  "legacyEncoding": "utf-8"
+}

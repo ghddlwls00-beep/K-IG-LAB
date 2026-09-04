@@ -1,0 +1,364 @@
+{
+  "id": "cnn053",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "“Fake Rock*” Spying",
+  "label": "“Fake Rock*” Spying",
+  "menuLabel": "[ CNN 53 ]",
+  "unit": 53,
+  "part": null,
+  "order": 52,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn053.mp4",
+      "legacySrc": "CNN/CNN1-60/53.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "“Fake Rock*” Spying"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHRISTIE LU STOUT, CNN Anchor: The sort of gadgets you’d find in a James Bond movie. Discovery of a fake rock in Moscow, allegedly a British surveillance device, is stranger than fiction. The worlds of technology and espionage have always gone hand in hand. Paula Hancocks reports on the real-life spying gadgets that could (have) come straight out of Q’ s laboratory.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "[PAUL DARROW(Die Another Day)] One pane unbreakable glass, one standard issue ring finger, twist so and voila.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PAULA HANCOCKS, CNN Correspondent: James Bond assesses his new gadgets in the film Die Another Day, gadgets you’d expect from the world’s favorite spy, 007. But is this what real-life 007s have been up to recently? Russia’s intelligence service accuses four British embassy staff of spying in a plot that allegedly uses a fake rock to receive and transmit data. The Cold War may be over, but according to a former KGB colonel who became a double agent for Britain, there’s still plenty of espionage going on.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "FORMER KGB COLONEL: They’re often spying going on like mad because there are now more spies than in my time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HANCOCKS: And it may not matter whether countries are allies or enemies, Espionage is big business.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WILL GEDDES, CEO of International Corporation Protection: The international playing field of intelligence gathering is regardless and operates regardless of whether countries have amicable agreements with others. And it is not only applied against hostile nations or nations that present a threat. It is certainly a question of keeping an eye on your neighbor.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HANCOCKS: And there are certainly enough gadgets on the market to keep an eye on your neighbor.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GEDDES: By taking off the button on the front of this, you have a simple camera here which can be fabricated into a package of cigarettes, into a plant, a piece of furniture, a painting or a ruff?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HANCOCKS: Old adversaries like Britain and Russia may work quite closely on counter terrorism but there’s still some mutual suspicion. And judging from how busy intelligence and counter espionage firms are, there’s little trust that can’t be tested. Paula Hancocks, CNN, London.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "영국 스파이는 돌멩이?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 제임스 본드 영화에나 나올 법한 장비에 관한 소식입니다. 모스크바에서 영국 첩보 장비로 추정되는 가짜 돌이 발견된 사건은 소설보다도 더 기이합니다. 기술과 첩보의 세계는 항상 밀접한 관계에 있었습니다. 폴라 행콕스 기자가 Q 박사 실험실에서 방금 나왔을 법한 실제 첩보 장비들을 소개해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[폴 대로우 <007 어나더데이>] 깨지지 않는 판유리 한 장, 표준 규격의 약지 손가락 하나. 이렇게 돌리면… 어떤가?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "폴라 행콕스, CNN 기자: 제임스 본드가 영화 <007 어나더데이>에서 자신의 새로운 장비들을 살펴봅니다. 전세계에서 가장 사랑받는 스파이, 007한테서나 기대할 수 있는 그런 장비들이죠. 그런데 바로 이것이 최근 007 같은 스파이들이 현실에서 실제로 사용했던 것일까요? 러시아 연방 보안국은 영국 대사관 직원 4명이 가짜 돌을 사용해 정보를 송수신하는 첩보 활동을 했다고 비난했습니다. 냉전은 끝났을지 모르지만, 훗날 영국 이중 스파이 요원이 된 한 전 KGB 대령에 따르면 첩보 활동은 여전히 활발하게 벌어지고 있다고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전 KGB 대령: 여전히 엄청나게 많은 스파이 활동이 벌어지고 있습니다. 제가 활동하던 시절보다 훨씬 더 많은 스파이가 판을 치고 있거든요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "행콕스: 게다가 이제는 상대방이 우방이냐 적국이냐를 가리지 않습니다. 첩보 활동은 거대 산업입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윌 게즈, 국제 기업 보안 사 최고경영자: 국제 첩보의 장(場)은 상관없이, 그러니까 각국이 상대 국가들과 우호 조약을 체결했는지 여부와는 전혀 상관없이 펼쳐지고 있습니다. 첩보 활동이 적대국이나 현재 위협이 되는 국가만을 상대로 행해지는 것은 아닙니다. 문제는 분명 이웃을 감시한다는 데 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "행콕스: 실제로 시장에는 이웃을 감시할 수 있는 장비들이 얼마든지 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게즈: 이 옷 앞쪽에 달린 단추를 떼어내면 여기 간단한 카메라가 있습니다. 이 카메라는 담뱃갑, 식물, 가구, 그림이나 주름 칼라 안에 설치할 수 있지요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "행콕스: 영국과 러시아 같은 과거 적국들이 반테러리즘 활동에 있어서는 꽤 긴밀하게 협력할 지 모르겠지만 여전히 상호 불신은 남아있습니다. 그리고 첩보 회사와 방첩 회사들이 호황을 누리고 있는 현재 상황으로 판단하건대, 시험 받지 않는 신뢰는 없는 것 같습니다. 런던에서CNN, 폴라 행콕스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. surveillance/ 감시, 감독",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. counter espionage/ 방첩, 첩보 방지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) standard issue/ 보통의, 표준[기본]의 (2) ring finger/ (반지를 끼는) 약지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. intelligence/ 정보, 정보기관",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. amicable/ 우호적인, 평화적인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. hostile/ 적대적인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. counter-/ 반-, 역-",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. mutual trust/ 상호 신뢰",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "allegedly",
+          "text": "[레즐리]. 강세를 받지 못한 a가 발음되지 않고 있다. -dly, -tly는 [t]나 [d]가 탈락되면서 [(을)리]를 재빠르게 발음하면 편하다. 뒤에 나온 recently도 [리슨(을)리]로 발음되고 있다."
+        },
+        {
+          "n": "hand in hand",
+          "text": "[헨딘헨]. -nd로 끝나는 단어의 끝자음 [d]가 주로 탈락되는데, 앞의 hand는 in과 연음되고, 뒤의 hand에서는 탈락되고 있다."
+        },
+        {
+          "n": "assesses",
+          "text": "[쎄씨ㅅ]. 강세를 받지 못한 a-가 거의 들리지 않고 있다. 뒤에 나온 accuse, adversaries도 a-가 탈락되어 발음되고 있다."
+        },
+        {
+          "n": "007",
+          "text": "[더블오우쎄븐]. 00을 ‘double ou’로 읽고 있다. AAA처럼 세 개일 경우는 ‘triple A’라고 읽는다."
+        },
+        {
+          "n": "colonel",
+          "text": "[코널]. 원래 발음은 [커-늘]인데, 영국식 발음으로 o의 [어]를 [오]로 발음하고 있다. ex. economy[이코노미], box[복ㅅ]."
+        },
+        {
+          "n": "not matter",
+          "text": "[놋메타]. 영국식 발음의 특징으로 o를 [오], [æ]를 [아]로 발음하고 있다. staff[스따ㅍ], transmit data[츠란스밋 데이타], plant[플란ㅌ]도 같은 예다."
+        },
+        {
+          "n": "camera",
+          "text": "[캐므러]. 외래어는 우리가 알고 있는 발음 때문에 오히려 청취에 방해를 받을 수 있다. [카메라]가 아니라 [캐므러]이고, 뒤에 나온 button도 [버튼]이 아닌 [버른]으로 발음되고 있다."
+        },
+        {
+          "n": "can’t be",
+          "text": "[칸비]. -nt의 끝자음 [t]가 탈락되어 발음되면서, 영국식 발음으로 [æ]가 [아]로 발음되고 있다."
+        },
+        {
+          "n": "* fake rock",
+          "text": "가짜 돌: 최근 러시아 연방 보안국 FBS가 공개한 이 돌은 외형상으로는 평범한 돌처럼 보이지만 내부에 최첨단 컴퓨터가 장착되어 있어 정보입력 및 송수신이 가능하다."
+        },
+        {
+          "n": "1) the sort of gadgets",
+          "text": "(간단한) 장치[장비]류"
+        },
+        {
+          "n": "2) allegedly",
+          "text": "주장하는 바에 의하면"
+        },
+        {
+          "n": "3) surveillance device",
+          "text": "첩보 장비"
+        },
+        {
+          "n": "4) fiction",
+          "text": "소설, 픽션"
+        },
+        {
+          "n": "5) espionage",
+          "text": "스파이[첩보] 활동"
+        },
+        {
+          "n": "6) go hand in hand",
+          "text": "긴밀히 관련되다, 연결되다"
+        },
+        {
+          "n": "7) real-life",
+          "text": "실제의, 현실의"
+        },
+        {
+          "n": "8) come straight out of",
+          "text": "…에서 곧바로 나오다"
+        },
+        {
+          "n": "9) Q",
+          "text": "큐 (박사): 영화 <007> 시리즈에 등장하는 영국 첩보국 M16 소속으로 제임스 본드가 사용하는 첩보 장비와 최신 무기를 제작한다."
+        },
+        {
+          "n": "10) laboratory",
+          "text": "실험실(lab)"
+        },
+        {
+          "n": "11) Die Another Day",
+          "text": "<007 어나더데이>: 2002년도에 개봉된 <007> 시리즈로 피어스 브로스넌, 할 베리, 릭 윤 등이 출연했다. 북한이 주요 배경이 된 영화지만 북한의 모습을 지나치게 과장되게 그려 한국에서 혹평을 받았다."
+        },
+        {
+          "n": "12) pane",
+          "text": "판유리"
+        },
+        {
+          "n": "13) standard issue ring finger",
+          "text": "보통의 약지"
+        },
+        {
+          "n": "14) voila",
+          "text": "자 봐, 어때?"
+        },
+        {
+          "n": "15) assess",
+          "text": "평가하다, 자세히 살펴보다"
+        },
+        {
+          "n": "16) be up to (doing) something",
+          "text": "…을 꾀하다, …을 하려고 하다"
+        },
+        {
+          "n": "17) intelligence service",
+          "text": "(군사 정보를 수집하는) 정보국: 여기서는 러시아 연방 보안국 FBS를 의미"
+        },
+        {
+          "n": "18) accuse A of B",
+          "text": "A를 B로 비난하다, 고소[고발]하다"
+        },
+        {
+          "n": "19) plot",
+          "text": "음모, 책략"
+        },
+        {
+          "n": "20) transmit",
+          "text": "발신하다, 전송하다"
+        },
+        {
+          "n": "21) the Cold War",
+          "text": "냉전"
+        },
+        {
+          "n": "22) KGB",
+          "text": "구소련의 국가 보안 위원회 (Komitet Gosudarstvennoi Bezopasnosti)"
+        },
+        {
+          "n": "23) colonel",
+          "text": "대령"
+        },
+        {
+          "n": "24) double agent",
+          "text": "이중 간첩, 역스파이"
+        },
+        {
+          "n": "25) like mad",
+          "text": "굉장히, 맹렬히"
+        },
+        {
+          "n": "26) ally",
+          "text": "우방"
+        },
+        {
+          "n": "27) playing field",
+          "text": "운동장: 여기서는 첩보 활동의 무대를 의미"
+        },
+        {
+          "n": "28) intelligence gathering",
+          "text": "정보 수집, 첩보 수집"
+        },
+        {
+          "n": "29) regardless of",
+          "text": "…와는 상관없이, …을 개의치 않고"
+        },
+        {
+          "n": "30) have an amicable agreement with",
+          "text": "…와 우호 조약을 맺다"
+        },
+        {
+          "n": "31) hostile nation",
+          "text": "적대국"
+        },
+        {
+          "n": "32) keep an eye on",
+          "text": "…을 주시하다, 감시하다"
+        },
+        {
+          "n": "33) take off",
+          "text": "…을 떼어내다"
+        },
+        {
+          "n": "34) fabricate",
+          "text": "제조하다, 만들다; 짜맞추다"
+        },
+        {
+          "n": "35) ruff",
+          "text": "주름 깃"
+        },
+        {
+          "n": "36) adversary",
+          "text": "적, 상대편"
+        },
+        {
+          "n": "37) counter terrorism",
+          "text": "테러 방지 (조치[대책])"
+        },
+        {
+          "n": "38) mutual suspicion",
+          "text": "상호 의심, 상호 불신"
+        },
+        {
+          "n": "39) judging from",
+          "text": "…으로 판단컨대, 미루어 보면"
+        },
+        {
+          "n": "40) test",
+          "text": "시험하다, 시험에 들게 하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/53.wmv",
+  "legacyEncoding": "binary"
+}

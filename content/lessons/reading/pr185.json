@@ -1,0 +1,47 @@
+{
+  "id": "pr185",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 185 ]",
+  "menuLabel": "[ pr185 ]",
+  "unit": 185,
+  "part": null,
+  "order": 368,
+  "audio": [
+    {
+      "src": "/audio/reading/pr185.mp3",
+      "legacySrc": "sounds/pr185.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 185 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Upon entering a record store, one encounters a wide variety of genres from easy listening to jazz and classical music. Jazz and classical music have a number of things in common. However, they also have a number of differences. Before sound recording, classical music was passed down through written scores, whereas early jazz mainly relied on live performance. The composers are in control in classical music; they write the musical notes along with detailed instructions. In jazz, on the contrary, the performers often improvise their own melodies. In sum, classical music and jazz both aim to provide a depth of expression and detail, but they achieve their goal through different approaches."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr185.htm",
+  "legacyEncoding": "utf-8"
+}

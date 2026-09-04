@@ -1,0 +1,240 @@
+{
+  "id": "gh1-055",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 055]",
+  "menuLabel": "[ gh1-055 ]",
+  "unit": 55,
+  "part": null,
+  "order": 88,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-055.mp3",
+      "legacySrc": "sounds/gh1-055.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 055]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 3 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "There was a girl."
+        },
+        {
+          "n": "2",
+          "text": "There were students."
+        },
+        {
+          "n": "3",
+          "text": "There is a teacher."
+        },
+        {
+          "n": "4",
+          "text": "There are girls."
+        },
+        {
+          "n": "5",
+          "text": "I have a vision."
+        },
+        {
+          "n": "6",
+          "text": "You have a car."
+        },
+        {
+          "n": "7",
+          "text": "He has a bicycle."
+        },
+        {
+          "n": "8",
+          "text": "They have a house."
+        },
+        {
+          "n": "9",
+          "text": "I had a family."
+        },
+        {
+          "n": "10",
+          "text": "You had a car."
+        },
+        {
+          "n": "11",
+          "text": "He had a bag."
+        },
+        {
+          "n": "12",
+          "text": "Was there a house?"
+        },
+        {
+          "n": "13",
+          "text": "Were there houses?"
+        },
+        {
+          "n": "14",
+          "text": "Is there a dog?"
+        },
+        {
+          "n": "15",
+          "text": "Are there dreams?"
+        },
+        {
+          "n": "16",
+          "text": "Do I have a chance?"
+        },
+        {
+          "n": "17",
+          "text": "Do you have a girlfriend?"
+        },
+        {
+          "n": "18",
+          "text": "Does he have a family?"
+        },
+        {
+          "n": "19",
+          "text": "Do they have friends?"
+        },
+        {
+          "n": "20",
+          "text": "Did I have a chance?"
+        },
+        {
+          "n": "21",
+          "text": "Did you have a boyfriend?"
+        },
+        {
+          "n": "22",
+          "text": "Did he have a car?"
+        },
+        {
+          "n": "23",
+          "text": "I know her."
+        },
+        {
+          "n": "24",
+          "text": "He knows it."
+        },
+        {
+          "n": "25",
+          "text": "They know me."
+        },
+        {
+          "n": "26",
+          "text": "You know him."
+        },
+        {
+          "n": "27",
+          "text": "Do I know him?"
+        },
+        {
+          "n": "28",
+          "text": "Does he want it?"
+        },
+        {
+          "n": "29",
+          "text": "Do you want it?"
+        },
+        {
+          "n": "30",
+          "text": "I wanted it."
+        },
+        {
+          "n": "31",
+          "text": "I loved him."
+        },
+        {
+          "n": "32",
+          "text": "He knew it."
+        },
+        {
+          "n": "33",
+          "text": "They wanted it."
+        },
+        {
+          "n": "34",
+          "text": "You loved me."
+        },
+        {
+          "n": "35",
+          "text": "Did I want it?"
+        },
+        {
+          "n": "36",
+          "text": "Did he want money?"
+        },
+        {
+          "n": "37",
+          "text": "Did they want water?"
+        },
+        {
+          "n": "38",
+          "text": "Wasn't there water?"
+        },
+        {
+          "n": "39",
+          "text": "Weren't there girls?"
+        },
+        {
+          "n": "40",
+          "text": "Didn't I have money?"
+        },
+        {
+          "n": "41",
+          "text": "Didn't you have a vision?"
+        },
+        {
+          "n": "42",
+          "text": "Didn't he have lunch?"
+        },
+        {
+          "n": "43",
+          "text": "Didn't they have dinner?"
+        },
+        {
+          "n": "44",
+          "text": "Didn't you love her?"
+        },
+        {
+          "n": "45",
+          "text": "Didn't he know her?"
+        },
+        {
+          "n": "46",
+          "text": "Didn't they know me?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-055.htm",
+  "legacyEncoding": "utf-8"
+}

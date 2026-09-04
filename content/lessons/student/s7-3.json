@@ -1,0 +1,673 @@
+{
+  "id": "s7-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s7-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 3,
+  "order": 38,
+  "audio": [
+    {
+      "src": "/audio/student/s7-3-1.mp3",
+      "legacySrc": "s7-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-2.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-3.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-4.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-5.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-6.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-7.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-8.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-9.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-10.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-11.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-12.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-13.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-14.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-15.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-16.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-17.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-18.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-19.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-20.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-21.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-22.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-23.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-24.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-25.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-26.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-27.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-28.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-29.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-30.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-31.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-32.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-33.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-34.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-35.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-36.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-37.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-38.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-39.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-40.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-41.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s7-3-42.mp3",
+      "legacySrc": "s7-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Some of my friends are really good at memorizing words and phrases.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of my other friends are really good at conversational English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a few of my friends who are shy and don’t like to speak out loud, but they have really good pronunciation because they speak very carefully.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When he speaks, he sounds like a native English speaker.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He learned English while studying abroad.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He teaches us very well, and his class activities are always fun.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a wide variety of friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though he is from Korea, he has studied English for many years and knows it very well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are about ten students in my class at the English academy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My English academy teacher is Korean.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 영어학원 수업에는 약 10명의 학생들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다양한 친구들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구들 중 몇몇은 단어와 숙어 암기를 정말 잘합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 다른 친구들 중 몇몇은 영어회화를 매우 잘합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제 친구들 중 몇 명은 부끄러워하고 큰소리로 말하기를 좋아하지 않지만 그들은 아주신중하게 말하기 때문에 좋은 발음을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 영어학원 선생님은 한국인 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그가 한국인 이지만, 그는 영어를 수년 동안 공부해 오셨고 그것을 매우 잘 아십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 말씀할 때, 그는 현지 영어를 말하는 사람 같습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 해외에서 공부하시는 동안 영어를 배웠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 우리를 아주 잘 가르치고 그의 수업활동은 항상 재미있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 언젠가 그가 하는 것과 마찬가지로 영어를 잘 말할 수 있기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to be able to speak English as well as he does someday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "열명의 아이들이 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "열명의 아이들이 있다.There are about ten students",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어학원에서의 나의 반에는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어학원에서의 나의 반에는 in my class at the English academy.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구들 중 몇몇은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구들 중 몇몇은Some of my friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 잘한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 잘한다.are really good at",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 단어와 숙어 암기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 단어와 숙어 암기를 memorizing words and phrases.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 다른 친구들 중 몇몇은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 다른 친구들 중 몇몇은Some of my other friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어 회화를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어 회화를conversational English.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구들 중 몇몇이 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구들 중 몇몇이 있다.There are a few of my friends",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 부끄러워서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 부끄러워서who are shy",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 크게 말하는 것을 싫어하는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 크게 말하는 것을 싫어하는and don't like to speak out loud,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그러나 그들은 가지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그러나 그들은 가지고 있다. but they have",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 좋은 발음을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 정말로 좋은 발음을really good pronunciation",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그들은 매우 주의 깊게 말하기 때문이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그들은 매우 주의 깊게 말하기 때문이다. because they speak very carefully.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 영어 학원 선생님은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 영어 학원 선생님은My English academy teacher",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국인이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국인이다.is Korean.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그가 한국 출신이지만",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비록 그가 한국 출신이지만Even though he is from Korea,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 영어를 공부해 오셨다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 영어를 공부해 오셨다. he has studied English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 수년동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 수년동안 for many years",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그것을 매우 잘 아신다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그것을 매우 잘 아신다. and knows it very well.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 말씀할 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 말씀할 때When he speaks,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 말하시는 것 같다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 말하시는 것 같다. he sounds",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 원어민처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 원어민처럼 like a native English speaker.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 배웠다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 배웠다.He learned English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 해외에서 공부하는 동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 해외에서 공부하는 동안 while studying abroad.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 우리를 매우 잘 가르쳐 주신다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 우리를 매우 잘 가르쳐 주신다.He teaches us very well,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 수업활동은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 수업활동은 and his class activities are",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/항상 재미있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/항상 재미있다. always fun.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 영어를 말할 수 있기를 원한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 영어를 말할 수 있기를 원한다.I want to be able to speak English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가 하는 것과 마찬가지로 언젠가는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가 하는 것과 마찬가지로 언젠가는 as well as he does someday.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Academy :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Friends and Teacher at the Academy",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s7-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s7-3.swf"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "am153",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 153 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 3,
+  "order": 148,
+  "audio": [
+    {
+      "src": "/audio/adults/am153.mp3",
+      "legacySrc": "sounds/am153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 153 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy: The Nineties"
+    },
+    {
+      "type": "hints",
+      "text": "By the 1990s, instability began as a result of Korea’s rapidly growing economy."
+    },
+    {
+      "type": "instruction",
+      "text": "By the end of the decade, Korea’s economy was in crisis."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans worked very diligently to overcome this difficult time."
+    },
+    {
+      "type": "instruction",
+      "text": "However, the gap that separated the rich from the poor continued to grow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am153.htm",
+  "legacyEncoding": "utf-8"
+}

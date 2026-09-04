@@ -1,0 +1,47 @@
+{
+  "id": "pr153",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 153 ]",
+  "menuLabel": "[ pr153 ]",
+  "unit": 153,
+  "part": null,
+  "order": 304,
+  "audio": [
+    {
+      "src": "/audio/reading/pr153.mp3",
+      "legacySrc": "sounds/pr153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 153 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A symphony orchestra can fill a whole building and make it ring with music. But this beautiful sound, which can be joyful or sad, exciting or relaxing, is the result of planning and working together. Just as painters choose different color for their works of art, composers choose the sound of different instruments to produce their music. The purpose of a symphony orchestra is not to play section by section. The word \"symphony\" means \"sounding together.\" This sounding together is what creates the wonderful music we all love."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr153.htm",
+  "legacyEncoding": "utf-8"
+}

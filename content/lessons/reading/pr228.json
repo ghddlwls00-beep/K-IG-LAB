@@ -1,0 +1,47 @@
+{
+  "id": "pr228",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 228 ]",
+  "menuLabel": "[ pr228 ]",
+  "unit": 228,
+  "part": null,
+  "order": 454,
+  "audio": [
+    {
+      "src": "/audio/reading/pr228.mp3",
+      "legacySrc": "sounds/pr228.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 228 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "\"People often think that being an usher is an easy job, but it isn't.\" says Peter Suilivan, an usher at the Palladium theater. \" It's difficult to stand so much! When I'm tired, I sit in an aisle seat during intermission, but my boss could fire me for that."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr228.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "w5",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": null,
+  "order": 23,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "69",
+          "text": "A Natural Wonder: Jeju Island"
+        },
+        {
+          "n": "54",
+          "text": "The Foundation of Korea"
+        },
+        {
+          "n": "55",
+          "text": "The Kingdoms are Divided"
+        },
+        {
+          "n": "56",
+          "text": "The Independence and the Korean War"
+        },
+        {
+          "n": "57",
+          "text": "Post-War Development of Korea"
+        },
+        {
+          "n": "58",
+          "text": "The traditional Holidays of Korea"
+        },
+        {
+          "n": "59",
+          "text": "Lunar New Year’s (설날)"
+        },
+        {
+          "n": "60",
+          "text": "Chuseok (추석)"
+        },
+        {
+          "n": "61",
+          "text": "An Introduction to Korean Culture"
+        },
+        {
+          "n": "62",
+          "text": "Traditional Korean Clothing: Hanbok"
+        },
+        {
+          "n": "63",
+          "text": "Traditional Foods: Kimchi and Bulgogi"
+        },
+        {
+          "n": "64",
+          "text": "Traditional Korean Language: Hangul"
+        },
+        {
+          "n": "65",
+          "text": "Geographical Location of Korea"
+        },
+        {
+          "n": "66",
+          "text": "Famous Places to Visit in Korea"
+        },
+        {
+          "n": "67",
+          "text": "The Korean Folk Village in Suwon"
+        },
+        {
+          "n": "68",
+          "text": "A Piece of Korean History: GyeongJu"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w5.swf"
+  ]
+}

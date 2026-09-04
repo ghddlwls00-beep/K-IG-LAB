@@ -4,7 +4,14 @@
 # `pnpm run build`.
 #
 # unrs-resolver builds the native binary that eslint-config-next resolves with;
-# sharp builds Next's image optimizer. Both are expected to compile on install.
+# sharp builds Next's image optimizer. esbuild and workerd are wrangler's own
+# build tooling (used only by `pnpm run upload-media`). All are expected to
+# compile on install.
 allowBuilds:
   unrs-resolver: true
   sharp: true
+  esbuild: true
+  workerd: true
+minimumReleaseAgeExclude:
+  - miniflare@5.20260903.0-alpha
+  - wrangler@4.129.0

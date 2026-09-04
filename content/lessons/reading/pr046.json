@@ -1,0 +1,47 @@
+{
+  "id": "pr046",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 046 ]",
+  "menuLabel": "[ pr046 ]",
+  "unit": 46,
+  "part": null,
+  "order": 90,
+  "audio": [
+    {
+      "src": "/audio/reading/pr046.mp3",
+      "legacySrc": "sounds/pr046.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 046 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Touch is the first sense we develop, and we acquire it before birth. We could not live without it. Imagine being unable to sense the danger of hot water or to feel our way down a dark stairway. We tend to think of sight as our most important sense, yet we close our eyes in sleep for a third of each day. Touch never blinks, never turns off its awareness of the world around us."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr046.htm",
+  "legacyEncoding": "utf-8"
+}

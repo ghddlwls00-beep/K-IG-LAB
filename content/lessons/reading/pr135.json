@@ -1,0 +1,83 @@
+{
+  "id": "pr135",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 135 ]",
+  "menuLabel": "[ pr135 ]",
+  "unit": 135,
+  "part": null,
+  "order": 268,
+  "audio": [
+    {
+      "src": "/audio/reading/pr135.mp3",
+      "legacySrc": "sounds/pr135.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 135 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "It is a human trait to try to define and classify the things we find in"
+    },
+    {
+      "type": "hints",
+      "text": "the world. But the world does not always seem to be made for this."
+    },
+    {
+      "type": "instruction",
+      "text": "As a result, we are often confused by fuzzy edges. There are"
+    },
+    {
+      "type": "instruction",
+      "text": "borderline cases that fit partly into one category and partly into"
+    },
+    {
+      "type": "instruction",
+      "text": "another. This is especially true when we attempt to define life. There"
+    },
+    {
+      "type": "instruction",
+      "text": "are things in the world that cannot clearly be called either living or"
+    },
+    {
+      "type": "instruction",
+      "text": "none-living. One example is the virus - a particle that can be stored"
+    },
+    {
+      "type": "instruction",
+      "text": "like chemicals in a bottle but, when inside a living cell, can reproduce"
+    },
+    {
+      "type": "instruction",
+      "text": "more of itself. Although viruses can reproduce, they do not exhibit"
+    },
+    {
+      "type": "instruction",
+      "text": "most of the other characteristics of life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr135.htm",
+  "legacyEncoding": "utf-8"
+}

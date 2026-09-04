@@ -1,0 +1,47 @@
+{
+  "id": "pr029",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 029 ]",
+  "menuLabel": "[ pr029 ]",
+  "unit": 29,
+  "part": null,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/reading/pr029.mp3",
+      "legacySrc": "sounds/pr029.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 029 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "When you begin noticing yourself interrupting others, you’ll see that this is nothing more than an innocent habit. To correct it, all you have to do is to begin catching yourself when you forget. Remind yourself to be patient and wait. Tell yourself to allow the other person to finish speaking before you take your turn. You’ll notice, right away, how much the interactions with the people in your life will improve as a direct result of this simple act. The people you communicate with will feel much more relaxed around you when they feel heard and listened to."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr029.htm",
+  "legacyEncoding": "utf-8"
+}

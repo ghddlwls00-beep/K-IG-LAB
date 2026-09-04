@@ -1,0 +1,79 @@
+{
+  "id": "d230-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d230",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 230 회 ]",
+  "menuLabel": "[ D 230-1 ]",
+  "unit": 230,
+  "part": null,
+  "order": 458,
+  "audio": [
+    {
+      "src": "/audio/ld/d230.mp3",
+      "legacySrc": "sounds/d230.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 230 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "국립공원들의 가장 아름다운 것의 하나는 캘리포니아의 요세미티이다."
+    },
+    {
+      "type": "instruction",
+      "text": "요세미티는 미국에서 가장 높은 것인 그것의 숨을 죽이게 하는 폭포들의 하나를 따서 이름지어져있다."
+    },
+    {
+      "type": "instruction",
+      "text": "요세미티의 멀지 않은 남쪽에 세콰이에 국립공원이 있는데 그것은 거기에서 발견되는"
+    },
+    {
+      "type": "instruction",
+      "text": "거대한 세콰이어 나무들을 따라서 이름지어져있다."
+    },
+    {
+      "type": "instruction",
+      "text": "세콰이어 나무는 오늘날 세상에서 가장 크고 가장 오랜 살아있는 물건이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 나무들의 일부는 그리스도 탄생 전에 서있었고 일부는 너무나 넓어서 자동차들이"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 줄기 안으로 파진 터널을 통하여 운전될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "셔먼 장군 나무같은 이런 나무들의 일부는 유명한 사람들을 기리어서 이름지어져왔다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d230-1.htm",
+  "legacyEncoding": "utf-8"
+}

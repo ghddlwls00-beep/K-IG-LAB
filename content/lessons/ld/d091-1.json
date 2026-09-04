@@ -1,0 +1,87 @@
+{
+  "id": "d091-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d091",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 091회 ]",
+  "menuLabel": "[ D 091-1 ]",
+  "unit": 91,
+  "part": null,
+  "order": 181,
+  "audio": [
+    {
+      "src": "/audio/ld/d091.mp3",
+      "legacySrc": "sounds/d091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 091회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "제2단계인 초등 교육은 6세부터 12세 혹은 14세의 어린이들을 위해서이다."
+    },
+    {
+      "type": "instruction",
+      "text": "초등 교육은 6 내지 8 등급으로 나뉘어진다. 어린이들은 보통 하루의 대부분을 한 교사와 만난다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 읽기, 산수, 쓰기, 사회 및 과학을 배운다. 그들에게는 또 미술, 음악, 체육 교육이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 제2차 교육을 위하여 그들을 준비시키기 위한 다양한 주제와 기술을 배운다."
+    },
+    {
+      "type": "instruction",
+      "text": "제3 단계는 이차 교육이다. 그것은 중고교 학생을 위해서이다."
+    },
+    {
+      "type": "instruction",
+      "text": "중학교는 보통 12세에서 14세의 학생들을 위해서이다. 고등학생들은 14세부터 17 내지 18세이다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 미국의 고등학교는 포괄적인 프로그램을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 다양한 주제가 같은 학교에서 가르쳐진다는 것을 의미한다."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 학생들은 대학을 위하여 자신을 준비시키기 위한 과정을 이수한다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 학생들은 고등학교 졸업 후에 직장생활에 대비시켜주는 기술이나 직업 과정을 이수한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d091-1.htm",
+  "legacyEncoding": "utf-8"
+}

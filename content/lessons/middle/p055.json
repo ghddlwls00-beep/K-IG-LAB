@@ -1,0 +1,75 @@
+{
+  "id": "p055",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 055 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 5,
+  "order": 64,
+  "audio": [
+    {
+      "src": "/audio/middle/p055.mp3",
+      "legacySrc": "sounds/p055.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 055 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My School Friends)"
+    },
+    {
+      "type": "hints",
+      "text": "Usually in class, the students are very friendly to each other."
+    },
+    {
+      "type": "instruction",
+      "text": "However, sometimes there can be fights and arguments between"
+    },
+    {
+      "type": "instruction",
+      "text": "classmates."
+    },
+    {
+      "type": "instruction",
+      "text": "Most of the students quickly make up and are friends again."
+    },
+    {
+      "type": "instruction",
+      "text": "Because our class has a lot of smart students in it,"
+    },
+    {
+      "type": "instruction",
+      "text": "we are very competitive."
+    },
+    {
+      "type": "instruction",
+      "text": "At school, I like to study and make friends."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p055.htm",
+  "legacyEncoding": "utf-8"
+}

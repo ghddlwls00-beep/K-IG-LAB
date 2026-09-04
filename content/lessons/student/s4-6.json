@@ -1,0 +1,398 @@
+{
+  "id": "s4-6",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s4-6",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 6,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/student/s4-6-1.mp3",
+      "legacySrc": "s4-6.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-2.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-3.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-4.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-5.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-6.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-7.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-8.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-9.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-10.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-11.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-12.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-13.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-14.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-15.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-16.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-17.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-18.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-19.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-20.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-21.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-22.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-6-23.mp3",
+      "legacySrc": "s4-6.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He can play all kinds of sports, and he can play the piano and guitar pretty well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He is also a very generous and kind person.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He always gives me candy when I visit him.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He can fix cars and play soccer very well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My oldest uncle has many skills and talents.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가장 나이 많은 삼촌은 많은 기술과 재능을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 차를 고칠 수 있고 축구를 매우 잘합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 모든 종류의 스포츠를 할 수 있고, 그는 피아노와 기타를 꽤 잘 칩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 매우 관대하고, 친절한 사람입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 그를 방문 할 때 그는 항상 저에게 캔디를 주십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 아주 유창하게 말 할 수 있습니다. 그래서 나는 그를 정말 많이 존경합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He can speak English very fluently, so I really look up to him a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가장 나이 많은 삼촌은 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가장 나이 많은 삼촌은 가지고 있습니다.My oldest uncle has",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 기술과 재능을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 기술과 재능을 many skills and talents.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 차를 고칠 수 있고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 차를 고칠 수 있고He can fix cars",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 축구를 매우 잘 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 축구를 매우 잘 할 수 있습니다. and play soccer very well.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 모든 종류의 스포츠를 잘 할 수 있고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 모든 종류의 스포츠를 잘 할 수 있고He can play all kinds of sports,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 피아노와 기타를 연주 할 수 있습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 피아노와 기타를 연주 할 수 있습니다 and he can play the piano and guitar",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매우 잘",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매우 잘pretty well.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 또한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 또한He is also",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 관대하고 친절한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 관대하고 친절한a very generous and kind",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사람입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사람입니다.person.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상He always",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게 사탕을 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게 사탕을 줍니다. gives me candy",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 그를 방문할 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 그를 방문할 때 when I visit him.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 말 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 영어를 말 할 수 있습니다.He can speak English",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매우 유창하게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/매우 유창하게very fluently,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 정말로 그를 많이 존경합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 정말로 그를 많이 존경합니다. so I really look up to him a lot.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relative Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My oldest uncle talents",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s4-6.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s4-6.swf"
+  ]
+}

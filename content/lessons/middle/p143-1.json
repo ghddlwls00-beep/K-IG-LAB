@@ -1,0 +1,87 @@
+{
+  "id": "p143-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p143",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 143-1 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 3,
+  "order": 149,
+  "audio": [
+    {
+      "src": "/audio/middle/p143.mp3",
+      "legacySrc": "sounds/p143.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 143-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 어떻게 나의 꿈을 성취할까요?)"
+    },
+    {
+      "type": "instruction",
+      "text": "선생님이 되기 위해서, 나의 부모님께서는"
+    },
+    {
+      "type": "instruction",
+      "text": "내가 나의 모든 과목에서 공부를 열심히 해야 한다고말씀하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 좋은 대학에 가야만합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또한 나에게 아이들을 사랑하고"
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들에게 봉사해야 한다고 말씀합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 아이들을 가르치는 것은 재미있고, 보람 있다고 생각합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그들을 가르치기 위해서 많은 인내심을 가져야 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 언젠가 나의 꿈을 달성할 수 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 아이들을 배우고 성장할 수 있게 도울 수 있을 것이라는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "압니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p143-1.htm",
+  "legacyEncoding": "utf-8"
+}

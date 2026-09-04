@@ -1,0 +1,67 @@
+{
+  "id": "pr104-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr104",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 104-1 ]",
+  "menuLabel": "[ pr104-1 ]",
+  "unit": 104,
+  "part": null,
+  "order": 207,
+  "audio": [
+    {
+      "src": "/audio/reading/pr104.mp3",
+      "legacySrc": "sounds/pr104.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 104-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한 집단은 예술가로 구성되어 있다. 멕시코 문화를 찬양하는 사람들로 그"
+    },
+    {
+      "type": "instruction",
+      "text": "들은 자신들이 쓰거나 그리는 주제에 더 가까이 접근하기를 바란다. 또 다"
+    },
+    {
+      "type": "instruction",
+      "text": "른 집단은 줄어든 수입으로 살 수밖에 없는 퇴직자들로 이루어져 있다. 그"
+    },
+    {
+      "type": "instruction",
+      "text": "들은 서두르지 않고 오후의 긴 낮잠을 좋아한다. 세 번째 집단은 화려한"
+    },
+    {
+      "type": "instruction",
+      "text": "밤 생활이 있는 휴양지의 매력에 이끌린 사람들이다. 아카폴코에서 그들은"
+    },
+    {
+      "type": "instruction",
+      "text": "밤새껏 놀 수 있고 따뜻한 바다에서 수영할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr104-1.htm",
+  "legacyEncoding": "utf-8"
+}

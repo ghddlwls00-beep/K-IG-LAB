@@ -1,0 +1,93 @@
+{
+  "id": "w1-1",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w1-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/woman/w1-1-1.mp3",
+      "legacySrc": "w1-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-1-2.mp3",
+      "legacySrc": "w1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-1-3.mp3",
+      "legacySrc": "w1-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "만나서 반갑습니다. 먼저 소개를 할 수 있는 기회를 주심을 감사드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nice to meet you. First of all, thank you for giving me a chance to introduce myself.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 이름은 박수민입니다. 그러나 미시즈 박이라고 불러주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is 박수민, but you can call me (Mrs. 박).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Introducing Myself :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting and Introduction",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    }
+  ],
+  "legacyPath": "Woman/w1-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w1-1.swf"
+  ]
+}

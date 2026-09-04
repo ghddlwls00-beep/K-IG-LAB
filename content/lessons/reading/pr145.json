@@ -1,0 +1,47 @@
+{
+  "id": "pr145",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 145 ]",
+  "menuLabel": "[ pr145 ]",
+  "unit": 145,
+  "part": null,
+  "order": 288,
+  "audio": [
+    {
+      "src": "/audio/reading/pr145.mp3",
+      "legacySrc": "sounds/pr145.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 145 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Our society is a consumer-driven culture. What drives the consumer to consume? We seem to have created a society so harsh and complex that it makes us feel helpless and insecure and makes us long for improvement. But truly improving ourselves or our lot is a superhuman task. so we do what we can instead: we shop. The economy grows, the world gets more complex, we feel more helpless and insecure, so we shop still more."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr145.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m16-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m16-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 69,
+  "audio": [
+    {
+      "src": "/audio/man/m16-2-1.mp3",
+      "legacySrc": "m16-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-2-2.mp3",
+      "legacySrc": "m16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-2-3.mp3",
+      "legacySrc": "m16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-2-4.mp3",
+      "legacySrc": "m16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-2-5.mp3",
+      "legacySrc": "m16-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "오늘날의 젊은이들은 음악가, 가수, 배우들을 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Today’s youth like musicians, singers, and actors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이것은 우리 세대와 매우 다르다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is very different from our generation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 세대가 영화와 텔레비전 드라마를 좋아하기 때문에, 예능인들은 현대 영웅이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because our generation likes movies and television dramas, entertainers are our modern heroes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "지금, 더 어린 사람들은 점점 컴퓨터에 중독되고 있고 그들의 마음은 점점 쇠퇴되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, more young people are becoming addicted to computer games, which are slowly deteriorating their minds.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entertainment in Korea",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m16-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m16-2.swf"
+  ]
+}

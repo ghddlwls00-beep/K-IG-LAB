@@ -1,0 +1,47 @@
+{
+  "id": "pr012",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 012 ]",
+  "menuLabel": "[ pr012 ]",
+  "unit": 12,
+  "part": null,
+  "order": 22,
+  "audio": [
+    {
+      "src": "/audio/reading/pr012.mp3",
+      "legacySrc": "sounds/pr012.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 012 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My belief is that all music has an expressive power, some more and some less, but that all music has a certain meaning behind the notes. That meaning constitutes what the piece is saying, This whole problem can be stated quite simply by asking, \"Is there a meaning to music? \"My answer to that would be, \"Yes.\" And \"Can you state in so many words what the meaning is?\" My answer to that would be, \"No.\" Therein lies the difficulty."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr012.htm",
+  "legacyEncoding": "utf-8"
+}

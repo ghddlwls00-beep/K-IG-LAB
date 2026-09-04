@@ -1,0 +1,151 @@
+{
+  "id": "cnn007",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Annual APEC Summit Opens in Busan",
+  "label": "Annual APEC Summit Opens in Busan",
+  "menuLabel": "[ CNN 7 ]",
+  "unit": 7,
+  "part": null,
+  "order": 6,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn007.mp4",
+      "legacySrc": "CNN/CNN1-60/7.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Annual APEC Summit Opens in Busan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Global trade, bird flu, and terrorism are all on the agenda at the Asia Pacific Economic Cooperation Summit in South Korea. Leaders from 21 countries opened meetings in Busan. South Korea’s Foreign Minister says the leaders agreed the European Union should be flexible in trade negotiations and he praised the United States for making concessions. European farm subsidies have been a major sticking point in stalled negotiations for a global free trade agreement. APEC leaders are also expected to endorse a statement pledging unity in the fight against bird flu and terrorism.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "연례 APEC 정상회의, 부산에서 개막",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세계 자유무역, 조류독감, 테러리즘 등이 한국에서 열리고 있는 아시아태평양 경제협력체 정상회의의 주요 의제입니다. 21개국 지도자들이 부산에서 회의를 개막했습니다. 한국 외교통상부 장관은 유럽연합이 무역 협상에서 융통성을 발휘해야 한다는 데 정상들이 의견을 같이 했다고 전하면서, 미국의 양보에 찬사를 보냈습니다. 유럽의 농업 보조금 문제가 교착 상태에 빠진 세계 자유무역 협상의 주요 쟁점이었습니다. APEC 회원국 지도자들은 또한 조류독감과 테러리즘 근절에 있어 단합을 약속하는 성명서를 채택할 예정입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. global/ 세계적인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. concession/ 양보, 허용",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. subsidy/ 보조금, 장려금, 지원금",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Global trade",
+          "text": "[글로블 츄레이ㄷ]. tr-은 [t]가 [r]의 영향을 받아 [츄]로 발음된다. 뒤에 나오는 countries도 [칸츄리ㅈ]로 발음된다."
+        },
+        {
+          "n": "Asia Pacific",
+          "text": "[에이지아 퍼씨픽]. 우리말로 는‘아시아’이지만 영어 발음은 [에이저], [에이셔]로 발음되는데, 여기서는 [에이지아]로 발음되고 있다."
+        },
+        {
+          "n": "subsidies",
+          "text": "[싸브써디지아]. [s]가 모음 앞에 오거나, 단어 끝에 오면 경음화되어 발음된다. summit[싸밋], endorse[인더-ㅆ]도 모두 같은 경우다."
+        },
+        {
+          "n": "APEC",
+          "text": "[에이펙]. 영어의 약어는 두 가지로 읽는다. APEC처럼 하나의 단어로 읽는 경우 (ex. OPEC[오우펙], NYMEX(나이멕스), NATO(네이토우))와 철자를 하나하나씩 읽는 경우이다(ex. IAEA, WTO, EU)."
+        },
+        {
+          "n": "annual",
+          "text": "1년에 한 번의, 해마다의"
+        },
+        {
+          "n": "summit",
+          "text": "정상[수뇌]회담"
+        },
+        {
+          "n": "global (free) trade",
+          "text": "세계 (자유)무역"
+        },
+        {
+          "n": "bird flu",
+          "text": "조류독감: 닭,오리 등의 가금류에서 생기는 바이러스성 질환"
+        },
+        {
+          "n": "agenda",
+          "text": "의제, 협의사항"
+        },
+        {
+          "n": "Foreign Minister",
+          "text": "외무장관, 외상: 한국의 경우 ‘외교통상부장관’"
+        },
+        {
+          "n": "flexible",
+          "text": "융통성이 있는, 유연한"
+        },
+        {
+          "n": "trade negotiation(s)",
+          "text": "무역 협상"
+        },
+        {
+          "n": "praise A for B",
+          "text": "A를 B에 대해 칭송하다 [칭찬하다]"
+        },
+        {
+          "n": "make a concession",
+          "text": "양보하다"
+        },
+        {
+          "n": "farm subsidy",
+          "text": "농업 보조금: 프랑스를 포함한 유럽국가는 자국의 농산물을 보호하기 위해 농민들에게 농업 생산 및 수출에 보조금을 지급하고 있다."
+        },
+        {
+          "n": "sticking point",
+          "text": "쟁점; (문제해결의) 장애, 지장"
+        },
+        {
+          "n": "stalled",
+          "text": "교착 상태에 빠진"
+        },
+        {
+          "n": "agreement",
+          "text": "협정, 협약; 약속"
+        },
+        {
+          "n": "endorse",
+          "text": "지지[승인]하다"
+        },
+        {
+          "n": "statement",
+          "text": "성명(서), 진술(서)"
+        },
+        {
+          "n": "pledge",
+          "text": "약속[서약]하다"
+        },
+        {
+          "n": "unity",
+          "text": "일치, 화합, 조화"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/7.wmv",
+  "legacyEncoding": "binary"
+}

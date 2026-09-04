@@ -1,0 +1,75 @@
+{
+  "id": "d048-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d048",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 048 회 ]",
+  "menuLabel": "[ D 048-1 ]",
+  "unit": 48,
+  "part": null,
+  "order": 95,
+  "audio": [
+    {
+      "src": "/audio/ld/d048.mp3",
+      "legacySrc": "sounds/d048.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 048 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "한 속담은 우리에게 만일 어떤 것이 잘 되기를 원한다면 직접 해야 한다고 우리에게 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 많은 사람들이 이 속담을 명심하는 것 같다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 이미 만들어진 가구와 다른 것들을 사지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 대신에 그들은 스스로 여러 가지 것들을 만드는 것을 선호한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 스스로 하는 것을 신봉하는 사람이 되었다. 미국에서는 많은 가게들이 책상, 의자, 탁자, 책장, 그 외에 다른 것들을 만들기 위한 부품들을 판다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분이 해야 하는 모든 것은 그 부품들을 조립하고 약간의 페인트나 니스를 칠하는 것이며 그러면 멋진 가구 한 점을 만들게 될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 직접 하는 것을 결코 시도해보지 않았다면 그것이 얼마나 쉬운지 놀랄 것이다. 직접 그것을 하면서 많은 만족을 발견할 것이다. 경제적인 것 이외에 그것은 재미있기도 하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d048-1.htm",
+  "legacyEncoding": "utf-8"
+}

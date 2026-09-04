@@ -1,0 +1,143 @@
+{
+  "id": "cnn085",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Year Four Begins: More Violence in Iraq",
+  "label": "Year Four Begins: More Violence in Iraq",
+  "menuLabel": "[ CNN 85 ]",
+  "unit": 85,
+  "part": null,
+  "order": 84,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn085.mp4",
+      "legacySrc": "CNN/CNN61-120/85.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Year Four Begins: More Violence in Iraq"
+    },
+    {
+      "type": "paragraph",
+      "text": "The war in Iraq has marked a milestone. Three years since the U.S.-led invasion began and year four is beginning where year three left off with bombs and more execution-style killings. Monday’s roadside bomb in Baghdad killed four people, including two police commandos. And there’s a report a Baghdad hospital received six bodies with bullet wounds. Three years ago, Washington and its allies unleashed the “shock and awe” bombing campaign against Baghdad that signaled the start of the war. Less than six weeks later, U.S. President George W. Bush said (quote) “In the battle of Iraq, the U.S. and our allies have prevailed.” But now there are concerns Iraq is in civil war.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이라크전 발발 4년째, 폭력 사태 격화",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이라크전이 중대시점을 맞이했습니다. 미국 주도로 이라크를 침공한지 3년이 지났습니다. 이라크전은 폭격과 처형 방식 살해의 증가로 점철된 3주년을 마감하고 이제 4년째로 접어들었습니다. 월요일 바그다드에서는 도로에서 폭탄이 터져 경찰 특공대원 2명을 포함해, 4명이 숨졌습니다. 그리고 바그다드의 한 병원에 총상을 입은 6구의 시신이 들어 왔다는 보도가 있었습니다. 3년 전 미국과 그 동맹국들은 바그다드에‘충격과 공포’폭격 작전을 펼치며 전쟁을 시작했습니다. 그로부터 6주가 채 되지 않아, 조지 W. 부시 미 대통령은“이라크 전투에서 미국과 동맹국들은 승리를 거뒀다.”고 선언했습니다. 하지만 현재 이라크가 내전 상태에 놓인 것이 아니냐는 우려가 남아 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘바그다드’의 영어식 발음은 [벡덷]이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iraq도 [이라크]가 아닌 [이롹]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hospital은 1음절에 강세가 있어 2, 3음절이 약화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[하스피털]이 아닌 [하스포]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 강모음과 약모음 사이에서 [ㄹ]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어 모두 강세를 받지 못하는 부분이 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마치 I lies처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Baghdad hospital",
+          "text": "[벡덷 하스포]."
+        },
+        {
+          "n": "battle",
+          "text": "[베를]."
+        },
+        {
+          "n": "our allies",
+          "text": "[아이라이ㅈ]."
+        },
+        {
+          "n": "mark a milestone",
+          "text": "한 획을 긋다, 이정표를 세우다"
+        },
+        {
+          "n": "invasion",
+          "text": "침입, 침공"
+        },
+        {
+          "n": "leave off with",
+          "text": "…으로 끝나다"
+        },
+        {
+          "n": "execution-style killing",
+          "text": "처형방식의 살해"
+        },
+        {
+          "n": "roadside bomb",
+          "text": "도로매설폭탄"
+        },
+        {
+          "n": "commando",
+          "text": "특공대원"
+        },
+        {
+          "n": "bullet wounds",
+          "text": "총상: 총알로 인한 상처"
+        },
+        {
+          "n": "unleash",
+          "text": "(공격을) 개시하다, 촉발시키다"
+        },
+        {
+          "n": "“shock and awe” bombing campaign",
+          "text": "‘충격과 공포’ 폭격 작전: 미군이 이라크전에서 채택한 전략으로 압도적인 화력을 집중해 이라크군을 충격과 공포에 휩싸이도록 만들어 이라크군의 전쟁 의지를 무력화 시키겠다는 작전"
+        },
+        {
+          "n": "signal the start of",
+          "text": "…의 시작을 알리다"
+        },
+        {
+          "n": "prevail",
+          "text": "이기다, 우세하다"
+        },
+        {
+          "n": "civil war",
+          "text": "내전"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/85.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr165",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 165 ]",
+  "menuLabel": "[ pr165 ]",
+  "unit": 165,
+  "part": null,
+  "order": 328,
+  "audio": [
+    {
+      "src": "/audio/reading/pr165.mp3",
+      "legacySrc": "sounds/pr165.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 165 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In college and university courses, the objective test and the essay exam are two contrasting methods of evaluation commonly used to measure a student’s grasp of subject matter. The objective test usually consists of a large number of unrelated questions that require the student to demonstrate mastery of details. It often leads to rote memorization of isolated facts during the pretest period of study. Since the questions on the objective test are presented in true―false or multiple choice form, the student may be encouraged to guess answers for which he has no accurate knowledge. The essay exam, on the other hand, usually consists of a few broadly stated questions that require the student to organize his responses in essay form. Such questions force the student to give proof of his ability to handle general concepts. This type of exam also relies on factual information, but there is far greater necessity for the student to demonstrate analytical and compositional skills. Mere guessing at answers is reduced to a minimum."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr165.htm",
+  "legacyEncoding": "utf-8"
+}

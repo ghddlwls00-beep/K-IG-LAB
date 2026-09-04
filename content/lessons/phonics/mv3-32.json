@@ -1,0 +1,88 @@
+{
+  "id": "mv3-32",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-32 ]",
+  "unit": 32,
+  "part": null,
+  "order": 111,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-32.mp3",
+      "legacySrc": "sounds/mv3-32.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "bone",
+          "wolf",
+          "lamb",
+          "turtle",
+          "owl",
+          "rate"
+        ],
+        [
+          "bay",
+          "plant",
+          "center",
+          "cash",
+          "holiday",
+          "God"
+        ],
+        [
+          "operator",
+          "operate",
+          "bike",
+          "fur",
+          "shore",
+          "report"
+        ],
+        [
+          "hunter",
+          "unanimous",
+          "bankrupt",
+          "pumpkin",
+          "handshake",
+          "succeed"
+        ],
+        [
+          "beach",
+          "shell",
+          "cough",
+          "subsequently",
+          "business",
+          "punctual"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-32 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-32.htm",
+  "legacyEncoding": "utf-8"
+}

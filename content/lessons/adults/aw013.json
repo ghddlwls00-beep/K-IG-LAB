@@ -1,0 +1,79 @@
+{
+  "id": "aw013",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 013 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 8,
+  "audio": [
+    {
+      "src": "/audio/adults/aw013.mp3",
+      "legacySrc": "sounds/aw013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 013 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Personality"
+    },
+    {
+      "type": "hints",
+      "text": "I’m An Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "Even though I’m a very outgoing person, I’m sometimes a little shy around new people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a lot of friends who(m) I love to be around with."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person, so most people like me."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m A Shy Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I’m kind of a shy person."
+    },
+    {
+      "type": "instruction",
+      "text": "I am afraid I talk too much, but everyone says I am a very likeable person and fun to be around."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person. Most people like me after they get to know me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw013.htm",
+  "legacyEncoding": "utf-8"
+}

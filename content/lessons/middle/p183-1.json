@@ -1,0 +1,79 @@
+{
+  "id": "p183-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p183",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 183-1 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 3,
+  "order": 183,
+  "audio": [
+    {
+      "src": "/audio/middle/p183.mp3",
+      "legacySrc": "sounds/p183.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 183-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(추석)"
+    },
+    {
+      "type": "instruction",
+      "text": "추석은 한 해의 가장 큰 국경일 이고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 종종 한국의 추수감사절이라 불린다."
+    },
+    {
+      "type": "instruction",
+      "text": "추석 동안, 사람들은 그들 조상의 무덤을 방문하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 조상들에게 음식을 대접한다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가, 대부분의 사람들은 그들의 친척들과 함께 게임을"
+    },
+    {
+      "type": "instruction",
+      "text": "하고 한국의 전통 떡인 송편을 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 우리 나라의 국경일을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 날을 통해서 저는 가족이 얼마나 중요한지에 대해 배웁니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p183-1.htm",
+  "legacyEncoding": "utf-8"
+}

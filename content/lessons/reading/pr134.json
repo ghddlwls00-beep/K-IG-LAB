@@ -1,0 +1,47 @@
+{
+  "id": "pr134",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 134 ]",
+  "menuLabel": "[ pr134 ]",
+  "unit": 134,
+  "part": null,
+  "order": 266,
+  "audio": [
+    {
+      "src": "/audio/reading/pr134.mp3",
+      "legacySrc": "sounds/pr134.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 134 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "We simply do not have the technology to travel to the nearest star in human lifetime. Will this change? Yes and no. Humans are learning how to travel faster and faster. But like all beings in the universe, we face a speed limit, the speed of light, which is about 300,000 kilometers per second. Today our spaceships are only capable of less than one percent the speed of light. Because of this , we explore the universe by observing it with all kinds of telescope."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr134.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "w4-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w4-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 2,
+  "order": 21,
+  "audio": [
+    {
+      "src": "/audio/woman/w4-2-1.mp3",
+      "legacySrc": "w4-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-2.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-3.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-4.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-5.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-6.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "저에게는 좋은 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편, 아들, 딸, 그리고 저를 포함해서 4명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가족은 아주 친하고, 우리는 함께 시간을 보내는 것을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 Introducing My Relatives :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Uncles, Aunts, and Cousins",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 부모님들께서 형제/자매가 많이 있기 때문에 친척이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have many relatives because both of my parents have many brothers and sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아빠는 2남 2여입니다. 반면에 나의 어머니는 3남3여입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father has (2) brothers and (2) sisters, while my mother has (3) brothers and (3) sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 나의 고모와 삼촌은 결혼했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most my aunts and uncles are married.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 6명의 사촌이 있습니다. 아버지 형제가 3명이며 어머니 형제도 3명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have a total of (6) cousins: (3) from my father’s side and (3) from my mother's side of the family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아빠는 아빠 가족 중에 장남입니다. 반면에 어머니는 두 번째 자녀입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father is the oldest in his family, while my mother is the second child in her family.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w4-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w4-2.swf"
+  ]
+}

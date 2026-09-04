@@ -1,0 +1,71 @@
+{
+  "id": "p204",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 204]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 4,
+  "order": 202,
+  "audio": [
+    {
+      "src": "/audio/middle/p204.mp3",
+      "legacySrc": "sounds/p204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 204]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Gyeong-Ju)"
+    },
+    {
+      "type": "hints",
+      "text": "Another attractive destination is Gyeong-ju."
+    },
+    {
+      "type": "instruction",
+      "text": "Gyeong-ju is the old capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was its most powerful during the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people regard Gyeong-ju asa museum without walls."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans refer to it as this because it contains"
+    },
+    {
+      "type": "instruction",
+      "text": "many of the old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p204.htm",
+  "legacyEncoding": "utf-8"
+}

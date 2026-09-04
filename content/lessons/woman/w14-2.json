@@ -1,0 +1,128 @@
+{
+  "id": "w14-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w14-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 57,
+  "audio": [
+    {
+      "src": "/audio/woman/w14-2-1.mp3",
+      "legacySrc": "w14-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w14-2-2.mp3",
+      "legacySrc": "w14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w14-2-3.mp3",
+      "legacySrc": "w14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w14-2-4.mp3",
+      "legacySrc": "w14-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w14-2-5.mp3",
+      "legacySrc": "w14-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "14 The Korean Education System :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Education in Korea Today",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "오직 부유한 사람들은 그들의 자식들에게 좋은 교육을 위한 많은 기회를 제공할 수 있는 반면에 가난한 사람들은 그들의 자식들에게 적당한 교육을 제공할 기회가 부족하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Only the rich can provide more opportunities for a better education while the poor lack the options to provide a decent education for their children.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이는 한국 사회의 매일의 문제가 되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is becoming a daily problem in Korean society.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "매일, 사교육의 수업료는 사회 계층의 변화 때문에 증가한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyday, the tuition of private institutes increases due to the changes in social classes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "수 년에 걸쳐서, 한국의 교육 정책은 더 좋게 변해 왔지만, 여전히 그것들이 진실로 효과적이고 효율적이 되기 까지는 갈 길이 멀다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the years, educational policies in Korea have changed for the better, but they still have a long way to go before they are truly effective and efficient.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyday, the tuition of private institutes increases due tothe changes in social classes.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w14-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w14-2.swf"
+  ]
+}

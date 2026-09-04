@@ -1,0 +1,83 @@
+{
+  "id": "d016-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d016",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 016 회 ]",
+  "menuLabel": "[ D 016-1 ]",
+  "unit": 16,
+  "part": null,
+  "order": 31,
+  "audio": [
+    {
+      "src": "/audio/ld/d016.mp3",
+      "legacySrc": "sounds/d016.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 016 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "피터 패트랄리스는 그의 어머니를 돕고 있었다. 그녀는 새 집을 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 오후 3시 30분에 시작했다. 처음에 그는 차고에 페인트칠하고 그런 다음 창문을 닦았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 모든 무거운 가구를 집안으로 들여놓고 모든 쓰레기를 치우고 그의 어머니가 벽장을 청소하는 것을 도와드렸다. 그는 또 어머니가 커튼을 다는 것도 도와드렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "9시 15분이 되었을 때 피터는 매우 피곤했다. 집에 도착했을 때 그는 자신의 열쇠를 찾을 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "앞문이 잠겨있었다. 그런 다음 그는 뒷문을 시도했으나 그것도 잠겨있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 부엌 창문으로 기어들어가기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 갑자기 한 큰 검정색 개가 그의 뒤에서 펄쩍 뛰어올랐다. 피터는 겁나기도 했고 놀라기도 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 개를 갖고 있지 않았다. 그는 엉뚱한 집에 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "불쌍한 피터는 경찰에게 자신이 도둑이 아니라는 것을 확신시켜야 한 후에 더욱 더 피곤했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d016-1.htm",
+  "legacyEncoding": "utf-8"
+}

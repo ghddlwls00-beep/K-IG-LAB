@@ -1,0 +1,103 @@
+{
+  "id": "d036-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d036",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 036 회 ]",
+  "menuLabel": "[ D 036-1 ]",
+  "unit": 36,
+  "part": null,
+  "order": 71,
+  "audio": [
+    {
+      "src": "/audio/ld/d036.mp3",
+      "legacySrc": "sounds/d036.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 036 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국인 작가 Mark Twain이 한번 말한 것처럼 “모든 사람이 날씨에 대하여 이야기하지만"
+    },
+    {
+      "type": "instruction",
+      "text": "아무도 그것에 대하여 어떤 것도 하지 않는다.” 모든 사람이 날씨에 대하여 말하는 것은 사실이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 존재하는 대화의 가장 흔한 주제이다. “오늘은 좋은 날 아닙니까?”"
+    },
+    {
+      "type": "instruction",
+      "text": "“당신은 비가 올 것이라고 생각하십니까?” “나는 눈이 올 것이라고 생각합니다.”"
+    },
+    {
+      "type": "instruction",
+      "text": "이런 것들은 대화를 시작하는 흔한 방식들이다. 많은 사람들은 그들이 날씨가 어떻게 될지 알 수 있다고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그들은 좀처럼 서로 동의하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람은 “당신은 동쪽이 얼마나 흐린지 보십니까? 내일 비가 올 것입니다.”라고 말할지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람은 “네, 동쪽은 흐립니다. 우리는 내일 좋은 날씨를 가질 것입니다.”라고 말할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 종종 자신이 원하는 날씨를 찾는다. 농부가 물이 필요할 때 그는 자신에게 비가 올 것이라고 말 해줄 어떤 것을 찾는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 다른 어떤 것도 믿으려고 하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "친구들이 소풍을 가질 때 그들은 날씨가 매우 빨리 맑아질 것이라고 너무나 확신해서 비가 오는 동안에도 앉아서 점심을 먹는다."
+    },
+    {
+      "type": "instruction",
+      "text": "거의 모든 사람이 기상요원이 말하는 것에 귀기울인다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그는 항상 우리가 원하는 것을 우리에게 말해주지 않고 가끔은 실수한다."
+    },
+    {
+      "type": "instruction",
+      "text": "여전히 그는 아마도 다른 누구보다도 정확한 것에 더 가깝다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d036-1.htm",
+  "legacyEncoding": "utf-8"
+}

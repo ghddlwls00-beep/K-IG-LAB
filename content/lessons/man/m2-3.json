@@ -1,0 +1,138 @@
+{
+  "id": "m2-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m2-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 3,
+  "order": 10,
+  "audio": [
+    {
+      "src": "/audio/man/m2-3-1.mp3",
+      "legacySrc": "m2-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-3-2.mp3",
+      "legacySrc": "m2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-3-3.mp3",
+      "legacySrc": "m2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-3-4.mp3",
+      "legacySrc": "m2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-3-5.mp3",
+      "legacySrc": "m2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m2-3-6.mp3",
+      "legacySrc": "m2-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 아내는 가정주부입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My wife is a housewife.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 15년 전에 처음 만났고, 후에 결혼했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We met for the first time fifteen years ago, and later we married.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아내는 매우 나를 지지하고 항상 가족들과 나를 아주 잘 돌보아 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My wife is very supportive of me and always takes great care of my family and me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 시간이 있을 때 그녀의 친구들을 방문하는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She likes to visit with her friends when she has time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 항상 아이들의 숙제를 도와주고 그들이 열심히 공부하기 위해 용기를 심어줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She always helps the children with their homework and encourages them to study hard.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "We met for the first time fifteen years ago3, and later we married.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Introducing My Family :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "About My Wife",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m2-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m2-3.swf"
+  ]
+}

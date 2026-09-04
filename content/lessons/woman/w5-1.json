@@ -1,0 +1,153 @@
+{
+  "id": "w5-1",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w5-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 1,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/woman/w5-1-1.mp3",
+      "legacySrc": "w5-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-2.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-3.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-4.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-5.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-6.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w5-1-7.mp3",
+      "legacySrc": "w5-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 A Typical Day :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Busy Morning",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통으로 나는 나의 남편과 자녀들보다 일찍 일어난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually I wake up before my husband and child/children.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매일 아침 운동을 하려고 노력하지만 다른 해야 할 일들이 많이 있기 때문에 이것은 어렵습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I try to exercise every morning, but this is hard because I have other things to do.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 할 수 있을 만큼 운동을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I exercise as much as I can.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "가족이 자고 있는 동안에 나는 부엌에서 아침준비를 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "While my family is sleeping, I am busy in the kitchen preparing breakfast.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 아침을 먹지 않고 출근을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, I often go to work without eating breakfast.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "아침준비가 마치고 난후 나는 나의 남편과 아이들을 깨웁니다. 그리고 출근과 학교갈 준비를 도와줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After I finish making breakfast, I wake up my husband and child/children, and I help them get ready for work and school.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w5-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w5-1.swf"
+  ]
+}

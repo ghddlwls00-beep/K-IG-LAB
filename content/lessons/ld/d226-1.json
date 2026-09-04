@@ -1,0 +1,75 @@
+{
+  "id": "d226-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d226",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 226 회 ]",
+  "menuLabel": "[ D 226-1 ]",
+  "unit": 226,
+  "part": null,
+  "order": 450,
+  "audio": [
+    {
+      "src": "/audio/ld/d226.mp3",
+      "legacySrc": "sounds/d226.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 226 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "매우 어린 나이에 영어를 말하는 어린이들은 고도로 상상적인 Mother Goose 동요(rhyme)을 배운다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 신발 속에 산 노부인, 달을 뛰어넘은 암소, 고양이와 바이올린 및 수많은 다른 등장 인물과"
+    },
+    {
+      "type": "instruction",
+      "text": "친숙해지는데 그들은 대부분의 어린이들이 매우 기뻐하는 전체 이야기책 세계를 구성한다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 Mother Goose 동요는 암기하기에 쉽고 영어 문장 패턴의 연구를"
+    },
+    {
+      "type": "instruction",
+      "text": "위한 훌륭한 교재를 구성한다."
+    },
+    {
+      "type": "instruction",
+      "text": "동요의 대본을 예시하는 그림들은 또 어린이에게 그가 그의 어휘에 첨가할 수 있는"
+    },
+    {
+      "type": "instruction",
+      "text": "새로운 단어들의 시각적인 묘사를 제공해준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d226-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "p09",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle09]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": null,
+  "order": 94,
+  "audio": [
+    {
+      "src": "/audio/middle/p09.mp3",
+      "legacySrc": "sounds/p09.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle09]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 9: What Do I Do Every Day?"
+    },
+    {
+      "type": "hints",
+      "text": "Every day I usually follow the same schedule."
+    },
+    {
+      "type": "instruction",
+      "text": "I get up at six o’clock every morning."
+    },
+    {
+      "type": "instruction",
+      "text": "I clean my room, and then I go jogging with my dog named Happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I run to and from the playground five times."
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish jogging, I take a shower."
+    },
+    {
+      "type": "instruction",
+      "text": "I have breakfast around 7:30 a.m. After breakfast,"
+    },
+    {
+      "type": "instruction",
+      "text": "I brush my teeth, and I leave for school at about eight o’clock."
+    },
+    {
+      "type": "instruction",
+      "text": "I often meet my friends and play around a little in the schoolyard"
+    },
+    {
+      "type": "instruction",
+      "text": "before we go to class."
+    },
+    {
+      "type": "instruction",
+      "text": "I have four morning classes that start at nine."
+    },
+    {
+      "type": "instruction",
+      "text": "Each class is about forty-five minutes long."
+    },
+    {
+      "type": "instruction",
+      "text": "I have lunch at 12:30 p.m. After lunch, I have two more classes."
+    },
+    {
+      "type": "instruction",
+      "text": "I finish my classes at 3:00 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "After school, I go to private academies whereI study Art, Piano and"
+    },
+    {
+      "type": "instruction",
+      "text": "English. Each academy lesson lasts around fifty minutes."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I get very tired when I’m at the academies,"
+    },
+    {
+      "type": "instruction",
+      "text": "but I enjoy studying with my friends there. A"
+    },
+    {
+      "type": "instruction",
+      "text": "fter my last academy class, I get home at around 6:00 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "After finishing classes at the academies,"
+    },
+    {
+      "type": "instruction",
+      "text": "I go home and have dinner with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother always makes dinner."
+    },
+    {
+      "type": "instruction",
+      "text": "When we eat, my father usually talks about his day,"
+    },
+    {
+      "type": "instruction",
+      "text": "and we share our experiences."
+    },
+    {
+      "type": "instruction",
+      "text": "After dinner, we watch television together."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite TV. shows are Miracle and Fantastic."
+    },
+    {
+      "type": "instruction",
+      "text": "I start my homework at around 9:00 p.m."
+    },
+    {
+      "type": "instruction",
+      "text": "My English homework is my favorite."
+    },
+    {
+      "type": "instruction",
+      "text": "It is my favorite because it is easier than my other subjects."
+    },
+    {
+      "type": "instruction",
+      "text": "After that, I quickly write in my journal about my day."
+    },
+    {
+      "type": "instruction",
+      "text": "I go to bed at about 10:30 p.m. and think what a wonderful day it was!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p09.htm",
+  "legacyEncoding": "utf-8"
+}

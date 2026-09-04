@@ -1,0 +1,128 @@
+{
+  "id": "m8-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m8-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 2,
+  "order": 40,
+  "audio": [
+    {
+      "src": "/audio/man/m8-2-1.mp3",
+      "legacySrc": "m8-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-2-2.mp3",
+      "legacySrc": "m8-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-2-3.mp3",
+      "legacySrc": "m8-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-2-4.mp3",
+      "legacySrc": "m8-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m8-2-5.mp3",
+      "legacySrc": "m8-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나와 가까워진 동료와 함께 적어도 한 달에 한 번 함께 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My coworkers, whom I am close to, get together at least once a month.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 우리는 우리의 가족들 없이 만나고, 다른 시간에 우리는 우리의 가족들과 모두 함께 합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes we meet without our families, and other times, we all bring our families together.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 나에게 이러한 활동들 중 아주 중요한 부분입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is very important to be a part of these activities for me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 함께 하는 모임 중에 우리는 결혼식들과 장례식 및 일어났던 특별한 행사를 이야기하거나 또는 그 달에 일어날 일들에 관해 이야기합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During these get together we commemorate weddings, funerals or any other special event that had occurred or will occur during that month.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난여름 휴가 때, 우리는 제주도에 갔고 아주 좋았습니다!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Last summer vacation, we went to Je-ju Island, and it was great!",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 My Leisure Time :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Company Activities",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m8-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m8-2.swf"
+  ]
+}

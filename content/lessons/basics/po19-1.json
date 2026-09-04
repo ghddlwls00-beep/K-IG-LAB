@@ -1,0 +1,101 @@
+{
+  "id": "po19-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po19",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 19,
+  "part": null,
+  "order": 430,
+  "audio": [
+    {
+      "src": "/audio/basics/po19.mp3",
+      "legacySrc": "sounds/po19.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "원리 19. 문화"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "239",
+          "text": "우리 문화는 / 다른 문화와는 / 달라."
+        },
+        {
+          "n": "240",
+          "text": "특히 / 우리의 언어와 삶의 양식이 / 어떤 다른 나라와도 / 같지 않아."
+        },
+        {
+          "n": "241",
+          "text": "한국 / 문화는 / 매우 독특해."
+        },
+        {
+          "n": "242",
+          "text": "나의 가족은 / 우리의 전통 의상인 한복을 / 입고 / 추석과 새해를 / 즐겁게 보내."
+        },
+        {
+          "n": "243",
+          "text": "난 / 한복이 / 매우 아름다워서 / 좋아."
+        },
+        {
+          "n": "244",
+          "text": "전통 한국 음식은 / 밥, 국, 생선이나 고기와 / 다양한 야채 반찬을 / 포함해."
+        },
+        {
+          "n": "245",
+          "text": "불고기는 / 가장 인기 있는 한국 고기 요리 / 야."
+        },
+        {
+          "n": "246",
+          "text": "가장 인기 있는 야채 음식은 / 김치 / 야."
+        },
+        {
+          "n": "247",
+          "text": "난 / 그것들 둘 다 / 좋아해."
+        },
+        {
+          "n": "248",
+          "text": "1420년에 / 세종대왕은 / 학자들에게 / 독자적인 한국어 표기법을 / 개발할 것을"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 요구했어."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "249",
+          "text": "난 / 나의 나라와 나의 문화가 / 자랑스러워."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po19-1.htm",
+  "legacyEncoding": "utf-8"
+}

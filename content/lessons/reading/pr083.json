@@ -1,0 +1,47 @@
+{
+  "id": "pr083",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 083 ]",
+  "menuLabel": "[ pr083 ]",
+  "unit": 83,
+  "part": null,
+  "order": 164,
+  "audio": [
+    {
+      "src": "/audio/reading/pr083.mp3",
+      "legacySrc": "sounds/pr083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 083 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people carry on active social lives with computers - their own or the ones available at terminals in public places like cafes, social centers, libraries, etc. Communicating with others on \"bulletin boards\", they get to know people they might never meet in traditional way. For example, a graduate student in San Francisco, California, has made more than fifty \"net friends\", including a homeless vegetarian who gets around on roller-blades, an HIV-positive police officer, some members of an Iranian family, an 80-year-old detective, and a medical geneticist who studies DNA. She has gone out on dates with about ten of her \"network contacts\". In fact, she almost married one. The romance didn't last. However, She doesn't blame the computer for breaking up the relationship."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr083.htm",
+  "legacyEncoding": "utf-8"
+}

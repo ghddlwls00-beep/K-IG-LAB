@@ -1,0 +1,47 @@
+{
+  "id": "pr202",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 202 ]",
+  "menuLabel": "[ pr202 ]",
+  "unit": 202,
+  "part": null,
+  "order": 402,
+  "audio": [
+    {
+      "src": "/audio/reading/pr202.mp3",
+      "legacySrc": "sounds/pr202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 202 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Few people are aware that 1883 is an important year in the history of the Korean press. In that year the newspaper was first published in Korea in an effort to educate the people and bring necessary changes to the country. Three times a month it brought the readers news about the country and the rest of the world. A year later the newspaper was discontinued for a while due to a fire. It had to close in 1888 because of lack of money. In spite of its short life, it changed forever how people got their news in Korea."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr202.htm",
+  "legacyEncoding": "utf-8"
+}

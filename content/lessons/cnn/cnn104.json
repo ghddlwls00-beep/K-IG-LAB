@@ -1,0 +1,171 @@
+{
+  "id": "cnn104",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "First Vote for Kuwaiti Women",
+  "label": "First Vote for Kuwaiti Women",
+  "menuLabel": "[ CNN 104 ]",
+  "unit": 104,
+  "part": null,
+  "order": 103,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn104.mp4",
+      "legacySrc": "CNN/CNN61-120/104.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "First Vote for Kuwaiti Women"
+    },
+    {
+      "type": "paragraph",
+      "text": "Women are making history in Kuwait. For the first time women cast ballots and ran as candidates in a municipal by-election. Men and women voted separately to conform with Islamic traditions. The election comes almost a year after parliament passed a bill giving women the right to vote and to run for office. There was strong opposition from some hard-liners who believe a woman’s priority is to take care of her family. Turnout in Tuesday’s election was described as light.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "쿠웨이트 여성, 첫 투표권 행사",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여성들이 쿠웨이트 역사에 한 획을 그었습니다. 쿠웨이트 사상 처음으로 여성들이 지방의회 보궐 선거에서 투표권을 행사하고 후보로도 출마했습니다. 이슬람교 전통에 따라 남녀가 따로 투표를 했습니다. 이번 선거는 여성에게 투표권과 공직 출마권을 부여하는 법안이 의회에서 통과된 지 거의 1년 만에 이루어졌습니다. 일부 이슬람 강경파들은 여성의 정치 참여에 강력히 반발했습니다. 이들은 여성들의 최우선 임무가 가정을 돌보는 것이라고 믿고 있습니다. 화요일에 치뤄진 이 선거의 투표율은 저조한 것으로 드러났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st t-로 자음이 세 번 겹쳐 중간 자음[t]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cast ballots도 같은 경우다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[i]가 중복되어 한 번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[바이이렉션]으로 발음되지 않은 것에 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ra-가 탈락되어 [쎄펏(을)리]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-tely는 [t]가 탈락되고 [을리]를 재빨리 붙여 발음한다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. run for/ …에 출마하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "first time",
+          "text": "[훠스타임]."
+        },
+        {
+          "n": "by-election",
+          "text": "[바이렉션]."
+        },
+        {
+          "n": "separately",
+          "text": "[쎄펏(을)리]."
+        },
+        {
+          "n": "make history",
+          "text": "역사에 남을 중대한 일을 하다"
+        },
+        {
+          "n": "cast a ballot",
+          "text": "투표하다"
+        },
+        {
+          "n": "run",
+          "text": "출마하다"
+        },
+        {
+          "n": "candidate",
+          "text": "후보자, 입후보자"
+        },
+        {
+          "n": "municipal",
+          "text": "시정의, 지방자치의"
+        },
+        {
+          "n": "by-election",
+          "text": "중간선거, 보궐선거"
+        },
+        {
+          "n": "conform with",
+          "text": "(규칙등에) 따르다, 순응하다"
+        },
+        {
+          "n": "Islamic tradition",
+          "text": "이슬람전통"
+        },
+        {
+          "n": "parliament",
+          "text": "국회"
+        },
+        {
+          "n": "pass a bill",
+          "text": "법안을 통과시키다"
+        },
+        {
+          "n": "right to vote",
+          "text": "투표권"
+        },
+        {
+          "n": "right to run for office",
+          "text": "공직 출마권"
+        },
+        {
+          "n": "opposition",
+          "text": "반대, 거부"
+        },
+        {
+          "n": "hard-liner",
+          "text": "((구어)) 강경론자"
+        },
+        {
+          "n": "priority",
+          "text": "우선권"
+        },
+        {
+          "n": "take care of",
+          "text": "…을 돌보다"
+        },
+        {
+          "n": "turnout",
+          "text": "(집회,선거의) 참가자수"
+        },
+        {
+          "n": "describe A as B",
+          "text": "A를 B라고 평하다"
+        },
+        {
+          "n": "light",
+          "text": "저조한; 엷은, 희미한"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/104.wmv",
+  "legacyEncoding": "binary"
+}

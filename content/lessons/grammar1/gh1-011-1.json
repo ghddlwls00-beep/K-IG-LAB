@@ -1,0 +1,148 @@
+{
+  "id": "gh1-011-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-011",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 011-1 ]",
+  "menuLabel": "[ gh1-011-1 ]",
+  "unit": 11,
+  "part": null,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-011-1.mp3",
+      "legacySrc": "sounds/gh1-011-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 011-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "입문 3과 기본문장 연습"
+    },
+    {
+      "type": "instruction",
+      "text": "영작 연습 문제 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "There was a boy."
+        },
+        {
+          "n": "2",
+          "text": "There were boys."
+        },
+        {
+          "n": "3",
+          "text": "There is a boy."
+        },
+        {
+          "n": "4",
+          "text": "There are boys."
+        },
+        {
+          "n": "5",
+          "text": "I have a dream."
+        },
+        {
+          "n": "6",
+          "text": "You have a dream."
+        },
+        {
+          "n": "7",
+          "text": "He has a dream."
+        },
+        {
+          "n": "8",
+          "text": "They have dreams (혹은 a dream.)"
+        },
+        {
+          "n": "9",
+          "text": "I had a dream."
+        },
+        {
+          "n": "10",
+          "text": "You had a dream."
+        },
+        {
+          "n": "11",
+          "text": "He had a dream."
+        },
+        {
+          "n": "12",
+          "text": "Was there a boy?"
+        },
+        {
+          "n": "13",
+          "text": "Were there boys?"
+        },
+        {
+          "n": "14",
+          "text": "Is there a boy?"
+        },
+        {
+          "n": "15",
+          "text": "Are there boys?"
+        },
+        {
+          "n": "16",
+          "text": "Do I have a dream?"
+        },
+        {
+          "n": "17",
+          "text": "Do you have a dream?"
+        },
+        {
+          "n": "18",
+          "text": "Does he have a dream?"
+        },
+        {
+          "n": "19",
+          "text": "Do they have dreams (혹은 a dream)?"
+        },
+        {
+          "n": "20",
+          "text": "Did I have a dream?"
+        },
+        {
+          "n": "21",
+          "text": "Did you have a dream?"
+        },
+        {
+          "n": "22",
+          "text": "Did he have a dream?"
+        },
+        {
+          "n": "23",
+          "text": "I know you."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-011-1.htm",
+  "legacyEncoding": "utf-8"
+}

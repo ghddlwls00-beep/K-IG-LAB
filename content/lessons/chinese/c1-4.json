@@ -1,0 +1,118 @@
+{
+  "id": "c1-4",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "爱好(취미)",
+  "label": "爱好(취미)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 4,
+  "order": 4,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-4-swf1.mp3",
+      "legacySrc": "c1-4.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-4-swf2.mp3",
+      "legacySrc": "c1-4.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-4.mp3",
+      "legacySrc": "중국어음성/c1-4.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-4-1.mp3",
+      "legacySrc": "중국어음성/c1-4-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-4-2.mp3",
+      "legacySrc": "중국어음성/c1-4-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-4-3.mp3",
+      "legacySrc": "중국어음성/c1-4-3.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-4"
+    },
+    {
+      "type": "paragraph",
+      "text": "爱好(취미)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 취미들은 책 읽기, 음악듣기, 등산, 영화보기, 스포츠에 참가하는 것 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我的爱好是读书,听音乐，登山，看电影和运动。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 특별히 영화 보는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我特别喜欢看电影。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 컴퓨터 게임하기도 또한 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我还喜欢玩电脑游戏。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    }
+  ],
+  "legacyPath": "중국/c1-4.html",
+  "legacyEncoding": "utf-8"
+}

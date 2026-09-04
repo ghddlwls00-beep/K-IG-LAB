@@ -1,0 +1,88 @@
+{
+  "id": "hv-09",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-09 ]",
+  "unit": 9,
+  "part": null,
+  "order": 128,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-09.mp3",
+      "legacySrc": "sounds/hv-09.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "disposed",
+          "disposal",
+          "disposition",
+          "differ",
+          "difference",
+          "different"
+        ],
+        [
+          "separate",
+          "separation",
+          "separately",
+          "select",
+          "selection",
+          "selective"
+        ],
+        [
+          "secretary",
+          "secure",
+          "security",
+          "monarch",
+          "monarchy",
+          "monk"
+        ],
+        [
+          "monologue",
+          "unique",
+          "union",
+          "unify",
+          "unification",
+          "unity"
+        ],
+        [
+          "unit",
+          "unite",
+          "universe",
+          "universal",
+          "university",
+          "bicycle"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-09 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-09.htm",
+  "legacyEncoding": "utf-8"
+}

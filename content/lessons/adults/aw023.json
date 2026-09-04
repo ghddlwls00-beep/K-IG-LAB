@@ -1,0 +1,63 @@
+{
+  "id": "aw023",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 023 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 3,
+  "order": 20,
+  "audio": [
+    {
+      "src": "/audio/adults/aw023.mp3",
+      "legacySrc": "sounds/aw023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 023 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Husband"
+    },
+    {
+      "type": "hints",
+      "text": "My husband works at a small Cell-Phone company."
+    },
+    {
+      "type": "instruction",
+      "text": "We met for the first time fifteen years ago and three years later, we got married."
+    },
+    {
+      "type": "instruction",
+      "text": "He is always helpful around the house."
+    },
+    {
+      "type": "instruction",
+      "text": "He often goes shopping with me and is very supportive of myself and our children in all that we do."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw023.htm",
+  "legacyEncoding": "utf-8"
+}

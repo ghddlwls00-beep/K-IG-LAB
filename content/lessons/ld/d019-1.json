@@ -1,0 +1,91 @@
+{
+  "id": "d019-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d019",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 019 회 ]",
+  "menuLabel": "[ D 019-1 ]",
+  "unit": 19,
+  "part": null,
+  "order": 37,
+  "audio": [
+    {
+      "src": "/audio/ld/d019.mp3",
+      "legacySrc": "sounds/d019.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 019 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "불란서 작가인 Jules Verne이 쓴 어떤 책이라도 읽은 적 있나?"
+    },
+    {
+      "type": "instruction",
+      "text": "그는 훌륭한 기계들과 환상적인 여행에 대하여 꿈꾸는 사람이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "1865년에 그는 달로의 한 여행에 대한 책을 썼다. 그가 창조한 우주선은 매우 안락했다."
+    },
+    {
+      "type": "instruction",
+      "text": "두 미국인과 한 불란서인인 그 승객들은 식용으로 그 우주선에서 닭을 길렀다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 좋은 침대에서 자고 그들의 식사를 개스스토브에서 요리했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 지구를 떠난지 97시간, 13분 20초 후에 달에 도착했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 달에 착륙했을 때 한 실수를 해서 그 우주선을 떠날 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 우주복이 없었기 때문에 아마 이것은 좋은 일이었을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "Verne의 책은 공상과학이라고 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 시대에는 사람들이 Verne의 이야기는 불가능한 꿈이라고 느꼈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 백년 뒤에 사람들이 달 위에서 걷고 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d019-1.htm",
+  "legacyEncoding": "utf-8"
+}

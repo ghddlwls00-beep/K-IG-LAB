@@ -1,0 +1,138 @@
+{
+  "id": "m12-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m12-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 55,
+  "audio": [
+    {
+      "src": "/audio/man/m12-3-1.mp3",
+      "legacySrc": "m12-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-3-2.mp3",
+      "legacySrc": "m12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-3-3.mp3",
+      "legacySrc": "m12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-3-4.mp3",
+      "legacySrc": "m12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-3-5.mp3",
+      "legacySrc": "m12-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-3-6.mp3",
+      "legacySrc": "m12-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "일이 끝난 후, 나는 나의 가족들과 가능한 한 많은 시간을 함께 보내려 노력했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After I finish work, I try to spend as much time as possible with my family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 일이 끝난 후 바쁘면 이것은 가족들과 함께 할 시간을 방해합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, I am very busy after work, and this5 cuts into my time at home with my family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 가능한 한 많이 나의 아내를 도와 집안 일을 하려 노력합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I try to help my wife around the house as much as possible.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아내는 자녀들의 교육에 보다 많은 참여를 하지만 나는 관심을 보이는 것으로노력할려고 하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My wife is more involved with our children’s education, but I try to be involved by showing concern.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그녀를 지원하려 노력하고 그녀가 무엇을 하는지에 관심을 가집니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I try to be supportive of her and take an interest in what she does.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, I am very busy after work, and this cuts into my time at home with my family.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "12 Married Life :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Life",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m12-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m12-3.swf"
+  ]
+}

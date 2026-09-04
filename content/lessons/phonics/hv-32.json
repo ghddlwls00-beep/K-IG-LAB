@@ -1,0 +1,88 @@
+{
+  "id": "hv-32",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-32 ]",
+  "unit": 32,
+  "part": null,
+  "order": 151,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-32.mp3",
+      "legacySrc": "sounds/hv-32.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "finally",
+          "finance",
+          "financial",
+          "confine",
+          "refine",
+          "refined"
+        ],
+        [
+          "refinement",
+          "confide",
+          "confidence",
+          "confident",
+          "confidential",
+          "infinite"
+        ],
+        [
+          "reflect",
+          "reflection",
+          "flexible",
+          "conflict",
+          "inflict",
+          "fluid"
+        ],
+        [
+          "fluent",
+          "fluency",
+          "influence",
+          "influential",
+          "influenza",
+          "form"
+        ],
+        [
+          "formal",
+          "formation",
+          "inform",
+          "information",
+          "reform",
+          "reformer"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-32 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-32.htm",
+  "legacyEncoding": "utf-8"
+}

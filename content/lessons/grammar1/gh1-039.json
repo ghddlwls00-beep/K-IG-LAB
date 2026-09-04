@@ -1,0 +1,156 @@
+{
+  "id": "gh1-039",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 039 ]",
+  "menuLabel": "[ gh1-039 ]",
+  "unit": 39,
+  "part": null,
+  "order": 52,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-039.mp3",
+      "legacySrc": "sounds/gh1-039.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 039 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 5 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I am a boy, ain't I(혹은 I am a boy, am I not)?"
+        },
+        {
+          "n": "2",
+          "text": "You are a girl, aren't you(혹은 You are a girl, are you not)?"
+        },
+        {
+          "n": "3",
+          "text": "He is a boy, isn't he(혹은 He is a boy, is he not?)"
+        },
+        {
+          "n": "4",
+          "text": "She is a girl, isn't she(혹은 She is a girl, is she not)?"
+        },
+        {
+          "n": "5",
+          "text": "This is a pen, isn't this(혹은 This is a pen, is this not)?"
+        },
+        {
+          "n": "6",
+          "text": "It is a book, isn't it(혹은 It is a book, is it not?)"
+        },
+        {
+          "n": "7",
+          "text": "These are pens, aren't these(혹은 ---, are these not)?"
+        },
+        {
+          "n": "8",
+          "text": "Those(they) are books, aren't they(혹은 ---, are they not)?"
+        },
+        {
+          "n": "9",
+          "text": "I am happy, ain't I(혹은 I am happy, am I not)?"
+        },
+        {
+          "n": "10",
+          "text": "You are happy, aren't you?"
+        },
+        {
+          "n": "11",
+          "text": "He is happy, isn't he?"
+        },
+        {
+          "n": "12",
+          "text": "She is happy, isn't she?"
+        },
+        {
+          "n": "13",
+          "text": "I am in Korea, ain't I?"
+        },
+        {
+          "n": "14",
+          "text": "You are in Korea, aren't you?"
+        },
+        {
+          "n": "15",
+          "text": "He is in Korea, isn't he?"
+        },
+        {
+          "n": "16",
+          "text": "She is in Korea, isn't she?"
+        },
+        {
+          "n": "17",
+          "text": "This is a pen, isn't this?"
+        },
+        {
+          "n": "18",
+          "text": "It is a book, isn't it?"
+        },
+        {
+          "n": "19",
+          "text": "These are pens, aren't these?"
+        },
+        {
+          "n": "20",
+          "text": "They(those) are books, aren't they?"
+        },
+        {
+          "n": "21",
+          "text": "I am not happy, am I?"
+        },
+        {
+          "n": "22",
+          "text": "You are not happy, are you?"
+        },
+        {
+          "n": "23",
+          "text": "He is not happy, is he?"
+        },
+        {
+          "n": "24",
+          "text": "She is not happy, is she?"
+        },
+        {
+          "n": "25",
+          "text": "I am not in Korea, am I?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-039.htm",
+  "legacyEncoding": "utf-8"
+}

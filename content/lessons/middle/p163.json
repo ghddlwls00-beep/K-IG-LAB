@@ -1,0 +1,83 @@
+{
+  "id": "p163",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 163 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 3,
+  "order": 164,
+  "audio": [
+    {
+      "src": "/audio/middle/p163.mp3",
+      "legacySrc": "sounds/p163.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 163 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(How I Will Fulfill My Dream)"
+    },
+    {
+      "type": "hints",
+      "text": "In order to fulfill my dreams, I have to do many things."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, I will study English everyday,"
+    },
+    {
+      "type": "instruction",
+      "text": "by practicing listening and speaking."
+    },
+    {
+      "type": "instruction",
+      "text": "I will do this by going to an English Academy every day."
+    },
+    {
+      "type": "instruction",
+      "text": "When I grow up, I plan on going abroad"
+    },
+    {
+      "type": "instruction",
+      "text": "to study English in another country so that I can listen"
+    },
+    {
+      "type": "instruction",
+      "text": "and speak like a native speaker of English."
+    },
+    {
+      "type": "instruction",
+      "text": "If I really want to become a great interpreter,"
+    },
+    {
+      "type": "instruction",
+      "text": "I need to work hard at improving English from now on."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p163.htm",
+  "legacyEncoding": "utf-8"
+}

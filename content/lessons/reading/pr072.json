@@ -1,0 +1,47 @@
+{
+  "id": "pr072",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 072 ]",
+  "menuLabel": "[ pr072 ]",
+  "unit": 72,
+  "part": null,
+  "order": 142,
+  "audio": [
+    {
+      "src": "/audio/reading/pr072.mp3",
+      "legacySrc": "sounds/pr072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 072 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "If you are not positive, you cannot be productive on your job. \"Life is 90% attitude and 10% ability. It's all in your attitude, how you present yourself and what you have to offer,\" says Edward Simpson, a sales representative. \"A company may be able to teach you what you need to know to succeed, but it cannot teach attitude. When choosing between a purely competent person without interest and a less competent person with zeal, I always choose zeal over ability ,\" he adds."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr072.htm",
+  "legacyEncoding": "utf-8"
+}

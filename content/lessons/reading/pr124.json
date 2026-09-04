@@ -1,0 +1,47 @@
+{
+  "id": "pr124",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 124 ]",
+  "menuLabel": "[ pr124 ]",
+  "unit": 124,
+  "part": null,
+  "order": 246,
+  "audio": [
+    {
+      "src": "/audio/reading/pr124.mp3",
+      "legacySrc": "sounds/pr124.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 124 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Walking down the street, you may not even notice the trees, but, according to a new study, they do a lot more than give shade. Environmental scientists chose two Chicago public housing projects, both of which had some buildings with lots of trees nearby, and some with practically none. According to the study, violence and property crimes were nearly twice as high in sections of the buildings where vegetation was low, compared with the sections where vegetation was high. Why? One explanation: Greenery creates a natural gathering space for neighbors and, ultimately, stronger bonds in the community. This can also create an atmosphere where children are better supervised, and buildings better watched."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr124.htm",
+  "legacyEncoding": "utf-8"
+}

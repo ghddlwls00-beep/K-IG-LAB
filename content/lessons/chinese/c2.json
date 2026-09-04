@@ -1,0 +1,92 @@
+{
+  "id": "c2",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "介绍家人 (가족소개)",
+  "label": "介绍家人 (가족소개)",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 7,
+  "audio": [
+    {
+      "src": "/audio/chinese/c2-1-1.mp3",
+      "legacySrc": "중국어음성/c2-1-1.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "01",
+          "text": "礼节 (인사)"
+        },
+        {
+          "n": "06",
+          "text": "我妹妹的爱好 (여동생의 취미)"
+        },
+        {
+          "n": "06",
+          "text": "Helping Hand"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "介绍家人 (가족소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2 :"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "03",
+          "text": "爸爸，妈妈的工作 (부모님의 직업)"
+        },
+        {
+          "n": "02",
+          "text": "家人单位 (가족단위)"
+        },
+        {
+          "n": "04",
+          "text": "在家里的生活 (가정 생활)"
+        },
+        {
+          "n": "05",
+          "text": "妹妹的学校/才能 (여동생의 학교생활과 재능)"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "중국/c2.html",
+  "legacyEncoding": "utf-8"
+}

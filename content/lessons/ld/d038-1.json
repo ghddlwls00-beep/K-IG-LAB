@@ -1,0 +1,75 @@
+{
+  "id": "d038-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d038",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 038 회 ]",
+  "menuLabel": "[ D 038-1 ]",
+  "unit": 38,
+  "part": null,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/ld/d038.mp3",
+      "legacySrc": "sounds/d038.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 038 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Dr.Smith가 대답했다. “Adams부인, 당신의 아들은 지금같은 때에 소년들에게 매우 흔한 한 병을"
+    },
+    {
+      "type": "instruction",
+      "text": "갖고 있습니다. 그것은 매우 빨리 오고 갑니다.” Mrs.Adams는 “그렇지만 나는 이해가 안됩니다.”라고"
+    },
+    {
+      "type": "instruction",
+      "text": "말했다. 그 의사는 그녀에게 말했다. “오늘, 올해의 가장 중요한 야구 시합이 텔레비젼에 나옵니다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 Bobby가 오늘 오후 텔레비젼을 볼 만큼 충분히 좋게 느낀다면, 또 나는 그렇게 생각하며,"
+    },
+    {
+      "type": "instruction",
+      "text": "그 시합이 끝날 때 그는 건강할 것입니다. 그것이 내가 이 병에 대하여 아는 유일한 치료제입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이제 저를 용서해주신다면 저는 Morton의 집안의 아들 Alfred를 보기 위하여 길을 건너가야 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 오늘 Bobby가 갖고 있는 것과 똑같은 것을 갖고 있는 것 같습니다.”"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d038-1.htm",
+  "legacyEncoding": "utf-8"
+}

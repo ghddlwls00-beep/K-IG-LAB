@@ -1,0 +1,47 @@
+{
+  "id": "pr244",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 244 ]",
+  "menuLabel": "[ pr244 ]",
+  "unit": 244,
+  "part": null,
+  "order": 486,
+  "audio": [
+    {
+      "src": "/audio/reading/pr244.mp3",
+      "legacySrc": "sounds/pr244.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 244 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How often are we introduced to someone only to forget his or her manes moments later? In fact, many times we never knew the name. Today introductions are made in an unclear manner so that it is very hard to remember other's names. Forgetting people's names often means we do not really care about them. When we know their names, we are saying, \"You are important. I remember you.\" A clear introduction should be made, therefore, if you want to build good social relationships with others."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr244.htm",
+  "legacyEncoding": "utf-8"
+}

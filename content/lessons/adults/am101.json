@@ -1,0 +1,59 @@
+{
+  "id": "am101",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 101 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 1,
+  "order": 98,
+  "audio": [
+    {
+      "src": "/audio/adults/am101.mp3",
+      "legacySrc": "sounds/am101.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 101 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Early Childhood School Days"
+    },
+    {
+      "type": "hints",
+      "text": "When I was young, I was not good at studying."
+    },
+    {
+      "type": "instruction",
+      "text": "I was not good at taking tests and was often scolded by my parents and teachers."
+    },
+    {
+      "type": "instruction",
+      "text": "I just wanted to play with my friends."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am101.htm",
+  "legacyEncoding": "utf-8"
+}

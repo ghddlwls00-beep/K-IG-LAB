@@ -1,0 +1,47 @@
+{
+  "id": "pr015-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr015",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 015-1 ]",
+  "menuLabel": "[ pr015-1 ]",
+  "unit": 15,
+  "part": null,
+  "order": 29,
+  "audio": [
+    {
+      "src": "/audio/reading/pr015.mp3",
+      "legacySrc": "sounds/pr015.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 015-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "근심 다음으로 불행의 가장 강력한 원인중의 하나는 아마도 시기심일 것이다. 나는 시기심은 인간 감정의 가장 보편적이고 뿌리 깊은 것 중의 하나라고 당연히 말한다. 그것은 한 살 전의 아이들에게 매우 현저하고 모든 교육자에 의해 가장 부드러운 주의를 가지고 다루어져야만 한다. 다른 아이들의 희생하여 한 아이를 선호하는 약간의 낌새는 즉시 발견되고 분개되어진다. 절대적인, 엄격한 그리고 변화지 않는 배분정의가 다루어야할 아이들을 가진 누구나에게 준수되어져야만 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr015-1.htm",
+  "legacyEncoding": "utf-8"
+}

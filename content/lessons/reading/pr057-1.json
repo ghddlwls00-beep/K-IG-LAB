@@ -1,0 +1,47 @@
+{
+  "id": "pr057-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr057",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 057-1 ]",
+  "menuLabel": "[ pr057-1 ]",
+  "unit": 57,
+  "part": null,
+  "order": 113,
+  "audio": [
+    {
+      "src": "/audio/reading/pr057.mp3",
+      "legacySrc": "sounds/pr057.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 057-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 여행자들은 출발하기 전에 그들이 적절한 여행 보험에 들었는지 확실히 해야 한다. 적당한 보험 증권은 휴가 전이나 휴가 동안 질병이나 사고로부터 발생하는 의료비용과 휴가비의 손해, 그리고 휴일의 취소에 대한 보상을 제공해야 한다. 당신의 보험 증권과 비상 연락 설명서를 항상 휴대하라. 출발하기 전에, 당신은 당신의 관광 담당자에게 여행 기간을 포함하는 보험 증권의 사본을 제출하도록 요구받을 것이다. 이러한 통지를 하지 않으면, 당신은 그 그룹과 함께 여행하지 못하게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr057-1.htm",
+  "legacyEncoding": "utf-8"
+}

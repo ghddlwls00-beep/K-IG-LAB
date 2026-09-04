@@ -1,0 +1,479 @@
+{
+  "id": "cnn097",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Bling Bling* Your Baby",
+  "label": "Bling Bling* Your Baby",
+  "menuLabel": "[ CNN 97 ]",
+  "unit": 97,
+  "part": null,
+  "order": 96,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn097.mp4",
+      "legacySrc": "CNN/CNN61-120/97.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Bling Bling* Your Baby"
+    },
+    {
+      "type": "paragraph",
+      "text": "TODD BENJAMIN, CNN Anchor: Well, anyone with kids knows that raising them isn’t cheap, but for the lucky parents with lots of cash to burn, there’s a new trend, luxury toddler lines. Kelly Wallace tells us how these toddlers “dress to impress.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KELLY WALLACE, CNN Correspondent: Was there always this much choice?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PILAR GUZMAN, Editor in Chief of Cookie: No. Absolutely not.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: This is a new phenomenon.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: This is a new phenomenon.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: Call it “blinging up baby.” Luxury products and more of them than ever before for the littlest ones.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: Beautiful little dress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: Beautiful for $455.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: It’s... it’s expensive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: We went shopping at Barney’s, one of New York’s most exclusive stores with Pilar Guzman, editor in chief of Cookie, a new high-end baby magazine which focuses on lifestyle. What do you say to people when they say, “but $500 almost for a dress that you can only wear for a little bit of time...?”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: You know, it’s certainly not for everyone and it’s, you know, luxury is really kind of a state of mind.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: Luxury for babies is also big business fueled by more couples who are starting families later in life when they have more disposable income. So they’re buying $450 diaper bags and $215 Dolce & Gabana dresses, just like mom might wear.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: The mini-me phenomenon is, you know, I dress a certain way, my kid is sort of an extension of me and I want my kid to dress the way I dress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: But has it all gone too far? Elise MacAdam, mother of 13-month-old Felix writes the blog “IndieMom.” She says she’s heard from plenty of moms who say, “This is over the top.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ELISE MACADAM, IndieMom Blogger: To me, I think the what... it sort of drags up all those horrible feelings of middle school where all of a sudden you’re being judged on what you wear or what your child is wearing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: But Guzman, who has a two-year-old and is expecting her second child in June, says it’s all about doing what works for your lifestyle. For her, that means mixing high and low. Shopping for Henry at Target, while also buying cashmere sweaters worth about $200.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GUZMAN: Nobody wants to raise a spoiled brat and all of that but at the same time it’s all about what you like and what reflects your life and your taste and your state of mind.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WALLACE: Kelly Wallace, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "당신의 아이를 화려하게 치장하라!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "토드 벤자민, CNN 앵커: 자, 어린 자녀가 있는 분들이라면 누구나 육아 비용이 결코 만만치 않다는 걸 잘 알고 계실 겁니다. 하지만 돈이 남아도는 운 좋은 부모들을 위한 새로운 소비 경향이 등장했는데요. 바로 초호화 유아용품입니다. 켈리 월리스 기자가 이 유아들의‘인상적인 옷차림’에 대해서 자세히 전해드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "켈리 월리스, CNN 기자: 품목이 늘 이렇게 다양했나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "필라 구즈만, <쿠키>의 편집장: 아뇨. 절대 아니었죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 이는 새로운 사회현상입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 이건 새로운 사회현상이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 이 현상은 소위 ‘휘황찬란하게 아기 치장하기’라고 할 수 있습니다. 갓난 아이들을 위한 최고급 제품들이 그 어느 때보다도 많아지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 아주 예쁜 유아용 드레스인데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 예쁘긴 하지만 455달러나 하는군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 비싸네요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 저희는 라이프스타일을 중점적으로 다루는 최신 고급 유아 전문 잡지 <쿠키>의 편집장 필라 구즈만 씨와 함께 뉴욕의 최고급 상점 중 한 곳인 바니스로 쇼핑을 하러 갔습니다. “아주 잠깐 입고 말 텐데 옷 하나에 거의 500 달러라니…”라고 말하는 사람들에 대해서 어떻게 생각하십니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 그러니까, 이게 확실히 모든 사람들을 위한 것은 아니죠. 이건… 사치는 일종의 심리라고나 할까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 유아 명품은 또한 큰 사업이기도 합니다. 소비할 수 있는 수입이 더 많은 느지막한 나이에 가정을 꾸리는 커플이 증가하면서 이 업종의 성장을 부추기고 있습니다. 그래서 그들은 450달러짜리 기저귀 가방과 215달러짜리 돌체 앤 가바나 드레스를 구매하는데요, 딱 엄마들이나 입을만한 옷 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 미니미 현상이라는 건… 그런 거 있잖아요, 자기가 어떤 식으로 옷을 입는데, 아이는 일종의 분신과도 같은 존재니까, 아이도 자기처럼 입히고 싶어하는 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 하지만 이 모든 게 도가 지나친 걸까요? 13살 펠릭스의 엄마인 엘라이즈 맥애덤 씨는 ‘인디맘’이라는 블로그를 운영하는데요, 수많은 엄마들로부터 “이건 정도를 넘어섰어요!”라는 말을 들어 왔다고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "엘라이즈 맥애덤, ‘인디맘’블로거: 제가 보기에는, 제 생각에는… 이게 그러니까 중학교 시절의 그 끔찍했던 기억을 전부 다시 끄집어내는 셈이죠. 여러분이 무슨 옷을 입느냐에 따라서, 또 자녀가 무슨 옷을 입느냐에 따라서 여러분의 존재 자체가 순식간에 판가름 나는 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 그러나, 두 살난 아이의 엄마이자 오는 6월에 둘째 아이를 출산할 예정인 구즈만 씨는 이는 단지 각자의 라이프스타일에 맞춰 살아가는 것일 뿐이라고 말합니다. 그녀에게 이 말은 곧 고가품과 저가품을 적절히 섞는 것을 의미합니다. 헨리를 위해 타겟에서 쇼핑을 하면서도 한편으로는 200달러 정도 하는 캐시미어 스웨터를 사기도 하듯이요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구즈만: 자식을 응석받이로 키우고 싶어하는 사람은 아무도 없겠지만 이는 단지 사람들이 각자 좋아하는 것, 그리고 각자의 생활 방식, 취향, 심리를 반영하는 것일 뿐입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "월리스: 뉴욕에서CNN, 켈리 월리스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "u는 [오]와 [어]의 중간 발음이지만, 강세를 받으면 [아]로 발음된다. luxury products의 products도 [프라닥ㅌ]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "luxury는 [락쥬리] 혹은 [락슈리] 둘 다 가능한데, 여기서는 전자로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "각운을 맞춰 앵커가 또박또박 발음해 to도 약화되지 않고 그대로 소리 나고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강모음과 약모음 사이에서 [d]가 유음화되고 -tor가 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "end의 끝 자음 [d]가 탈락되어 an이나 and로 혼동하기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "mind의 [d]도 탈락되어 mine과 구별하기 힘들다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "little이 [리을]로 약화되고 for a little bit of가 빠른 속도로 연음되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "my kid is sort of도 kid is가 kidis로, sort of가 [쏘러ㅂ]로 연음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "wear가 where의 [h]음이 약화되어 발음된 것처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cashmere는 [케시미어] 혹은 [케지미어]로 둘 다 가능하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 후자로 발음된다. worth는 끝 자음 -th가 약하게 발음되어 were나 war와 비슷하게 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. bling up/ …을 휘황찬란하게 꾸미다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) luxury/ 사치스러운, 호화스러운, 사치품 (2) toddler/ 유아용의; 아장아장 걷는 아이(3) lines/ {상업}(상품의) 종류; 재고, 구입 품; (옷의) 스타일",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. editor/ (서적,잡지 따위의) 편집자, 교정자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fuel/ …에 활기를 불어넣다, 부채질하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. disposable/ 마음대로 쓸[할] 수 있는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. spoil/ (남의) 성격[성질]을 버리다(ruin); 응석받다, (특히) 못되게[버릇없게] 만들다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "anyone with kids knows that",
+          "text": "문장의 내용어(주어, 동사, 명사 등)와 기능어(전치사, 접속사, 관사 등)가 확연히 구분된다. anyone, kids, knows는 잘 들리고, with, that은 거의 안 들린다."
+        },
+        {
+          "n": "luxury toddler",
+          "text": "[락쥬리 타들러]."
+        },
+        {
+          "n": "dress to impress",
+          "text": "[듀레ㅆ 투 임프레ㅆ]."
+        },
+        {
+          "n": "editor in chief",
+          "text": "[에리어인췹]."
+        },
+        {
+          "n": "high-end baby",
+          "text": "[하이엔베이비]."
+        },
+        {
+          "n": "for a little bit of time",
+          "text": "[퍼러리을버러ㅂ타임]."
+        },
+        {
+          "n": "might wear",
+          "text": "[마잇웨어]."
+        },
+        {
+          "n": "cashmere sweaters worth",
+          "text": "[케지미어 스웨러ㅈ워ㅅ]."
+        },
+        {
+          "n": "* bling bling",
+          "text": "블링 블링: B.G.가 자신이 소속된 캐시 머니 레코드의 동료 가수들과 함께 발표하여 1999년에 히트한 힙합 곡의 제목으로 흑인 음악계 스타의 라이프스타일을 대변한다. 즉, 번쩍거리고 찰랑거리는 금속 장신구와 패션 코드로 치장한 화려함을 의미한다."
+        },
+        {
+          "n": "1) raise",
+          "text": "(아이를) 기르다, 양육하다"
+        },
+        {
+          "n": "2) burn",
+          "text": "…을 급격히 소비하다, 마구 쓰다"
+        },
+        {
+          "n": "3) trend",
+          "text": "경향, 추세; (의복 따위의) 유행"
+        },
+        {
+          "n": "4) luxury toddler lines",
+          "text": "최고급 유아용품"
+        },
+        {
+          "n": "5) dress to impress",
+          "text": "인상적으로 옷을 입다"
+        },
+        {
+          "n": "6) editor in chief",
+          "text": "편집장"
+        },
+        {
+          "n": "7) absolutely",
+          "text": "절대적으로"
+        },
+        {
+          "n": "8) phenomenon",
+          "text": "현상"
+        },
+        {
+          "n": "9) expensive",
+          "text": "비용이 많이 드는, 값비싼; 비경제적인"
+        },
+        {
+          "n": "10) Barney’s",
+          "text": "바니스: 뉴욕의 고급 백화점"
+        },
+        {
+          "n": "11) exclusive",
+          "text": "(상류 계급 따위) 특정 계급의 사람들을 대상으로 하는, 고급의, 고가의"
+        },
+        {
+          "n": "12) high-end",
+          "text": "((구어)) 고급의; (상품,상점이) 특수 고객 대상의, (고객이) 고급품 지향의"
+        },
+        {
+          "n": "13) focus on",
+          "text": "…을 중점적으로 다루다; (주의 따위를) …에 집중하다"
+        },
+        {
+          "n": "14) What (do you) say to……?",
+          "text": "((구어)) …에 대해 어떻게 생각해요?; …은 어떨까요?, …하면 어떨까요?"
+        },
+        {
+          "n": "15) state of mind",
+          "text": "마음 상태, 심리"
+        },
+        {
+          "n": "16) fueled by",
+          "text": "…에 의해 가속화된"
+        },
+        {
+          "n": "17) disposable income",
+          "text": "가처분 소득: 세금을 뺀 순 수입"
+        },
+        {
+          "n": "18) diaper bag",
+          "text": "기저귀 가방"
+        },
+        {
+          "n": "19) Dolce & Gabana",
+          "text": "돌체 앤 가바나: 이탈리아의 세계적인 패션 그룹"
+        },
+        {
+          "n": "20) mini-me",
+          "text": "미니미: 하나의 ‘작은 나’, 즉 나의 분신으로 사이버 상에 존재하는 또 다른 나로서 미니미의 머리모양과 얼굴, 옷차림 등을 자신의 취향에 따라 꾸민다."
+        },
+        {
+          "n": "21) extension",
+          "text": "(…까지의) 확장[연장] 부분"
+        },
+        {
+          "n": "22) go too far",
+          "text": "((구어)) 도를 지나치다, 너무 하다; 과장하다"
+        },
+        {
+          "n": "23) blog",
+          "text": "블로그: 웹(web)과 로그(log: 기록)의 합성어로 1인 미디어를 지향하는 쉽고 편하게 꾸밀 수 있는 자기만의 온라인 공간"
+        },
+        {
+          "n": "24) over the top",
+          "text": "허풍으로, 과장하여"
+        },
+        {
+          "n": "25) drag up",
+          "text": "…을 끌어올리다; …을 들고 나오다"
+        },
+        {
+          "n": "26) horrible",
+          "text": "끔찍한, 무시무시한"
+        },
+        {
+          "n": "27) all of a sudden",
+          "text": "갑자기"
+        },
+        {
+          "n": "28) be judged on",
+          "text": "…으로 평가받다[판단되다]"
+        },
+        {
+          "n": "29) be expecting",
+          "text": "((구어)) 출산 예정이다"
+        },
+        {
+          "n": "30) do what works for",
+          "text": "…에 딱 맞게 행동하다"
+        },
+        {
+          "n": "31) cashmere",
+          "text": "캐시미어 직(織)(의)"
+        },
+        {
+          "n": "32) worth",
+          "text": "(금전적으로) …의 가치가 있는; …와 같은 값어치의"
+        },
+        {
+          "n": "33) spoiled",
+          "text": "버릇없는"
+        },
+        {
+          "n": "34) brat",
+          "text": "애새끼, 꼬마 녀석"
+        },
+        {
+          "n": "35) reflect",
+          "text": "((비유적)) 반영하다, 나타내다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/97.wmv",
+  "legacyEncoding": "binary"
+}

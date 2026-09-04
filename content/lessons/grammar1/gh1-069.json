@@ -1,0 +1,195 @@
+{
+  "id": "gh1-069",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 069]",
+  "menuLabel": "[ gh1-069 ]",
+  "unit": 69,
+  "part": null,
+  "order": 112,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-069.mp3",
+      "legacySrc": "sounds/gh1-069.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 069]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 7"
+    },
+    {
+      "type": "instruction",
+      "text": "ABCD로 나누어서 외워주세요."
+    },
+    {
+      "type": "instruction",
+      "text": "<D > 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "79",
+          "text": "Every boy didn't receive a prize, did he?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every boy received a prize, did he?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "80",
+          "text": "Each boy didn't receive a prize, did he? Not each boy"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "received a prize, did he?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "81",
+          "text": "All the boys didn't receive a prize, did they?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Not all the boys received a prize, did they?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "82",
+          "text": "All of them don't come. Not all of them come."
+        },
+        {
+          "n": "83",
+          "text": "Not all of them came. All of them didn't come."
+        },
+        {
+          "n": "84",
+          "text": "Nobody came."
+        },
+        {
+          "n": "85",
+          "text": "Nobody comes."
+        },
+        {
+          "n": "86",
+          "text": "Nobody comes, do they?"
+        },
+        {
+          "n": "87",
+          "text": "Nobody came, did they?"
+        },
+        {
+          "n": "88",
+          "text": "Were there 60 girls in the classroom?"
+        },
+        {
+          "n": "89",
+          "text": "There were 60 girls in the classroom, weren't there?"
+        },
+        {
+          "n": "90",
+          "text": "There weren't 60 girls in the classroom, were there?"
+        },
+        {
+          "n": "91",
+          "text": "Did many girls go there?"
+        },
+        {
+          "n": "92",
+          "text": "Didn't many girls go there?"
+        },
+        {
+          "n": "93",
+          "text": "Many girls went there, didn't they?"
+        },
+        {
+          "n": "94",
+          "text": "Many girls didn't go there, did they?"
+        },
+        {
+          "n": "95",
+          "text": "You paid for lunch didn't you?"
+        },
+        {
+          "n": "96",
+          "text": "You didn't pay for lunch, did you?"
+        },
+        {
+          "n": "97",
+          "text": "He pays for dinner, doesn't he?"
+        },
+        {
+          "n": "98",
+          "text": "He doesn't pay for dinner, does he?"
+        },
+        {
+          "n": "99",
+          "text": "Does he pay for dinner?"
+        },
+        {
+          "n": "100",
+          "text": "Doesn't he pay for dinner?"
+        },
+        {
+          "n": "101",
+          "text": "Didn't he pay for dinner?"
+        },
+        {
+          "n": "102",
+          "text": "How fast does he run?"
+        },
+        {
+          "n": "103",
+          "text": "How fast did he run?"
+        },
+        {
+          "n": "104",
+          "text": "She sees him many times every day, doesn't she?"
+        },
+        {
+          "n": "105",
+          "text": "You study English more than ten hours every day, don't you?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-069.htm",
+  "legacyEncoding": "utf-8"
+}

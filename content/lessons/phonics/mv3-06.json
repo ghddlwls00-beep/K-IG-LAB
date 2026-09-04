@@ -1,0 +1,88 @@
+{
+  "id": "mv3-06",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-06 ]",
+  "unit": 6,
+  "part": null,
+  "order": 85,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-06.mp3",
+      "legacySrc": "sounds/mv3-06.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "ivy",
+          "route",
+          "luck",
+          "schedule",
+          "gift",
+          "candle"
+        ],
+        [
+          "joke",
+          "art",
+          "corn",
+          "pet",
+          "planet",
+          "cheek"
+        ],
+        [
+          "teenager",
+          "cooky",
+          "word",
+          "nurse",
+          "monk",
+          "master"
+        ],
+        [
+          "moment",
+          "sheet",
+          "lock",
+          "clerk",
+          "closet",
+          "handle"
+        ],
+        [
+          "guide",
+          "example",
+          "lesson",
+          "plenty",
+          "machine",
+          "cover"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-06 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-06.htm",
+  "legacyEncoding": "utf-8"
+}

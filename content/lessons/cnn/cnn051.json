@@ -1,0 +1,461 @@
+{
+  "id": "cnn051",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Would-be* Corpse* Guy",
+  "label": "Would-be* Corpse* Guy",
+  "menuLabel": "[ CNN 51 ]",
+  "unit": 51,
+  "part": null,
+  "order": 50,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn051.mp4",
+      "legacySrc": "CNN/CNN1-60/51.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Would-be* Corpse* Guy"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: Dying all over New York. Hang your head out a little more, oh, that’s good, that’s good. Dying live on morning TV, dying in the makeup chair, dying on the anchor desk, he’s dying to play a dead guy. Who needs movie star looks?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHUCK LAMB, DeadBodyGuy.com: Look at me, I’m no Tom Cruise. But I don’t jump on couches, either. But I just...",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: You die on them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAMB: I’m gonna get a part if it kills me. Ready?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: And finally, he got what he was dying to get, the chance to play a dead guy in a movie. It worries me, though you’re gonna be in a body bag, is anyone gonna see your face?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAMB: Yes, they promised they’d see my face.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Chuck Lamb is better known as the “dead body guy.” His Web site features Chuck posed all over his Columbus, Ohio home, under the garage door, caught eyeing new divorcee. His wife, Tanya, makes fake blood out of corn syrup and food dye. These days, (UNIDENTIFIED WOMAN: Take a look.) every show needs a corpse. Maybe on CSI, it’s wrong to photograph the dead, but Chuck wants his picture taken. He’s even posed electrocuted in the tub, though he didn’t submerge himself like this guy in Law and Order. Chuck’s favorite death scene is from the film, Tombstone.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAMB: And Bill Paxton never blinks. If there’s ever an Academy Award for Dead, it was Bill Paxton in Tombstone.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Chuck just wants his name in movie credits. Call 911. And this was the easiest way for a balding computer programmer to do that. Finally on a MSNBC talk show, a movie producer called in offering Chuck a role as a corpse in a film about a funeral home starring Danny Aiello.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The movie is called Stiffs. Chuck proved his stiff status when we took him to Central Park and positioned him in a pool of fake blood. It took ten minutes, but finally a Good Samaritan actually called the police as he checked Chuck.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sir, sir, don’t call 911!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: Why?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Cause he’s not real. How would you rate him as a dead guy?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: I don’t know, he was warm so.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOSS: Oh, you touched him and he was warm, so.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAMB: Yeah, he did.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: What do you want on your tombstone?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAMB: Oh... I’m not kidding this time!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Jeanne Moos, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "시체가 되고 싶은 남자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 뉴욕 시 전역에서 죽고 있습니다. 머리를 좀 더 바깥 쪽으로 빼보세요, 네, 바로 거기에요, 거기에요. 아침 TV 생방송 중에도 죽고, 분장실 의자에서도 죽고, 앵커 데스크에서도 죽는 그는 죽은 사람을 연기하고 싶어 죽습니다. 누가 영화 배우처럼 생길 필요가 있을까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "척 램, 데드바디가이닷컴: 절 보세요. 톰 크루즈처럼 생기진 않았죠. 그래도 전 소파 위에서 방방 뛰지는 않아요. 그런데 전 그냥…",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 소파 위에서 죽잖아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "램: 죽는 역이라면 제게 맡겨 주십시요. 자 봐요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 결국 그는 죽도록 원하던 바를 얻었습니다. 바로 영화에서 시체 연기를 할 기회를 말이죠. 단지 좀 걱정스러운 게… 척 램 씨는 사체 운반용 부대 안에 들어가 있을 텐데 누군가가 알아보기나 할까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "램: 물론이죠. 제 얼굴이 나오게 할 거라고 약속했거든요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 척 램 씨는‘시체 가이’로 잘 알려져 있습니다. 그의 웹 사이트에는 오하이오 주 콜럼버스에 위치한 집안 곳곳에서 (죽은) 포즈를 취하고 있는 척 씨 모습이 올려져 있습니다. 차고 문 밑에서 죽어있는 모습도 있고, 최근 이혼한 한 여성을 뚫어지게 쳐다보는 모습이 찍히기도 했습니다. 그의 부인인 타냐 씨는 옥수수 시럽과 식용 색소를 이용해 가짜 피를 만듭니다. 요즘에는 (익명의 여성: 여기 한 번 보시죠.) 모든 쇼에 시체가 등장합니다. 아마 에서는, 죽은 사람 사진을 찍으면 안되겠지만, 척 씨는 사진에 찍히고 싶어합니다. 심지어 그는 욕조에서 감전사하는 포즈도 취했습니다. 하지만 <법과 질서>에 나왔던 이 남자처럼 물 속에 가라앉지는 않았죠. 척 씨가 가장 좋아하는 시체 장면은 바로 영화 <툼스톤>에 나옵니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "램: 빌 팩스톤은 절대로 눈을 깜박이지 않습니다. 만약 죽은 사람을 위한 아카데미상이 있었다면, <툼스톤>에 출연한 빌 팩스톤이 받았을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 척 씨가 바라는 게 있다면 그저 영화 엔딩 크레디트에 자신의 이름이 들어가는 것입니다. 911에 전화하세요. 이 포즈가 머리가 벗겨진 컴퓨터 프로그래머가 취하기 가장 쉬운 포즈입니다. 마침내 MSNBC의 한 토크쇼에서 한 영화 프로듀서가 전화를 걸어 척 씨에게 시체 역을 맡아줄 것을 요청했습니다. 대니 엘로 주연의 한 장례식장에 관한 영화에서 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "<시체>가 바로 그 영화입니다. 우리가 척 씨를 센트럴 파크로 데려가 가짜 피로 범벅이 된 그를 눕혀 놓았을 때, 척 씨는 자신의 시체 연기 실력을 증명해 보였습니다. 10분이 지나자 마침내 한 선한 사마리아인이 다가와 척 씨를 살펴보고 경찰에 전화를 걸었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "저기요, 911에 전화하지 마세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자: 왜요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이 사람 지금 연기 중이거든요. 근데 어떻게 이 남자가 죽었다고 판단한거죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자: 그건 잘 모르겠어요. 근데 체온이 남아 있어서…",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 아… 몸을 만졌군요. 그런데 체온이 남아있고… 그렇군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "램: 네. 그가 (제 몸을) 만졌어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 묘비명에 뭐라고 쓰고 싶으세요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "램: 글쎄요. 이번엔 농담이 아닙니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 뉴욕에서CNN, 지니 무스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. anchor/ 앵커, 방송 진행자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. part/ (연극의) 등장인물, 배역",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. divorce/ 이혼한 남성",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fake/ 가짜의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. dye/ 염료, 물감",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. tombstone/ 묘지 비석",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. credit/ (이용 자료 따위의) 출처[제공자, 작성자]",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. stiff/ 시체",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. pool/ 액체가 고인 것",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "die on them",
+          "text": "[다이온듬]. them은 [뎀]이 아닌 [듬]으로 약화되어 발음되고 있다. 이처럼 빠른 뉴스나 대화에서는 them이 [엄], [덤]으로 발음되기도 한다."
+        },
+        {
+          "n": "gonna get a part if it kills me",
+          "text": "[거너게러파킬ㅈ미]. gonna는 going to의 구어체 표현으로 발음의 편리상 많이 나오므로 잘 기억해 둬야 한다. gotta도 have got to, have got a의 축약형이다. 문장의 기능어인 if it이 거의 들리지 않아 part 다음에 바로 kills가 들린다."
+        },
+        {
+          "n": "electrocuted in the tub",
+          "text": "[일렉츄러큐티ㄷ인 탑]. electrocute는 2음절에 강세가 있어 뒤음절이 거의 들리지 않지만, 자세히 들어보면 아주 작게 발음은 되고 있다. tub은 top으로 혼동하지 않도록 주의한다."
+        },
+        {
+          "n": "Law and Order",
+          "text": "[러언오더]. and가 동급의 단어를 연결해 한 단어처럼 쓰일 경우, 앞 단어와 연음되면서 [은]이나 [언]으로 약화된다. ex. bread and butter[브레든버러], in and out [이낸아웃]."
+        },
+        {
+          "n": "favorite death scene",
+          "text": "[페이봇 뎃씬]. -ri 부분이 탈락되어 발음되고 있다. death은 that으로 혼동하지 않도록 주의한다."
+        },
+        {
+          "n": "producer",
+          "text": "[퍼-r듀서]. 빠르게 진행되는 뉴스에서는 단어의 철자가 뒤바뀌어 발음되는 경우가 있다. 특히 [r] 발음의 경우가 그런데, 이는 발음의 편리상 일어나는 현상으로 producer가 porducer처럼 발음되고 있다."
+        },
+        {
+          "n": "* would-be",
+          "text": "…의 지망의, …이 되려고 하는"
+        },
+        {
+          "n": "* corpse",
+          "text": "시체"
+        },
+        {
+          "n": "1) hang",
+          "text": "…을 매달다, 드리우다, 걸다"
+        },
+        {
+          "n": "2) makeup",
+          "text": "메이크업, 얼굴화장"
+        },
+        {
+          "n": "3) anchor desk",
+          "text": "(뉴스) 앵커 데스크"
+        },
+        {
+          "n": "4) be dying to",
+          "text": "매우 …하고 싶어 하다"
+        },
+        {
+          "n": "5) looks",
+          "text": "외모"
+        },
+        {
+          "n": "6) DeadBodyGuy.com",
+          "text": "데드바디가이닷컴: 시체 연기자인 척 램이 자신의 활동을 홍보하기 위해 만든 사이트로 각종 시체 연기 장면이 올려져 있다."
+        },
+        {
+          "n": "7) jump on",
+          "text": "… 위에서 뛰다"
+        },
+        {
+          "n": "8) couch",
+          "text": "소파"
+        },
+        {
+          "n": "9) get a part",
+          "text": "배역을 얻다"
+        },
+        {
+          "n": "10) body bag",
+          "text": "사체 운반용 부대"
+        },
+        {
+          "n": "11) be better known as",
+          "text": "…로 더 잘 알려지다, 유명하다"
+        },
+        {
+          "n": "12) feature",
+          "text": "…을 특별 인기거리로 하다; (신문 따위가) 대서 특필하다"
+        },
+        {
+          "n": "13) pose",
+          "text": "(사진,그림 따위를) 위해 포즈를 취하다, 자세를 잡다"
+        },
+        {
+          "n": "14) garage",
+          "text": "차고"
+        },
+        {
+          "n": "15) catch",
+          "text": "(…하고 있는 현장을) 목격하다, 덮치다; …을 알아채다"
+        },
+        {
+          "n": "16) eye",
+          "text": "…을 보다, 주시하다"
+        },
+        {
+          "n": "17) divorcee",
+          "text": "이혼한 여성"
+        },
+        {
+          "n": "18) fake blood",
+          "text": "가짜 피"
+        },
+        {
+          "n": "19) make A out of B",
+          "text": "B로부터 A를 만들다"
+        },
+        {
+          "n": "20) corn syrup",
+          "text": "옥수수 시럽"
+        },
+        {
+          "n": "21) food dye",
+          "text": "식용 염료"
+        },
+        {
+          "n": "22) CSI",
+          "text": ": 마이애미, 라스베이거스 등 미국 주요 도시에서 활약하고 있는 법의학 수사팀의 이야기를 그린 범죄 수사드라마"
+        },
+        {
+          "n": "23) photograph",
+          "text": "…의 사진을 찍다(take one’s picture)"
+        },
+        {
+          "n": "24) electrocute",
+          "text": "…을 감전사시키다, 전기로 죽이다"
+        },
+        {
+          "n": "25) tub",
+          "text": "물통"
+        },
+        {
+          "n": "26) submerge",
+          "text": "물 속에 가라앉다"
+        },
+        {
+          "n": "27) Law and Order",
+          "text": "<법과 질서>: NBC 방송 TV 드라마로 범죄 사건을 해결하는 과정을 매회 에피소드 형식으로 보여주는 범죄 수사 드라마"
+        },
+        {
+          "n": "28) Tombstone",
+          "text": "<툼스톤>: 1881년 애리조나 주의 툼스톤 거리에서 벌어졌던 서부 개척 역사에서 유명했던 OK 목장의 결투를 재현한 서부극"
+        },
+        {
+          "n": "29) movie credit",
+          "text": "영화 크레디트: 여기서는 영화 마지막에 출연,제작진을 소개하는 엔딩 크레디트를 의미"
+        },
+        {
+          "n": "30) balding",
+          "text": "머리가 벗겨지기 시작한"
+        },
+        {
+          "n": "31) call in ...ing",
+          "text": "전화를 걸어 … 하다"
+        },
+        {
+          "n": "32) funeral home",
+          "text": "장례식장, 시체 안치소"
+        },
+        {
+          "n": "33) star",
+          "text": "…을 주연으로 하다"
+        },
+        {
+          "n": "34) Stiffs",
+          "text": "<시체>: 대니 엘로 주연의 블랙 코미디 영화로 한 영구차 운전기사와 장례식장을 지키려는 지역 주민의 이야기를 다룬 영화"
+        },
+        {
+          "n": "35) Central Park",
+          "text": "센트럴 파크: 미국 뉴욕 시 중앙에 위치한 공원"
+        },
+        {
+          "n": "36) position",
+          "text": "…을 위치시키다, …을 적당한 장소에 놓다"
+        },
+        {
+          "n": "37) a pool of blood",
+          "text": "피범벅"
+        },
+        {
+          "n": "38) Good Samaritan",
+          "text": "선한 사마리아인"
+        },
+        {
+          "n": "39) rate A as B",
+          "text": "A를 B라고 생각하다[여기다]"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/51.wmv",
+  "legacyEncoding": "binary"
+}

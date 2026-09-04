@@ -1,0 +1,52 @@
+{
+  "id": "po201-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po201",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 201-1 〕",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 1,
+  "order": 450,
+  "audio": [
+    {
+      "src": "/audio/basics/po201.mp3",
+      "legacySrc": "sounds/po201.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 201-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "250",
+          "text": "우리나라에는 / 경주와 제주도 / 같은 / 방문할 만한 / 아름다운 곳이 많아."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po201-1.htm",
+  "legacyEncoding": "utf-8"
+}

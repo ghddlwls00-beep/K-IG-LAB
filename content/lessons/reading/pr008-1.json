@@ -1,0 +1,55 @@
+{
+  "id": "pr008-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr008",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 008-1 ]",
+  "menuLabel": "[ pr008-1 ]",
+  "unit": 8,
+  "part": null,
+  "order": 15,
+  "audio": [
+    {
+      "src": "/audio/reading/pr008.mp3",
+      "legacySrc": "sounds/pr008.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 008-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "보통 사람의 두뇌는 선천적으로 게으르고 저항심을 거의 갖고 있지 않다. 그래서 일반"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들의 정신세계는 의심하지 않고 사실을 받아들이고 그것을 굳게 믿고 있다. 이런"
+    },
+    {
+      "type": "instruction",
+      "text": "익숙한 기존 개념을 흔드는 어떤 것이던 적대심을 본능적으로 갖게 된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr008-1.htm",
+  "legacyEncoding": "utf-8"
+}

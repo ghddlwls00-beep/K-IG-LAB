@@ -1,0 +1,95 @@
+{
+  "id": "d026-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d026",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 026 회 ]",
+  "menuLabel": "[ D 026-1 ]",
+  "unit": 26,
+  "part": null,
+  "order": 51,
+  "audio": [
+    {
+      "src": "/audio/ld/d026.mp3",
+      "legacySrc": "sounds/d026.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 026 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Kim은 다시 해변을 보았다. 그것은 매우 멀리 떨어져 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "“Carlos, 우리는 방향을 돌려야 해. 바람이 너무 빨리 우리를 해변으로부터 떨어진 곳으로"
+    },
+    {
+      "type": "instruction",
+      "text": "끌고 가고 있어”라고 그녀가 말했다. Carlos는 보트의 방향을 돌리려고 노력했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 힘들었지만 그는 그것을 해냈다. 그는 바람에 대하여 염려했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 열심히 노를 저었지만 그들은 여전히 해변으로부터 멀리 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 피곤할 때는 Kim이 노를 저었다. 그들은 교대로 노를 저었다."
+    },
+    {
+      "type": "instruction",
+      "text": "바람이 강했기 때문에 그들은 매우 열심히 노를 저어야 했다. 마침내 그들은 다시 해변 가까이에 있었 다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 보트로부터 나와서 그것을 해변 위로 운반했다. Kim은 매우 피곤했기 때문에 그녀는 해변에서"
+    },
+    {
+      "type": "instruction",
+      "text": "낮잠을 잤다. Carlos는 잡지를 읽었다. 나중에 그들은 다시 수영하러 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 산책도 하고 흥미있는 조개껍질을 찾아다녔다. 그들은 6시 경에 해변을 떠났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 떠날 때 Kim이 Carlos에게 물었다. “너는 내일 해변으로 갈꺼냐?”"
+    },
+    {
+      "type": "instruction",
+      "text": "Carlos는 “그래, 나는 그럴꺼야. 그러나 나는 그 보트를 집에 남겨둘꺼야.”라고 대답했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d026-1.htm",
+  "legacyEncoding": "utf-8"
+}

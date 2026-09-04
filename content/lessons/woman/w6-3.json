@@ -1,0 +1,143 @@
+{
+  "id": "w6-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w6-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 3,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/woman/w6-3-1.mp3",
+      "legacySrc": "w6-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-3-2.mp3",
+      "legacySrc": "w6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-3-3.mp3",
+      "legacySrc": "w6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-3-4.mp3",
+      "legacySrc": "w6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-3-5.mp3",
+      "legacySrc": "w6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-3-6.mp3",
+      "legacySrc": "w6-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Sunday Mornings",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국에는 많은 종교가 있습니다. 나의 가족은 기독교인입니다. 그래서 우리는 매주 교회에 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many religions in Korea. My family is Christian, so we go to church every Sunday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국에는 많은 종교가 있습니다. 나의 가족은 기독교인입니다. 그래서 우리는 매주 교회에갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "교회에서 노래를 부르고 설교를 듣습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "At church, we always sing songs and listen to the sermon.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "가장대중적인 종교는 불교입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most popular religion is Buddhism.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국 불교신자들은 자주 절에 가지는 않습니다. 그러나 일 년에 특별한 행사 때 몇 번 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koreans who are Buddhist usually don’t go to their temples frequently but only on special occasions a few times a year.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "반면에 무신론자들은 교회에 전혀 가지 않습니다. 그리고 그들은 일요일 시간을 많은 다른 방법으로 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, Atheists don’t go to church at all, and they mostly spend their Sundays in many different ways.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w6-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w6-3.swf"
+  ]
+}

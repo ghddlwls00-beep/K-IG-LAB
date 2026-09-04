@@ -1,0 +1,156 @@
+{
+  "id": "gh1-035",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 035 ]",
+  "menuLabel": "[ gh1-035 ]",
+  "unit": 35,
+  "part": null,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-035.mp3",
+      "legacySrc": "sounds/gh1-035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 035 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 4 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I study English."
+        },
+        {
+          "n": "2",
+          "text": "You study English."
+        },
+        {
+          "n": "3",
+          "text": "He studies English."
+        },
+        {
+          "n": "4",
+          "text": "She studies English."
+        },
+        {
+          "n": "5",
+          "text": "They study English."
+        },
+        {
+          "n": "6",
+          "text": "I am studying English."
+        },
+        {
+          "n": "7",
+          "text": "You are studying English."
+        },
+        {
+          "n": "8",
+          "text": "He is studying English."
+        },
+        {
+          "n": "9",
+          "text": "She is studying English."
+        },
+        {
+          "n": "10",
+          "text": "They are studying English."
+        },
+        {
+          "n": "11",
+          "text": "I was studying English."
+        },
+        {
+          "n": "12",
+          "text": "They were studying English."
+        },
+        {
+          "n": "13",
+          "text": "Do I study English?"
+        },
+        {
+          "n": "14",
+          "text": "Do you study English?"
+        },
+        {
+          "n": "15",
+          "text": "Does he study English?"
+        },
+        {
+          "n": "16",
+          "text": "Does she study English?"
+        },
+        {
+          "n": "17",
+          "text": "Do they study English?"
+        },
+        {
+          "n": "18",
+          "text": "Am I studying English?"
+        },
+        {
+          "n": "19",
+          "text": "Are you studying English?"
+        },
+        {
+          "n": "20",
+          "text": "Is he studying English?"
+        },
+        {
+          "n": "21",
+          "text": "Is she studying English?"
+        },
+        {
+          "n": "22",
+          "text": "Are they studying English?"
+        },
+        {
+          "n": "23",
+          "text": "Was I studying English?"
+        },
+        {
+          "n": "24",
+          "text": "Were you studying English?"
+        },
+        {
+          "n": "25",
+          "text": "Was he studying English?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-035.htm",
+  "legacyEncoding": "utf-8"
+}

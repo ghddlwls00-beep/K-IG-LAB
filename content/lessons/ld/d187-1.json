@@ -1,0 +1,111 @@
+{
+  "id": "d187-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d187",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 187 회 ]",
+  "menuLabel": "[ D 187-1 ]",
+  "unit": 187,
+  "part": null,
+  "order": 372,
+  "audio": [
+    {
+      "src": "/audio/ld/d187.mp3",
+      "legacySrc": "sounds/d187.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 187 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그 변호사는 내가 그와 함께 그 호텔로 돌아가서 또 다른"
+    },
+    {
+      "type": "instruction",
+      "text": "백달러 지폐를 그 직원에게 맡기라고 충고했다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 이것을 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 시간 뒤에 나는 그 데스크로 가서 나의 돈을 요구했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 두 번째 백불에 대한 증인으로서 변호사가 있었기 때문에 그 직원은"
+    },
+    {
+      "type": "instruction",
+      "text": "그것에 대하여 아무 것도 모른다고 말하면서 무죄하게 보일 수는 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 다시 한 시간 후에 나는 그 변호사의 계획의 두 번째 부분을 행동에 옮겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "이번에는 그 변호사와 나 두 사람 모두 그 호텔에 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 백불 지폐를 요청했고 그 직원이 이미 그것을 나에게"
+    },
+    {
+      "type": "instruction",
+      "text": "주었다고 말했을 때 나는 그것을 부인했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 변호사는 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“나는 이 사람이 당신에게 백불을 주는 것을 보았습니다. 만일 당신이 즉시 그것을 넘겨주지 않는다면 나는 경찰을 부르도록 강제당 할 것입습니다.”"
+    },
+    {
+      "type": "instruction",
+      "text": "그 직원은 자신이 계략에 걸렸다는 것을 알았지만 그는 선택이 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나에게 그 첫 번째 백불 지폐를 나에게 돌려주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 변호사에게 “나의 돈을 되찾게 해주셔서 얼마나 고마운지 모르겠습니다.“라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 그가 뭐라고 대답했을 것으로 추측하나?(수수료가 백불)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d187-1.htm",
+  "legacyEncoding": "utf-8"
+}

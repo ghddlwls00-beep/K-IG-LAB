@@ -1,0 +1,71 @@
+{
+  "id": "d209-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d209",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 209 회 ]",
+  "menuLabel": "[ D 209-1 ]",
+  "unit": 209,
+  "part": null,
+  "order": 416,
+  "audio": [
+    {
+      "src": "/audio/ld/d209.mp3",
+      "legacySrc": "sounds/d209.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 209 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "학생 사교 조직 중에 가장 으뜸되는 것은 남자를 위한 Fraternities와 여성을 위한 Sororities이다."
+    },
+    {
+      "type": "instruction",
+      "text": "fraternity house는 학생이 즐거운 분위기에서 살고 공부할 수 있는 장소이다."
+    },
+    {
+      "type": "instruction",
+      "text": "fraternity에 들어가기 위해서 학생은 정식 신청하고 기존회원들의 승인을 받아야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "받아들여지면 그는 신고식을 통하여 놓여(부쳐)지는데 그 동안에 기존 회원들이"
+    },
+    {
+      "type": "instruction",
+      "text": "다양한 장난과 농담으로 그의 착한 성품을 시험할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "전통적으로 fraternities와 sororities는 몇몇 희랍어 글자로 구성되는 이름이 지정된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d209-1.htm",
+  "legacyEncoding": "utf-8"
+}

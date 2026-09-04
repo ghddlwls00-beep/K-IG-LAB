@@ -1,0 +1,132 @@
+{
+  "id": "gh1-047-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-047",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 047-1 ]",
+  "menuLabel": "[ gh1-047-1 ]",
+  "unit": 47,
+  "part": null,
+  "order": 71,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-047-1.mp3",
+      "legacySrc": "sounds/gh1-047-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 047-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 6 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "81",
+          "text": "It is a book, isn't it(혹은 It is a book, is it not?)"
+        },
+        {
+          "n": "82",
+          "text": "These are pens, aren't these(혹은 ---, are these not)?"
+        },
+        {
+          "n": "83",
+          "text": "Those(they) are books, aren't they(혹은 ---, are they not)?"
+        },
+        {
+          "n": "84",
+          "text": "I am in Korea, ain't I?"
+        },
+        {
+          "n": "85",
+          "text": "You are in Korea, aren't you?"
+        },
+        {
+          "n": "86",
+          "text": "He is in Korea, isn't he?"
+        },
+        {
+          "n": "87",
+          "text": "She is in Korea, isn't she?"
+        },
+        {
+          "n": "88",
+          "text": "I am not happy, am I?"
+        },
+        {
+          "n": "89",
+          "text": "You are not happy, are you?"
+        },
+        {
+          "n": "90",
+          "text": "He is not happy, is he?"
+        },
+        {
+          "n": "91",
+          "text": "She is not happy, is she?"
+        },
+        {
+          "n": "92",
+          "text": "I am not in Korea, am I?"
+        },
+        {
+          "n": "93",
+          "text": "You are not in Korea, are you?"
+        },
+        {
+          "n": "94",
+          "text": "He is not in Korea, is he?"
+        },
+        {
+          "n": "95",
+          "text": "She is not in Korea, is she?"
+        },
+        {
+          "n": "96",
+          "text": "I am not a boy, am I?"
+        },
+        {
+          "n": "97",
+          "text": "You are not a girl, are you?"
+        },
+        {
+          "n": "98",
+          "text": "He is not a boy, is he?"
+        },
+        {
+          "n": "99",
+          "text": "She is not a girl, is she?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-047-1.htm",
+  "legacyEncoding": "utf-8"
+}

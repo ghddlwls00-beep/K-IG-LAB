@@ -1,0 +1,79 @@
+{
+  "id": "p054-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p054",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 054-1 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 4,
+  "order": 63,
+  "audio": [
+    {
+      "src": "/audio/middle/p054.mp3",
+      "legacySrc": "sounds/p054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 054-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(저의 반 소개)"
+    },
+    {
+      "type": "instruction",
+      "text": "9시 수업이 시작할 때, 우리 선생님께서는"
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 그의 책상에 올려놓은 숙제와 일기를 검사하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 숙제를 하지 않았을 때 나는"
+    },
+    {
+      "type": "instruction",
+      "text": "매우 초조해지고 안절부절 못하는 것처럼 느낍니다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 나의 선생님이 말씀할 것이 두려워서"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 손을 저의 책상아래에 숨깁니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 다른 학생들처럼 제가 가장 좋아하는 과목은 체육 이고"
+    },
+    {
+      "type": "instruction",
+      "text": "제가 가장 싫어하는 수업은 역사입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p054-1.htm",
+  "legacyEncoding": "utf-8"
+}

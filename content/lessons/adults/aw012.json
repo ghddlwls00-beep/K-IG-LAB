@@ -1,0 +1,71 @@
+{
+  "id": "aw012",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 012 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 2,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/adults/aw012.mp3",
+      "legacySrc": "sounds/aw012.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 012 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Personal and Educational Background"
+    },
+    {
+      "type": "instruction",
+      "text": "I was born in 부산, but now I live in 서울."
+    },
+    {
+      "type": "instruction",
+      "text": "I live at the 한국 Apartments with my husband and 2 children."
+    },
+    {
+      "type": "instruction",
+      "text": "I graduated from 한국 Women’s High School in 1990 in 서울."
+    },
+    {
+      "type": "hints",
+      "text": "When I was in high school, I enjoyed studying English every day."
+    },
+    {
+      "type": "instruction",
+      "text": "I studied (English) at 한국 University."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m 39 years old."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw012.htm",
+  "legacyEncoding": "utf-8"
+}

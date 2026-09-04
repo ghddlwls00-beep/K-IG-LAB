@@ -1,0 +1,47 @@
+{
+  "id": "pr184-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr184",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 184-1 ]",
+  "menuLabel": "[ pr184-1 ]",
+  "unit": 184,
+  "part": null,
+  "order": 367,
+  "audio": [
+    {
+      "src": "/audio/reading/pr184.mp3",
+      "legacySrc": "sounds/pr184.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 184-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한 경영학 교수가 한국과 미국의 고용 패턴을 연구했다. 그녀는 자신의 책 속에 몇 가지 중요한 차이점들을 기술했다. 그 것들 중에서, 그녀는 어떤 사람이 한 가지 직업에 종사하는 해의 수에 특별한 관심을 기울였다. 젊었을 때, 그들은 한 회사를 위해 일하러 가서 그 회사에서 머문다. 한국인들은 평생동안 한 직업을 갖는 경향이 있다. 미국에서는 사람들이 한 회사에서 다른 회사로 이동을 한다. 그들은 직업(회사)을 매우 자주 바꾼다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr184-1.htm",
+  "legacyEncoding": "utf-8"
+}

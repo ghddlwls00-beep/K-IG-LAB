@@ -1,0 +1,79 @@
+{
+  "id": "p124-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p124",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 124-1 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 4,
+  "order": 133,
+  "audio": [
+    {
+      "src": "/audio/middle/p124.mp3",
+      "legacySrc": "sounds/p124.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 124-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 꿈의 방학)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 친구들 중 많은 아이들이"
+    },
+    {
+      "type": "instruction",
+      "text": "방학 때 외국으로 나가 본적이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 꿈꾸는 방학은 영어를 사용하는 국가로 해외여행 하는 것입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 3년간 사설학원선생님으로부터 영어를 공부해 왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 캐나다인이고 우리에게 캐나다에 관해 많이이야기를"
+    },
+    {
+      "type": "instruction",
+      "text": "해 주셨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 내가 배운 영어의 모든 것을 사용하기 위해"
+    },
+    {
+      "type": "instruction",
+      "text": "미래에 언젠가거기에 가고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p124-1.htm",
+  "legacyEncoding": "utf-8"
+}

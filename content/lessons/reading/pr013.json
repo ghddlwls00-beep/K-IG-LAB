@@ -1,0 +1,51 @@
+{
+  "id": "pr013",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 013 ]",
+  "menuLabel": "[ pr013 ]",
+  "unit": 13,
+  "part": null,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/reading/pr013.mp3",
+      "legacySrc": "sounds/pr013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 013 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "PersonASince people generally like what they are good at, I propose that our children focus on areas in which they excel. To this end, we should test our children’s aptitudes in various subject areas during their last year of elementary school. For example, if a child scores well in science, he or she would then attend middle and high schools which specialize in science. Such a system would prepare students for employment after high school as well as further specialized study at university. There is plenty of time in life for people to follow other interests. School should be a time for students to develop their strengths because today’s world requires specialists, not generalists."
+    },
+    {
+      "type": "hints",
+      "text": "PersonBI think it is rather unfair to decide our children’s career paths based on the results of an aptitude test taken when they are 11 or 12 years old. Areas which children are considered good at in sixth grade may not be the same ones in which they excel by the end of their senior year. Secondary school should be a time for expanding horizons―not limiting them. The only thing students should be required to do is to study a broad range of subjects throughout middle and high school. By the end of high school they would have a much better idea of what they would like to study at university. The time for specialized study is in university and graduate school, not earlier ."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr013.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr173",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 173 ]",
+  "menuLabel": "[ pr173 ]",
+  "unit": 173,
+  "part": null,
+  "order": 344,
+  "audio": [
+    {
+      "src": "/audio/reading/pr173.mp3",
+      "legacySrc": "sounds/pr173.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 173 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Different groups develop ideas in different ways. In successful groups, individuals are encouraged to produce imaginative and original ideas and share them with others. In unsuccessful groups, individual members are not encouraged to do so. Instead, they are always asked to do groupthinking. In the beginning, there are no differences in the abilities and qualities among the members of these two kinds of groups. However, in the end, the groups which encourage individual members to think creatively will prosper, whereas those which do not will fail. Therefore, group leaders must learn this lesson and put it into practice in order to achieve productive and positive results."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr173.htm",
+  "legacyEncoding": "utf-8"
+}

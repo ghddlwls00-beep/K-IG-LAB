@@ -1,0 +1,263 @@
+{
+  "id": "s1-6",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s1-6",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 6,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/student/s1-6-1.mp3",
+      "legacySrc": "s1-6.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-2.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-3.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-4.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-5.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-6.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-7.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-8.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-9.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-10.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-11.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-12.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-13.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s1-6-14.mp3",
+      "legacySrc": "s1-6.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I like to volunteer at the orphanage and help the children there.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volunteering at the orphanage is an exciting time for me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I help others, it makes me happy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like to help other people, individually.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른 사람들을 개인적으로 돕기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제가 다른 사람들을 도울 때 그것은 저를 행복하게 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 고아원에 자원하기를 좋아하고 거기서 아이들을 도와줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고아원에 자원하는 것은 저에게 신나는 시간입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른사람돕기를 좋아합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 다른사람돕기를 좋아합니다I like to help other people,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 개인적으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 개인적으로individually.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 다른사람들을 도울 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 다른사람들을 도울 때When I help others,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 나를 행복하게 만듭니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것은 나를 행복하게 만듭니다. it makes me happy.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 자원봉사하기를 좋아합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 자원봉사하기를 좋아합니다.I like to volunteer",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 고아원에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 고아원에서at the orphanage",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그곳의 아이들을 돕기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그곳의 아이들을 돕기를 and help the children there.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고아원에서 봉사하기는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고아원에서 봉사하기는Volunteering at the orphanage",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게는 신나는 시간입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게는 신나는 시간입니다. is an exciting time for me.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Helping hand",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s1-6.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s1-6.swf"
+  ]
+}

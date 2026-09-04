@@ -1,0 +1,95 @@
+{
+  "id": "d137-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d137",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 137 회 ]",
+  "menuLabel": "[ D 137-1 ]",
+  "unit": 137,
+  "part": null,
+  "order": 273,
+  "audio": [
+    {
+      "src": "/audio/ld/d137.mp3",
+      "legacySrc": "sounds/d137.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 137 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내와 나는 가끔 좋은 식당으로 식사하러 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내의 어머니가 우리와 함께 사셔서 그녀가 아이들과 함께 집에 머무신다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 우리가 저녁에 외출하는 것을 매우 쉽게 해준다."
+    },
+    {
+      "type": "instruction",
+      "text": "지난 주에 우리는 한 새로운 호텔의 식당으로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 멋진 식사를 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 우리는 수프와 샐러드를 먹었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 나의 아내 헬렌은 콩과 당근과 함께 lamb chop을 먹었고 나는 감자 으깬 것과 충분한 육즙(gravy)과 함께 중간보다 약간 덜 익힌 스테이크를 먹었다."
+    },
+    {
+      "type": "instruction",
+      "text": "디저트로 나는 약간의 아이스크림을 먹었고 헬렌은 신선한 과일을 먹었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 식사를 끝낸 후에 몇 컵의 커피를 마셨다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 음식은 맛있었고 양도 후했고 그것은 너무 비싸지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 자녀들은 식당에서 식사하는 것을 좋아하지 않는데 오랫동안 앉아서 조용히 해야 하기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그들의 할머니의 농장으로 가는 것을 오히려 좋아한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d137-1.htm",
+  "legacyEncoding": "utf-8"
+}

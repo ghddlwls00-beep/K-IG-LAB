@@ -1,0 +1,47 @@
+{
+  "id": "pr052-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr052",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 052-1 ]",
+  "menuLabel": "[ pr052-1 ]",
+  "unit": 52,
+  "part": null,
+  "order": 103,
+  "audio": [
+    {
+      "src": "/audio/reading/pr052.mp3",
+      "legacySrc": "sounds/pr052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 052-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 부모들은 자녀를 도덕성을 잘 갖춘 아이로 양육하기를 바란다. 우리들은 자녀들이 선과 악, 그리고 옮은 것과 잘못된 것을 구별하기를 바란다. 우리들은 자녀들이 도덕적이고 윤리적으로 행동하는 방식을 배워서 정직하고 사려 깊은 사람으로 성장하기를 희망한다. 간단히 말해, 우리들은 자녀들이 양심, 즉 그들이 올바른 길을 걷게 할 확고한 내적인 목소리를 계발하기를 바란다. 그러나 양심은 저절로 계발되는 것이 아니어서, 양심을 축적시키는 일은 우리들의 몫이 된다. 그 일은 부모들이 매일 그리고 매년 염두에 두고 노력할 필요가 있는 과정이다. 우리들은 끊임없이 옳은 것과 잘못된 것을 구별하고 적절한 행동을 본보기로 제시할 필요가 있다. 그러면 결국 우리 자녀들은 우리들이 의도하는 뜻을 완전히 받아들이게 될 것이고, 그러한 뜻은 그들의 성격의 바탕이 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr052-1.htm",
+  "legacyEncoding": "utf-8"
+}

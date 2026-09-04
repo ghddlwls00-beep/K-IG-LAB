@@ -1,0 +1,428 @@
+{
+  "id": "s11-4",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s11-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 4,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/student/s11-4-1.mp3",
+      "legacySrc": "s11-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-2.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-3.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-4.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-5.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-6.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-7.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-8.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-9.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-10.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-11.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-12.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-13.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-14.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-15.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-16.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-17.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-18.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-19.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-20.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-21.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-22.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-23.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-24.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s11-4-25.mp3",
+      "legacySrc": "s11-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I like visiting my relatives on Sunday afternoons.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s nice to see how they are doing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also like to visit the house of my father’s friend because his children are the same age and we always have great fun spending our time together.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "We sometimes visit our relatives or they come to our house.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our family often visits the house of my father’s friend.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 아이들이 동갑이고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의 아이들이 동갑이고his children are the same age",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 가족은 종종 나의 아버지의 친구 집을 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 때때로 우리의 친척들을 방문하거나 그들이 우리의 집에 옵니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 일요일 오후에 나의 친척들을 방문하는 것을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들이 어떻게 지내고 있는지 보는 것은 좋습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 나의 아빠의 친구를 방문하는 것을 좋아하는데 왜냐하면 그의 아이들이 동갑이고 우리는 항상 우리의 시간을 함께 보내면서 아주 재미있게 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 가족은 종종 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 가족은 종종 방문합니다.Our family often visits",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 아버지의 친구 집을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 아버지의 친구 집을 the house of my father's friend.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 때때로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 때때로We sometimes",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 친척들을 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 친척들을 방문합니다. visit our relatives",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또는 그들이 옵니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/또는 그들이 옵니다. or they come",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 집에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 집에to our house.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 방문하기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 방문하기를 좋아합니다.I like visiting",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 친척들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 친척들을 my relatives",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일요일 오후에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 일요일 오후에on Sunday afternoons.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보는 것이 좋습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보는 것이 좋습니다.It's nice to see",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들이 어떻게 지내는 가를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들이 어떻게 지내는 가를 how they are doing.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 방문하기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 방문하기를 좋아합니다.I also like to visit",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 아버지의 친구의 집을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/내 아버지의 친구의 집을 the house of my father's friend",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/왜냐하면 because",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 우리는 항상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 우리는 항상 and we always",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/즐거움을 가집니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/즐거움을 가집니다. have great fun",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 시간을 보내면서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 시간을 보내면서spending our time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/함께 together.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Weekends? :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sunday Afternoon",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s11-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s11-4.swf"
+  ]
+}

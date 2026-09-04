@@ -1,0 +1,208 @@
+{
+  "id": "gh1-111",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 111]",
+  "menuLabel": "[ gh1-111 ]",
+  "unit": 111,
+  "part": null,
+  "order": 157,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-111.mp3",
+      "legacySrc": "sounds/gh1-111.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 111]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "71",
+          "text": "What happened to the criminal?"
+        },
+        {
+          "n": "72",
+          "text": "Why do they want his family's help?"
+        },
+        {
+          "n": "73",
+          "text": "Now here are the rest of today's top stories."
+        },
+        {
+          "n": "74",
+          "text": "The volcano created a disaster thousands of miles away, didn't it?"
+        },
+        {
+          "n": "75",
+          "text": "We'll go there sometime next week, won't we?"
+        },
+        {
+          "n": "76",
+          "text": "When will(shall) we have a live report?"
+        },
+        {
+          "n": "77",
+          "text": "In fact many of them are from Los Angeles, aren't they?"
+        },
+        {
+          "n": "78",
+          "text": "It is high noon in Los Angeles, isn't it?"
+        },
+        {
+          "n": "79",
+          "text": "Welcome back to Korea."
+        },
+        {
+          "n": "80",
+          "text": "They are probably up."
+        },
+        {
+          "n": "81",
+          "text": "You had a toothache yesterday, didn't you?"
+        },
+        {
+          "n": "82",
+          "text": "Has it stopped aching now?"
+        },
+        {
+          "n": "83",
+          "text": "The tooth is aching now."
+        },
+        {
+          "n": "84",
+          "text": "What's in them?"
+        },
+        {
+          "n": "85",
+          "text": "They are cooperating with the agency."
+        },
+        {
+          "n": "86",
+          "text": "The Defense Department wouldn't comment any further than that."
+        },
+        {
+          "n": "87",
+          "text": "That could reduce the fear of suspects."
+        },
+        {
+          "n": "88",
+          "text": "They have to(must) deal with the disaster."
+        },
+        {
+          "n": "89",
+          "text": "Which(what) company makes chewing tobacco?"
+        },
+        {
+          "n": "90",
+          "text": "How did the government boost its sale?"
+        },
+        {
+          "n": "91",
+          "text": "The company isn't running the ads, is it?"
+        },
+        {
+          "n": "92",
+          "text": "Oral tobacco carries its own health risks, doesn't it?"
+        },
+        {
+          "n": "93",
+          "text": "My husband is winning, isn't he?"
+        },
+        {
+          "n": "94",
+          "text": "Look at that!"
+        },
+        {
+          "n": "95",
+          "text": "I totally won the bet."
+        },
+        {
+          "n": "96",
+          "text": "Olympia is taking the Pepsi challenge."
+        },
+        {
+          "n": "97",
+          "text": "Why is the fast food chain switching its soft drink?"
+        },
+        {
+          "n": "98",
+          "text": "Who offered a better deal?"
+        },
+        {
+          "n": "99",
+          "text": "All 1900 Olympia outlets will be serving it within 60 days, won't they?"
+        },
+        {
+          "n": "100",
+          "text": "Coca Cola also is based in Atlanta, isn't it?"
+        },
+        {
+          "n": "101",
+          "text": "Didn't it try to get a temporary restraining order?"
+        },
+        {
+          "n": "102",
+          "text": "Why is the judge refusing to stop the switch?"
+        },
+        {
+          "n": "103",
+          "text": "It will seek arbitration, won't it?"
+        },
+        {
+          "n": "104",
+          "text": "How long will it take?"
+        },
+        {
+          "n": "105",
+          "text": "When am I going to(shall I, will I) meet your friends and your brothers?"
+        },
+        {
+          "n": "106",
+          "text": "You can't attend the party because you have a previous engagement, can you?"
+        },
+        {
+          "n": "107",
+          "text": "Did you get(reach) there on time?"
+        },
+        {
+          "n": "108",
+          "text": "Didn't you drop your handkerchief?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-111.htm",
+  "legacyEncoding": "utf-8"
+}

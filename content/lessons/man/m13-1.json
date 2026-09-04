@@ -1,0 +1,133 @@
+{
+  "id": "m13-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m13-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 1,
+  "order": 57,
+  "audio": [
+    {
+      "src": "/audio/man/m13-1-1.mp3",
+      "legacySrc": "m13-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-1-2.mp3",
+      "legacySrc": "m13-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-1-3.mp3",
+      "legacySrc": "m13-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-1-4.mp3",
+      "legacySrc": "m13-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-1-5.mp3",
+      "legacySrc": "m13-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-1-6.mp3",
+      "legacySrc": "m13-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1970대와 1980년대 동안, 한국인들은 독재 아래에 생활했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the 1970s and 1980s, Koreans were living under a dictatorship.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "민주주의를 믿는 많은 사람들은 한국의 독재자들의 손에 고통 받았다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many people who believed in democracy suffered at the hands of Korea’s dictators.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "권위주의 체제의 시간이 지나간 후에, 많은 시민들이 한국이 민주주의가 되도록 노력했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After this time of authoritarian rule had passed, many citizens strove to ensure that Korea became a democracy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "다행히도, 1980년대 후반에 하계 올림픽이 서울에서 개최되었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fortunately, in the late 1980’s, the Summer Olympics were held in Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 훌륭한 국제적 행사는 한국이 더욱 더 민주주의 사회가 되는 것을 도왔다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This great international event helped Korea to move towards becoming a more democratic society.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "13 Politics in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean Politics during the Seventies and Eighties",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m13-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m13-1.swf"
+  ]
+}

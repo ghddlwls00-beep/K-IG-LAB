@@ -1,0 +1,67 @@
+{
+  "id": "am123",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 123 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 121,
+  "audio": [
+    {
+      "src": "/audio/adults/am123.mp3",
+      "legacySrc": "sounds/am123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 123 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Family Life"
+    },
+    {
+      "type": "hints",
+      "text": "After I finish work, I try to spend as much time as possible with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, I am very busy after work, and this cuts into my time at home with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "I try to help my wife around the house as much as possible."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife is more involved with our children’s education, but I try to be involved by showing concern."
+    },
+    {
+      "type": "instruction",
+      "text": "I try to be supportive of her and take an interest in what she does."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am123.htm",
+  "legacyEncoding": "utf-8"
+}

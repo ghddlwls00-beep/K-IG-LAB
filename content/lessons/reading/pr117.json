@@ -1,0 +1,47 @@
+{
+  "id": "pr117",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 117 ]",
+  "menuLabel": "[ pr117 ]",
+  "unit": 117,
+  "part": null,
+  "order": 232,
+  "audio": [
+    {
+      "src": "/audio/reading/pr117.mp3",
+      "legacySrc": "sounds/pr117.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 117 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "If you want to make a bookcase yourself, follow these simple steps. Make a plan for a bookcase that suits your own library. Then, choose wood materials for the bookcase from a wood materials store. When you have bought the wood, carefully cut it according to your design. The next step is to put the different parts together with glue and nails. After that, add the finishing touch by painting the woodwork. Now you have a fine piece of furniture."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr117.htm",
+  "legacyEncoding": "utf-8"
+}

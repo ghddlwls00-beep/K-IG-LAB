@@ -1,0 +1,83 @@
+{
+  "id": "p222",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 222]",
+  "menuLabel": null,
+  "unit": 22,
+  "part": 2,
+  "order": 213,
+  "audio": [
+    {
+      "src": "/audio/middle/p222.mp3",
+      "legacySrc": "sounds/p222.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 222]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My School Teacher)"
+    },
+    {
+      "type": "hints",
+      "text": "My teacher’s name is Ms. Kang."
+    },
+    {
+      "type": "instruction",
+      "text": "She loves children and makes learning fun."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes she tells us great stories."
+    },
+    {
+      "type": "instruction",
+      "text": "She is a good teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "She has a habit biting her nails, when she teaches."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes she bites herself too hard and shouts out in pain."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher is helping me realize my dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher also always tells us"
+    },
+    {
+      "type": "instruction",
+      "text": "to set goals in order to reach our dreams."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p222.htm",
+  "legacyEncoding": "utf-8"
+}

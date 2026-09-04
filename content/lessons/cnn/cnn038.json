@@ -1,0 +1,96 @@
+{
+  "id": "cnn038",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Paramount* to Buy DreamWorks* for $1.6 Billion",
+  "label": "Paramount* to Buy DreamWorks* for $1.6 Billion",
+  "menuLabel": "[ CNN 38 ]",
+  "unit": 38,
+  "part": null,
+  "order": 37,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn038.mp4",
+      "legacySrc": "CNN/CNN1-60/38.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Paramount* to Buy DreamWorks* for $1.6 Billion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The dream is over for three Hollywood moguls. Paramount Pictures is buying DreamWorks for $1.6 billion. It is hoped the deal will accelerate Paramount’s turnaround after years of decline. But it ends the dream of Steven Spielberg, Jeffrey Katzenberg and David Geffen to build an independent film and TV empire. As well as film production, the deal gives Paramount the global distribution rights for DreamWorks Animation, the maker of films such as Shrek.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "파라마운트 사, 드림웍스 16억 달러에 사들여",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세 명의 할리우드 황제들의 꿈이 좌절되었습니다. 파라마운트 픽쳐스 사는 드림웍스 (SKG 사)를 16억 달러에 사들일 예정입니다. 이번 거래는 몇 년간 지속되어온 파라마운트 사의 하락세를 성장세로 전환시키는 견인차 역할을 해줄 것으로 기대되고 있습니다. 하지만 이로써 독자적인 영화와 TV 왕국을 건설하고자 했던 스티븐 스필버그와 제프리 카젠버그, 데이비드 게펜의 꿈은 끝이 났습니다. 이번 거래로 파라마운트 사는 영화 제작사 (인 드림웍스 SKG)를 비롯하여 <슈렉>과 같은 영화를 만든 제작사인 드림웍스 애니메이션의 해외 배급권까지 보유하게 되었습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* Paramount (Pictures)",
+          "text": "파라마운트 (픽쳐스): 1914년 영화 배급사로 시작한 미국의 영화제작사"
+        },
+        {
+          "n": "* DreamWorks",
+          "text": "드림웍스: 스티븐 스필버그와 제프리 카젠버그, 데이비드 게펜이 1994년 공동 설립한 회사로 지난 2004년 드림웍스 SKG(실사영화제작자)와 드림웍스 애니메이션SKG(애니메이션 제작사)로 분리된 바 있다."
+        },
+        {
+          "n": "mogul",
+          "text": "((구어)) 중요인물, 거물"
+        },
+        {
+          "n": "accelerate",
+          "text": "…을 촉진하다, 빠르게 하다, 앞당기다"
+        },
+        {
+          "n": "turnaround",
+          "text": "(기업 실적 따위의) 전환, 결손으로부터의 흑자 전환"
+        },
+        {
+          "n": "decline",
+          "text": "(가격) 하락; (혈압 등의) 저하"
+        },
+        {
+          "n": "Steven Spielberg",
+          "text": "스티븐 스필버그: 1974년 영화 <슈가랜드 특급>으로 데뷔하여 수많은 흥행작을 낳은 미국의 영화감독"
+        },
+        {
+          "n": "Jeffrey Katzenberg",
+          "text": "제프리 카젠버그: <슈렉>, <월레스와 그로밋>을 비롯한 애니메이션 영화 제작자"
+        },
+        {
+          "n": "David Geffen",
+          "text": "데이비드 게펜: <뱀파이어와의 인터뷰>를 제작하고, TV 만화시리즈 <비틀쥬스>를 기획한 미국의 영화 제작자"
+        },
+        {
+          "n": "empire",
+          "text": "(재벌 그룹 등을 가리켜) …왕국"
+        },
+        {
+          "n": "film production",
+          "text": "영화 제작소: 여기서는 이번 협상 대상이 된 드림웍스 SKG를 의미한다."
+        },
+        {
+          "n": "distribution rights",
+          "text": "배급권"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/38.wmv",
+  "legacyEncoding": "binary"
+}

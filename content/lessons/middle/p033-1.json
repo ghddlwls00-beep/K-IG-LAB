@@ -1,0 +1,87 @@
+{
+  "id": "p033-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p033",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 033-1 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 3,
+  "order": 37,
+  "audio": [
+    {
+      "src": "/audio/middle/p033.mp3",
+      "legacySrc": "sounds/p033.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 033-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(내 친구의 재능)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 친구는 많은 재능이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 훌륭한 피아노 연주가 이고 아주 강한 운동선수 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 그는 피아노, 축구, 컴퓨터 게임 하기를 잘하고"
+    },
+    {
+      "type": "instruction",
+      "text": "영어 말하기를 잘합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 예술에도 또한 아주 재능이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 그림은 매우 밝고 다채롭습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 나는 그로부터 배울 것이 많습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나의 친구이고 나는 그를 자랑스럽게 생각합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 항상 나의 문제들을 이해해 주고"
+    },
+    {
+      "type": "instruction",
+      "text": "내가 도움을 필요로 할 때 그는 항상 거기에 있습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p033-1.htm",
+  "legacyEncoding": "utf-8"
+}

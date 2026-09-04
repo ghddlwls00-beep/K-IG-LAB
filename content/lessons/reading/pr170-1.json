@@ -1,0 +1,47 @@
+{
+  "id": "pr170-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr170",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 170-1 ]",
+  "menuLabel": "[ pr170-1 ]",
+  "unit": 170,
+  "part": null,
+  "order": 339,
+  "audio": [
+    {
+      "src": "/audio/reading/pr170.mp3",
+      "legacySrc": "sounds/pr170.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 170-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "서양인들은 높은 수준의 위엄과 세련됨을 보여주기 위해 먹을 때 식사 도구를 사용한다. 중국인들도 젓가락을 사용하여 정결함을 보여준다. 그러나 사우디아라비아 인들은 손으로 식사한다. ‘왜 다른 사람들이 사용하던 식사도구나 젓가락을 더럽게 먹을 때 사용할 까 ? 그것들은 우리 손보다 깨끗하지도 못한데’ ‘ 손을 사용하면 깨끗한지 안한지를 알 수 있고(자기 손이니까) 다른 사람이 자기 손을 사용해서 식사할 일도 없는 데’ 라고 사우디아라비아인들은 다른 나라 사람들을 이상히 여긴다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr170-1.htm",
+  "legacyEncoding": "utf-8"
+}

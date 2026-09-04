@@ -1,0 +1,47 @@
+{
+  "id": "pr130-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr130",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 130-1 ]",
+  "menuLabel": "[ pr130-1 ]",
+  "unit": 130,
+  "part": null,
+  "order": 259,
+  "audio": [
+    {
+      "src": "/audio/reading/pr130.mp3",
+      "legacySrc": "sounds/pr130.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 130-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "일은 무엇보다도 지루함의 예방책으로써 바람직하다, 왜냐하면 사람이 흥미없는 일을 하고 있을 때 그 사람이 느끼는 지루함은 자신의 하루와 아무 관련이 없을 때 그가 느끼는 지루함에 비교하여 아무것도 아닌 것으로 간주되기 때문이다. 또 다른 장점이 이러한 장점에 연결된다. 즉 일은 휴일이 올 때 휴일을 더욱 달콤하게 만든다. 만약에 한 사람이 자신의 정력을 손상시킬 만큼 열심히 일해야만 하지 않는다면 그는 게으른 사람이 찾을 수 있는 여가 시간에 더욱 큰 열정을 찾을 것 같다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr130-1.htm",
+  "legacyEncoding": "utf-8"
+}

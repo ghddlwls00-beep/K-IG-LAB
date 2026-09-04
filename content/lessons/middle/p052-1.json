@@ -1,0 +1,87 @@
+{
+  "id": "p052-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p052",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 052-1 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 59,
+  "audio": [
+    {
+      "src": "/audio/middle/p052.mp3",
+      "legacySrc": "sounds/p052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 052-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(학교가는길)"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 학교는 나의 집 가까이에 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 걸어가는 것은 보통 약 15분 걸립니다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 봄과 가을에 나는 나의 자전거를 타고 학교에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 걸어서 가는 것 보다 자전거를 타고 가는 것이"
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 좀 더 빨리 도착할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "자전거를 타면10분 안에 도착합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 가는 길에 저는 문구점에 들러서"
+    },
+    {
+      "type": "instruction",
+      "text": "수업에 필요한 준비물을 사러 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 학교에 걸어갈 때 나는 자주 나의 친구들을 만납니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 우리는 함께 학교에 걸어갑니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p052-1.htm",
+  "legacyEncoding": "utf-8"
+}

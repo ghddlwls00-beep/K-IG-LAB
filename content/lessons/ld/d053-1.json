@@ -1,0 +1,79 @@
+{
+  "id": "d053-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d053",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 053회 ]",
+  "menuLabel": "[ D 053-1 ]",
+  "unit": 53,
+  "part": null,
+  "order": 105,
+  "audio": [
+    {
+      "src": "/audio/ld/d053.mp3",
+      "legacySrc": "sounds/d053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 053회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "취미의 나쁜 점은 그것들이 너무 쉽게 걷잡을 수 없게 될 수 있다는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "쉬카고의 어떤 남자의 취미를 예를 들어보자. 그는 어린애였을 때 모델 열차를 모으기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "조금씩 그는 그의 수집에 더 첨가했고 지금 그는 열차들이 그의 집 온 사방에 달리게 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "가끔 한번씩 그의 아내는 그의 열차들이 성가신 것이라고 불평한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 대부분의 시간 그녀는 참을성이 있고 이해한다. 그녀의 남편의 수집은 만불 가까운 가치가 있 다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 어떤 취미의 진정한 가치는 돈으로 측정될 수 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 값싼 성냥곽의 수집도 그것의 주인에게는 중요한 가치가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "취미의 가치는 그것이 주는 즐거움과 기쁨에 의하여 오히려 측정되어야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d053-1.htm",
+  "legacyEncoding": "utf-8"
+}

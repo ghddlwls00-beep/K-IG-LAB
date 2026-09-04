@@ -1,0 +1,65 @@
+{
+  "id": "po194",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 194 〕",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 4,
+  "order": 443,
+  "audio": [
+    {
+      "src": "/audio/basics/po194.mp3",
+      "legacySrc": "sounds/po194.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 194 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "248",
+          "text": "In 1420, the King Sejong asked scholars to invent a unique,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Korean alphabet."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "249",
+          "text": "I'm proud of my country and my culture."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po194.htm",
+  "legacyEncoding": "utf-8"
+}

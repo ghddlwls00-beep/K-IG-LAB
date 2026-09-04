@@ -1,0 +1,63 @@
+{
+  "id": "am133",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 133 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 3,
+  "order": 130,
+  "audio": [
+    {
+      "src": "/audio/adults/am133.mp3",
+      "legacySrc": "sounds/am133.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 133 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Political Problems of Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Many Korean politicians are corrupt and accept bribes."
+    },
+    {
+      "type": "instruction",
+      "text": "The two main parties of Korea, the Democrats and the Republicans, fight a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "These problems are not only the politician’s responsibility, but the people’s as well."
+    },
+    {
+      "type": "instruction",
+      "text": "We must learn to work together to make Korea the best country it can be."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am133.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "p181-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p181",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 181-1 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 1,
+  "order": 179,
+  "audio": [
+    {
+      "src": "/audio/middle/p181.mp3",
+      "legacySrc": "sounds/p181.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 181-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국 공휴일들 소개)"
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라는 많은 국경일들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "공휴일들은 가족들이 함께 모일 수 있고기념할 수 있는"
+    },
+    {
+      "type": "instruction",
+      "text": "특별한 시간입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 음력설날, 독립기념일, 식목일, 그리고 석가탄신일"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 더 많은 휴일들을 기념합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 한국에서 가장 큰 전통 공휴일 두 가지에 대해"
+    },
+    {
+      "type": "instruction",
+      "text": "이야기 하고 싶습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p181-1.htm",
+  "legacyEncoding": "utf-8"
+}

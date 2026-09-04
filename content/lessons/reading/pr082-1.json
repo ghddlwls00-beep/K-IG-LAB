@@ -1,0 +1,47 @@
+{
+  "id": "pr082-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr082",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 082-1 ]",
+  "menuLabel": "[ pr082-1 ]",
+  "unit": 82,
+  "part": null,
+  "order": 163,
+  "audio": [
+    {
+      "src": "/audio/reading/pr082.mp3",
+      "legacySrc": "sounds/pr082.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 082-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "이 십대 소녀가 무엇을 경험할 것인지를 정확히 보고 느낄 수 있을 것이다. 십대 시기에 가끔 뭔가에 대해서 매우 좌절감을 느끼고 혼란스러워 했었던 걸 난 기억할 수 있다. 난 또한 나의 감정이 한 쪽의 극단에서 다를 극단으로 흔들렸던 것도 기억할 수 있다. 그래서, 예를 들면, 난 어떤 것, 대게는 어리석은 것에 믿을 수 없을 정도로 미친 듯이 빠져들고 했었다. 그런 다음엔 그렇게 화를 냈던 것에 대해 자신에게 미친 듯 화를 내기도 했었고, 그런 다음에 다시 나를 화나게 만들었던 것에 다시 미친 듯 좋아하기도 했다. 난 이러한 감정들에 대해 오나전히 통제력을 갖고 있지 않은 것 같았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr082-1.htm",
+  "legacyEncoding": "utf-8"
+}

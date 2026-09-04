@@ -1,0 +1,47 @@
+{
+  "id": "pr115",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 115 ]",
+  "menuLabel": "[ pr115 ]",
+  "unit": 115,
+  "part": null,
+  "order": 228,
+  "audio": [
+    {
+      "src": "/audio/reading/pr115.mp3",
+      "legacySrc": "sounds/pr115.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 115 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The most satisfying and expressive drawing is done with the active engagement of the entire body. Your hand is connected to your whole arm, the arm to the torso, supported by your feet on the floor. To awaken the active engagement of your whole body in drawing, try the following: Begin by drawing small circles in space with each of your fingers. Then move your hands in circles around the wrist. Next, make bigger circles with your forearms. And finally, make giant swinging arm circles. Now you see how your entire body can be used in the activity of drawing. *torso: 몸통"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr115.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,150 @@
+{
+  "id": "cnn048",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Freezing Weather Worsens Georgia Energy Crisis",
+  "label": "Freezing Weather Worsens Georgia Energy Crisis",
+  "menuLabel": "[ CNN 48 ]",
+  "unit": 48,
+  "part": null,
+  "order": 47,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn048.mp4",
+      "legacySrc": "CNN/CNN1-60/48.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Freezing Weather Worsens Georgia Energy Crisis"
+    },
+    {
+      "type": "paragraph",
+      "text": "The energy situation in the Republic of Georgia is so severe. The national power grid went dark Thursday when high winds knocked down a key line. Just days ago, a major pipeline from Russia exploded, shutting down the natural gas supply for Georgia. Although Moscow denies it, Saakashvili believes Russia planned the blast. Long lines formed in the capital of Tbilisi for firewood and kerosene, the only materials available to help keep people warm as, of course, there’s this cold spell throughout much of Europe.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그루지야, 한파로 에너지난 가중",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그루지야 공화국이 심각한 에너지난에 직면했습니다. 목요일 전국적으로 전력 공급이 중단되었는데, 이는 강풍으로 주요 송전선이 쓰러지면서 일어났습니다. 바로 며칠 전, 러시아로부터 연결되는 주 가스관이 폭발해, 그루지아에 천연 가스 공급이 중단됐습니다. 러시아 정부는 부인하고 있지만, 사카쉬빌리 대통령은 러시아가 계획적으로 폭발사고를 일으켰다고 믿고 있습니다. 수도 트빌리시에는 장작과 등유를 구하기 위해 긴 행렬이 이어지고 있는데, 이것은 사람들이 유일하게 구할 수 있는 난방 연료입니다. 물론 유럽 대부분의 지역에 이 같은 한파가 몰아 닥쳤습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "wind는 동사일 경우는 [윈ㄷ], [와인ㄷ]로 발음되고, 명사일 경우는 [윈ㄷ]로 발음된다. 여기서는 명사로 [윈ㄷ]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "s가 중복되어 한번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 planned the blast에서도 -ed와 th-의 조음 위치가 비슷해 한번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "denies와 it은 ‘자음+모음’으로 한 단어처럼 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. grid/ 배전망",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. spell/ 한동안의 계속, 한차례",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "high winds knocked",
+          "text": "[하이윈ㅈ낙]."
+        },
+        {
+          "n": "gas supply",
+          "text": "[게써플라이]."
+        },
+        {
+          "n": "Moscow denies it",
+          "text": "[마스코우 디나이짓]."
+        },
+        {
+          "n": "freezing",
+          "text": "몹시 추운, 얼어붙을듯한"
+        },
+        {
+          "n": "worsen",
+          "text": "악화시키다, 보다 나쁘게 하다"
+        },
+        {
+          "n": "Georgia",
+          "text": "그루지야: 흑해 동남쪽 카프카스 산맥 기슭에 위치한 국가로 정식 명칭은 그루지야 공화국 (Republic of Georgia)"
+        },
+        {
+          "n": "severe",
+          "text": "혹독한, 엄한"
+        },
+        {
+          "n": "power grid",
+          "text": "전력망, 송배전선"
+        },
+        {
+          "n": "high wind",
+          "text": "강풍"
+        },
+        {
+          "n": "knock down",
+          "text": "…을 전복시키다, 때려눕히다"
+        },
+        {
+          "n": "explode",
+          "text": "폭발하다, 파열하다"
+        },
+        {
+          "n": "shut down",
+          "text": "중단시키다, 폐쇄하다"
+        },
+        {
+          "n": "natural gas",
+          "text": "천연가스"
+        },
+        {
+          "n": "Saakashvili",
+          "text": "사카쉬빌리: 그루지야 공화국의 현 대통령"
+        },
+        {
+          "n": "blast",
+          "text": "폭발, 폭파"
+        },
+        {
+          "n": "firewood",
+          "text": "장작, 땔나무"
+        },
+        {
+          "n": "kerosene",
+          "text": "등유(燈油)"
+        },
+        {
+          "n": "cold spell",
+          "text": "한차례의 추위[한파]"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/48.wmv",
+  "legacyEncoding": "binary"
+}

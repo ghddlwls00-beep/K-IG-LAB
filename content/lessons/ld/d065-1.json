@@ -1,0 +1,67 @@
+{
+  "id": "d065-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d065",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 065회 ]",
+  "menuLabel": "[ D 065-1 ]",
+  "unit": 65,
+  "part": null,
+  "order": 129,
+  "audio": [
+    {
+      "src": "/audio/ld/d065.mp3",
+      "legacySrc": "sounds/d065.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 065회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "사회적인 관습에 대하여 기억해야 할 중요한 것은 다른 사람들이 불편하게 느끼도록 만들지 모르는 어떤 것도 하지 않는 것이다"
+    },
+    {
+      "type": "instruction",
+      "text": "특히 그들이 당신의 손님이라면 -. 매우 공식적인 만찬을 베푼 한 부유한 귀족에 대한 오래된 이야기가 있 다."
+    },
+    {
+      "type": "instruction",
+      "text": "음식이 나왔을 때 그 손님 중의 한 사람이 나이프로 그의 콩을 먹기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 손님들은 재미있어 하거나 충격을 받았지만 그 귀족은 조용히 자신의 나이프를 집어들고 똑같은 방 식으로 먹기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 손님이 바보같거나 불편하게 느끼도록 만드는 것은 나쁜 매너였을 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d065-1.htm",
+  "legacyEncoding": "utf-8"
+}

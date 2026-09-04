@@ -1,0 +1,59 @@
+{
+  "id": "pr118-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr118",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 118-1 ]",
+  "menuLabel": "[ pr118-1 ]",
+  "unit": 118,
+  "part": null,
+  "order": 235,
+  "audio": [
+    {
+      "src": "/audio/reading/pr118.mp3",
+      "legacySrc": "sounds/pr118.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 118-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(A)"
+    },
+    {
+      "type": "instruction",
+      "text": "잦은 컴퓨터 사용이 우리 건강에 심각한 위험을 초래할 수 있다. 우선, 항상 컴퓨터 화면을 쳐다보는 것이 눈에 해를 끼치는 경향이 있어, 점점 더 많은 사람들이 안경을 착용하고 있다. 몇 시간 컴퓨터 책상에 앉아 있는 건 등에 해를 줄 수도 있다. 게다가, 컴퓨터 앞에서 장시간을 보내야 하기 때문에 충분히 운동을 할 수도 없다"
+    },
+    {
+      "type": "hints",
+      "text": "(B)"
+    },
+    {
+      "type": "instruction",
+      "text": "미래는 컴퓨터 때문에 살기에 외로운 곳이 될 것이다. 더 이상 슈퍼마켓에, 심지어는 학교에도 가지 않게 될 것이다. 상품과 심지어는 교육마져도 통신으로 우리에게 올 것이기 때문이다. 게다가, 우리는 컴퓨터를 이용해 서로 대화하게 될 것이다. 이 모든 것들은, 컴퓨터가 진정한 인간 관계를 위한 모임의 기회를 앗아가기에, 우리를 덜 인간적이게 만들 것이다. ."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr118-1.htm",
+  "legacyEncoding": "utf-8"
+}

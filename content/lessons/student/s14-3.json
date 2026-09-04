@@ -1,0 +1,468 @@
+{
+  "id": "s14-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s14-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 3,
+  "order": 64,
+  "audio": [
+    {
+      "src": "/audio/student/s14-3-1.mp3",
+      "legacySrc": "s14-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-2.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-3.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-4.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-5.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-6.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-7.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-8.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-9.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-10.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-11.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-12.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-13.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-14.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-15.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-16.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-17.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-18.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-19.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-20.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-21.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-22.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-23.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-24.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-25.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-26.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s14-3-27.mp3",
+      "legacySrc": "s14-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "They also tell me that I need to love children and serve others.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I know that one day I will be able to achieve my dream and help many children learn and grow.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I must go to a good university.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to become a teacher, my parents tell me that I need to study hard in all my subjects.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "선생님이 되기 위해서, 나의 부모님께서는 내가 나의 모든 과목에서 공부를 열심히 해야 한다고 말씀하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 좋은 대학에 가야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "So I must go to a good university.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들은 또한 나에게 아이들을 사랑하고 다른 사람들에게 봉사해야 한다고 말씀합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 아이들을 가르치는 것은 재미있고, 보람 있다고 생각합니다. 나는 그들을 가르치기 위해서 많은 인내심을 가져야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience in order to teach them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 언젠가 나의 꿈을 달성할 수 있고 많은 아이들을 배우고 성장할 수 있게 도울 수 있을 것이라는 것을 압니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "선생님이 되기위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "선생님이 되기위해서In order to become a teacher,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 부모님은 나에게 말씀하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 부모님은 나에게 말씀하십니다. my parents tell me that",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부를 열심히 할 필요가 있다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부를 열심히 할 필요가 있다고 I need to study hard",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 모든 과목에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 모든 과목에서in all my subjects.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 가야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 가야만 합니다.So I must go",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 좋은 대학에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 좋은 대학에to a good university.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들은 또한 나에게 말씀하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들은 또한 나에게 말씀하십니다.They also tell me that",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 아이들을 사랑해야 하고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 아이들을 사랑해야 하고 I need to love children",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/다른 사람들에게 봉사해야 합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/다른 사람들에게 봉사해야 합니다. and serve others.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각합니다.I think",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아이들을 가르치는 것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 아이들을 가르치는 것이 teaching children is",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 재미있고 보람있다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 재미있고 보람있다고 fun and rewarding,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 가져야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 가져야 합니다. and that I must have",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 인내를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 인내를 a lot of patience",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들을 가르치기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들을 가르치기 위해서 in order to teach them.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 압니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 압니다.I know that",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 언젠가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 언젠가 one day",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 달성할 수 있을 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 달성할 수 있을 것입니다.I will be able to achieve",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 꿈을 그리고 도울 수 있을 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 꿈을 그리고 도울 수 있을 것입니다. my dream and help",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 아이들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 아이들이 many children",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 배우고 성장하게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 배우고 성장하게learn and grow.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Future Dream Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How Will I Achieve My Dream?",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s14-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s14-3.swf"
+  ]
+}

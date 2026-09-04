@@ -1,0 +1,178 @@
+{
+  "id": "m4a-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m4a-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 25,
+  "audio": [
+    {
+      "src": "/audio/man/m4a-3-1.mp3",
+      "legacySrc": "m4a-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-2.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-3.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-4.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-5.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-6.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-7.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-8.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-9.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 아내는 많은 친척들이 있는데 왜냐하면 그녀의 아버지와 어머니 역시 많은 형제와 자매가 있기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My wife has many relatives because her father and mother have many brothers and sisters, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 2 형제와 2 자매가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She has (2) brothers and (2) sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 가족들은 가까이에 살지 않기 때문에, 우리는 한 달에 한번 그들을 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because her family doesn’t live near us, we visit them once a month.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 장인은 선생님이셨는데, 지금은 나의 아버지와 같이 퇴직하셨습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father-in-law used to be a teacher, but now he is retired like my father.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 하이킹 가는 것을 아주 좋아하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He likes to go hiking a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 장모는 우리의 아이들을 보는 것을 좋아하시고 나의 가족을 또한 항상 도우십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My mother-in-law loves to watch our children and always helps my family, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 여가시간에, 나의 장모는 쇼핑을 가고 그녀의 친구들과 지역 사우나 목욕탕에 가는 것을 좋아하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In her free time, my mother-in-law likes to go shopping and visit the local sauna with her friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아내의 자매들은 가까이에 살아서 우리는 보통 한 달에 한 번 그들을 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My wife’s siblings live near by, so we usually visit them once a month.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Wife’s Family",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "4A Introducing My Relatives :",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m4a-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m4a-3.swf"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "cnn055",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Livedoor Sacks Horie Following His Arrest",
+  "label": "Livedoor Sacks Horie Following His Arrest",
+  "menuLabel": "[ CNN 55 ]",
+  "unit": 55,
+  "part": null,
+  "order": 54,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn055.mp4",
+      "legacySrc": "CNN/CNN1-60/55.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Livedoor Sacks Horie Following His Arrest"
+    },
+    {
+      "type": "paragraph",
+      "text": "An embattled Japanese Internet firm, Livedoor, says it’s ousted President and CEO Takafumi Horie. It comes a day after police arrested Horie and three other company’s executives on suspicion they’d spread false information to manipulate share prices. Also this Tuesday, Livedoor admitted its report for the last financial year overstated cash flow from core business operations. Shares in Livedoor remained untraded on Tuesday with a glut of sell orders. But they’re being quoted 75% down from their value before last week’s police raid on the company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "라이브도어, 구속된 호리에 파면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "어려움에 처한 일본의 인터넷 기업 라이브도어 사가 최고 경영자 호리에 다카후미 사장을 해임했습니다. 경찰이 호리에 씨와 회사의 다른 임직원 3명을 주가 조작을 위해 허위 정보를 유포시킨 혐의로 구속한지 하루만의 일입니다. 또한 이번 주 화요일, 라이브도어는 작년 회계연도 보고서에 핵심 사업부문의 현금 거래 내역이 부풀려진 사실을 인정했습니다. 화요일 라이브도어 사의 주식은 매도 주문이 쇄도하는 가운데, 거래가 중단되었습니다. 지난 주 경찰의 수사가 시작되면서, 라이브도어 사의 주가가 무려 75%나 떨어진 것으로 전해졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. share(s)/ 주식",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. core/ 핵심, 중심부",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "manipulate share",
+          "text": "[머니퓰레이 쉐아]. manipulate은 2음절에 강세가 있어 다른 음절이 약화되고 있다. share는 [r]을 발음하지 않고 모음을 길게 끌어 [쉐아]로 발음한다."
+        },
+        {
+          "n": "Livedoor admitted",
+          "text": "[라이브도어 미티ㄷ]. 강세를 받지 못한 ad-가 거의 들리지 않고 있다. 앞에 나온 arrested도 a-부분이 거의 들리지 않고 있다."
+        },
+        {
+          "n": "cash flow",
+          "text": "[캐쉬로우]. flow의 [f]가 탈락되어 low처럼 들린다."
+        },
+        {
+          "n": "Livedoor",
+          "text": "라이브도어: 기업 홈페이지 제작 및 관리를 하는 일본 인터넷 기업"
+        },
+        {
+          "n": "sack",
+          "text": "((속어)) 해고하다; 퇴짜를 놓다"
+        },
+        {
+          "n": "(Takafumi) Horie 호리에",
+          "text": "(다카후미): 라이브도어 사를 굴지의 IT기업으로 만든 인물로 최근 분식회계 및 주가조작으로 구속됐다."
+        },
+        {
+          "n": "arrest",
+          "text": "구인, 구류, 구속; 구속하다"
+        },
+        {
+          "n": "embattled",
+          "text": "곤경에 처한, 고전중인"
+        },
+        {
+          "n": "oust",
+          "text": "[aust] 내쫓다, 축출하다"
+        },
+        {
+          "n": "on suspicion that절",
+          "text": "…라는 혐의로, 의혹으로"
+        },
+        {
+          "n": "spread",
+          "text": "퍼뜨리다, 유포하다"
+        },
+        {
+          "n": "manipulate",
+          "text": "(시장, 가격 따위를) 조작하다"
+        },
+        {
+          "n": "share price",
+          "text": "주가(stock price)"
+        },
+        {
+          "n": "financial year",
+          "text": "회계[재정]연도(fiscal year)"
+        },
+        {
+          "n": "overstate",
+          "text": "…을 과장해서 말하다, 실제보다 좋게[나쁘게] 보여주다"
+        },
+        {
+          "n": "cash flow",
+          "text": "현금 유출입[흐름], 현금수지"
+        },
+        {
+          "n": "core business",
+          "text": "핵심사업"
+        },
+        {
+          "n": "a glut of",
+          "text": "…의 공급과잉인, 과도한"
+        },
+        {
+          "n": "sell orders",
+          "text": "(주가가 떨어질 것을 예상한) 매도주문 opp. buy order/ 매수 주문"
+        },
+        {
+          "n": "quote",
+          "text": "인용하다; 시세를 (얼마로) 매기다"
+        },
+        {
+          "n": "police raid on",
+          "text": "…에 대한 경찰단속[급습]"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/55.wmv",
+  "legacyEncoding": "binary"
+}

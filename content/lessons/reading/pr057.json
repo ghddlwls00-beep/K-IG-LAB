@@ -1,0 +1,47 @@
+{
+  "id": "pr057",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 057 ]",
+  "menuLabel": "[ pr057 ]",
+  "unit": 57,
+  "part": null,
+  "order": 112,
+  "audio": [
+    {
+      "src": "/audio/reading/pr057.mp3",
+      "legacySrc": "sounds/pr057.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 057 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "All travellers should ensure they have adequate travel insurance before they depart. A suitable insurance policy should provide coverage for medical expenses arising from illness or accident prior to or during their vacation, loss of vacation money, and cancellation of the holiday. Please keep your insurance policy and emergency contact details with you at all times. Before departure, you will be required to provide your tour leader with a copy of your insurance policy covering the period of travel. Without this information, you will not be allowed to travel with the group."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr057.htm",
+  "legacyEncoding": "utf-8"
+}

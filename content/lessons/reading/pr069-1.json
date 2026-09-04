@@ -1,0 +1,47 @@
+{
+  "id": "pr069-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr069",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 069-1 ]",
+  "menuLabel": "[ pr069-1 ]",
+  "unit": 69,
+  "part": null,
+  "order": 137,
+  "audio": [
+    {
+      "src": "/audio/reading/pr069.mp3",
+      "legacySrc": "sounds/pr069.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 069-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한국어에 관심이 있는 외국인의 숫자는 한국 회사들의 해외에서의 성공과 한국 문화에 대한 점점 증가하는 관심 때문에 지난 몇 년에 걸쳐 극적으로 증가해왔다. 예를 들어, 많은 중국 학생들은 더 좋은 기회와 봉급을 주는 한국 회사를 위해 일할 것을 계획함에 따라 한국에 관심을 갖게 되었다. 한국어 프로그램에 다니는 외국인 학생들의 총 숫자는 지난 해 말에 약 4,700명에서 금년에 서울에서만도 30,000명 이상으로 증가했다. 한국어를 말하는 사람들은 오랫동안 주로 한반도 출신에 한정되었었다. 한국어가 어느 날 세계 사회에서 인기를 얻게 될 것이라는 것을 상상했던 사람이 거의 없었다는 것은 당연하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr069-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "aw091",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 091 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 1,
+  "order": 91,
+  "audio": [
+    {
+      "src": "/audio/adults/aw091.mp3",
+      "legacySrc": "sounds/aw091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 091 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Where I Was Born)"
+    },
+    {
+      "type": "hints",
+      "text": "I was born in 1970 in a small town, beautiful mountains surrounded it."
+    },
+    {
+      "type": "instruction",
+      "text": "Some years were hard and the winters were cold with heavy snow."
+    },
+    {
+      "type": "instruction",
+      "text": "It was a long walk to get to school."
+    },
+    {
+      "type": "instruction",
+      "text": "I often had to run all the way to school and back to home."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I'm strong enough that I used to climbs hills."
+    },
+    {
+      "type": "instruction",
+      "text": "I never get afraid of running or walking along way even these days."
+    },
+    {
+      "type": "instruction",
+      "text": "I used to climb hills and trees with friends day and night"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw091.htm",
+  "legacyEncoding": "utf-8"
+}

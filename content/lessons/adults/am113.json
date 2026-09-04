@@ -1,0 +1,63 @@
+{
+  "id": "am113",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 113 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 113,
+  "audio": [
+    {
+      "src": "/audio/adults/am113.mp3",
+      "legacySrc": "sounds/am113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 113 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Marrying Mr. or Miss Right"
+    },
+    {
+      "type": "hints",
+      "text": "After dating for three years, we got married."
+    },
+    {
+      "type": "instruction",
+      "text": "I had not saved much money, so when we were first married, life was difficult for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife never complained, and she was always supportive of me."
+    },
+    {
+      "type": "instruction",
+      "text": "When I think back on my wedding, I will always remember how beautiful and special it was."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am113.htm",
+  "legacyEncoding": "utf-8"
+}

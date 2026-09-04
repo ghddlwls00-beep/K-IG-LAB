@@ -1,0 +1,59 @@
+{
+  "id": "aw011",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 011 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 4,
+  "audio": [
+    {
+      "src": "/audio/adults/aw011.mp3",
+      "legacySrc": "sounds/aw011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 011 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Greeting and Introduction"
+    },
+    {
+      "type": "hints",
+      "text": "Nice to meet you."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, thank you for giving me a chance to introduce myself."
+    },
+    {
+      "type": "instruction",
+      "text": "My name is 박수민, but you can call me (Mrs. 박)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw011.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr044-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr044",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 044-1 ]",
+  "menuLabel": "[ pr044-1 ]",
+  "unit": 44,
+  "part": null,
+  "order": 87,
+  "audio": [
+    {
+      "src": "/audio/reading/pr044.mp3",
+      "legacySrc": "sounds/pr044.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 044-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "성인뿐만 아니라 어린이에게도 건강 식품은 중요하다. 어른들이 잘못된 식습관을 갖고 있으면, 그들의 아이들도 보통 그렇다. 결국 아이들은 자신의 부모와 같은 방식으로 먹는다. 부모들이 건강 식품을 먹을 때 아이들은 그것이 맛있을 것이라고 생각할 것이다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr044-1.htm",
+  "legacyEncoding": "utf-8"
+}

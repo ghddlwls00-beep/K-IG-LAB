@@ -1,0 +1,47 @@
+{
+  "id": "pr136-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr136",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 136-1 ]",
+  "menuLabel": "[ pr136-1 ]",
+  "unit": 136,
+  "part": null,
+  "order": 271,
+  "audio": [
+    {
+      "src": "/audio/reading/pr136.mp3",
+      "legacySrc": "sounds/pr136.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 136-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "시란 우리를 감동시켜서 시인의 감정이나 시인의 상상력이 창조해 낸 사람들(작중 인물)의 정서에 동감하도록 한다. 우리는 그들의 투쟁과 승리와 실패를 목격한다. 우리는 그들의 사랑과 상실, 기쁨과 슬픔, 희망과 공포들을, 그 것들이 마치 우리들의 것인냥 느낀다. 종종 우리가 그들의 걱정과 슬픔을 함께 겪기도 하지만, 그런 경험으로부터 우린 기쁨도 얻는다. 시란 우리의 삶에서 우리가 놓치고 있는 것을 우리에게 제공한다. 그게 바로 일상 생활 속에서 우리가 시를 감상하는 이유이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr136-1.htm",
+  "legacyEncoding": "utf-8"
+}

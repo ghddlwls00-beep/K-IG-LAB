@@ -1,0 +1,63 @@
+{
+  "id": "p045",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 045 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 5,
+  "order": 50,
+  "audio": [
+    {
+      "src": "/audio/middle/p045.mp3",
+      "legacySrc": "sounds/p045.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 045 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My favorite relative)"
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite relative is my oldest uncle, 길동."
+    },
+    {
+      "type": "hints",
+      "text": "He lives on the other side of town,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my family visits him twice a month."
+    },
+    {
+      "type": "instruction",
+      "text": "When we get together we usually go out for dinner."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p045.htm",
+  "legacyEncoding": "utf-8"
+}

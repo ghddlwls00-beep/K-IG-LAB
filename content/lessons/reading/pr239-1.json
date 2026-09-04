@@ -1,0 +1,47 @@
+{
+  "id": "pr239-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr239",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 239-1 ]",
+  "menuLabel": "[ pr239-1 ]",
+  "unit": 239,
+  "part": null,
+  "order": 477,
+  "audio": [
+    {
+      "src": "/audio/reading/pr239.mp3",
+      "legacySrc": "sounds/pr239.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 239-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "전세계적으로 사람들은 특히 고통스런 말기의 죽음에 직면해서 인간적인 죽음(안락사)에 대한 문제(주제)로 씨름해 왔다. 이 딜레마는 진보된 의학 기술이 대부분의 극단적인 경우의 수술에서도 환자를 더 오래 살도록 해 주는 시대이기 때문에, 최근에 더 복잡한 문제가 되었다. 물론 환자가 어느 때라도 의학의 치료를 거절할 권리는 있지만; 치명적인 주사를 요구하는 것은 그러나, (치료를 거부하는 것과는) 다른 문제이다. 그런고로, 비록 네델란드에서는 1984년 안락사(euthanasia)를 승인은 했지만, 그 것을 실행하는 방법에서는 엄격한 기준을 설정해왔고, 이 규정을 따르지 않는 의사는 12년간의 형을 실행하였다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr239-1.htm",
+  "legacyEncoding": "utf-8"
+}

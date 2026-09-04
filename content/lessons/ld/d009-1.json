@@ -1,0 +1,75 @@
+{
+  "id": "d009-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d009",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 009 회 ]",
+  "menuLabel": "[ D 009-1 ]",
+  "unit": 9,
+  "part": null,
+  "order": 17,
+  "audio": [
+    {
+      "src": "/audio/ld/d009.mp3",
+      "legacySrc": "sounds/d009.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 009 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "내 이름은 Henry Wells다. 나의 아내 Helen과 나는 어제 밤 Andrew 부부의 집으로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 최근에 세계 일주 여행을 했다. 그들은 그들의 여행의 슬라이드를 가져왔고 우리는"
+    },
+    {
+      "type": "instruction",
+      "text": "어젯 밤 그중의 일부를 보았다. Keith는 한 전국 잡지의 사진사이고 그가 그 모든 사진을 찍었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 부인 Anne는 한 국제 조직의 번역사이고 그녀는 그들의 여행에서 통역사였다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 어젯 밤에 그들의 집으로 가기를 원하지 않았지만 나는 우리가 간 것이 기쁘다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 사진들은 아름다웠다. Keith는 매우 좋은 카메라를 하나 갖고 있고 그의 슬라이드는 탁월했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 모든 곳으로부터의 사진들을 갖고 있었다. 그들은 처음에 몇몇 아프리카 국가들을 방문했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d009-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,394 @@
+{
+  "id": "cnn010",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Elmo Rocked* Hollywood",
+  "label": "Elmo Rocked* Hollywood",
+  "menuLabel": "[ CNN 10 ]",
+  "unit": 10,
+  "part": null,
+  "order": 9,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn010.mp4",
+      "legacySrc": "CNN/CNN1-60/10.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Elmo Rocked* Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "KYRA PHILLIPS, CNN Anchor: City of Los Angeles is full of characters, of course. Now really, actual comic book characters and TV show characters walking the streets, getting in people's faces and their wallets. If you've ever been shaken down by a Muppet, well, you know, this is no joke. CNN's Ted Rowlands reports.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TED ROWLANDS, CNN Correspondent: Two weeks after Elmo's world was rocked, he is out on bail, back working Hollywood Boulevard. Elmo, whose real name is Donn Harper, was handcuffed, his head on the hood of a squad car. Along with Mr. Incredible, Elmo was arrested and taken away for something called aggressive begging. They were nabbed as part of a undercover sting operation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CAPT. RON SANCHEZ, Los Angeles Police: We've had an extensive amount of complaints from people visiting Hollywood, that they've been harassed and the victims of aggressive panhandling, of really aggressive begging that's reached almost points of the victims feeling like they are almost robbed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROWLANDS: Harper and dozens of other impersonators dressed up as superheroes and movie stars park themselves along Hollywood's Walk of Fame, making cash by posing with tourists.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DONN HARPER, Elmo Impersonator: Elmo is not out there snatching purses or robbing people or anything bad like that. All he's guilty of is loving people and trying to communicate with some foreign tourists.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROWLANDS: Tourists we talked to said they didn't mind paying a buck or two for a photograph.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN: We got a great photo out of it for the family so, that's OK by me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROWLANDS: Elmo is free on a hundred dollars bail. He says a lawyer is helping him with his legal troubles. Police, meanwhile, say until the complaints stop they'll continue to keep a close eye on the big, red Muppet and his friends. Ted Rowlands, CNN, Hollywood.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "옐모, 할리우드를 뒤집다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카이라 필립스, CNN 앵커: 로스앤젤레스 시는 당연히 캐릭터들로 넘쳐납니다. 바로 지금 이 순간에도 실제 만화책 속의 캐릭터들과 TV 쇼에 나오는 캐릭터들이 할리우드 거리를 누비며 사람들 앞에 얼굴을 불쑥 들이밀고는 지갑을 노리고 있습니다. 머페트에게 돈을 빼앗긴 경험이 있는 사람이라면 이 이야기가 빈 말이 아니라는 걸 잘 아실 텐데요, CNN의 테드 롤랜즈 기자가 전해드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "테드 롤랜즈, CNN 기자: 자신의 활동 무대가 타격을 받은 지 2주 만에 엘모(캐릭터 분장사)는 가석방되어 할리우드 블러버드에서 활동을 재개했습니다. 실제 이름이 돈 하퍼인 엘모는 한 순찰차 보닛 위에 머리를 박은 채 수갑이 채워졌습니다. 미스터 인크레더블과 함께 엘모는'갈취'혐의로 체포되어 끌려갔습니다. 그들은 비밀 함정 수사 과정에서 붙잡혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "론 산체즈 경관, 로스앤젤레스 경찰: 저희는 할리우드 관광객들로부터 엄청나게 많은 항의를 받고 있습니다. 지나친 구걸행위와 갈취에 시달려온 피해자들은 거의 강탈을 당하고 있다고 느낄 정도라고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "롤랜드: 하퍼 씨를 비롯하여 슈퍼영웅이나 인기 영화배우로 분장한 수십 명의 할리우드 캐릭터 분장사들은 할리우드 명예의 전당 거리를 돌아다니면서 관광객들과 사진 포즈를 취해 주고 돈을 법니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "돈 하퍼, 엘모 캐릭터 분장사: 엘모는 돌아다니면서 사람들의 지갑을 가로챈다거나 돈을 훔치는 따위의 나쁜 짓은 하지 않습니다. 엘모에게 죄가 있다면 사람을 너무 좋아하고 몇몇 외국 관광객들과 대화를 나누려 했다는 점이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "롤랜드: 인터뷰에 응한 관광객들은 사진 한 장에 1~2달러 정도는 기꺼이 지불할 용의가 있다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성: 그 돈으로 가족에게 보낼 멋진 사진 한 장을 얻었습니다. 전 그거면 됐어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "롤랜드: 엘모는 100달러의 보석금을 내고 풀려났습니다. 한 변호사의 도움으로 법적인 문제를 해결하고 있다고 그는 말합니다. 하지만 경찰 측은 관광객들의 항의가 사그라들기 전까지는 붉은색 털의 덩치 큰 머페트와 그 친구들에게서 감시의 눈을 떼지 않을 것이라고 말합니다. 할리우드에서CNN, 테드 롤랜드 기자였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "actual의 [t] 발음과 -al이 약화되어 [엑추얼]이 아니라 [엑슈을]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "부사형인 actually도 보통 [엑슐리]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "comic은 comet과 끝자음만 달라 혼동이 많이 되는 단어다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "wallets처럼 발음기호에 [w]가 있으면 [우워]를 빠르게 붙여 발음해야 원음에 가깝다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 squad car의 squad에서도 -qu-부분을 [크워]로 빠르게 붙여 발음해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠른 대화나 뉴스에서는 -ing의 -g를 탈락시켜 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 begging을 [베깅]이 아닌 [베긴]으로 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "operation처럼 [o]에 강세가 오면 우리말의 [아]에 가깝게 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "사실 [o]는 [오]와 [아]의 중간 발음이지만, 영국식 영어는 [오]에 가깝게, 미국식 영어는 [아]에 가깝게 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "harassed가 1음절에 강세가 있을 때는 [헤러스ㄸ], 2음절에 강세가 있을 때는 [허레스ㄸ]로 발음된다. 여기서는 2음절에 강세가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-handling 부분을 hand와 -ling로 나눠 hand의 [d]음이 탈락되면서 -ling이 [을링]으로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "pan과 handling의 모음 [æ]는 입술을 양옆으로 벌인 뒤 [에]라고 발음하면 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "buck or가 연음되어 bucker처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "mind는 -nd로 끝나 끝자음인 [d]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "police의 모음 [o]가 생략되어 [펄리ㅆ]가 아니라 [플리ㅆ]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. bail/ 보석, 가출옥",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. squad/ (군대의) 분대, 반(班)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "13) Mr. Incredible/ 미스터 인크레더블: 만화 영화 <인크레더블>의 아빠 슈퍼히어로 캐릭터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. aggressive/ 지나친, 저돌적인, 난폭한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. panhandle/ ((미구어)) 길거리에서 구걸하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "actual comic book",
+          "text": "[엑슈을 카밐북]."
+        },
+        {
+          "n": "their wallets",
+          "text": "[데(우)월렛ㅊ]."
+        },
+        {
+          "n": "aggressive begging",
+          "text": "[어그레씨ㅂ 베긴]."
+        },
+        {
+          "n": "sting operation",
+          "text": "[스띵 아퍼레이션]."
+        },
+        {
+          "n": "been harassed",
+          "text": "[빈허레스ㄸ]."
+        },
+        {
+          "n": "panhandling",
+          "text": "[펜헨을링]."
+        },
+        {
+          "n": "mind paying a buck or",
+          "text": "[마인 패잉 버커]."
+        },
+        {
+          "n": "Police, meanwhile",
+          "text": "[플리스민와일]."
+        },
+        {
+          "n": "* rock",
+          "text": "동요시키다, 흔들어놓다"
+        },
+        {
+          "n": "1) character",
+          "text": "(만화의) 캐릭터; (연극,영화,소설 속의) 등장 인물, 배역"
+        },
+        {
+          "n": "2) actual",
+          "text": "실제의, 사실상의"
+        },
+        {
+          "n": "3) comic book",
+          "text": "만화책"
+        },
+        {
+          "n": "4) get in one's face",
+          "text": "((미속어)) …의 앞에 모습을 보이다"
+        },
+        {
+          "n": "5) get one's wallet",
+          "text": "…의 지갑을 훔치다"
+        },
+        {
+          "n": "6) shake down",
+          "text": "((미속어)) …에게서 돈을 빼앗다, 옭아내다"
+        },
+        {
+          "n": "7) Muppet",
+          "text": "머페트: 팔과 손가락으로 조종하는 인형"
+        },
+        {
+          "n": "8) be out[freed] on bail",
+          "text": "보석[가출옥]중이다"
+        },
+        {
+          "n": "9) back working",
+          "text": "업무에 복귀한"
+        },
+        {
+          "n": "10) Hollywood Boulevard[Blvd.]",
+          "text": "할리우드 블러버드: 할리우드 상업 지구를 동서로 가르는 길로 인기 영화인들의 손도장이 별 마크 안에 찍혀있는'Walk of Fame(명예의 전당)'이 유명하다."
+        },
+        {
+          "n": "11) handcuff",
+          "text": "…에게 수갑을 채우다; …을 구속하다; …을 방해하다"
+        },
+        {
+          "n": "12) squad car",
+          "text": "경찰차, 순찰차"
+        },
+        {
+          "n": "14) arrest",
+          "text": "(남을) 붙잡다, 체포하다, 구속하다"
+        },
+        {
+          "n": "15) take A way",
+          "text": "A를 끌고[데리고] 가다"
+        },
+        {
+          "n": "16) aggressive begging",
+          "text": "갈취"
+        },
+        {
+          "n": "17) nab",
+          "text": "체포하다; (사람을) 느닷없이 붙들다, (사람을) 납치하다"
+        },
+        {
+          "n": "18) undercover",
+          "text": "비밀리에 하는, 은밀한"
+        },
+        {
+          "n": "19) sting operation",
+          "text": "함정 수사(entrapment)"
+        },
+        {
+          "n": "20) extensive",
+          "text": "(수량,규모,정도 따위가) 큰, 엄청난"
+        },
+        {
+          "n": "21) complaint",
+          "text": "불평, 불만, 푸념, 넋두리; 고충"
+        },
+        {
+          "n": "22) harass",
+          "text": "…을 시달리게 하다; 약탈하다"
+        },
+        {
+          "n": "23) victim",
+          "text": "피해자"
+        },
+        {
+          "n": "24) panhandling",
+          "text": "구걸, 비럭질"
+        },
+        {
+          "n": "25) rob",
+          "text": "((종종 수동형으로)) (금품,권리 따위를) 빼앗다, 강탈하다"
+        },
+        {
+          "n": "26) impersonator",
+          "text": "남으로 가장한 사람, 남의 흉내를 내는 사람; (작품 속의 어떤 역을 하는) 배우"
+        },
+        {
+          "n": "27) dressed up as",
+          "text": "…으로 차려 입은"
+        },
+        {
+          "n": "28) park oneself",
+          "text": "((구어)) 잠시 머무르다, 앉다"
+        },
+        {
+          "n": "29) make cash",
+          "text": "돈을 벌다"
+        },
+        {
+          "n": "30) snatch",
+          "text": "…을 잡아[낚아]채다, 움켜잡다[쥐다], 강탈하다, 붙잡다"
+        },
+        {
+          "n": "31) be guilty of",
+          "text": "…에 대해 죄가 있다, 가책을 느끼다"
+        },
+        {
+          "n": "32) communicate with",
+          "text": "이야기를 나누다, …와 통신하다, 연락을 취하다"
+        },
+        {
+          "n": "33) mind",
+          "text": "((부정,의문,조건문에서)) 언짢게 여기다, 반대하다, 싫어하다"
+        },
+        {
+          "n": "34) buck",
+          "text": "((미속어)) 달러(dollar)"
+        },
+        {
+          "n": "35) legal",
+          "text": "법률의, 법률에 관한; 법률상의"
+        },
+        {
+          "n": "36) keep a (close) eye on",
+          "text": "…을 (주의 깊게) 감시하다, …에 유의하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/10.wmv",
+  "legacyEncoding": "binary"
+}

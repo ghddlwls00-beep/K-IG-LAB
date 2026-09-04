@@ -1,0 +1,47 @@
+{
+  "id": "pr022",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 022 ]",
+  "menuLabel": "[ pr022 ]",
+  "unit": 22,
+  "part": null,
+  "order": 42,
+  "audio": [
+    {
+      "src": "/audio/reading/pr022.mp3",
+      "legacySrc": "sounds/pr022.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 022 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Love is not a relationship with a specific person. Love of the helpless one is the beginning of brotherly love. To love one's own flesh and blood is no achievement. Only in the love of those who do not serve a purpose, does love begin to unfold. By having compassion for the helpless one, man begins to develop love for his brother."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr022.htm",
+  "legacyEncoding": "utf-8"
+}

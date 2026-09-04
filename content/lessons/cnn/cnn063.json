@@ -1,0 +1,224 @@
+{
+  "id": "cnn063",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "What Did You Have in Mind*?",
+  "label": "What Did You Have in Mind*?",
+  "menuLabel": "[ CNN 63 ]",
+  "unit": 63,
+  "part": null,
+  "order": 62,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn063.mp4",
+      "legacySrc": "CNN/CNN61-120/63.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "What Did You Have in Mind*?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: What did you have in mind?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: Well, I think I’d like to try something different, but I’m not sure what.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Were you thinking of a new color?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: Nothing too drastic. Maybe something to bring out the highlights.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: What about the style? Were you thinking of a perm?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: A loose perm might be a good idea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: I think your hair would do really well with it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: Do you really think so?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: I do. And you’ve got a nice face for it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: Well, I did say I wanted something different.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Well, what do you think?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: I like it, I really like it. What do you think?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: I think it’s great.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 2: I’ll come back to you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman 1: Please do.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "어떻게 해 드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 어떻게 해 드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 글쎄요, 변화를 좀 주고 싶은데 어떻게 해야 할지 잘 모르겠어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 머리색을 바꿀 생각이세요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 너무 강렬한 색은 싫어요. 브리지 정도면 괜찮을 것 같은데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 머리 모양은요? 파마하실 생각이었어요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 파마를 약하게 하는 것도 괜찮을 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 파마를 하면 참 잘 어울릴 것 같아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 정말로 그렇게 생각하세요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 네. 본인 얼굴이 잘 받쳐주니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 변화를 주고 싶다고 하긴 했는데.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 자, 어떻습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 좋아요, 정말 맘에 들어요. 어때요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 정말 멋있는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 2: 다음에 또 올게요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자 1: 그러세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* have A in mind",
+          "text": "A를 생각[계획]하고 있다"
+        },
+        {
+          "n": "1) something different",
+          "text": "(색)다른 것"
+        },
+        {
+          "n": "2) think of",
+          "text": "…할까 생각하다, …할 작정이다; …을 생각해내다"
+        },
+        {
+          "n": "3) drastic",
+          "text": "과감한, 대담한; 강렬한, 격렬한"
+        },
+        {
+          "n": "4) bring out",
+          "text": "(색, 성질 따위를) 드러내다, 나타내다"
+        },
+        {
+          "n": "5) highlights",
+          "text": "염색[탈색]한 머리의 밝은 부문"
+        },
+        {
+          "n": "6) style",
+          "text": "스타일, 모양: 여기서는 헤어스타일(hair style)을 뜻함"
+        },
+        {
+          "n": "7) perm",
+          "text": "파마(permanent wave), 퍼머넌트 웨이브 ex. Can you give me a perm? (파마 좀 해주세요.)"
+        },
+        {
+          "n": "8) do well with",
+          "text": "…와 잘 어울리다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/63.wmv",
+  "legacyEncoding": "binary"
+}

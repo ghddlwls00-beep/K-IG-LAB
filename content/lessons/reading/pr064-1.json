@@ -1,0 +1,47 @@
+{
+  "id": "pr064-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr064",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 064-1 ]",
+  "menuLabel": "[ pr064-1 ]",
+  "unit": 64,
+  "part": null,
+  "order": 127,
+  "audio": [
+    {
+      "src": "/audio/reading/pr064.mp3",
+      "legacySrc": "sounds/pr064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 064-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "만약에 직업을 유지하고 싶으면 이러한 것들을 기억하십시오. 당신은 커피를 위해 매시간 멈추지 마십시오. 그리고 당신은 너무 자주 떠나서는 안된다. 당신 일의 중요한 부분은 다른 사람과 일하는 전쟁일지도 모른다. 만약에 함께 일하는 것이 어렵다면 당신은 문제를 가지고 있을지도 모른다. 그렇지 않으면 당신은 당신의 일에 다른 사람과 친구를 만들지 않으면 문제를 가질지도 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr064-1.htm",
+  "legacyEncoding": "utf-8"
+}

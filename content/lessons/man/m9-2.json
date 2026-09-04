@@ -1,0 +1,118 @@
+{
+  "id": "m9-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m9-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 43,
+  "audio": [
+    {
+      "src": "/audio/man/m9-2-1.mp3",
+      "legacySrc": "m9-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-2-2.mp3",
+      "legacySrc": "m9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-2-3.mp3",
+      "legacySrc": "m9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-2-4.mp3",
+      "legacySrc": "m9-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m9-2-5.mp3",
+      "legacySrc": "m9-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 아버지의 회사와 우리가 더 나은 교육을 받기 위해 나의 가족을 큰 도시로 이사를 갔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My family moved to the big city because of my father’s company and for us to receive a better education.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 어렸을 때, 나의 아버지의 회사는 파산했고 그래서 우리는 몇 번 더 이사를 해야 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was young, my father’s company went bankrupt, so we had to move several more times.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 가족의 재정적인 상황은 아주 안정적이지 않아서 나의 어머니 역시 일을 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our family’s financial situation was not very stable, so my mother had to work, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 아주 잘 컸는데 왜냐하면 나의 어머니는 일을 하셨지만 그녀는 여전히 나와 나의 형제, 자매들을 잘 돌보아 주셨습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I grew up well taken care of because even though my mother had to work, she still managed to take good care of me and my brothers and sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I Moved",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m9-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m9-2.swf"
+  ]
+}

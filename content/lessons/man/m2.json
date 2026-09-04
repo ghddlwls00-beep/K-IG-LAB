@@ -1,0 +1,144 @@
+{
+  "id": "m2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": null,
+  "order": 7,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "33",
+          "text": "What do I Think about My Job?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Typical Day",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Weekend",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Job",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Leisure Time",
+      "lang": "en"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "07",
+          "text": "Helping hand"
+        },
+        {
+          "n": "01",
+          "text": "Greeting"
+        },
+        {
+          "n": "24",
+          "text": "Before I Go to Work"
+        },
+        {
+          "n": "25",
+          "text": "The Morning at the Office"
+        },
+        {
+          "n": "26",
+          "text": "The Afternoon at the Office"
+        },
+        {
+          "n": "27",
+          "text": "After Work and At Night"
+        },
+        {
+          "n": "28",
+          "text": "How I Spend Saturday Mornings"
+        },
+        {
+          "n": "29",
+          "text": "How I Spend Saturday Afternoons"
+        },
+        {
+          "n": "30",
+          "text": "How I Spend Sunday Mornings"
+        },
+        {
+          "n": "31",
+          "text": "How I Spend Sunday Afternoons"
+        },
+        {
+          "n": "32",
+          "text": "Why did I Choose My Job?"
+        },
+        {
+          "n": "34",
+          "text": "What do I Do on My Job?"
+        },
+        {
+          "n": "36",
+          "text": "Greeting"
+        },
+        {
+          "n": "35",
+          "text": "My Hobbies and Pastimes"
+        },
+        {
+          "n": "36",
+          "text": "Company Activities"
+        },
+        {
+          "n": "37",
+          "text": "Meeting My Friends"
+        },
+        {
+          "n": "40",
+          "text": "Watching TV/Go to bed"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "Man/m2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m2.swf"
+  ]
+}

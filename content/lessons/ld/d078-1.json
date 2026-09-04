@@ -1,0 +1,79 @@
+{
+  "id": "d078-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d078",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 078회 ]",
+  "menuLabel": "[ D 078-1 ]",
+  "unit": 78,
+  "part": null,
+  "order": 155,
+  "audio": [
+    {
+      "src": "/audio/ld/d078.mp3",
+      "legacySrc": "sounds/d078.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 078회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "부동산 중개업자들은 재산을 팔고 세놓는다. 중개인들은 모든 종류의 재산을 갖고 일한다."
+    },
+    {
+      "type": "instruction",
+      "text": "- 땅, 집, 농장, 사업체, 산업체들. 그들은 또 재산을 관리하고 개발한다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그들은 평가사로써 활동한다. 첫째 평가사들은 하나의 재산을 본다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그들은 소유주가 그것을 팔 때 얼마나 받을 수 있는지 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 부동산 중개인들은 그들 자신의 사업체들을 운영한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그들을 위하여 일하도록 다른 판매원들을 고용한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 몇몇 시간제 직원들을 고용해도 좋다."
+    },
+    {
+      "type": "instruction",
+      "text": "중개인들은 팔거나 임대할 재산을 가진 사람들을 발견하고 그런 다음 그들을 위하여 그 재산을 팔거나 임 대하려고 노력한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d078-1.htm",
+  "legacyEncoding": "utf-8"
+}

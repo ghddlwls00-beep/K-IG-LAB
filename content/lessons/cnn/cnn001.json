@@ -1,0 +1,415 @@
+{
+  "id": "cnn001",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Blair's Power Drains Away*",
+  "label": "Blair's Power Drains Away*",
+  "menuLabel": "[ CNN 1 ]",
+  "unit": 1,
+  "part": null,
+  "order": 0,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn001.mp4",
+      "legacySrc": "CNN/CNN1-60/1.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Blair's Power Drains Away*"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: The British Parliament dealt Prime Minister Tony Blair a major political blow on Wednesday, sending his anti-terrorism bill down to defeat. As Robin Oakley explains, that setback may be an omen of tougher times ahead for the prime minister.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MEMBER, THE HOUSE OF COMMONS: The aye's to the right: 291. The no's to the left : 322.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROBIN OAKLEY, CNN Correspondent: It was Tony Blair's first defeat in the Commons since he came to power. And it wasn't just a little one. Lawmakers  rejected by 31 votes his call for the police to be given powers to hold terrorist suspects for up to 90 days without charge. They did so despite an impassioned appeal from Mr. Blair to back him on powers that police are seeking.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TONY BLAIR, UK Prime Minister: We are living in a country that faces a real and serious threat of terrorism. And when those charged with protecting our country provide ??as they have ??a compelling case for action, then I know what my duty is.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "OAKLEY: But a majority of MP's rejected his plea. Mr. Blair's losing authority over his party. The government have had to settle for doubling, to 28 days, the period police can hold suspects without charge. With polls showing two-thirds of the British public backing him, he said it was worth a risk.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He may now have second thoughts. And his opponents are suggesting it's time for him to resign.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MICHAEL HOWARD, Former Conservative Opposition Leader: He's seriously weakened and I think this is bad for the country to have a weakened prime minister. I think the time has come for him to consider his position.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "OAKLEY: Mr. Blair's authority began seeping away the day he announced that he wouldn't fight the next election, with many starting to look to his most likely successor, Gordon Brown.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many of his own MP's are rejecting his planned health and education reforms. His cabinet ministers have squabbled openly about a proposed ban on smoking in public. And his judgment was questioned, too, when he brought back the loyalist, David Blunkett to his cabinet, only to see him forced to resign again.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ministers are consoling themselves that police will now be able to hold terrorist suspects twice as long as they could before. But while Mr. Blair hasn't been terminally damaged, he has been heavily wounded. He'll now face a struggle to push through his reform program. And lawmakers are questioning openly whether he'll be able to complete his promised full third term. Robin Oakley, CNN, London",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "사면초가에 빠진 토니 블레어 총리",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 지난 수요일, 영국 의회는 토니 블레어 총리가 제안한 반테러 법안을 부결시킴으로써 그에게 막대한 정치적 타격을 입혔습니다. 로빈 오클리 기자의 보도처럼, 이번 (법안 통과) 실패는 블레어 총리 앞에 펼쳐질 힘든 여정을 알리는 신호탄일지도 모릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 하원의원: 찬성 291표, 반대 322표입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로빈 오클리, CNN 기자: 이는 (1997년) 집권 이래 하원에서 일어난 토니 블레어 총리의 첫 패배입니다. 그런데 이는 결코 사소한 패배가 아닙니다. 의회는 테러용의자를 기소 없이도 최장 90일까지 구금할 수 있는 권한을 경찰에게 주자는 블레어 총리의 요청을 31표차로 부결시켰습니다. 경찰에게 필요한 힘을 실어주자는 블레어 총리의 간절한 호소에도 불구하고, 의회는 이를 부결시켰습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "토니 블레어, 영국 총리: 우리가 살고 있는 이 나라는 실제로 심각한 테러 위협에 직면해 있습니다. 그리고 국가 안보를 책임지는 경찰당국이 이전과 마찬가지로 적절한 조치를 취해줄 것을 강력하게 요구한 바로 이때 제 임무는 너무나 명백합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오클리: 하지만 대다수 의원들은 총리의 이러한 호소를 외면했습니다. 노동당 내에서 블레어 총리의 입지도 줄어들고 있습니다. 결국 블레어 정부는 경찰이 테러 용의자를 기소 없이 구금할 수 있는 기간을 현재의 두 배인 28일로 늘리는 선에서 타협해야 했습니다. 여론조사 결과 영국 국민의 2/3가 자신을 지지하는 상황에서, 블레어 총리는 위험을 감수할 가치가 있다고 말했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하지만 지금은 총리도 생각이 바뀌었을지 모릅니다. 게다가 야당에서는 총리의 사임을 거론하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마이클 하워드, 전 보수당 당수: 블레어 총리의 지도력이 크게 약화되었습니다. 이 나라의 총리가 힘이 없다는 사실이 유감스럽습니다. 이제는 총리가 자신의 거취를 고려해 볼 때가 된 것 같습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오클리: 블레어 총리가 차기 선거 불출마를 선언한 날부터, 차기 총리로 유력시되는 (재무장관) 고든 브라운에게 많은 시선이 쏠리는 가운데 총리의 권력 누수 현상이 시작되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "블레어 총리가 속한 노동당의 의원 다수도 블레어 총리의 의료 및 교육 개혁안에 반대하고 있습니다. 블레어 내각 각료들도 공공장소 흡연 금지 발의 법안에 대해 공공연히 불협화음을 내고 있습니다. 또한 블레어 총리가 자신의 최측근인 데이비드 블런켓을 내각으로 다시 불러들였으나 그의 사임이 다시금 불가피해지면서 총리의 판단력까지도 문제시되고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "정부 각료들은 그나마 경찰이 테러 용의자를 구금할 수 있는 기간이 기존에 비해 두 배로 늘었다는 사실을 위안으로 삼고 있습니다. 하지만 블레어 총리가 아직 치명타를 입는 것은 아니어도, 심한 타격을 받은 것은 사실입니다. 이제 블레어 총리는 자신의 개혁안을 관철시키기 위해 힘든 싸움을 해야 할 것입니다. 그러나 의원들은 블레어 총리가 과연 약정된 3번째 임기를 제대로 채울 수 있을지에 대해 드러내놓고 의문을 제기하고 있습니다. 런던에서CNN, 로빈 오클리였습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. bill/ 법안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1)send down/ …을 좌천시키다, (2) defeat/ 무효화, 파기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. aye/ 찬성표, no/ 반대표(nay)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. charge/ 책임, 임무; 혐의, 고발",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) compelling/ 강제적인, 위압적인 (2) case/ 주장; 근거, 사유, 증거",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parliament와 dealt의 끝자음 [t]가 탈락되어 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "power를 [파아-]로 발음하고 있는데 [아우]의 이중모음을 단모음 [아]로 발음하는 것은 영국식 발음의 특징이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "appeal의 첫 모음이 강세를 받지 못해 거의 들리지 않고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "plea의 [l] 발음이 거의 들리지 않아 그냥 pea로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "his의 첫 [h]음도 거의 들리지 않고 약화되어 [으ㅈ]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "분수를 읽을 때는 이처럼 분자는 기수(one, two, three...)로 분모는 서수(first, second, third...)로 읽고, 분자가 2 이상이면 분모를 복수로 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "worth the를 마치 한 단어처럼 축약 발음해 worth가 were 혹은 war처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hold와 terrorist의 끝자음 -d와 -t가 약화되어 들리고 있다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* drain away",
+          "text": "(물이) 빠지다: 여기서는 물이 빠지듯 권력의 누수가 진행되고 있다는 의미"
+        },
+        {
+          "n": "1) Parliament",
+          "text": "((英)) 의회: 영국 의회는 the House of Lords(상원)와 the House of Commons(하원)로 구성"
+        },
+        {
+          "n": "2) deal A a blow",
+          "text": "A에게 일격[타격]을 가하다"
+        },
+        {
+          "n": "3) anti-terrorism bill",
+          "text": "반테러 법안, 대(對)테러법안: 테러 용의자를 기소하기 전에 구금할 수 있도록 하는 법안"
+        },
+        {
+          "n": "4) send A down to defeat",
+          "text": "A를 무효화시키다"
+        },
+        {
+          "n": "5) setback",
+          "text": "좌절, 패배; 걸림돌, 곤란"
+        },
+        {
+          "n": "6) omen",
+          "text": "징후, 조짐"
+        },
+        {
+          "n": "7) the ayes's to the right, the no's to the left",
+          "text": "찬성표, 반대표: 하원의 왼쪽에 No Lobby(반대표 좌석), 오른쪽에 Aye Lobby(찬성표 좌석)가 있다."
+        },
+        {
+          "n": "8) come to[into] power",
+          "text": "정권을 장악하다, 집권하다"
+        },
+        {
+          "n": "9) lawmaker",
+          "text": "국회의원; 입법자, 법률 제정자"
+        },
+        {
+          "n": "10) reject",
+          "text": "(법률안을) 부결시키다, (제안을) 거절하다, 거부하다"
+        },
+        {
+          "n": "11) suspect",
+          "text": "용의자"
+        },
+        {
+          "n": "12) charge",
+          "text": "기소, 고소, 고발; 혐의; 비난"
+        },
+        {
+          "n": "13) impassioned",
+          "text": "열정적인, 열렬한(impassionate)"
+        },
+        {
+          "n": "14) appeal",
+          "text": "호소(하기); 간청, 애원, 요청"
+        },
+        {
+          "n": "15) back",
+          "text": "지지하다, 후원하다"
+        },
+        {
+          "n": "16) face",
+          "text": "(위험 따위에) 직면하다, (싫은 일을) 직시하다"
+        },
+        {
+          "n": "17) charged with",
+          "text": "…을 책임지고 있는"
+        },
+        {
+          "n": "18) provide[make, present] a compelling case for",
+          "text": "…에 대해 강력한 입장을 내놓다"
+        },
+        {
+          "n": "19) a majority of",
+          "text": "다수의, 과반수의"
+        },
+        {
+          "n": "20) MP",
+          "text": "((英) 국회의원: Member of Parliament의 약자"
+        },
+        {
+          "n": "21) plea",
+          "text": "[pli;] 탄원, 청원"
+        },
+        {
+          "n": "22) authority",
+          "text": "권력, 영향력"
+        },
+        {
+          "n": "23) settle for",
+          "text": "불만스럽지만 …을 받아들이다[참다]"
+        },
+        {
+          "n": "24) poll",
+          "text": "여론 조사 (결과), 인기 투표"
+        },
+        {
+          "n": "25) second thought(s)",
+          "text": "재고(再考)"
+        },
+        {
+          "n": "26) opponent",
+          "text": "대항자, 상대, 적수, 반대자"
+        },
+        {
+          "n": "27) resign",
+          "text": "사임[사직]하다, 퇴임하다"
+        },
+        {
+          "n": "28) Michael Howard",
+          "text": "마이클 하워드: 영국의 전직 보수당 당수로 총선에서 노동당에 3번 연속 패한 뒤 사임했다. 2005년 12월 데이비드 캐머론이 마이클 하워드를 이어 신임 보수당 당수로 뽑혔다."
+        },
+        {
+          "n": "29) Conservative",
+          "text": "보수당(원)의"
+        },
+        {
+          "n": "30) Opposition (Party)",
+          "text": "야당, (여당에 대한) 반대당"
+        },
+        {
+          "n": "31) seep [si;p] away",
+          "text": "(액체 따위가) 새어나가다, 스며나오다"
+        },
+        {
+          "n": "32) look to",
+          "text": "…쪽을 보다; …에 기대를 걸다"
+        },
+        {
+          "n": "33) likely",
+          "text": "((英) 유망한, 가망이 있는"
+        },
+        {
+          "n": "34) successor",
+          "text": "계승자, 후임, 후계자"
+        },
+        {
+          "n": "35) Gordon Brown",
+          "text": "고든 브라운: 현재 영국 재무장관으로 여당인 노동당의 당내 2인자"
+        },
+        {
+          "n": "36) cabinet minister",
+          "text": "((英) 장관, 각료"
+        },
+        {
+          "n": "37) squabble",
+          "text": "말다툼하다, 승강이하다"
+        },
+        {
+          "n": "38) ban on smoking in public",
+          "text": "공공장소 흡연 금지[규제]: 영국 정부는 음식을 파는 곳에서 전면 금연, 흡연을 허용하는 주점에서는 음식을 팔지 못하도록 하는 내용의 금연 정책을 내놓았다."
+        },
+        {
+          "n": "39) loyalist",
+          "text": "(반란 때의) 현정부 지지자; 충신"
+        },
+        {
+          "n": "40) David Blunkett",
+          "text": "데이비드 블런켓: 2004년 보모의 비자를 알선해 주었다는'보모게이트(Nannygate)'로 내무장관직을 사임했다가 노동연금부 장관으로 블레어 내각에 복귀했으나 민간기업 재직시 특혜를 받았다는 비판에 또 다시 사임함"
+        },
+        {
+          "n": "41) console oneself",
+          "text": "((재귀용법으로)) …에 만족하다, 납득하다"
+        },
+        {
+          "n": "42) terminally",
+          "text": "((구어)) 치명적으로, 절망적으로"
+        },
+        {
+          "n": "43) damaged",
+          "text": "손상[손해]을 입은"
+        },
+        {
+          "n": "44) wounded",
+          "text": "상처를 입은, 부상한"
+        },
+        {
+          "n": "45) push through",
+          "text": "(계획 따위를) 밀어붙여 통과시키다, 끝까지 해내다"
+        },
+        {
+          "n": "Parliament dealt",
+          "text": "[팔리어먼 델]."
+        },
+        {
+          "n": "power",
+          "text": "[파아-]"
+        },
+        {
+          "n": "impassioned appeal",
+          "text": "[임페션드 으피열]."
+        },
+        {
+          "n": "rejected his plea",
+          "text": "[리젝티으ㅈ 피-]."
+        },
+        {
+          "n": "two-thirds",
+          "text": "two-thirds는 2/3인 분수다."
+        },
+        {
+          "n": "worth a risk",
+          "text": "[워써리슼]."
+        },
+        {
+          "n": "hold terrorist suspects",
+          "text": "[호울 테러리스ㅌ 써스펙츠]."
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/1.wmv",
+  "legacyEncoding": "binary"
+}

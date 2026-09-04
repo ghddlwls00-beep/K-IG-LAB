@@ -1,0 +1,88 @@
+{
+  "id": "mv2-05",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-05 ]",
+  "unit": 5,
+  "part": null,
+  "order": 44,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-05.mp3",
+      "legacySrc": "sounds/mv2-05.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "nature",
+          "late",
+          "knife",
+          "near",
+          "fish",
+          "nice"
+        ],
+        [
+          "stay",
+          "next",
+          "safe",
+          "money",
+          "king",
+          "mad"
+        ],
+        [
+          "map",
+          "pull",
+          "wild",
+          "land",
+          "cold",
+          "blackboard"
+        ],
+        [
+          "lunch",
+          "moon",
+          "start",
+          "music",
+          "fast",
+          "museum"
+        ],
+        [
+          "wife",
+          "deep",
+          "office",
+          "look",
+          "low",
+          "lake"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-05 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-05.htm",
+  "legacyEncoding": "utf-8"
+}

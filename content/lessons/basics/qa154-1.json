@@ -1,0 +1,68 @@
+{
+  "id": "qa154-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa154",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 154-1 〕",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 4,
+  "order": 370,
+  "audio": [
+    {
+      "src": "/audio/basics/qa154.mp3",
+      "legacySrc": "sounds/qa154.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 154-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 그를 존경하는 이유 2) → 그(히딩크)는 당신에게 무엇을 가르쳐 주었습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "195",
+          "text": "처음에 / 사람들은 / 그분이 성공적이었다고 / 믿지 않았어."
+        },
+        {
+          "n": "196",
+          "text": "하지만 / 그분은 / 계속해서 최선을 다했어."
+        },
+        {
+          "n": "197",
+          "text": "마침내 / 그분은 / 자신이 성공할 수 있다는 것을 / 온 나라에 / 보여 주셨어."
+        },
+        {
+          "n": "198",
+          "text": "그분의 자신감과 긍정적인 태도가 / 우리 축구팀을 / 강력하게 / 만들었던 거야"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa154-1.htm",
+  "legacyEncoding": "utf-8"
+}

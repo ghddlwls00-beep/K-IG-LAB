@@ -1,0 +1,79 @@
+{
+  "id": "p023",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 023 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 3,
+  "order": 22,
+  "audio": [
+    {
+      "src": "/audio/middle/p023.mp3",
+      "legacySrc": "sounds/p023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 023 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Father/Mother)"
+    },
+    {
+      "type": "hints",
+      "text": "Father and Mother’s Job"
+    },
+    {
+      "type": "instruction",
+      "text": "My father works very hard at a small cell phone company."
+    },
+    {
+      "type": "instruction",
+      "text": "He has worked there for almost ten years."
+    },
+    {
+      "type": "instruction",
+      "text": "I think he is the hardest worker in his company."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother is a housewife."
+    },
+    {
+      "type": "instruction",
+      "text": "She had worked at a department store for several years."
+    },
+    {
+      "type": "instruction",
+      "text": "She is the best mother in the world."
+    },
+    {
+      "type": "instruction",
+      "text": "I really love my mother and father."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p023.htm",
+  "legacyEncoding": "utf-8"
+}

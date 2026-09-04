@@ -1,0 +1,130 @@
+{
+  "id": "cnn095",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Japan Finance Misinster: Yuan Reform Helps China",
+  "label": "Japan Finance Misinster: Yuan Reform Helps China",
+  "menuLabel": "[ CNN 95 ]",
+  "unit": 95,
+  "part": null,
+  "order": 94,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn095.mp4",
+      "legacySrc": "CNN/CNN61-120/95.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Japan Finance Misinster: Yuan Reform Helps China"
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s more pressure on China to reform its currency, this time the pressure coming from Japan. The Japanese finance minister met with his Chinese counterpart at the weekend and told him a more flexible currency would boost China’s economy. Now those comments came just days after U.S. politicians warned Beijing it must revalue its currency or face consequences. Chinese exports to the U.S. could soon face 27% tariffs if Beijing fails to comply.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "일본 재무상, 위안화 절상 촉구",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중국 통화 정책을 개혁하라는 압력이 가중되고 있습니다. 이번에는 일본으로부터 압력이 가해지고 있습니다. 일본 재무상은 지난 주말 중국 재무 부장을 만나 위안화의 유연성 증대가 중국 경제 활성화에 도움이 될 것이라고 말했습니다. 일본 재무상의 이 같은 발언은 중국이 위안화의 가치를 재평가하거나 아니면 그에 상응한 결과를 받아들여야 할 것이라는 미국 정치인들의 경고가 있은 지 며칠 만에 나온 것입니다. 이를 따르지 않을 경우 중국의 대미 수출품은 곧 27%의 관세를 물게됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nt-가 모음 중간에 오면 [t]가 [n]에 동화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. center [쎄너], identify [아이데너파이].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "인칭대명사의 [h]는 강세를 받지 못해 주로 탈락되거나 약화되어 발음된다. 따라서 [힘]이 아니라 [음]으로 약화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-mm-으로 [m]이 겹쳐 나오지만 한 번만 발음되어 [커멘츠]가 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "those는 발음이 약화되어 the로 혼동하기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. reform/ 개혁; 개혁하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "counterpart",
+          "text": "[캬우너팔-ㅌ]."
+        },
+        {
+          "n": "told him",
+          "text": "[톨-음]."
+        },
+        {
+          "n": "those comments",
+          "text": "[더 커멘츠]."
+        },
+        {
+          "n": "finance minister",
+          "text": "재무부장관"
+        },
+        {
+          "n": "yuan reform",
+          "text": "위안화 개혁: 여기서는 위안화 평가 절상의 의미"
+        },
+        {
+          "n": "counterpart",
+          "text": "…에 상응하는 사람[것]: 여기서는 앞서 나온 재무부 장관을 의미"
+        },
+        {
+          "n": "flexible currency",
+          "text": "화폐유연성"
+        },
+        {
+          "n": "boost",
+          "text": "활성화시키다"
+        },
+        {
+          "n": "warn",
+          "text": "경고하다"
+        },
+        {
+          "n": "revalue",
+          "text": "…을 재평가하다"
+        },
+        {
+          "n": "face consequences",
+          "text": "결과를 감수하다"
+        },
+        {
+          "n": "tariff",
+          "text": "관세"
+        },
+        {
+          "n": "comply",
+          "text": "동의하다, 따르다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/95.wmv",
+  "legacyEncoding": "binary"
+}

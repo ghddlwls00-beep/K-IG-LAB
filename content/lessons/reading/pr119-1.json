@@ -1,0 +1,47 @@
+{
+  "id": "pr119-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr119",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 119-1 ]",
+  "menuLabel": "[ pr119-1 ]",
+  "unit": 119,
+  "part": null,
+  "order": 237,
+  "audio": [
+    {
+      "src": "/audio/reading/pr119.mp3",
+      "legacySrc": "sounds/pr119.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 119-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "애들은 낯선이들을 보면 걱정을 경험한다. 2~6세의 애들은 귀신과 같은 현실에 근거하지 않은 것들에 대해 걱정을 한다. 7~12세의 애들은 부상이나 사고와 같은 그들에게 일어날 수 있는 실재적인 상황들에 대해 종종 두려워한다. 애들이 성장함에 따라, 두려움이 사라진다. 예를 들면, 5세 때에 불을 끄고는 잠을 자지 못하던 애가 1년 후면 귀신 예기를 즐길 수도 있다. 그리고 어떤 공포는, 동물원의 사자를 또닥거리길 원하지만 옆집 개를 만져 볼 엄두도 내지 못하는 어린애의 예에서처럼, 한가지 종류에 연장되기도 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr119-1.htm",
+  "legacyEncoding": "utf-8"
+}

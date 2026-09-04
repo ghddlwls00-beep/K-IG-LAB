@@ -1,0 +1,47 @@
+{
+  "id": "pr119",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 119 ]",
+  "menuLabel": "[ pr119 ]",
+  "unit": 119,
+  "part": null,
+  "order": 236,
+  "audio": [
+    {
+      "src": "/audio/reading/pr119.mp3",
+      "legacySrc": "sounds/pr119.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 119 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Babies experience anxiety when they see strangers. Children aged 2 through 6 show anxiety about things not based in reality such as ghosts. Kids aged 7 through 12 often fear real situation that may happen to them, such as injuries or accidents. As a child grows, fears my disappear. For example, a child who couldn't sleep with the light off at age 5 may enjoy ghost story years later. And some fears may extend only to one kind, as in the example of the child who wants to pet a lion at the zoo but wouldn't dream of putting the neighbor's dog."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr119.htm",
+  "legacyEncoding": "utf-8"
+}

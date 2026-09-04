@@ -1,0 +1,47 @@
+{
+  "id": "pr113",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 113 ]",
+  "menuLabel": "[ pr113 ]",
+  "unit": 113,
+  "part": null,
+  "order": 224,
+  "audio": [
+    {
+      "src": "/audio/reading/pr113.mp3",
+      "legacySrc": "sounds/pr113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 113 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Recently new building codes came into effect in our city. All new houses must now be built with proper building materials so that heat will not escape unnecessarily during the winter. The laws have had a definite effect. There has been a fifty percent saving in the amount of natural gas and electricity used. The city is doing other things to save energy. Buses, partly supported by the city, transport many people throughout the area. Many new bicycle paths were made, and today there are twice as many bicycles as cars in the city."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr113.htm",
+  "legacyEncoding": "utf-8"
+}

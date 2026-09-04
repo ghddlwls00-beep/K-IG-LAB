@@ -1,0 +1,64 @@
+{
+  "id": "qa052-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa052",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 052-1 〕",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 122,
+  "audio": [
+    {
+      "src": "/audio/basics/qa052.mp3",
+      "legacySrc": "sounds/qa052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 052-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(학교 가는 길 1) → 당신은 학교에 어떻게 도착합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "50",
+          "text": "난 보통 / 학교에 / 걸어가."
+        },
+        {
+          "n": "51",
+          "text": "약 / 15분 / 걸려."
+        },
+        {
+          "n": "52",
+          "text": "봄이나 가을에 / 때때로, / 난 / 학교에 / 자전거를 타고 가."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa052-1.htm",
+  "legacyEncoding": "utf-8"
+}

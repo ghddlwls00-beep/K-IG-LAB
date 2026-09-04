@@ -1,0 +1,83 @@
+{
+  "id": "d092-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d092",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 092회 ]",
+  "menuLabel": "[ D 092-1 ]",
+  "unit": 92,
+  "part": null,
+  "order": 183,
+  "audio": [
+    {
+      "src": "/audio/ld/d092.mp3",
+      "legacySrc": "sounds/d092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 092회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "더 고등 교육은 고등 학교 이후의 교육 과정을 계속한다. 많은 종류의 더 고등교육 기관들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "기술 연구소들은 전자, 엔지니어링, 사업 및 다른 주제들에 있어서의 2년 프로그램을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "지역 혹은 주니어 대학도 2년 프로그램을 제공한다. 이 프로그램의 일부는 직업적이다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 것들은 학술적이다. 주니어 대학에서의 2년 후에 학생들은 준학위를 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그 다음에 4년 대학에서 계속할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 학생들은 고등학교로부터 4년제 대학이나 종합대학으로 곧바로 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "단과대학과 종합대학은 많은 과정들과 프로그램들을 제공한다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것들은 문학사나 공학사 학위로 이어진다. 대부분의 종합대학은 또 직업학교들도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것들은 사업, 교육, 공학, 법, 의학에 있어서의 훈련을 제공한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d092-1.htm",
+  "legacyEncoding": "utf-8"
+}

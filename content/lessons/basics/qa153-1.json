@@ -1,0 +1,77 @@
+{
+  "id": "qa153-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa153",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 153-1 〕",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 3,
+  "order": 366,
+  "audio": [
+    {
+      "src": "/audio/basics/qa153.mp3",
+      "legacySrc": "sounds/qa153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 153-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(내가 그를 존경하는 이유 1) → 당신은 왜 그(히딩크)를 존경합니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "192",
+          "text": "많은 어려움 / 에도 불구하고 / 그분은 / 자신감을 / 절대 잃지 않으셨어."
+        },
+        {
+          "n": "193",
+          "text": "그분은 / 항상 / 승리하기 위해서는 / 기초부터 / 시작해야 한다는 것을"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 강조하셨어."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "194",
+          "text": "열심히 노력함으로서, / 그분은 / 한국팀을 / 월드컵 준결승까지"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 오르게 하셨어."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa153-1.htm",
+  "legacyEncoding": "utf-8"
+}

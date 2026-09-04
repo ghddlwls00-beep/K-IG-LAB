@@ -1,0 +1,47 @@
+{
+  "id": "pr054-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr054",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 054-1 ]",
+  "menuLabel": "[ pr054-1 ]",
+  "unit": 54,
+  "part": null,
+  "order": 107,
+  "audio": [
+    {
+      "src": "/audio/reading/pr054.mp3",
+      "legacySrc": "sounds/pr054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 054-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "성공적인 데이터베이스 마케팅 솔루션을 수행하기 위해, 여러분은 고객과 잠재 고객에 대한 적절한 데이터를 구별하고 수집하는 방법을 알고 원자료를 강력한 마케팅 정보로 바꾸기 위하여 데이터 창고 기술을 사용해서 행동을 분석하기 위해 통계 기술을 고객과 잠재 고객 데이터베이스 적용하고 그들의 반응의 가능성의 각도에서 개인을 점수를 매기는 것이 필요하다. 우리가 여러분에게 데이터베이스 마케팅을 위한 유일한 끝과 끝을 잇는 소프트웨어 솔류션을 여러분에게 소개함으로써 데이터베이스 마케팅 세미나에서 우리는 이러한 주제와 그 이상을 발표할 것이다. 데이터 베이스 마케팅 능력을 적용함으로써 여러분은 비용을 감소하면서 이윤을 증가할 수 있다. 여러분은 또한 고객 마찰을 줄이면서 고객의 수를 증가시킬수 있다. 응용 분석의 선구자인 SAS 연구소와 깊이있는 중요한 주제를 와서 체험하십시오."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr054-1.htm",
+  "legacyEncoding": "utf-8"
+}

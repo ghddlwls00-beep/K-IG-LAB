@@ -1,0 +1,113 @@
+{
+  "id": "m1-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m1-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 1,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/man/m1-1-1.mp3",
+      "legacySrc": "m1-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-1-2.mp3",
+      "legacySrc": "m1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-1-3.mp3",
+      "legacySrc": "m1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-1-4.mp3",
+      "legacySrc": "m1-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m1-1-5.mp3",
+      "legacySrc": "m1-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "만나서 반갑습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nice to meet you",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "먼저 제 소개를 할 수 있음에 감사드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, thank you for giving me a chance to introduce myself.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 이름은 홍길동입니다. 그러나 미스터 홍이라 불러주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My name’s 홍길동, but you can call me Mr.홍.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nice to meet you.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Self-introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting and Introduction",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m1-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m1-1.swf"
+  ]
+}

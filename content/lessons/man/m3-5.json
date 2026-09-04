@@ -1,0 +1,168 @@
+{
+  "id": "m3-5",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m3-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 5,
+  "order": 18,
+  "audio": [
+    {
+      "src": "/audio/man/m3-5-1.mp3",
+      "legacySrc": "m3-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-2.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-3.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-4.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-5.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-6.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-7.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-5-8.mp3",
+      "legacySrc": "m3-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 친구는 훌륭한 재능을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My friend has great talents.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "예를 들어, 그는 영어를 매우 잘하고 그는 매우 지적입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, he is very good at English, and he is very intelligent.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 젊었을 때, 그는 모든 시간동안 공부했고 학교에서 아주 잘했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When he was younger, he studied all of the time and did really well in school.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 좋은 대학교를 졸업할 수 있었고, 지금은 그는 아주 유명한 회사에서 일합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He was able to graduate from a very good university, and now, he works for a very prestigious company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 그로부터 인생에 관한 많은 것을 배워왔고, 나는 여전히 그에게 많은 것을 배웁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve learned many things about life from him, and I (still) have a lot to learn from him.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "민수는 항상 나의 문제를 이해하고, 내가 도움이 필요할 때 마다 그는 거기에 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "민수 always understands my problems, and whenever I need help, he is always there.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 가장 친한 친구로 그를 말 할 수 있어서 자랑스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m proud to call him my best friend.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I’ve learned many things about life from him, and I (still) have a lot to learnfrom him.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Best Friend is Talented",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m3-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m3-5.swf"
+  ]
+}

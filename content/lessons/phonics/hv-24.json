@@ -1,0 +1,88 @@
+{
+  "id": "hv-24",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-24 ]",
+  "unit": 24,
+  "part": null,
+  "order": 143,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-24.mp3",
+      "legacySrc": "sounds/hv-24.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "circulation",
+          "circuit",
+          "circumstance",
+          "excite",
+          "excitement",
+          "exciting"
+        ],
+        [
+          "recite",
+          "recital",
+          "civil",
+          "civilian",
+          "civilize",
+          "civilization"
+        ],
+        [
+          "citizen",
+          "citizenship",
+          "claim",
+          "proclaim",
+          "council",
+          "decline"
+        ],
+        [
+          "incline",
+          "inclined",
+          "climate",
+          "include",
+          "inclusion",
+          "exclude"
+        ],
+        [
+          "exclusion",
+          "exclusive",
+          "exclusively",
+          "conclude",
+          "conclusion",
+          "decay"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-24 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-24.htm",
+  "legacyEncoding": "utf-8"
+}

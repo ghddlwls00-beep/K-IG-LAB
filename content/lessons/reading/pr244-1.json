@@ -1,0 +1,47 @@
+{
+  "id": "pr244-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr244",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 244-1 ]",
+  "menuLabel": "[ pr244-1 ]",
+  "unit": 244,
+  "part": null,
+  "order": 487,
+  "audio": [
+    {
+      "src": "/audio/reading/pr244.mp3",
+      "legacySrc": "sounds/pr244.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 244-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 누군가를 소개받은 잠시 후 그들의 이름을 잊어버리게 되는 일이 얼마나 흔한가? 사실상, 우리는 많은 경우 그 이름을 결코 알지 못한다. 오늘날 소개는 다른 사람의 이름을 기억하는 것이 아주 어렵도록 불분명한 방식으로 되어진다. 사람들의 이름을 잊어버리는 것은 우리가 그들에게 사실은 관심이 없다는 것을 의미한다. 우리가 그들의 이름을 알 때. 우리는 \"너는 중요하다. 나는 너를 기억한다.\"고 말하고 있다. 따라서 만약에 당신이 다른 사람들과 좋은 사회적 관계를 이루고(형성하고)싶다면 분명한 소개가 되어져야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr244-1.htm",
+  "legacyEncoding": "utf-8"
+}

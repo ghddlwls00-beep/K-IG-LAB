@@ -1,0 +1,47 @@
+{
+  "id": "pr217",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 217 ]",
+  "menuLabel": "[ pr217 ]",
+  "unit": 217,
+  "part": null,
+  "order": 432,
+  "audio": [
+    {
+      "src": "/audio/reading/pr217.mp3",
+      "legacySrc": "sounds/pr217.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 217 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some writers think that to impress their readers, they have to use a lot of long words and try to sound \"intellectual.\" This is not so. Most readers prefer to read something that is clear, that they don't have to struggle with. They want the writer to do the work. If they have to spend time figuring out what the writer means, they will get impatient."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr217.htm",
+  "legacyEncoding": "utf-8"
+}

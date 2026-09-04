@@ -1,0 +1,323 @@
+{
+  "id": "s6-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s6-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 3,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/student/s6-3-1.mp3",
+      "legacySrc": "s6-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-2.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-3.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-4.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-5.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-6.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-7.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-8.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-9.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-10.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-11.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-12.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-13.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-14.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-15.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-16.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-17.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s6-3-18.mp3",
+      "legacySrc": "s6-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "He/She is tall.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "His/Her hair is (gray, black, white).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She has a habit of touching his/her nose (biting his/her nails, scratching his/her nails, cracking his/her knuckles, rubbing his/her eyes, etc.) when he/she teaches.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, He/She speaks with a funny accent!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She is very kind, and I like her/him a lot.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My teacher is from (Name) province.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I think he/she likes the color blue (green, red, black, purple, etc.) because he/she always wears a (red tie, black suit, purple dress).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 선생님은 강원도 출신이십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 그는/그녀는 우스운 억양으로 말씀하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 키가 큽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀의 머리는 (회색, 검정, 하얀)색 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 수업할 때 그는/그녀의 코를 만지는 버릇이 하나 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제 생각에 그는/그녀는 파란색(초록, 빨강, 검정, 보라, 등)을 좋아하십니다. 왜냐하면 그녀는 항상 (빨강 타이, 검정 정장, 보라색 드레스)을 입기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 매우 친절하시고 나는 그는/그녀를 많이 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 그는/그녀는 말한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 그는/그녀는 말한다.Sometimes, He/She speaks",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 재미있는 억양으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 재미있는 억양으로 with a funny accent!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 가지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 가지고 있다.He/She has",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의/그녀의 코를 만지는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그의/그녀의 코를 만지는a habit of touching his/her nose",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그가/그녀가 가르치실 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그가/그녀가 가르치실 때 when he/she teaches.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각한다.I think",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가/그녀가 파란색을 좋아한다고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그가/그녀가 파란색을 좋아한다고 he/she likes the color blue",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그는/그녀는 항상 파란색 타이를 매기 때문이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 그는/그녀는 항상 파란색 타이를 매기 때문이다. because he/she always wears a blue tie.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 매우 친절하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 매우 친절하다.He/She is very kind,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 그를/그녀를 많이 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 그를/그녀를 많이 좋아한다. and I like her/him a lot.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My School Teacher :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Teacher’s Personality",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s6-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s6-3.swf"
+  ]
+}

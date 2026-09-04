@@ -1,0 +1,132 @@
+{
+  "id": "gh1-009-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-009",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 009-2 ]",
+  "menuLabel": "[ gh1-009-2 ]",
+  "unit": 9,
+  "part": null,
+  "order": 9,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-009-2.mp3",
+      "legacySrc": "sounds/gh1-009-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 009-2 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "22",
+          "text": "Where was he?"
+        },
+        {
+          "n": "23",
+          "text": "Who were you?"
+        },
+        {
+          "n": "24",
+          "text": "Where was she?"
+        },
+        {
+          "n": "25",
+          "text": "Was she your girl friend?"
+        },
+        {
+          "n": "26",
+          "text": "Were they your friends?"
+        },
+        {
+          "n": "27",
+          "text": "Were these boys your classmates?"
+        },
+        {
+          "n": "28",
+          "text": "Whose pen was this?"
+        },
+        {
+          "n": "29",
+          "text": "Was she beautiful?"
+        },
+        {
+          "n": "30",
+          "text": "Was this pen yours?"
+        },
+        {
+          "n": "31",
+          "text": "Were these yours?"
+        },
+        {
+          "n": "32",
+          "text": "Was this mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where were they?"
+        },
+        {
+          "n": "34",
+          "text": "Where was she?"
+        },
+        {
+          "n": "35",
+          "text": "Where were we?"
+        },
+        {
+          "n": "36",
+          "text": "How was your mother?"
+        },
+        {
+          "n": "37",
+          "text": "Was he your boss?"
+        },
+        {
+          "n": "38",
+          "text": "What time was it then?"
+        },
+        {
+          "n": "39",
+          "text": "It was seven o'clock."
+        },
+        {
+          "n": "40",
+          "text": "Was it cold yesterday?"
+        },
+        {
+          "n": "41",
+          "text": "No, it was not cold yesterday."
+        },
+        {
+          "n": "42",
+          "text": "It was warm yesterday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-009-2.htm",
+  "legacyEncoding": "utf-8"
+}

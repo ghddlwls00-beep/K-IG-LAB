@@ -1,0 +1,47 @@
+{
+  "id": "pr028-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr028",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 028-1 ]",
+  "menuLabel": "[ pr028-1 ]",
+  "unit": 28,
+  "part": null,
+  "order": 55,
+  "audio": [
+    {
+      "src": "/audio/reading/pr028.mp3",
+      "legacySrc": "sounds/pr028.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 028-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 당신은 당신이 진실로 의도하지 않는 것을 말한다. 그러나 한번 발사된 총알 처럼 한번 말해진 말은 취소될수 없다. 당신이 쓸데 없이 상처를 주는 어떤것을 말하기 전에 진정해라. 단지 감정이 아니라 이성을 가지고 말해라. 그렇지 않으면 당신은 항상 후회할 것을 말할지도 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr028-1.htm",
+  "legacyEncoding": "utf-8"
+}

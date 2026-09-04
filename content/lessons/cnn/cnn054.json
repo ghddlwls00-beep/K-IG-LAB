@@ -1,0 +1,137 @@
+{
+  "id": "cnn054",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Supreme Court Turned Down the BlackBerry Appeal",
+  "label": "Supreme Court Turned Down the BlackBerry Appeal",
+  "menuLabel": "[ CNN 54 ]",
+  "unit": 54,
+  "part": null,
+  "order": 53,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn054.mp4",
+      "legacySrc": "CNN/CNN1-60/54.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Supreme Court Turned Down the BlackBerry Appeal"
+    },
+    {
+      "type": "paragraph",
+      "text": "BlackBerry addicts had better beware. You may soon have to go cold turkey. Research In Motion, the company behind the gadget, is facing the prospect of a shutdown of all BlackBerry sales and services in the U.S. That’s after the U.S. Supreme Court refused to review a patent infringement ruling against RIM. In 2003, the federal court granted an injunction to NTP, a U.S. patent holding company, to shut down RIM’s service in the U.S. pending appeal.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "대법원, 블랙베리의 항소 기각",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "블랙베리 중독자들은 긴장하십시오. 조만간 블랙베리를 완전히 끊어야 할지도 모릅니다. 블랙베리 제조사인 리서치 인 모션 사는 미국 시장에서 모든 단말기 판매 및 서비스를 중단해야할 위기에 처했습니다. 이는 미 연방 대법원이 림 사의 특허침해 판결에 대한 재심을 기각했기 때문입니다. 2003년 연방 법원은 계류중인 항소심 판결에서 미국내 특허권 보유 업체인 NTP 사에, 림 사의 미국 내 서비스를 중단시킬 수 있는 권리를 허용했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) patent/ 특허(권) (2) infringement/ (판권, 특허권 따위의) 침해",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "better beware",
+          "text": "[베러비웨이]. better의 [t]는 [ㄹ]로 유음화되고, beware의 -ware는 [웨어]가 아닌 [웨이]로 발음되어 way처럼 들린다."
+        },
+        {
+          "n": "behind the gadget",
+          "text": "[버하인더 게짓]. behind는 [비하인] 또는 [버하인]으로 발음될 수 있다. -d와 th-의 조음위치가 비슷해 한번만 발음되고 있다."
+        },
+        {
+          "n": "federal court",
+          "text": "[페듀럴 커-ㅌ]. [d]가 [r]의 영향으로 [듀] 혹은 [쥬]로 발음된다."
+        },
+        {
+          "n": "Supreme Court",
+          "text": "((美)) 연방대법원"
+        },
+        {
+          "n": "turn down",
+          "text": "…을 기각하다, 거절하다"
+        },
+        {
+          "n": "BlackBerry",
+          "text": "블랙베리: 캐나다의 림(RIM) 사에 의해 개발된 휴대용 이메일 수신 단말기"
+        },
+        {
+          "n": "appeal",
+          "text": "{법률}항소, 상고"
+        },
+        {
+          "n": "addict",
+          "text": "(스포츠, 오락 따위의) 팬, 애호가; 중독자"
+        },
+        {
+          "n": "beware",
+          "text": "조심하다, 경계하다, 주의하다"
+        },
+        {
+          "n": "go cold turkey",
+          "text": "(마약 등을) 갑자기 끊다"
+        },
+        {
+          "n": "Research In Motion",
+          "text": "리서치 인 모션 사: 블랙베리 개발사인 림(RIM)사의 원래 명칭"
+        },
+        {
+          "n": "gadget",
+          "text": "장치, 기구"
+        },
+        {
+          "n": "prospect",
+          "text": "가망, 가능성; 예상, 전망"
+        },
+        {
+          "n": "shutdown",
+          "text": "일시 폐쇄, 휴업"
+        },
+        {
+          "n": "review",
+          "text": "{법률}재심하다"
+        },
+        {
+          "n": "patent infringement",
+          "text": "특허(권) 침해"
+        },
+        {
+          "n": "ruling",
+          "text": "(재판부의) 판결, 판례"
+        },
+        {
+          "n": "injunction",
+          "text": "(법원의) 강제명령"
+        },
+        {
+          "n": "NTP",
+          "text": "NTP 사: 미국내 휴대용 이메일 수신 단말기의 특허 소유 기업"
+        },
+        {
+          "n": "patent holding company",
+          "text": "특허권 보유 업체"
+        },
+        {
+          "n": "pending",
+          "text": "미결정의, 현안중의"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/54.wmv",
+  "legacyEncoding": "binary"
+}

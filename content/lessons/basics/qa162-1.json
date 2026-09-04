@@ -1,0 +1,60 @@
+{
+  "id": "qa162-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa162",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 162-1 〕",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 380,
+  "audio": [
+    {
+      "src": "/audio/basics/qa162.mp3",
+      "legacySrc": "sounds/qa162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 162-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 미래의 꿈 2) → 당신은 어떻게 이 꿈(통역사)으로 결정하게 되었습니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "202",
+          "text": "몇 년 전에, / 엘리자베스 여왕이 한국에 오셨을 / 때 / 통역관과 함께 / 오셨어."
+        },
+        {
+          "n": "203",
+          "text": "그 통역관은 / 매우 전문적이었고 / 나에게 / 큰 감명을 주셨어."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa162-1.htm",
+  "legacyEncoding": "utf-8"
+}

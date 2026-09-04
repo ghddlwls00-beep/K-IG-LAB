@@ -1,0 +1,638 @@
+{
+  "id": "s16-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s16-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 69,
+  "audio": [
+    {
+      "src": "/audio/student/s16-2-1.mp3",
+      "legacySrc": "s16-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-2.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-3.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-4.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-5.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-6.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-7.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-8.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-9.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-10.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-11.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-12.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-13.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-14.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-15.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-16.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-17.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-18.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-19.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-20.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-21.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-22.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-23.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-24.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-25.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-26.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-27.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-28.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-29.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-30.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-31.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-32.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-33.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-34.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-35.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-36.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-37.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-38.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-2-39.mp3",
+      "legacySrc": "s16-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "So, I know that English is important.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, I want to translate many interesting books so that many more people can enjoy reading them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Furthermore, I want to write books in English, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, English is the most widely used language in the world.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, if I go to another country, the people might not understand Korean, so I must learn to speak English well so that I can communicate with them comfortably.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many reasons why I want to become an interpreter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another reason is that I want to interpret for people who can’t speak English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로,Finally,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/만약 내가 다른 나라로 간다면",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/만약 내가 다른 나라로 간다면 if I go to another country,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그곳 사람들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그곳 사람들이 the people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/이해하지 못할 지도 모릅니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/이해하지 못할 지도 모릅니다 might not understand",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국말을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국말을Korean,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 반드시 배워야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 반드시 배워야 합니다. so I must learn",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어를 잘 말할 수 있도록",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어를 잘 말할 수 있도록 to speak English well",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 의사소통을 할 수 있기 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그래서 나는 의사소통을 할 수 있기 위해서 so that I can communicate",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그들과",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그들과 with them",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/편안하게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/편안하게 comfortably.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "왜 내가 통역사가 되고 싶어하는지에 대한 이유는 많이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째, 영어는 세계에서 가장 널리 사용되는 언어입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 저는 영어가 중요하다는 것을 알고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째, 나는 많은 재미있는 책들을 번역하고 싶습니다. 그래서 더 많은 사람들이 그것들을 읽는 것을 즐길 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가, 나는 또한 책들을 영어로 쓰고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또 다른 이유는 나는 영어를 말할 수 없는 사람들을 위해서 통역해 주고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로, 만일 내가 다른 나라에 간다면 그곳 사람들은 한국말을 이해 할 수 없을지도 몰라서 나는 영어를 잘 말하도록 배워야 합니다. 그래서 나는 그들과 의사소통을 원할히 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 이유들이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 이유들이 있습니다.There are many reasons",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜 내가 원하는지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜 내가 원하는지 why I want",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 통역사가 되기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 통역사가 되기를 to become an interpreter.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "첫째,First,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어는 English is",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 널리 사용되는 언어",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 널리 사용되는 언어 the most widely used language",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 세계에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 세계에서 in the world.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 압니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 압니다.So, I know",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어가 중요하다는 것을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어가 중요하다는 것을 that English is important.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘째,Second,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 통역하기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 통역하기를 원합니다. I want to translate",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 재미있는 책들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 재미있는 책들을 many interesting books",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 더 많은 사람들이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그래서 더 많은 사람들이 so that many more people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것을 읽고 즐길 수 있도록",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그것을 읽고 즐길 수 있도록 can enjoy reading them.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가Furthermore,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 책을 쓰기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 책을 쓰기를 원합니다. I want to write books",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어로, 역시",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 영어로, 역시 in English, too.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또 다른 이유는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또 다른 이유는Another reason is",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 통역하기를 원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나는 통역하기를 원합니다. that I want to interpret",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/사람들을 위해서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/사람들을 위해서 for people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어로 말할 수 없는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어로 말할 수 없는 who can't speak English.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Other Dream Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why Do I Want to Become an Interpreter?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s16-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s16-2.swf"
+  ]
+}

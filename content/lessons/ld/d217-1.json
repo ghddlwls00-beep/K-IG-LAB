@@ -1,0 +1,75 @@
+{
+  "id": "d217-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d217",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 217 회 ]",
+  "menuLabel": "[ D 217-1 ]",
+  "unit": 217,
+  "part": null,
+  "order": 432,
+  "audio": [
+    {
+      "src": "/audio/ld/d217.mp3",
+      "legacySrc": "sounds/d217.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 217 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 사람들이 죽음과 불운의 상징물을 믿는 것과 똑같이 다른 사람들은 행운의 부적의 힘을 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국에서는 네잎 클로버는 많은 사람들에 의하여 행복과 번영의 상징물로 여겨진다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇 사람은 행운의 부적으로써 작은 토끼발을 쇠사슬에 꿰어서 갖고 다닌다."
+    },
+    {
+      "type": "instruction",
+      "text": "한가지 인기있는 형태의 미신적인 여흥은 점쟁이에게로의 방문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들은 점을 믿지 않지만 그들은 점쟁이들의 예언과 경고를 재미있고 즐겁다고 여긴다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 점쟁이들은 손님들에게 앞으로 일어날 좋은 것들에 대하여"
+    },
+    {
+      "type": "instruction",
+      "text": "말해줌으로써 그들을 즐겁게 하려고 노력한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d217-1.htm",
+  "legacyEncoding": "utf-8"
+}

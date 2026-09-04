@@ -1,0 +1,47 @@
+{
+  "id": "pr099-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr099",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 099-1 ]",
+  "menuLabel": "[ pr099-1 ]",
+  "unit": 99,
+  "part": null,
+  "order": 197,
+  "audio": [
+    {
+      "src": "/audio/reading/pr099.mp3",
+      "legacySrc": "sounds/pr099.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 099-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "18세기의 한 학자는 \"물이란, 삶을 위해 필수적인 것이, 공짜이다. 반면에, 다이아몬드는, 무엇을 위해서도 필수적이지 않은 것이, 비싸다\" 고 말했다. 유감스럽게도, 그러한 논평이 행해진 이후 세상은 많이 변했다. 200년 전에 사실이었던 것이 더 이상 사실이 아니다. 그러나 여전히 진실인 것은 \"우물이 마르면 그것의 가치를 안다\"는 필자의 언급이다. 즉, 물론 우리가 그 것을 너무 많이 갖고 있지 않다해도, 우리가 그것을 갖고 있을 땐 그것을 무시한다는 것이다. 그러나 일단 물 공급에 대한 위협이 있게 되면, 물은 즉시 문제가 되는 유일한 것이 될 수 있다. 우리는, 그 것이 없다면 생명이 존재할 수 없다는 것을 너무도 잘 안다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr099-1.htm",
+  "legacyEncoding": "utf-8"
+}

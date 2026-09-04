@@ -1,0 +1,47 @@
+{
+  "id": "pr122-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr122",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 122-1 ]",
+  "menuLabel": "[ pr122-1 ]",
+  "unit": 122,
+  "part": null,
+  "order": 243,
+  "audio": [
+    {
+      "src": "/audio/reading/pr122.mp3",
+      "legacySrc": "sounds/pr122.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 122-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "최근에 콜롬비아는 수출로 많은 돈을 벌지 못했다. 콜롬비아 주요 수출농작물은 커피지만 세계의 커피 수요가 감소했다. 또, 다른 나라가 더 많은 커피를 수출하기 시작해 가격이 떨어졌다. 결굴 콜롬비아 정부는 농민에게 식량을 자급할 수 있도록 더 많은 식량을 생산하도록 권장했다. 따라서 농민은 커피를 덜 생산했다. 이러한 요인으로 콜롬비아는 10년 전보다 커피 수출에서 현금을 훨씬 덜 벌고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr122-1.htm",
+  "legacyEncoding": "utf-8"
+}

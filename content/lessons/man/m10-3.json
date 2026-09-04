@@ -1,0 +1,153 @@
+{
+  "id": "m10-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m10-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 3,
+  "order": 47,
+  "audio": [
+    {
+      "src": "/audio/man/m10-3-1.mp3",
+      "legacySrc": "m10-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-2.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-3.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-4.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-5.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-6.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-3-7.mp3",
+      "legacySrc": "m10-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "고등학교에서, 나의 친구들과 함께 나는 주위를 방황하며 시간을 보냈습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In high school, I spent my time wandering around with my friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내 삶의 이 시점에, 나의 부모님과 상급생들이 나의 인생이 더 좋게 바뀌는 방법에 대해서 좋은 조언을 해주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "At this point in my life, my parents and upper classmates gave me good adviceabout how to change my life for the better.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이것은 내가 나의 학업의 길로 돌아가도록 정말 도움이 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This really helped me to get back on track with my studies.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그때, 나는 좋은 대학에 들어가기 위해 정말로 준비를 시작했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, I started to really prepare to enter a good university.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 어릴 때 우리는 이 시기가 우리의 미래를 위해 얼마나 중요한지 깨닫지 못합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we are young we do not realize how important this time is to our future.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 길을 찾게 도와준 사람들이 있어서 아주 기쁩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am really glad I had people to help me find my way.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "In high school,5 I spent my time wandering around with my friends.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Difficult Time in High School",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m10-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m10-3.swf"
+  ]
+}

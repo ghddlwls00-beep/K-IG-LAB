@@ -1,0 +1,55 @@
+{
+  "id": "am031",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 031 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 1,
+  "order": 27,
+  "audio": [
+    {
+      "src": "/audio/adults/am031.mp3",
+      "legacySrc": "sounds/am031.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 031 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Greeting"
+    },
+    {
+      "type": "hints",
+      "text": "Almost everyone in the world has a best friend."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce my best friend 김민수 to you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am031.htm",
+  "legacyEncoding": "utf-8"
+}

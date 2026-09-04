@@ -1,0 +1,488 @@
+{
+  "id": "s12-2",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s12-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 2,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/student/s12-2-1.mp3",
+      "legacySrc": "s12-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-2.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-3.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-4.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-5.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-6.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-7.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-8.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-9.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-10.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-11.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-12.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-13.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-14.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-15.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-16.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-17.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-18.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-19.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-20.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-21.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-22.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-23.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-24.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-25.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-26.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-27.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-28.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s12-2-29.mp3",
+      "legacySrc": "s12-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Last summer vacation, our family went to the seaside next to the East Sea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every holiday, there are major traffic jams, and it takes a long time to go a very short distance.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also very hot for traveling.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "During summer vacation, my family usually goes on a short trip to visit our relatives.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I spend my summer vacation a bit different from the winter one.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if it is terribly hot during the summer, I am happy to travel with my family anyways.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 가족과 함께 여행하는 것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 가족과 함께 여행하는 것이 to travel with my family",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어쨌든",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 어쨌든 anyways.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 여름방학을 겨울방학과는 조금 다르게 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여름방학 동안, 나의 가족은 보통 우리의 친척들을 방문하기 위해 짧은 여행을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난 여름방학에, 우리 가족은 동해 옆에 있는 바닷가로 갔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "매 휴일마다 큰 교통체증이 있고 그것은 아주 짧은 거리를 가는 데에 많은 시간이 걸리게합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 여행을 하기에도 매우 덥습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "어쨌던, 비록 여름 동안 지독히 덥다 하더라도, 나는 나의 가족과 함께 여행하는 것이 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 보냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 보냅니다.I spend",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 여름 방학을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 여름 방학을 my summer vacation",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 겨울방학과는 조금 다르게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 겨울방학과는 조금 다르게 a bit different from the winter one.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여름방학동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여름방학동안During summer vacation,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 가족은 보통",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 가족은 보통 my family usually",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/짧은 여행을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/짧은 여행을 갑니다. goes on a short trip",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 친척들을 방문하기 위해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 친척들을 방문하기 위해 to visit our relatives.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난 여름방학에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난 여름방학에Last summer vacation,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 가족은 갔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리의 가족은 갔습니다. our family went",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/해변으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/해변으로to the seaside",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/동해 옆에 있는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/동해 옆에 있는next to the East Sea.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "매 휴일마다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "매 휴일마다Every holiday,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 큰 교통체증이 있고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 큰 교통체증이 있고 there are major traffic jams,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 짧은 거리를 가는데",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 짧은 거리를 가는데 to go a very short distance.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 오랜시간이 걸립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 오랜시간이 걸립니다. and it takes a long time",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 또한 매우 덥습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 또한 매우 덥습니다.It is also very hot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 여행을 하기 에는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 여행을 하기 에는 for traveling.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지독히 덥다 할지라도",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지독히 덥다 할지라도 Even if it is terribly hot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 여름동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 여름동안 during the summer,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 행복합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 행복합니다. I am happy",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "What I Do During School Vacations :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Summer Vacation",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s12-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s12-2.swf"
+  ]
+}

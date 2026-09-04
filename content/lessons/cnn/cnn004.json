@@ -1,0 +1,137 @@
+{
+  "id": "cnn004",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Toxic Spill Threatens China, Russia",
+  "label": "Toxic Spill Threatens China, Russia",
+  "menuLabel": "[ CNN 4 ]",
+  "unit": 4,
+  "part": null,
+  "order": 3,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn004.mp4",
+      "legacySrc": "CNN/CNN1-60/4.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Toxic Spill Threatens China, Russia"
+    },
+    {
+      "type": "paragraph",
+      "text": "A top environmental official says Russia plans to airlift tons of activated carbon to help absorb a toxic chemical spill flowing downstream from China. The pollutants are expected to reach Russian territory within days. China has apologized to its neighbor for the disaster which happened when a chemical plant exploded leaking tons of benzene into the water supply. Meantime, authorities have reconnected the water supply in Harbin, the northern Chinese city directly downriver from the spill. Millions of residents have been without water for four days.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "독극물 유출로 중국과 러시아 위협받아",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "중국에서 (쑹화강) 하류 쪽으로 유출된 유독 화학물질을 흡수 제거하기 위해 러시아가 수 톤의 활성탄을 공수할 계획이라고 환경 관련 한 고위 관리가 밝혔습니다. 오염물질은 며칠 안에 러시아 영토로 유입될 것으로 예상됩니다. 중국 정부는 화학공장 폭발로 상수원에 수 톤의 벤젠이 유출된 사태에 대해 이웃나라 러시아에 사과했습니다. 한편 중국 당국은 독극물이 유출된 강 하류에 근접한 북부 도시 하얼빈에 (중단되었던) 상수도 공급을 재개했습니다. 수백만 명의 주민들이 지난 4일간 물을 공급 받지 못했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. toxic chemical/ 유해 화학물",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "environmental official",
+          "text": "[인바이 런먼틀 으피셜]. official의 강세가 2음절에 있어 첫모음 o가 약화되어 [으]로 발음되고 있다. environmental에서 -tal도 강세를 받지 못해 [틀]로 발음되고 있다."
+        },
+        {
+          "n": "plans to",
+          "text": "[플란 투]. 영국식 발음으로 a를 [아]로 발음하고 있다. 뒤에 나오는 plant도 [플란ㅌ]로 발음되고 있다. 또한 영국식 발음은 [t] 발음도 강하게 해 water를 [워터]로 발음한다."
+        },
+        {
+          "n": "Millions of residents",
+          "text": "[밀리언 드레써던]. -nt로 끝나는 단어의 [t]음은 주로 탈락되어 residents가 [레써던]으로 발음되고 있다. resident의 -si-가 [저]가 아닌 [써]로 발음되어 더욱 혼동되고 있다."
+        },
+        {
+          "n": "toxic",
+          "text": "유독 화학약품, 독물; 유독한, 독성의"
+        },
+        {
+          "n": "spill",
+          "text": "(액체 따위의) 유출"
+        },
+        {
+          "n": "threaten",
+          "text": "위협하다"
+        },
+        {
+          "n": "airlift",
+          "text": "(인원, 화물을) 공수하다"
+        },
+        {
+          "n": "activated carbon",
+          "text": "활성탄(active carbon): 대부분 탄소질로 구성된 물질로 흡착성이 강하다."
+        },
+        {
+          "n": "absorb",
+          "text": "(수분을) 흡수하다, 빨아올리다"
+        },
+        {
+          "n": "downstream",
+          "text": "하류로; 하류의(downriver)"
+        },
+        {
+          "n": "pollutant",
+          "text": "오염물질, 오염원"
+        },
+        {
+          "n": "territory",
+          "text": "영토; (넓은) 지역, 지방"
+        },
+        {
+          "n": "apologize to A for B",
+          "text": "A에게 B에 대해 사과하다"
+        },
+        {
+          "n": "chemical plant",
+          "text": "화학공장"
+        },
+        {
+          "n": "explode",
+          "text": "폭발하다, 파열하다"
+        },
+        {
+          "n": "leak",
+          "text": "(액체가) 새다, 누출하다"
+        },
+        {
+          "n": "benzene",
+          "text": "벤 젠 : 콜타르를 분류(分溜)해서 얻은 휘발성 액체"
+        },
+        {
+          "n": "water supply",
+          "text": "상수도, 급수시설"
+        },
+        {
+          "n": "reconnect",
+          "text": "(상수,가스,전화 등을) 다시 공급[연결]하다"
+        },
+        {
+          "n": "Harbin",
+          "text": "하얼빈: 중국 헤이룽장성의 성도(省都)"
+        },
+        {
+          "n": "resident",
+          "text": "주민, 거주자"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/4.wmv",
+  "legacyEncoding": "binary"
+}

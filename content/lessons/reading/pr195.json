@@ -1,0 +1,47 @@
+{
+  "id": "pr195",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 195 ]",
+  "menuLabel": "[ pr195 ]",
+  "unit": 195,
+  "part": null,
+  "order": 388,
+  "audio": [
+    {
+      "src": "/audio/reading/pr195.mp3",
+      "legacySrc": "sounds/pr195.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 195 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Suppose a football game begins at 1:00 p.m. in New York. It is then 6:00 p.m. in London. Which time is correct? if an explosion occurred on a star, scientists on the earth would record th time it happened. But anyone traveling in another part of the universe in a different direction would identify the time differently. Thus there is no absolute time."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr195.htm",
+  "legacyEncoding": "utf-8"
+}

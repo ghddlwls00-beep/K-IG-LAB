@@ -1,0 +1,105 @@
+{
+  "id": "cnn017",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "$100 Laptop*",
+  "label": "$100 Laptop*",
+  "menuLabel": "[ CNN 17 ]",
+  "unit": 17,
+  "part": null,
+  "order": 16,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn017.mp4",
+      "legacySrc": "CNN/CNN1-60/17.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "$100 Laptop*"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s a creation that may help bridge the digital divide. Researchers unveiled a new laptop computer at the UN’s World Summit on (the) Information Society in Tunisia and it only costs $100. The bright green laptop could soon be in the hands of even the poorest children around the world. (The) computer operates on half the processor speed of commercial laptops. The yellow hand crank on the side serves as an alternative power source when batteries or reliable electricity isn’t available.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "100달러짜리 노트북이라구?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이게 바로 정보 격차를 줄여줄 발명품입니다. 연구원들은 튀니지에서 열린 UN 정보사회 세계 정상회의에서 새로운 노트북 컴퓨터를 선보였는데 가격이 겨우 100달러밖에 안합니다. 이제 조만간 세계 전역의 최극빈 어린이들은 밝은 녹색의 이 노트북을 손에 넣을 수 있게 되었습니다. 이 컴퓨터는 시중 노트북에 비해 절반(수준)의 연산 처리 속도로 작동합니다. 옆면에 부착된 노란색 핸드 크랭크는 배터리가 다 떨어졌거나 전기 공급이 제대로 이뤄지지 않을 때 대체 전력원 역할을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. crank/ ((기계)) 크랭크, L자형 핸들(기계의 축에 연결되어 운동을 전달하는 장치)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* laptop",
+          "text": "노트북, 랩톱[휴대용] 컴퓨터"
+        },
+        {
+          "n": "creation",
+          "text": "창작물, 산물; 창안; 창의물"
+        },
+        {
+          "n": "bridge",
+          "text": "(공백을) 메우다, …에게 중개 역할을 하다"
+        },
+        {
+          "n": "digital divide",
+          "text": "정보 격차: 선진국과 개도국 간의 정보 격차"
+        },
+        {
+          "n": "World Summit on Information Society",
+          "text": "정보사회 세계 정상회의(WSIS): 유엔이 주최하는 정보사회 관련 국제회의"
+        },
+        {
+          "n": "Tunisia",
+          "text": "튀니지: 아프리카 북부의 공화국"
+        },
+        {
+          "n": "be in the hands of",
+          "text": "…의 수중에 있다, …에게 맡겨져 있다"
+        },
+        {
+          "n": "operate on",
+          "text": "(기계,기관 따위가) 움직이다, 일[작동]하다"
+        },
+        {
+          "n": "processor",
+          "text": "((컴퓨터)) 중앙 연산 처리 장치; 언어 처리 프로그램"
+        },
+        {
+          "n": "commercial",
+          "text": "대중 상품화한, 시판의"
+        },
+        {
+          "n": "hand crank",
+          "text": "핸드 크랭크: 전원을 공급하기 위한 자체발전 기구로 손으로 돌려서 시동을 걸 수 있다."
+        },
+        {
+          "n": "alternative",
+          "text": "((컴퓨터)) 교체[교대]의, 대체의"
+        },
+        {
+          "n": "reliable electricity",
+          "text": "충분한 전력"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/17.wmv",
+  "legacyEncoding": "binary"
+}

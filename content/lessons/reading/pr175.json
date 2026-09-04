@@ -1,0 +1,47 @@
+{
+  "id": "pr175",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 175 ]",
+  "menuLabel": "[ pr175 ]",
+  "unit": 175,
+  "part": null,
+  "order": 348,
+  "audio": [
+    {
+      "src": "/audio/reading/pr175.mp3",
+      "legacySrc": "sounds/pr175.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 175 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people change their eating patterns to meet the needs of different situations. They have certain ideas about which food will increase their athletic ability, help them lose weight, or put them in the mood for romance. For example, these people choose fruit and vegetables to give them strength for physical activity. They choose foods rich in fiber, such as bread and cereal for breakfast, and salads for lunch to prepare them for business appointments. For romantic dinners , however, they choose shrimp and lobster."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr175.htm",
+  "legacyEncoding": "utf-8"
+}

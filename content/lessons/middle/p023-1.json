@@ -1,0 +1,83 @@
+{
+  "id": "p023-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p023",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 023-1 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 3,
+  "order": 23,
+  "audio": [
+    {
+      "src": "/audio/middle/p023.mp3",
+      "legacySrc": "sounds/p023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 023-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(아버지/어머니)"
+    },
+    {
+      "type": "instruction",
+      "text": "아버지와 어머니의 직업"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지는 작은 핸드폰 회사에서 아주 열심히 일합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 거기에서 거의 10년 동안 일해오고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "제가 생각하기에는 그는 그 회사에서"
+    },
+    {
+      "type": "instruction",
+      "text": "가장 열심히 일하시는 분 같습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니는 가정주부 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 몇 년 동안 백화점에서"
+    },
+    {
+      "type": "instruction",
+      "text": "일했습니다. 그녀는 세상에서 최고의 어머니 이십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 어머니와 아버지를 정말 사랑합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p023-1.htm",
+  "legacyEncoding": "utf-8"
+}

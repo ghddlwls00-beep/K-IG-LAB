@@ -1,0 +1,88 @@
+{
+  "id": "hv-19",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-19 ]",
+  "unit": 19,
+  "part": null,
+  "order": 138,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-19.mp3",
+      "legacySrc": "sounds/hv-19.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "alternative",
+          "alien",
+          "embarrassment",
+          "apt",
+          "annually",
+          "embarrassing"
+        ],
+        [
+          "annual",
+          "embarrass",
+          "bar",
+          "anniversary",
+          "bind",
+          "anxiety"
+        ],
+        [
+          "bundle",
+          "artistic",
+          "anxious",
+          "artisan",
+          "artificial",
+          "capable"
+        ],
+        [
+          "considerable",
+          "consider",
+          "achievement",
+          "astronomer",
+          "achieve",
+          "chiefly"
+        ],
+        [
+          "astronomy",
+          "chief",
+          "astronaut",
+          "capitalist",
+          "obedient",
+          "disastrous"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-19 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-19.htm",
+  "legacyEncoding": "utf-8"
+}

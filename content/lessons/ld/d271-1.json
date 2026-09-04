@@ -1,0 +1,75 @@
+{
+  "id": "d271-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d271",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 271 회 ]",
+  "menuLabel": "[ D 271-1 ]",
+  "unit": 271,
+  "part": null,
+  "order": 539,
+  "audio": [
+    {
+      "src": "/audio/ld/d271.mp3",
+      "legacySrc": "sounds/d271.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 271 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "음악은 범세계적인 언어인 것과 꼭 마찬가지로 그것은 시대의 거울이기도 하다."
+    },
+    {
+      "type": "instruction",
+      "text": "중세의 하나님 중심 사상은 찬송가와 예배의 성가(chant)에서 표현된 한편"
+    },
+    {
+      "type": "instruction",
+      "text": "18세기의 위엄과 우아함은 장엄한 미뉴에트에서 나타난다."
+    },
+    {
+      "type": "instruction",
+      "text": "19세기의 새로운 사상과 낭만주의는 베토벤과 브람스같은 위대한 거장들에 의해서 잘 묘사되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "유사한 방식으로 현대는 재즈와 스윙의 리듬에서 표현된다."
+    },
+    {
+      "type": "instruction",
+      "text": "심지어는 소위 현대의 “고전”작곡가들의 음악까지도 이상한 리듬과 불협화음이 특징이다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금부터 백년 후에는 사람들이 우리의 음악을 듣고 현시대의 들뜸과 활력을 맛보게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d271-1.htm",
+  "legacyEncoding": "utf-8"
+}

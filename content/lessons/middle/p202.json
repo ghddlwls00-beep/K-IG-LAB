@@ -1,0 +1,63 @@
+{
+  "id": "p202",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 202]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 198,
+  "audio": [
+    {
+      "src": "/audio/middle/p202.mp3",
+      "legacySrc": "sounds/p202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 202]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Several Famous Places)"
+    },
+    {
+      "type": "hints",
+      "text": "Our country has many attractive places to visit that are natural,"
+    },
+    {
+      "type": "instruction",
+      "text": "historical, and sometimes man-made."
+    },
+    {
+      "type": "instruction",
+      "text": "Such places include the Bulguk-Temple, Soungni-San National Park,"
+    },
+    {
+      "type": "instruction",
+      "text": "and Independence-Hall."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p202.htm",
+  "legacyEncoding": "utf-8"
+}

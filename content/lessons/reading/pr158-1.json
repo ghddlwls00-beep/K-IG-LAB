@@ -1,0 +1,47 @@
+{
+  "id": "pr158-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr158",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 158-1 ]",
+  "menuLabel": "[ pr158-1 ]",
+  "unit": 158,
+  "part": null,
+  "order": 315,
+  "audio": [
+    {
+      "src": "/audio/reading/pr158.mp3",
+      "legacySrc": "sounds/pr158.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 158-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "윤리란 어떻게 행동할 것인가를 선택하는 것을 우리가 인식하는 것에서 시작된다. 예를 들면, 우리는 진실을 말하거나 거짓말을 말할 수 있다. 이런 두 가지 가능성이 우리에게 선택으로서 주어진다. 우리는 우리의 행동들을 통제할 수 있기에 어떤 하나를 할 수 있다. 그러나, 돌은 행동의 다른 과정들을 구분할 수 없기에 이런 종류의 선택에 직면하지 않는다. 돌은 단지 외부의 힘이 그에게 행동하게 만드는 방식으로만 행동할 수 있다. 돌과는 달리, 사람은 혼자서 어떤 행위를 시작할 수 있다. 그래서, 차이란, 돌은 가능성에 대한 인식을 못 하는데 반해서, 인간은 그들이 진정한 양자 택일의 문제들에 직면해 있다는 것것을 인식한다는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr158-1.htm",
+  "legacyEncoding": "utf-8"
+}

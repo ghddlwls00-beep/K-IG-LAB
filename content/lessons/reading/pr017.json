@@ -1,0 +1,47 @@
+{
+  "id": "pr017",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 017 ]",
+  "menuLabel": "[ pr017 ]",
+  "unit": 17,
+  "part": null,
+  "order": 32,
+  "audio": [
+    {
+      "src": "/audio/reading/pr017.mp3",
+      "legacySrc": "sounds/pr017.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 017 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The pleasures of contact with the natural world are not reserved just for the artists. They are available to anyone who will place himself under the influence of a lonely mountain top or the stillness of a forest. I believe natural beauty has a necessary place in the spiritual development of any individual or any society. I believe that whenever we destroy beauty, or whenever we substitute something artificial for a natural feature of the earth, we have slowed down man's spiritual growth."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr017.htm",
+  "legacyEncoding": "utf-8"
+}

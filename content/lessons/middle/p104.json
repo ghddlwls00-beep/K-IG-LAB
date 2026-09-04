@@ -1,0 +1,79 @@
+{
+  "id": "p104",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 104 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 4,
+  "order": 110,
+  "audio": [
+    {
+      "src": "/audio/middle/p104.mp3",
+      "legacySrc": "sounds/p104.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 104 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(At Night)"
+    },
+    {
+      "type": "hints",
+      "text": "Every night when I get home, I chat on the computer with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Nowadays, I am on the computer for a couple of hours every day."
+    },
+    {
+      "type": "instruction",
+      "text": "It is a great way to talk to my friends about what we did"
+    },
+    {
+      "type": "instruction",
+      "text": "during the day."
+    },
+    {
+      "type": "instruction",
+      "text": "I exchange information about our homework, about other friends"
+    },
+    {
+      "type": "instruction",
+      "text": "and what is going on in the entertainment scene in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "Also, I often do my homework on the computer."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I watch TV or listen to music before I go to bed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p104.htm",
+  "legacyEncoding": "utf-8"
+}

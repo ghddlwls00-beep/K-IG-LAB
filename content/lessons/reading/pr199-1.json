@@ -1,0 +1,47 @@
+{
+  "id": "pr199-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr199",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 199-1 ]",
+  "menuLabel": "[ pr199-1 ]",
+  "unit": 199,
+  "part": null,
+  "order": 397,
+  "audio": [
+    {
+      "src": "/audio/reading/pr199.mp3",
+      "legacySrc": "sounds/pr199.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 199-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "모든 사람들은 직감을 가지고 있고, 자신의 내면의 소리를 듣는 것은 언제나 좋은 것이다. 그러나 여 러분이 결정을 할 때, 직감을 따르는 것은 필요하지만 충분한 것은 아니다. 결정을 내리는 지침으로 여러분의 직감을 사용하는 법을 배우는 것은 노력을 필요로 한다. 무엇보다도, 어떤 사람의 본능도 언제나 옳지는 않다. 그렇다면, 직감을 언제는 따르고, 언제는 그것들을 무시해야 하는지 알 수 있을 까? 여러분의 직감을 따르는 것은 여러분이 나중에 후회하게 될지도 모르는 충동적인 결정을 하게 할 수가 있다. 중요한 것은 여러분의 결정을 지시하는 것이 아닌 뒷받침해주기 위해서 직감을 사용 하는 법을 배우는 것이다. 상황을 분석하기 위해서 여러분의 경험을 사용하라. 여러분의 과거의 경험 은 여러분의 직감이 믿을 수 있는 것인지 아닌지 판단하는 근거를 준다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr199-1.htm",
+  "legacyEncoding": "utf-8"
+}

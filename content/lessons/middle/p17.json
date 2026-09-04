@@ -1,0 +1,167 @@
+{
+  "id": "p17",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle17]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": null,
+  "order": 166,
+  "audio": [
+    {
+      "src": "/audio/middle/p17.mp3",
+      "legacySrc": "sounds/p17.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle17]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 17: History"
+    },
+    {
+      "type": "hints",
+      "text": "This is the story about how the nation of Korea was founded."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s history started about 5,000 years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "Once upon a time the King of Heaven, Hwan-in,"
+    },
+    {
+      "type": "instruction",
+      "text": "sent his son, Hwan-ung, to Earth. While living on Earth,"
+    },
+    {
+      "type": "instruction",
+      "text": "he married Ung-nyo who had changed from a bear into a woman."
+    },
+    {
+      "type": "instruction",
+      "text": "She gave birth to a son and named him Dan-goon."
+    },
+    {
+      "type": "instruction",
+      "text": "He became the founder of Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "The country's ancient name was Gojoson."
+    },
+    {
+      "type": "instruction",
+      "text": "After Gojoson fell,"
+    },
+    {
+      "type": "instruction",
+      "text": "the Korean Peninsula was divided into three kingdoms:"
+    },
+    {
+      "type": "instruction",
+      "text": "Goguryo, Baekje, and Shilla. Later these three kingdoms united"
+    },
+    {
+      "type": "instruction",
+      "text": "as a single nation and referred to it as the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was the most powerful in the middle of the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "It was called the Golden Age of Korean History."
+    },
+    {
+      "type": "instruction",
+      "text": "After Shilla fell, many other countries tried to gain power over Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, Korea was ruled by Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "Many Koreans did not like being under the power of Japan,"
+    },
+    {
+      "type": "instruction",
+      "text": "so they fought against Japanese rule."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1948, Korea was librated from Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "A civil war broke out in 1950 when armies"
+    },
+    {
+      "type": "instruction",
+      "text": "from the North invaded the South."
+    },
+    {
+      "type": "instruction",
+      "text": "As a result, the Korean peninsula became divided"
+    },
+    {
+      "type": "instruction",
+      "text": "into North and South Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "Since the end of the war in 1953,"
+    },
+    {
+      "type": "instruction",
+      "text": "the country began to develop very quickly, especially during the 1970’s."
+    },
+    {
+      "type": "instruction",
+      "text": "From then until now, the country has continued to grow rapidly."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002,"
+    },
+    {
+      "type": "instruction",
+      "text": "the World Cup was held in Korea, too."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very proud of my countryand what it has accomplished"
+    },
+    {
+      "type": "instruction",
+      "text": "during its long history."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p17.htm",
+  "legacyEncoding": "utf-8"
+}

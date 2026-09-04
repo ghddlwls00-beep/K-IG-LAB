@@ -1,0 +1,75 @@
+{
+  "id": "d262-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d262",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 262 회 ]",
+  "menuLabel": "[ D 262-1 ]",
+  "unit": 262,
+  "part": null,
+  "order": 522,
+  "audio": [
+    {
+      "src": "/audio/ld/d262.mp3",
+      "legacySrc": "sounds/d262.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 262 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "겨울이 올 때 전체적인 사회 달력이 급격한 변화를 겪는다."
+    },
+    {
+      "type": "instruction",
+      "text": "시골에서의 소풍은 포기해야 하며 대부분의 사교활동은 실내에서 열려야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 실외 레크리에이션을 위한 많은 기회들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "일부 사람들은 심지어 가장 추운 겨울 오후도 아이스 스케이팅이나 스키를 타면서 보낸다 ."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 추운 기후에서 자라서 추위를 당연하게 여기는 사람들에게 특히 더 그렇다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 실제로 물에 들어가지 않고 수영 파티에 갈 수 있는 것과"
+    },
+    {
+      "type": "instruction",
+      "text": "똑같이 얼음 위로 가지 않고 아이스 스케이팅 파티에 갈 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d262-1.htm",
+  "legacyEncoding": "utf-8"
+}

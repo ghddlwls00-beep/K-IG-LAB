@@ -1,0 +1,83 @@
+{
+  "id": "p111",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 111 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 1,
+  "order": 116,
+  "audio": [
+    {
+      "src": "/audio/middle/p111.mp3",
+      "legacySrc": "sounds/p111.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 111 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Saturday Afternoon)"
+    },
+    {
+      "type": "hints",
+      "text": "The weekends are the best part of my week."
+    },
+    {
+      "type": "instruction",
+      "text": "On Saturdays, we only go to school in the morning."
+    },
+    {
+      "type": "instruction",
+      "text": "Once we come home for lunch, we are free for the day."
+    },
+    {
+      "type": "instruction",
+      "text": "We don’t have to attend any academies!"
+    },
+    {
+      "type": "instruction",
+      "text": "I usually hang out with my friends on Saturdays."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes if there is a special day like a birthday party,"
+    },
+    {
+      "type": "instruction",
+      "text": "we celebrate it on a Saturday afternoon."
+    },
+    {
+      "type": "instruction",
+      "text": "We oftentimes go to the karaoke room for these occasions."
+    },
+    {
+      "type": "instruction",
+      "text": "I also spend a lot of time on the computer on Saturdays, too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p111.htm",
+  "legacyEncoding": "utf-8"
+}

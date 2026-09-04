@@ -1,0 +1,158 @@
+{
+  "id": "w7-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w7-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 2,
+  "order": 33,
+  "audio": [
+    {
+      "src": "/audio/woman/w7-2-1.mp3",
+      "legacySrc": "w7-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-2-2.mp3",
+      "legacySrc": "w7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-2-3.mp3",
+      "legacySrc": "w7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-2-4.mp3",
+      "legacySrc": "w7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-2-5.mp3",
+      "legacySrc": "w7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w7-2-6.mp3",
+      "legacySrc": "w7-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "저에게는 좋은 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 남편, 아들, 딸, 그리고 저를 포함해서 4명입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가족은 아주 친하고, 우리는 함께 시간을 보내는 것을 즐깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 My Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I Think about My Job?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 처음 일을 시작했을 때 대학에서 전공한 것과 나의 직업에서 하는 일이 너무 다르다는 것을 알게 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I first started my job, I realized that what I had majored in university and what I was doing at my job were very different.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "잠시 동안 이것을 조정하는데 많이 스트레스를 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while, adjusting to this was very stressful.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이제 나는 거의 10년 동안 일하고 있습니다. 그리고 나는 여전히 내분 야에서 최고가 되기 위해 열심히 일하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I have been there for almost 10 years, and I still work hard to become the best in my field.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 하루의 시작과 끝을 회의로시작하고 마칩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We usually start and end the day with a meeting.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "항상 열심히 일하면서, 나는 내 자신이 발전하기위해 노력하고 있음을 확신 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By always working hard, I can make sure that I am trying to improve myself.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I have been there for almost (Number) years, and I still work hard to become the best in my field.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w7-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w7-2.swf"
+  ]
+}

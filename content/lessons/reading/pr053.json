@@ -1,0 +1,47 @@
+{
+  "id": "pr053",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 053 ]",
+  "menuLabel": "[ pr053 ]",
+  "unit": 53,
+  "part": null,
+  "order": 104,
+  "audio": [
+    {
+      "src": "/audio/reading/pr053.mp3",
+      "legacySrc": "sounds/pr053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 053 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Even our most highly educated guesses often go disastrously wrong. Albert Einstein remarked, “There is no chance that nuclear energy will ever be obtainable.” Why is predicting the future so difficult? Would it be smart not to try to guess what’s coming next? Not predicting the future would be like driving a car without looking through the windshield. We desperately need people who can foretell the future. They help us narrow the infinity of possible futures down to one or, at least, a few. We look at the present and see the present; they see the seeds of the future. They are our advance scouts, going secretly over the border to bring back priceless information to help the world to come."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr053.htm",
+  "legacyEncoding": "utf-8"
+}

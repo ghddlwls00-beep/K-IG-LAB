@@ -1,0 +1,91 @@
+{
+  "id": "d135-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d135",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 135 회 ]",
+  "menuLabel": "[ D 135-1 ]",
+  "unit": 135,
+  "part": null,
+  "order": 269,
+  "audio": [
+    {
+      "src": "/audio/ld/d135.mp3",
+      "legacySrc": "sounds/d135.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 135 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Bob과 Don은 같은 대학에 다닌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 모두 학교에서 입을 약간의 새로운 옷이 필요했고 그들은 새로운 백화점에서 함께 쇼핑하기로 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "처음에 그 두 친구는 세일 중인 옷들을 보기 위하여 남성복 코너로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "판매원이 그들이 올바른 사이즈를 찾도록 도와주었고 그들은 각각 몇몇 옷을 입어보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "Bob는 즉시 가벼운 회색 양복을 발견했고 그것을 샀다."
+    },
+    {
+      "type": "instruction",
+      "text": "Don은 어느 것을 살지 마음을 정할 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그는 마침내 푸른 색 양복을 선택했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 소년들은 또 두 벌의 바지를 샀는데 그들은 너무 비싸지 않았기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 그들은 신발 코너로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "점원이 그들의 발의 사이즈를 재고 각각에게 그들이 신어 볼 몇 켤레의 신발을 가져다 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 자신의 신발을 사는 것은 별로 오래 걸리지 않았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d135-1.htm",
+  "legacyEncoding": "utf-8"
+}

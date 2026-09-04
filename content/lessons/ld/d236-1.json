@@ -1,0 +1,87 @@
+{
+  "id": "d236-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d236",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 236 회 ]",
+  "menuLabel": "[ D 236-1 ]",
+  "unit": 236,
+  "part": null,
+  "order": 470,
+  "audio": [
+    {
+      "src": "/audio/ld/d236.mp3",
+      "legacySrc": "sounds/d236.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 236 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 뉴욕으로부터 샌프랜시스코로의 삼천 마일의 여행은 비행기로 열 시간 내에 될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "가까운 장래에, 제트비행기가 이 여행을 심지어 더 짧게 만들 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그 개척자 중의 한 사람이 현대 미국인이 여행하는"
+    },
+    {
+      "type": "instruction",
+      "text": "그 쉬움과 편안함을 볼 수 있다면 정말 탄복할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 조악한 포장 마차는 승객들을 집의 모든 편안함과 함께 미국의 모든 곳으로"
+    },
+    {
+      "type": "instruction",
+      "text": "순식간에 옮겨주는 유선형의 호화항공기와 멋있는 열차로 바뀌었다."
+    },
+    {
+      "type": "instruction",
+      "text": "멋진 식당차에서 맛있는 음식이 제공되고 좀 더 현대적인 열차 중의"
+    },
+    {
+      "type": "instruction",
+      "text": "몇몇은 텔레비젼과 전화 서비스가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 사업가는 그의 열차칸에서 그의 자신의 사무실과"
+    },
+    {
+      "type": "instruction",
+      "text": "거의 같은 정도로 효율적으로 그의 업무를 처리할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d236-1.htm",
+  "legacyEncoding": "utf-8"
+}

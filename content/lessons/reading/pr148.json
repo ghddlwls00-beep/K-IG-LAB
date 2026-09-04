@@ -1,0 +1,47 @@
+{
+  "id": "pr148",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 148 ]",
+  "menuLabel": "[ pr148 ]",
+  "unit": 148,
+  "part": null,
+  "order": 294,
+  "audio": [
+    {
+      "src": "/audio/reading/pr148.mp3",
+      "legacySrc": "sounds/pr148.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 148 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "In the United States, about 10 million computers are thrown away every year ! Because most unwanted computers are sent to a dump, they have caused a problem. The computer industry and the government are working on ways to solve it. They have concluded that there must be changes in the way computers are built. They must be made in ways that will allow their parts to be recycled."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr148.htm",
+  "legacyEncoding": "utf-8"
+}

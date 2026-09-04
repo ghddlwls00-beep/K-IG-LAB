@@ -1,0 +1,64 @@
+{
+  "id": "p101-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p101",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 101-1 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 1,
+  "order": 105,
+  "audio": [
+    {
+      "src": "/audio/middle/p101.mp3",
+      "legacySrc": "sounds/p101.mp3",
+      "autoplay": true
+    },
+    {
+      "src": "/audio/middle/p101-1.mp3",
+      "legacySrc": "sounds/p101-1.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 101-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(주중)"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 평일 계획에 대해 당신에게 말하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 평일 계획은 나의 하루 계획과 마찬가지로 바쁩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "매일이 전날보다 더 바쁩니다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p101-1.htm",
+  "legacyEncoding": "utf-8"
+}

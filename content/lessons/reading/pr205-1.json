@@ -1,0 +1,43 @@
+{
+  "id": "pr205-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr205",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 205-1 ]",
+  "menuLabel": "[ pr205-1 ]",
+  "unit": 205,
+  "part": null,
+  "order": 409,
+  "audio": [
+    {
+      "src": "/audio/reading/pr205.mp3",
+      "legacySrc": "sounds/pr205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 205-1 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr205-1.htm",
+  "legacyEncoding": "utf-8"
+}

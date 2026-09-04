@@ -1,0 +1,180 @@
+{
+  "id": "cnn082",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Can I Get a Wake-up Call* Tomorrow Morning?",
+  "label": "Can I Get a Wake-up Call* Tomorrow Morning?",
+  "menuLabel": "[ CNN 82 ]",
+  "unit": 82,
+  "part": null,
+  "order": 81,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn082.mp4",
+      "legacySrc": "CNN/CNN61-120/82.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Can I Get a Wake-up Call* Tomorrow Morning?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Hello, front desk?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Yes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Can I get a wake-up call tomorrow morning?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: You can program your phone for a wake-up call.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: I’d rather have the operator call.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Certainly. What time?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: How long does it take to get to the plaza from here?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: About 20 minutes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Wake me at 6:30 a.m.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Woman: Room 413 at 6:30. Thank you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Man: Thank you.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내일 아침에 모닝콜 좀 해주시겠어요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 여보세요, 프런트죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 네, 그런데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 내일 아침에 모닝콜 좀 해주시겠어요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 전화를 모닝콜로 맞추어 놓으시면 되는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 교환원이 직접 해주시면 좋겠는데요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 알겠습니다. 몇 시에 깨워드릴까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 여기서 광장까지 얼마나 걸리죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 약 20분 정도요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 그럼 아침 6시 30분에 깨워 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여자: 6시 30분, 413호실요. 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "남자: 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* wake-up call",
+          "text": "모닝콜: 아침에 잠을 깨워주는 전화 ex. Request a wakeup call at the front desk! (프런트에 아침에 깨워달라고 부탁하세요.)"
+        },
+        {
+          "n": "1) front desk",
+          "text": "(호텔 등의) 접수처, 프런트"
+        },
+        {
+          "n": "2) program",
+          "text": "…을 설정하다; …의 프로그램을 맞추다"
+        },
+        {
+          "n": "3) would rather+동사원형",
+          "text": "…하는 게 더 낫다, 차라리 …하고"
+        },
+        {
+          "n": "4) operator",
+          "text": "(전화국의) 교환원"
+        },
+        {
+          "n": "5) Certainly.",
+          "text": "((의뢰에 대한 답변)) 물론이죠., 되고말고."
+        },
+        {
+          "n": "6) plaza",
+          "text": "(도시의 공공) 광장"
+        },
+        {
+          "n": "7) wake",
+          "text": "…의 잠을 깨게 하다, 일어나게 하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/82.wmv",
+  "legacyEncoding": "binary"
+}

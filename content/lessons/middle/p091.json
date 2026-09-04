@@ -1,0 +1,95 @@
+{
+  "id": "p091",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 091 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 1,
+  "order": 96,
+  "audio": [
+    {
+      "src": "/audio/middle/p091.mp3",
+      "legacySrc": "sounds/p091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 091 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(What do I do in the morning?)"
+    },
+    {
+      "type": "hints",
+      "text": "Every day I usually follow the same schedule."
+    },
+    {
+      "type": "instruction",
+      "text": "I get up at six o’clock every morning."
+    },
+    {
+      "type": "instruction",
+      "text": "I clean my room, and then I go jogging with my dog named Happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I run to and from the playground five times."
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish jogging, I take a shower."
+    },
+    {
+      "type": "instruction",
+      "text": "I have breakfast around 7:30a.m."
+    },
+    {
+      "type": "instruction",
+      "text": "After breakfast, I brush my teeth,"
+    },
+    {
+      "type": "instruction",
+      "text": "and I leave for school at about eight o’clock."
+    },
+    {
+      "type": "instruction",
+      "text": "I often meet my friends and play around a little in the schoolyard"
+    },
+    {
+      "type": "instruction",
+      "text": "before we go to class."
+    },
+    {
+      "type": "instruction",
+      "text": "I have four morning classes that start at nine."
+    },
+    {
+      "type": "instruction",
+      "text": "Each class is about forty-five minutes long."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p091.htm",
+  "legacyEncoding": "utf-8"
+}

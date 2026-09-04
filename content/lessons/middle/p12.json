@@ -1,0 +1,171 @@
+{
+  "id": "p12",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle12]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": null,
+  "order": 124,
+  "audio": [
+    {
+      "src": "/audio/middle/p12.mp3",
+      "legacySrc": "sounds/p12.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle12]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 12: What I Do During School Vacations"
+    },
+    {
+      "type": "hints",
+      "text": "I would like to tell you about what I do during my school vacations."
+    },
+    {
+      "type": "instruction",
+      "text": "We have two main school vacations."
+    },
+    {
+      "type": "instruction",
+      "text": "One is during the summer and one is during the winter."
+    },
+    {
+      "type": "instruction",
+      "text": "Summer vacation begins in July"
+    },
+    {
+      "type": "instruction",
+      "text": "and the winter vacation begins in December."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though we don’t go to public school during these vacations,"
+    },
+    {
+      "type": "instruction",
+      "text": "we still go to private academies."
+    },
+    {
+      "type": "instruction",
+      "text": "The best part is we have a lot more free time"
+    },
+    {
+      "type": "instruction",
+      "text": "that we spend doing things we like."
+    },
+    {
+      "type": "instruction",
+      "text": "I spend my summer vacation a bit different from the winter one."
+    },
+    {
+      "type": "instruction",
+      "text": "During summer vacation,"
+    },
+    {
+      "type": "instruction",
+      "text": "my family usually goes on a short trip to visit our relatives."
+    },
+    {
+      "type": "instruction",
+      "text": "Last summer vacation, our family went to the seaside next to the East Sea."
+    },
+    {
+      "type": "instruction",
+      "text": "Every holiday, there are major traffic jams,"
+    },
+    {
+      "type": "instruction",
+      "text": "and it takes a long time to go a very short distance."
+    },
+    {
+      "type": "instruction",
+      "text": "It is also very hot for traveling."
+    },
+    {
+      "type": "instruction",
+      "text": "Even if it is terribly hot during the summer,"
+    },
+    {
+      "type": "instruction",
+      "text": "I am happy to travel with my family anyways."
+    },
+    {
+      "type": "instruction",
+      "text": "During winter vacation, we don’t travel very often."
+    },
+    {
+      "type": "instruction",
+      "text": "However, last year we went on a short skiing trip to KangWon Province."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother wants me to study more, so every day during winter break,"
+    },
+    {
+      "type": "instruction",
+      "text": "she makes me study."
+    },
+    {
+      "type": "instruction",
+      "text": "Because I like to read by myself, I usually read a lot during vacation."
+    },
+    {
+      "type": "instruction",
+      "text": "I like vacations because I have more freedom to do what I want."
+    },
+    {
+      "type": "instruction",
+      "text": "Many of my friends have been overseas on vacations."
+    },
+    {
+      "type": "instruction",
+      "text": "My dream vacation is to travel abroad to an English-speaking country."
+    },
+    {
+      "type": "instruction",
+      "text": "I have been learning English for three years"
+    },
+    {
+      "type": "instruction",
+      "text": "from my private academy teacher."
+    },
+    {
+      "type": "instruction",
+      "text": "He is Canadian and has been telling us a lot about Canada."
+    },
+    {
+      "type": "instruction",
+      "text": "I would love to go there sometime in the future"
+    },
+    {
+      "type": "instruction",
+      "text": "so that I can use all of the English I have learned."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p12.htm",
+  "legacyEncoding": "utf-8"
+}

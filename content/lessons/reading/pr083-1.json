@@ -1,0 +1,47 @@
+{
+  "id": "pr083-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr083",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 083-1 ]",
+  "menuLabel": "[ pr083-1 ]",
+  "unit": 83,
+  "part": null,
+  "order": 165,
+  "audio": [
+    {
+      "src": "/audio/reading/pr083.mp3",
+      "legacySrc": "sounds/pr083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 083-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "일부 사람들은 컴퓨터로 활동적이고 사교적인 삶을 수행한다. - 자신의 컴퓨터 또는 카폐, 사교 센터, 도서관등과 같은 공공 장소의 단말기에 이용가능한 컴퓨터들. 게시판위의 다른 사람들과의 의사소통하면서 그들은 전통적인 방법으로는 결코 만나지 못햇을지도 모르는 사람들을 알게 된다. 예를 들면 캘리포니아 샌프란시스코의 대학원생은 롤러브레이드르르 타고 돌아다니는 집없는 채식주의자, 에이즈 검사 양성의 경찰과, 이란가계의 일부 회원들, 80살의 탐정, 그리고 DNA를 공부하는 유전학자를 포함하여 50명 이상의 net 친구를 가진다. 그녀는 약 10명의 네트워크로 접촉한 사람과 데이트하러 간적이 있다. 실제로 그녀는 거의 한명과 결혼했다. 그러나, 그 로맨스는 지속되지는 않았다. 그녀는 관계가 끝났다는 이유로 컴퓨터를 비난하지 않는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr083-1.htm",
+  "legacyEncoding": "utf-8"
+}

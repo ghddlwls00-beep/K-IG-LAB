@@ -1,0 +1,47 @@
+{
+  "id": "pr056-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr056",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 056-1 ]",
+  "menuLabel": "[ pr056-1 ]",
+  "unit": 56,
+  "part": null,
+  "order": 111,
+  "audio": [
+    {
+      "src": "/audio/reading/pr056.mp3",
+      "legacySrc": "sounds/pr056.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 056-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "젊은이들은 누구도 늘 승리할 수는 없으며, 졌을 때조차도 게임을 즐길 수 있다는 것을 배워야 한다. 야구부에 들지 못한 아이는 실망감을 느낀다. 그러나 부모는 너무 빨리 보상을 해 주거나 “그것은 중요하지 않다”라고 말해서는 안 된다. 왜냐 하면 그것은 중요하지 않기 때문이다. 젊은이는 실망을 경험하도록 허락되어져야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr056-1.htm",
+  "legacyEncoding": "utf-8"
+}

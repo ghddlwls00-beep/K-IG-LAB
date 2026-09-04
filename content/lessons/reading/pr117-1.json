@@ -1,0 +1,47 @@
+{
+  "id": "pr117-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr117",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 117-1 ]",
+  "menuLabel": "[ pr117-1 ]",
+  "unit": 117,
+  "part": null,
+  "order": 233,
+  "audio": [
+    {
+      "src": "/audio/reading/pr117.mp3",
+      "legacySrc": "sounds/pr117.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 117-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "네 스스로 책장을 만들고 싶으면, 다음의 간단한 단계를 따르라. 네 서재에 적당한 책장을 설계하라. 그런 다음, 목재상에서 책상용 나무를 골라라. 목재를 산 후, 설계에 따라 조심스럽게 잘라라. 다름 단계는 접착제와 못으로 여러 부분들을 조립하는 것이다. 그런 후, 목 작업물에 페인트칠을 함으로써 마지막 손질을 추가해라. 자, 이제 멋진 가구 한 점을 갖게 됬다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr117-1.htm",
+  "legacyEncoding": "utf-8"
+}

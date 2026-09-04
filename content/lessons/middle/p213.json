@@ -1,0 +1,87 @@
+{
+  "id": "p213",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 213]",
+  "menuLabel": null,
+  "unit": 21,
+  "part": 3,
+  "order": 209,
+  "audio": [
+    {
+      "src": "/audio/middle/p213.mp3",
+      "legacySrc": "sounds/p213.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 213]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Friend-Introduction)"
+    },
+    {
+      "type": "hints",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend is Mary."
+    },
+    {
+      "type": "instruction",
+      "text": "She is like me in many ways."
+    },
+    {
+      "type": "instruction",
+      "text": "She is also very outgoing but he is shier than I am."
+    },
+    {
+      "type": "instruction",
+      "text": "She has many talents like speaking English"
+    },
+    {
+      "type": "instruction",
+      "text": "and playing computer games."
+    },
+    {
+      "type": "instruction",
+      "text": "She sometimes tells me that she wants to be"
+    },
+    {
+      "type": "instruction",
+      "text": "an interpreter someday."
+    },
+    {
+      "type": "instruction",
+      "text": "She is smart,"
+    },
+    {
+      "type": "instruction",
+      "text": "and I am sure that her dream will come true."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p213.htm",
+  "legacyEncoding": "utf-8"
+}

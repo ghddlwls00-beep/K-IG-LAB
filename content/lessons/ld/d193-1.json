@@ -1,0 +1,91 @@
+{
+  "id": "d193-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d193",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 193 회 ]",
+  "menuLabel": "[ D 193-1 ]",
+  "unit": 193,
+  "part": null,
+  "order": 384,
+  "audio": [
+    {
+      "src": "/audio/ld/d193.mp3",
+      "legacySrc": "sounds/d193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 193 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 추적자가 그 흔적을 멀리 따라갈 수 있기 전에"
+    },
+    {
+      "type": "instruction",
+      "text": "갑작스런 소나기가 쏟아져서 그 흔적을 씻어내버렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 후 얼마 지나서 그 Aborigine 사람이 다른 마을에 있었고 그"
+    },
+    {
+      "type": "instruction",
+      "text": "의 날카로운 눈이 며칠 전에 보았던 그 똑같은 발자국을 찍어냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "경찰은 그의 말을 거의 믿을 수 없었지만 그가 진흙길을 통하여"
+    },
+    {
+      "type": "instruction",
+      "text": "마을의 외곽지역을 지나서 그 흔적을 따라가는 동안 그와 동행했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 추적자는 한 낡은 버려진 오두막집 근처에 멈춰서 단순히 가리켰다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 분명히 그 수배된 사람이 안에 숨어있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 점점 더 적은 Aborigine 사람들이 전통적인 사막 생활을 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 어디에 정착하든지 어떤 새로운 생활방식을 시도하든지"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 여전히 그들의 조상의 놀라운 사냥 능력을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d193-1.htm",
+  "legacyEncoding": "utf-8"
+}

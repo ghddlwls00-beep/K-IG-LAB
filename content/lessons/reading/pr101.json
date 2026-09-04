@@ -1,0 +1,47 @@
+{
+  "id": "pr101",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 101 ]",
+  "menuLabel": "[ pr101 ]",
+  "unit": 101,
+  "part": null,
+  "order": 200,
+  "audio": [
+    {
+      "src": "/audio/reading/pr101.mp3",
+      "legacySrc": "sounds/pr101.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 101 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "For centuries there has been a tendency for us to think of health only in terms of physical bodies. The medical community did not look seriously at the possibility that our mind could play an important role in illness and healing. Recently, however, there has been a lot of research that proves our mind affects illness and healing. A medical center reported that a larger portion of their patients were people who did not have an organic disease but were seeking psychological help."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr101.htm",
+  "legacyEncoding": "utf-8"
+}

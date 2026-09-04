@@ -1,0 +1,75 @@
+{
+  "id": "d201-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d201",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 201 회 ]",
+  "menuLabel": "[ D 201-1 ]",
+  "unit": 201,
+  "part": null,
+  "order": 400,
+  "audio": [
+    {
+      "src": "/audio/ld/d201.mp3",
+      "legacySrc": "sounds/d201.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 201 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "독자의 호기심만 자극해놓고 끝에는 어리둥절하게 만드는 유명한 짧은 이야기가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "“숙녀냐 호랑이냐”라는 그 이야기는 호기심가는 형태의 처벌에 대한 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "범죄자가 사형이나 감옥형의 벌을 받는 대신에 두 개의 문이 있는 작은 방에 놓여진다."
+    },
+    {
+      "type": "instruction",
+      "text": "한쪽 문 뒤에는 아름다운 숙녀가 있고 다른 문 뒤에는 사나운 호랑이가 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 희생자가 올바른 선택을 했다면 그는 해를 입지 않고 달아나게 될 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 저자는 막 그 젊은이가 그 문 중의 하나를 열 때 그의 이야기를 끝낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 그 숙녀와 호랑이 중 어느 것이 나왔는지 결코 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d201-1.htm",
+  "legacyEncoding": "utf-8"
+}

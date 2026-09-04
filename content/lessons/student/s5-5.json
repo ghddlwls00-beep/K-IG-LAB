@@ -1,0 +1,338 @@
+{
+  "id": "s5-5",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s5-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 5,
+  "order": 31,
+  "audio": [
+    {
+      "src": "/audio/student/s5-5-1.mp3",
+      "legacySrc": "s5-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-2.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-3.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-4.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-5.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-6.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-7.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-8.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-9.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-10.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-11.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-12.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-13.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-14.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-15.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-16.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-17.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-18.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-5-19.mp3",
+      "legacySrc": "s5-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Most of the students quickly make up and are friends again.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because our class has a lot of smart students in it, we are very competitive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "At school, I like to study and make friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, sometimes there can be fights and arguments between classmates.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually in class, the students are very friendly to each other.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 수업시간에, 학생들은 서로서로에게 매우 친절합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 때때로 학급 친구들 사이에서 싸움과 언쟁이 있을 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 학생들은 빨리 화해를 하고 다시 친구가 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 반은 똑똑한 학생들이 많기 때문에, 우리는 매우 경쟁심이 강합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에서 저는 공부하기와 친구 사귀기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 수업시간에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 수업시간에Usually in class,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학생들은 매우 친하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학생들은 매우 친하다.the students are very friendly",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서로서로에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 서로서로에게 to each other.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 때때로 있을 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 때때로 있을 수 있다. However, sometimes there can be",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학급 친구들 사이에서 싸움과 언쟁이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 학급 친구들 사이에서 싸움과 언쟁이fights and arguments between classmates.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 학생들은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 학생들은Most of the students",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 빨리 화해한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 빨리 화해한다. quickly make up",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 다시 친구가 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 다시 친구가 된다. and are friends again.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 반은 가졌기 때문에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리 반은 가졌기 때문에Because our class has",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 똑똑한 학생들을 그 안에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/많은 똑똑한 학생들을 그 안에 a lot of smart students in it,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리는 매우 경쟁심이 강하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/우리는 매우 경쟁심이 강하다 we are very competitive.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "학교에서At school,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부하고 친구사귀기를 좋아한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 공부하고 친구사귀기를 좋아한다. I like to study and make friends.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school/At school :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My School Friends",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s5-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s5-5.swf"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "gh1-029",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 029 ]",
+  "menuLabel": "[ gh1-029 ]",
+  "unit": 29,
+  "part": null,
+  "order": 42,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-029.mp3",
+      "legacySrc": "sounds/gh1-029.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 029 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 2 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "26",
+          "text": "Were you a girl?"
+        },
+        {
+          "n": "27",
+          "text": "Was he a boy?"
+        },
+        {
+          "n": "28",
+          "text": "Was she a girl?"
+        },
+        {
+          "n": "29",
+          "text": "Was this a pen?"
+        },
+        {
+          "n": "30",
+          "text": "Was it a book?"
+        },
+        {
+          "n": "31",
+          "text": "Were these pens?"
+        },
+        {
+          "n": "32",
+          "text": "Were those(they) books?"
+        },
+        {
+          "n": "33",
+          "text": "Was I happy?"
+        },
+        {
+          "n": "34",
+          "text": "Were you happy?"
+        },
+        {
+          "n": "35",
+          "text": "Was he happy?"
+        },
+        {
+          "n": "36",
+          "text": "Was she happy?"
+        },
+        {
+          "n": "37",
+          "text": "Was I in Korea?"
+        },
+        {
+          "n": "38",
+          "text": "Were you in Korea?"
+        },
+        {
+          "n": "39",
+          "text": "Was he in Korea?"
+        },
+        {
+          "n": "40",
+          "text": "Was she in Korea?"
+        },
+        {
+          "n": "41",
+          "text": "Was I not a boy(혹은 Wasn't I a boy)?"
+        },
+        {
+          "n": "42",
+          "text": "Weren't you a girl(혹은 Were you not a girl)?"
+        },
+        {
+          "n": "43",
+          "text": "Wasn't he a boy(혹은 Was he not a boy?)"
+        },
+        {
+          "n": "44",
+          "text": "Wasn't she a girl(혹은 Was she not a girl)?"
+        },
+        {
+          "n": "45",
+          "text": "Wasn't this a pen(혹은 Was this not a pen)?"
+        },
+        {
+          "n": "46",
+          "text": "Wasn't it a book(혹은 Was it not a book)?"
+        },
+        {
+          "n": "47",
+          "text": "Weren't these pens(혹은 Were these not pens)?"
+        },
+        {
+          "n": "48",
+          "text": "Weren't those books(혹은 Were those not books)?"
+        },
+        {
+          "n": "49",
+          "text": "Weren't you happy(혹은 Were you not happy)?"
+        },
+        {
+          "n": "50",
+          "text": "Wasn't she happy(혹은 Was she not happy)?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-029.htm",
+  "legacyEncoding": "utf-8"
+}

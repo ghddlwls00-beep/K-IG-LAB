@@ -1,0 +1,55 @@
+{
+  "id": "d053",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 053 회 ]",
+  "menuLabel": "[ D 053 ]",
+  "unit": 53,
+  "part": null,
+  "order": 104,
+  "audio": [
+    {
+      "src": "/audio/ld/d053.mp3",
+      "legacySrc": "sounds/d053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 053 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "get out of hand Chicago for instance. collect model trains nuisance."
+    },
+    {
+      "type": "instruction",
+      "text": "is valued at close to 10,000 measure collection inexpensive match-boxes"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d053.htm",
+  "legacyEncoding": "utf-8"
+}

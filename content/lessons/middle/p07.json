@@ -1,0 +1,147 @@
+{
+  "id": "p07",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle07]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": null,
+  "order": 76,
+  "audio": [
+    {
+      "src": "/audio/middle/p07.mp3",
+      "legacySrc": "sounds/p07.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle07]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 7: At the Academy"
+    },
+    {
+      "type": "hints",
+      "text": "After school, most of my friends and I go to academies."
+    },
+    {
+      "type": "instruction",
+      "text": "There are many academies that teach different subjects."
+    },
+    {
+      "type": "instruction",
+      "text": "I go to a piano academy, English academy,"
+    },
+    {
+      "type": "instruction",
+      "text": "and art academy near my home."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my other friends go to more academies than I do,"
+    },
+    {
+      "type": "instruction",
+      "text": "so they are very busy every day."
+    },
+    {
+      "type": "instruction",
+      "text": "They have very little time to play with me during the week."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite academy is English."
+    },
+    {
+      "type": "instruction",
+      "text": "Everyday I go and learn new sentences, words, and songs."
+    },
+    {
+      "type": "instruction",
+      "text": "I love role-playing and speaking English with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to learn to speak English fluently in the future"
+    },
+    {
+      "type": "instruction",
+      "text": "because I know that English will be helpful in my future job."
+    },
+    {
+      "type": "instruction",
+      "text": "There are about ten students in my class at the English academy."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a wide variety of friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my friends are really good at memorizing words and phrases."
+    },
+    {
+      "type": "instruction",
+      "text": "Some of my other friends are really good at conversational English."
+    },
+    {
+      "type": "instruction",
+      "text": "There are a few of my friends who are shy and don’t like to speak out loud,"
+    },
+    {
+      "type": "instruction",
+      "text": "but they have really good pronunciation because they speak very carefully."
+    },
+    {
+      "type": "instruction",
+      "text": "My English academy teacher is Korean."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though he is from Korea,"
+    },
+    {
+      "type": "instruction",
+      "text": "he has studied English for many years and knows it very well."
+    },
+    {
+      "type": "instruction",
+      "text": "When he speaks, he sounds like a native English speaker."
+    },
+    {
+      "type": "instruction",
+      "text": "He learned English while studying abroad."
+    },
+    {
+      "type": "instruction",
+      "text": "He teaches us very well, and his class activities are always fun."
+    },
+    {
+      "type": "instruction",
+      "text": "I want to be able to speak English as well as he does someday."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p07.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "am043a",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 043 A ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 49,
+  "audio": [
+    {
+      "src": "/audio/adults/am043a.mp3",
+      "legacySrc": "sounds/am043a.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 043 A ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Wife’s Family"
+    },
+    {
+      "type": "hints",
+      "text": "My wife has many relatives because her father and mother have many brothers and sisters, too."
+    },
+    {
+      "type": "instruction",
+      "text": "She has (2) brothers and (2) sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "Because her family doesn’t live near us, we visit them once a month."
+    },
+    {
+      "type": "instruction",
+      "text": "My father-in-law used to be a teacher, but now he is retired like my father."
+    },
+    {
+      "type": "instruction",
+      "text": "He likes to go hiking a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother-in-law loves to watch our children and always helps my family, too."
+    },
+    {
+      "type": "instruction",
+      "text": "In her free time, my mother-in-law likes to go shopping and visit the local sauna with her friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife’s siblings live near by, so we usually visit them once a month."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am043a.htm",
+  "legacyEncoding": "utf-8"
+}

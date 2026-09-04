@@ -1,0 +1,47 @@
+{
+  "id": "pr212-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr212",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 212-1 ]",
+  "menuLabel": "[ pr212-1 ]",
+  "unit": 212,
+  "part": null,
+  "order": 423,
+  "audio": [
+    {
+      "src": "/audio/reading/pr212.mp3",
+      "legacySrc": "sounds/pr212.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 212-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "일반적으로 부모님들은 그들이 다른 아이들에게서 느끼지 못하는 특별한 사랑을 자신의 아이들에게 느낀다. 이러한 감정은 종종 자식 사랑으로서 언급되어진다. 자신의 아이들에게 이러한 사랑을 느끼는 것이 아니라는 것은 사실이다. 그러나, 어떤 여성들은 그들이 자기 친자식에게 느끼는 것과 같은 자식사랑을 다른 아이들에게서도 느낀다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr212-1.htm",
+  "legacyEncoding": "utf-8"
+}

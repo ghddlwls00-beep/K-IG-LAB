@@ -1,0 +1,59 @@
+{
+  "id": "am124",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 124 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 4,
+  "order": 123,
+  "audio": [
+    {
+      "src": "/audio/adults/am124.mp3",
+      "legacySrc": "sounds/am124.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 124 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Spending Time with the Family"
+    },
+    {
+      "type": "hints",
+      "text": "I often watch too much television, so I try to read books these days in order to learn new things."
+    },
+    {
+      "type": "instruction",
+      "text": "Lately, I have been studying English."
+    },
+    {
+      "type": "instruction",
+      "text": "Because I am an important part of my family, I also want to take care of my health, so I regularly exercise by myself or with my wife."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am124.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "gh1-119-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-119",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 119-1]",
+  "menuLabel": "[ gh1-119-1 ]",
+  "unit": 119,
+  "part": null,
+  "order": 176,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-119-1.mp3",
+      "legacySrc": "sounds/gh1-119-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 119-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "38",
+          "text": "Isn't recycling steel from the wreckage hurting the investigation?"
+        },
+        {
+          "n": "39",
+          "text": "Doesn't it pose a problem?"
+        },
+        {
+          "n": "40",
+          "text": "Was the work of the team hampered?"
+        },
+        {
+          "n": "41",
+          "text": "The team was able to(could) obtain numerous samples, wasn't it?"
+        },
+        {
+          "n": "42",
+          "text": "Didn't the Hubble space telescope undergo a heart transplant?"
+        },
+        {
+          "n": "43",
+          "text": "The astronauts were installing a power control unit, weren't they?"
+        },
+        {
+          "n": "44",
+          "text": "They reattached the Hubble's 36 connectors, didn't they?"
+        },
+        {
+          "n": "45",
+          "text": "The telescope is not yet completely on line, is it?"
+        },
+        {
+          "n": "46",
+          "text": "Are mission managers pleased with progress?"
+        },
+        {
+          "n": "47",
+          "text": "When did the Hubble get more powerful solar wings?"
+        },
+        {
+          "n": "48",
+          "text": "Why does the President plan to cut your taxes?"
+        },
+        {
+          "n": "49",
+          "text": "Can they produce a short term deficit?"
+        },
+        {
+          "n": "50",
+          "text": "When did the budget office project a surplus?"
+        },
+        {
+          "n": "51",
+          "text": "The recession is ending, isn't it?"
+        },
+        {
+          "n": "52",
+          "text": "Is that less(smaller) than President Bush estimated?"
+        },
+        {
+          "n": "53",
+          "text": "Isn't there an old couple in bed?"
+        },
+        {
+          "n": "54",
+          "text": "What time did they wake up on their fiftieth anniversary?"
+        },
+        {
+          "n": "55",
+          "text": "Doesn't he want to give me a little present?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-119-1.htm",
+  "legacyEncoding": "utf-8"
+}

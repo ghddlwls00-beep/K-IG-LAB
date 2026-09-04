@@ -1,0 +1,88 @@
+{
+  "id": "mv2-06",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-06 ]",
+  "unit": 6,
+  "part": null,
+  "order": 45,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-06.mp3",
+      "legacySrc": "sounds/mv2-06.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "wide",
+          "note",
+          "keep",
+          "like",
+          "need",
+          "know"
+        ],
+        [
+          "kill",
+          "pair",
+          "dead",
+          "sell",
+          "jump",
+          "bicycle"
+        ],
+        [
+          "cloud",
+          "clear",
+          "join",
+          "idea",
+          "song",
+          "ill"
+        ],
+        [
+          "pretty",
+          "hot",
+          "ice",
+          "wet",
+          "sound",
+          "clock"
+        ],
+        [
+          "holiday",
+          "speak",
+          "hope",
+          "high",
+          "son",
+          "hit"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-06 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-06.htm",
+  "legacyEncoding": "utf-8"
+}

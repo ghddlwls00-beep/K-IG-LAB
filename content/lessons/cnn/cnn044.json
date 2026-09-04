@@ -1,0 +1,138 @@
+{
+  "id": "cnn044",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Bono Joins World Leaders at the Davos Forum",
+  "label": "Bono Joins World Leaders at the Davos Forum",
+  "menuLabel": "[ CNN 44 ]",
+  "unit": 44,
+  "part": null,
+  "order": 43,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn044.mp4",
+      "legacySrc": "CNN/CNN1-60/44.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Bono Joins World Leaders at the Davos Forum"
+    },
+    {
+      "type": "paragraph",
+      "text": "He’s back, a rock star with a mission, making his presence known at the global economic forum in Davos, Switzerland. Irish singer Bono has launched a new fund-raising campaign with the ambitious goal of eliminating AIDS in Africa. Bono met with German Chancellor Angela Merkel Wednesday. He is to join forces with GAP, Giorgio Armani, Converse along with American Express to launch what’s been dubbed “Project Red.” A portion of the profits of “Red” branded goods are to fund the program.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "보노, 세계 정상들과 함께 다보스 포럼 참석",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그가 돌아왔습니다. 이 록스타는 사명을 띤 채 스위스 다보스에서 열리고 있는 세계경제포럼에 참석을 알렸습니다. 아일랜드 출신의 가수 보노는 아프리카의 에이즈 퇴치라는 야심찬 목표를 가지고 새로운 모금 활동에 착수했습니다. 보노는 수요일 앙겔라 메르켈 독일 총리와 회동을 가졌습니다. 그는 아메리칸 익스프레스를 비롯하여 갭, 조르지오 아르마니, 컨버스 사들과 협력하여 소위‘프로젝트 레드’를 출범시킬 계획입니다. ‘레드’상표가 붙은 제품의 판매에서 발생하는 수익금 중 일부는 이 (에이즈 퇴치) 프로그램에 쓰일 예정입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "economic은 [에커나믹] 혹은 [이커나믹] 두 가지 발음이 가능하지만, 여기서는 전자로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강세를 받지 못한 e-가 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "독일 총리 앙겔라 메르켈의 영어식 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chancellor는 [첸슬러]가 아닌 [촨슬러]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fund-raising/ 모금의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. Chancellor/ (독일, 오스트리아의) 총리",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "economic forum",
+          "text": "[에커나믹 포-럼]."
+        },
+        {
+          "n": "eliminating AIDS",
+          "text": "[리미네이딩 에이ㅈ]."
+        },
+        {
+          "n": "German Chancellor Angela Merkel",
+          "text": "[저먼 촨슬러 앙글라 머클]."
+        },
+        {
+          "n": "Bono",
+          "text": "보노: 팔세토 (falsetto) 창법이라고 불리는 고음 음성을 가진 록그룹 U2의 보컬"
+        },
+        {
+          "n": "Davos Forum",
+          "text": "다보스 포럼: 스위스의 휴양지 다보스에서 매년 열리는 World Economic Forum의 속칭"
+        },
+        {
+          "n": "make one’s presence known[felt]",
+          "text": "자신의 존재를 알리다"
+        },
+        {
+          "n": "launch",
+          "text": "(기업, 계획 따위에) 착수하다, 시작하다"
+        },
+        {
+          "n": "fund-raising campaign",
+          "text": "모금운동"
+        },
+        {
+          "n": "eliminate",
+          "text": "제거하다, 없애다, 퇴치하다"
+        },
+        {
+          "n": "German Chancellor Angela Merkel",
+          "text": "앙겔라 메르켈 독일 총리: 기민당 출신의 현 독일 총리"
+        },
+        {
+          "n": "join forces with",
+          "text": "…와 제휴하다, 협력하다"
+        },
+        {
+          "n": "dubbed",
+          "text": "…이라고 불리는"
+        },
+        {
+          "n": "a portion of",
+          "text": "약간의, 얼마 안 되는"
+        },
+        {
+          "n": "branded",
+          "text": "상표가 붙은; 브랜드상품의"
+        },
+        {
+          "n": "fund",
+          "text": "(계획, 사업에) 자금을 제공[출자]하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/44.wmv",
+  "legacyEncoding": "binary"
+}

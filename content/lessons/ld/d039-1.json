@@ -1,0 +1,91 @@
+{
+  "id": "d039-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d039",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 039 회 ]",
+  "menuLabel": "[ D 039-1 ]",
+  "unit": 39,
+  "part": null,
+  "order": 77,
+  "audio": [
+    {
+      "src": "/audio/ld/d039.mp3",
+      "legacySrc": "sounds/d039.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 039 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 어린 동생에게 인생에서 가장 끔찍한 것은 아침에 일어나는 것이라고 생각한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나의 어머니가 “Herbert, 지금 7시다. 일어나!”라고 부를 때 거의 병이 들 정도이다."
+    },
+    {
+      "type": "instruction",
+      "text": "Herby는 “저는 가고 있습니다.”라고 대답하고는 곧장 다시 잔다. 나는 나의 동생과 전혀 같지 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 밤에 잠자리에 드는 것을 좋아하지 않지만 아침에 일어나는 것을 싫어하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 보통 어머니가 나를 부르기 전에 잠이 깬다. 나는 침대에서 뛰쳐나와 화장실로 샤워하러 간다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 옷을 입고 양치질하고 머리를 빗고 어머니가 부르기가 무섭게 아침 먹으러 아래층으로 내려갈 준비"
+    },
+    {
+      "type": "instruction",
+      "text": "를 한다. 그러나 Herby는 그렇지 않다. 그는 그냥 잔다. 우리 침실 안의 군악대도 그를 깨울 수 없을 것"
+    },
+    {
+      "type": "instruction",
+      "text": "이다. 나는 그를 부르고 말한다. “일어나. 당장 일어나지 않으면 엄마가 너를 침대로부터 끌어내기 위하여"
+    },
+    {
+      "type": "instruction",
+      "text": "여기 위에 계실꺼야.” 그러나 그는 그냥 잔다. 몇번 더 부른 후에 어머니는 이층으로 올라와서 Herby를 침"
+    },
+    {
+      "type": "instruction",
+      "text": "대에서 끌어내야 한다. 그는 언제나 말한다. “나는 일분만 있으면 일어나려고 했어. 정말 나는 그럴려고"
+    },
+    {
+      "type": "instruction",
+      "text": "했어.” 그것은 내 동생과 함께 매일 그런 방식이다. 어쩌면 언젠가는 그는 제 시간에 일어나는 것을 배 울 것이다. 그러나 나는 정말 그렇게 생각하지 않는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d039-1.htm",
+  "legacyEncoding": "utf-8"
+}

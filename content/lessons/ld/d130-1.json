@@ -1,0 +1,91 @@
+{
+  "id": "d130-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d130",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 130 회 ]",
+  "menuLabel": "[ D 130-1 ]",
+  "unit": 130,
+  "part": null,
+  "order": 259,
+  "audio": [
+    {
+      "src": "/audio/ld/d130.mp3",
+      "legacySrc": "sounds/d130.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 130 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Hickman's Lodge는 로키 산맥의 한 작은 마을인 Estes Park에 있는 휴양지이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 휴양지는 Joseph P. Hickman의 소유이다."
+    },
+    {
+      "type": "instruction",
+      "text": "하나의 중앙 lodge, 열 개의 캐빈, 그리고 다양한 오락 시설 - 테니스 코트, 산책로, 타는 말, 낚시하는 개천 - 이 그 휴양지를 구성한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 Lodge의 역사는 100년 이상 거슬러간다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 첫 걸음은 Joseph의 할아버지인 Thomas Hickman이 내딛었다."
+    },
+    {
+      "type": "instruction",
+      "text": "1870년에 Estes Park의 한 커다른 숲지대의 땅 한덩어리를 산 것은 그였다."
+    },
+    {
+      "type": "instruction",
+      "text": "1900년에 그 땅은 Joseph의 아버지에 의하여 상속되었고 그 Lodge는 1910년에 그가 지었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 잘 지어졌고 그것은 오늘날에도 여전히 사용 중이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 가족은 Joseph의 아버지가 은퇴하여 캘리포니아로 이사한 1950년까지 그 Lodge에서 함께 살았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 재산은 그 당시에 그의 아버지가 Joseph에게 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Joseph는 한 휴양지를 개발하기로 결정했고 그것의 오늘날의 외양과 시설은 그의 덕택이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d130-1.htm",
+  "legacyEncoding": "utf-8"
+}

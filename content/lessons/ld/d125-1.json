@@ -1,0 +1,83 @@
+{
+  "id": "d125-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d125",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 125 회 ]",
+  "menuLabel": "[ D 125-1 ]",
+  "unit": 125,
+  "part": null,
+  "order": 249,
+  "audio": [
+    {
+      "src": "/audio/ld/d125.mp3",
+      "legacySrc": "sounds/d125.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 125 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "물 공급을 통제하는 한 가지 흔한 방법은 개천과 강에 댐을 건설하는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 인류 정착촌들은 강과 개천근처에 세워졌고 댐을 건설하는 것은 첫 기술 활동의 하나가 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 해들 동안에 사람들은 다른 기술들을 개발했다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 그들은 우물을 사용하여 지구의 표면 아래로부터 물을 끌어올리는 것을 배웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 일상적인 물 공급의 주요 원천은 호수, 강, 그리고 공기 속의 수증기이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 이런 원천은 세계의 전체 담수 공급의 겨우 1%를 차지할 뿐이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 물의 많은 것은 지하 깊숙이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 많은 양의 담수는 북극 지역에서 얼음의 형태로 발견될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "미래에는 새로운 기술이 이 물 중의 일부를 이용가능하게 만들지 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d125-1.htm",
+  "legacyEncoding": "utf-8"
+}

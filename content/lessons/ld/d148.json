@@ -1,0 +1,55 @@
+{
+  "id": "d148",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 148 회 ]",
+  "menuLabel": "[ D 148 ]",
+  "unit": 148,
+  "part": null,
+  "order": 294,
+  "audio": [
+    {
+      "src": "/audio/ld/d148.mp3",
+      "legacySrc": "sounds/d148.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 148 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "the North American continent. Canada to the north, Mexico to the south. 1964, 185,0000,000."
+    },
+    {
+      "type": "instruction",
+      "text": "thirteen states. 48 1959, Alaska Hawaii"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d148.htm",
+  "legacyEncoding": "utf-8"
+}

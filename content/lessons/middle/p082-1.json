@@ -1,0 +1,75 @@
+{
+  "id": "p082-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p082",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 082-1 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 2,
+  "order": 89,
+  "audio": [
+    {
+      "src": "/audio/middle/p082.mp3",
+      "legacySrc": "sounds/p082.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 082-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(숙제 하기)"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 조금 놀고 난 후, 나는 나의 모든 숙제를 해야만 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "만약 내가 나의 숙제를 이해하지 못한다면,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 항상 인터넷에서 찾아볼 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 종종 나의 숙제에 대한 답들을 월드 와이드 웹에서 찾습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 학원과 학교 두군 데 숙제를 해야 하기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 빨리 피곤해 집니다. 비록 제가 피곤하더라도,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 새로운 것들을 배우는 것을 즐기기 때문에 계속 공부합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p082-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "w3-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w3-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 3,
+  "order": 15,
+  "audio": [
+    {
+      "src": "/audio/woman/w3-3-1.mp3",
+      "legacySrc": "w3-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-3-2.mp3",
+      "legacySrc": "w3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-3-3.mp3",
+      "legacySrc": "w3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-3-4.mp3",
+      "legacySrc": "w3-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Met My Best Friend",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 10년 전에 만났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We met for the first time ten years ago.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 아름다운 마을에 위치해있는 같은 학교에 다녔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We attended the same school which was located in a beautiful village.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 같은 반이였습니다. 그래서 고등학교 졸업 할 때 까지 매일 만났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We were in the same class, so we met everyday until we graduated high school.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w3-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w3-3.swf"
+  ]
+}

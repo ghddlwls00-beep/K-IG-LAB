@@ -1,0 +1,47 @@
+{
+  "id": "pr046-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr046",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 046-1 ]",
+  "menuLabel": "[ pr046-1 ]",
+  "unit": 46,
+  "part": null,
+  "order": 91,
+  "audio": [
+    {
+      "src": "/audio/reading/pr046.mp3",
+      "legacySrc": "sounds/pr046.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 046-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "촉각은 우리가 개발하는 첫 번째 감각이다. 그리고 우리는 탄생전에 그것을 얻는다. 우리는 그것 없이는 살수 없을 것이다. 뜨거운 물의 위험을 감지할수 없거나, 어두운 계단을 내려가는 것을 느낄수 없다고 상상해보아라. 우리는 시각을 우리의 가장 중요한 감각으로 보는 경향이 있다. 그러나, 우리는 매일의 3분의 1 동안 잠잘 때 우리의 눈을 감는다. 촉각은 결코 깜박거리지 않고 결코 우리 주위의 세계를 인식함을 결코 꺼지지 않는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr046-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "d061",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 061 회 ]",
+  "menuLabel": "[ D 061 ]",
+  "unit": 61,
+  "part": null,
+  "order": 120,
+  "audio": [
+    {
+      "src": "/audio/ld/d061.mp3",
+      "legacySrc": "sounds/d061.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 061 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "Show business Taggy Montag. ad favorite teenage idol. simply fantastic performer audience"
+    },
+    {
+      "type": "instruction",
+      "text": "enthusiastic autographs backstage."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d061.htm",
+  "legacyEncoding": "utf-8"
+}

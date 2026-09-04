@@ -1,0 +1,87 @@
+{
+  "id": "d174-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d174",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 174 회 ]",
+  "menuLabel": "[ D 174-1 ]",
+  "unit": 174,
+  "part": null,
+  "order": 346,
+  "audio": [
+    {
+      "src": "/audio/ld/d174.mp3",
+      "legacySrc": "sounds/d174.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 174 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 19세기 말 경에 Chesapeake와 Ohio 철도의 건설에서 일했다."
+    },
+    {
+      "type": "instruction",
+      "text": "John Henry는 굉장한 힘을 갖고 있었고 그 철도의 다른 어떤 사람보다도"
+    },
+    {
+      "type": "instruction",
+      "text": "더 열심히 더 빨리 일하는 것으로 유명해졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "호기심에 찬 사람들이 그가 거대한 바위와 단단한 땅을 통하여 차가운 스틸 드릴을"
+    },
+    {
+      "type": "instruction",
+      "text": "박는 것을 보기 위하여 멀리 넓은 곳으로부터 왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Big Bend Tunnel이 시작되었을 때 문제가 시작되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 거대한 산의 단단한 바위는 관통하기에 불가능하게 보였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 철도 사업에 자금을 대는 사람들이 터널 공사의 속도를 올리려고"
+    },
+    {
+      "type": "instruction",
+      "text": "시도하기 위하여 한 새 발명품인 drilling machine을 샀다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들은 그 기계를 환영했지만 John Henry는 안 그랬다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d174-1.htm",
+  "legacyEncoding": "utf-8"
+}

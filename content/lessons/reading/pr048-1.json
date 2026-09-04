@@ -1,0 +1,47 @@
+{
+  "id": "pr048-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr048",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 048-1 ]",
+  "menuLabel": "[ pr048-1 ]",
+  "unit": 48,
+  "part": null,
+  "order": 95,
+  "audio": [
+    {
+      "src": "/audio/reading/pr048.mp3",
+      "legacySrc": "sounds/pr048.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 048-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 종종 자신도 모르는 사이에 무례한 사람으로 간주된다. 자신만이 생각에 몰두한 나머지, 사람들은 자신들에게 인사하러 다가오는 사람의 움직임을 보지 못한다. 그들은 친구를 눈치채지 못하고 스쳐 지나갈 수도 있다. 콘텍트 렌즈를 끼지 않았거나 근시 때문에 정말로 보지 못하는 사람들도 있다. 어떤 친구가 당신을 정말로 무시한다고 믿기 전에, 그가 정신없는 상태이지 아니면 나쁜 시력 때문인지 고려해 보는 것이 중요하다. 단지 안경을 착용하지 않아 지신의 코 너머를 보지 못했던 친구에 의해 자신이 무시당했다고 생각했던 한 여인의 우정이 수개월 동안 긴장 상태에 있었던 어떤 경우를 나는 알고 있다. → 성급한 결론에 도달하는 것을 피하기 위해 우리는 어떤 사람의 행동의 원인을 주의 깊게 생각해야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr048-1.htm",
+  "legacyEncoding": "utf-8"
+}

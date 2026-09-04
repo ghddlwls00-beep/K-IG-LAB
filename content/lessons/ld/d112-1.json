@@ -1,0 +1,83 @@
+{
+  "id": "d112-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d112",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 112 회 ]",
+  "menuLabel": "[ D 112-1 ]",
+  "unit": 112,
+  "part": null,
+  "order": 223,
+  "audio": [
+    {
+      "src": "/audio/ld/d112.mp3",
+      "legacySrc": "sounds/d112.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 112 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "노동자들이 땅에서 어떤 특이한 물건들을 목격한"
+    },
+    {
+      "type": "instruction",
+      "text": "어제 새로운 고속도로에 대한 건설이 중단되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 노동자가 특이한 모습의 몇몇 돌을 목격했을 때 불도저들이"
+    },
+    {
+      "type": "instruction",
+      "text": "막 한 새로운 지역을 파들어가기 시작했었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 좀 더 주의깊게 보았을 때 그는 깨진 도자기, 몇몇 구슬들,"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 돌로부터 만든 몇 점의 도구를 발견했다."
+    },
+    {
+      "type": "instruction",
+      "text": "로건 대학으로부터의 인류학자들이 통보를 받았고 즉시 현장에 도착했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 연구가 이루어질 수 있을 때까지 작업을 중단해달라고 그 건설회사에게 요청했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 인류학자들은 조심스럽게 하고 그 지역의 내용물들을 조사하려고 계획한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d112-1.htm",
+  "legacyEncoding": "utf-8"
+}

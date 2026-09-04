@@ -1,0 +1,393 @@
+{
+  "id": "cnn009",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Tennis Stars Appeal to* Big Companies",
+  "label": "Tennis Stars Appeal to* Big Companies",
+  "menuLabel": "[ CNN 9 ]",
+  "unit": 9,
+  "part": null,
+  "order": 8,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn009.mp4",
+      "legacySrc": "CNN/CNN1-60/9.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tennis Stars Appeal to* Big Companies"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: Its stars grace both the sports and the entertainment pages but until this year, women’s tennis was missing a major corporate sponsor.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINGTON, CNN Anchor: It’s hard to believe, isn’t it? The tour now has an ace up its sleeve, one of the largest sponsorship deals in the history of women’s sports. In this week’s Field of Green, James MacDonald follows the WTA to one of the game’s fastest growing markets, China.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JAMES MACDONALD, CNN Correspondent: Maria mania in the Middle Kingdom. With digital cameras in hand, tennis fans in Beijing seek out a snapshot of Maria Sharapova, teen tennis sensation and the world’s highest-paid female athlete. The marketing phenomenon is part of a new cast of characters in women’s tennis, who are attracting the attention of big corporate backers. Perhaps the most significant, Sony-Ericsson. In January, the telecom company became the Women’s Tennis Association’s title sponsor for the next six years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JULIAN MACK, Sony-Ericsson: We’re trying to appeal a little bit more to women. To warm up our brand and make an emotional connection and with people. And we feel that women’s tennis is a challenging, growing, exciting sport.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MACDONALD: For all the sport’s popularity, the WTA was without a title sponsor for two years, leaving the tour lacking a huge source of revenue. But the association’s CEO says they were taking a cautious approach, focusing on smaller, regional sponsorship deals.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LARRY SCOTT, Women’s Tennis Association: When you assign a title sponsor, you really are merging brands, merging images. The fit has to be right.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MACDONALD: Negotiations were intense. The biggest sticking point? How to offer exclusive benefits without stepping on the toes of existing partners. But the courtship worked. The cellphone maker signed on for $88 million.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SCOTT: I think the celebrity appeal of our athletes was the biggest factor for Sony-Ericsson and the fact that they resonate globally.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MACDONALD: Today, the stars transcend the game, scoring on and off the court.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "VENUS WILLIAMS, Tennis Champion: After I get my practice in or after the tournament’s over I just switch over to all of the other things that I love, which is fashion design and music and interior design and all those things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MACDONALD: And the tour’s star power is on the rise, even in a land where table tennis is king. This kind of fan interest in Beijing is good news for the tournament and its sponsors. China hasn’t been considered a hotbed of tennis and yet many of the game’s biggest names are here in what has the potential to become one of the sport’s fastest growing markets. The new sponsorship comes with expectations that women’s tennis will move on to the next level. Even players think it has a way to go, especially compared to the men’s tour.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SERENA WILLIAMS, Tennis Champion: I definitely (think) woman’s tennis is getting everything that it deserves and I think we deserve a lot more. We’re still fighting for equal prize money and a few grand slams. We’re definitely on the come up. It’s a great sport for women.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MACDONALD: Now the tour feels better prepared than ever to build on the momentum having netted the most important deal in its history. James MacDonald, CNN, Beijing.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "기업을 끌어들이는 여자 테니스의 매력",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "CNN 앵커: 여자 테니스 스타들이 신문의 스포츠면과 연예란을 화려하게 장식하고 있지만, 올해까지 여자 테니스계는 메이저급 기업 스폰서를 잡지 못하고 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴, CNN 앵커: 정말 믿기 힘듭니다. 그렇지 않습니까? (하지만) 이제 여자 프로테니스 투어도 비장의 카드를 갖게 되었습니다. 바로 여자 스포츠계 사상 최대 규모의 스폰서 계약을 맺게 된 것입니다. 이번 주 <필드 오브 그린> 시간에서는, 제임스 맥도널드 기자가 세계여자프로테니스협회(WTA)를 따라 가장 빠르게 성장하고 있는 여자 테니스 시장 가운데 하나인 중국으로 가 봅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제임스 맥도널드, CNN 기자: 중국의 마리아 (샤라포바) 마니아들입니다. 베이징에서 테니스 팬들이 손에 디지털 카메라를 들고, 테니스계에 10대 돌풍을 몰고 왔으며 가장 돈을 잘 버는 여자 스포츠 선수 마리아 샤라포바의 스냅사진을 찍기 위해 안간힘을 쓰고 있습니다. 이러한 마케팅 현상은 신인 선수들이 여자 테니스계에 몰고 온 열풍의 일부이며, 이들은 대기업 스폰서들의 이목을 집중시키고 있습니다. 아마 가장 주목할 만한 기업은 소니-에릭슨 사일 것입니다. 이 이동통신 회사는 지난 1월, 향후 6년간WTA의 타이틀 스폰서를 맡게 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "줄리안 맥, 소니-에릭슨 사: 저희는 더 많은 여성들의 관심을 끌기 위해 애쓰고 있습니다. 저희는 브랜드 이미지를 한결 부드럽게 하고 사람들과 정서적 교감을 나누려는 것이지요. 저희는 여자 테니스야말로 도전적이고 성장세에 있는 흥미진진한 스포츠라고 생각하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥도널드: 하지만 이런 높은 인기에도 불구하고, WTA는 지난 2년동안 타이틀 스폰서가 없어서 큰 수익원이 필요한 상황이었습니다. 하지만 WTA 대표는 소규모의 현지 스폰서 계약에 주력하는 등 신중한 접근방법을 취했다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "래리 스코트, WTA: 타이틀 스폰서 지정은 곧 브랜드 통합이나 이미지 통합을 의미합니다. 궁합이 잘 맞아야 되죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥도널드: 협상 과정은 아주 치열했습니다. 최대 쟁점이라면 기존 협력사들의 심기를 건드리지 않으면서 (새로운 스폰서에게) 독점적 혜택을 제공할 수 있는 방안을 강구하는 것이었습니다. 결국 협상 제안은 성공적이었습니다. 이 휴대폰 업체는 8천800만 달러에 스폰서 계약을 체결했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스코트: 우리 여자 선수들이 연예인 못지 않은 인기를 누리고 있다는 점이 소니-에릭슨 사의 스폰서 참여에 가장 큰 요인으로 작용한 것 같습니다. 이들의 매력이 전세계적으로 통한다는 점과 함께 말입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥도널드: 오늘날 이 스타들은 테니스 대회를 초월해 코트 안팎에서 종횡무진하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비너스 윌리엄스, 테니스 챔피언: 연습이 끝나거나 대회가 끝나면 바로 제가 좋아하는 패션 디자인이나 음악, 인테리어 디자인 등 갖가지 것들로 관심이 옮겨가죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥도널드: 그리고 여자 프로테니스 대회의 스타 파워는 탁구가 최고의 스포츠인 중국에서도 상승가도를 달리고 있습니다. 중국 팬들의 이러한 관심은 여자 프로테니스 대회와 스폰서들에게 희소식이 아닐 수 없습니다. 여태껏 중국은 테니스 중심지로 여겨지지 않았으나, 지금은 다수의 최고 유명 테니스 선수들이 테니스 시장으로서의 초고속 성장 잠재력을 지닌 나라들 중 하나인 이 곳 중국에 진출해 있는 상태입니다. 이번 새로운 스폰서 계약 체결은 앞으로 여자 테니스가 한 단계 더 발전할 것이라는 기대 속에 이루어진 것입니다. 하지만 여자 프로테니스 선수들조차도, 특히 남자 테니스 대회와 비교할 때, 아직 갈 길이 멀다고 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세레나 윌리엄스, 테니스 챔피언: 저는 여자 테니스 선수들이 마땅히 받아야 하는 것을 모두 받고는 있지만 훨씬 더 많은 것도 충분히 받을만하다고 생각합니다. 우리는 지금도 여전히 남자 선수들과 동등한 상금과, 몇 개의 그랜드 슬램을 (확보하기) 위해 싸우고 있습니다. 우리는 확실히 상승가도에 있습니다. 테니스는 여자들에게 더할 나위 없이 좋은 스포츠입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "맥도널드: WTA투어는 이제 테니스 역사상 가장 중요한 계약을 성공적으로 체결한 데 힘입어 그 어느 때보다 앞으로 뻗어나갈 만반의 준비태세를 갖춘 듯 보입니다. 베이징에서 CNN, 제임스 맥도널드였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "corporate가 1음절에 강세가 있어 마지막의 -rate의 [reit] 부분이 약화되어 [릿]으로 발음되고 있다. sponsor의 sp-는 발음의 편리상 [스ㅃ]로 된소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tennis가 [테너ㅆ]로 발음되고, sensation은 [센세이션]이 아니라 2음절에 강세가 있어 [신세이션]으로 발음되고 있다. 이처럼 외래어는 외래어 표기법과 영어식 발음이 다르기 때문에 청취시 주의해야 한다. ex. digital[디지를], camera[캐므러]로 발음되고, title은 [타이를]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 [r]의 영향을 받아 [트]가 아닌 [츄]로 변형 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한, stars에서 st-도 발음의 편리상 [스ㄸ]로 된소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tour가 발음기호대로 [투어r]로 발음되는 것이 아니라 빠르게 진행되는 대화나 뉴스에서는 [투-]로 들려 to나 too로 착각할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. sponsorship/ 스폰서임; 후원",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. ace/ (트럼프의) 1의 패",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. attention/ 주의(력)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. exclusive/ 독점적인",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "corporate sponsor",
+          "text": "[코퍼릿 스빤서-]."
+        },
+        {
+          "n": "teen tennis sensation",
+          "text": "[틴 테너쎈세이슨]."
+        },
+        {
+          "n": "stars transcend",
+          "text": "[스따- 츄렌센]."
+        },
+        {
+          "n": "tour’s star",
+          "text": "[투- 스따-]."
+        },
+        {
+          "n": "* appeal to",
+          "text": "…의 마음에 와 닿다, 매력이 있다, 마음에 들다"
+        },
+        {
+          "n": "1) grace",
+          "text": "…을 아름답게 꾸미다, 빛내다"
+        },
+        {
+          "n": "2) corporate sponsor",
+          "text": "후원사, 기업 스폰서"
+        },
+        {
+          "n": "3) the tour WTA",
+          "text": "(세계여자프로테니스협회) 투어[경기]를 가리킴"
+        },
+        {
+          "n": "4) have an ace [eis] up one’s sleeve",
+          "text": "비장의 카드를 준비하고 있다"
+        },
+        {
+          "n": "5) deal",
+          "text": "거래, 계약"
+        },
+        {
+          "n": "6) WTA",
+          "text": "세계여자프로테니스협회(Women’s Tennis Association): 버지니아 슬림즈(Virginia Slims: WTA의 주요 스폰서이던 여성용 담배회사) 산하 여자 선수들이 ITF(International Tennis Federation, 국제 테니스 연맹)에 대항하여 결성한WITA(여자국제테니스협회)가 그 전신이다."
+        },
+        {
+          "n": "7) follow A to B",
+          "text": "A를 따라 B까지 가다"
+        },
+        {
+          "n": "8) Maria (Sharapova)",
+          "text": "마리아 (샤라포바): 현재 가장 각광받고 있는 테니스계 미녀 스타로 세계 여자프로테니스 최연소 랭킹 1위를 차지했다."
+        },
+        {
+          "n": "9) Middle Kingdom",
+          "text": "(옛날의) 중국"
+        },
+        {
+          "n": "10) seek out",
+          "text": "…을 구하다, 얻으려고 애쓰다"
+        },
+        {
+          "n": "11) athlete",
+          "text": "운동선수"
+        },
+        {
+          "n": "12) phenomenon",
+          "text": "현상, 사상(事象); 사건"
+        },
+        {
+          "n": "13) a cast of characters",
+          "text": "출연진: 여기서는 여자 테니스 경기에 참가하는 선수들을 의미"
+        },
+        {
+          "n": "14) attract the attention of",
+          "text": "…의 관심을 끌다"
+        },
+        {
+          "n": "15) backer",
+          "text": "후원자, 원조자(sponsor)"
+        },
+        {
+          "n": "16) significant",
+          "text": "중요한, 중대한, 주목할 만한"
+        },
+        {
+          "n": "17) telecom company",
+          "text": "텔레콤 회사, 통신업체"
+        },
+        {
+          "n": "18) for all",
+          "text": "…에도 불구하고"
+        },
+        {
+          "n": "19) source of revenue",
+          "text": "수익원"
+        },
+        {
+          "n": "20) take a cautious approach",
+          "text": "신중하게 접근하다"
+        },
+        {
+          "n": "21) assign",
+          "text": "지정하다; 할당하다, 배정하다"
+        },
+        {
+          "n": "22) merge",
+          "text": "합병하다, 통합하다"
+        },
+        {
+          "n": "23) fit",
+          "text": "꼭 맞는 것, 적합(성), 적합도"
+        },
+        {
+          "n": "24) intense",
+          "text": "격렬한, 굉장한; 혹독한; 강렬한"
+        },
+        {
+          "n": "25) sticking point",
+          "text": "(문제 해결의) 장애, 지장, 주요쟁점"
+        },
+        {
+          "n": "26) exclusive benefit",
+          "text": "독점적 특혜"
+        },
+        {
+          "n": "27) step on the toes of",
+          "text": "…을 화나게 하다; …의 영역[권리]을 침범하다"
+        },
+        {
+          "n": "28) courtship",
+          "text": "구애, 구혼"
+        },
+        {
+          "n": "29) resonate",
+          "text": "반향하다; 공명하다"
+        },
+        {
+          "n": "30) transcend",
+          "text": "넘다, 초월하다"
+        },
+        {
+          "n": "31) switch over to",
+          "text": "…으로 전환하다"
+        },
+        {
+          "n": "32) hotbed",
+          "text": "온상, 소굴"
+        },
+        {
+          "n": "33) potential",
+          "text": "발전[발달] 가능성, 잠재력"
+        },
+        {
+          "n": "34) move on to the next level",
+          "text": "다음 수준으로[단계로] 올라가다"
+        },
+        {
+          "n": "35) equal prize money",
+          "text": "(남자와) 동등한 상금액수"
+        },
+        {
+          "n": "36) grand slam",
+          "text": "그랜드 슬램: 한 해에 한 선수가 4대 토너먼트(영국의 윔블던, 프랑스 오픈, 호주 오픈, 전미오픈대회)에서 우승하는 일"
+        },
+        {
+          "n": "37) on the come up",
+          "text": "오름세에 있는(on the rise)"
+        },
+        {
+          "n": "38) better prepared than ever",
+          "text": "(지금까지) 그 어느 때보다 잘 준비된"
+        },
+        {
+          "n": "39) build on the momentum",
+          "text": "여세에 힘입어 (앞으로) 나아가다"
+        },
+        {
+          "n": "40) net",
+          "text": "…을 (그물로) 잡다, 낚다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/9.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr152-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr152",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 152-1 ]",
+  "menuLabel": "[ pr152-1 ]",
+  "unit": 152,
+  "part": null,
+  "order": 303,
+  "audio": [
+    {
+      "src": "/audio/reading/pr152.mp3",
+      "legacySrc": "sounds/pr152.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 152-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "아이는 종종 공개적으로 승인을 요청하는 경향이 있다. \"내 그림을 보세요. 예쁘지 않아요?\" 그러나 어른들은 지지를 받고 싶은 욕구에 대해 일반적으로 (아이들보다) 덜 솔직하다. 어떤 일에 최선을 다한 어떤 어른이 \"내가 일을 잘 하지 않았나요?\" 라는 질문을 할 것 같지는 않다. 그러나 그는 그럼에도 불구하고 그 말을 들을 필요가 있다. 즉, 아이들과 어른들 똑같이 긍정적인 말을 듣기 원한다. 그러므로 다른 사람들이 지원을 필요로 할 때 그들을 칭찬하는 것을 잊지 말아라. )"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr152-1.htm",
+  "legacyEncoding": "utf-8"
+}

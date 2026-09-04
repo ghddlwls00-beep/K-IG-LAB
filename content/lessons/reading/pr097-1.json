@@ -1,0 +1,75 @@
+{
+  "id": "pr097-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr097",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 097-1 ]",
+  "menuLabel": "[ pr097-1 ]",
+  "unit": 97,
+  "part": null,
+  "order": 193,
+  "audio": [
+    {
+      "src": "/audio/reading/pr097.mp3",
+      "legacySrc": "sounds/pr097.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 097-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "독특한 제품의 도입은 단지 시장의 성공을 보장하지 않는다. 또다른 핵심적인 요소"
+    },
+    {
+      "type": "instruction",
+      "text": "가 시장을 구성하는 지역 사회에 알맞은 상품을 공급함으로써 시장의 반응을 증가"
+    },
+    {
+      "type": "instruction",
+      "text": "시키고 있다. 이것은 각 나라 가 직역사회 그리고 각 개인이 독특한 특성과 필요사"
+    },
+    {
+      "type": "instruction",
+      "text": "항을 가진다는 것을 의미한다 ; 그것은 지역과 개인의 차이에 민감함을 필요한다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 말로 하면 과제중의 하나는 세계화 관점에만 너무 많은 강조를 하는 하나로"
+    },
+    {
+      "type": "instruction",
+      "text": "‘one-size-fits-all’ 전략을 피하는 것이다. 심지어 나라를 선진국, 신흥국가로 분"
+    },
+    {
+      "type": "instruction",
+      "text": "류하는 것조차 위험하다. 면필한 분석을 토대로 신흥 국가는 서로 크게 다르지"
+    },
+    {
+      "type": "instruction",
+      "text": "않을 뿐만 아니라. 그나라들은 또한 다양한 독특한 개인과 지역사회로 구성된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr097-1.htm",
+  "legacyEncoding": "utf-8"
+}

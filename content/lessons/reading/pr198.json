@@ -1,0 +1,47 @@
+{
+  "id": "pr198",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 198 ]",
+  "menuLabel": "[ pr198 ]",
+  "unit": 198,
+  "part": null,
+  "order": 394,
+  "audio": [
+    {
+      "src": "/audio/reading/pr198.mp3",
+      "legacySrc": "sounds/pr198.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 198 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Learning to ski is one of the most humbling experiences an adult can undergo (that is one reason to start young). After all, an adult has been walking for a long time; he knows where his feet are; he knows how to put one foot in front of the other in order to get somewhere. But as soon as he puts skis on his feet, it looks as though he had to learn to walk all over again. He slips and slips, falls down, has trouble getting up, gets his skis crossed, tumbles again, and generally looks and feels like a fool."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr198.htm",
+  "legacyEncoding": "utf-8"
+}

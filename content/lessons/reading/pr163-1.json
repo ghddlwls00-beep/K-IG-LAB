@@ -1,0 +1,47 @@
+{
+  "id": "pr163-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr163",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 163-1 ]",
+  "menuLabel": "[ pr163-1 ]",
+  "unit": 163,
+  "part": null,
+  "order": 325,
+  "audio": [
+    {
+      "src": "/audio/reading/pr163.mp3",
+      "legacySrc": "sounds/pr163.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 163-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "당신이 즐거움을 위해 익는 책은 편안한 상태에서 읽어도 잃는 것도 아무것도 없다. 그러나 위대한 책, 즉 진지하고 근본적인 문제들은 제기하고 해결하려고 하는 책은 당신이 할 수 있는 한의 능동적인 독서를 요구한다. 당신은 대중가요를 콧노래 부르듯이 책을 읽는 방식으로는 위대한 사상가의 생각을 흡수할 수 없다. 그 책을 이해하려고 노력해야만 한다. 또 당신이 잠자고 있는 동안에도 그 것을 할 수 없다(항상 정신을 집중해서 읽어야 한다)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr163-1.htm",
+  "legacyEncoding": "utf-8"
+}

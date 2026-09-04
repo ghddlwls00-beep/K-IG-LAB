@@ -1,0 +1,148 @@
+{
+  "id": "m3-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m3-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 2,
+  "order": 15,
+  "audio": [
+    {
+      "src": "/audio/man/m3-2-1.mp3",
+      "legacySrc": "m3-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-2.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-3.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-4.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-5.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-6.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m3-2-7.mp3",
+      "legacySrc": "m3-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 가장 친한 친구인 민수는 40세이고 서울에 삽니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My best friend 민수 is 40 years old and lives in 서울.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 아름다운 아내와 아들 그리고 딸을 포함한 정말 훌륭한 가족이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He has a really wonderful family that includes a beautiful wife, son, and daughter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 아내의 이름은 박수민이고, 그녀는 그들의 가정과 가족들을 돌보기 위해 집에 머무릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "His wife’s name is 박수민, she stays home to take care of their home and family.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 아들 진수는 14살 이고, 그는 한국중학교의 학생입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "His son, 진수 is (14), and he is a student at 한국 Middle School.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "민지는 그의 딸이고, 그녀는 한국초등학교에 다닙니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "민지 is his daughter, and she attends 한국 Elementary School.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 집과 우리집은 서로 거의 가까이 있다. 그래서 우리는 우리의 생활이 어떻는지 나누기 위해 한달에 한번씩 만나려고 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "His house and mine are somewhat near each other, so we try to meet once a month to catch up on what’s been going on in our lives.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "About My Friend’s Personal Background",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m3-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m3-2.swf"
+  ]
+}

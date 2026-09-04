@@ -1,0 +1,91 @@
+{
+  "id": "d035-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d035",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 035 회 ]",
+  "menuLabel": "[ D 035-1 ]",
+  "unit": 35,
+  "part": null,
+  "order": 69,
+  "audio": [
+    {
+      "src": "/audio/ld/d035.mp3",
+      "legacySrc": "sounds/d035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 035 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "금혼식은 50년의 결혼의 축하이다. 보통 그 결혼한 부부의 모든 친구들과 친척들을 위한 큰 잔치가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것이 얼마나 많은 사람이 될 수 있는지 단지 생각해보라."
+    },
+    {
+      "type": "instruction",
+      "text": "아들, 딸, 조카딸, 조카, 형제, 자매, 사촌, 손자, 심지어 증손자까지 있다. 물론 많은 오랜 친구들도 온다."
+    },
+    {
+      "type": "instruction",
+      "text": "자주, 다른 마을들로부터 온 가족원들은 매우 자주 서로를 보지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 한 기념일 잔치에 오는 것을 기뻐한다. 그러나 그것은 아이들에게 혼란의 시간이 될 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 모든 그들의 친척들의 이름을 기억하는 것은 어렵다. 한 어머니는 이렇게 말할 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "“Albert, 이 사람은 너의 사촌 George이다. 그는 Dorothy의 아들이기 때문에 사실은 너의 육촌이다."
+    },
+    {
+      "type": "instruction",
+      "text": "Dorothy는 나의 친사촌이다. 그녀의 어머니는 나의 아버지의 누이인 Helen 고모이다.”"
+    },
+    {
+      "type": "instruction",
+      "text": "때로는 의붓 자매, 이복 형제, 조카며느리도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "실제로는 전혀 친척이 아니라 그 가족의 좋은 친구들인 “숙모”와 “삼촌”들도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 매우 혼란스러울 수 있으나 모두가 즐거운 시간을 보낸다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d035-1.htm",
+  "legacyEncoding": "utf-8"
+}

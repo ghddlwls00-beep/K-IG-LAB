@@ -1,0 +1,75 @@
+{
+  "id": "p161",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 161 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 1,
+  "order": 160,
+  "audio": [
+    {
+      "src": "/audio/middle/p161.mp3",
+      "legacySrc": "sounds/p161.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 161 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Other Dream Job)"
+    },
+    {
+      "type": "hints",
+      "text": "I have seen on TV and read about many successful people"
+    },
+    {
+      "type": "instruction",
+      "text": "such as Bill Gates, Ban-Gi-Moon, and Angelina Jolie."
+    },
+    {
+      "type": "instruction",
+      "text": "These people have influenced me a lot in one way or another."
+    },
+    {
+      "type": "instruction",
+      "text": "A few years ago, Queen Elizabeth II came to Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "She had an interpreter with her who was very professional."
+    },
+    {
+      "type": "instruction",
+      "text": "Her ability to interpret so well had a great affect on me."
+    },
+    {
+      "type": "instruction",
+      "text": "It has impressed me enough to want to become an interpreter."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p161.htm",
+  "legacyEncoding": "utf-8"
+}

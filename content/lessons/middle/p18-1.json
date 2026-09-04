@@ -1,0 +1,139 @@
+{
+  "id": "p18-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p18",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle18-1]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": null,
+  "order": 177,
+  "audio": [
+    {
+      "src": "/audio/middle/p18.mp3",
+      "legacySrc": "sounds/p18.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle18-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "18과 휴일들"
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라는 많은 국경일들이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "공휴일들은 가족들이 함께 모일 수 있고"
+    },
+    {
+      "type": "instruction",
+      "text": "기념할 수 있는 특별한 시간입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 음력설날, 독립기념일, 식목일, 그리고 석가탄신일"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 더 많은 휴일들을 기념합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 한국에서 가장 큰 전통 공휴일 두 가지에 대해 이야기 하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫 번째로 큰 휴일은 또한 설날이라고 알려진 음력설날입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 중요한 음력 설날의 전통은 차례입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가족 모두는 아침에 일찍 일어나고 그들의 가장 좋은 옷을 입습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러고 나서, 우리는 우리의 조상을 기리기 위해 차례를 지냅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "차례에 이어, 나이가 어린 사람들은 나이가 많은 사람들에게"
+    },
+    {
+      "type": "instruction",
+      "text": "다가오는 새해 동안에 모든 사람들이"
+    },
+    {
+      "type": "instruction",
+      "text": "새로운 축복을 받기를 기원하는 뜻으로 절을 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "음력설날에 절을 한다는 것은 특별한 의례이고"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람의 손윗사람에게 존경을 표하는 특권입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "추석은 한 해의 가장 큰 국경일 이고,"
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 종종 한국의 추수감사절이라 불린다."
+    },
+    {
+      "type": "instruction",
+      "text": "추석 동안, 사람들은 그들 조상의 무덤을 방문하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 조상들에게 음식을 대접한다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가, 대부분의 사람들은 그들의 친척들과 함께 게임을"
+    },
+    {
+      "type": "instruction",
+      "text": "하고 한국의 전통 떡인 송편을 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 우리 나라의 국경일을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 날을 통해서 저는 가족이 얼마나 중요한지에 대해 배웁니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p18-1.htm",
+  "legacyEncoding": "utf-8"
+}

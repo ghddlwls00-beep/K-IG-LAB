@@ -1,0 +1,76 @@
+{
+  "id": "d001-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d001",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 001 회 ]",
+  "menuLabel": "[ D 001-1 ]",
+  "unit": 1,
+  "part": null,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/ld/d001.mp3",
+      "legacySrc": "sounds/d001.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 001 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "나는 왓슨 부인입니다. 나의 이름은 바바라입니다. 나는 간호사이고 병원에서 일합니다."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 로버트 왓슨과 결혼해 있습니다. 그는 과학자입니다. 나의 남편과 나는 위스컨신에서 삽니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 미국의 주들의 하나입니다. 우리는 한 집에서 삽니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 집은 새 것이 아니고 크지 않지만 우리는 그것을 매우 많이 좋아합니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 한 딸이 있습니다. 그녀의 이름은 엘리입니다. 그녀의 방은 이층에 있습니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 크지 않지만 매우 좋습니다. 우리는 또 한 어린 아들이 있습니다. 그의 이름은 톰입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d001-1.htm",
+  "legacyEncoding": "utf-8"
+}

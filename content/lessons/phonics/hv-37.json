@@ -1,0 +1,88 @@
+{
+  "id": "hv-37",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-37 ]",
+  "unit": 37,
+  "part": null,
+  "order": 156,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-37.mp3",
+      "legacySrc": "sounds/hv-37.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "neglect",
+          "relation",
+          "injurious",
+          "diligence",
+          "labor",
+          "laborer"
+        ],
+        [
+          "diligent",
+          "laboratory",
+          "legal",
+          "elaborate",
+          "privilege",
+          "delegate"
+        ],
+        [
+          "relate",
+          "just",
+          "colleague",
+          "legacy",
+          "legend",
+          "collection"
+        ],
+        [
+          "liberal",
+          "collective",
+          "recollect",
+          "liberty",
+          "recollection",
+          "liberate"
+        ],
+        [
+          "elect",
+          "liberation",
+          "deliver",
+          "election",
+          "relationship",
+          "relief"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-37 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-37.htm",
+  "legacyEncoding": "utf-8"
+}

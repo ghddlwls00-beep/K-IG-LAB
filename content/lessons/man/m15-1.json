@@ -1,0 +1,123 @@
+{
+  "id": "m15-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m15-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 1,
+  "order": 64,
+  "audio": [
+    {
+      "src": "/audio/man/m15-1-1.mp3",
+      "legacySrc": "m15-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-1-2.mp3",
+      "legacySrc": "m15-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-1-3.mp3",
+      "legacySrc": "m15-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-1-4.mp3",
+      "legacySrc": "m15-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m15-1-5.mp3",
+      "legacySrc": "m15-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한국 전쟁이 끝났을 때, 나라 전체가 죽음과 파괴로 황폐화 되었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the end of the Korean War, the entire country had been devastated by death and destruction.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리나라의 경제는 매우 불안정했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our country’s economy was very unstable.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 시대에, 나는 매우 어렸고 나의 부모님은 아주 가난한 생활을 경험했다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "At that time, I was very young, so my parents experienced a very poor life.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1970년대에, 한국의 경제는 발전의 신호를 보이고 있었다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the 1970s, Korea’s economy was showing signs of progress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "At that time, I was very young, so I/my parents experienced a very poor life.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 The Korean Economy :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the Korean War",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m15-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m15-1.swf"
+  ]
+}

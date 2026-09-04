@@ -1,0 +1,79 @@
+{
+  "id": "p084",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 084 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 4,
+  "order": 92,
+  "audio": [
+    {
+      "src": "/audio/middle/p084.mp3",
+      "legacySrc": "sounds/p084.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 084 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Watching TV/Go to bed)"
+    },
+    {
+      "type": "hints",
+      "text": "After dinner, our family watches TV together."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother doesn’t allow us to watch a lot of TV."
+    },
+    {
+      "type": "instruction",
+      "text": "I like the entertainment programs because I can see famous"
+    },
+    {
+      "type": "instruction",
+      "text": "actors and musicians."
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish watching TV, I do a little review to prepare for school,"
+    },
+    {
+      "type": "instruction",
+      "text": "write in my journal, and then go to bed."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though my days are filled with many activities,"
+    },
+    {
+      "type": "instruction",
+      "text": "they are a lot of fun too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p084.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "w20-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w20-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 3,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/woman/w20-3-1.mp3",
+      "legacySrc": "w20-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-3-2.mp3",
+      "legacySrc": "w20-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-3-3.mp3",
+      "legacySrc": "w20-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-3-4.mp3",
+      "legacySrc": "w20-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places to Visit in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Homemade Piece of History: The Korean Folk Village in Suwon",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "찾아볼 만한 매우 흥미로운 한 장소는 서울에서 멀지않은 경기도 수원시 가까이 위치한 한국민속촌이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyunggi Province, not far from the capital of Seoul.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그곳을 찾아가면, 전통 결혼식, 전통 음식 맛, 그리고 옛날 한국 사람들이 어떻게 살았는지 확인 할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 많은 외국 방문객들에게 인기 있고 매력적인 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is a very popular attraction for many foreign visitors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "One very interesting place to visit is the Korean Folk Village locatednear the city of Suwon in Gyunggi Province, not far from the capital of Seoul.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w20-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w20-3.swf"
+  ]
+}

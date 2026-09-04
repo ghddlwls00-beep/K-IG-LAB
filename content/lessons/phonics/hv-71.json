@@ -1,0 +1,88 @@
+{
+  "id": "hv-71",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-71 ]",
+  "unit": 71,
+  "part": null,
+  "order": 190,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-71.mp3",
+      "legacySrc": "sounds/hv-71.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "extravagant",
+          "value",
+          "valuable",
+          "invaluable",
+          "evaluate",
+          "evaluation"
+        ],
+        [
+          "avail",
+          "available",
+          "prevail",
+          "prevalent",
+          "vanish",
+          "vain"
+        ],
+        [
+          "vanity",
+          "avoid",
+          "avoidance",
+          "adventure",
+          "inventive",
+          "eventual"
+        ],
+        [
+          "inventor",
+          "event",
+          "invention",
+          "avenge",
+          "revenge",
+          "invent"
+        ],
+        [
+          "prevention",
+          "vacuum",
+          "prevent",
+          "vacancy",
+          "vacant",
+          "eventually"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-71 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-71.htm",
+  "legacyEncoding": "utf-8"
+}

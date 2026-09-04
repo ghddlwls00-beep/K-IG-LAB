@@ -1,0 +1,139 @@
+{
+  "id": "p15",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle15]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": null,
+  "order": 150,
+  "audio": [
+    {
+      "src": "/audio/middle/p15.mp3",
+      "legacySrc": "sounds/p15.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle15]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 15: Whom Do I Admire?"
+    },
+    {
+      "type": "hints",
+      "text": "A few years ago our country hosted the 2002 World Cup."
+    },
+    {
+      "type": "instruction",
+      "text": "Our country’s soccer players are not one of the best teams."
+    },
+    {
+      "type": "instruction",
+      "text": "Before the World Cup, soccer was not famous in our country."
+    },
+    {
+      "type": "instruction",
+      "text": "Sports have a way of making new heroes and stars."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce to you one person"
+    },
+    {
+      "type": "instruction",
+      "text": "from the world of Korean soccer that I admire the most."
+    },
+    {
+      "type": "instruction",
+      "text": "The person I admire the most is Guus Hiddink,"
+    },
+    {
+      "type": "instruction",
+      "text": "coach of the Korean Republic national soccer team from Holland."
+    },
+    {
+      "type": "instruction",
+      "text": "During his time as coach of the Korean team,"
+    },
+    {
+      "type": "instruction",
+      "text": "he trained our soccer players very hard."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though Coach Hiddink spent a lot of time training"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea’s soccer team, they were still not winning very many games."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people complained about him"
+    },
+    {
+      "type": "instruction",
+      "text": "and blamed him for the lack of success."
+    },
+    {
+      "type": "instruction",
+      "text": "In spite of the lack of confidence in him by many Korean people,"
+    },
+    {
+      "type": "instruction",
+      "text": "he never lost his confidence."
+    },
+    {
+      "type": "instruction",
+      "text": "He always emphasized that in order to be good players,"
+    },
+    {
+      "type": "instruction",
+      "text": "they must start from the basics."
+    },
+    {
+      "type": "instruction",
+      "text": "By working hard and sticking to his plan"
+    },
+    {
+      "type": "instruction",
+      "text": "he was able to bring the Korean team to the semi-finals during"
+    },
+    {
+      "type": "instruction",
+      "text": "the 2002 World Cup."
+    },
+    {
+      "type": "instruction",
+      "text": "In short, Coach Hiddink proved that he could succeed"
+    },
+    {
+      "type": "instruction",
+      "text": "despite Korea’s lack of confidence in his abilities."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p15.htm",
+  "legacyEncoding": "utf-8"
+}

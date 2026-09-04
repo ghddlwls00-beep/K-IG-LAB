@@ -1,0 +1,47 @@
+{
+  "id": "pr042",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 042 ]",
+  "menuLabel": "[ pr042 ]",
+  "unit": 42,
+  "part": null,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/reading/pr042.mp3",
+      "legacySrc": "sounds/pr042.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 042 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Each of us has probably wanted to live another life, even if only for a brief time. It is not a matter of being dissatisfied with our own lives, but it is more a curiosity about the road not traveled. Of course, one way of satisfying this curiosity is through travel. Just as we may dream of being an actor on a stage, travel allows us to experience a different world. Whether we dream of sitting in a cafe in Paris or on the back of an elephant in Southeast Asia, travel gives us the chance to do things we have only imagined."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr042.htm",
+  "legacyEncoding": "utf-8"
+}

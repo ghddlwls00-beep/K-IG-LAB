@@ -1,0 +1,183 @@
+{
+  "id": "w15-4",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w15-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 4,
+  "order": 62,
+  "audio": [
+    {
+      "src": "/audio/woman/w15-4-1.mp3",
+      "legacySrc": "w15-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-2.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-3.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-4.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-5.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-6.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-7.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-8.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w15-4-9.mp3",
+      "legacySrc": "w15-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 The Korean Economy :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Korean Economy Today",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "이렇게 하면, 미래에 우리는 모두 재정적으로 번영할 것이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By doing so, we will all financially prosper in the future.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "유망하게, 모든 한국 사람들이 경제가 개선되는 그들의 역할을 할 것이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hopefully, all Korean people will do their part in improving the economy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국의 시민으로서, 나는 경제를 돕기 위해 돈을 아끼고 정확한 예산을 따르는 것에 최선을 다하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a citizen of Korean, I’m trying my best to help the economy by not wasting money and following a strict budget.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "밝은 면은, 우리나라는 더욱 더 많이 우리나라의 생산품을 매년 수출하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the bright side, our country’s is exporting more and more of its products every year.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 극심한 석유 의존 국가이기 때문에 이는 한국에서의 삶을 매우 힘들게 만든다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This makes life very difficult for us in Korea because we are a very oil dependent nation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "물가가 증가하면서 석유 값도 오른다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the cost of living increases, so does the price of oil.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국의 경제도 그렇다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "This goes for Korea’s economy as well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "현재 이 시대에도, 나라의 경제는 완전히 안정적이지 않다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even in modern times, no country’s economy is completely stable.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w15-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w15-4.swf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "d051-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d051",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 051회 ]",
+  "menuLabel": "[ D 051-1 ]",
+  "unit": 51,
+  "part": null,
+  "order": 101,
+  "audio": [
+    {
+      "src": "/audio/ld/d051.mp3",
+      "legacySrc": "sounds/d051.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 051회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "거의 모든 사람이 신문을 위해서 일하는 것은 멋진 직업임에 틀림없다고 믿는다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들에 따르면 기자들은 추측컨대 유명한 사람과 인터뷰하고 다른 흥미있는 것들을 하면서 그들의 시간의 대부분을 보낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "기자의 생활은 모험으로 가득차 있는 것같이 보인다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 실제로 대부분의 신문기자들은 좀 판에 박은 생활을 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "평균적인 젊은 기자는 하루의 대부분을 자기 책상에서 보낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 일은 더 나이많고 더 경험많은 사람들이 갖고 들어오는 그 이야기들을 다시 쓰는 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "가끔 상사가 그를 한 이야기를 취재하도록 내보내낼지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그가 잘하면 그 상사는 아마 그를 더 자주 내보낼 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 심지어 그가 그의 자신의 칼럼을 갖게 해주기까지 할지 모른다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d051-1.htm",
+  "legacyEncoding": "utf-8"
+}

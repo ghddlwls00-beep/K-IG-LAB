@@ -1,0 +1,75 @@
+{
+  "id": "p193-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p193",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 193-1 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 3,
+  "order": 191,
+  "audio": [
+    {
+      "src": "/audio/middle/p193.mp3",
+      "legacySrc": "sounds/p193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 193-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(음식)"
+    },
+    {
+      "type": "instruction",
+      "text": "한국문화의 또 다른 면은 음식 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "전통 한국 음식들은 밥, 국, 생선 또는 고기, 몇 가지 야채 반찬,"
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 한가지 또는 더 많은 김치를 포함하고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가장 좋아하는 음식은 불고기 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "불고기는 가장 유명한 한국의 고기 요리 인 반면"
+    },
+    {
+      "type": "instruction",
+      "text": "김치는 가장 유명한 채소 요리 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저는 그것들 둘 다 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p193-1.htm",
+  "legacyEncoding": "utf-8"
+}

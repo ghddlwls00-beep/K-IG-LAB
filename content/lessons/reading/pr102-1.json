@@ -1,0 +1,47 @@
+{
+  "id": "pr102-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr102",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 102-1 ]",
+  "menuLabel": "[ pr102-1 ]",
+  "unit": 102,
+  "part": null,
+  "order": 203,
+  "audio": [
+    {
+      "src": "/audio/reading/pr102.mp3",
+      "legacySrc": "sounds/pr102.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 102-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "경쟁이란 여러 면에서 발전의 중요한 부분이다. 개인적 차원에서 경쟁은 우리가 될 수 있는 최고의 사람이 되게 한다. 예를 들면, 스포츠에서 우리는 다른 사람들과 경쟁함으로써 우리의 운동 능력 수준을 높일 수 있다. 사업에서 경쟁은 여러 회사들이 생존하기 위해 새로운 아이디어를 개발하도록 하여 시장을 조절한다. 산업 분야에서 회사들은 항상 다른 회사보다 한 단계 나은 제품을 개발하려고 노력한다. 성공적으로 경쟁하지 못한 사람들에게는 그들 자신의 생존이 의문시 될 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr102-1.htm",
+  "legacyEncoding": "utf-8"
+}

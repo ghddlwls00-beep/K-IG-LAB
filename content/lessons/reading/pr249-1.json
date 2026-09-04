@@ -1,0 +1,47 @@
+{
+  "id": "pr249-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr249",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 249-1 ]",
+  "menuLabel": "[ pr249-1 ]",
+  "unit": 249,
+  "part": null,
+  "order": 497,
+  "audio": [
+    {
+      "src": "/audio/reading/pr249.mp3",
+      "legacySrc": "sounds/pr249.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 249-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "내 친구 2명이 내 방아 앉아 있다고 생각하자. 한 친구는 키가 165cm이고 다른 친구는 175cm이다. 둘 중 누가 여자고 누가 남자라고 생각하는가? 다른 정보가 없다면 아마도 작은 쪽이 여자고 큰 쪽이 남자라고 결론을 내릴 거다. 어디에서 이런 결론이 나오는가? 당신의 경험이 남자가 여자보다 큰 경향이 있다는 것을 말해준다. 그래서, 당신은 당신이 알고 있는 특별정한 남녀로부터 대체적인 남녀에 관한 결론을 내린다. 이런 식으로 당신의 일상적 판단과 추측은 당신의 경험에 달려있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr249-1.htm",
+  "legacyEncoding": "utf-8"
+}

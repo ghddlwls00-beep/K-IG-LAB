@@ -1,0 +1,153 @@
+{
+  "id": "w3-2",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w3-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 2,
+  "order": 14,
+  "audio": [
+    {
+      "src": "/audio/woman/w3-2-1.mp3",
+      "legacySrc": "w3-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-2.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-3.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-4.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-5.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-6.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w3-2-7.mp3",
+      "legacySrc": "w3-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Introducing My Best Friend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "About My Friend’s Personal Background",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 가장 친한 친구 현주는 39살입니다. 그리고 서울에 살고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My best friend (현주) is (39) years old and lives in (서울).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 좋은 남편, 아들, 그리고 딸이 있는 훌륭한 가족을 가지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She has a really wonderful family that includes a nice husband, son, and daughter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 남편은 이영철이며, 휴대폰회사에서 일하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her husband’s name is (이영철), and he works for Cell-Phone Company.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아들은 대한이며 14살이고, 그는 한국 중학교 학생입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her son, (대한) is (14), and he is a student at (한국 Middle School).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "소연이는 그녀의 딸이며, 그녀는 한국 초등학교에 다니고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "(소연) is her daughter, and she attends (한국 Elementary School).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 집과 나의 집은 아주 가까이 있으며 그래서 우리는 이틀에 한번 만날 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her house and mine are very close, so we can meet each other everyday.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w3-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w3-2.swf"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pr233",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 233 ]",
+  "menuLabel": "[ pr233 ]",
+  "unit": 233,
+  "part": null,
+  "order": 464,
+  "audio": [
+    {
+      "src": "/audio/reading/pr233.mp3",
+      "legacySrc": "sounds/pr233.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 233 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "We have the good fortune to live in a democracy."
+    },
+    {
+      "type": "hints",
+      "text": "But what does democracy mean to us if we don't have the freedom to tell the truth? Without this freedom, the decision-makers may make our lives difficult because they wouldn't know what we think. We should, therefore, be ready to fight for the right to tell the truth whenever it is threatened."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr233.htm",
+  "legacyEncoding": "utf-8"
+}

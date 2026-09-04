@@ -1,0 +1,75 @@
+{
+  "id": "d067-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d067",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 067회 ]",
+  "menuLabel": "[ D 067-1 ]",
+  "unit": 67,
+  "part": null,
+  "order": 133,
+  "audio": [
+    {
+      "src": "/audio/ld/d067.mp3",
+      "legacySrc": "sounds/d067.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 067회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Lite Soap Company의 사장인 Mrs.Ruth Ascott는 자신의 강력한 세척제의 이름을 따서 그것을 새 맥주의 이름으로 사용하는 것에 대하여 그 양조장에게 매우 화가 났다."
+    },
+    {
+      "type": "instruction",
+      "text": "Lite Soap는 53년 동안 바로 그 이름을 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그 양조장에 편지를 써서 그들이 그들의 맥주 광고에 LITE라는 단어를 사용할 수 없다고 주장했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 양조장은 맥주와 비누는 너무나 다르기 때문에 그들은 사용할 수 있고 사용하겠다고 답했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 대중이 어느 LITE가 어느 것인지 알기 때문에 “LITE tastes soapy\"광고를 무시하기로 계획했다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 Mrs.Ascott가 새로운 캠페인을 계획하고 있다는 것을 마지막으로 들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 광고는 ”LITE는 옷을 빨기에 좋다.“라고 할 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d067-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "am11",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 11 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": null,
+  "order": 107,
+  "audio": [
+    {
+      "src": "/audio/adults/am11.mp3",
+      "legacySrc": "sounds/am11.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 11 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 11: Single Life vs. Married Life"
+    },
+    {
+      "type": "hints",
+      "text": "After Graduating College"
+    },
+    {
+      "type": "instruction",
+      "text": "Most Korean people don’t really go into the same field they major in at university."
+    },
+    {
+      "type": "instruction",
+      "text": "This was the same for me."
+    },
+    {
+      "type": "instruction",
+      "text": "I changed jobs many times, before I started my current job as an automobile engineer."
+    },
+    {
+      "type": "instruction",
+      "text": "I have learned so much over the years at this job."
+    },
+    {
+      "type": "instruction",
+      "text": "I found that what I learned during college about engineering and what my job was like was really different."
+    },
+    {
+      "type": "instruction",
+      "text": "It seemed like I had to start over and relearn everything again."
+    },
+    {
+      "type": "instruction",
+      "text": "I really value what I have learned about teamwork and how everyone needs to be diligent in their job for everyone to succeed."
+    },
+    {
+      "type": "instruction",
+      "text": "Dating the Right One"
+    },
+    {
+      "type": "instruction",
+      "text": "My co-workers introduced me to my girlfriend, who is now my wife."
+    },
+    {
+      "type": "instruction",
+      "text": "I wanted to get married later in life, but when I first met my wife, it was love at first sight."
+    },
+    {
+      "type": "instruction",
+      "text": "I felt like I had known her for a long time even though we just met."
+    },
+    {
+      "type": "instruction",
+      "text": "We had many of the same interests and tastes."
+    },
+    {
+      "type": "instruction",
+      "text": "On weekends, we traveled a lot, and we always had a great time."
+    },
+    {
+      "type": "instruction",
+      "text": "Our love became progressively stronger as time passed."
+    },
+    {
+      "type": "instruction",
+      "text": "Marrying Mr. or Miss Right"
+    },
+    {
+      "type": "instruction",
+      "text": "After dating for three years, we got married."
+    },
+    {
+      "type": "instruction",
+      "text": "I had not saved much money, so when we were first married, life was difficult for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife never complained, and she was always supportive of me."
+    },
+    {
+      "type": "instruction",
+      "text": "When I think back on my wedding, I will always remember how beautiful and special it was."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am11.htm",
+  "legacyEncoding": "utf-8"
+}

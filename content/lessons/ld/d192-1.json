@@ -1,0 +1,95 @@
+{
+  "id": "d192-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d192",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 192 회 ]",
+  "menuLabel": "[ D 192-1 ]",
+  "unit": 192,
+  "part": null,
+  "order": 382,
+  "audio": [
+    {
+      "src": "/audio/ld/d192.mp3",
+      "legacySrc": "sounds/d192.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 192 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "오스트렐리아의 원주민은 Aborigines라고 불린다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 대부분은 오스트렐리아의 사막지역에서 산다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 사람들은 농작물을 심지 않고 어떤 가축도 키우지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 식량과 물을 찾아 사막을 돌아다닌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 생명을 보존하기 위하여 야생 동물을 추적하는 자신의 능력에 의존해야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 쉬운 생활이 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Aborigine은 “독수리의 눈과 사자의 심장”을 갖고 있다고 말해져왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Aborigine 사람들의 놀라운 추적 능력은 이 이야기에 의하여 나타내진다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 작은 오스트렐리아 마을에서 황금 강도 사건이 경찰을 어리둥절하게 버려두었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 한 늙은 Aborigine 추적자에게 도움을 요청했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 추적자는 그 먼지 많은 길에서 한 세트의 발자국을 발견하고는"
+    },
+    {
+      "type": "instruction",
+      "text": "그것이 그 도둑의 흔적이라고 생각한다고 말했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d192-1.htm",
+  "legacyEncoding": "utf-8"
+}

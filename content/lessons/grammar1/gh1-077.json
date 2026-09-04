@@ -1,0 +1,168 @@
+{
+  "id": "gh1-077",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 077]",
+  "menuLabel": "[ gh1-077 ]",
+  "unit": 77,
+  "part": null,
+  "order": 118,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-077.mp3",
+      "legacySrc": "sounds/gh1-077.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 077]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 3 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Was there a problem?"
+        },
+        {
+          "n": "2",
+          "text": "Were there solutions?"
+        },
+        {
+          "n": "3",
+          "text": "Is there an answer?"
+        },
+        {
+          "n": "4",
+          "text": "Are there videotapes?"
+        },
+        {
+          "n": "5",
+          "text": "Does he have a dream?"
+        },
+        {
+          "n": "6",
+          "text": "Do they have money?"
+        },
+        {
+          "n": "7",
+          "text": "Did I have a problem?"
+        },
+        {
+          "n": "8",
+          "text": "Did you have a good policy?"
+        },
+        {
+          "n": "9",
+          "text": "Do I know you?"
+        },
+        {
+          "n": "10",
+          "text": "Does he know you?"
+        },
+        {
+          "n": "11",
+          "text": "Does he want it?"
+        },
+        {
+          "n": "12",
+          "text": "Do they hate him?"
+        },
+        {
+          "n": "13",
+          "text": "He liked the food."
+        },
+        {
+          "n": "14",
+          "text": "Wasn't there a picture?"
+        },
+        {
+          "n": "15",
+          "text": "Why did you like it?"
+        },
+        {
+          "n": "16",
+          "text": "Where were they?"
+        },
+        {
+          "n": "17",
+          "text": "Where was he?"
+        },
+        {
+          "n": "18",
+          "text": "Why was he there?"
+        },
+        {
+          "n": "19",
+          "text": "Why didn't they go there?"
+        },
+        {
+          "n": "20",
+          "text": "Where does he go?"
+        },
+        {
+          "n": "21",
+          "text": "Where was your mother?"
+        },
+        {
+          "n": "22",
+          "text": "Weren't there boys?"
+        },
+        {
+          "n": "23",
+          "text": "Why don't you have a dream?"
+        },
+        {
+          "n": "24",
+          "text": "Where do you study?"
+        },
+        {
+          "n": "25",
+          "text": "What did you like?"
+        },
+        {
+          "n": "26",
+          "text": "Where were they?"
+        },
+        {
+          "n": "27",
+          "text": "Why were you surprised?"
+        },
+        {
+          "n": "28",
+          "text": "Why is it interesting?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-077.htm",
+  "legacyEncoding": "utf-8"
+}

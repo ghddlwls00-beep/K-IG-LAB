@@ -1,0 +1,162 @@
+{
+  "id": "s2-1",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s2-1",
+  "label": "principle 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 1,
+  "order": 8,
+  "audio": [
+    {
+      "src": "/audio/student/s2-1-1.mp3",
+      "legacySrc": "s2-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-2.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-3.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-4.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-5.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-6.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-1-7.mp3",
+      "legacySrc": "s2-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Thank you for this opportunity to introduce my family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for the chance to tell you about my family.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "당신에게 저의 가족을 소개할 수 있는 기회를 주셔서 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "저의 가족을 소개할 수 있는 기회를 주셔서 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 기회에 감사합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 기회에 감사합니다.Thank you for the chance",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 가족에 대해 당신에게 말할",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 가족에 대해 당신에게 말할 to tell you about my family.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 기회에 대해 감사합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 기회에 대해 감사합니다.Thank you for this opportunity",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 가족을 소개 할",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내 가족을 소개 할 to introduce my family.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s2-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s2-1.swf"
+  ]
+}

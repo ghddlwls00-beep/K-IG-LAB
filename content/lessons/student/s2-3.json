@@ -1,0 +1,383 @@
+{
+  "id": "s2-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s2-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 3,
+  "order": 10,
+  "audio": [
+    {
+      "src": "/audio/student/s2-3-1.mp3",
+      "legacySrc": "s2-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-2.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-3.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-4.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-5.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-6.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-7.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-8.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-9.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-10.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-11.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-12.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-13.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-14.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-15.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-16.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-17.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-18.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-19.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-20.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-21.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s2-3-22.mp3",
+      "legacySrc": "s2-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I think he is the hardest worker in his company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My mother is a housewife.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "She had worked at a department store for several years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He has worked there for almost ten years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My father works very hard at a small cell phone company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 일했었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 일했었습니다.She had worked",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 백화점에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 백화점에서 at a department store",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 수 년동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 수 년동안 for several years.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 최고의 어머니 이십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 최고의 어머니 이십니다.She is the best mother",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 세상에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 세상에서 in the world.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 작은 핸드폰 회사에서 아주 열심히 일합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 거기에서 거의 10년 동안 일해오고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제가 생각하기에는 그는 그 회사에서 가장 열심히 일하시는 분 같습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니는 가정주부 이십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 몇 년 동안 백화점에서 일했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 세상에서 최고의 어머니 이십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "She is the best mother in the world.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 어머니와 아버지를 정말 사랑합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I really love my mother and father.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 매우 열심히 일하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 매우 열심히 일하십니다.My father works very hard",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 작은 휴대폰 회사에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 작은 휴대폰 회사에서 at a small cell phone company.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 그 곳에서 일해 오셨습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 그 곳에서 일해 오셨습니다.He has worked there",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 거의 약 십년 동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 거의 약 십년 동안 for almost ten years.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 생각합니다. I think",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 가장 열심히 일하는 근로자라고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그는 가장 열심히 일하는 근로자라고 he is the hardest worker",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 회사에서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그의 회사에서in his company.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 정말로 사랑합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 정말로 사랑합니다. I really love",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니와 아버지를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 어머니와 아버지를 my mother and father.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Father/Mother) - Father and Mother’s Job",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s2-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s2-3.swf"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr040",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 040 ]",
+  "menuLabel": "[ pr040 ]",
+  "unit": 40,
+  "part": null,
+  "order": 78,
+  "audio": [
+    {
+      "src": "/audio/reading/pr040.mp3",
+      "legacySrc": "sounds/pr040.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 040 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Our parents cast long shadows over our lives, and we become aware of their existence when we are infants. Parents first teach us essential ways of living by cautioning, “Don’t touch” or “It’s not nice to do that.” We may think that we learn these lessons through independent efforts, but it’s not the way we obtain them at all. It is our parents who have given us our sense of right and wrong, our understanding of love, and our knowledge of who we are. As we grow up, we see them less and less. We leave their homes, and we start new families of our own. So sometimes we think that we can walk in the sun, free of the shadows. But still the shadows have not gone. We carry their being with us all our lives in the sounds of our voices, the look and feel of our skin, and the warmth of our hands and our hearts. It is only when they are gone and we never see them that we find that they and we are indivisible. In fact, we have not been able to separate ourselves from them our whole lives long. The shadows are still there, but they have never really blocked the light at all."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr040.htm",
+  "legacyEncoding": "utf-8"
+}

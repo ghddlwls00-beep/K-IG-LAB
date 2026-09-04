@@ -1,0 +1,47 @@
+{
+  "id": "pr230-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr230",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 230-1 ]",
+  "menuLabel": "[ pr230-1 ]",
+  "unit": 230,
+  "part": null,
+  "order": 459,
+  "audio": [
+    {
+      "src": "/audio/reading/pr230.mp3",
+      "legacySrc": "sounds/pr230.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 230-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "1800년대 항해자들은 힘든 삶을 살았다. 그들은 그들의 배에서 부른 단순한 노래에서도 편안함은 거의 찾을 수 없었다. 그 노래는 sea shanties라고 불린다. 이러한 노래들의 많은 것들은 오랫동안 지속되었다. sea shanties는 항해자들에게 귀중한 친구였으며 항해자들이 하나의 팀으로 일하도록 도움이 됐다. 몇몇 shanties는 긴 항해의 지루함을 달래주었다. 또 몇몇 shanties는 항해자 자신의 그리움과 외로움을 표현하는 것을 도와주었다. 또 다른 shanties는 항해자들의 고된 삶을 불평하게 해 주었다. 이 모든 것들로 볼 때 sea shanties는 항해자들의 선상 생활을 덜 힘들게 만들어 주었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr230-1.htm",
+  "legacyEncoding": "utf-8"
+}

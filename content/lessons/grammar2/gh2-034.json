@@ -1,0 +1,108 @@
+{
+  "id": "gh2-034",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 34 ]",
+  "menuLabel": "[ 34과 영어 ]",
+  "unit": 34,
+  "part": null,
+  "order": 54,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-034.mp3",
+      "legacySrc": "sounds/gh2-034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 34 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "I want to talk to you about what a government can do."
+        },
+        {
+          "n": "2",
+          "text": "I want to cancel my order."
+        },
+        {
+          "n": "3",
+          "text": "He promised me to come again."
+        },
+        {
+          "n": "4",
+          "text": "I'm on a diet to lose weight."
+        },
+        {
+          "n": "5",
+          "text": "Give me a minute to change."
+        },
+        {
+          "n": "6",
+          "text": "He pretended to be happy."
+        },
+        {
+          "n": "7",
+          "text": "They planned to attend a rally."
+        },
+        {
+          "n": "8",
+          "text": "The police threatened to use firearms."
+        },
+        {
+          "n": "9",
+          "text": "They were determined to wipe out the student movement."
+        },
+        {
+          "n": "10",
+          "text": "The government is trying to establish a climate of respect for law and order."
+        },
+        {
+          "n": "11",
+          "text": "Tobacco industry executives sought to hide their knowledge that their product was addictive."
+        },
+        {
+          "n": "12",
+          "text": "Where should I get off to go to the station?"
+        },
+        {
+          "n": "13",
+          "text": "I'll tell you when."
+        },
+        {
+          "n": "14",
+          "text": "This is a wrong place for him to announce the news."
+        },
+        {
+          "n": "15",
+          "text": "It's part of a bid to stop smoking among teenagers."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-034.htm",
+  "legacyEncoding": "utf-8"
+}

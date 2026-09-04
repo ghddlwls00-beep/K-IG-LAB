@@ -1,0 +1,71 @@
+{
+  "id": "p131",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 131 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 1,
+  "order": 136,
+  "audio": [
+    {
+      "src": "/audio/middle/p131.mp3",
+      "legacySrc": "sounds/p131.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 131 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Favorite Kind of Book)"
+    },
+    {
+      "type": "hints",
+      "text": "Since I was young, I learned to like history books and novels"
+    },
+    {
+      "type": "instruction",
+      "text": "because I could read about the wisdom of many people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have read about many interesting people from these"
+    },
+    {
+      "type": "instruction",
+      "text": "historical texts."
+    },
+    {
+      "type": "instruction",
+      "text": "I learned to respect many people from reading a lot of books."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce to you the person I respect the most."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p131.htm",
+  "legacyEncoding": "utf-8"
+}

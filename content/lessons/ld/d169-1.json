@@ -1,0 +1,75 @@
+{
+  "id": "d169-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d169",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 169 회 ]",
+  "menuLabel": "[ D 169-1 ]",
+  "unit": 169,
+  "part": null,
+  "order": 336,
+  "audio": [
+    {
+      "src": "/audio/ld/d169.mp3",
+      "legacySrc": "sounds/d169.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 169 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그는 파산한 카지노를 인수하여 본격적인 실험을 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러 번의 실패 후에 그는 몇 피트 높이의 파도를 만들 수 있는 기계를 성공적으로 만들어냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "Dexter는 못(lagoon)과 저수지를 건설했는데 그들은 함께 4백만 갤런의 물을 담았다."
+    },
+    {
+      "type": "instruction",
+      "text": "저수지의 문들이 1.5초 동안 열리고 쇄도해 나오는 물이 약 5피트 높이의 파도를 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "서핑객들이 그 파도가 해변에서 부서지기 전에 그 파도에 올라가서 약 400 피트 탄다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그들은 또 파도를 기다리기 위하여 그 못의 앞으로 돌아간다."
+    },
+    {
+      "type": "instruction",
+      "text": "사막에서의 서핑은 대단한 성공이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d169-1.htm",
+  "legacyEncoding": "utf-8"
+}

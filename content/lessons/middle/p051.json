@@ -1,0 +1,67 @@
+{
+  "id": "p051",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 051 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 1,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/middle/p051.mp3",
+      "legacySrc": "sounds/p051.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 051 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Getting Ready for School)"
+    },
+    {
+      "type": "hints",
+      "text": "Getting ready for school is the hardest part of my day."
+    },
+    {
+      "type": "instruction",
+      "text": "I am often late for school because I sleep-in late,"
+    },
+    {
+      "type": "instruction",
+      "text": "and my mornings are very busy."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is so busy; we can’t even eat breakfast together."
+    },
+    {
+      "type": "instruction",
+      "text": "Before I go to school, my mother gives me my allowance."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p051.htm",
+  "legacyEncoding": "utf-8"
+}

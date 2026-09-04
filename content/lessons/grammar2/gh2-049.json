@@ -1,0 +1,104 @@
+{
+  "id": "gh2-049",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 49 ]",
+  "menuLabel": "[ 49과 영어 ]",
+  "unit": 49,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-049.mp3",
+      "legacySrc": "sounds/gh2-049.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 49 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He said to me, \"I owe you an apology.\""
+        },
+        {
+          "n": "2",
+          "text": "He told me that he owed me an apology."
+        },
+        {
+          "n": "3",
+          "text": "He will ask, \"Do you take a 100 dollar bill?\""
+        },
+        {
+          "n": "4",
+          "text": "He will ask if they take a 100 dollar bill."
+        },
+        {
+          "n": "5",
+          "text": "The teller asked me, \"Do you want large bills?\""
+        },
+        {
+          "n": "6",
+          "text": "The teller asked me if I wanted large bills."
+        },
+        {
+          "n": "7",
+          "text": "The bank teller said, \"You had better have an account with this bank.\""
+        },
+        {
+          "n": "8",
+          "text": "The bank teller recommended I have an account with the bank."
+        },
+        {
+          "n": "9",
+          "text": "She said, \"This is a little something for you on your graduation.\""
+        },
+        {
+          "n": "10",
+          "text": "She said that was a little something for me on my graduation."
+        },
+        {
+          "n": "11",
+          "text": "He asked, \"Don't you have any vacancies?\""
+        },
+        {
+          "n": "12",
+          "text": "He asked if they had any vacancies."
+        },
+        {
+          "n": "13",
+          "text": "Lincoln said, \"Honesty is the best policy.\""
+        },
+        {
+          "n": "14",
+          "text": "Lincoln said that honesty is the best policy."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-049.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr068-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr068",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 068-1 ]",
+  "menuLabel": "[ pr068-1 ]",
+  "unit": 68,
+  "part": null,
+  "order": 135,
+  "audio": [
+    {
+      "src": "/audio/reading/pr068.mp3",
+      "legacySrc": "sounds/pr068.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 068-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한 끔찍한 사고가 나의 인생을 바꾸어 놓았다. 한 친구와 나는 심야 영화를 보고 집으로 차를 타고 오고 있었다. 우리가 교차로에 이르렀을 때, 우리는 정지 신호 앞에서 멈추었다. 어떤 차도 오는 것 같지 않았다. 그래서 나는 정지 신호를 무시하고 가기로 결정했다. 우리가 출발한 직후 나는 의식을 잃었다. 나중에야 나는 우리가 다른 방향에서 오고 있는 어떤 차와 추돌 했다는 것을 알았다. 그 사고는 내 친구를 평생동안 휠체어에서 보내게 만들었고 나는 아주 값비싼 교훈을 얻었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr068-1.htm",
+  "legacyEncoding": "utf-8"
+}

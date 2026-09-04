@@ -1,0 +1,124 @@
+{
+  "id": "gh1-113-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-113",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 113-2]",
+  "menuLabel": "[ gh1-113-2 ]",
+  "unit": 113,
+  "part": null,
+  "order": 165,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-113-2.mp3",
+      "legacySrc": "sounds/gh1-113-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 113-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "127",
+          "text": "You went fishing, didn't you?"
+        },
+        {
+          "n": "128",
+          "text": "Weren't they crossing the street here?"
+        },
+        {
+          "n": "129",
+          "text": "Won't you drop in on me?"
+        },
+        {
+          "n": "130",
+          "text": "You didn't follow my advice, did you?"
+        },
+        {
+          "n": "131",
+          "text": "Why don't you take a rest?"
+        },
+        {
+          "n": "132",
+          "text": "Why couldn't he realize his dream?"
+        },
+        {
+          "n": "133",
+          "text": "How many times a year does he go on a picnic?"
+        },
+        {
+          "n": "134",
+          "text": "How do you pronounce this word?"
+        },
+        {
+          "n": "135",
+          "text": "I don't quite get your point."
+        },
+        {
+          "n": "136",
+          "text": "Does that make sense?"
+        },
+        {
+          "n": "137",
+          "text": "How do you spell it?"
+        },
+        {
+          "n": "138",
+          "text": "Will(would) you speak more slowly, please?"
+        },
+        {
+          "n": "139",
+          "text": "May I have your phone number?"
+        },
+        {
+          "n": "140",
+          "text": "Where can I reach you?"
+        },
+        {
+          "n": "141",
+          "text": "I can't hear you very well."
+        },
+        {
+          "n": "142",
+          "text": "Isn't this your first visit to Canada?"
+        },
+        {
+          "n": "143",
+          "text": "Isn't he working for(at) a bank?"
+        },
+        {
+          "n": "144",
+          "text": "Let's listen to him."
+        },
+        {
+          "n": "145",
+          "text": "He was making a great speech, wasn't he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-113-2.htm",
+  "legacyEncoding": "utf-8"
+}

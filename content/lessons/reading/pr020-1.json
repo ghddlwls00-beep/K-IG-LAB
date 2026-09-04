@@ -1,0 +1,47 @@
+{
+  "id": "pr020-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr020",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 020-1 ]",
+  "menuLabel": "[ pr020-1 ]",
+  "unit": 20,
+  "part": null,
+  "order": 39,
+  "audio": [
+    {
+      "src": "/audio/reading/pr020.mp3",
+      "legacySrc": "sounds/pr020.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 020-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "물, 토양, 그리고 식물을 덮고 있는 녹색지대가 지구의 동물의 생명을 지지하고 있는 세계를 구성하고 있다. 비록 현대 인간은 그 사실을 거의 기억하고 있지 않지만, 인간은 태양에너지를 동력화 시키고, 생명을 위해 인간이 의지하는 기본적인 음식을 만드는 식물군이 없으면 존재할 수 없다. 우리의 식물에 대한 태도는 너무 단순하고 편협하다. 왜냐하면, 만약 식물에게서 즉각적인 이용이 된다고 생각하면 식물 성장을 촉진시킨다. 그리고 어떤 이유가 있어 식물의 존재가 바람직하지 않다거나, 단지 무관심한 문제가 되면, 우리는 곧바로 식물을 파괴하는 그런 바보 같은 짓을 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr020-1.htm",
+  "legacyEncoding": "utf-8"
+}

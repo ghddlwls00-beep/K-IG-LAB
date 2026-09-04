@@ -1,0 +1,47 @@
+{
+  "id": "pr150-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr150",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 150-1 ]",
+  "menuLabel": "[ pr150-1 ]",
+  "unit": 150,
+  "part": null,
+  "order": 299,
+  "audio": [
+    {
+      "src": "/audio/reading/pr150.mp3",
+      "legacySrc": "sounds/pr150.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 150-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "현대인은 지구상에 단지 3만 5천 동안만 거주해왔다. 그러나 우리는 많은 식으로 그 기간 동안 지구를 바꾸어 왔다. 우리가 행한 것들 중 많은 것은 지구에 것이었지만, 보다 많은 것들이 그렇지 못했다. 우리는 교통으로 인한 공해, 지구 온난화, 그리고 산성비를 생겨나게 했다. 이들 문제들은 우리의 미래에 대해 매우 심각한 것들이다. 그러나 우리는 이제 무언가를 행할 수 있다. 많은 곳들에서, 사람들이 환경을 개선하기 위하여 이미 조치를 취해오고 있는 것이다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr150-1.htm",
+  "legacyEncoding": "utf-8"
+}

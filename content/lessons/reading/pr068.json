@@ -1,0 +1,47 @@
+{
+  "id": "pr068",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 068 ]",
+  "menuLabel": "[ pr068 ]",
+  "unit": 68,
+  "part": null,
+  "order": 134,
+  "audio": [
+    {
+      "src": "/audio/reading/pr068.mp3",
+      "legacySrc": "sounds/pr068.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 068 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A terrible accident changed my life. A friend and I were driving home from a midnight movie. As we approached an intersection, we stopped at a red light. No cars seemed to be coming, so I decided to go through the red light. Immediately after we started, I lost consciousness. Later I learned that we had hit a car coming from the other direction. That accident made my friend spend the rest of his life in a wheelchair, and I learned a costly lesson."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr068.htm",
+  "legacyEncoding": "utf-8"
+}

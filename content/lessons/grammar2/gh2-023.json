@@ -1,0 +1,128 @@
+{
+  "id": "gh2-023",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 23 ]",
+  "menuLabel": "[ 23과 영어 ]",
+  "unit": 23,
+  "part": null,
+  "order": 32,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-023.mp3",
+      "legacySrc": "sounds/gh2-023.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 23 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Remember me to your wife."
+        },
+        {
+          "n": "2",
+          "text": "Say hello to your wife for me."
+        },
+        {
+          "n": "3",
+          "text": "Give my regards to your wife."
+        },
+        {
+          "n": "4",
+          "text": "Tell her we miss her very much."
+        },
+        {
+          "n": "5",
+          "text": "How would you like your coffee?"
+        },
+        {
+          "n": "6",
+          "text": "Help yourself to the dessert."
+        },
+        {
+          "n": "7",
+          "text": "I am sorry I am late."
+        },
+        {
+          "n": "8",
+          "text": "I am sorry I didn't take your advice seriously."
+        },
+        {
+          "n": "9",
+          "text": "Don't take it too hard."
+        },
+        {
+          "n": "10",
+          "text": "I would like to take your measurements."
+        },
+        {
+          "n": "11",
+          "text": "She is very fussy about clothes."
+        },
+        {
+          "n": "12",
+          "text": "What's your ancestry?"
+        },
+        {
+          "n": "13",
+          "text": "Freeze!"
+        },
+        {
+          "n": "14",
+          "text": "After you, please."
+        },
+        {
+          "n": "15",
+          "text": "You really take after your father."
+        },
+        {
+          "n": "16",
+          "text": "I was named after him."
+        },
+        {
+          "n": "17",
+          "text": "What are your new year's resolutions?"
+        },
+        {
+          "n": "18",
+          "text": "Are you through with your meal?"
+        },
+        {
+          "n": "19",
+          "text": "Is this restaurant open seven days a week?"
+        },
+        {
+          "n": "20",
+          "text": "It is open Monday through Friday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-023.htm",
+  "legacyEncoding": "utf-8"
+}

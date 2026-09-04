@@ -1,0 +1,95 @@
+{
+  "id": "p093-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p093",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 093-1 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 3,
+  "order": 101,
+  "audio": [
+    {
+      "src": "/audio/middle/p093.mp3",
+      "legacySrc": "sounds/p093.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 093-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나는 저녁에 무엇을 할까요?)"
+    },
+    {
+      "type": "instruction",
+      "text": "학원에서 수업을 마친 후, 나는 집에 가서"
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가족들과 함께 저녁을 먹습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니께서는 항상 저녁을 만드십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 먹을 때, 나의 아버지께서는 그의 하루에 관해 말씀하시고"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 우리의 경험들을 나눕니다."
+    },
+    {
+      "type": "instruction",
+      "text": "저녁식사 후, 우리는 함께 TV를 봅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 가장 좋아하는 TV쇼들은 '미라클' 와 '판타스틱' 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오후 9시쯤에 나의 숙제를 시작합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 영어 숙제는 내가 가장 좋아하는 것입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 후, 나는 빨리 나의 하루에 관해 나의 일기장에 씁니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오후 10시 30분쯤 잠자리에 들고"
+    },
+    {
+      "type": "instruction",
+      "text": "얼마나 좋은 하루였는지 생각합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p093-1.htm",
+  "legacyEncoding": "utf-8"
+}

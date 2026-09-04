@@ -1,0 +1,83 @@
+{
+  "id": "d024-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d024",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 024 회 ]",
+  "menuLabel": "[ D 024-1 ]",
+  "unit": 24,
+  "part": null,
+  "order": 47,
+  "audio": [
+    {
+      "src": "/audio/ld/d024.mp3",
+      "legacySrc": "sounds/d024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 024 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "당신은 휴가를 기구(풍선)로 여행하면서 보내고 싶습니까?"
+    },
+    {
+      "type": "instruction",
+      "text": "첫 기구 여행은 1783년에 불란서에서 벌어졌다. 그것은 겨우 8분간 지속되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "약 1년 뒤에 한 미국인과 한 불란서인이 기구를 타고 불란서와 영국 사이의 해협을 건너기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 해협 상공 높은 곳에서 그들은 그 기구 안의 한 구멍을 발견했다. 그 구멍은 점점 더 커졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 기구를 올라가게 해주는 개스가 빠져나가고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 사람들은 그 기구를 더 가볍게 만들기 위하여 모든 그들의 소유물들을 물 속으로 던졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 다시 더 높이 오르기 시작했지만 아직 너무 물에 가까웠다."
+    },
+    {
+      "type": "instruction",
+      "text": "마침내 그 사람들은 자신을 구하기 위하여 그들의 옷을 대부분 벗어던졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "잉글랜드에서 그들을 기다리던 군중은 그 기구가 착륙했을 때 매우 놀랬다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d024-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "am064",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 064 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 4,
+  "order": 69,
+  "audio": [
+    {
+      "src": "/audio/adults/am064.mp3",
+      "legacySrc": "sounds/am064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 064 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Sunday Afternoons"
+    },
+    {
+      "type": "hints",
+      "text": "On some Sunday afternoons, my friends and I visit each other’s homes, and we either go out to eat or"
+    },
+    {
+      "type": "instruction",
+      "text": "just visit."
+    },
+    {
+      "type": "instruction",
+      "text": "If we don’t visit with our friends, we usually go to either my family’s or my wife’s family’s house and spend time with them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am064.htm",
+  "legacyEncoding": "utf-8"
+}

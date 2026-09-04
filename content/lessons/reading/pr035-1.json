@@ -1,0 +1,71 @@
+{
+  "id": "pr035-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr035",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 035-1 ]",
+  "menuLabel": "[ pr035-1 ]",
+  "unit": 35,
+  "part": null,
+  "order": 69,
+  "audio": [
+    {
+      "src": "/audio/reading/pr035.mp3",
+      "legacySrc": "sounds/pr035.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 035-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "과학과 기술은 19세기 후반 이후 엄청 변화됬다. 세상도 역시"
+    },
+    {
+      "type": "instruction",
+      "text": "변했다. 세계는 더 복잡해지고 점차 전문화되었다. 모든 분야에서"
+    },
+    {
+      "type": "instruction",
+      "text": "알아야 할 것들이 더 많게 됬다. 이제 특별한 훈련을 필요로"
+    },
+    {
+      "type": "instruction",
+      "text": "하는 사람들은 과학자와 컴퓨터 전문가뿐만 아니라 정부 관리와"
+    },
+    {
+      "type": "instruction",
+      "text": "사업가들이다. 게다가, 대 졸자 수의 급증은 과거에 그랬던"
+    },
+    {
+      "type": "instruction",
+      "text": "것보다 훨씬 더 치열한 취업 경쟁을 야기했다. 최고의 자질을"
+    },
+    {
+      "type": "instruction",
+      "text": "소유자, 즉 전문가가 승리한다., 즉 전문가가 승리한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr035-1.htm",
+  "legacyEncoding": "utf-8"
+}

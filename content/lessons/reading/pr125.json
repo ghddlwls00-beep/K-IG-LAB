@@ -1,0 +1,47 @@
+{
+  "id": "pr125",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 125 ]",
+  "menuLabel": "[ pr125 ]",
+  "unit": 125,
+  "part": null,
+  "order": 248,
+  "audio": [
+    {
+      "src": "/audio/reading/pr125.mp3",
+      "legacySrc": "sounds/pr125.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 125 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Since it manufactured its first car in 1955, Korea has grown to be the sixth largest automobile producer in the world. It is expected to be among the world’s top four auto-making countries by 2010 after the U.S., Japan, and Germany, in spite of its competitiveness in small car manufacturing, skilled human workforce, and leading information technology, an expected production of 6.5 million units in 2010, Korea will hold 10 percent of the global auto market."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr125.htm",
+  "legacyEncoding": "utf-8"
+}

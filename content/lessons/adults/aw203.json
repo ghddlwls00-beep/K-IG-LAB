@@ -1,0 +1,59 @@
+{
+  "id": "aw203",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 203 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 3,
+  "order": 199,
+  "audio": [
+    {
+      "src": "/audio/adults/aw203.mp3",
+      "legacySrc": "sounds/aw203.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 203 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A Homemade Piece of History: The Korean Folk Village in Suwon"
+    },
+    {
+      "type": "hints",
+      "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyunggi Province, not far from the capital of Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times."
+    },
+    {
+      "type": "instruction",
+      "text": "It is a very popular attraction for many foreign visitors."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw203.htm",
+  "legacyEncoding": "utf-8"
+}

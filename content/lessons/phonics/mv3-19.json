@@ -1,0 +1,88 @@
+{
+  "id": "mv3-19",
+  "course": "phonics",
+  "series": "mv3",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv3-19 ]",
+  "unit": 19,
+  "part": null,
+  "order": 98,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv3-19.mp3",
+      "legacySrc": "sounds/mv3-19.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "series",
+          "mystery",
+          "uniform",
+          "evidence",
+          "shallow",
+          "thermometer"
+        ],
+        [
+          "furniture",
+          "identify",
+          "patrolman",
+          "novice",
+          "burden",
+          "premium"
+        ],
+        [
+          "oath",
+          "appointment",
+          "clue",
+          "debt",
+          "consumption",
+          "control"
+        ],
+        [
+          "retract",
+          "design",
+          "damage",
+          "custom",
+          "traffic",
+          "sophomore"
+        ],
+        [
+          "temperature",
+          "limit",
+          "statue",
+          "hydrogen",
+          "parade",
+          "duplicate"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv3-19 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv3-19.htm",
+  "legacyEncoding": "utf-8"
+}

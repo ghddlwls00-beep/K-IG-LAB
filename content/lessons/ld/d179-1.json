@@ -1,0 +1,87 @@
+{
+  "id": "d179-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d179",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 179 회 ]",
+  "menuLabel": "[ D 179-1 ]",
+  "unit": 179,
+  "part": null,
+  "order": 356,
+  "audio": [
+    {
+      "src": "/audio/ld/d179.mp3",
+      "legacySrc": "sounds/d179.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 179 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "다행히 그는 가까운 수도원에서 온 수녀들의 집단에 의하여 그의 불타는 비행기로부터 구출되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 불시착 동안 의식을 잃었고 정신이 들었을 때 자신 쪽으로"
+    },
+    {
+      "type": "instruction",
+      "text": "몸을 구부리고 있는 여성을 발견하고 깜짝 놀랬다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 사람은 책임자 수녀인 Sister Maria였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그 조종사에게 다음과 같이 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“이 수도원은 가르치는 병원입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 여기에 간호사가 되는 방법을 배우는 많은 젊은 여성들을 데리고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 가능한 한 오래 당신을 여기에 숨겨드리겠지만"
+    },
+    {
+      "type": "instruction",
+      "text": "당신은 매우 엄격한 규칙을 따라야 할 것입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "” 그 조종사는 간호사로 변장하기로 동의했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d179-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d275-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d275",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 275 회 ]",
+  "menuLabel": "[ D 275-1 ]",
+  "unit": 275,
+  "part": null,
+  "order": 547,
+  "audio": [
+    {
+      "src": "/audio/ld/d275.mp3",
+      "legacySrc": "sounds/d275.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 275 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "왜 영어가 오늘날 같이 중요한 위치를 차지하게 되었는지 다양한 이유들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "영어에 방언이 적은 것이 그것이 표준 언어가 되기에 유리하게 해준다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 영어는 매우 정확하다. 그것은 많은 다른 현대 언어에서 발견되는 애매모호한 것이 별로 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것이 그것을 사업 및 국제 문제의 처리를 위하여 이상적으로 만들어준다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 범세계적인 언어로써 영어의 가장 큰 결점은 그것의 어려운 발음이다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 영어사용법의 규칙들에 대한 많은 예외는 그것을 통달하는 것을 어렵게 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 이 널리 사용되는 언어를 말할 수 있는 만족은 영어의 공부를 충분히 가치있게 만든다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d275-1.htm",
+  "legacyEncoding": "utf-8"
+}

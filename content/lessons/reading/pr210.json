@@ -1,0 +1,47 @@
+{
+  "id": "pr210",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 210 ]",
+  "menuLabel": "[ pr210 ]",
+  "unit": 210,
+  "part": null,
+  "order": 418,
+  "audio": [
+    {
+      "src": "/audio/reading/pr210.mp3",
+      "legacySrc": "sounds/pr210.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 210 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Books can take us out of ourselves. None of us has had enough personal experience to know other people - or, indeed, himself -thoroughly. We all fell lonely in this vast, irresponsive world. We are shocked by the injustice of the world and the hardships of life. But from books we learn that others-greater men than we - have suffered and have sought as we have."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr210.htm",
+  "legacyEncoding": "utf-8"
+}

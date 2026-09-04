@@ -1,0 +1,55 @@
+{
+  "id": "d223",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 223 회 ]",
+  "menuLabel": "[ D 223 ]",
+  "unit": 223,
+  "part": null,
+  "order": 443,
+  "audio": [
+    {
+      "src": "/audio/ld/d223.mp3",
+      "legacySrc": "sounds/d223.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 223 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "take in Saint Augustine, Miami Beach luxurious mysterious Everglades. Seminole Indians appreciate"
+    },
+    {
+      "type": "instruction",
+      "text": "preparatory worthwhile"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d223.htm",
+  "legacyEncoding": "utf-8"
+}

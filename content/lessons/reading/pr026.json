@@ -1,0 +1,47 @@
+{
+  "id": "pr026",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 026 ]",
+  "menuLabel": "[ pr026 ]",
+  "unit": 26,
+  "part": null,
+  "order": 50,
+  "audio": [
+    {
+      "src": "/audio/reading/pr026.mp3",
+      "legacySrc": "sounds/pr026.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 026 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The average brain is naturally lazy and tends to take the line of least resistance. The mental world of the ordinary man consists of beliefs which he has accepted without questioning and to which he is firmly attached; he is instinctively hostile to anything which would upset the established order of this familiar world. A new idea, inconsistent with some of the beliefs which he holds, means the necessity of rearranging his mind; and this process is laborious, requiring a painful expense of brain-energy. To him and his fellows, who form the vast majority, new ideas and options which cast doubt on established beliefs and institutions seem evil just because they are disagreeable. It is desirable that this attitude should be altered for the progress of the society."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr026.htm",
+  "legacyEncoding": "utf-8"
+}

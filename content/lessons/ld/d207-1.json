@@ -1,0 +1,79 @@
+{
+  "id": "d207-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d207",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 207 회 ]",
+  "menuLabel": "[ D 207-1 ]",
+  "unit": 207,
+  "part": null,
+  "order": 412,
+  "audio": [
+    {
+      "src": "/audio/ld/d207.mp3",
+      "legacySrc": "sounds/d207.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 207 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 대학 생활은 재미있기만 한 것이 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 그것의 심각한 측면도 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "일반적인 대학생은 일주일에 15시간을 교실에서 보낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "정규 수업 이외에도 학생은 학교가 제공하는 다양한 과외 활동에 참여할 것이 기대된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 활동은 신문, 토론, 드라마를 포함한다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 훌륭한 언론인들은 실제로 대학 신문에서 그들의 경력을 시작했고 유명한 배우로"
+    },
+    {
+      "type": "instruction",
+      "text": "오늘 날 알려진 일부 사람들은 대학 연극 제작에서 그들의 첫 역할을 연기했다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 가지 면에서 이 과외 활동들은 마음을 훈련시키는 것을 위하여 정규 수업만큼 똑같이 중요하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d207-1.htm",
+  "legacyEncoding": "utf-8"
+}

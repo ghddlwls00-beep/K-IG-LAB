@@ -1,0 +1,146 @@
+{
+  "id": "cnn106",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "First Human Transplants of Lab-grown Bladders",
+  "label": "First Human Transplants of Lab-grown Bladders",
+  "menuLabel": "[ CNN 106 ]",
+  "unit": 106,
+  "part": null,
+  "order": 105,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn106.mp4",
+      "legacySrc": "CNN/CNN61-120/106.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "First Human Transplants of Lab-grown Bladders"
+    },
+    {
+      "type": "paragraph",
+      "text": "A breakthrough announcement in the medical world, today. The first human transplants of laboratory-grown organs reported a short while ago. Seven young patients received bladders grown from their own cells which helped avoid rejection. Doctors at Wake Forest University in the U.S. State of North Carolina are now working to grow 20 different tissues and organs including blood vessels and hearts. Scientists hope that one day this may all help solve the shortage of organ donations.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "실험실 배양 첫 ‘맞춤형 방광’이식 성공",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오늘 의료계에서 획기적인 소식 하나를 발표했습니다. 최초의 실험실 배양 장기의 인체 이식 소식이 방금 전에 보도됐습니다. 7명의 나이 어린 환자들은 자신들의 세포로 배양되어 거부 반응이 없는 방광을 이식 받았습니다. 미국 노스캐롤라이나 주의 웨이크 포리스트 대학 연구진들은 혈관과 심장 등 20가지의 각기 다른 체세포 조직과 장기를 배양하는 연구를 하고 있습니다. 과학자들은 앞으로 이 기술이 장기 기증 부족 사태를 해결하는데 도움이 되기를 기대하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "영국식 발음으로 [æ]를 [a]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hearts도 [r]이 탈락되고 앞모음을 길게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-rato-의 a와 o가 탈락되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "grown의 [ou]도 [o]로 축약되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "기자가 영국식 발음을 구사한다는 것을 기억해, blatters와 혼동하지 않도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국식 발음으로 -tt-가 유음화되면 두 단어의 발음이 비슷해지기 때문이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "transplants",
+          "text": "[츄렌ㅅ쁠란ㅊ]."
+        },
+        {
+          "n": "laboratory-grown",
+          "text": "[러보-츄리 그론]."
+        },
+        {
+          "n": "bladders",
+          "text": "[블레러ㅈ]."
+        },
+        {
+          "n": "transplant",
+          "text": "이식"
+        },
+        {
+          "n": "lab-grown",
+          "text": "실험실에서 배양된(laboratory-grown)"
+        },
+        {
+          "n": "bladder",
+          "text": "방광"
+        },
+        {
+          "n": "breakthrough",
+          "text": "획기적인[비약적인] 발전"
+        },
+        {
+          "n": "announcement",
+          "text": "발표, 공표"
+        },
+        {
+          "n": "medical world",
+          "text": "의료계"
+        },
+        {
+          "n": "organ",
+          "text": "{생물}장기, 조직"
+        },
+        {
+          "n": "cell",
+          "text": "{생물}세포"
+        },
+        {
+          "n": "avoid",
+          "text": "피하다, 방지하다"
+        },
+        {
+          "n": "rejection",
+          "text": "거부반응"
+        },
+        {
+          "n": "tissue",
+          "text": "{생물}조직"
+        },
+        {
+          "n": "blood vessel",
+          "text": "혈관"
+        },
+        {
+          "n": "shortage of",
+          "text": "…의 부족"
+        },
+        {
+          "n": "organ donation",
+          "text": "장기기증"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/106.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr161",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 161 ]",
+  "menuLabel": "[ pr161 ]",
+  "unit": 161,
+  "part": null,
+  "order": 320,
+  "audio": [
+    {
+      "src": "/audio/reading/pr161.mp3",
+      "legacySrc": "sounds/pr161.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 161 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "All we really need to know about how to live and what to do, we learned in kindergarten including \"share everything,\" \"play fair,\" and \"say you're sorry when you hurt somebody.\" Sadly, however, We don't apply these rules to our family life, work or government when we become adults."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr161.htm",
+  "legacyEncoding": "utf-8"
+}

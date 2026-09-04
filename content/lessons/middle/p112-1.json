@@ -1,0 +1,67 @@
+{
+  "id": "p112-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p112",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 112-1 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 119,
+  "audio": [
+    {
+      "src": "/audio/middle/p105.mp3",
+      "legacySrc": "sounds/p105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 112-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(토요일 밤)"
+    },
+    {
+      "type": "instruction",
+      "text": "토요일에, 나의 아버지 또한 그의 하루를 일찍 마칩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "가끔씩 그는 출장을 가지만, 그가 집에 계시면,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 함께 저녁식사를 하러 외출하기를 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아버지께서는 항상 나의 삶에 무슨 일이 일어나는지에"
+    },
+    {
+      "type": "instruction",
+      "text": "관심이 있으셔서 나를 많이 도와주십니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p112-1.htm",
+  "legacyEncoding": "utf-8"
+}

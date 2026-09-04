@@ -1,0 +1,79 @@
+{
+  "id": "d071-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d071",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 071회 ]",
+  "menuLabel": "[ D 071-1 ]",
+  "unit": 71,
+  "part": null,
+  "order": 141,
+  "audio": [
+    {
+      "src": "/audio/ld/d071.mp3",
+      "legacySrc": "sounds/d071.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 071회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "8월8일 오전 3시에 Jack Mill가 Glasgow로부터 London으로의 우편 열차의 조종석에 앉아있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 열차는 13대의 차량으로 이루어져있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 열차의 끝에는 71명의 우체부가 우편물을 분류하며 앉아있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "두 번째 차량 안에는 단지 5명의 우체부와 5파운드 지폐가 가득 든 128개의 가방이 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 열차는 강탈당하지 않고 100년 이상을 운행했었다."
+    },
+    {
+      "type": "instruction",
+      "text": "3시3분에 Mills와 그의 조수 David Whitby가 한 황색 경보등을 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그 열차의 속도를 낮추고 그런 다음 멈추었다. Whitby가 선로 옆의 전화기에 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 고장이었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d071-1.htm",
+  "legacyEncoding": "utf-8"
+}

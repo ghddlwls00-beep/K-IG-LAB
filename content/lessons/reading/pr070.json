@@ -1,0 +1,47 @@
+{
+  "id": "pr070",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 070 ]",
+  "menuLabel": "[ pr070 ]",
+  "unit": 70,
+  "part": null,
+  "order": 138,
+  "audio": [
+    {
+      "src": "/audio/reading/pr070.mp3",
+      "legacySrc": "sounds/pr070.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 070 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "According to experimental psychology, your physical appearance makes up 55% of a first impression. The physical appearance includes facial expressions, eye contact, and general appearance. The way you sound makes up 35% of the first impression This includes how fast or slowly, loudly or softly you speak, and your tone of voice. The actual words you use count for only 10% . Therefore, it is safe to conclude that people form their first impressions based mostly on how you look , then on how you speak and least of all on what you say."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr070.htm",
+  "legacyEncoding": "utf-8"
+}

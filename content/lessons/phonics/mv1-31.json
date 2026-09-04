@@ -1,0 +1,88 @@
+{
+  "id": "mv1-31",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-31 ]",
+  "unit": 31,
+  "part": null,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-31.mp3",
+      "legacySrc": "sounds/mv1-31.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "none",
+          "anyway",
+          "sunshine",
+          "bit",
+          "opera",
+          "peace"
+        ],
+        [
+          "state",
+          "captain",
+          "rule",
+          "principal",
+          "universe",
+          "rabbit"
+        ],
+        [
+          "discover",
+          "engineer",
+          "value",
+          "stick",
+          "stranger",
+          "diligent"
+        ],
+        [
+          "forgive",
+          "wander",
+          "remove",
+          "leaf",
+          "possible",
+          "lend"
+        ],
+        [
+          "generally",
+          "law",
+          "somewhere",
+          "umbrella",
+          "especially",
+          "ambitious"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-31 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-31.htm",
+  "legacyEncoding": "utf-8"
+}

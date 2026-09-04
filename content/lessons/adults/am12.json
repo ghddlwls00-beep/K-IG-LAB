@@ -1,0 +1,123 @@
+{
+  "id": "am12",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 12 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": null,
+  "order": 115,
+  "audio": [
+    {
+      "src": "/audio/adults/am12.mp3",
+      "legacySrc": "sounds/am12.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 12 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 12: Married Life"
+    },
+    {
+      "type": "hints",
+      "text": "Life as Newlyweds"
+    },
+    {
+      "type": "instruction",
+      "text": "During our early newlywed years, we did not have much money, so my wife suffered more than me because of this."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes we had many arguments because it had taken a while for us to adjust to life together."
+    },
+    {
+      "type": "instruction",
+      "text": "We each had a different upbringing, and we worked hard to learn to live together happily."
+    },
+    {
+      "type": "instruction",
+      "text": "Starting a Family"
+    },
+    {
+      "type": "instruction",
+      "text": "After two years of marriage, we had our first baby."
+    },
+    {
+      "type": "instruction",
+      "text": "We worked hard to become good parents."
+    },
+    {
+      "type": "instruction",
+      "text": "It was sometimes very difficult to raise our children, so we tried to read up and ask our family and friends about good parenting skills."
+    },
+    {
+      "type": "instruction",
+      "text": "Over all, our children turned out pretty good."
+    },
+    {
+      "type": "instruction",
+      "text": "Family Life"
+    },
+    {
+      "type": "instruction",
+      "text": "After I finish work, I try to spend as much time as possible with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes, I am very busy after work, and this cuts into my time at home with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "I try to help my wife around the house as much as possible."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife is more involved with our children’s education, but I try to be involved by showing concern."
+    },
+    {
+      "type": "instruction",
+      "text": "I try to be supportive of her and take an interest in what she does."
+    },
+    {
+      "type": "instruction",
+      "text": "Spending Time with the Family"
+    },
+    {
+      "type": "instruction",
+      "text": "I often watch too much television, so I try to read books these days in order to learn new things."
+    },
+    {
+      "type": "instruction",
+      "text": "Lately, I have been studying English."
+    },
+    {
+      "type": "instruction",
+      "text": "Because I am an important part of my family, I also want to take care of my health, so I regularly exercise by myself or with my wife."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am12.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "d153-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d153",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 153 회 ]",
+  "menuLabel": "[ D 153-1 ]",
+  "unit": 153,
+  "part": null,
+  "order": 305,
+  "audio": [
+    {
+      "src": "/audio/ld/d153.mp3",
+      "legacySrc": "sounds/d153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 153 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 주의 공립학교들은 개별 주의 국민들이 지불하는 세금의 지원을 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 주에서는 어린이들은 16세의 나이에 도달할 때까지 학교에 다닐 것이 요구된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 6살이 될 때 어린이들은 초등학교를 시작한다."
+    },
+    {
+      "type": "instruction",
+      "text": "초등학교에서 6년 후에 그들은 중학교에 들어가 삼년 동안 거기에 머문다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 공립학교 교육의 마지막 3년은 고등학교에서 보내지는데"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 18세의 나이에 그 학교를 졸업한다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 수의 고등학교 졸업생들이 그 나라 안의 많은 대학이나"
+    },
+    {
+      "type": "instruction",
+      "text": "종합 대학에서 그들의 교육을 계속한다."
+    },
+    {
+      "type": "instruction",
+      "text": "4년 후에 그들은 학사 학위를 받는다."
+    },
+    {
+      "type": "instruction",
+      "text": "일부는 석사 학위와 어쩌면 박사학위를 위하여 공부를 계속한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d153-1.htm",
+  "legacyEncoding": "utf-8"
+}

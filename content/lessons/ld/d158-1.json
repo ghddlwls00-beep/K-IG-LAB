@@ -1,0 +1,83 @@
+{
+  "id": "d158-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d158",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 158 회 ]",
+  "menuLabel": "[ D 158-1 ]",
+  "unit": 158,
+  "part": null,
+  "order": 315,
+  "audio": [
+    {
+      "src": "/audio/ld/d158.mp3",
+      "legacySrc": "sounds/d158.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 158 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "월요일부터 금요일까지 대부분의 사람들은 일하거나 공부하느라고 바쁘지만"
+    },
+    {
+      "type": "instruction",
+      "text": "밤과 주말에는 자유롭게 긴장을 풀고 즐길 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람은 텔레비젼을 보거나 극장에 가고 어떤 사람은 운동을 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 개인의 관심에 달려있다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리의 남는 시간을 보낼 많은 다른 방법들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "거의 모든 사람이 어떤 종류의 취미를 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 우표를 수집하는 것으로부터 모형 비행기를 만드는 것까지 어떤 것이든 될지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 취미들은 매우 비싸지만 다른 것들은 전혀 어떤 것도 들지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 수집품들은 많은 돈의 가치가 있다. 다른 것들은 그들의 소유주에게만 가치있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d158-1.htm",
+  "legacyEncoding": "utf-8"
+}

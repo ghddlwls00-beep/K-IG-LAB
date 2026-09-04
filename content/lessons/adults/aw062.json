@@ -1,0 +1,59 @@
+{
+  "id": "aw062",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 062 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 2,
+  "order": 66,
+  "audio": [
+    {
+      "src": "/audio/adults/aw062.mp3",
+      "legacySrc": "sounds/aw062.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 062 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Saturday Afternoons"
+    },
+    {
+      "type": "hints",
+      "text": "I joined a hobby circle with my friends, so I sometimes go shopping for things I need for the circle."
+    },
+    {
+      "type": "instruction",
+      "text": "I have made many new friends this way."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I go shopping with my family, and we usually pick up everything we need for one week."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw062.htm",
+  "legacyEncoding": "utf-8"
+}

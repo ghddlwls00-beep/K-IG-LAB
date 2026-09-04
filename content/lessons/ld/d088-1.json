@@ -1,0 +1,87 @@
+{
+  "id": "d088-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d088",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 088회 ]",
+  "menuLabel": "[ D 088-1 ]",
+  "unit": 88,
+  "part": null,
+  "order": 175,
+  "audio": [
+    {
+      "src": "/audio/ld/d088.mp3",
+      "legacySrc": "sounds/d088.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 088회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "1903년 12월의 어느 서늘하고 바람이 부는 아침에 두 형제가 대부분의 사람들이 결코 행해질 수 없을 것이 라고 믿었던 어떤 것을 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 자체의 동력을 사용하여 크고 시끄러운 기계가 한 남자를 공중으로 올려서 그를 37미터를 운반했 다. 그 형제들은 그날 세 번 더 비행했다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 긴 비행은 59초 내에 200미터를 여행했다. 그 형제들은 그들의 기계인 the Flyer가 성공인 것에 놀라 지 않았다. 그들은 그것을 개발하면서 여러 해를 보냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그들은 만약 그 비행기가 문명을 얼마나 크게 변화시킬지 깨달았더라면 놀랐을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 두 형제 Wilburt와 Orville Wright는 오하이오주 데이턴에서 자전거 가게를 운영했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 1809년에 기계적인 비행에 처음으로 흥미를 느끼게 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 발견할 수 있는 모든 정보를 읽기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "곧 그들은 공기 압력과 날개 표면에 대한 출판된 자료의 대부분은 잘못이라는 것을 깨달았다."
+    },
+    {
+      "type": "instruction",
+      "text": "Wilburt는 하나의 바람 터널을 만들고 200개 이상의 다른 날개 표면을 테스트하기 위하여 그것을 사용했 다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그 비행기가 제어될 수 있도록 날개들을 다른 위치로 전환하기 위한 방법을 개발했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d088-1.htm",
+  "legacyEncoding": "utf-8"
+}

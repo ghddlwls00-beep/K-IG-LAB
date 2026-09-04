@@ -1,0 +1,123 @@
+{
+  "id": "w6-1",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w6-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 1,
+  "order": 28,
+  "audio": [
+    {
+      "src": "/audio/woman/w6-1-1.mp3",
+      "legacySrc": "w6-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-1-2.mp3",
+      "legacySrc": "w6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-1-3.mp3",
+      "legacySrc": "w6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-1-4.mp3",
+      "legacySrc": "w6-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w6-1-5.mp3",
+      "legacySrc": "w6-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "6 My Weekend :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "How I Spend Saturday Mornings",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "최근에 나의 남편의 회사는 토요일에는 문을 열지 않습니다. 그래서 우리는 함께 보낼 시간이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lately, my husband’s company doesn’t open on Saturdays, so we have lots of free time to spend together.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 주말시간을 새로운 것들을 배우는데 사용합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I use my weekend time to learn new things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 토요일에 늦게 일어납니다. 그리고 때때로 아이들과 어디를 가기도 하고 아니면 우리는 스트레스를 풀기위해 대중 목욕탕을 가기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I get up late on Saturday and sometimes we either go somewhere with our children, or we usually go to the public baths (spa) to release stress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 운동하고 쇼핑하고 그리고 영어를 연습하려고도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also try to exercise, shop, and practice my English.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w6-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w6-1.swf"
+  ]
+}

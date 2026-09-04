@@ -1,0 +1,83 @@
+{
+  "id": "p171-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p171",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 171-1 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 1,
+  "order": 169,
+  "audio": [
+    {
+      "src": "/audio/middle/p171.mp3",
+      "legacySrc": "sounds/p171.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 171-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(한국이 어떻게 건국되었는가)"
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 어떻게 한국이라는 나라가 건국되었는가에 대한"
+    },
+    {
+      "type": "instruction",
+      "text": "이야기 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라 역사는 약 오 천년 전에 시작되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "옛날 옛적에 하늘의 왕이신 환인께서 그의 아들인 환웅을"
+    },
+    {
+      "type": "instruction",
+      "text": "지상으로 보내셨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "지상에서 사는 동안, 그는 곰이 여자가 된 웅녀와 결혼을 했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 아들 한 명을 낳았고 그를 단군이라 이름 지었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 한국의 건립자가 되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 나라의 고대 이름은 고조선 이었습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p171-1.htm",
+  "legacyEncoding": "utf-8"
+}

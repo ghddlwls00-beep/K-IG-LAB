@@ -1,0 +1,83 @@
+{
+  "id": "d274-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d274",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 274 회 ]",
+  "menuLabel": "[ D 274-1 ]",
+  "unit": 274,
+  "part": null,
+  "order": 545,
+  "audio": [
+    {
+      "src": "/audio/ld/d274.mp3",
+      "legacySrc": "sounds/d274.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 274 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "중세에는 라틴어가 범세계적인 언어였다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 대학 수업은 라틴어로 했고 모든 중요한 문서들은 그 언어로 씌어졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 점진적으로 라틴어는 사용하지 않게 되었고 18세기가 되었을 때는 불어가 외교 언어가 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 오늘날 영어가 국제 문제를 처리하기 위하여 보통 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 이유로 영어가 범세계적인 언어라고 일컬어진다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 세계의 다양한 국가들 사이에 존재하는 언어 장벽을"
+    },
+    {
+      "type": "instruction",
+      "text": "극복하는 수단으로써 점점 더 중요해지고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "영어를 하는 사람은 전세계의 다른 사람들과 의사소통하기 위한"
+    },
+    {
+      "type": "instruction",
+      "text": "중요한 도구를 소유하고 있다고 진실로 말할 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d274-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "p204-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p204",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 204-1]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 4,
+  "order": 203,
+  "audio": [
+    {
+      "src": "/audio/middle/p204.mp3",
+      "legacySrc": "sounds/p204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 204-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "(경주)"
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 매력적인 행선지는 경주 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "경주는 신라왕국의 오래된 수도 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "신라 왕국은 8세기에 가장 강력했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 사람들이 경주는 벽이 없는 박물관이라고 생각합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "한국인들은 신라왕조의 많은 오래된 유물들을 가지고 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 이렇게 부릅니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p204-1.htm",
+  "legacyEncoding": "utf-8"
+}

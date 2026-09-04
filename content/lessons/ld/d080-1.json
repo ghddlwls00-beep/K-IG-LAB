@@ -1,0 +1,71 @@
+{
+  "id": "d080-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d080",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 080회 ]",
+  "menuLabel": "[ D 080-1 ]",
+  "unit": 80,
+  "part": null,
+  "order": 159,
+  "audio": [
+    {
+      "src": "/audio/ld/d080.mp3",
+      "legacySrc": "sounds/d080.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 080회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "영화를 보여주고 싶다면 영사기가 필요하다. 영화 필름은 일련의 많은 개별적인 사진들이다."
+    },
+    {
+      "type": "instruction",
+      "text": "영사기는 필름을 강한 빛을 지나서 이동시킨다. 조명 앞에는 우리가 셔터라고 부르는 작은 문이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 필름 위의 각 사진은 잠시 동안 그 셔터 앞에서 멈춘다. 그런 다음 그 셔터는 빨리 열리고 닫힌다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 셔터가 열릴 때 그 빛은 그 그림을 통하여 렌즈 안으로 통과한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 렌즈는 그 사진을 확대하고 그것을 화면 위에 보여준다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그 셔터는 닫히고 또 다른 사진이 들어선다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d080-1.htm",
+  "legacyEncoding": "utf-8"
+}

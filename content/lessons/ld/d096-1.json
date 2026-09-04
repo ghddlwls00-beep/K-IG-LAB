@@ -1,0 +1,87 @@
+{
+  "id": "d096-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d096",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 096회 ]",
+  "menuLabel": "[ D 096-1 ]",
+  "unit": 96,
+  "part": null,
+  "order": 191,
+  "audio": [
+    {
+      "src": "/audio/ld/d096.mp3",
+      "legacySrc": "sounds/d096.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 096회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "공업은 종종 진보를 가져올 수 있지만 그것은 종종 공해와 또 다른 위험들도 가져온다."
+    },
+    {
+      "type": "instruction",
+      "text": "1970년대에 북부 잉글랜드의 한 작은 마을에서 비극이 발생했다. 화학 공장이 폭발했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 재난에서 28명이 살해되었고 백명 이상이 부상당했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 공장은 파괴되었고 그 마을의 몇몇 집의 지붕들이 뜯겨나갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 폭발에 뒤이은 화재가 이틀 동안 탔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 30마일 떨어진 곳에서 보이는 거대한 연기 구름을 올려보냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 마을에 사는 사람 중에 많은 이들이 집을 잃을 위험에 처했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 공장에 가장 가까이 사는 사람들은 목숨을 잃을 것을 두려워했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 폭발 후에 많은 사람들이 즉시 그 마을로 가서 친구들을 도울 것에 대하여 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "다른 사람들은 단지 그 불을 구경하는 것에 흥미를 느꼈다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d096-1.htm",
+  "legacyEncoding": "utf-8"
+}

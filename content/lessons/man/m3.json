@@ -1,0 +1,143 @@
+{
+  "id": "m3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": null,
+  "order": 13,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Hometown",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My School Days and My Days in Military Service",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Single Life vs. Married Life",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Married Life",
+      "lang": "en"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "07",
+          "text": "Helping hand"
+        },
+        {
+          "n": "01",
+          "text": "Greeting"
+        },
+        {
+          "n": "07",
+          "text": "Introducing My Class"
+        },
+        {
+          "n": "46",
+          "text": "After Graduating College"
+        },
+        {
+          "n": "38",
+          "text": "Where I Was Born"
+        },
+        {
+          "n": "39",
+          "text": "When I Moved"
+        },
+        {
+          "n": "40",
+          "text": "Where I Grew Up"
+        },
+        {
+          "n": "41",
+          "text": "My Early Childhood School Days"
+        },
+        {
+          "n": "42",
+          "text": "My Youth in Middle School"
+        },
+        {
+          "n": "43",
+          "text": "My Difficult Time in High School"
+        },
+        {
+          "n": "44",
+          "text": "My Life as a University Student"
+        },
+        {
+          "n": "45",
+          "text": "Serving Time in the Military"
+        },
+        {
+          "n": "47",
+          "text": "Dating the Right One"
+        },
+        {
+          "n": "48",
+          "text": "Marrying Mr. or Miss Right"
+        },
+        {
+          "n": "52",
+          "text": "Sunday Afternoon"
+        },
+        {
+          "n": "49",
+          "text": "Life as Newlyweds"
+        },
+        {
+          "n": "50",
+          "text": "Starting a Family"
+        },
+        {
+          "n": "51",
+          "text": "Family Life"
+        },
+        {
+          "n": "52",
+          "text": "Spending Time with the Family"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "Man/m3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m3.swf"
+  ]
+}

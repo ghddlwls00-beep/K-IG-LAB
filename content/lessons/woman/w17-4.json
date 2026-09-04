@@ -1,0 +1,123 @@
+{
+  "id": "w17-4",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w17-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 71,
+  "audio": [
+    {
+      "src": "/audio/woman/w17-4-1.mp3",
+      "legacySrc": "w17-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-4-2.mp3",
+      "legacySrc": "w17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-4-3.mp3",
+      "legacySrc": "w17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-4-4.mp3",
+      "legacySrc": "w17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-4-5.mp3",
+      "legacySrc": "w17-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "17 The History of Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-War Development of Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1953년 전쟁이 끝난 이래로, 나라는 급속히 발전을 시작했고, 특별히 1970년대에 그러했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그때로부터 지금까지, 나라는 빠르게 성장을 계속했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "From then until now, the country has continued to grow rapidly.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1988년에, 한국은 하계올림픽을 유치했고, 2002년에 월드컵 역시 한국에서 개최되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 우리나라가 매우 자랑스럽고 긴 역사동안 성취해온 것이 자랑스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very proud of my country and what it has accomplished during its long history.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w17-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w17-4.swf"
+  ]
+}

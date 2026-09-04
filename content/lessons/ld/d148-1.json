@@ -1,0 +1,91 @@
+{
+  "id": "d148-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d148",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 148 회 ]",
+  "menuLabel": "[ D 148-1 ]",
+  "unit": 148,
+  "part": null,
+  "order": 295,
+  "audio": [
+    {
+      "src": "/audio/ld/d148.mp3",
+      "legacySrc": "sounds/d148.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 148 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 이웃은 북쪽으로는 캐나다, 남쪽으로는 멕시코이다."
+    },
+    {
+      "type": "instruction",
+      "text": "미국은 큰 나라이지만 그것은 세계에서 가장 크지는 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "1964년에 그것의 인구는 185,000,000이상이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "잉글랜드로부터 독립을 쟁취한 후에 이 땅이 처음 국가가 되었을 때"
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 13개의 주를 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 주들의 각각은 미국 국기 위에 별로 표시되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 모든 주들은 그 대륙의 동부에 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 나라가 서쪽으로 커져감에 따리 새로운 주들이"
+    },
+    {
+      "type": "instruction",
+      "text": "첨가되었고 새로운 별들이 그 깃발 위에 나타났다."
+    },
+    {
+      "type": "instruction",
+      "text": "오랫 동안 48개의 주가 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 1959년에 알라스카와 하와이의 새로운 주를 대표하는 두 개의 별이 국기에 첨가되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d148-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,383 @@
+{
+  "id": "s17-4",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s17-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 4,
+  "order": 74,
+  "audio": [
+    {
+      "src": "/audio/student/s17-4-1.mp3",
+      "legacySrc": "s17-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-2.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-3.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-4.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-5.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-6.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-7.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-8.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-9.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-10.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-11.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-12.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-13.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-14.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-15.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-16.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-17.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-18.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-19.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-20.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-21.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s17-4-22.mp3",
+      "legacySrc": "s17-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In 1988, Korea hosted the Summer Olympic Games and in 2002, the World Cup was held in Korea, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am very proud of my country and what it has accomplished during its long history.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "From then until now, the country has continued to grow rapidly.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the end of the war in 1953, the country began to develop very quickly, especially during the 1970’s.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 급속히 성장하기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 급속히 성장하기를 to grow rapidly.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 우리나라가 매우 자랑스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 우리나라가 매우 자랑스럽습니다.I am very proud of my country",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그것이 달성해 온것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그것이 달성해 온것이 and what it has accomplished",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그것의 긴 역사동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그것의 긴 역사동안 during its long history.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1953년 전쟁이 끝난 이래로, 나라는 매우 빨리 발전하기 시작했고, 특히 1970년대에 그랬습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그때부터 지금까지, 나라는 계속 급성장 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1988년, 한국은 하계올림픽게임을 주최했고 2002년, 한국에서 월드컵 역시 개최되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 나라와 긴 역사 동안 달성해 온 것에 대해 매우 자랑스럽습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전쟁이 끝난 이후로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전쟁이 끝난 이후로Since the end of the war",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 1953년에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 1953년에 in 1953,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라는 the country",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 빠르게 발전하기 시작했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 빠르게 발전하기 시작했습니다. began to develop very quickly,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 1970년대동안 특별히",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 1970년대동안 특별히 especially during the 1970's.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 때부터 지금까지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 때부터 지금까지From then until now,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라는 계속되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라는 계속되었습니다.the country has continued",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1988년도에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "1988년도에In 1988,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 개최했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국은 개최했습니다. Korea hosted",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 하계 올림픽 경기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 하계 올림픽 경기를 the Summer Olympic Games",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 2002년도에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 2002년도에 and in 2002,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 월드컵이 개최되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 월드컵이 개최되었습니다. the World Cup was held",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에서, 역시",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에서, 역시 in Korea, too.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "History :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Development of Korea",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s17-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s17-4.swf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p173",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 173 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 3,
+  "order": 172,
+  "audio": [
+    {
+      "src": "/audio/middle/p173.mp3",
+      "legacySrc": "sounds/p173.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 173 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Independence of Korea/The Korean Civil War)"
+    },
+    {
+      "type": "hints",
+      "text": "After Shillafell, many other countries tried to gain power over Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, Korea was ruled by Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "Many Koreans did not like being under the power of Japan,"
+    },
+    {
+      "type": "instruction",
+      "text": "so they fought against Japanese rule."
+    },
+    {
+      "type": "instruction",
+      "text": "In 1948, Korea was librated from Japan."
+    },
+    {
+      "type": "instruction",
+      "text": "A civil war broke out in 1950 when armies from the North"
+    },
+    {
+      "type": "instruction",
+      "text": "invaded the South."
+    },
+    {
+      "type": "instruction",
+      "text": "As a result, the Korean peninsula became divided into"
+    },
+    {
+      "type": "instruction",
+      "text": "North and South Korea."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p173.htm",
+  "legacyEncoding": "utf-8"
+}

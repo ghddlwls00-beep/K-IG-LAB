@@ -1,0 +1,47 @@
+{
+  "id": "pr234-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr234",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 234-1 ]",
+  "menuLabel": "[ pr234-1 ]",
+  "unit": 234,
+  "part": null,
+  "order": 467,
+  "audio": [
+    {
+      "src": "/audio/reading/pr234.mp3",
+      "legacySrc": "sounds/pr234.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 234-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "냉전 후 세계는 아주 다른 곳이다. 힘이 서양 국가들로부터 세계의 다른 지역들로 이동하고 있다. 그래서, 국제 정치는 보다 복잡해져서, 많은 문명권들을 포함하고 있다. 이런 새로운 세계에서, 문화에 있어 차이점들과 유사성들이 종지와 적을 결정한다. 이런 요인들이 국가들 간의 정치적 경제적 차이들을 야기시킨다. 게다가, 이러한 차이들은 종종 지역적 분쟁들이 커져서 보다 큰 전쟁이 되게 한다. 따라서, 이러한 나라들이 직면한 가장 중요한 문제는 문화간의 차이들을 이해하는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr234-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "am105",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 105 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 5,
+  "order": 106,
+  "audio": [
+    {
+      "src": "/audio/adults/am105.mp3",
+      "legacySrc": "sounds/am105.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 105 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Serving Time in the Military"
+    },
+    {
+      "type": "hints",
+      "text": "After my sophomore year, I took a leave of absence from my studies and got a part-time job for six months before I started my military service."
+    },
+    {
+      "type": "instruction",
+      "text": "My military service was a hard time in my life, but I learned a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "During this time, I developed patience and an understanding of how important my family was."
+    },
+    {
+      "type": "instruction",
+      "text": "After my military service was completed, I returned to my studies once again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am105.htm",
+  "legacyEncoding": "utf-8"
+}

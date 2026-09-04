@@ -1,0 +1,143 @@
+{
+  "id": "m7-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m7-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 2,
+  "order": 37,
+  "audio": [
+    {
+      "src": "/audio/man/m7-2-1.mp3",
+      "legacySrc": "m7-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-2-2.mp3",
+      "legacySrc": "m7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-2-3.mp3",
+      "legacySrc": "m7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-2-4.mp3",
+      "legacySrc": "m7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-2-5.mp3",
+      "legacySrc": "m7-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-2-6.mp3",
+      "legacySrc": "m7-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "내가 나의 첫 직업을 시작했을 때, 대학에서 전공한 것과 나의 직장에서 하는 것이 매우 다르다는 것을 느꼈습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I first started my job, I realized that what I had majored in at my university and what I was doing at my job were very different.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "오래 동안, 이것에 적응하는 것에 매우 스트레스를 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while, adjusting to this was very stressful.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "지금 나는 거기에서 10년 동안 일해 왔고 나는 여전히 일하고 나의 분야에서 최고가 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I have been there for almost 10 years, and I still work hard to become the best in my field.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 보통 하루의 시작과 끝에 회의를 가집니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We usually start and end the day with a meeting.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "항상 열심히 일 하는 것에 따라 나는 내 스스로 향상하려 노력하고 있는 것을 확신할 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By always working hard, I can make sure that I am trying to improve myself.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while,3 adjusting to this was very stressful.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I have been there for almost (Number) years, and I still work hard to become the best in my field.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 My Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I Think about My Job?",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m7-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m7-2.swf"
+  ]
+}

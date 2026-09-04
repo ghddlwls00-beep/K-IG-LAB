@@ -1,0 +1,47 @@
+{
+  "id": "pr194-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr194",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 194-1 ]",
+  "menuLabel": "[ pr194-1 ]",
+  "unit": 194,
+  "part": null,
+  "order": 387,
+  "audio": [
+    {
+      "src": "/audio/reading/pr194.mp3",
+      "legacySrc": "sounds/pr194.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 194-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "단풍이 드는 나무를 볼 수 있었다. 일주일전에 이 여행을 시작했더라면 이 모든 것이 내 시야를 즐겁게 했을 텐데. 그러나 지금은 그것을 즐길 수 없다. 너무나 많은 생각이 내 머릿속에 들끓고 있었다. 나를 20년 동안 길러 준 Uncle Joe에게 난 무엇을 해 주었나? 지난 5년간 그를 방문하지 못한 것에 대해 나는 부끄러움을 느꼈다. 아버지처럼 나를 사랑해 주었던 그를 나는 실망시켜 드렸던 것이다. 지난주에 그가 자신의 60번째 생일을 홀로 보내셨다는 것을 알았을 때 나는 스스로 마음이 편치 못했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr194-1.htm",
+  "legacyEncoding": "utf-8"
+}

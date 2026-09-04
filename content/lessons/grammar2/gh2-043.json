@@ -1,0 +1,108 @@
+{
+  "id": "gh2-043",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 43 ]",
+  "menuLabel": "[ 43과 영어 ]",
+  "unit": 43,
+  "part": null,
+  "order": 72,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-043.mp3",
+      "legacySrc": "sounds/gh2-043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 43 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "The book the cover of which is red is mine."
+        },
+        {
+          "n": "2",
+          "text": "This is the man with whom John lives."
+        },
+        {
+          "n": "3",
+          "text": "This is the cat by which the rat was killed."
+        },
+        {
+          "n": "4",
+          "text": "There are persons without whom a society can not last very long."
+        },
+        {
+          "n": "5",
+          "text": "It is true that he is poor but smart."
+        },
+        {
+          "n": "6",
+          "text": "I think it true that he is poor but smart."
+        },
+        {
+          "n": "7",
+          "text": "I think it is true that he is stupid and rich."
+        },
+        {
+          "n": "8",
+          "text": "Who he is is not known to all."
+        },
+        {
+          "n": "9",
+          "text": "Who he is is not known to anybody."
+        },
+        {
+          "n": "10",
+          "text": "There was not a girl that was not kind."
+        },
+        {
+          "n": "11",
+          "text": "He is not such a man as tells a lie."
+        },
+        {
+          "n": "12",
+          "text": "He has as many books as you have."
+        },
+        {
+          "n": "13",
+          "text": "I have the same watch as you have."
+        },
+        {
+          "n": "14",
+          "text": "It is natural that you be disappointed at not passing the exam."
+        },
+        {
+          "n": "15",
+          "text": "When you are going to do anything, keep it in mind that you should do your best"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-043.htm",
+  "legacyEncoding": "utf-8"
+}

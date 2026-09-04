@@ -1,0 +1,47 @@
+{
+  "id": "pr045",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 045 ]",
+  "menuLabel": "[ pr045 ]",
+  "unit": 45,
+  "part": null,
+  "order": 88,
+  "audio": [
+    {
+      "src": "/audio/reading/pr045.mp3",
+      "legacySrc": "sounds/pr045.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 045 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Since so many of our conversations are held on the telephone, telephone calls are situations worthy of special consideration. Good manners on the telephone, of course, are the same as good manners elsewhere. What is more important is thoughtfulness for others. But thoughtfulness for others in the use of telephone is based on one important point. Do not keep the telephone call to yourself. Remember that it is shared by several people who have an equal right to its use."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr045.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "aw074",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 074 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 4,
+  "order": 79,
+  "audio": [
+    {
+      "src": "/audio/adults/aw074.mp3",
+      "legacySrc": "sounds/aw074.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 074 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How do I Progress in My job?"
+    },
+    {
+      "type": "hints",
+      "text": "I have to continually learn and improve my skills throughout my career."
+    },
+    {
+      "type": "instruction",
+      "text": "These days, my company is requiring that all of its employees learn English, so I am studying hard to improve my English language skills."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw074.htm",
+  "legacyEncoding": "utf-8"
+}

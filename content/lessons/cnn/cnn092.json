@@ -1,0 +1,470 @@
+{
+  "id": "cnn092",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "The Shop of the Future",
+  "label": "The Shop of the Future",
+  "menuLabel": "[ CNN 92 ]",
+  "unit": 92,
+  "part": null,
+  "order": 91,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn092.mp4",
+      "legacySrc": "CNN/CNN61-120/92.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Shop of the Future"
+    },
+    {
+      "type": "paragraph",
+      "text": "JIM BOULDEN, CNN Correspondent: Most shoppers don’t cause a media frenzy. But this was German Chancellor Angela Merkel pushing a trolley through “the shop of the future” at CeBIT. German retailer Metro wanted to show people how technology can change shopping. And Metro has the clout to transform the industry, the world over.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GERD WOLFRAM, MD of Metro: We’re number one in Germany, we’re number two in Europe and number three in the world.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: Metro’s management says, all it takes is this little microchip on every package. Using radio technology, every single item could be marked and tracked, allowing shoppers to instantly calculate their food bill.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WOLFRAM: Then you go through this gate and then you see on the screen all the products.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: Then there’s the ability to instantly view your choice of clothes on a real model, in the privacy of the changing room.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Metro already uses it for logistics.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WOLFRAM: And even we give this information back to our manufacturer to Proctor & Gamble, so even they know exactly where the goods are.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: But it may take five years for these so-called RFID tags to move from the warehouse to the shop floor. Cost is one big reason.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WOLFRAM: It is too expensive today. It’s around 15 euro cents. And if you imagine having that on a yogurt which is 29 euro cents, that doesn’t make sense.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: Another stumbling block, privacy. Metro is backed by some of the biggest names in manufacturing and in IT. That has some customers worried.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 1: I would be concerned because I am not sure if the product is deactivated or the RFID chip is deactivated and I can’t trust the Metro group on this.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: Others love the convenience, especially in the changing room.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 2: That would be very good for men, actually, for people like me because I hate changing clothes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: The main software company behind RFID says it’s listening carefully to all views. SAP says one thing already agreed on... the tags can easily be deactivated by the customer. But if you did decide to leave the tag on when you got home, then",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "when it came time to washing, you put this white towel into the washing machine and then put in this red shirt, the washing machine could alert you “That is not a good idea.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consumers will be the ultimate judge. Are these little warnings from RFID enabled stores and appliances worth the loss of privacy? Jim Boulden, CNN, Hanover, Germany.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "미래의 쇼핑",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "짐 볼든, CNN 기자: 일반 쇼핑객들이라면 열띤 취재 대상이 되지는 않습니다. 하지만 이 사람은 바로 앙겔라 메르켈 독일 총리입니다. 그녀는 세빗에서 카트를 밀며‘미래형 가게’를 둘러보고 있습니다. 독일계 소매업체인 메트로 사는 기술이 쇼핑 방식을 어떻게 변화시킬 수 있는지 사람들에게 보여주고 싶어했습니다. 실제로 메트로 사는 전세계의 소매업계를 변화시킬 역량을 갖추고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게르드 울프램, 메트로 전무 이사: 메트로 사는 독일 1위 기업이며, 유럽에서는 2위, 전세계적으로는 3위를 달리는 업체입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 메트로 사 경영진에 따르면, 이 모든 것을 가능케 하는 것은 모든 제품에 부착된 바로 이 작은 마이크로칩이라고 합니다. 무선 기술을 이용하면, 하나하나의 제품을 표시하고 추적할 수 있는데 이를 통해 쇼핑객들은 식료품비를 즉시 계산할 수 있게 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "울프램: 이 문을 통과하면 곧바로 스크린에 쇼핑한 모든 상품이 나타납니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 또한 실제 모델이 여러분이 선택한 옷을 입은 모습도 즉석에서 볼 수 있습니다. 아무도 못 보는 탈의실에서 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "메트로 사는 이미 이 기술을 재고 관리에 활용하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "울프램: 심지어 우리는 이 정보를 자사 제조업체와 피엔지 사에 재전송해, 그들이 이들 상품의 현 위치를 정확하게 파악할 수 있게 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 그러나 현재 재고관리에 쓰이는 이른바 RFID 태그가 판매장으로 확산되기까지는 5년이 걸릴 것입니다. 비용이 하나의 큰 원인입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "울프램: 현재 RFID 태그는 비쌉니다. (태그 하나에) 약 15 유로센트 정도 하는데 만약 그런 RFID 태그를 29 유로센트짜리 요구르트에 부착한다고 가정하면, 그건 상식적으로 전혀 말이 안 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 또 다른 난관은 바로 프라이버시 문제입니다. 메트로 사는 몇몇 거대 제조 및 IT 업체와 협력하고 있는데, 이것이 일부 소비자들이 우려하고 있는 부분입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 1: 전 그 제품이, 아니 그 RFID 칩이 제거된 상태인지 아닌지를 확신하지 못하기 때문에 걱정이 됩니다. 이 메트로사 제품을 신뢰하지 못하겠어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 다른 사람들은 이 제품이 편리하다고 좋아합니다. 특히 탈의실에서 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 2: 남성들에게 아주 유용할 겁니다. 실제로 저 같은 사람들은 옷 갈아입는 것을 아주 싫어하거든요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: RFID 칩을 개발한 소프트웨어 업체는 자신들이 (고객들의) 모든 의견에 주의 깊게 귀 기울이고 있다고 말합니다. 샙(SAP) 사는 이미 한 가지 사항에 동의했습니다. 바로 소비자들이 태그를 쉽게 제거할 수 있게 한다는 것입니다. 그러나 만일 여러분이 상품에 태그를 붙인 상태로 집에 가 세탁할 때가 되어서, 이 하얀색 수건을 세탁기에 넣고 이 빨간 셔츠를 넣으면, 세탁기는“그러면 안됩니다.”라고 경고할 것입니다. 결국 최후의 판단은 소비자의 몫입니다. 상점과 제품에 사용된 RFID 태그에서 나오는 이 같은 작은 경고가 프라이버시 침해보다 가치 있는지 아닌지 말이죠. 독일 하노버에서 CNN, 짐 볼든이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st sh[∫]로 자음이 세 번 겹쳐 나와 중간 자음 [t]가 탈락되어 most가 moss로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Center for Bureau, Information, Telecommunication의 약자로 한 단어처럼 읽고 있다. IT, RFID, SAP는 철자 하나하나씩 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-t t-로 [t]가 중복되어 한 번만 발음되면서, to가 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 [r]의 영향을 받아 [츄]로 변형 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "trolley도 [츄랄리]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 강모음과 약모음 사이에서 [d]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 알고 있는‘아이템’과 다른 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "model도 [모델]이 아니라 [마들]로, yogurt는 [요구르트]가 아니라 [요거ㅌ]로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-tly는 보통 [t]가 탈락되고 [을리]를 재빨리 붙여 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 -stan-의 발음이 약화되어 [t]가 탈락되고, their도 약화되어 the처럼 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "de-는 항상 the로 혼동할 수 있으므로 청취시 문맥을 고려해 듣도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]가 [ju]와 연결되면 [츄]로 변형 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. last you[라스츄].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "alert는 a lot와 혼동하지 않도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. frenzy/ 극도의 흥분, 열광",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. chancellor/ (독일,오스트리아) 총리",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) RFID/ 전파식별(Radio Frequency Identification): 소형 반도체 칩을 이용해 사물의 정보를 처리하는 기술 (2) tag/ 태그, 꼬리표, 가격표",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. stumble/ 넘어질 듯 비틀거리다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Most shoppers",
+          "text": "[모ㅅ샤퍼]."
+        },
+        {
+          "n": "CeBIT",
+          "text": "[씨벳]."
+        },
+        {
+          "n": "clout to",
+          "text": "[클라우두]."
+        },
+        {
+          "n": "Metro’s",
+          "text": "[메츄러ㅅ]."
+        },
+        {
+          "n": "item",
+          "text": "[아이듬]."
+        },
+        {
+          "n": "instantly calculate their",
+          "text": "[인슨리카큘레잇더]."
+        },
+        {
+          "n": "deactivated",
+          "text": "[디엑티베잇]."
+        },
+        {
+          "n": "alert you",
+          "text": "[어러-츄]."
+        },
+        {
+          "n": "1) media frenzy",
+          "text": "미디어의 열띤 취재 경쟁"
+        },
+        {
+          "n": "2) German Chancellor Angela Merkel",
+          "text": "앙겔라 메르켈 독일 총리"
+        },
+        {
+          "n": "3) trolley",
+          "text": "카트, 손수레"
+        },
+        {
+          "n": "4) CeBIT",
+          "text": "세빗(Center for Bureau, Information, Telecommunication): 매년 3월 독일 하노버에서 개최되는 세계 최대 규모의 정보통신 분야 박람회"
+        },
+        {
+          "n": "5) clout",
+          "text": "(정치적) 힘, 영향력"
+        },
+        {
+          "n": "6) transform",
+          "text": "…을 바꾸다, 전환하다"
+        },
+        {
+          "n": "7) MD",
+          "text": "전무[상무] 이사(Managing Director)"
+        },
+        {
+          "n": "8) (the) management",
+          "text": "(특정 기업의) 경영자[관리자](들)"
+        },
+        {
+          "n": "9) microchip",
+          "text": "마이크로 칩, 반도체 집적 회로 소자"
+        },
+        {
+          "n": "10) package",
+          "text": "(기계,기구류의) 완성품"
+        },
+        {
+          "n": "11) radio",
+          "text": "무선 전신[전화]의; 방사선의"
+        },
+        {
+          "n": "12) mark",
+          "text": "…에 표를 하다"
+        },
+        {
+          "n": "13) track",
+          "text": "…을 추적하다; (인공 위성 따위를) 레이더로 추적하다"
+        },
+        {
+          "n": "14) calculate the[one’s] bill",
+          "text": "… 값을 계산하다"
+        },
+        {
+          "n": "15) ability",
+          "text": "능력, 역량"
+        },
+        {
+          "n": "16) in the privacy of",
+          "text": "…에 숨어서, 비밀리에"
+        },
+        {
+          "n": "17) logistics",
+          "text": "물류: (어떤 조직에서) 원자재에서 완제품에 이르는 재료의 흐름에 대한 관리"
+        },
+        {
+          "n": "18) manufacturer",
+          "text": "제조업체[자]"
+        },
+        {
+          "n": "19) Proctor & Gamble",
+          "text": "피앤지(P&G) 사: 미국의 대표적인 비누,세제 및 기타 가정용품 제조업체"
+        },
+        {
+          "n": "20) so-called",
+          "text": "소위"
+        },
+        {
+          "n": "21) RFID tag RFID",
+          "text": "태그"
+        },
+        {
+          "n": "22) move",
+          "text": "(상품이) 팔리다, 움직이다"
+        },
+        {
+          "n": "23) warehouse",
+          "text": "창고, 상품 보관소"
+        },
+        {
+          "n": "24) shop floor",
+          "text": "판매장; (회사,공장 따위의) 작업 현장"
+        },
+        {
+          "n": "25) make sense",
+          "text": "이치에 맞다"
+        },
+        {
+          "n": "26) stumbling block",
+          "text": "장애물, 방해물"
+        },
+        {
+          "n": "27) back",
+          "text": "…의 지원을 받다"
+        },
+        {
+          "n": "28) the biggest name",
+          "text": "거물(급)"
+        },
+        {
+          "n": "29) manufacturing",
+          "text": "제조업"
+        },
+        {
+          "n": "30) IT (industry)",
+          "text": "IT(정보기술, information technology)산업"
+        },
+        {
+          "n": "31) deactivate",
+          "text": "제거하다, 비활성화시키다, 활동력을 잃게 하다"
+        },
+        {
+          "n": "32) behind",
+          "text": "…을 지원하는, 지지하는"
+        },
+        {
+          "n": "33) SAP",
+          "text": "샙 사: 1972년 독일 만하임에서 다섯 명의 전직 IBM 출신 엔지니어가 설립한 회사로, 업무용 애플리케이션 소프트웨어 분야에 있어 전세계에서 가장 큰 시장 점유율을 차지하는 기술선도적인 업체다."
+        },
+        {
+          "n": "34) leave on",
+          "text": "…한 상태로 두다; 입은 채로 두다"
+        },
+        {
+          "n": "35) washing machine",
+          "text": "세탁기"
+        },
+        {
+          "n": "36) alert",
+          "text": "경고하다, 주의를 주다"
+        },
+        {
+          "n": "37) ultimate judge",
+          "text": "최후의 심판자"
+        },
+        {
+          "n": "38) enable",
+          "text": "(기기의) 스위치를 켜다; …을 가능하게 하다"
+        },
+        {
+          "n": "39) appliance",
+          "text": "기계, 기구"
+        },
+        {
+          "n": "40) worth",
+          "text": "…의 가치가 있는"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/92.wmv",
+  "legacyEncoding": "binary"
+}

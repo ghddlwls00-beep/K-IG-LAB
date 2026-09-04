@@ -1,0 +1,87 @@
+{
+  "id": "p194-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p194",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 194-1]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 4,
+  "order": 193,
+  "audio": [
+    {
+      "src": "/audio/middle/p194.mp3",
+      "legacySrc": "sounds/p194.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 194-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "(언어)"
+    },
+    {
+      "type": "instruction",
+      "text": "마지막으로, 한국 언어는 어떤 다른 세계언어도 같지 않습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "15세기 중반에 이르기까지,"
+    },
+    {
+      "type": "instruction",
+      "text": "한국은 고유의 문자를 가지고 있지 않았습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대신에, 쓰기 위해서 한자기 쓰여졌습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들은 읽거나 쓰기를 할 수 없었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "읽을 수 있는 유일한 사람들은 학자와 귀족들 이었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나, 1420년, 그 시대의 왕이셨던 세종대왕께서"
+    },
+    {
+      "type": "instruction",
+      "text": "그의 충실한 학자들에게 독특한 한국의 문자를 만들라고"
+    },
+    {
+      "type": "instruction",
+      "text": "요청했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "곧 한글이라고 알려져 있는 쓰기 시스템이 창제되었습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p194-1.htm",
+  "legacyEncoding": "utf-8"
+}

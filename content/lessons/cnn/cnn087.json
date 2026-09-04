@@ -1,0 +1,134 @@
+{
+  "id": "cnn087",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Polar Ice Is Melting",
+  "label": "Polar Ice Is Melting",
+  "menuLabel": "[ CNN 87 ]",
+  "unit": 87,
+  "part": null,
+  "order": 86,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn087.mp4",
+      "legacySrc": "CNN/CNN61-120/87.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Polar Ice Is Melting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greenland is feeling the heat from global warming. A series of papers in this week’s issue of the journal Science says there is mounting evidence that global warming is melting polar ice. The researchers also say if temperatures continue to rise at their current rate by the year 2100, Arctic summers could be as warm as they were 130-thousand years ago. They say back then sea levels were six meters higher than they were today. Computer models indicate oceans could rise by up to a meter over the next 150 years.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "극지방 얼음이 녹고 있다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그린란드가 지구 온난화로 인해 더워지고 있습니다. 이번 주 <사이언스> 지에 발표된 일련의 논문에 따르면 지구 온난화로 극지방 얼음이 녹고 있다는 증거들이 속속 나오고 있다고 합니다. 연구진은 현재 속도로 기온이 계속 상승하면 2100년에는 북극 지방의 여름이 13만년 전처럼 더워질 수도 있다고 말했습니다. 그 당시 해수면은 오늘날보다 6미터 정도 높았다고 합니다. 컴퓨터 모형 측정에 따르면 향후 150년 동안 바다의 해수면이 1미터 가량 상승할 것으로 나타났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모음 [ou]가 [o]로 발음되어 다른 단어로 혼동하지 않도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[i]가 중복되어 한 번만 발음되고, 접속사 if가 약하게 발음되어 주의 깊게 듣지 않으면 놓치기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "a hundred and thirty thousand라고 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "100은 one hundred 라고 읽기도 하고, and를 빼고 읽기도 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. paper/ (연구) 논문, 짧은 논문",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. mounting/ 산더미처럼 쌓이는",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "polar ice",
+          "text": "[폴러- 아이ㅆ]."
+        },
+        {
+          "n": "say if",
+          "text": "[쎄이-ㅍ]."
+        },
+        {
+          "n": "130-thousand",
+          "text": "[어 헌드레드 앤 써리 싸우즌]."
+        },
+        {
+          "n": "polar",
+          "text": "북[남]극의 (Arctic[Antarctic])"
+        },
+        {
+          "n": "feel the heat",
+          "text": "덥다, 열기가 느껴지다"
+        },
+        {
+          "n": "global warming",
+          "text": "지구온난화"
+        },
+        {
+          "n": "a series of papers",
+          "text": "일련의 논문들"
+        },
+        {
+          "n": "Science",
+          "text": "<사이언스>지: 미국과학진흥협회(AAAS: American Association for the Advancement of Science)에서 주간으로 발행하는 과학 전문 잡지"
+        },
+        {
+          "n": "temperature",
+          "text": "온도, 기온"
+        },
+        {
+          "n": "rise at ...rate",
+          "text": "…의 속도로 상승하다, 오르다"
+        },
+        {
+          "n": "sea level",
+          "text": "해수면"
+        },
+        {
+          "n": "computer model",
+          "text": "컴퓨터 모형: 현상이나 시스템을 컴퓨터 프로그램화한 것"
+        },
+        {
+          "n": "indicate",
+          "text": "나타나다"
+        },
+        {
+          "n": "there is mounting evidence that",
+          "text": "…에 관한 증거들이 계속 나오고 있다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/87.wmv",
+  "legacyEncoding": "binary"
+}

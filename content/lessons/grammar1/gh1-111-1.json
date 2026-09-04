@@ -1,0 +1,136 @@
+{
+  "id": "gh1-111-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-111",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 111-1]",
+  "menuLabel": "[ gh1-111-1 ]",
+  "unit": 111,
+  "part": null,
+  "order": 158,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-111-1.mp3",
+      "legacySrc": "sounds/gh1-111-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 111-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "71",
+          "text": "What happened to the criminal?"
+        },
+        {
+          "n": "72",
+          "text": "Why do they want his family's help?"
+        },
+        {
+          "n": "73",
+          "text": "Now here are the rest of today's top stories."
+        },
+        {
+          "n": "74",
+          "text": "The volcano created a disaster thousands of miles away, didn't it?"
+        },
+        {
+          "n": "75",
+          "text": "We'll go there sometime next week, won't we?"
+        },
+        {
+          "n": "76",
+          "text": "When will(shall) we have a live report?"
+        },
+        {
+          "n": "77",
+          "text": "In fact many of them are from Los Angeles, aren't they?"
+        },
+        {
+          "n": "78",
+          "text": "It is high noon in Los Angeles, isn't it?"
+        },
+        {
+          "n": "79",
+          "text": "Welcome back to Korea."
+        },
+        {
+          "n": "80",
+          "text": "They are probably up."
+        },
+        {
+          "n": "81",
+          "text": "You had a toothache yesterday, didn't you?"
+        },
+        {
+          "n": "82",
+          "text": "Has it stopped aching now?"
+        },
+        {
+          "n": "83",
+          "text": "The tooth is aching now."
+        },
+        {
+          "n": "84",
+          "text": "What's in them?"
+        },
+        {
+          "n": "85",
+          "text": "They are cooperating with the agency."
+        },
+        {
+          "n": "86",
+          "text": "The Defense Department wouldn't comment any further than that."
+        },
+        {
+          "n": "87",
+          "text": "That could reduce the fear of suspects."
+        },
+        {
+          "n": "88",
+          "text": "They have to(must) deal with the disaster."
+        },
+        {
+          "n": "89",
+          "text": "Which(what) company makes chewing tobacco?"
+        },
+        {
+          "n": "90",
+          "text": "How did the government boost its sale?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-111-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pr037-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr037",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 037-1 ]",
+  "menuLabel": "[ pr037-1 ]",
+  "unit": 37,
+  "part": null,
+  "order": 73,
+  "audio": [
+    {
+      "src": "/audio/reading/pr037.mp3",
+      "legacySrc": "sounds/pr037.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 037-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들을 잘못 인도하는 것은 크던 작던 간에 지식이 아니라, 지식에 대한"
+    },
+    {
+      "type": "instruction",
+      "text": "오만이다. 이것에 대한 가장 좋은 치료제는 지식이 아니라. 무엇인가를 정말로 잘 아는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr037-1.htm",
+  "legacyEncoding": "utf-8"
+}

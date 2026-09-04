@@ -1,0 +1,83 @@
+{
+  "id": "d212-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d212",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 212 회 ]",
+  "menuLabel": "[ D 212-1 ]",
+  "unit": 212,
+  "part": null,
+  "order": 422,
+  "audio": [
+    {
+      "src": "/audio/ld/d212.mp3",
+      "legacySrc": "sounds/d212.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 212 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "전 세계의 어린이들은 동물원에 가는 것을 굉장히 즐거워한다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 동물원들은 어린이들이 토끼, 오리, 및 다른 순한 동물들을"
+    },
+    {
+      "type": "instruction",
+      "text": "어루만질 수 있는 특별히 어린이들을 위하여 지정된 구역이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그 어린이들은 스스로 위험 부담을 안고 이것을 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "때로는 토끼까지도 위험할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 년 전에 토끼가 어린이의 손가락을 깨물었다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 그 손가락의 일부분은 절단해야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "너무나 이상하게도 그 아이는 상관하지 않는 것같이 보였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 아마도 자기가 이 세상에서 토끼에 손가락이 물려 잘려나간 유일한 사람이라고 말했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d212-1.htm",
+  "legacyEncoding": "utf-8"
+}

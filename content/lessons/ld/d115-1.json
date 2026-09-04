@@ -1,0 +1,87 @@
+{
+  "id": "d115-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d115",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 115 회 ]",
+  "menuLabel": "[ D 115-1 ]",
+  "unit": 115,
+  "part": null,
+  "order": 229,
+  "audio": [
+    {
+      "src": "/audio/ld/d115.mp3",
+      "legacySrc": "sounds/d115.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 115 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국 원주민들은 많은 다른 언어를 가진 많은 다른 문화를 발전시켰다."
+    },
+    {
+      "type": "instruction",
+      "text": "중앙 아메리카의 마야 및 아즈텍 문명같은 몇몇 사회들은 큰 건물이 있는 큰 도시들을 건설했다."
+    },
+    {
+      "type": "instruction",
+      "text": "마야인은 그들이 해, 달, 혹성들, 별들을 연구하는 특별한 건물들을 지었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 문자 체계와 달력을 개발했고 그들은 그 대륙에서 농업을 개발한 첫 번째 사람들이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 미국 남서쪽인 곳에 살았던 Pueblo 인디언은 가파른 절벽의 측면에 거대한 공동주책을 지었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 주택은 진흙으로부터 만든 벽돌로 지어졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "각 집은 여러 층이었고 수백명의 사람들에게 집을 제공했다."
+    },
+    {
+      "type": "instruction",
+      "text": "남서부의 미국 원주민 사회들은 대부분 농업으로 살았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 많은 다른 작물을 키웠고 그들은 또 천도 짰다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 지역의 Navajo와 아파치는 또 훌륭한 사냥꾼들이었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d115-1.htm",
+  "legacyEncoding": "utf-8"
+}

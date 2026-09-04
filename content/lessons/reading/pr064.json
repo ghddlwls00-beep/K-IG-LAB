@@ -1,0 +1,47 @@
+{
+  "id": "pr064",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 064 ]",
+  "menuLabel": "[ pr064 ]",
+  "unit": 64,
+  "part": null,
+  "order": 126,
+  "audio": [
+    {
+      "src": "/audio/reading/pr064.mp3",
+      "legacySrc": "sounds/pr064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 064 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "If you want to keep your job, remember these things. You should not stop every hour for coffee. And you should not leave early too often. An important part of your job may be the war you work with other people. If you are difficult to work with, you may have trouble. Or you may have trouble if you do not make friends with the other people at your job."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr064.htm",
+  "legacyEncoding": "utf-8"
+}

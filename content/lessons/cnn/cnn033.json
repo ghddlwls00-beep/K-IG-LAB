@@ -1,0 +1,343 @@
+{
+  "id": "cnn033",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Who’s Gonna Be a Grammy*Winner?",
+  "label": "Who’s Gonna Be a Grammy*Winner?",
+  "menuLabel": "[ CNN 33 ]",
+  "unit": 33,
+  "part": null,
+  "order": 32,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn033.mp4",
+      "legacySrc": "CNN/CNN1-60/33.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Who’s Gonna Be a Grammy*Winner?"
+    },
+    {
+      "type": "paragraph",
+      "text": "MONITA RAJPAL, CNN Anchor: The nominees for the 48th Annual Grammy Awards have been announced. This year’s selection puts some newcomers against established artists.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHARLES HODSON, CNN Anchor: Well, with Mariah Carey, John Legend and Kanye West??Monita had to coach me on how to pronounce that, Kanye West??topping the nominations, the awards will be handed out on the 8th of February. Brooke Anderson brings us the details.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BROOKE ANDERSON, CNN Correspondent: It’s a three-way race to the Grammys with Mariah Carey, Kanye West and breakout artist John Legend, each receiving eight nominations this morning in New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mariah Carey is definitely “living it up” with her quadruple platinum album, The Emancipation of Mimi. The album is a huge comeback success for Mariah after struggling with emotional exhaustion and a few professional flops.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MARIAH CAREY, Singer: Everybody who has a career with longevity has peaks and valleys and you have to go through them. And it’s all part of, like, the next lesson, you know, that we are here to learn and I’m just blessed to be able to make music.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDERSON: Music that was well received by The Recording Academy with an Album of the Year nomination. And Mariah’s ballad, We Belong Together, is nominated for Record of the Year, but she’ll face some tough competition in those categories from the occasionally controversial Kanye West.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kanye’s digging for Grammy gold. Among his eight nominations, Album of the Year for his sophomore work, Late Registration.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "U2’s How to Dismantle an Atomic Bomb, Paul McCartney’s Chaos and Creation in the Backyard and Gwen Stefani’s Love, Angel, Music, Baby round out the Top Album category.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ordinary no more, R & B performer John Legend’s eight nominations include Best New Artist.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JOHN LEGEND, Singer: It’s just a big reward for what we’ve been working on for the past five, six years, trying to get noticed, trying to get a record deal, and then once you have the record out... to get people to buy it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDERSON: Other multiple nominees include Alicia Keyes, 50 Cents’ top selling The Massacre, and Grammy favorites Bruce Springsteen and Stevie Wonder.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A big morning for music legends and newcomers to the industry, the 48th Annual Grammy Awards will be presented February 8th in Los Angeles. Brooke Anderson, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래미상의 영광은 누구에게로?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모니타 라즈팔, CNN 앵커: 제 48회 그래미상 후보 명단이 발표되었습니다. 올해의 명단에는 기성 스타들에 맞서는 몇몇 신인들이 포함되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "찰스 허드슨, CNN 앵커: 머라이어 캐리를 비롯하여, 존 레전드와 카니에 웨스트… 어떻게 발음하는지는 모니타 씨가 가르쳐줬죠, 카니에 웨스트가 최다 부문 후보로 떠올랐으며, 상은 2월 8일 수여될 예정입니다. 자세한 소식을 브룩 앤더슨 기자가 전해드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브룩 앤더슨, CNN 기자: 이번 그래미상은 머라이어 캐리, 카니에 웨스트, 그리고 최근 급부상한 가수 존 레전드의 3파전으로, 이들 세 사람은 오늘 아침 뉴욕에서 각각 8개 부문에 후보로 지명되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "머라이어 캐리는 400만 장 이상 팔린 앨범 <미미의 해방> 덕분에 기분이 한껏 고취되어 있습니다. 정서적 탈진 상태와 가수로서 몇 차례의 실패를 겪은 후에 머라이어 캐리는 이 앨범으로 화려하게 재기에 성공했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "머라이어 캐리, 가수: 오랫동안 활동해 온 가수라면 누구나 전성기와 침체기가 있습니다. 그 시간들을 잘 헤쳐나가야 합니다. 이런 과정들이 다 우리가 배우고 넘어가야 할 중요한 교훈이죠. 전 제가 음악을 할 수 있다는 사실에 너무나 감사할 따름이에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤더슨: 바로 이 음악이 레코딩 아카데미에 의해 올해의 앨범 상 후보로 선정되었습니다. 게다가 머라이어 캐리의 발라드 곡, “우리는 연인 사이”가 올해의 레코드 상 후보로 지명되었고, 몇 차례 화제를 불러일으켰던 카니에 웨스트와 이 두 부문에서 뜨거운 경합을 벌일 전망입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카니에 웨스트 역시 ‘그래미 황금 트로피를 캐러’나섰습니다. 그가 후보로 오른 8개 부문 중에는 올해의 앨범상도 포함되어 있습니다. 그의 두번째 앨범 <지각 등록>으로 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그룹 유투(U2)의 <원자폭탄 제거법>, 폴 매카트니의 <보이지 않는 혼란과 창조>, 그리고 마지막으로 그웬 스테파니의 <사랑, 천사, 음악, 연인>이 올해의 앨범 상 후보 부문을 장식했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "더 이상 평범하지 않은 알앤비 가수 존 레전드는 8개 부문에 후보로 지명되었고 그 중에는 올해의 신인상도 포함되어 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "존 레전드, 가수: 지난 5~6년간 우리가 해 온 활동들에 대한 보상을 충분히 받고 있을 뿐입니다. 대중의 관심을 얻기 위해, 음반 계약을 따내기 위해, 그리고 일단 음반이 발매된 이후에는 판촉을 위해 노력해왔거든요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤더슨: 그 외에도 알리샤 키스, 높은 판매고를 기록한 피프티 센트의 <대학살>, 그리고 그래미가 좋아하는 브루스 스프링스틴과 스티비 원더 등이 여러 부문에서 후보로 올랐습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "기존의 유명 가수들과 음악계에 새롭게 뛰어든 신인 가수들 모두에게 뜻깊은 자리가 될 제 48회 그래미상 시상식은 로스앤젤레스에서 2월 8일 거행될 예정입니다. 뉴욕에서 CNN, 브룩 앤더슨이였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. nomination/ (…로) 지명, 후보",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. three-way/ 세 방향의, 삼종의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) peak/ 봉우리 (2) valley/ 골짜기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. dig for/ …을 찾아 땅을 파다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. massacre/ 대학살",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* (Annual) Grammy (Awards)",
+          "text": "그래미상: 1957년 설립된 전미 레코딩 예술과학 아카데미(National Academy of Recording Arts and Science)가 주최하는 대중음악상"
+        },
+        {
+          "n": "1) nominee",
+          "text": "지명자, (상 따위의) 수상 후보작품[후보자]"
+        },
+        {
+          "n": "2) newcomer",
+          "text": "(…분야의) 신참자, 초심자"
+        },
+        {
+          "n": "3) established",
+          "text": "(명성 따위를) 확립한"
+        },
+        {
+          "n": "4) Mariah Carey",
+          "text": "머라이어 캐리: 1970년 미국 뉴욕에서 태어난 미국의 팝, R&B 가수 겸 작곡가, 프로듀서 및 여배우로 1990년에 데뷔, <빌보드> 지가 평가한 90년대 가장 성공한 가수로 손꼽힌다."
+        },
+        {
+          "n": "5) John Legend",
+          "text": "존 레전드: 본명은 존 스티븐스로 흑인 소울 신인 가수다. 2004년 말 앨범 <들어올려줘(Get Lifted)>가 빌보드 앨범차트 4위를 기록하며 화려하게 데뷔했다."
+        },
+        {
+          "n": "6) Kanye West",
+          "text": "카니에 웨스트: 시카고 출신의 천재 프로듀서 겸 랩퍼로 2004년 그래미상 남자 신인상을 수상했다."
+        },
+        {
+          "n": "7) top",
+          "text": "…의 수위를 차지하다, …에 오르다"
+        },
+        {
+          "n": "8) hand out",
+          "text": "나누어 주다, 분배하다"
+        },
+        {
+          "n": "9) three-way race",
+          "text": "삼파전"
+        },
+        {
+          "n": "10) breakout",
+          "text": "(음악 따위가) 히트한, 뜻밖의 성공을 거둔"
+        },
+        {
+          "n": "11) live it up",
+          "text": "((구어)) 즐겁게 놀며 지내다, 축하하다: 머라이어 캐리의 새 앨범 <미미의 해방>의 타이틀 곡 It’s Like That의 후렴구에 나오는 표현"
+        },
+        {
+          "n": "12) quadruple",
+          "text": "4배의"
+        },
+        {
+          "n": "13) platinum album",
+          "text": "100만장 이상 팔린 히트앨범"
+        },
+        {
+          "n": "14) emancipation",
+          "text": "해방, 자유"
+        },
+        {
+          "n": "15) emotional exhaustion",
+          "text": "감정의 소진상태"
+        },
+        {
+          "n": "16) flop",
+          "text": "((구어)) 실패"
+        },
+        {
+          "n": "17) longevity",
+          "text": "장수(長壽), 장명"
+        },
+        {
+          "n": "18) peaks and valleys",
+          "text": "부침(浮沈), 성쇠: 좋은 시기도 있고 나쁜 시기도 있다는 의미"
+        },
+        {
+          "n": "19) go through",
+          "text": "(고생 따위를) 겪다, 경험하다"
+        },
+        {
+          "n": "20) blessed",
+          "text": "신의 은총을 입은, 신성한; 행복한"
+        },
+        {
+          "n": "21) The Recording Academy",
+          "text": "레코딩 아카데미: 1957년에 설립된 가수, 프로듀서, 엔지니어, 녹음 전문가가 중심이 되어 만든 기구로 레코딩 아카데미 회원들이 그래미상 심사위원으로 활동한다."
+        },
+        {
+          "n": "22) We Belong Together",
+          "text": "머라이어 캐리의 컴백 앨범 <미미의 해방(The Emancipation of Mimi)>에 수록된 곡. 머라이어 캐리의 16번째 빌보드 차트 1위 싱글 히트곡"
+        },
+        {
+          "n": "23) controversial",
+          "text": "논란이 되는, 논쟁의 대상이 되는: 최근 카니에 웨스트는 부시 대통령이 흑인들을 고려하지 않는다고 비판하여 화제를 불러일으켰다."
+        },
+        {
+          "n": "24) Kanye’s digging for Grammy gold.",
+          "text": "카니에 웨스트 역시‘그래미 황금 트로피를 캐러’나섰습니다. 올해의 앨범 상 후보로 오른 카니에의 Gold Digger의 제목을 염두에 두고 한 표현"
+        },
+        {
+          "n": "25) sophomore work",
+          "text": "두 번째 앨범"
+        },
+        {
+          "n": "26) U2",
+          "text": "유투: 1979년 첫 싱글을 발표한 이후 꾸준히 인기를 얻고 있는 아일랜드 출신 인기 록밴드"
+        },
+        {
+          "n": "27) dismantle",
+          "text": "해체하다, 제거하다"
+        },
+        {
+          "n": "28) atomic bomb",
+          "text": "원자폭탄"
+        },
+        {
+          "n": "29) Paul McCartney",
+          "text": "폴 매카트니: 1942년 생으로 비틀즈의 베이시스트로 활동했다. 비틀즈 해체 이후 멤버 중 가장 활발하게 활동하고 있다."
+        },
+        {
+          "n": "30) Gwen Stefani",
+          "text": "그웬 스테파니: 1969년 캘리포니아 출생으로 미국의 4인조 밴드 No Doubt의 싱어로 활동했으며 1996년 발표한 3집 앨범 <비극의 왕국(Tragic Kingdom)>의 히트로 세계적 인기를 얻었다."
+        },
+        {
+          "n": "31) round out",
+          "text": "…의 마지막을 장식하다"
+        },
+        {
+          "n": "32) Ordinary no more",
+          "text": "더 이상 평범하지 않은: 존 레전드의 앨범 <들어올려줘(Get Lifted)>의 삽입곡 Ordinary People을 염두에 두고 사용한 표현"
+        },
+        {
+          "n": "33) R&B",
+          "text": "알앤비(rhythm-and-blues): 제2차 세계대전 이후 미국 흑인들의 대중음악 가운데 몇몇 유형이나 그것으로부터 유래한 몇몇 백인 록음악"
+        },
+        {
+          "n": "34) Alicia Keyes",
+          "text": "알리샤 키스: 1981년생. 미국 맨해튼 출신의R&B 가수로 2001년 앨범 <소수자의 노래(Songs in a Minor)>로 데뷔하여 2001년 그래미 5개(최우수신인상 포함) 부문을 석권하며 일약 스타로 발돋움했다."
+        },
+        {
+          "n": "35) 50 Cent",
+          "text": "피프티 센트: 에미넴의 관심을 끌며 2002년 <부자가 되거나 노력만하다 죽거나(Get Rich or Die Trying)> 앨범으로 데뷔한 후 최고의 힙합 스타로 인기를 누리고 있는 뉴욕 퀸즈 출신의 흑인 래퍼. 본명은 커티스 잭슨(Curtis Jackson)이다."
+        },
+        {
+          "n": "36) The Massacre",
+          "text": "<대학살>: 피프티 센트가 2005년에 내놓은 새 앨범으로 엄청난 히트를 거두어 그래미상 여러 부문 후보에 올랐다."
+        },
+        {
+          "n": "37) Bruce Springsteen",
+          "text": "브루스 스프링스틴: 1949년생으로 Born in the U.S.A.라는 노래로 유명한 록가수"
+        },
+        {
+          "n": "38) Stevie Wonder",
+          "text": "스티비 원더: 시각장애에도 불구하고‘살아있는 팝의 전설’이라 불릴 정도로 큰 명성을 떨쳐온 흑인 가수"
+        },
+        {
+          "n": "39) legend",
+          "text": "매우 유명한 사람, 전설적인 인물"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/33.wmv",
+  "legacyEncoding": "binary"
+}

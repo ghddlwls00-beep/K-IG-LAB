@@ -1,0 +1,88 @@
+{
+  "id": "hv-55",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-55 ]",
+  "unit": 55,
+  "part": null,
+  "order": 174,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-55.mp3",
+      "legacySrc": "sounds/hv-55.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "approval",
+          "proper",
+          "property",
+          "appropriate",
+          "punctuate",
+          "punctuation"
+        ],
+        [
+          "punctual",
+          "disappoint",
+          "disappointment",
+          "dispute",
+          "repute",
+          "acquire"
+        ],
+        [
+          "requirement",
+          "require",
+          "reputation",
+          "range",
+          "exquisite",
+          "request"
+        ],
+        [
+          "conquest",
+          "conqueror",
+          "conquer",
+          "inquiry",
+          "inquire",
+          "reason"
+        ],
+        [
+          "rational",
+          "rate",
+          "rank",
+          "arrangement",
+          "arrange",
+          "acquisition"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-55 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-55.htm",
+  "legacyEncoding": "utf-8"
+}

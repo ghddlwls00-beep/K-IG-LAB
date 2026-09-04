@@ -1,0 +1,393 @@
+{
+  "id": "s16-1",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s16-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 1,
+  "order": 68,
+  "audio": [
+    {
+      "src": "/audio/student/s16-1-1.mp3",
+      "legacySrc": "s16-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-2.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-3.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-4.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-5.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-6.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-7.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-8.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-9.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-10.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-11.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-12.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-13.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-14.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-15.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-16.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-17.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-18.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-19.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-20.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-21.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-22.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s16-1-23.mp3",
+      "legacySrc": "s16-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A few years ago, Queen Elizabeth II came to Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "She had an interpreter with her who was very professional.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her ability to interpret so well had a great affect on me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "These people have influenced me a lot in one way or another.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have seen on TV and read about many successful people such as Bill Gates, (name) and (name).",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It has impressed me enough to want to become an interpreter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 빌 게이츠, 아인슈타인, 과 같은 많은 성공한 사람들에 대해서 T.V에서 보아왔고, 읽어왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이런 사람들은 이런 저런 방법으로 나에게 많은 영향을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "몇 년 전, 엘리자베스 이세 여왕이 한국을 방문했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀는 통역사와 함께 있었고 그녀는 매우 전문적이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 멋진 통역하는 능력은 나에게 깊은 인상을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 나에게 통역사가 되고 싶어 하는 것에 충분히 감명을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 TV를 통해서 보아왔고 읽어왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 TV를 통해서 보아왔고 읽어왔습니다.I have seen on TV and read",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 성공적인 사람들에 대해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 많은 성공적인 사람들에 대해 about many successful people",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 빌 게이츠 같은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 빌 게이츠 같은 such as Bill Gates, (name) and (name).",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 사람들은 나에게 많이 영향을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이러한 사람들은 나에게 많이 영향을 주었습니다.These people have influenced me a lot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 이런 저런 방법으로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 이런 저런 방법으로 in one way or another.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "몇 년 전에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "몇 년 전에A few years ago,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 엘리자베스 2세 여왕이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 엘리자베스 2세 여왕이 Queen Elizabeth II",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에 왔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국에 왔습니다. came to Korea.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀에게는 통역사가 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀에게는 통역사가 있었습니다.She had an interpreter",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그녀에게 with her",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 전문적인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 전문적인 who was very professional.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 멋진 통역하는 능력은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그녀의 멋진 통역하는 능력은Her ability to interpret so well",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게 깊은 인상을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나에게 깊은 인상을 주었습니다. had a great affect on me.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 나에게 감명을 주었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것은 나에게 감명을 주었습니다.It has impressed me",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 원할 만큼 충분히",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 원할 만큼 충분히 enough to want",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 통역사가 되기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 통역사가 되기를 to become an interpreter.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Other Dream Job",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s16-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s16-1.swf"
+  ]
+}

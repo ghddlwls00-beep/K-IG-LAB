@@ -1,0 +1,236 @@
+{
+  "id": "cnn090",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Celebrity* Watching",
+  "label": "Celebrity* Watching",
+  "menuLabel": "[ CNN 90 ]",
+  "unit": 90,
+  "part": null,
+  "order": 89,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn090.mp4",
+      "legacySrc": "CNN/CNN61-120/90.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Celebrity* Watching"
+    },
+    {
+      "type": "paragraph",
+      "text": "BROOKE ANDERSON, CNN Entertainment Correspondent: This latest innovation1) in celebrity watching is supposed to be fun. But already there are concerns that it threatens the privacy and possibly the safety of celebrities across the nation. Here’s how it works. If you’re out and about and see, say, George Clooney at Starbucks, e-mail his location to Gawker.com and immediately it’s posted online, even with a map. Within hours after Gawker Stalker launched earlier this week, the famous and those who represent them cried foul, worried it gives dangerous stalkers, dangerous information.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gawker.com maintains that the celebrity’s information is already out there and they’re not to blame. Tell that to actress Jane Seymour. There she is, posted on Gawker Stalker Tuesday after being spotted at the Museum of Modern Art in New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JANE SEYMOUR, Actress: Very, very, very creepy. I mean, I was at MOMA, yes. I went there. I went to see the Munch’s. But that’s scary. That's very scary. And I’ve had death threats, you know, a long time ago. But, it’s..this is not a small thing. You know, this, this..there are crazies out there. And crazy stuff does happen.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDERSON: What if something bad did happen? Many are concerned that Gawker.com could give stalkers the information they need in real time to go after celebrities. If that happened, could Gawker be responsible?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SHERWIN SIY, Electronic Privacy Information Center: It doesn’t seem like it. First of all, they’re reporting truthful information, so there’s no, no defamation case there. And what they’re reporting isn’t an incitement to violence. They’re basically doing what tabloids have done for centuries.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDERSON: Except that, now everyone can be a paparazzi. Real people have just joined the race for the latest celebrity scoop. Brooke Anderson, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "연예인 스토킹",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브룩 앤더슨, CNN 연예부 기자: 이 획기적인 최신 연예인 감시 프로그램은 순전히 재미를 위한 것입니다. 하지만 벌써부터 이 기술이 미 전역 연예인들의 사생활을 침해하고 심지어 안전까지도 위협할 수 있다는 우려가 제기되고 있습니다. 이것이 어떤 식으로 작동되는지 한번 보시죠. 여러분이 외출을 했다가 스타벅스에서 가령 조지 클루니를 보고는 고커닷컴에 이메일로 그의 위치를 알려주면 그 즉시 그 정보가 웹에 게시됩니다. 심지어 지도도 함께 말이죠. 이번 주 초 ‘고커 스토커’가 개설된 지 몇 시간 만에 유명인들과 그 대변인들은 항의를 하며 이 서비스가 위험한 스토커들에게 위험한 정보를 제공할 수도 있다고 우려했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고커닷컴 측은 유명인들의 정보는 이미 다 노출되어 있어 자신들이 책임져야 할 문제는 아니라고 주장합니다. 그 말을 여배우 제인 세이무어 씨에게 한번 해보시죠. 그녀는 지난 화요일 뉴욕의 현대미술관에서 포착된 직후 고커 스토커 웹사이트에 올랐습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제인 세이무어, 여배우: 정말이지… 정말 정말 오싹해요. 전 현대미술관에 있었습니다. 맞아요. 거기에 갔었어요. 뭉크의 작품들을 구경하러 갔었죠. 하지만 그런 게 겁이 납니다. 아주 무서워요. 전 아주 오래 전에 살해 위협까지 받아 봤어요. 하지만 이건 결코 사소한 일이 아니에요. 바깥 세상에는 정신 이상자들도 있고 말도 안 되는 일들도 벌어지니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤더슨: 정말 안 좋은 일이 벌어지면 어쩌죠? 많은 사람들이 고커닷컴이 유명인을 쫓는 데 필요한 실시간 정보를 스토커들에게 제공할 수 있다고 우려하고 있습니다. 만일 그런 일이 벌어진다면 고커 측이 책임을 져야 하는 걸까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "셔린 시이, 전자 프라이버시 정보 센터: 그렇진 않을 겁니다. 우선, 고커 측은 정확한 정보를 제공하고 있으니까, 이걸 명예 훼손 사례로 볼 수도 없죠. 그렇다고 그들이 제공하는 정보가 폭력을 조장하는 것도 아니고요. 그들은 그저 타블로이드 신문들이 지난 수세기 동안 해 오던 일을 하고 있는 것뿐입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤더슨: 이럴 우려만 없다면 이제 누구나 다 파파라치가 될 수 있습니다. 일반인들도 이제 최신 연예인 특종 잡기 경쟁에 뛰어든 셈입니다. 뉴욕에서CNN, 브룩 앤더슨이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. stalker/ 스토커, 집요하게 남을 따라다니는 사람",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. take the blame for/ …에 대한 책임을 지다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* celebrity",
+          "text": "유명인사, 연예인"
+        },
+        {
+          "n": "1) innovation",
+          "text": "혁신, 쇄신, 기술 혁신; 신제도"
+        },
+        {
+          "n": "2) be supposed to",
+          "text": "…하기로 되어 있다"
+        },
+        {
+          "n": "3) there are concerns that",
+          "text": "…에 대한 우려가 있다"
+        },
+        {
+          "n": "4) threaten",
+          "text": "위협하다, 협박하다"
+        },
+        {
+          "n": "5) work",
+          "text": "(기계 따위가) 움직이다, 작동하다"
+        },
+        {
+          "n": "6) be out and about",
+          "text": "(사람이) 나다니다; (병후에) 원기가 회복되다; 일을 할 수 있게 되다"
+        },
+        {
+          "n": "7) be posted online",
+          "text": "웹상에 게재되다"
+        },
+        {
+          "n": "8) Gawker Stalker",
+          "text": "고커 스토커 서비스: 고커닷컴(Gawker.com)이라는 웹사이트에서 구글맵을 활용해서 지도상에 연예인들의 위치를 실시간으로 알려주는 서비스"
+        },
+        {
+          "n": "9) launch",
+          "text": "개시하다"
+        },
+        {
+          "n": "10) represent",
+          "text": "…의 대리를 하다; 대표하다"
+        },
+        {
+          "n": "11) cry foul [faul]",
+          "text": "항의하다, 상대를 비난하다"
+        },
+        {
+          "n": "12) maintain",
+          "text": "주장하다"
+        },
+        {
+          "n": "13) be to blame",
+          "text": "(…에 대하여) 책임이 있다, …이 나쁘다"
+        },
+        {
+          "n": "14) Jane Seymour",
+          "text": "제인 세이무어(1951~): 1973년 <007 죽느냐 사느냐>의 본드 걸로 출연했고 TV 시리즈 <닥터 퀸>의 여주인공으로 잘 알려져 있는 미국 여배우"
+        },
+        {
+          "n": "15) spot",
+          "text": "((구어)) 찾아내다, 발견하다, (소재를) 밝혀내다"
+        },
+        {
+          "n": "16) Museum of Modern Art",
+          "text": "(뉴욕) 현대미술관 (MOMA)"
+        },
+        {
+          "n": "17) creepy",
+          "text": "((구어)) 오싹한, 소름끼치게 하는, 기분이 나쁜"
+        },
+        {
+          "n": "18) (Edvard) Munch",
+          "text": "(에드바르트) 뭉크(1863~1944): 노르웨이의 화가"
+        },
+        {
+          "n": "19) scary",
+          "text": "무서운, 무시무시한, 겁나는"
+        },
+        {
+          "n": "20) death threat",
+          "text": "살해 위협, 죽이겠다는 협박"
+        },
+        {
+          "n": "21) crazy",
+          "text": "((미속어)) 정신병 환자; 과격한 사람"
+        },
+        {
+          "n": "22) in real time",
+          "text": "실시간으로"
+        },
+        {
+          "n": "23) go after",
+          "text": "(여자 등의) 꽁무니를 쫓아다니다; (범인 따위를) 추적하다"
+        },
+        {
+          "n": "24) responsible",
+          "text": "책임이 있는, 책임을 져야 할"
+        },
+        {
+          "n": "25) Electronic Privacy Information Center",
+          "text": "전자 프라이버시 정보 센터(EPIC): 시민의 자유와 사생활 보호에 중점을 둔 미국의 민권단체"
+        },
+        {
+          "n": "26) truthful",
+          "text": "정확한, 참된"
+        },
+        {
+          "n": "27) defamation",
+          "text": "{법률}명예 훼손; 중상, 비방"
+        },
+        {
+          "n": "28) incitement to",
+          "text": "…에 대한 자극물, 유인"
+        },
+        {
+          "n": "29) except",
+          "text": "…이외에는, …을 제외하고는"
+        },
+        {
+          "n": "30) paparazzi",
+          "text": "파파라치: paparazzo(파파라초: 유명인을 뒤쫓는 자유 계약 사진가)의 복수형"
+        },
+        {
+          "n": "31) scoop",
+          "text": "(신문,잡지,방송의) 특종, 스쿠프"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/90.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "aw12",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 12 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": null,
+  "order": 116,
+  "audio": [
+    {
+      "src": "/audio/adults/aw12.mp3",
+      "legacySrc": "sounds/aw12.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 12 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle12 : Marriage and My House Life"
+    },
+    {
+      "type": "hints",
+      "text": "(How I met my husband)"
+    },
+    {
+      "type": "instruction",
+      "text": "My husband and I dated for five years before we got married."
+    },
+    {
+      "type": "instruction",
+      "text": "Our wedding was beautiful all of my friends came and sang a song."
+    },
+    {
+      "type": "instruction",
+      "text": "I will always remember that day with happiness."
+    },
+    {
+      "type": "instruction",
+      "text": "Our personalities, hobbies and tastes are similar."
+    },
+    {
+      "type": "instruction",
+      "text": "After we got married we enjoyed spending time and doing things together."
+    },
+    {
+      "type": "instruction",
+      "text": "(My children)"
+    },
+    {
+      "type": "instruction",
+      "text": "I have two daughters and their personalities are very different."
+    },
+    {
+      "type": "instruction",
+      "text": "The oldest daughter has an introspective personality and is very shy."
+    },
+    {
+      "type": "instruction",
+      "text": "The youngest daughter is the opposite, she is very outgoing and likes all kinds of sports."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though they are very different they play well together."
+    },
+    {
+      "type": "instruction",
+      "text": "(My family life)"
+    },
+    {
+      "type": "instruction",
+      "text": "I think our family is very happy."
+    },
+    {
+      "type": "instruction",
+      "text": "We all take responsibility for our role in the family."
+    },
+    {
+      "type": "instruction",
+      "text": "We always help each other. Every year once or twice we travel together."
+    },
+    {
+      "type": "instruction",
+      "text": "My husband works very hard to provide for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My children study hard and I always take care of them."
+    },
+    {
+      "type": "instruction",
+      "text": "I study everyday to prepare for my future."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw12.htm",
+  "legacyEncoding": "utf-8"
+}

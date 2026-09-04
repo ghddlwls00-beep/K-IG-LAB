@@ -1,0 +1,47 @@
+{
+  "id": "pr089",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 089 ]",
+  "menuLabel": "[ pr089 ]",
+  "unit": 89,
+  "part": null,
+  "order": 176,
+  "audio": [
+    {
+      "src": "/audio/reading/pr089.mp3",
+      "legacySrc": "sounds/pr089.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 089 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Competition implies a set of rules that govern the conduct of the opposed parties. In all cases, tricks and physical threats are prohibited. For instance, when two soccer teams play against one another, each team tries to score more points than the other. But points can be scored only in a limited number of right ways, and the game is governed by a set of rules."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr089.htm",
+  "legacyEncoding": "utf-8"
+}

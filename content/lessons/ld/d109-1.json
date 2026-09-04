@@ -1,0 +1,71 @@
+{
+  "id": "d109-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d109",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 109 회 ]",
+  "menuLabel": "[ D 109-1 ]",
+  "unit": 109,
+  "part": null,
+  "order": 217,
+  "audio": [
+    {
+      "src": "/audio/ld/d109.mp3",
+      "legacySrc": "sounds/d109.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 109 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin은 또 발명가이자 과학자였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 전기로 많은 실험을 했고 그는 벼락이 전기의 한 형태라는 것을 발견했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 가정과 건물들을 전기폭풍으로부터 보호하기 위한 피뢰침을 개발했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 Franklin 난로를 발명했는데 그것은 또 다른 중요한 발견이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 다른 난로들보다 더 많은 열을 생산했지만 훨씬 더 적은 연료를 사용했다."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin은 또 농사와 건강 보호를 개선하기 위한 방법들도 발견했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d109-1.htm",
+  "legacyEncoding": "utf-8"
+}

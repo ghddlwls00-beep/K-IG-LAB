@@ -1,0 +1,79 @@
+{
+  "id": "p013-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p013",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 013-1 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 7,
+  "audio": [
+    {
+      "src": "/audio/middle/p013.mp3",
+      "legacySrc": "sounds/p013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 013-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(성격)"
+    },
+    {
+      "type": "instruction",
+      "text": "외향적 사람"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매우 외향적인 사람이지만"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 또한 새로운 사람들 주위에서는 약간 부끄러움을 탑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 친구들이 많습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 친구들 주위에 있기를 좋아하고"
+    },
+    {
+      "type": "instruction",
+      "text": "그들도 제 주위에 있기를 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 아주 행복한 사람입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 사람들이 저를 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p013-1.htm",
+  "legacyEncoding": "utf-8"
+}

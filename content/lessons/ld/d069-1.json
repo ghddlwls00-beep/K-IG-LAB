@@ -1,0 +1,79 @@
+{
+  "id": "d069-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d069",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 069회 ]",
+  "menuLabel": "[ D 069-1 ]",
+  "unit": 69,
+  "part": null,
+  "order": 137,
+  "audio": [
+    {
+      "src": "/audio/ld/d069.mp3",
+      "legacySrc": "sounds/d069.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 069회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그 열차는 3시 20분에 도착했다. 놀랍게도 아버지는 내 차를 보았을 때 화내지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그에게 아직 매우 좋은 운전자가 아니라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 나에게 어떻게 운전하는지 보여주면 단지 너무 기쁠 것이라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 나를 정말 놀라게 했다. 내가 아는 한 나의 아버지는 전에 차를 결코 운전해본 적이 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 집에 도착할 무렵에는 나는 마을로 걸어갔으면 좋았을 걸하고 소원했다."
+    },
+    {
+      "type": "instruction",
+      "text": "아버지도 그랬을 것으로 확신한다. 집으로의 그 승차는 믿을 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "아버지가 한번이라도 운전한 것은 여러 해가 지나고 나서였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 주제가 언급될 때마다 그는 “자동차는 결코 말을 대신하지 않을거야”라고 대답하곤 했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d069-1.htm",
+  "legacyEncoding": "utf-8"
+}

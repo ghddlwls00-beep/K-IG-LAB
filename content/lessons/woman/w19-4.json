@@ -1,0 +1,168 @@
+{
+  "id": "w19-4",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w19-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 4,
+  "order": 78,
+  "audio": [
+    {
+      "src": "/audio/woman/w19-4-1.mp3",
+      "legacySrc": "w19-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-2.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-3.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-4.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-5.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-6.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-7.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w19-4-8.mp3",
+      "legacySrc": "w19-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "19 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional Korean Language: Hangul",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "마지막으로, 한국어는 다른 세계 언어와 다릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, the Korean language is not like any other world language.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "15세기 중엽까지는 한국은 자체 문자를 가지고 있지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Up until the middle of the 15th century, Korea didn't have its own alphabet.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "대신에 중국한자가 글을 쓰는데 사용되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, they Chinese characters were used in order to write.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들은 읽거나 쓸 수가 없었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most people couldn't read or write.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "읽을 수 있었던 유일한 사람들은 학자들이나 귀족이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The only people who could read were the scholars or the nobility.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "결국 1420년에 당시 왕이었던 세종대왕이 그의 충신들에게 독창적인 한국 문자를 만들도록 요청했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, in 1420, the current King at that time, Se-jong, asked his royal scholars to create a unique Korean alphabet.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "곧 한글로 알려진 글을 쓰는 체계가 창조되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soon a writing system known as hangul was created.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w19-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w19-4.swf"
+  ]
+}

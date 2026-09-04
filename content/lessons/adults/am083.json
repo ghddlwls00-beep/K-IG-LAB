@@ -1,0 +1,59 @@
+{
+  "id": "am083",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 083 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 3,
+  "order": 86,
+  "audio": [
+    {
+      "src": "/audio/adults/am083.mp3",
+      "legacySrc": "sounds/am083.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 083 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Meeting My Friends"
+    },
+    {
+      "type": "hints",
+      "text": "When I meet with my high school friends once a month, we talk about the good times that we had when we were young or go to the singing room."
+    },
+    {
+      "type": "instruction",
+      "text": "We surprise each other sometimes when we realize we are all getting older."
+    },
+    {
+      "type": "instruction",
+      "text": "During these meetings, we also discuss the plan of saving money for our trip abroad together ten years later."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am083.htm",
+  "legacyEncoding": "utf-8"
+}

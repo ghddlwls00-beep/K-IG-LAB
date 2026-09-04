@@ -1,0 +1,78 @@
+{
+  "id": "w1-5",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w1-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 5,
+  "order": 5,
+  "audio": [
+    {
+      "src": "/audio/woman/w1-5-1.mp3",
+      "legacySrc": "w1-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w1-5-2.mp3",
+      "legacySrc": "w1-5.swf#event",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Introducing Myself :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Hobbies",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 취미들은 독서하기, 음악듣기, 하이킹, 영화보기, 그리고 스포츠를 하는 것 보는 것을 좋아합니다. 그러나 나는 특별히 하이킹을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My hobbies include reading books, listening to music, hiking, watching movies and playing and watching sports, but I especially like hiking.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w1-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w1-5.swf"
+  ]
+}

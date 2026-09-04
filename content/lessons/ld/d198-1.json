@@ -1,0 +1,87 @@
+{
+  "id": "d198-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d198",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 198 회 ]",
+  "menuLabel": "[ D 198-1 ]",
+  "unit": 198,
+  "part": null,
+  "order": 394,
+  "audio": [
+    {
+      "src": "/audio/ld/d198.mp3",
+      "legacySrc": "sounds/d198.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 198 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "고양이는 굉장히 호기심이 많다는 것이 종종 지적된다."
+    },
+    {
+      "type": "instruction",
+      "text": "고양이는 호기심을 충족시키려는 시도에서 집의 모든 구석과 틈에 코를 들이댄다."
+    },
+    {
+      "type": "instruction",
+      "text": "때로는 그의 호기심이 그를 곤경에 빠트린다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 고양이는 안에 무엇이 있는지 알아내기 위하여 땅 속의 구멍으로 그의 머리를 쑤셔넣었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 결코 잊지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "스컹크가 그 안에 살고 있었고 그 불쌍한 고양이에게"
+    },
+    {
+      "type": "instruction",
+      "text": "그의 흉악한 냄새가 나는 향수를 듬뿍 뿌려주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 악취가 사라지는데 약 한달이 걸렸다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 시간 동안 그 고양이는 집 근처에 허용되지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 호기심 때문에 진짜 사회적인 추방객이 되었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d198-1.htm",
+  "legacyEncoding": "utf-8"
+}

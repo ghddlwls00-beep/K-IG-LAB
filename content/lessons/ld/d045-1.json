@@ -1,0 +1,83 @@
+{
+  "id": "d045-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d045",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 045 회 ]",
+  "menuLabel": "[ D 045-1 ]",
+  "unit": 45,
+  "part": null,
+  "order": 89,
+  "audio": [
+    {
+      "src": "/audio/ld/d045.mp3",
+      "legacySrc": "sounds/d045.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 045 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "존은 자신의 독일어 시험에 대하여 염려한다. 그는 모든 수업에 참석하지는 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 그는 수업을 빼먹었다. 그러나 그는 다른 어떤 것에 대해서도 염려하지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "빌은 언제나 모든 수업에 참석하려고 애쓴다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 좋은 학생이지만 자신의 영어 시험에 대하여 염려한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 영어 교사는 Charles M. Mcarthy 교수이다. M은 그의 가운데 이름인 Mark를 대표한다."
+    },
+    {
+      "type": "instruction",
+      "text": "Mcarthy 교수는 어려운 시험을 낼 것이라고 말했다. 영어는 필수 과목이다. 독일어는 필수가 아니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 선택과목이다. 빌은 일주일에 세 번 영어 수업이 있다. 그는 영어에 대하여 3학점을 받을 것이 다."
+    },
+    {
+      "type": "instruction",
+      "text": "존은 두 독일어 수업이 있다. 그는 독일어 과정에서 2학점을 받을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "물론 그들은 최종 시험을 통과해야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d045-1.htm",
+  "legacyEncoding": "utf-8"
+}

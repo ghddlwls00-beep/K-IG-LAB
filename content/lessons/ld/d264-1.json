@@ -1,0 +1,75 @@
+{
+  "id": "d264-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d264",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 264 회 ]",
+  "menuLabel": "[ D 264-1 ]",
+  "unit": 264,
+  "part": null,
+  "order": 525,
+  "audio": [
+    {
+      "src": "/audio/ld/d264.mp3",
+      "legacySrc": "sounds/d264.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 264 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "실제 성탄절 날이 도착하기 오래 전에 모든 사람이 그 큰 잔치를 위한 준비들로 바쁘다."
+    },
+    {
+      "type": "instruction",
+      "text": "보낼 카드도 있고 구매할 선물들도 있고 계획할 메뉴도 있고 또 준비해야 할 수많은 것들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 작은 어린이들조차도 그들의 어머니와 아버지를 위한"
+    },
+    {
+      "type": "instruction",
+      "text": "성탄절 선물을 살 충분한 돈을 벌려고 노력한다."
+    },
+    {
+      "type": "instruction",
+      "text": "만약 그들이 스스로 해낼 수 없다면 보통 그들의 형들과 누나들이 그들에게 약간의 도움을 줄 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 당연히 그 어린이들은 그들이 스스로 번 선물을 줌으로써"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 헌신을 보여주기를 더 원한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d264-1.htm",
+  "legacyEncoding": "utf-8"
+}

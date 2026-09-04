@@ -1,0 +1,385 @@
+{
+  "id": "cnn057",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Censoring*Google",
+  "label": "Censoring*Google",
+  "menuLabel": "[ CNN 57 ]",
+  "unit": 57,
+  "part": null,
+  "order": 56,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn057.mp4",
+      "legacySrc": "CNN/CNN1-60/57.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Censoring*Google"
+    },
+    {
+      "type": "paragraph",
+      "text": "JENNIFER WESTHOVEN, CNN Anchor: Well, search giant Google has come under fire for caving in to pressure from Beijing. CNN’s Mike Chinoy explains why China’s Google site is being censored.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MIKE CHINOY, CNN Correspondent: The Internet is booming in China. Over 100 million users, a huge market for the world’s Internet giants. But China’s communist rulers are determined to control what’s on the Internet. And now Google is bowing to Chinese censorship regulations.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s launching a China-based search engine that will block information not approved by the Chinese authorities. In a statement, Google said “In order to operate from China, we have removed some content from the search results available in google.cn in response to local law.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DUNCAN CLARK, China Internet Analyst: Google has to comply with the restrictions here and to be in this market. It’s already the second largest Internet population base. Companies cannot ignore the commercial instincts.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHINOY: Even before Google’s move, Beijing had constructed what’s been dubbed the “Great Firewall of China” to keep sensitive information out.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "So this is how it works. On this computer, I’ve brought up google.com and I’m going to put in the name of one of the organizations that the Chinese government hates the most, the Falun Gong spiritual group. There are 4, 390,000 entries, the first one is Falun Gong’s own home page. There’s another, that’s about Falun Gong’s leader, further down others that are supportive of Falun Gong, one from religioustolerance.org.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I’m going to put the same name in at the new google.cn Web site that’s designed just for China. And we’ll see what we get. This time there are 11,000 entries but of a very, very different character.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first one “Falun Gong practitioners jailed for libeling the government.” Another “Outlawing Falun Gong Cult.” Another “Falun Gong’s antihumanity, anti-science, anti-society nature.” All parroting the Chinese government’s line, a dramatic example of how an American company is helping the Chinese authorities control the message that goes out to their people.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "And it’s hardly the only example. Last December, Microsoft shut down the Web site of a dissident Chinese blogger. A few months earlier, Yahoo gave Beijing the name of a dissident Chinese journalist. He got ten years in jail for his Web postings. Ironically, Google’s Chinese kowtow comes as the company is resisting efforts by the U.S. government for access to its records. If they took the same attitude in Beijing, they’d probably be out of the China market as fast as the click of a mouse. Mike Chinoy, CNN, Hong Kong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "구글, 검열에 굴복하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제니퍼 웨스토벤, CNN 앵커: 거대 검색엔진 구글이 중국 정부의 압력에 굴복했다고 해서 비난의 화살을 받고 있습니다. 중국 구글 사이트가 검열 당하고 있는 이유에 대해 CNN의 마이크 치노이 기자가 보도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마이크 치노이, CNN 기자: 지금 중국에서는 인터넷 열풍이 불고 있습니다. 1억 명이 넘는 인터넷 사용자라면 세계의 거대 인터넷 기업들에게는 실로 방대한 시장입니다. 하지만 중국의 공산당 지도부는 인터넷 정보를 통제하기로 결심했습니다. 이에 따라 구글 사는 현재 중국의 검열 규정에 굴복했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구글은 중국 정부가 승인하지 않는 정보를 차단하는 중국용 검색엔진을 곧 개설할 것입니다. 한 성명서를 통해 구글은 “중국에서 (사이트를) 운영하기 위해 우리는 google.cn에서 찾을 수 있는 검색 결과 중 일부 내용을 중국 법에 따라 삭제했다.”라고 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "덩컨 클라크, 중국 인터넷 분석가: 구글은 이곳 국내 규정에 따라야지만 이 시장에 들어올 수 있습니다. 중국은 이미 세계에서 두 번째로 많은 인터넷 사용 인구를 보유하고 있습니다. 기업으로서는 이윤 추구 본능을 결코 무시할 순 없죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "치노이: 구글의 이런 조치가 있기 전, 중국 정부는 이미 민감한 정보를 차단할 수 있도록 소위 ‘중국 만리방화벽’을 구축해 놓았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이것이 어떤 식으로 작동되는지 한 번 보시죠. 이 컴퓨터에서 google.com 창을 띄우고, 중국 정부가 가장 싫어하는 단체 중 하나인 파룬궁 종교 단체 이름을 쳐 보겠습니다. 439만 개의 항목이 뜨는데요, 제일 처음에 나오는 것은 파룬궁의 공식 홈페이지입니다. 다른 항목으로 파룬궁의 지도자에 관한 것이 있고요, 더 아래로 내려가면 파룬궁 지지에 관한 내용들도 있는데, 그 중 하나는 religioustolerance.org 사이트에서 나온 것이군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이제 중국 전용으로 만들어진 새로운 웹사이트 google.cn에 똑같은 검색어를 쳐 보겠습니다. 어떤 정보를 얻을 수 있는지 한 번 볼까요? 이번에는 1만 1천 개의 항목이 뜨는데요, 아주 다른 성격의 것들입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "가장 처음에 나오는 것은 ‘정부 비방죄로 수감된 파룬궁 수행자들’에 관한 사이트입니다. 또, ‘파룬궁 숭배 금지’와 ‘파룬궁의 반인륜성, 비과학성, 반사회성’에 관한 것도 있네요. 하나같이 중국 정부의 방침만을 앵무새처럼 따라 하고 있습니다. 중국 정부가 국민들에게 제공하는 메시지를 통제하는 데에 미국 기업이 어떻게 협력하고 있는가를 보여주는 좋은 사례입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그런데 이런 사례가 하나뿐이 아닙니다. 지난 12월, 마이크로소프트 사는 중국의 한 반체제 블로그 운영자의 웹사이트를 닫았습니다. 그보다 몇 달 전에는, 야후 사가 중국의 한 반체제 언론인의 이름을 중국 정부에 알려 주었습니다. 그 사람은 자신이 올린 웹사이트 게시물로 인해 10년 형을 선고 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "구글이 미국 정부의 기록 공개 요구에는 저항하면서 중국에 굴복한 것은 모순이 아닐 수 없습니다. 만약 구글이 중국 정부에 똑같은 태도를 취한다면, 아마 마우스를 클릭하는 속도만큼이나 빠르게 중국 시장에서 퇴출당하겠지요. 홍콩에서CNN, 마이크 치노이였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. censorship/ 검열 (제도)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) search engine/ ((컴퓨터)) 검색엔진 (2) giant/ (권력 따위에서의) 거인, 거물",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. determined/ 굳게 결심한; 단호한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. commercial/ (1) 상업[통상, 무역]의; 영리적인 (2) instinct/ 본능, 타고난 성향[경향]",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. dub/ …을 …이라고 부르다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. spiritual/ 종교의; 정신의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. tolerance/ (남의 의견,행동 따위에 대한) 관용, 관대",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. humanity/ 인간애; 인간성",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "come under fire",
+          "text": "[커만더 파이어]. come under가 한 단어처럼 발음되어 commander로 혼동할 수 있으므로 주의한다."
+        },
+        {
+          "n": "100 million",
+          "text": "a hundred million으로 읽고 있다. 100은 one hundred라고 하기도 한다. 뒤에 나오는 4,390,000은 four million three hundred ninety thousand라고 읽고 있다. ex. 1,000(one thousand), 10,000(ten thousand), 100,000(one hundred thousand), 1,000,000(one million). 이때 주의할 점은 hundred, thousand, million, billion, trillion 등은 앞의 수가 복수여도 복수형으로 하지 않는다는 것이다."
+        },
+        {
+          "n": "communist rulers",
+          "text": "[카뮤니스ㅌ 룰어ㅈ]. -mm-이 두 개지만 한 번만 발음해 [캄뮤니스ㅌ]가 아니라 [카뮤니스ㅌ]라고 발음한다. 또한 첫모음 o가 강세를 받으면 우리말의 [아]로 소리난다. 영국식 발음은 [오]에 가깝게 발음한다. 그래서 뒤에 나오는 law의 경우 [로어], [라아] 두 가지로 발음이 가능하다."
+        },
+        {
+          "n": "google.cn",
+          "text": "[구글닷씨엔]. .cn을 [닷씨엔]으로 읽고 있다. 뒤에 나오는 google.com은 [구글닷컴], tolerance.org는 [톨로런스닷오알ㄱ]라고 읽고 있다."
+        },
+        {
+          "n": "we’ll see what we get",
+          "text": "[윌씨(웟)위겟]. what의 발음이 거의 들리지 않고 있다. 우리가 알고 있는 문법 지식으로 목적절 및 목적어 생략으로 what이 와야 한다는 것을 추측해 들어야 한다."
+        },
+        {
+          "n": "Falun Gong practitioners",
+          "text": "[팔린궁 프렉티스너ㅈ]. ‘파룬궁’의 영어식 발음이다. [t]가 두 번 나오지만 뒤의 [t]가 [∫]라는 것에 주의하자."
+        },
+        {
+          "n": "jailed for",
+          "text": "[제열포]. l이 단어 끝이나 끝자음 앞에 오면 소리가 명확하지 않은 dark l이 된다. 이때는 우리말의 [어]를 넣어 재빠르게 발음하면 원음에 가깝게 소리난다. ex. oil[오열], film[퓌엄]."
+        },
+        {
+          "n": "anti-humanity",
+          "text": "anti-를 [엔타이]라고 읽고 있다. 뒤에 나오는 antiscience, anti-society nature에서도 마찬가지인데, [엔티]로 발음이 되기도 한다."
+        },
+        {
+          "n": "dramatic example",
+          "text": "[듀러메딕 이그젬플]. dr-은 그냥 [드ㄹ]가 아니라 [d]가 [r]의 영향을 받아 [듀] 혹은 [쥬]로 변형되어 발음된다. [t]는 강모음과 약모음 사이에서 [ㄷ]로 유음화된다."
+        },
+        {
+          "n": "* censor",
+          "text": "…을 검열하다"
+        },
+        {
+          "n": "1) search (engine) giant",
+          "text": "거대 검색엔진"
+        },
+        {
+          "n": "2) come under fire",
+          "text": "공격[포화, 비난, 비판] 받다"
+        },
+        {
+          "n": "3) cave in to",
+          "text": "((구어)) …에 굴복[항복]하다"
+        },
+        {
+          "n": "4) pressure",
+          "text": "(…로부터의) (정신적) 압력, 압박"
+        },
+        {
+          "n": "5) boom",
+          "text": "붐이 일다, 인기가 갑자기 높아지다"
+        },
+        {
+          "n": "6) communist",
+          "text": "공산당의; 공산주의자; 좌익[좌경]"
+        },
+        {
+          "n": "7) be determined to",
+          "text": "…할 것을 결심[결정]하다"
+        },
+        {
+          "n": "8) bow to",
+          "text": "…에 머리를 숙이다, 허리를 굽히다, 절[인사]하다"
+        },
+        {
+          "n": "9) regulation",
+          "text": "규칙, 규정; 조례, 법규"
+        },
+        {
+          "n": "10) launch",
+          "text": "시작하다, 착수하다"
+        },
+        {
+          "n": "11) block",
+          "text": "…을 막다, 방해하다, 차단하다"
+        },
+        {
+          "n": "12) approve",
+          "text": "…을 승인하다, 허가하다"
+        },
+        {
+          "n": "13) authorities",
+          "text": "당국, 관헌"
+        },
+        {
+          "n": "14) statement",
+          "text": "성명(서), 진술(서)"
+        },
+        {
+          "n": "15) operate",
+          "text": "운영하다, 경영하다"
+        },
+        {
+          "n": "16) in response to",
+          "text": "…에 응하여[답하여]"
+        },
+        {
+          "n": "17) internet analyst",
+          "text": "인터넷 분석가[전문가]"
+        },
+        {
+          "n": "18) comply with",
+          "text": "…에 따르다, 동의하다"
+        },
+        {
+          "n": "19) restriction",
+          "text": "제한 조건[규정]"
+        },
+        {
+          "n": "20) commercial instinct",
+          "text": "이윤 추구 본능"
+        },
+        {
+          "n": "21) construct",
+          "text": "…을 구축하다; 건설하다"
+        },
+        {
+          "n": "22) be dubbed",
+          "text": "…이라고 불리다"
+        },
+        {
+          "n": "23) Great Firewall of China",
+          "text": "중국 만리방화벽: 만리장성(Great Wall)을 빗대어 만든 표현"
+        },
+        {
+          "n": "24) organization",
+          "text": "조직(체), 단체"
+        },
+        {
+          "n": "25) Falun Gong",
+          "text": "파룬궁(法輪功): 불교, 도교, 기공 등을 뒤섞은 민간 신앙, 수양 운동으로 20세기말 중국에서 출현했으나 중국 정부의 박해를 받고 있다."
+        },
+        {
+          "n": "26) spiritual group",
+          "text": "종교 단체"
+        },
+        {
+          "n": "27) entry",
+          "text": "((컴퓨터)) 항목; 입력"
+        },
+        {
+          "n": "28) supportive",
+          "text": "지지[후원]하는; 유지[부양]하는; 보조적인"
+        },
+        {
+          "n": "29) religioustolerance.org",
+          "text": "종교의 다양성 인정이 세계 평화를 이끌어낼 수 있다는 모토로 세계 각국의 종교를 아우르는 포털 사이트"
+        },
+        {
+          "n": "30) practitioner",
+          "text": "(종교의 가르침 따위를) 실천하는 사람, 수행인"
+        },
+        {
+          "n": "31) jail",
+          "text": "감옥에 들어가다; 수감하다; 감옥"
+        },
+        {
+          "n": "32) libel",
+          "text": "…을 비방하다, 모욕하다"
+        },
+        {
+          "n": "33) outlaw",
+          "text": "비합법화하다, …을 금지하다"
+        },
+        {
+          "n": "34) cult",
+          "text": "숭배; 숭배 집단; (종교적) 예배, 제례, 의식"
+        },
+        {
+          "n": "35) anti-humanity",
+          "text": "반(反)인륜성"
+        },
+        {
+          "n": "36) nature",
+          "text": "((수식어와 함께 쓰여)) …한 성질"
+        },
+        {
+          "n": "37) parrot",
+          "text": "(앵무새처럼) …을 뜻도 모르고 흉내내다"
+        },
+        {
+          "n": "38) line",
+          "text": "(행위, 정책 등의) 방침, 주의; 방향, 노선"
+        },
+        {
+          "n": "39) dissident",
+          "text": "반체제의; 의견을 달리하는, 반대하는"
+        },
+        {
+          "n": "40) blogger",
+          "text": "블로거: 블로그(blog)를 운영하는 사람"
+        },
+        {
+          "n": "41) post",
+          "text": "((컴퓨터)) (정보, 메시지)를 게시하다"
+        },
+        {
+          "n": "42) kowtow",
+          "text": "고두(叩頭)(의 예); (중국식으로) 고두의 예를 올리다, 머리를 조아리다"
+        },
+        {
+          "n": "43) resist",
+          "text": "…에 저항[반항]하다; …을 방해하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/57.wmv",
+  "legacyEncoding": "binary"
+}

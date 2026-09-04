@@ -1,0 +1,83 @@
+{
+  "id": "d055-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d055",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 055회 ]",
+  "menuLabel": "[ D 055-1 ]",
+  "unit": 55,
+  "part": null,
+  "order": 109,
+  "audio": [
+    {
+      "src": "/audio/ld/d055.mp3",
+      "legacySrc": "sounds/d055.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 055회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 좀 더 인기있는 취미 중의 하나는 사진이다."
+    },
+    {
+      "type": "instruction",
+      "text": "어디에 가든지 눈에 보이는 모든 것에 카메라를 바쁘게 겨냥하는 사람들을 볼 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "특히 관광객들은 굉장한 사진 팬이다. 그들이 집에 돌아갈 때 그들은 자신이 방문했던 장소들의 사진을 친 구들에게 보여줄 수 있기를 원한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 열중한 나머지 그들은 때때로 자신이 무엇을 하고 있는지 지켜보는 것을 잊는다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 로마에서 한 관광객은 천연색 사진을 찍으면서 많은 시간과 돈을 썼다."
+    },
+    {
+      "type": "instruction",
+      "text": "그가 끝냈을 때 그는 카메라를 케이스에 다시 넣기 시작했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그때 그는 렌즈로부터 커버를 벗기는 것을 잊었었다는 것을 주목했다(알게 되었다)."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 완전한 한 통의 컬러 필름을 낭비했었다. 그러나 그는 결코 똑같은 실수를 다시 하지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 경험이 그에게 좋은 교훈을 가르쳐주었었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d055-1.htm",
+  "legacyEncoding": "utf-8"
+}

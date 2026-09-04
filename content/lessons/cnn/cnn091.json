@@ -1,0 +1,549 @@
+{
+  "id": "cnn091",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Trading* Races*",
+  "label": "Trading* Races*",
+  "menuLabel": "[ CNN 91 ]",
+  "unit": 91,
+  "part": null,
+  "order": 90,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn091.mp4",
+      "legacySrc": "CNN/CNN61-120/91.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Trading* Races*"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: Color TV has gone black and white. In the new series Black. White, two families trade races.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CARMEN WURGEL, White Mom: I’m getting spray-painted.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BRIAN SPARKS, Black Dad: Yes, I do look like a white guy, totally.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Sort of makes you wonder how you’d answer this. Question is, would you like to be black for a day? Would you want to be white for a day?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 1: Yeah.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Would you want to be black for a day?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 1: No.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Just for a day!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 1: Not even for a minute.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Among folks we surveyed, women seemed more willing to temporarily swap race than men.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 2: Sure, why not?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 3: I would love to be black, maybe for one week.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 2: No, I’m fine like I am.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: These days, everyone’s changing places. There’s the gay woman who lived like a man, going to strip clubs and joining an allmale bowling team. Then there was supermodel Tyra Banks, donning a fat suit to become a 350-pound woman.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "TYRA BANKS, Supermodel: As soon as I stepped off the bus, I saw three people turn and laugh right in my face.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Compare that to the black guy transformed into a white guy going golfing at a white club. Brian Sparks seemed most amazed at when he went shoe shopping in the pro shop.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SPARKS: The guy actually took my foot and put it in the shoe.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: The white guy practiced the new walk.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BRUNO MARCOTULLI, White Dad: Just a little bit roll.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: The white daughter danced and managed to get through a black poetry slam.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROSE BLOOMFIELD, White Daughter: The taste of sex, the body flush with hot and sticky fantastic.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Though mom occasionally slipped up in black company.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WURGEL: Somebody says something about 50 Cent, and I go, “How much?”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Mistaking the rap performer for two quarters. I’m trying to imagine you black.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FEMALE 4: Yeah, with my white hair.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 3: If I was a white boy, then what would I do? Be with a white woman.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MALE 4: I probably will always remain white to the day I die.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Not necessarily. Ask this guy. Jeanne Moos, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "인종 바꾸기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 칼라 TV가‘흑백’이 되어버렸습니다. <블랙, 화이트>라는 새로운 TV 시리즈물에 등장하는 두 가족은 자신들의 인종을 맞바꿉니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카르멘 워겔, 백인 엄마: 이걸 뿌려서 피부색을 바꾸고 있어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브라이언 스파크스, 흑인 아빠: 예, 제가 완전 백인 남자처럼 보이네요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 여러분도 각자 여기에 어떤 대답을 하게 될지 다소 궁금하실 겁니다. “하루 동안 흑인이 되어 보시겠습니까?”라는 질문에 말입니다. 하루 동안 백인이 되어 보시겠습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 1: 예.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 하루 동안 흑인이 되어 보시겠습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 1: 아니오.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 딱 하루만인데요!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 1: 일분 일초도 싫습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 조사에 응한 사람들 중에서는 여성들이 남성들에 비해 잠시 인종을 바꾸는 것을 꺼려하지 않는 것처럼 보였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 2: 물론이죠. 못할 이유 없죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 3: 흑인이 돼 보고 싶어요, 한 일주일 정도는요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 2: 아니오, 전 이대로가 좋아요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 요즘에는 모든 사람들이 다른 사람의 입장이 되어보기도 합니다. 남자처럼 살면서 스트립 쇼 클럽에도 가고 남성 볼링 팀에 가입한 동성애자 여성이 있는가 하면, 뚱보 옷을 입고 350파운드(약 158 kg)나 나가는 비만 여성이 되는 체험을 한 슈퍼 모델 타이라 뱅크스도 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "타이라 뱅크스, 슈퍼모델: 제가 버스에서 내려서자마자 돌아보며 노골적으로 비웃는 사람이 세 명이나 있었어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이것을 백인으로 변신한 이 흑인 남자가 백인 전용 골프장에서 경험한 것과 비교해 보시기 바랍니다. 브라이언 스파크스 씨는 골프용품 매장에 신발을 사러 갔을 때 가장 놀란 것처럼 보입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스파크스: 점원이 정말로 제 발을 잡고 신발을 신겨 주었다니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이 백인 남자는 걸음걸이도 새롭게 연습했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브루노 마르코툴리, 백인 아빠: 이렇게 좀 흐느적거리기만 하면 돼요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: (흑인으로 변장한) 백인 딸은 춤도 추고, 흑인들의 시 낭송도 가까스로 해냈습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로즈 블룸필드, 백인 딸: 섹스의 맛, 육체는 뜨겁고 끈끈한 환상 속에 달아 오른다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 하지만 (백인) 엄마는 흑인들과 있을 때 간간이 실수를 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "워겔: 누가 ‘50 센트’가 어쩌고 저쩌고 하는 얘기를 하더라구요. 그래서 전 “얼마라구요?”라고 질문을 했어요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 랩 가수 이름을 돈 50 센트로 착각하셨군요. 당신이 흑인이 된 모습을 상상하려고 노력 중이에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여자 4: 예, 백발의 흑인 말이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 3: 제가 백인 남자라면 무엇을 하겠냐구요? 백인 여자랑 같이 있겠죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남자 4: 전 아마 죽는 날까지 백인으로 있을 거예요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 꼭 그런 건 아닙니다. 이 남자에게 물어보시죠. 뉴욕에서 CNN, 지니 무스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[토우털리]가 아니라 모음이 약화되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nn-으로 n이 두 번 겹쳤다고 해서 [단닝]으로 발음하지 않고 [다닝]으로 발음한다. suit to도 [t]가 중복되어 한 번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "st-처럼 무성음이 중복될 때는 발음의 편리상 뒷자음인 [t]를 된소리로 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-d o-는‘자음+모음’으로 연음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "접속사 and는 [엔ㄷ]로 제대로 발음되는 경우가 드물다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "끝자음 [d]가 탈락된 [엔]이나 [은]으로 약화되는 경우가 대부분이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. white and black [와잇은블랙]",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세 단어가 모두 [g]로 시작하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "going은 세 단어의 중간이라 발음이 약화되었는데, 특히 -ing의 [g]가 탈락되어 [고잉]이 아니라 [거인]으로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[프로우]가 아니라 [프러]로 모음이 약화되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보통 [ou]는 빠른 뉴스나 구어체에서는 축약되어 발음되는 경우가 많다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "복수형 -s는 거의 들리지 않는다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "two에 힌트를 얻어 복수형이라는 것을 짐작해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "qua는 그냥 [쿼]가 아니라 [크워]를 재빨리 붙여 발음해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "2) Black. White/ <블랙, 화이트>: 미국에서 방영된 리얼리티 TV 쇼 프로그램으로 흑인 가족과 백인 가족이 잠시 동안 인종을 바꾸어 생활하는 모습을 보여준다.",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "totally",
+          "text": "[톳을리]."
+        },
+        {
+          "n": "donning a fat suit to",
+          "text": "[다닝 어 팻 쑤투]."
+        },
+        {
+          "n": "stepped off",
+          "text": "[스뗍더ㅍ]."
+        },
+        {
+          "n": "turn and laugh",
+          "text": "[턴은래ㅍ]."
+        },
+        {
+          "n": "guy going golfing",
+          "text": "[가이 거인 골핑]."
+        },
+        {
+          "n": "pro shop",
+          "text": "[프러샵]."
+        },
+        {
+          "n": "two quarters",
+          "text": "[투 쿠워러ㅈ]."
+        },
+        {
+          "n": "the day I die",
+          "text": "의미 단위로 끊어 말하는 것을 생각하면 I 앞에서 끊어야 하는데, 화자가 I 다음에 잠깐 쉬고 die라고 말한다. 이렇게 화자의 의지에 따라 변하는 것에 주의하며 기사를 듣는 연습을 하도록 한다."
+        },
+        {
+          "n": "* trade",
+          "text": "…와 교환하다; 교역하다"
+        },
+        {
+          "n": "* race",
+          "text": "인종; 민족, 종족; 국민"
+        },
+        {
+          "n": "1) black and white",
+          "text": "흑백의, 단색의"
+        },
+        {
+          "n": "3) spray-paint",
+          "text": "(그림,글자 따위를) 스프레이로 뿜어 그리다"
+        },
+        {
+          "n": "4) sort of",
+          "text": "((구어)) 다소, 얼마간, 말하자면"
+        },
+        {
+          "n": "5) folks",
+          "text": "사람들, 세인(世人)"
+        },
+        {
+          "n": "6) survey",
+          "text": "(가치,상태 따위를) 자세히 조사하다, 검사하다"
+        },
+        {
+          "n": "7) willing to",
+          "text": "기꺼이 …하는, …하기를 꺼리지[마다하지] 않는"
+        },
+        {
+          "n": "8) temporarily",
+          "text": "일시적으로, 임시(변통으)로"
+        },
+        {
+          "n": "9) swap",
+          "text": "…와 물물교환하다, 맞바꾸다"
+        },
+        {
+          "n": "10) change places",
+          "text": "…와 자리[위치, 입장]를 바꾸다"
+        },
+        {
+          "n": "11) strip club",
+          "text": "스트립 쇼 클럽"
+        },
+        {
+          "n": "12) don",
+          "text": "(옷,모자 등을) 입다, 쓰다 opp. doff/ (외투 따위를) 벗다"
+        },
+        {
+          "n": "13) step off",
+          "text": "(탈것)에서 내리다"
+        },
+        {
+          "n": "14) in one’s face",
+          "text": "…의 눈앞에서, 공공연하게"
+        },
+        {
+          "n": "15) transform into",
+          "text": "(형태,외견,구조 따위)를 …으로 바꾸다, 변형시키다"
+        },
+        {
+          "n": "16) be amazed at",
+          "text": "…에 깜짝 놀라다"
+        },
+        {
+          "n": "17) pro shop",
+          "text": "프로 숍: 골프,테니스 등의 클럽 하우스에 부속된 스포츠용품 판매?대여점"
+        },
+        {
+          "n": "18) roll",
+          "text": "몸을 흔들다, 비틀비틀 걷다"
+        },
+        {
+          "n": "19) manage to",
+          "text": "…을 이럭저럭 해내다, 용케 …을 해내다"
+        },
+        {
+          "n": "20) get through",
+          "text": "…을 끝내다, 완수하다; (시험에) 합격하다"
+        },
+        {
+          "n": "21) poetry slam",
+          "text": "시 낭송: 사람들이 모인 자리에서 자유 주제로 시를 지어 낭송하는 것"
+        },
+        {
+          "n": "22) flush",
+          "text": "흥분, 환희; (볼 따위의) 홍조"
+        },
+        {
+          "n": "23) sticky",
+          "text": "끈적거리는, 찐득찐득한; (날씨가) 무더운"
+        },
+        {
+          "n": "24) slip up",
+          "text": "잘못하다, 틀리다; 실패하다"
+        },
+        {
+          "n": "25) in company",
+          "text": "사람들 틈에서"
+        },
+        {
+          "n": "26) 50 Cent",
+          "text": "피프티 센트: 본명이 Curtis Jackson인 미국 흑인 래퍼"
+        },
+        {
+          "n": "27) go",
+          "text": "((직접화법의 전달동사로)) …이라고 말하다(say)"
+        },
+        {
+          "n": "28) mistake A for B",
+          "text": "A를 B로 잘못 알다"
+        },
+        {
+          "n": "29) quarter",
+          "text": "((미,캐나다)) 25 센트; 4분의 1"
+        },
+        {
+          "n": "30) remain",
+          "text": "여전히 …인 채로이다, 변함없이 …이다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/91.wmv",
+  "legacyEncoding": "binary"
+}

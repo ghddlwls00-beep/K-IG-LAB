@@ -1,0 +1,47 @@
+{
+  "id": "pr034-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr034",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 034-1 ]",
+  "menuLabel": "[ pr034-1 ]",
+  "unit": 34,
+  "part": null,
+  "order": 67,
+  "audio": [
+    {
+      "src": "/audio/reading/pr034.mp3",
+      "legacySrc": "sounds/pr034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 034-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "상식은 별도로 하더라도 , 사업에 있어서 가장 중요한 자산은, 자신이나 상황에 대해 웃을 수 있는 능력인, 유머감각이다. 웃음은 긴장을 완화시켜 주는 가장 강력하고 건설적인 힘이다. 만약 어떤 상황에 대해 우스꽝스럽거나 어리석은 점을 지적하고, 상대방에게 당신의 감정을 공유하게 해서 긴장을 완화할 수 있다면, 당신은 주도권을 잡게 될 것이다. 사업에 있어서 절대적인 것들은 거의 없다. 이것이 그중 하나이며 나는 그것이 실패하는 것을 본적이 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr034-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr043",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 043 ]",
+  "menuLabel": "[ pr043 ]",
+  "unit": 43,
+  "part": null,
+  "order": 84,
+  "audio": [
+    {
+      "src": "/audio/reading/pr043.mp3",
+      "legacySrc": "sounds/pr043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 043 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Painting restorers are highly trained in their techniques, but they would have to be the original painter to know exactly what to do with the work at hand. Technical aspects of the work, such as dirt removal, are quite straightforward. What is important is to bring a painting back to an artist’s original intent. In order to do so, they have to decide if they should add something to the painting or leave it as it is. They admit it is extremely difficult to determine what should and should not be retouched. “Our goal is to respect the artist’s intent, but at the same time to make it a visually coherent work of art,” says Michael Duffy of the Museum of Modern Art in New York."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr043.htm",
+  "legacyEncoding": "utf-8"
+}

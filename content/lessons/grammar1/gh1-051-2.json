@@ -1,0 +1,132 @@
+{
+  "id": "gh1-051-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-051",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 051-2]",
+  "menuLabel": "[ gh1-051-2 ]",
+  "unit": 51,
+  "part": null,
+  "order": 78,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-051-2.mp3",
+      "legacySrc": "sounds/gh1-051-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 051-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "22",
+          "text": "Where is my car?"
+        },
+        {
+          "n": "23",
+          "text": "Where are my glasses?"
+        },
+        {
+          "n": "24",
+          "text": "What is she?"
+        },
+        {
+          "n": "25",
+          "text": "Is he your boyfriend?"
+        },
+        {
+          "n": "26",
+          "text": "Are they your teachers?"
+        },
+        {
+          "n": "27",
+          "text": "Are these girls your friends?"
+        },
+        {
+          "n": "28",
+          "text": "Whose car is that(it)?"
+        },
+        {
+          "n": "29",
+          "text": "Is your mother happy?"
+        },
+        {
+          "n": "30",
+          "text": "Is this building yours?"
+        },
+        {
+          "n": "31",
+          "text": "Are they(those) yours?"
+        },
+        {
+          "n": "32",
+          "text": "Is it (that) mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where are your brothers?"
+        },
+        {
+          "n": "34",
+          "text": "Where is your sister?"
+        },
+        {
+          "n": "35",
+          "text": "Where are your parents?"
+        },
+        {
+          "n": "36",
+          "text": "How is your wife?"
+        },
+        {
+          "n": "37",
+          "text": "Is she your daughter?"
+        },
+        {
+          "n": "38",
+          "text": "Is it eight o'clock?"
+        },
+        {
+          "n": "39",
+          "text": "It is nine o'clock."
+        },
+        {
+          "n": "40",
+          "text": "Is it hot?"
+        },
+        {
+          "n": "41",
+          "text": "No, it is not hot."
+        },
+        {
+          "n": "42",
+          "text": "It is cool."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-051-2.htm",
+  "legacyEncoding": "utf-8"
+}

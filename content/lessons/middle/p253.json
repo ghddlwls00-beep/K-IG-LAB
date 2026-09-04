@@ -1,0 +1,83 @@
+{
+  "id": "p253",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 253]",
+  "menuLabel": null,
+  "unit": 25,
+  "part": 3,
+  "order": 228,
+  "audio": [
+    {
+      "src": "/audio/middle/p253.mp3",
+      "legacySrc": "sounds/p253.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 253]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Culture)"
+    },
+    {
+      "type": "hints",
+      "text": "Our culture is different from other cultures."
+    },
+    {
+      "type": "instruction",
+      "text": "For example, our clothes, housing, names, and language are not"
+    },
+    {
+      "type": "instruction",
+      "text": "like that of any other country."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to explain about our traditional food."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean meals include boiled rice, soup, fish or meat,"
+    },
+    {
+      "type": "instruction",
+      "text": "several vegetable side dishes, and, one or more kinds of kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "Bulgogi is the most popular Korean meat dish."
+    },
+    {
+      "type": "instruction",
+      "text": "I am used to eating these delicious foods every day."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p253.htm",
+  "legacyEncoding": "utf-8"
+}

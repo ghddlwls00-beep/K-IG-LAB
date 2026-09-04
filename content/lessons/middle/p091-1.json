@@ -1,0 +1,95 @@
+{
+  "id": "p091-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p091",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 091-1 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 1,
+  "order": 97,
+  "audio": [
+    {
+      "src": "/audio/middle/p091.mp3",
+      "legacySrc": "sounds/p091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 091-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나는 아침 무엇을 할까요?)"
+    },
+    {
+      "type": "instruction",
+      "text": "매일 나는 보통 같은 계획을 따릅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매일 아침 6시에 일어납니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 방을 청소하고 나서"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 해피라는 이름의 개와 함께 조깅을 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 운동장을 왕복 5번 뜁니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 조깅을 끝낸 후에 나는 샤워를 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오전 7시 30분에 아침식사를 먹습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "아침식사 후, 나는 나의 이를 닦고, 8시쯤에 학교를 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 종종 나의 친구들을 만나서 우리가 수업을"
+    },
+    {
+      "type": "instruction",
+      "text": "가기 전에 운동장에서 약간 놉니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 오전 9시에 시작하는 4개의 수업이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "각각의 수업은 약 45분입니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p091-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "am024",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 024 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 4,
+  "order": 21,
+  "audio": [
+    {
+      "src": "/audio/adults/am024.mp3",
+      "legacySrc": "sounds/am024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 024 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Son"
+    },
+    {
+      "type": "instruction",
+      "text": "My son attends 한국 Middle School, and he is a second year student."
+    },
+    {
+      "type": "hints",
+      "text": "He is good at studying all kind of subjects, but his best subject is English."
+    },
+    {
+      "type": "instruction",
+      "text": "He enjoys playing sports and computer games."
+    },
+    {
+      "type": "instruction",
+      "text": "He is working very hard so that he’ll be able to enter a good university after he graduates from high school."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am024.htm",
+  "legacyEncoding": "utf-8"
+}

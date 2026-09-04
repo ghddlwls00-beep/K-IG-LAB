@@ -1,0 +1,47 @@
+{
+  "id": "pr034",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 034 ]",
+  "menuLabel": "[ pr034 ]",
+  "unit": 34,
+  "part": null,
+  "order": 66,
+  "audio": [
+    {
+      "src": "/audio/reading/pr034.mp3",
+      "legacySrc": "sounds/pr034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 034 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Common sense aside, the most important asset in business is a sense of humor, an ability to laugh at yourself or the situation. Laughter is the most powerful and constructive force for calming tension. If you can point out what is humorous or absurd about a situation and ease the tension by getting the other party to share your feeling, you will have the upper hand. There are very few absolutes in business. This is one of them, and I've never seen it fail."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr034.htm",
+  "legacyEncoding": "utf-8"
+}

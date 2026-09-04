@@ -1,0 +1,67 @@
+{
+  "id": "am072",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 072 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 2,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/adults/am072.mp3",
+      "legacySrc": "sounds/am072.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 072 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "What do I Think about My Job?"
+    },
+    {
+      "type": "hints",
+      "text": "When I first started my job, I realized that what I had majored in at my university and what I was doing at my job were very different."
+    },
+    {
+      "type": "instruction",
+      "text": "For a while, adjusting to this was very stressful."
+    },
+    {
+      "type": "instruction",
+      "text": "Now I have been there for almost (Number) years, and I still work hard to become the best in my field."
+    },
+    {
+      "type": "instruction",
+      "text": "We usually start and end the day with a meeting."
+    },
+    {
+      "type": "instruction",
+      "text": "By always working hard, I can make sure that I am trying to improve myself."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am072.htm",
+  "legacyEncoding": "utf-8"
+}

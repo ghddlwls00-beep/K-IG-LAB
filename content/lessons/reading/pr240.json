@@ -1,0 +1,47 @@
+{
+  "id": "pr240",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 240 ]",
+  "menuLabel": "[ pr240 ]",
+  "unit": 240,
+  "part": null,
+  "order": 478,
+  "audio": [
+    {
+      "src": "/audio/reading/pr240.mp3",
+      "legacySrc": "sounds/pr240.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 240 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "It is now evidenced that what seems to be a single memory is actually a complex construction. For instance, when we think of a hammer. our brain hurriedly retrieves the tool's name, its appearance. its function, and the sound of its clang, each extracted from a different region of the brain. Therefore, the weakening of memory is in fact the failure to put together separate parts of information stocked in your brain. Many of us begin to experience the breakdown of that assembly process as early as in our 20s."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr240.htm",
+  "legacyEncoding": "utf-8"
+}

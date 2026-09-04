@@ -1,0 +1,88 @@
+{
+  "id": "mv2-33",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-33 ]",
+  "unit": 33,
+  "part": null,
+  "order": 72,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-33.mp3",
+      "legacySrc": "sounds/mv2-33.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "convenient",
+          "steal",
+          "fortune",
+          "skill",
+          "purpose",
+          "confidence"
+        ],
+        [
+          "global",
+          "patience",
+          "congratulate",
+          "starve",
+          "obvious",
+          "punish"
+        ],
+        [
+          "attack",
+          "campaign",
+          "professor",
+          "invade",
+          "conduct",
+          "breathe"
+        ],
+        [
+          "hobby",
+          "continent",
+          "blame",
+          "search",
+          "quality",
+          "depend"
+        ],
+        [
+          "celebrate",
+          "relation",
+          "problem",
+          "naughty",
+          "spin",
+          "remind"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-33 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-33.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "d122",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 122 회 ]",
+  "menuLabel": "[ D 122 ]",
+  "unit": 122,
+  "part": null,
+  "order": 242,
+  "audio": [
+    {
+      "src": "/audio/ld/d122.mp3",
+      "legacySrc": "sounds/d122.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 122 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "resources Africa South America annual population growth 2.8 percent. Europe's population,"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "0",
+          "text": "6 percent. North America's population 0.9% 2% immigration."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d122.htm",
+  "legacyEncoding": "utf-8"
+}

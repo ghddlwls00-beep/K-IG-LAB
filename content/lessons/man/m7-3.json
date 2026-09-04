@@ -1,0 +1,173 @@
+{
+  "id": "m7-3",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m7-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 3,
+  "order": 38,
+  "audio": [
+    {
+      "src": "/audio/man/m7-3-1.mp3",
+      "legacySrc": "m7-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-2.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-3.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-4.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-5.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-6.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m7-3-7.mp3",
+      "legacySrc": "m7-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 때때로 3개월에 한 번 출장을 갑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I sometimes go on business trips once a quarter.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내가 중요한 훈련을 받을 연구실에 가야합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I have to go to a seminar where I receive valuable training.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "3개월 마다, 나는 나의 회사의 더 작은 지점에 멈춰서 그들의 발전을 확인합니다.(음성 무)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "3개월 마다, 나는 나의 회사의 더 작은 지점에 멈춰서 그들의 발전을 확인합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each quarter, I stop by the smaller branches of my company and checkon their progress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 또한 월말 평가를 해야 하고 나의 상사에게 그것을 제출해야 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I also have to do end-of-the-month evaluations for these branches and present them to my boss.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들이 해야 하는 것만큼 발전하고 있지 않을 때, 그것은 나에게 매우 스트레스를 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When things are not progressing as they should, it is very stressful for me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그것들이 향상하고 있을 때, 나의 상사는 승인을 주고 그것을 받으면 나는 매우 기쁩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When things are improving, my boss gives me recognition, which I am veryhappy to receive.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "요즘, 나의 회사는 모든 사원들이 영어 배우기를 요구하고 있어서 나는 나의 영어 실력을 향상시키기 위해 열심히 공부하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "These days, my company is requiring that all of its employees learn English, so I am studying hard to improve my English language skills.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each quarter, I stop by the smaller branches of my company and check on their progress.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When things are improving, my boss gives me recognition, which I am very happy to receive.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 My Job :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I Do on My Job?",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m7-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m7-3.swf"
+  ]
+}

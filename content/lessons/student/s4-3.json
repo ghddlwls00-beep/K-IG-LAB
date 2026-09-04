@@ -1,0 +1,298 @@
+{
+  "id": "s4-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s4-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 22,
+  "audio": [
+    {
+      "src": "/audio/student/s4-3-1.mp3",
+      "legacySrc": "s4-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-2.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-3.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-4.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-5.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-6.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-7.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-8.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-9.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-10.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-11.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-12.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-13.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-14.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-15.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s4-3-16.mp3",
+      "legacySrc": "s4-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "My father is the second son.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My grandparents live with my oldest uncle.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of my aunts and uncles live near my house so I often go and visit them, or they come and visit me.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My mother also has (two) brothers and (two) sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "First of all, my father has (two) brothers and (two) sisters.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우선First of all,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 아버지는 두명의 남자형제와 두명의 여자형제가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 아버지는 두명의 남자형제와 두명의 여자형제가 있습니다. my father has (two) brothers and (two) sisters.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머님은 또한 가지고 계십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머님은 또한 가지고 계십니다.My mother also has",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 두명의 남자형제와 두명의 여자형제를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 두명의 남자형제와 두명의 여자형제를 (two) brothers and (two) sisters.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 조부모님들은 사십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 조부모님들은 사십니다.My grandparents live",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 큰아버지와 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 큰아버지와 함께 with my oldest uncle.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내 고모들과 삼촌들 중 몇몇은 사십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내 고모들과 삼촌들 중 몇몇은 사십니다.Some of my aunts and uncles live",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 집 근처에",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 집 근처에 near my house",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 종종 가서 그들을 방문하거나",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 종종 가서 그들을 방문하거나so I often go and visit them,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들이 와서 나를 방문하기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들이 와서 나를 방문하기도 합니다. or they come and visit me.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 두 명의 남자형제와 두 명의 여자형제가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니 또한 두 명의 남자형제와 두 명의 여자형제가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 아버지는 둘째 아들 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 할아버지할머니는 나의 큰아버지와 함께 살고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 고모와 큰 아빠들은 우리 집 가까이에 살고 있기 때문에 나는 자주 그들에게 가거나 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of my aunts and uncles live near my house so I often go and visit them,or they come and visit me.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relative Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Father’s brother and sister",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s4-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s4-3.swf"
+  ]
+}

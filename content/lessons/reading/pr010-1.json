@@ -1,0 +1,67 @@
+{
+  "id": "pr010-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr010",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 010-1 ]",
+  "menuLabel": "[ pr010-1 ]",
+  "unit": 10,
+  "part": null,
+  "order": 19,
+  "audio": [
+    {
+      "src": "/audio/reading/pr010.mp3",
+      "legacySrc": "sounds/pr010.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 010-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "인터넷의 사용이 매년 증가하고 있지만 이것이 많은 문제를 일으키고 있다. 인터넷 세"
+    },
+    {
+      "type": "instruction",
+      "text": "계에서 가장 큰 문제 중의 하나는 보안과 안전의 문제이다. 예를 들어, 사업가들은 인"
+    },
+    {
+      "type": "instruction",
+      "text": "터넷에 있는 자신들의 사이트가 사용자들에게 안전한지 확인할 필요가 있다. 그들은"
+    },
+    {
+      "type": "instruction",
+      "text": "e-mail을 보내는 사람이 누구인지 오고 가는 정보가 정확한지를 알 필요가 있다. 가장"
+    },
+    {
+      "type": "instruction",
+      "text": "중요한 것은 회사의 비밀이 보호되고 있는지를 확인해 줄 수단을 가지고 있어야 한다."
+    },
+    {
+      "type": "instruction",
+      "text": "다음은 이런 문제를 충족시키기 위한 몇 가지 수단을 보여주고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr010-1.htm",
+  "legacyEncoding": "utf-8"
+}

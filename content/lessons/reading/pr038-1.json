@@ -1,0 +1,47 @@
+{
+  "id": "pr038-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr038",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 038-1 ]",
+  "menuLabel": "[ pr038-1 ]",
+  "unit": 38,
+  "part": null,
+  "order": 75,
+  "audio": [
+    {
+      "src": "/audio/reading/pr038.mp3",
+      "legacySrc": "sounds/pr038.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 038-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 거리와 건물들로 부터 도시를 지역사회로 바꾸는 것은 바로 사람들이다. 도시가 얼마나 잘 설계되더라도 만약 도시가 그곳에 살고 일하는 사람들의 사랑과 충심을 불러일으키지 못한다면 그 도시는 결국 생명력을 잃을 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr038-1.htm",
+  "legacyEncoding": "utf-8"
+}

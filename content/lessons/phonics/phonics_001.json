@@ -1,0 +1,55 @@
+{
+  "id": "phonics_001",
+  "course": "phonics",
+  "series": null,
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ 제 001 회 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": null,
+  "order": 195,
+  "audio": [
+    {
+      "src": "/audio/phonics/phonics_001.mp3",
+      "legacySrc": "sounds/phonics_001.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 001 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "- 안녕, 레오. 내 이름은 주나야."
+    },
+    {
+      "type": "instruction",
+      "text": "- 안녕, 주나. 넌 어디 출신이니? / 난 한국에서 왔어."
+    },
+    {
+      "type": "instruction",
+      "text": "- 만나서 반갑다, 주나야. / 나도 만나서 반가워."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/phonics_001.htm",
+  "legacyEncoding": "utf-8"
+}

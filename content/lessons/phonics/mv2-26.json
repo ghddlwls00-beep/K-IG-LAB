@@ -1,0 +1,88 @@
+{
+  "id": "mv2-26",
+  "course": "phonics",
+  "series": "mv2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv2-26 ]",
+  "unit": 26,
+  "part": null,
+  "order": 65,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv2-26.mp3",
+      "legacySrc": "sounds/mv2-26.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "elementary",
+          "engage",
+          "literature",
+          "offer",
+          "locate",
+          "bubble"
+        ],
+        [
+          "magnificent",
+          "mail",
+          "own",
+          "jewel",
+          "tremble",
+          "population"
+        ],
+        [
+          "similar",
+          "trick",
+          "hate",
+          "fear",
+          "blaze",
+          "means"
+        ],
+        [
+          "expensive",
+          "medicine",
+          "pride",
+          "bother",
+          "familiar",
+          "mineral"
+        ],
+        [
+          "promote",
+          "modern",
+          "prevent",
+          "feast",
+          "wood",
+          "hill"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv2-26 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv2-26.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr060",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 060 ]",
+  "menuLabel": "[ pr060 ]",
+  "unit": 60,
+  "part": null,
+  "order": 118,
+  "audio": [
+    {
+      "src": "/audio/reading/pr060.mp3",
+      "legacySrc": "sounds/pr060.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 060 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Have you ever hurt another person? If so, get in touch with the person you wronged, and ask for forgiveness in all sincerity. You must apologize for that hurt. Promise yourself now to carry it out immediately. Even after many years, it’s still possible to find people. If the person has died or really can’t be found, you can make a contribution in some way to help others who have suffered from similar acts. If your determination is firm, clear, and sincere, then you will be able to put that emotion and memory aside and find peace of mind."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr060.htm",
+  "legacyEncoding": "utf-8"
+}

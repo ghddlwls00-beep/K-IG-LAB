@@ -1,0 +1,47 @@
+{
+  "id": "pr158",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 158 ]",
+  "menuLabel": "[ pr158 ]",
+  "unit": 158,
+  "part": null,
+  "order": 314,
+  "audio": [
+    {
+      "src": "/audio/reading/pr158.mp3",
+      "legacySrc": "sounds/pr158.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 158 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Ethics begins with our being conscious that we choose how we behave. For instance, we can either tell the truth or tell a lie. These two possibilities are presented to us as options. We are capable of doing either one because we can control our actions. A stone, however, does not face this kind of options because it cannot distinguish between different courses of action. A stone can behave only in the way an outside force makes it behave. Unlike a stone, a person can start an action by himself or herself. The difference, then, is that a stone is not conscious of possibilities, whereas human beings are conscious that they face genuine alternatives."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr158.htm",
+  "legacyEncoding": "utf-8"
+}

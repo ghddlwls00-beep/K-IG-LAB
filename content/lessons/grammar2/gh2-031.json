@@ -1,0 +1,112 @@
+{
+  "id": "gh2-031",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 31 ]",
+  "menuLabel": "[ 31과 영어 ]",
+  "unit": 31,
+  "part": null,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-031.mp3",
+      "legacySrc": "sounds/gh2-031.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 31 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Their original plan was for the balloon to fly across theArctic Ocean."
+        },
+        {
+          "n": "2",
+          "text": "The problem is where to live."
+        },
+        {
+          "n": "3",
+          "text": "The best way is never to see him again."
+        },
+        {
+          "n": "4",
+          "text": "My plan is to build a house here."
+        },
+        {
+          "n": "5",
+          "text": "All I want is for somebody to be thinking about me."
+        },
+        {
+          "n": "6",
+          "text": "The purpose is to prepare children for school."
+        },
+        {
+          "n": "7",
+          "text": "Our sole wish was to preserve peace."
+        },
+        {
+          "n": "8",
+          "text": "The moment was right for them to set up an independent country."
+        },
+        {
+          "n": "9",
+          "text": "I didn't know when to do it."
+        },
+        {
+          "n": "10",
+          "text": "I didn't know with whom to go."
+        },
+        {
+          "n": "11",
+          "text": "He likes it very much to read fictions."
+        },
+        {
+          "n": "12",
+          "text": "I find it difficult to solve this problem."
+        },
+        {
+          "n": "13",
+          "text": "I find it difficult for him to solve the problem."
+        },
+        {
+          "n": "14",
+          "text": "I didn't know how to drive a car then."
+        },
+        {
+          "n": "15",
+          "text": "I don't know when and where to go."
+        },
+        {
+          "n": "16",
+          "text": "I think it easy for you to pass the examination."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-031.htm",
+  "legacyEncoding": "utf-8"
+}

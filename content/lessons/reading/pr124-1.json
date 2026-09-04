@@ -1,0 +1,47 @@
+{
+  "id": "pr124-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr124",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 124-1 ]",
+  "menuLabel": "[ pr124-1 ]",
+  "unit": 124,
+  "part": null,
+  "order": 247,
+  "audio": [
+    {
+      "src": "/audio/reading/pr124.mp3",
+      "legacySrc": "sounds/pr124.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 124-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "거리를 따라 걸어갈 때 나무을 인식하지 못할 수도 있지만, 한 새로운 연구에 따르면, 나무는 그늘을 제공하는 것보다 더 많은 일을 한다. 환경 과학자들은 두 곳의 시카고 공공 주택 단지를 선택했는데, 두 곳 모두 근처에 많은 나무를 가진 건물들과 사실상 나무가 거의 없는 건물들을 가지고 있었다. 그 연구에 따르면, 폭력과 재산 범죄는 식물들이 많이 있는 구역과 비교해, 식물이 적게 있는 건물들의 구역에서 거의 두 배나 더 많았다. 왜 그럴까? 한 가지 설명은 다음과 같다. 푸른 나무들은 이웃사람들을 자연스럽게 모일 수 있는 곳을 만들고, 궁극적으로 공동체 내에 보다 강한 유대를 만들어 낸다. 이것은 또한 아이들을 보다 잘 감시하고 건물들을 더 잘 살펴볼 수 있는 분위기를 만들어 낼 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr124-1.htm",
+  "legacyEncoding": "utf-8"
+}

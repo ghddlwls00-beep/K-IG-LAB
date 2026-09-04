@@ -1,0 +1,75 @@
+{
+  "id": "d094-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d094",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 094회 ]",
+  "menuLabel": "[ D 094-1 ]",
+  "unit": 94,
+  "part": null,
+  "order": 187,
+  "audio": [
+    {
+      "src": "/audio/ld/d094.mp3",
+      "legacySrc": "sounds/d094.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 094회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그림은 또 가르칠 수 있다. 그들은 우리에게 그 화가가 한 중요한 대상에 대하여 무엇을 느꼈는지를 말해 줄 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "옛날 그림들은 우리에게 과거의 생활에 대하여 말해줄 수 있다. 그들은 과거 사회의 건축, 의상, 관습, 관 심사들을 우리에게 보여줄 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그림에서 나타내지지 않은 주제를 발견하는 것은 어려울 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "화가들은 그들이 보고 느끼는 것들을 그린다. 그들은 그들의 상상 속에서만 존재하는 것들도 그릴 수 있 다."
+    },
+    {
+      "type": "instruction",
+      "text": "그림은 역사적인 사건이나 미래의 장면을 우리에게 보여줄 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 화가들은 종교적인 이야기들을 주제로서 사용해왔다. 때때로 그림은 어떤 주제도 없을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 그림들은 느낌이나 생각을 암시하기 위하여 색상과 모양들을 조직한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d094-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "po053-1",
+  "course": "basics",
+  "series": "po",
+  "variant": "script",
+  "pairId": "po053",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 053-1 〕",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 3,
+  "order": 124,
+  "audio": [
+    {
+      "src": "/audio/basics/po053.mp3",
+      "legacySrc": "sounds/po053.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 053-1 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "53",
+          "text": "난 보통 / 8시30분에 / 학교에 도착해."
+        },
+        {
+          "n": "54",
+          "text": "학교 가는 길에 / 난 때로 / 수업 준비물들을 / 사기 위해 / 문방구에 / 들러."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po053-1.htm",
+  "legacyEncoding": "utf-8"
+}

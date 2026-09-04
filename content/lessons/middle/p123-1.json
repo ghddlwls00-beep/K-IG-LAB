@@ -1,0 +1,79 @@
+{
+  "id": "p123-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p123",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 123-1 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 131,
+  "audio": [
+    {
+      "src": "/audio/middle/p123.mp3",
+      "legacySrc": "sounds/p123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 123-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(겨울 방학)"
+    },
+    {
+      "type": "instruction",
+      "text": "겨울방학 동안, 우리는 매우 자주 여행을 하지는 않습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나, 지난해에 우리는 강원도로 짧은 스키여행을 다녀왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 어머니께서는 내가 더 많이 공부하기를 원하셔서"
+    },
+    {
+      "type": "instruction",
+      "text": "겨울방학 동안 매일, 그녀는 나를 공부하도록 만드십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 스스로 독서하는 것을 좋아하기 때문에,"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 보통 방학 동안 많은 독서를 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 원하는 것을 할 수 있는 자유를 더 많이 가질 수 있기 때문에"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 방학을 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p123-1.htm",
+  "legacyEncoding": "utf-8"
+}

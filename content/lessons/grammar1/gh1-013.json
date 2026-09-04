@@ -1,0 +1,196 @@
+{
+  "id": "gh1-013",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 013 ]",
+  "menuLabel": "[ gh1-013 ]",
+  "unit": 13,
+  "part": null,
+  "order": 19,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-013.mp3",
+      "legacySrc": "sounds/gh1-013.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 013 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "입문 4과 기본문장 연습"
+    },
+    {
+      "type": "instruction",
+      "text": "영작 연습 문제 답안"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Why do you study English?"
+        },
+        {
+          "n": "2",
+          "text": "This is my friend."
+        },
+        {
+          "n": "3",
+          "text": "This book is expensive."
+        },
+        {
+          "n": "4",
+          "text": "These are my books."
+        },
+        {
+          "n": "5",
+          "text": "These books are cheap."
+        },
+        {
+          "n": "6",
+          "text": "Those(They) are your books."
+        },
+        {
+          "n": "7",
+          "text": "Those (The) books are theirs."
+        },
+        {
+          "n": "8",
+          "text": "It is his book."
+        },
+        {
+          "n": "9",
+          "text": "That is your car."
+        },
+        {
+          "n": "10",
+          "text": "That (The) house is mine."
+        },
+        {
+          "n": "11",
+          "text": "This gentleman did it."
+        },
+        {
+          "n": "12",
+          "text": "Why did you study English?"
+        },
+        {
+          "n": "13",
+          "text": "Why are you studying English?"
+        },
+        {
+          "n": "14",
+          "text": "Why were you studying English?"
+        },
+        {
+          "n": "15",
+          "text": "When was he studying English?"
+        },
+        {
+          "n": "16",
+          "text": "Where was she studying English?"
+        },
+        {
+          "n": "17",
+          "text": "Where were they studying English?"
+        },
+        {
+          "n": "18",
+          "text": "Why are you happy?"
+        },
+        {
+          "n": "19",
+          "text": "Why was she sad?"
+        },
+        {
+          "n": "20",
+          "text": "Why is he happy?"
+        },
+        {
+          "n": "21",
+          "text": "When are they happy?"
+        },
+        {
+          "n": "22",
+          "text": "Who are you?"
+        },
+        {
+          "n": "23",
+          "text": "Who is he?"
+        },
+        {
+          "n": "24",
+          "text": "Who are they?"
+        },
+        {
+          "n": "25",
+          "text": "Who was she?"
+        },
+        {
+          "n": "26",
+          "text": "What do you know?"
+        },
+        {
+          "n": "27",
+          "text": "Whom does he know?"
+        },
+        {
+          "n": "28",
+          "text": "Whom do they know?"
+        },
+        {
+          "n": "29",
+          "text": "Where does he live?"
+        },
+        {
+          "n": "30",
+          "text": "Where do they go?"
+        },
+        {
+          "n": "31",
+          "text": "Why are you running?"
+        },
+        {
+          "n": "32",
+          "text": "Why do you look at me?"
+        },
+        {
+          "n": "33",
+          "text": "Who liked it?"
+        },
+        {
+          "n": "34",
+          "text": "Who likes it?"
+        },
+        {
+          "n": "35",
+          "text": "What was he?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-013.htm",
+  "legacyEncoding": "utf-8"
+}

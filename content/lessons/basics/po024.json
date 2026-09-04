@@ -1,0 +1,60 @@
+{
+  "id": "po024",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 024 〕",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 4,
+  "order": 45,
+  "audio": [
+    {
+      "src": "/audio/basics/po024.mp3",
+      "legacySrc": "sounds/po024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 024 〕"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "15",
+          "text": "My father is always helpful and kind."
+        },
+        {
+          "n": "16",
+          "text": "He often goes shopping with my mother."
+        },
+        {
+          "n": "17",
+          "text": "I admire him."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po024.htm",
+  "legacyEncoding": "utf-8"
+}

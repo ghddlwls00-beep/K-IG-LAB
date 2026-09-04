@@ -1,0 +1,47 @@
+{
+  "id": "pr098",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 098 ]",
+  "menuLabel": "[ pr098 ]",
+  "unit": 98,
+  "part": null,
+  "order": 194,
+  "audio": [
+    {
+      "src": "/audio/reading/pr098.mp3",
+      "legacySrc": "sounds/pr098.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 098 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Most helpful to the calm and peaceful atmosphere that the two-year-old child needs but cannot produce for himself/herself is the presence of comforting music, in almost any form. Mother’s singing can help. Chanting a request, such as “Time to come to breakfast,” may be more effective than simply saying the request. Records, especially nursery rhymes, are just the thing for those periods at the end of the morning or afternoon when children are often easily irritated. Some children, especially boys, like to have their own music players and may play these for very long periods of time."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr098.htm",
+  "legacyEncoding": "utf-8"
+}

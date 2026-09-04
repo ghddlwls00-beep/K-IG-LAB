@@ -1,0 +1,47 @@
+{
+  "id": "pr097",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 097 ]",
+  "menuLabel": "[ pr097 ]",
+  "unit": 97,
+  "part": null,
+  "order": 192,
+  "audio": [
+    {
+      "src": "/audio/reading/pr097.mp3",
+      "legacySrc": "sounds/pr097.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 097 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The introduction of unique products alone does not guarantee market success. Another vital factor is increasing one’s responsiveness to the markets by providing products suited for the local communities that make up the market. This means understanding that each country, community and individual has unique characteristics and needs; it requires sensitivity to regional and individual differences. In other words, one of the challenges is to avoid a one-size-fits-all strategy that places too much emphasis on the “global” aspect alone. Even categorizing countries as “developed” or “emerging” is dangerous. Upon closer analysis, “emerging” countries are not only vastly different from one another, they are also composed of numerous unique individuals and communities."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr097.htm",
+  "legacyEncoding": "utf-8"
+}

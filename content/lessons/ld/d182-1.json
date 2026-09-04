@@ -1,0 +1,91 @@
+{
+  "id": "d182-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d182",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 182 회 ]",
+  "menuLabel": "[ D 182-1 ]",
+  "unit": 182,
+  "part": null,
+  "order": 362,
+  "audio": [
+    {
+      "src": "/audio/ld/d182.mp3",
+      "legacySrc": "sounds/d182.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 182 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 아내의 생일을 위하여 진주를 사기 원한다고 설명했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 해에 그에게 사업이 특히 잘 됐기 때문에 가격은 상관없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "수많은 아름답고 비싼 진주들을 점검한 후에 그는 5천불이 나가는 절묘한 검정 진주를 선택했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그 보석에 대하여 현금으로 지불하고 그 보석상과 악수하고 떠났다."
+    },
+    {
+      "type": "instruction",
+      "text": "며칠 뒤에 그 남자가 돌아와서 아내가 그 진주를 너무나 좋아한 나머지"
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 그것과 똑같은 것을 하나 더 원한다고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 한쌍의 귀걸이를 만들기를 원하기 때문에 그것은 정확히 똑같은 크기와 품질이어야 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 사람은 “어떻게 하면 그런 진주를 구할 수 있는지에 대하여"
+    },
+    {
+      "type": "instruction",
+      "text": "나에게 혹시 어떤 충고라도 줄 수 있습니까?”라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 보석상은 유감스럽게 대답했다."
+    },
+    {
+      "type": "instruction",
+      "text": "“저는 정확히 그 진주의 복제품을 발견하는 것은 사실상 불가능하다고 말씀드리겠습니다.”"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d182-1.htm",
+  "legacyEncoding": "utf-8"
+}

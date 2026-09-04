@@ -1,0 +1,95 @@
+{
+  "id": "d120-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d120",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 120 회 ]",
+  "menuLabel": "[ D 120-1 ]",
+  "unit": 120,
+  "part": null,
+  "order": 239,
+  "audio": [
+    {
+      "src": "/audio/ld/d120.mp3",
+      "legacySrc": "sounds/d120.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 120 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "1890년이 되었을 때는 미국 원주민과 정부 사이의 싸움은 끝나 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "남겨진 종족들은 정부가 그들에게 준 땅의 작은 지역들인 보호구역에 살도록 강요당했다."
+    },
+    {
+      "type": "instruction",
+      "text": "보호 구역에서의 생활은 즐겁지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 보호구역은 정부 기관 - 인디언국의 통제 하에 놓였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 기관에서 일하는 사람들은 인디언에 대하여 별로 알지 못했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 그들이 그들의 언어와 전통을 포기하고 다른 생활방식을 받아들이기를 원했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 미국 원주민들은 그들의 문화적인 주체성을 포기하기를 거부했다."
+    },
+    {
+      "type": "instruction",
+      "text": "오늘날 미국에 사는 약 80만명의 미국 원주민들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 절반 이상이 보호구역에서 산다."
+    },
+    {
+      "type": "instruction",
+      "text": "28개주에 걸쳐 위치한 약 300개의 보호구역이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 미국 원주민들은 보호구역에서의 상태를 개선하려고 노력하고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 자신들의 전통, 역사, 언어에 대하여 자부심을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d120-1.htm",
+  "legacyEncoding": "utf-8"
+}

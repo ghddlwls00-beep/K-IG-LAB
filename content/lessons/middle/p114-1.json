@@ -1,0 +1,79 @@
+{
+  "id": "p114-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p114",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 114-1 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 4,
+  "order": 123,
+  "audio": [
+    {
+      "src": "/audio/middle/p114.mp3",
+      "legacySrc": "sounds/p114.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 114-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(일요일 오후)"
+    },
+    {
+      "type": "instruction",
+      "text": "우리 가족은 종종 나의 아버지의 친구 집을 방문합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 때때로 우리의 친척들을 방문하거나 그들이 우리의 집에"
+    },
+    {
+      "type": "instruction",
+      "text": "옵니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 일요일오후에 나의 친척들을 방문하는 것을 좋아합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 어떻게 지내고 있는지 보는 것은 좋습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 또한 나의 아빠의 친구를 방문하는 것을 좋아하는데"
+    },
+    {
+      "type": "instruction",
+      "text": "왜냐하면 그의 아이들이 동갑이고 우리는 항상 우리의 시간을"
+    },
+    {
+      "type": "instruction",
+      "text": "함께 보내면서 아주 재미있게 보냅니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p114-1.htm",
+  "legacyEncoding": "utf-8"
+}

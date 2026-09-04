@@ -1,0 +1,55 @@
+{
+  "id": "d176",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 176 회 ]",
+  "menuLabel": "[ D 176 ]",
+  "unit": 176,
+  "part": null,
+  "order": 349,
+  "audio": [
+    {
+      "src": "/audio/ld/d176.mp3",
+      "legacySrc": "sounds/d176.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 176 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "Richard Rudd forgetful forgetfulness unintelligent, tend to gossip. absent-minded. seaside-town"
+    },
+    {
+      "type": "instruction",
+      "text": "three-hour train ride away."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d176.htm",
+  "legacyEncoding": "utf-8"
+}

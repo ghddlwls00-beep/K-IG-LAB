@@ -1,0 +1,47 @@
+{
+  "id": "pr205",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 205 ]",
+  "menuLabel": "[ pr205 ]",
+  "unit": 205,
+  "part": null,
+  "order": 408,
+  "audio": [
+    {
+      "src": "/audio/reading/pr205.mp3",
+      "legacySrc": "sounds/pr205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 205 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Many people are superstitious about black cats, Friday the thirteenth, or walking under ladders. But few people have ever heard about a strange superstition regarding eggs. It seems that many years ago, in the northen parts of Germany, people believed that you could beautify your complexion by simply making the sign of a cross in front of your face with an egg. But it couldn't be just any egg. It had to be the first egg laid by a chicken that had been hatched during the spring and that had laid its first egg shortly before Christmas of the same year."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr205.htm",
+  "legacyEncoding": "utf-8"
+}

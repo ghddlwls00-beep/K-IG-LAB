@@ -1,0 +1,83 @@
+{
+  "id": "d165-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d165",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 165 회 ]",
+  "menuLabel": "[ D 165-1 ]",
+  "unit": 165,
+  "part": null,
+  "order": 328,
+  "audio": [
+    {
+      "src": "/audio/ld/d165.mp3",
+      "legacySrc": "sounds/d165.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 165 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 출연 이래로 TV는 도처의 사람들의 일상생활에 엄청난 영향을 미쳐왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "수신이 가능한 한 완벽에 가깝게 되도록 텔레비젼에 있어서의"
+    },
+    {
+      "type": "instruction",
+      "text": "온갖 종류의 개선이 꾸준히 이루어지고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 많은 프로그램이 칼러로 방송된다."
+    },
+    {
+      "type": "instruction",
+      "text": "아마도 중요한 가장 최근의 진보는 “Telstar\"이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "지구의 궤도를 도는 이 특별한 장비를 갖춘 우주 캡슐은"
+    },
+    {
+      "type": "instruction",
+      "text": "전 세계가 과거 어느 때보다도 더 가까워질 수 있게 해준다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 쉬카고의 한 가족은 이태리에서의 자동차 경주, 놀웨이에서의 스키 토너먼트"
+    },
+    {
+      "type": "instruction",
+      "text": "혹은 일본의 퍼레이드를 이런 행사들이 실제로 벌어지고 있는 동안 TV로 볼 수 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d165-1.htm",
+  "legacyEncoding": "utf-8"
+}

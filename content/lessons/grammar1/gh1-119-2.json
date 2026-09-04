@@ -1,0 +1,124 @@
+{
+  "id": "gh1-119-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-119",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 119-2]",
+  "menuLabel": "[ gh1-119-2 ]",
+  "unit": 119,
+  "part": null,
+  "order": 177,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-119-2.mp3",
+      "legacySrc": "sounds/gh1-119-2.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 119-2]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "56",
+          "text": "Won't you give it to me?"
+        },
+        {
+          "n": "57",
+          "text": "What would you like? What do you want?"
+        },
+        {
+          "n": "58",
+          "text": "Weren't three of the victims Danes?"
+        },
+        {
+          "n": "59",
+          "text": "It's not that filthy, is it?"
+        },
+        {
+          "n": "60",
+          "text": "Who changed your opinion of Harvard people?"
+        },
+        {
+          "n": "61",
+          "text": "They're not all like you, are they?"
+        },
+        {
+          "n": "62",
+          "text": "Who gave you a ride(lift)?"
+        },
+        {
+          "n": "63",
+          "text": "Do I look like you?"
+        },
+        {
+          "n": "64",
+          "text": "Weren't they going to see your place?"
+        },
+        {
+          "n": "65",
+          "text": "Who wants to meet your brothers?"
+        },
+        {
+          "n": "66",
+          "text": "We are going to(will) do that another time (some other time)."
+        },
+        {
+          "n": "67",
+          "text": "Don't forget the coffee."
+        },
+        {
+          "n": "68",
+          "text": "You didn't say that, did you?"
+        },
+        {
+          "n": "69",
+          "text": "Why didn't you take a cab(taxi)?"
+        },
+        {
+          "n": "70",
+          "text": "We went to college together, didn't we?"
+        },
+        {
+          "n": "71",
+          "text": "It will cover your sex change operation, won't it?"
+        },
+        {
+          "n": "72",
+          "text": "What don't I understand?"
+        },
+        {
+          "n": "73",
+          "text": "Who won the bet?"
+        },
+        {
+          "n": "74",
+          "text": "Who changed the world?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-119-2.htm",
+  "legacyEncoding": "utf-8"
+}

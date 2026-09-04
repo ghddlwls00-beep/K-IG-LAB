@@ -1,0 +1,159 @@
+{
+  "id": "p17-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p17",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle17-1]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": null,
+  "order": 167,
+  "audio": [
+    {
+      "src": "/audio/middle/p17.mp3",
+      "legacySrc": "sounds/p17.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle17-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "17과 역사"
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 어떻게 한국이라는 나라가 건국되었는가에 대한 이야기 입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리나라 역사는 약 오 천년 전에 시작되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "옛날 옛적에 하늘의 왕이신 환인께서"
+    },
+    {
+      "type": "instruction",
+      "text": "그의 아들인 환웅을 지상으로 보내셨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "지상에서 사는 동안, 그는 곰이 여자가 된 웅녀와 결혼을 했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 아들 한 명을 낳았고 그를 단군이라 이름 지었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 한국의 건립자가 되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 나라의 고대 이름은 고조선 이었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "고조선이 멸망한 이후에, 한반도는 세 개의 왕국으로 나누어 졌습니다:"
+    },
+    {
+      "type": "instruction",
+      "text": "고구려, 백제, 그리고 신라입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "후에 이 세 개의 왕국들은 하나의 나라로 합쳐졌고"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 신라왕국이라 불렀습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "신라왕국은 8세기 중반에 가장 힘이 쌨습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 한국역사의 황금기라고 불렸습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "신라가 멸망한 후에,"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 다른 나라들은 한국을 지배하려고 시도했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "잠시 동안, 한국은 일본에 의해 지배를 받았습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 한국사람들은 일본의 힘 아래에 있는 것을 좋아하지 않아서"
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 일본의 통치에 대항해 싸웠습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "1948년, 한국은 일본으로부터 독립했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "1950년 북쪽에서 온 군대가 남쪽을 침범했을 때 내전이 발생했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 한반도는 북한과 남한으로 나누어졌습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "1953년 전쟁이 끝난 이래로, 나라는 매우 빨리 발전하기 시작했고,"
+    },
+    {
+      "type": "instruction",
+      "text": "특히 1970년대에 그랬습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그때부터 지금까지, 나라는 계속 급성장 했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "1988년, 한국은 하계올림픽게임을 주최했고 2002년,"
+    },
+    {
+      "type": "instruction",
+      "text": "한국에서 월드컵 역시 개최되었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 나라와 긴 역사 동안 달성해 온 것에 대해 매우 자랑스럽습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p17-1.htm",
+  "legacyEncoding": "utf-8"
+}

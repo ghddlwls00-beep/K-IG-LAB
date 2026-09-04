@@ -1,0 +1,79 @@
+{
+  "id": "p161-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p161",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 161-1 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 1,
+  "order": 161,
+  "audio": [
+    {
+      "src": "/audio/middle/p161.mp3",
+      "legacySrc": "sounds/p161.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 161-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 다른 꿈의 직업)"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 빌 게이츠, 반기문, 안젤리나 졸리와 같은"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 성공한 사람들에 대해서 TV에서 보아왔고, 읽어왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 사람들은 이런 저런 방법으로 나에게 많은 영향을 주었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "몇 년 전, 엘리자베스 이세 여왕이 한국을 방문했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 통역사와 함께있었고 그녀는 매우 전문적이었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀의 멋진 통역하는 능력은 나에게 깊은 인상을 주었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 나에게 통역사가 되고 싶어 하는 것에 충분히 감명을"
+    },
+    {
+      "type": "instruction",
+      "text": "주었습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p161-1.htm",
+  "legacyEncoding": "utf-8"
+}

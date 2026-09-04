@@ -1,0 +1,131 @@
+{
+  "id": "am04a",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 04 A ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": null,
+  "order": 40,
+  "audio": [
+    {
+      "src": "/audio/adults/am04a.mp3",
+      "legacySrc": "sounds/am04a.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 04 A ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 4A:"
+    },
+    {
+      "type": "hints",
+      "text": "Introducing My Relatives"
+    },
+    {
+      "type": "instruction",
+      "text": "Greeting"
+    },
+    {
+      "type": "instruction",
+      "text": "Next, I’d like/love to tell you about my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My Parents and Siblings"
+    },
+    {
+      "type": "instruction",
+      "text": "Because I am the oldest (not the oldest) we visit my family very often (not very often)."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents live close by, so I try to visit them two times a month."
+    },
+    {
+      "type": "instruction",
+      "text": "My family and I are close, and when we get together, we like to go out to dinner together and talk for hours."
+    },
+    {
+      "type": "instruction",
+      "text": "My father used to be a businessman, but he is retired now."
+    },
+    {
+      "type": "instruction",
+      "text": "He often goes hiking in the mountains with his friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother still loves to prepare delicious meals and look after her grandchildren."
+    },
+    {
+      "type": "instruction",
+      "text": "I have 2 brothers and 2 sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "They are all married, and I have lots of nieces and nephews."
+    },
+    {
+      "type": "instruction",
+      "text": "My Wife’s Family"
+    },
+    {
+      "type": "instruction",
+      "text": "My wife has many relatives because her father and mother have many brothers and sisters, too."
+    },
+    {
+      "type": "instruction",
+      "text": "She has (2) brothers and (2) sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "Because her family doesn’t live near us, we visit them once a month."
+    },
+    {
+      "type": "instruction",
+      "text": "My father-in-law used to be a teacher, but now he is retired like my father."
+    },
+    {
+      "type": "instruction",
+      "text": "He likes to go hiking a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother-in-law loves to watch our children and always helps my family, too."
+    },
+    {
+      "type": "instruction",
+      "text": "In her free time, my mother-in-law likes to go shopping and visit the local sauna with her friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My wife’s siblings live near by, so we usually visit them once a month."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am04a.htm",
+  "legacyEncoding": "utf-8"
+}

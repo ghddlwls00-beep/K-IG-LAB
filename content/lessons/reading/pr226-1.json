@@ -1,0 +1,43 @@
+{
+  "id": "pr226-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr226",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 226-1 ]",
+  "menuLabel": "[ pr226-1 ]",
+  "unit": 226,
+  "part": null,
+  "order": 451,
+  "audio": [
+    {
+      "src": "/audio/reading/pr226.mp3",
+      "legacySrc": "sounds/pr226.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 226-1 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr226-1.htm",
+  "legacyEncoding": "utf-8"
+}

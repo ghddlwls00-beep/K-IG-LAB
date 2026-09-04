@@ -1,0 +1,60 @@
+{
+  "id": "qa014-1",
+  "course": "basics",
+  "series": "qa",
+  "variant": "script",
+  "pairId": "qa014",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "〔 PASSOFF - 014-1 〕",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 4,
+  "order": 18,
+  "audio": [
+    {
+      "src": "/audio/basics/qa014.mp3",
+      "legacySrc": "sounds/qa014.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "〔 PASSOFF - 014-1 〕"
+    },
+    {
+      "type": "instruction",
+      "text": "( 학년 ) → 당신은 몇 학년 입니까 ?"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "4",
+          "text": "난 / 5학년 / 이야."
+        },
+        {
+          "n": "5",
+          "text": "난 / 고려 초등학교에 / 다녀."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/qa014-1.htm",
+  "legacyEncoding": "utf-8"
+}

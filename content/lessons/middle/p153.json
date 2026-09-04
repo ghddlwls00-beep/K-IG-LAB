@@ -1,0 +1,83 @@
+{
+  "id": "p153",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 153 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 3,
+  "order": 156,
+  "audio": [
+    {
+      "src": "/audio/middle/p153.mp3",
+      "legacySrc": "sounds/p153.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 153 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Why Do I Admire Him?)"
+    },
+    {
+      "type": "hints",
+      "text": "In spite of the lack of confidence in him by many Korean people,"
+    },
+    {
+      "type": "instruction",
+      "text": "he never lost his confidence."
+    },
+    {
+      "type": "instruction",
+      "text": "He always emphasized that in order to be good players,"
+    },
+    {
+      "type": "instruction",
+      "text": "they must start from the basics."
+    },
+    {
+      "type": "instruction",
+      "text": "By working hard and sticking to his plan"
+    },
+    {
+      "type": "instruction",
+      "text": "he was able to bring the Korean team"
+    },
+    {
+      "type": "instruction",
+      "text": "to the semi-finals during the 2002 World Cup."
+    },
+    {
+      "type": "instruction",
+      "text": "In short, Coach Hiddink proved that he could succeed"
+    },
+    {
+      "type": "instruction",
+      "text": "despite Korea’s lack of confidence in his abilities."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p153.htm",
+  "legacyEncoding": "utf-8"
+}

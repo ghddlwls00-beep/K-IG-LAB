@@ -1,0 +1,75 @@
+{
+  "id": "d029-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d029",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 029 회 ]",
+  "menuLabel": "[ D 029-1 ]",
+  "unit": 29,
+  "part": null,
+  "order": 57,
+  "audio": [
+    {
+      "src": "/audio/ld/d029.mp3",
+      "legacySrc": "sounds/d029.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 029 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Marta Perez가 2번 레인에서 그녀를 대신했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 50미터 배영에서 항상 더 잘해왔지만 100미터 자유형도 잘합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "33번 레인에서 우리는 Lakeside Spots Club을 위한 Elizabeth Norris를 봅니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 종종 자신의 스포츠 클럽을 위하여 수영해왔고 몇몇 매우 좋은 시합을 해왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Sally Miller는 4번 레인의 Community Sports Club 수영 선수입니다. 많은 그녀의 친구들도 왔습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 풀장의 다른 끝에 있고 그들은 모두 Sally를 위하여 응원하고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Sally는 모든 그 도움으로 승리할지도 모릅니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d029-1.htm",
+  "legacyEncoding": "utf-8"
+}

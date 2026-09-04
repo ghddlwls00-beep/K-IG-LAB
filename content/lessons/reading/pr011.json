@@ -1,0 +1,63 @@
+{
+  "id": "pr011",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 011 ]",
+  "menuLabel": "[ pr011 ]",
+  "unit": 11,
+  "part": null,
+  "order": 20,
+  "audio": [
+    {
+      "src": "/audio/reading/pr011.mp3",
+      "legacySrc": "sounds/pr011.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 011 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Crane could help us in many ways in the future. It could help make a giant"
+    },
+    {
+      "type": "hints",
+      "text": "telescope. We could then see seven times further into space. It could fly into space and"
+    },
+    {
+      "type": "instruction",
+      "text": "back again and again. It could also help build a solar power station in space. This would"
+    },
+    {
+      "type": "instruction",
+      "text": "give it extra power for longer flights. Who knows what the future will bring? Perhaps it will"
+    },
+    {
+      "type": "instruction",
+      "text": "one day take people for sightseeing trips around the moon."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr011.htm",
+  "legacyEncoding": "utf-8"
+}

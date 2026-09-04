@@ -1,0 +1,47 @@
+{
+  "id": "pr150",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 150 ]",
+  "menuLabel": "[ pr150 ]",
+  "unit": 150,
+  "part": null,
+  "order": 298,
+  "audio": [
+    {
+      "src": "/audio/reading/pr150.mp3",
+      "legacySrc": "sounds/pr150.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 150 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Modern man has lived on the Earth for only 35,000 years, but we have changed our planet in many ways in that time. Many of the things that we have done are good, but many more are not good for the Earth. We have created traffic pollution, Global warming, and acid rain. These problems are very serious for our future. But we can do something now! In many places, people have already taken action to improve the environment."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr150.htm",
+  "legacyEncoding": "utf-8"
+}

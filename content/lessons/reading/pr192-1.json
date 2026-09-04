@@ -1,0 +1,47 @@
+{
+  "id": "pr192-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr192",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 192-1 ]",
+  "menuLabel": "[ pr192-1 ]",
+  "unit": 192,
+  "part": null,
+  "order": 383,
+  "audio": [
+    {
+      "src": "/audio/reading/pr192.mp3",
+      "legacySrc": "sounds/pr192.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 192-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 음악가들이 동의하기를 세계에서 가장 좋은 바이올린은 이탈리아 Cremona에서 만들어진 것으로, 약 300년 전 것이다. 이 바이올린은 다른 어떤 것보다 소리가 좋다. 바이올린 만드는 사람과 과학자들이 현재 이탈리아 것과 같은 악기를 만들려고 노력했다. 그러나 똑같은 것을 만들 수 없었다. 음악가들은 옛날 것을 더 좋아한다. 왜 이 옛날 악기가 더 특별한가? 아무도 모른다. 그러나 많은 사람들은 나름대로의 대답을 한다. 어떤 사람은 바이올린의 나이, 또 어떤 사람은 나무의 종류가 중요한 것이 아니고 특별한 방법으로 나무를 베어내는 방법이라도 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr192-1.htm",
+  "legacyEncoding": "utf-8"
+}

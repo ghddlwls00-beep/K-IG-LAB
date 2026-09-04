@@ -1,0 +1,99 @@
+{
+  "id": "d147-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d147",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 147 회 ]",
+  "menuLabel": "[ D 147-1 ]",
+  "unit": 147,
+  "part": null,
+  "order": 293,
+  "audio": [
+    {
+      "src": "/audio/ld/d147.mp3",
+      "legacySrc": "sounds/d147.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 147 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Dear Jim. 이것은 대학에서의 너의 첫 해이고 네가 생일에 집으로부터 떠나있는 첫 번째이다."
+    },
+    {
+      "type": "instruction",
+      "text": "너의 어머니와 나는 너를 매우 많이 그리워한다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 네가 얼마나 빨리 자랐는지에 대하여 종종 이야기한다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 네가 대학에서 매우 바쁘다는 것을 알지만 우리는"
+    },
+    {
+      "type": "instruction",
+      "text": "네가 우리에게 그렇게 자주 편지를 할 수 있다는 것이 기쁘다."
+    },
+    {
+      "type": "instruction",
+      "text": "너의 어머니와 나는 둘 다 잘 지낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "너의 동생들도 건강하다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 나에게 그들 대신에 너에게 생일 축하해달라고 부탁했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 너의 생일을 위한 선물로써 약간의 돈을 동봉한다."
+    },
+    {
+      "type": "instruction",
+      "text": "너는 그것으로 네가 원하는 무엇이든지 살 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "네가 할 수 있을 때는 언제든지 우리에게 편지해라."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 너와 대학의 약간의 사진을 보면 좋겠다."
+    },
+    {
+      "type": "instruction",
+      "text": "사랑, 아빠."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d147-1.htm",
+  "legacyEncoding": "utf-8"
+}

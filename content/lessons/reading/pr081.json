@@ -1,0 +1,67 @@
+{
+  "id": "pr081",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 081 ]",
+  "menuLabel": "[ pr081 ]",
+  "unit": 81,
+  "part": null,
+  "order": 160,
+  "audio": [
+    {
+      "src": "/audio/reading/pr081.mp3",
+      "legacySrc": "sounds/pr081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 081 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(A)"
+    },
+    {
+      "type": "hints",
+      "text": "Imagine that it’s Saturday and you are to meet your friends at the mall at 12:00. You’ve been busy all morning, and suddenly you notice it is 11:45. You hurry to get ready and then jump in the car. What route is probably the fastest? You know where the mall is, and you choose the best route based on what you know about the distance, the number of stop lights, and the amount of traffic. In short, you make observations and make your best guesses based on what you know and have observed."
+    },
+    {
+      "type": "instruction",
+      "text": "(B)"
+    },
+    {
+      "type": "instruction",
+      "text": "True problem solving, however, goes beyond feelings. To solve a problem, you must look beyond how you feel and combine information that you already know with new observations. Then, on the basis of your knowledge of the situation, you can evaluate the problem and come up with the best way to solve it. An example will make this point clear."
+    },
+    {
+      "type": "instruction",
+      "text": "(C)"
+    },
+    {
+      "type": "instruction",
+      "text": "Everyone makes decisions every day. What clothes should you wear? Should you go out tonight or stay home and study? Most of the decisions people make are based on what they feel will be the best solution. Feelings and judgments of how others feel toward you play a major role in how you choose to solve your day-to-day problems."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr081.htm",
+  "legacyEncoding": "utf-8"
+}

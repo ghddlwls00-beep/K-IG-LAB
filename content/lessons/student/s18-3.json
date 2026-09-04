@@ -1,0 +1,433 @@
+{
+  "id": "s18-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s18-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 3,
+  "order": 77,
+  "audio": [
+    {
+      "src": "/audio/student/s18-3-1.mp3",
+      "legacySrc": "s18-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-2.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-3.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-4.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-5.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-6.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-7.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-8.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-9.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-10.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-11.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-12.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-13.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-14.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-15.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-16.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-17.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-18.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-19.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-20.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-21.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-22.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-23.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-24.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s18-3-25.mp3",
+      "legacySrc": "s18-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I like our country's traditional holidays.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "On these days I learn how important family is!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "During Chu-seok, People visit their ancestrial tombs and make an offering of food to their ancestors.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석은 한 해의 가장 큰 국경일 이고, 그것은 종종 한국의 추수감사절이라 불린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석 동안, 사람들은 그들 조상의 무덤을 방문하고 그들의 조상들에게 음식을 대접한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가, 대부분의 사람들은 그들의 친척들과 함께 게임을 하고 한국의 전통 떡인 송편을 만든다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, most people play games with their relatives and make song-pyeun,which is a Korean traditional rice cake.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 우리 나라의 국경일을 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이런 날을 통해서 저는 가족이 얼마나 중요한지에 대해 배웁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석은Chu-seok is",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 큰 국경일 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 가장 큰 국경일 입니다. the biggest national holiday",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한 해의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한 해의 of the year,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그것은 종종 불립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 그것은 종종 불립니다. and it is often referred to",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국의 추수감사절이라고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국의 추수감사절이라고 as the Korean Thanksgiving.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석동안",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "추석동안During Chu-seok,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사람들은 조상의 무덤을 방문합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 사람들은 조상의 무덤을 방문합니다. People visit their ancestrial tombs",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 음식으로 제사를 지냅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 음식으로 제사를 지냅니다. and make an offering of food",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들의 조상들에게",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들의 조상들에게 to their ancestors.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가In addition,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 대부분의 사람들이 게임을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 대부분의 사람들이 게임을 합니다. most people play games",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들의 친척들과 함께",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그들의 친척들과 함께 with their relatives",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 송편을 만듭니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 송편을 만듭니다. and make song-pyeun,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국 전통 떡인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 한국 전통 떡인which is a Korean traditional rice cake.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 좋아합니다.I like",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라의 전통 휴일들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리나라의 전통 휴일들을 our country's traditional holidays.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 날들을 통해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이 날들을 통해On these days",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 배웁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 배웁니다. I learn",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 얼마나 가족이 중요한지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 얼마나 가족이 중요한지 how important family is.",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Holidays :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chu-seok",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s18-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s18-3.swf"
+  ]
+}

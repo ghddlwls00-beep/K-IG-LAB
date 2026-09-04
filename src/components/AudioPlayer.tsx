@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useLanguage } from "./LanguageProvider";
+import { mediaUrl } from "@/lib/media";
 
 /**
  * Replaces the legacy `<embed src="...mp3">` player.
@@ -66,7 +67,7 @@ export function AudioPlayer({
     <div className="border border-line p-3 transition-colors duration-200 ease-out hover:border-line-strong">
       <audio
         ref={ref}
-        src={src}
+        src={mediaUrl(src)}
         preload="metadata"
         autoPlay={autoplay}
         onPlay={() => setPlaying(true)}

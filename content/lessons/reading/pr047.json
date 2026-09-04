@@ -1,0 +1,47 @@
+{
+  "id": "pr047",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 047 ]",
+  "menuLabel": "[ pr047 ]",
+  "unit": 47,
+  "part": null,
+  "order": 92,
+  "audio": [
+    {
+      "src": "/audio/reading/pr047.mp3",
+      "legacySrc": "sounds/pr047.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 047 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "This government has emphasized excellence in business. It recognizes that the economy must remain strong and is willing to provide whatever is needed in order to achieve this excellence. However, it hasn’t fully recognized the importance of the arts, especially the performing arts. The performing arts also desire excellence, but in order to achieve it, they need financial help. Without the government’s support, the performing arts cannot survive. This will affect other areas of culture, including film. If the government doesn’t support the performing arts, this country will lose much of the heart and soul of its people."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr047.htm",
+  "legacyEncoding": "utf-8"
+}

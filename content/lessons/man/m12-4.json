@@ -1,0 +1,108 @@
+{
+  "id": "m12-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m12-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 4,
+  "order": 56,
+  "audio": [
+    {
+      "src": "/audio/man/m12-4-1.mp3",
+      "legacySrc": "m12-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-4-2.mp3",
+      "legacySrc": "m12-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-4-3.mp3",
+      "legacySrc": "m12-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m12-4-4.mp3",
+      "legacySrc": "m12-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나는 종종 텔레비전을 너무 많이 봐서 나는 요즘은 새로운 것을 배우기 위해 책을 읽으려 시도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I often watch too much television, so I try to read books these days in orderto learn new things.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "최근에, 나는 영어 공부를 하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lately, I have been studying English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 가족 중 중요한 부분이기 때문에 나는 또한 내 건강을 돌보기를 원합니다. 그래서 나는 규칙적으로 혼자 또는 나의 아내와 함께 운동을 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because I am an important part of my family, I also want to take care of my health, so I regularly exercise by myself or with my wife.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I often watch too much television, so I try to read books these days in order to learn new things.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "12 Married Life",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spending Time with the Family",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m12-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m12-4.swf"
+  ]
+}

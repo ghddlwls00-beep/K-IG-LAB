@@ -1,0 +1,83 @@
+{
+  "id": "d177-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d177",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 177 회 ]",
+  "menuLabel": "[ D 177-1 ]",
+  "unit": 177,
+  "part": null,
+  "order": 352,
+  "audio": [
+    {
+      "src": "/audio/ld/d177.mp3",
+      "legacySrc": "sounds/d177.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 177 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "불행히도 Rudd가 기차 정거장에 도착할 무렵에는 그 가련한 건망증이"
+    },
+    {
+      "type": "instruction",
+      "text": "심한 사람은 그 자신이 그 목적지의 이름을 잊었다."
+    },
+    {
+      "type": "instruction",
+      "text": "다행히도 그의 친구 한 사람이 우연히 그 정거장에 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 Rudd가 그가 행선지를 알아내기 위하여 집으로 돌아가는 동안 아이들을 돌봐주겠다고 제의했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 교수의 부인은 그렇게 빨리 그를 다시 보고 놀랬으나 무엇이 문제인지 들었을 때 즐거워했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 그의 기억력을 신뢰하지 않아서 그 마을의 이름을 종이에 적어주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "자신이 그 문제를 해결한 것에 만족하여 그녀는 다시 남편을 전송했다."
+    },
+    {
+      "type": "instruction",
+      "text": "십분 후에 그녀는 다시 그를 집 밖에서 보고 깜짝 놀랬다."
+    },
+    {
+      "type": "instruction",
+      "text": "이제는 무엇이 문제였던가?(어디에 애들을 놔뒀는지 잊었다.)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d177-1.htm",
+  "legacyEncoding": "utf-8"
+}

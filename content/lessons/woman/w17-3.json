@@ -1,0 +1,153 @@
+{
+  "id": "w17-3",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w17-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 3,
+  "order": 70,
+  "audio": [
+    {
+      "src": "/audio/woman/w17-3-1.mp3",
+      "legacySrc": "w17-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-2.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-3.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-4.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-5.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-6.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w17-3-7.mp3",
+      "legacySrc": "w17-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "17 The History of Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Independence of Korea and the Korean War",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라가 멸망한 후, 많은 다른 나라들이 한국을 지배하기위하여 노력했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "After Shilla fell, many other countries tried to gain power over Korea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "얼마동안, 한국은 일본에 의해 지배되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "For a while, Korea was ruled by Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 한국 사람들이 일본의 지배아래 놓이는 것을 싫어했습니다. 그래서 그들은 일본 통치에 대항해 싸웠습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many Koreans did not like being under the power of Japan, so they fought against Japanese rule.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1945년에, 한국이 일본으로부터 독립되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1945, Korea was liberated from Japan.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "1950년에 북으로부터 남쪽을 침공하는 내전이 일어났습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "A civil war broke out in 1950 when armies from the North invaded the South.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그 결과로, 한반도는 북한과 남한으로 나누어지게 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, the Korean peninsula became divided into North and South Korea.",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w17-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w17-3.swf"
+  ]
+}

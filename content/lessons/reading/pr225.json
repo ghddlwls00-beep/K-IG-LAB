@@ -1,0 +1,51 @@
+{
+  "id": "pr225",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 225 ]",
+  "menuLabel": "[ pr225 ]",
+  "unit": 225,
+  "part": null,
+  "order": 448,
+  "audio": [
+    {
+      "src": "/audio/reading/pr225.mp3",
+      "legacySrc": "sounds/pr225.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 225 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people insist on “love at first sight,” but I suggest that they calm down and take a second look. There is no such thing as love at first sight. Some of those attractive first－sight qualities may turn out to be genuine and durable, but don't count on the storybook formula."
+    },
+    {
+      "type": "hints",
+      "text": "The other saying, “love is blind” is far more sensible. The young girl who believes herself to be in love can't see the undesirable qualities in her man because she wishes not to see them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr225.htm",
+  "legacyEncoding": "utf-8"
+}

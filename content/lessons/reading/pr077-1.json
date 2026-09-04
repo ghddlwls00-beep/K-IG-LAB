@@ -1,0 +1,47 @@
+{
+  "id": "pr077-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr077",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 077-1 ]",
+  "menuLabel": "[ pr077-1 ]",
+  "unit": 77,
+  "part": null,
+  "order": 153,
+  "audio": [
+    {
+      "src": "/audio/reading/pr077.mp3",
+      "legacySrc": "sounds/pr077.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 077-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "일부 전문가들에 따르면, 우리가 우리의 자녀들과 손자들이 끔찍한 유산을 남기고 있다고 한다. 즉, 그 유산은 대기권에의 이른바 온실 가스의 증대된 누적 현상 및 이러한 증대 현상이 초래하게 될 가능성이 높은 불행스러운 기후의 변화이다. 그러나, 과학계는 한 목소리를 내지 못하고 있다(의견이 대립되고 있다). 다른 과학자들은 지구 온난화에 대한 증거는 결정적인 것이 되지 못한다고 주장하고, 또한 이에 기초한 예측들은 의심스러운 것이라고 주장한다. 이러한 과학적인 논쟁이 격렬해져오고 있다. 이 논쟁은 또한 기후 변화라는 있을 수도 있을 문제에 대처하기 위하여 그 조치가 존재한다면 어떤 조치를 취해야 하는가에 대한 정치적인 논쟁에 연료를 대고 있다(논쟁을 더 격렬하게 만들고 있다)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr077-1.htm",
+  "legacyEncoding": "utf-8"
+}

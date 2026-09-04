@@ -1,0 +1,47 @@
+{
+  "id": "pr155-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr155",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 155-1 ]",
+  "menuLabel": "[ pr155-1 ]",
+  "unit": 155,
+  "part": null,
+  "order": 309,
+  "audio": [
+    {
+      "src": "/audio/reading/pr155.mp3",
+      "legacySrc": "sounds/pr155.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 155-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "자연은 끊임없이 변하는 것 같다. 그러나 자연을 자세히 관찰하면 변화와 균형은 꾸준히 균형을 이룬다. 인간의 경우, 신체의 세포는 계속해서 교체되지만 신체의 일반적인 형태와 크기는 비교적 일정하다. 마찬가지로 숲의 경우에도, 나무들과 풀은 죽어서 없어지거나 새롭게 자라나지만, 숲은 숲으로 남아있다. 숲 속에 있는 개체의 죽은 본체는 쓰러지고 토양이 되지만 다른 개체에게 영양을 공급해 준다. 자연의 구성 요소는 계속해서 변하지만 자연 그 자체는 꾸준히 유지된다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr155-1.htm",
+  "legacyEncoding": "utf-8"
+}

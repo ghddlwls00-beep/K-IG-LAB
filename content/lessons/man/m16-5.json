@@ -1,0 +1,118 @@
+{
+  "id": "m16-5",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m16-5",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 5,
+  "order": 72,
+  "audio": [
+    {
+      "src": "/audio/man/m16-5-1.mp3",
+      "legacySrc": "m16-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-5-2.mp3",
+      "legacySrc": "m16-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-5-3.mp3",
+      "legacySrc": "m16-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-5-4.mp3",
+      "legacySrc": "m16-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-5-5.mp3",
+      "legacySrc": "m16-5.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "오늘날 한국의 비만이 서서히 증가하기 때문에 많은 한국인들이 더욱 그들의 건강에 관심을 가지고 있고 체형을 유지하기 위해 규칙적으로 운동하려 노력한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of the slow rise in obesity in Korea today, many Koreans are becoming more interested in their health and try to exercise regularly in order to stay in shape.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "어떤 사람들은 헬스클럽에 가고, 운동 수업에 참여하고, 산을 오르거나 수영을 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some people go to health clubs, attend exercise classes, mountain climb, or swim.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 활동적일 때, 우리는 건강을 유지할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we are active, we stay healthier.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 더 건강할 때, 우리는 더 오래 더 행복한 삶을 살 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we are healthier, we can live longer and happier lives.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Health of Koreans",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m16-5.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m16-5.swf"
+  ]
+}

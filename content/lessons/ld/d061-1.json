@@ -1,0 +1,87 @@
+{
+  "id": "d061-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d061",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 061회 ]",
+  "menuLabel": "[ D 061-1 ]",
+  "unit": 61,
+  "part": null,
+  "order": 121,
+  "audio": [
+    {
+      "src": "/audio/ld/d061.mp3",
+      "legacySrc": "sounds/d061.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 061회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "쇼산업은 겉으로 보일지 모르는 것만큼 훌륭하지는 않다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 여자 친구와 내가 Tony Montag를 보러갔던 때가 생각난다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 그가 시내에서 하고 있는 쇼에 대한 선전을 신문에서 보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 클럽에 전화해서 무대 옆의 테이블에 두 자리를 얻었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그때 나는 이게 웬 행운인가라고 생각했다. Taggy는 우리가 오랫동안 좋아했던 사람이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 술도 담배도 하지 않았다. 그는 십대의 우상의 생활에 싫증나있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 소박하게 살았고 그의 돈의 대부분을 자선에 바쳤다. 그 쇼는 큰 성공이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 남자는 얼마나 환상적인 공연자였던가! 청중은 모든 하나의 노래 후에 더욱 더 열성적이 되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 쇼 후에 Taggy는 무대 뒤에서 사인해주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 무대 옆에 앉아 있었기 때문에 우리가 맨먼저였다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d061-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr201",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 201 ]",
+  "menuLabel": "[ pr201 ]",
+  "unit": 201,
+  "part": null,
+  "order": 400,
+  "audio": [
+    {
+      "src": "/audio/reading/pr201.mp3",
+      "legacySrc": "sounds/pr201.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 201 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Disharmony enters our relationships when we try to impose our values on others by wanting them to live by what we feel is “right,” “fair,” “good,” “bad,” and so on. If they do not accept our values, we become annoyed and angry. However, we must realize that no one is obligated to change just to meet our expectations of how we feel they should act. People may disturb or anger us, but the fact that not everyone objects to their behavior indicates that the problem is probably ours. We need to see things as they are, not as we would like them to be."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr201.htm",
+  "legacyEncoding": "utf-8"
+}

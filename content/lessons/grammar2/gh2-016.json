@@ -1,0 +1,192 @@
+{
+  "id": "gh2-016",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 16 ]",
+  "menuLabel": "[ 16과 영어 ]",
+  "unit": 16,
+  "part": null,
+  "order": 18,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-016.mp3",
+      "legacySrc": "sounds/gh2-016.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 16 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He must study English."
+        },
+        {
+          "n": "2",
+          "text": "He must be studying English."
+        },
+        {
+          "n": "3",
+          "text": "He must have studied English."
+        },
+        {
+          "n": "4",
+          "text": "He might have studied English."
+        },
+        {
+          "n": "5",
+          "text": "He would have studied English."
+        },
+        {
+          "n": "6",
+          "text": "He should have studied English."
+        },
+        {
+          "n": "7",
+          "text": "We were living in Seoul then."
+        },
+        {
+          "n": "8",
+          "text": "I will have soup first and then the chicken."
+        },
+        {
+          "n": "9",
+          "text": "If it's not on the table, then it will be in the drawer."
+        },
+        {
+          "n": "10",
+          "text": "Can I leave a message, then?"
+        },
+        {
+          "n": "11",
+          "text": "He is rich."
+        },
+        {
+          "n": "12",
+          "text": "So he can buy it."
+        },
+        {
+          "n": "13",
+          "text": "Don't be so pessimistic."
+        },
+        {
+          "n": "14",
+          "text": "He is so poor that he can not buy it."
+        },
+        {
+          "n": "15",
+          "text": "I did not have an apple."
+        },
+        {
+          "n": "16",
+          "text": "Instead, I had a peach."
+        },
+        {
+          "n": "17",
+          "text": "Instead of going to school, he went fishing."
+        },
+        {
+          "n": "18",
+          "text": "He will retain his position until he decides otherwise."
+        },
+        {
+          "n": "19",
+          "text": "The law made hundreds of otherwise honest men lawbreakers."
+        },
+        {
+          "n": "20",
+          "text": "He worked hard; otherwise, he would have failed."
+        },
+        {
+          "n": "21",
+          "text": "I have some money."
+        },
+        {
+          "n": "22",
+          "text": "I have some 50 dollars."
+        },
+        {
+          "n": "23",
+          "text": "Will you give me some apples?"
+        },
+        {
+          "n": "24",
+          "text": "Some people like fish and some don't."
+        },
+        {
+          "n": "25",
+          "text": "I didn't see any person."
+        },
+        {
+          "n": "26",
+          "text": "I saw some people."
+        },
+        {
+          "n": "27",
+          "text": "I want anything sweet."
+        },
+        {
+          "n": "28",
+          "text": "I want something sweet."
+        },
+        {
+          "n": "29",
+          "text": "Even I know it."
+        },
+        {
+          "n": "30",
+          "text": "He hasn't come yet."
+        },
+        {
+          "n": "31",
+          "text": "Yet, I'm sure he will be here any minute."
+        },
+        {
+          "n": "32",
+          "text": "The time is yet to come."
+        },
+        {
+          "n": "33",
+          "text": "It is the largest diamond yet found."
+        },
+        {
+          "n": "34",
+          "text": "The war still goes on."
+        },
+        {
+          "n": "35",
+          "text": "Stand still."
+        },
+        {
+          "n": "36",
+          "text": "He felt tired, still he continued his work."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-016.htm",
+  "legacyEncoding": "utf-8"
+}

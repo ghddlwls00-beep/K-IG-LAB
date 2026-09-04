@@ -1,0 +1,481 @@
+{
+  "id": "cnn036",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Hydrogen Car* Is Coming",
+  "label": "Hydrogen Car* Is Coming",
+  "menuLabel": "[ CNN 36 ]",
+  "unit": 36,
+  "part": null,
+  "order": 35,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn036.mp4",
+      "legacySrc": "CNN/CNN1-60/36.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hydrogen Car* Is Coming"
+    },
+    {
+      "type": "paragraph",
+      "text": "CNN Anchor: In Tech Watch today, we’re taking a look at one of the most expensive cars in the world. It has an environmentally friendly hydrogen fuel engine and it may be where the future of the automobile lies. Maggie Lake has a story of one U.S. family that’s testing this new technology.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MAGGIE LAKE, CNN Correspondent: The Spillinos may look like your typical American family but they’re actually part of a cutting-edge experiment to transform cars and the way we drive. Honda picked the Spillinos to be part of a program to test-drive their hydrogen fuel cell prototype, the FCX.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SPILLINO: It meets our everyday needs.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAKE: Soaring gas prices have created a surge in demand for fuelefficient hybrid cars. In 2005, the number of gas-electric cars on American roads more than doubled. Honda is betting hydrogen cars are the next step in that evolution.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPHEN ELLIS, Honda Spokesman: Fuel cell cars offer a great opportunities for us to move toward a zero carbon-based fuel, zero emission vehicles and a domestic fuel so we’re not dependent on oil.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAKE: Capable of speeds over 90 miles an hour, the FCX runs on a fuel cell powered by liquid hydrogen and compressed air. The only exhaust, water. Now Honda’s working with New York State to see whether the FCX can withstand the frigid Northeast winters. Dan Hogan, who’s the chair of the New York Clean Vehicle Council, says so far he’s pleased with its performance.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DAN HOGAN, Chair of the New York Clean Vehicle Council: I had it out last year on a day when it was 10 below zero and it ran fine and even though it’s a small car, it’s fairly heavy because of the fuel cells and it handles quite well in the snow and ice.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAKE: But the FCX is not easy to refuel. Test drivers must fill up their car with liquid hydrogen every 120 to 150 miles. But while gas stations are everywhere, there are no hydrogen refueling stations on the road. Right now, the testers must head back to a makeshift trailer. Critics say the lack of infrastructure means hydrogen cars are a long way from the mass market.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JOE ROMM, Author of Hype About Hydrogen: Your average consumer isn’t gonna even be contemplating buying a hydrogen car for at least 20 years. And it could be much longer than that because we need some scientific breakthroughs before this could be a practical and affordable car.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAKE: It’s an expensive gamble. Honda spends a million dollars to produce just one FCX, but both Dan Hogan and the Spillinos are confident Honda is on the right track. Maggie Lake, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "수소 자동차가 오고 있다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "CNN 앵커: 오늘 <테크 와치> 시간에는 세계 최고가 자동차 중 하나를 살펴보겠습니다. 이 차에는 친환경적인 수소연료엔진이 장착되어 있는데요, 바로 여기에 자동차의 미래가 달려있을지도 모릅니다. 매기 레이크 기자가 이 새로운 기술을 시험해 보고 있는 한 미국 가족의 이야기를 소개해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "매기 레이크, CNN 기자: 스필리노 씨 가족이 전형적인 미국 가족처럼 보이실지 모르지만, 사실 이 가족은 자동차와 운전 방식에 큰 변화를 가져올 최첨단 실험 과정에 참여하고 있습니다. 혼다 사는 자사의 수소연료전지 자동차 FCX의 시운전 프로그램 참여자로 스필리노 씨 가족을 선발했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스필리노: 이 차는 사람들의 일상적인 욕구들을 충족시켜 줍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레이크: 석유 가격이 치솟으면서 연비가 우수한 하이브리드 자동차에 대한 수요가 급증하고 있습니다. 2005년 미국의 도로를 달린 휘발유-전기겸용 자동차 수는 두 배 이상 증가했습니다. 혼다 사는 수소자동차야말로 자동차 발전 과정의 다음 단계를 차지할 차라고 단언하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스티븐 엘리스, 혼다 대변인: 연료전지차는 무탄소 연료, 무공해 차량, 자국산 연료로 전환할 수 있는 더없이 좋은 기회를 제공합니다. 그러니까 석유에 의존하지 않아도 되는 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레이크: 시속 90마일[약 시속 145킬로미터] 이상의 속도를 낼 수 있는 FCX는 액화 수소와 압축 공기를 동력으로 하는 연료전지로 움직입니다. 유일하게 소모되는 것은 물입니다. 이제 혼다 사는 뉴욕 주와 제휴해 FCX가 북동부 지역의 혹독한 겨울을 견딜 수 있을지 여부를 시험해 보고 있습니다. 뉴욕 청정차량 위원회의 댄 호건 위원장은 아직까지는FCX의 성능에 만족하고 있다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "댄 호건, 뉴욕 청정차량위원회 위원장: 지난해 기온이 (화씨) 영하 10도[섭씨 영하 12도]였던 날에 이 차를 한번 끌고 나갔었는데 괜찮았습니다. 차가 작긴 하지만 연료전지 때문에 꽤 무게감도 있고 눈길이나 빙판길에서도 상당히 잘 굴러가는 편입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레이크: 그러나 FCX는 연료 충전이 쉽지 않습니다. 시운전자들은 120 내지 150마일을 주행할 때마다 차에 액화 수소를 채워 주어야 합니다. 주유소는 어디에나 있지만 도로변에서 수소 충전소는 전혀 찾아볼 수 없습니다. 현재로서는 시운전자들이 (연료 충전을 위해) 임시 트레일러로 다시 돌아가야 합니다. 이에 비판적인 사람들은 이런 인프라 부족 때문에 수소차가 대량생산되기까지는 오랜 시간이 걸릴 것이라고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조 롬, <수소에 대한 지나친 기대> 저자: 일반 소비자들은 적어도 앞으로 20년 동안은 수소차를 사려는 생각조차 하지 않을 것입니다. 사실 그보다 훨씬 더 오래 걸릴 수도 있습니다. 왜냐하면 수소차가 실용적이고 가격이 감당할 수 있을 정도가 되려면 기술적으로 몇몇 획기적인 발전이 이루어져야 하기 때문이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레이크: 수소자동차는 엄청난 도박입니다. 혼다 사가 FCX 한 대를 생산하는 데에만 무려 100만달러가 듭니다. 그러나 댄 호건 씨와 스필리노 씨 가족은 혼다 사가 길을 제대로 가고 있다고 확신합니다. 뉴욕에서 CNN, 매기 레이크였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-rld- 자음이 세 번 겹쳐 나와 중간 자음 [l]이 탈락되어 word와 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 앵커가 영국식 발음을 구사해 [r] 발음이 탈락되면서 앞모음을 길게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "where이 the와 이어져 whether처럼 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "hydrogen이 1음절에 강세가 있어 2, 3음절의 모음이 약화되어 -dro-의 [쥬러]가 [즈]로 -gen이 [즌]으로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "fuel과 cell처럼 [l]이 단어 끝이나 끝자음 앞에 올 때는 발음이 명확하지 않은 dark L이 된다. 이때는 우리말 [어]를 살짝 넣어 발음하면 원음에 가깝다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[i]가 강세를 받지 못해 [으]로 약화되는데, efficient의 첫 모음이 바로 그런 경우다. 뒤에 나오는 gas-electric cars의 electric도 2음절에 강세가 있어 [을렉츄릭]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "evolution은 [에볼루션] 혹은 [이볼루션] 두 가지로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 전자로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ten과 below가 한 단어처럼 붙여 발음되어 ten의 [n]이 뒤의 [b] 영향을 받아 [m]으로 변형 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "zero의 [이어]에서 [어] 발음이 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "and가 한 단어처럼 쓰이는 단어를 연결할 때는 [은]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. bread and butter[브레든버러].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠르게 진행되는 뉴스나 대화에서는 단어의 철자가 뒤바뀌어 발음되는데 대표적인 경우가 produce다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[r]을 편하게 발음하기 위해서인데, produce가 porduce처럼 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. hydrogen/ 수소",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. test driver/ 시운전자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) carbon/ 탄소 (2) base/ …을 주성분으로 하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. compress/ 압축하다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) lack/ 부족, 결핍 (2) infrastructure/ 인프라, 사회[경제] 기반 시설",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "world",
+          "text": "[(우)워ㄷ]."
+        },
+        {
+          "n": "where the future",
+          "text": "[훼더 퓨처]."
+        },
+        {
+          "n": "hydrogen fuel cell",
+          "text": "[하이즈즌 퓨얼 쎄얼]."
+        },
+        {
+          "n": "efficient hybrid",
+          "text": "[으피션 하이브 ]."
+        },
+        {
+          "n": "evolution",
+          "text": "[에볼루션]."
+        },
+        {
+          "n": "10 below zero",
+          "text": "[템블로우 지로우]."
+        },
+        {
+          "n": "snow and ice",
+          "text": "[스노우은아이ㅆ]."
+        },
+        {
+          "n": "to produce",
+          "text": "[두 퍼-r듀ㅆ]."
+        },
+        {
+          "n": "* hydrogen (fuel engine) car",
+          "text": "수소(연료전지) 자동차"
+        },
+        {
+          "n": "1) take a loot at",
+          "text": "…을 한번 슬쩍 보다"
+        },
+        {
+          "n": "2) environmentally friendly",
+          "text": "환경친화적인, 친환경의"
+        },
+        {
+          "n": "3) automobile",
+          "text": "자동차"
+        },
+        {
+          "n": "4) the Spillinos",
+          "text": "스필리노 씨 가족, 스필리노 씨 내외: 사람의 성 앞에 정관사를 붙이고 뒤에 복수형 어미 s를 붙이면 그 가족 혹은 부부를 뜻한다. ex. the Kims 김씨 가족, 김씨 내외"
+        },
+        {
+          "n": "5) typical",
+          "text": "전형적인"
+        },
+        {
+          "n": "6) cutting-edge",
+          "text": "첨단의, 최신 기술의"
+        },
+        {
+          "n": "7) experiment",
+          "text": "실험, 시험; 시도"
+        },
+        {
+          "n": "8) transform",
+          "text": "…을 완전히 바꾸다, 전환하다"
+        },
+        {
+          "n": "9) test-drive",
+          "text": "시운전하다"
+        },
+        {
+          "n": "10) fuel cell",
+          "text": "연료전지: 수소와 산소를 반응시켜 전기를 발생시키는 장치"
+        },
+        {
+          "n": "11) prototype",
+          "text": "프로토타입, 시제품; 원형, 기본형; 모델"
+        },
+        {
+          "n": "12) FCX",
+          "text": "혼다 FCX: 도쿄 모터쇼에서 처음 선보인 혼다의 연료전지 탑재 차량으로, 메탄올과 물로 수소를 발생시키고 이것을 공기와 반응시켜 전기를 얻는다. 주행 시 발생하는 것은 수증기뿐인 무공해 차량이다."
+        },
+        {
+          "n": "13) meet one’s needs",
+          "text": "…의 욕구[필요]를 충족시키다"
+        },
+        {
+          "n": "14) soar",
+          "text": "치솟다, 급등하다"
+        },
+        {
+          "n": "15) surge",
+          "text": "급상승"
+        },
+        {
+          "n": "16) demand",
+          "text": "수요(량)"
+        },
+        {
+          "n": "17) fuel-efficient",
+          "text": "저연비의, 연료 효율이 높은"
+        },
+        {
+          "n": "18) gas-electric car",
+          "text": "휘발유-전기 겸용 자동차: 하이브리드 자동차를 의미"
+        },
+        {
+          "n": "19) evolution",
+          "text": "진화"
+        },
+        {
+          "n": "20) move toward",
+          "text": "…을 지향하다"
+        },
+        {
+          "n": "21) zero carbon-based fuel",
+          "text": "무탄소 연료"
+        },
+        {
+          "n": "22) emission",
+          "text": "배기(가스)"
+        },
+        {
+          "n": "23) domestic",
+          "text": "국내의, 국산의"
+        },
+        {
+          "n": "24) be dependent on",
+          "text": "…에 의존하다"
+        },
+        {
+          "n": "25) capable of",
+          "text": "…을 할 수 있는"
+        },
+        {
+          "n": "26) run on",
+          "text": "…을 동력원으로 작동하다[움직이다]"
+        },
+        {
+          "n": "27) power",
+          "text": "동력을 공급하다"
+        },
+        {
+          "n": "28) liquid hydrogen",
+          "text": "액화[액체] 수소"
+        },
+        {
+          "n": "29) compressed air",
+          "text": "압축 공기"
+        },
+        {
+          "n": "30) exhaust",
+          "text": "{기계} (엔진 따위로부터의) 배기, 배출; (배출된) 가스"
+        },
+        {
+          "n": "31) withstand",
+          "text": "버티다, 이겨내다"
+        },
+        {
+          "n": "32) frigid",
+          "text": "매우 추운, 혹한의"
+        },
+        {
+          "n": "33) performance",
+          "text": "성능"
+        },
+        {
+          "n": "34) 10 below zero",
+          "text": "(화씨) 영하 10도: 미국에서는 주로 화씨(Fahrenheit)를 사용"
+        },
+        {
+          "n": "35) fairly",
+          "text": "상당히, 꽤"
+        },
+        {
+          "n": "36) handle",
+          "text": "(차량 등이) 조종되다, 다루어지다"
+        },
+        {
+          "n": "37) refuel",
+          "text": "연료를 보급[공급]하다"
+        },
+        {
+          "n": "38) fill up",
+          "text": "(기름 등을) 가득 채우다"
+        },
+        {
+          "n": "39) gas station",
+          "text": "주유소"
+        },
+        {
+          "n": "40) hydrogen refueling station",
+          "text": "수소 충전소, 수소 주유소"
+        },
+        {
+          "n": "41) head back to",
+          "text": "…(으)로 다시 향하다, 다시 가다"
+        },
+        {
+          "n": "42) makeshift",
+          "text": "임시로 만든, 임시변통의"
+        },
+        {
+          "n": "43) trailer",
+          "text": "트레일러: 자동차,트럭,트랙터 따위에 연결해서 화물을 나르는 차"
+        },
+        {
+          "n": "44) lack of infrastructure",
+          "text": "인프라 부족"
+        },
+        {
+          "n": "45) a long way from",
+          "text": "…(으)로부터 멀리 떨어진, …까지 갈 길이 먼"
+        },
+        {
+          "n": "46) mass market",
+          "text": "대중 시장, 대량 판매 시장"
+        },
+        {
+          "n": "47) hype",
+          "text": "[haip] 과대광고[선전], 지나치게 떠들어댐"
+        },
+        {
+          "n": "48) consumer",
+          "text": "소비자"
+        },
+        {
+          "n": "49) contemplate",
+          "text": "생각하다, 계획[기도]하다"
+        },
+        {
+          "n": "50) breakthrough",
+          "text": "약진, 새로운 발견, 획기적 돌파구"
+        },
+        {
+          "n": "51) practical",
+          "text": "실용적인, 실제적으로 유용한"
+        },
+        {
+          "n": "52) affordable",
+          "text": "(가격이) 살 만한, 감당할 수 있는"
+        },
+        {
+          "n": "53) be on the right track",
+          "text": "(생각 등이) 옳은 방향으로 나가다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/36.wmv",
+  "legacyEncoding": "binary"
+}

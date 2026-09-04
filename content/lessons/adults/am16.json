@@ -1,0 +1,135 @@
+{
+  "id": "am16",
+  "course": "adults",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 16 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": null,
+  "order": 152,
+  "audio": [
+    {
+      "src": "/audio/adults/am16.mp3",
+      "legacySrc": "sounds/am16.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 16 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 16: Korean Culture"
+    },
+    {
+      "type": "hints",
+      "text": "Korea’s History"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea has a long, rich, and colorful history that is over five thousand years old."
+    },
+    {
+      "type": "instruction",
+      "text": "We are proud of our history and culture."
+    },
+    {
+      "type": "instruction",
+      "text": "Entertainment in Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Today’s youth like musicians, singers, and actors."
+    },
+    {
+      "type": "instruction",
+      "text": "It is very different from our generation."
+    },
+    {
+      "type": "instruction",
+      "text": "Because our generation likes movies and television dramas, entertainers are our modern heroes."
+    },
+    {
+      "type": "instruction",
+      "text": "Now, more young people are becoming addicted to computer games, which are slowly deteriorating their minds."
+    },
+    {
+      "type": "instruction",
+      "text": "Popular Sports in Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "After the 2002 Soccer World Cup was held in Korea, soccer and many other sports became more popular in our country."
+    },
+    {
+      "type": "instruction",
+      "text": "On weekends, we mostly watch sports or go to live games at the stadium."
+    },
+    {
+      "type": "instruction",
+      "text": "Nowadays, rollerblading and skate boarding are becoming popular with Korean children."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean Films"
+    },
+    {
+      "type": "instruction",
+      "text": "The film industry in Korea is really booming these days."
+    },
+    {
+      "type": "instruction",
+      "text": "Our films are exported all over Asia, and our actors are becoming famous."
+    },
+    {
+      "type": "instruction",
+      "text": "This is very good for the Korean economy."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean people also enjoy watching films from all over the world."
+    },
+    {
+      "type": "instruction",
+      "text": "The Health of Koreans"
+    },
+    {
+      "type": "instruction",
+      "text": "Because of the slow rise in obesity in Korea today, many Koreans are becoming more interested in their health and try to exercise regularly in order to stay in shape."
+    },
+    {
+      "type": "instruction",
+      "text": "Some people go to health clubs, attend exercise classes, mountain climb, or swim."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are active, we stay healthier."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are healthier, we can live longer and happier lives."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am16.htm",
+  "legacyEncoding": "utf-8"
+}

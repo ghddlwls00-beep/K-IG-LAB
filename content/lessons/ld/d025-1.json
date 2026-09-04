@@ -1,0 +1,91 @@
+{
+  "id": "d025-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d025",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 025 회 ]",
+  "menuLabel": "[ D 025-1 ]",
+  "unit": 25,
+  "part": null,
+  "order": 49,
+  "audio": [
+    {
+      "src": "/audio/ld/d025.mp3",
+      "legacySrc": "sounds/d025.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 025 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "지난 토요일 Carlos와 Kim은 해변으로 갔다. 그날은 아름다운 날이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "태양은 뜨거웠지만 약간의 바람이 있었다. 그들은 오전 열시 경에 그들의 아파트를 떠났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 몇 가지 것들을 그들과 함께 갖고 갔다 - 약간의 잡지, 몇 장의 수건, 점심으로 약간의 음식."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 매우 좋은 점심 - 약간의 과일, 약간의 치즈, 많은 샌드위치, 몇 개의 과자, 그리고 약간의 쥬스-를 가져갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 한 작은 고무 보트를 가져갔다. 그들은 11시 30분경에 해변에 도착했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 운전은 그 교통 때문에 약 한 시간 걸렸다. 그 운전 후에 그들은 매우 더워서 그들의 물건들을 해변에"
+    },
+    {
+      "type": "instruction",
+      "text": "놓고 수영하러 갔다. 물은 촉감이 좋아서 그들은 정말로 수영하는 것을 즐겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 수영한 후에 Kim은 한권의 잡지를 읽었다. Carlos는 해변을 따라 산책했다."
+    },
+    {
+      "type": "instruction",
+      "text": "Carlos가 돌아왔을 때 그들은 그 고무보트를 얕은 물로 가져가서 올라탔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Carlos가 그 보트를 저었고 Kim은 대양과 해변과 하늘을 바라보았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 아름다운 날이었지만 바람이 많게 되고 있었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d025-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pr219-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr219",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 219-1 ]",
+  "menuLabel": "[ pr219-1 ]",
+  "unit": 219,
+  "part": null,
+  "order": 437,
+  "audio": [
+    {
+      "src": "/audio/reading/pr219.mp3",
+      "legacySrc": "sounds/pr219.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 219-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "논쟁은 때때로 엄격한 집안에서는 무례한 행동으로 간주된다. 그럼에도"
+    },
+    {
+      "type": "instruction",
+      "text": "논쟁한다는 것은 정상적으로 자라는 젊은이들의 삶의 방식이다. 초기"
+    },
+    {
+      "type": "instruction",
+      "text": "사춘기 때에, 그들은 무엇이든 그들의 부모와 논쟁한다. 나이가 들어감에"
+    },
+    {
+      "type": "instruction",
+      "text": "따라 논쟁의 양은 감소하지만, 질은 증가한다. 논쟁은 사춘기 소년소녀들이"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 가정 생활에서 할 필요가 있는 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr219-1.htm",
+  "legacyEncoding": "utf-8"
+}

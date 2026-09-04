@@ -1,0 +1,88 @@
+{
+  "id": "mv1-01",
+  "course": "phonics",
+  "series": "mv1",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ mv1-01 ]",
+  "unit": 1,
+  "part": null,
+  "order": 0,
+  "audio": [
+    {
+      "src": "/audio/phonics/mv1-01.mp3",
+      "legacySrc": "sounds/mv1-01.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "do",
+          "can",
+          "not",
+          "have",
+          "say",
+          "go"
+        ],
+        [
+          "come",
+          "and",
+          "but",
+          "this",
+          "that",
+          "very"
+        ],
+        [
+          "with",
+          "when",
+          "where",
+          "what",
+          "how",
+          "why"
+        ],
+        [
+          "here",
+          "there",
+          "see",
+          "as",
+          "all",
+          "so"
+        ],
+        [
+          "like",
+          "from",
+          "get",
+          "think",
+          "know",
+          "about"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ mv1-01 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/mv1-01.htm",
+  "legacyEncoding": "utf-8"
+}

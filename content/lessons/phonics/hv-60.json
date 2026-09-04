@@ -1,0 +1,88 @@
+{
+  "id": "hv-60",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-60 ]",
+  "unit": 60,
+  "part": null,
+  "order": 179,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-60.mp3",
+      "legacySrc": "sounds/hv-60.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "resolute",
+          "resolution",
+          "dissolve",
+          "philosophy",
+          "philosopher",
+          "sophisticated"
+        ],
+        [
+          "sophomore",
+          "respect",
+          "respectable",
+          "respectful",
+          "expect",
+          "expectation"
+        ],
+        [
+          "unexpected",
+          "suspect",
+          "suspicion",
+          "inspection",
+          "social",
+          "inspect"
+        ],
+        [
+          "specific",
+          "seemingly",
+          "resolve",
+          "solution",
+          "solve",
+          "desolate"
+        ],
+        [
+          "solitude",
+          "spectator",
+          "solitary",
+          "suspicious",
+          "species",
+          "assembly"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-60 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-60.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr121-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr121",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 121-1 ]",
+  "menuLabel": "[ pr121-1 ]",
+  "unit": 121,
+  "part": null,
+  "order": 241,
+  "audio": [
+    {
+      "src": "/audio/reading/pr121.mp3",
+      "legacySrc": "sounds/pr121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 121-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 과학자들은 우리의 몸을 쉬게 함으로서, 양호한 건강 상태를 유지한다고 믿는다. 다른 일을 하는데 에너지를 소모하지 않으면 어떤 손상도 더 빨리 치유될 수 있다. 다친 동물들은 상처가 치유되는 동안 분명히 평소보다 더 많은 시간을 잠으로 보낸다. 여러 질병들은, 우리 몸이 우리를 계속해서 치료하게 하도록, 우리를 졸리게 만든다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr121-1.htm",
+  "legacyEncoding": "utf-8"
+}

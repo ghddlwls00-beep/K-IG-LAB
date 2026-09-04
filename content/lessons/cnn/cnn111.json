@@ -1,0 +1,552 @@
+{
+  "id": "cnn111",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Americans Becoming Big on* Small Vehicles",
+  "label": "Americans Becoming Big on* Small Vehicles",
+  "menuLabel": "[ CNN 111 ]",
+  "unit": 111,
+  "part": null,
+  "order": 110,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn111.mp4",
+      "legacySrc": "CNN/CNN61-120/111.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Americans Becoming Big on* Small Vehicles"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINTON, CNN Anchor: Well, as prices keep rising at the pump, drivers are having to dig deeper to fill up. Analysts say that is one reason some Americans are becoming big on the idea of smaller cars. Christopher King has the details.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED PEOPLE: “Why not? Looks exciting.” “I would love it, yes.” “Great for going back and forth to work... easy to park... looks great.” “Ha ha, it’s just a fun car.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHRISTOPHER KING, CNN Correspondent: Manufacturers at the New York Auto Show are rolling out pint-size rides to attract drivers who want to trade in the high-profile bulk of the SUV for the fuel efficiency and ease of the subcompact.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "REBEKAH DECKER, Nissan Product Specialist: This year the biggest question has been “What’s the fuel economy? How much miles to the gallon am I gonna get on this vehicle?”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: Automakers are hoping “small” is “big” in America, with the prices of most of these vehicles ranging from about 10- to 15-thousand dollars, the appeall is simple.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MICHAEL GIANNONE, Consumer: Comfort, easy to park, low gas, better gas economy, probably low maintenance on the car.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: The Smart Car from Zap gets about 40 miles to the gallon, the highest..the company claims for a conventional combustion engine.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "STEVEN KIM, ZAP, Head of Corporate Finance: There is still, you know, a little bit of a niche market that wants to drive socially responsible, cute, fun cars around, you know, to be noticed, you know, to help out the economy.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: Now the makers of these extra small cars are banking on the idea that rising fuel costs and concern for the environment will drive consumers to downsize and buy micro-size vehicles like this Smart Car. The question is “Can they stand up to the demands of American roads?” The Smart Car rated 3 out of 5 stars in European crash tests.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KIM: You’ll see with your own eyes that this really is in an impact collision, is really one of the safer cars.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: But how safe are smaller cars overall? The Insurance Institute for Highway Safety says smaller vehicles lack the crush space in front to absorb the impact of a crash. According to the group, mini-cars accounted for 117 fatalities per million drivers in 2004, more than almost any other vehicle category.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RUSS RADER, Insurance Inst. for Highway Safety: If you are putting your family in a small car to save money at the gas pump, that’s a risky proposition, because small cars are less safe than bigger vehicles.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: Some consumers aren’t buying that.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GIANNONE: That is a myth. People think that if they have a lot of metal around them, it’s better. It’s compact crumple zones, air bags, the way cars are configured. They may collapse around you, but you won’t get killed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KING: So get used to seeing more mini-cars on a highway near you. Christopher King, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국인들은 작은 차를 좋아해",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴 CNN 앵커: 유가가 계속 오름에 따라, 연료를 가득 채우려면 운전자들은 지갑을 탈탈 털어야 될 겁니다. 분석가들은 이것을 미국인들이 보다 작은 차를 선호하게 된 이유 중 하나라고 말하고 있습니다. 크리스토퍼 킹 기자가 자세한 소식을 전해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 사람들:“안 될 것 없죠. 신나겠는데요.” “전 마음에 들어요, 정말로요.”“직장에 왔다갔다하기 좋고, 주차하기도 쉽고, 멋져요.” “하하, 재미있는 차긴 하군요. “",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스토퍼 킹, CNN 기자: 이번 뉴욕오토쇼에서 자동차 제조업자들은 SUV(스포츠유틸리티차)의 번듯한 차체보다는 초소형차의 연료 효율성과 편리함을 원하는 운전자들의 눈을 사로잡기 위해 소형 자동차를 대대적으로 선보였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레베카 데커, 닛산 상품 전문가: 올해 가장 큰 이슈는“연비가 얼마나 되는지, 연료 1갤런으로 이 차가 얼마나 갈 수 있는가”하는겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: 자동차 제조업자들은 미국에서‘작은’차가‘큰’돈이 되기를 기대하고 있습니다. 이들 소형차체의 가격이 대부분 1만 달러에서 1만5천 달러 선을 오가는 가운데, 이들의 매력은 아주 단순합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "마이클 지안논, 소비자: 승차감 좋고, 주차하기 쉽고, 연료 적게 들고, 연비도 낫고요. 아마 차량 유지비도 적게 들 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: Zap 사의‘스마트 카’는 연료 1갤런으로 약 40마일을 달릴 수 있는데요, 회사 측 주장에 의하면 기존의 일반 내연 엔진으로는 최고라고 합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스티븐 킴, Zap 사 기업재무 팀장: 관심도 끌고 경제에도 도움이 되기 위해 사회적으로 합리적이고 귀여우며 재미있는 차를 운전하고 싶어하는 사람들을 위한 약간의 틈새 시장이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: 이제 이런 초소형 경차 제조업자들은 치솟는 연료비와 환경문제에 대한 우려로 인해 소비자들이 차 사이즈를 줄여 이 스마트 카와 같은 초소형 차를 구입하게 될 것이라는 생각에 기대를 걸고 있습니다. 문제는“이들 경차가 미국의 도로 사정에 맞느냐 하는”점입니다. 스마트 카는 유럽의 신차 안전 테스트에서 5점 만점에 3점을 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킴: 차가 정말이지 충돌에 강해서 정말 안전한 차들 중 하나라는 사실을 눈으로 직접 확인하실 수 있을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: 하지만 일반적으로 소형차가 얼마나 안전할까요? ‘미국 고속 도로안전보험협회’에서는 소형차들은 안쪽에 충돌 시 충격을 흡수해 줄 수 있는 완충 공간이 부족하다고 말합니다. 협회 측에 따르면, 지난 2004년 초소형 차는 운전자 100만 명 당 117명이라는 그 어떤 차종 보다 높은 사망률을 기록했다고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "러스 레이더, 미국 고속도로안전보험협회: 연료비를 아끼려고 가족을 소형차에 태운다는 것은 위험한 발상입니다. 소형차는 중형차보다 안전하지 않기 때문이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: 일부 소비자들은 이에 동의하지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지안논: 근거 없는 이야기입니다. 사람들은 차체가 크면 더 좋은 줄 알죠. 중요한 것은 제대로 된 충격 흡수대와 에어백, 차가 설계된 방식입니다. 이런 차들은 차체는 망가져도, 운전자가 목숨을 잃는 일은 없을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "킹: 따라서 앞으로 고속도로에서 점점 더 많은 소형차들을 보게 되실 겁니다. 뉴욕에서CNN, 크리스토퍼 킹이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "발음의 편리상 -ing의 [g]가 탈락되어 [롸이진]으로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "going[거인], banking[벤킨]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "pump의 끝자음 [t], [p]는 자음 앞에서 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앵커가 영국식 발음을 구사해 small의 모음 a를 [오]로, cars의 [r]을 탈락시켜 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어를 한 단어로 이어주는 접속사 and는 [은]으로 약화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. bread and butter[브레든버러], rock and roll[롸큰롤].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nt의 끝자음 [t]가 탈락되어 [파인]으로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "fine과 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[p]는 입술을 붙였다 떼면서, [f]는 윗니로 아랫입술을 살짝 깨물었다가 떼면서 내는 소리다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[l]이 단어 끝에 오면 소리가 명확하지 않은 dark L이 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이때는 우리말 [어]를 살짝 넣어 발음하면 편리하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "profile의 첫모음 [ou]가 [o]로 축약되고 [fail]이 [파열]로 소리난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "bulk는 [l]이 탈락되고 모음 u가 [o]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "2음절에 강세가 있어 첫 자음 [i]가 약화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "fuel은 [퓨얼]로 발음되어야 하는데, 앵커가 빠르게 말해 [퓰]에 가깝게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st q-로 자음이 세 번 겹쳐 나와 중간 자음인 [t]가 탈락되면서 2음절이 약화되어 [비거ㅆ]로 발음된다. highest[하이어ㅆ], costs[커ㅆ]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "combustion은 2음절에 강세가 있어 [컴바스띤]으로 3음절이 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "engine도 1음절에 강세가 있어 [엔즌]으로 나머지 음절이 약화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "틈새 시장, 즉 니치 마켓이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "niche의 발음이 [니치], [니쉬]로 둘다 가능하다는 것을 알아두자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 전자로 발음되고, market이 [말킷]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "mini-는 1음절에 강세가 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강세를 받은 [i]는 [에]에 가깝게 발음되므로 many와 혼동하지 않도록 주의한다. accounted의 -nt-가 모음 사이에 와 [t]가 [n]에 동화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. auto show/ 자동차 쇼, 자동차 전시회",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "rising at the pump",
+          "text": "[롸이진 엣 펌]."
+        },
+        {
+          "n": "smaller cars",
+          "text": "[스몰라 카-ㅈ]."
+        },
+        {
+          "n": "going back and forth",
+          "text": "[거인 빼근포ㅅ]."
+        },
+        {
+          "n": "pint-size",
+          "text": "[파인싸이ㅈ]."
+        },
+        {
+          "n": "profile bulk",
+          "text": "[프로파열 복]."
+        },
+        {
+          "n": "fuel efficiency",
+          "text": "[퓰 으피션시]."
+        },
+        {
+          "n": "biggest question",
+          "text": "[비기ㅆ쾌스쳔]."
+        },
+        {
+          "n": "combustion engine",
+          "text": "[컴바스띤 엔즌]."
+        },
+        {
+          "n": "niche market",
+          "text": "[니치말킷]."
+        },
+        {
+          "n": "mini-cars accounted",
+          "text": "[메니카ㅅ어카운ㄷ]."
+        },
+        {
+          "n": "* big on",
+          "text": "((미구어)) …을 대단히 좋아하여; …에 열광하여, 사족을 못쓰는"
+        },
+        {
+          "n": "1) pump",
+          "text": "((구어)) 주유소(gas station)"
+        },
+        {
+          "n": "2) dig deep",
+          "text": "돈을 후하게 내놓다"
+        },
+        {
+          "n": "3) fill up",
+          "text": "(차에) 기름[가스]을 가득 채우다"
+        },
+        {
+          "n": "4) analyst",
+          "text": "분석가"
+        },
+        {
+          "n": "5) detail",
+          "text": "자세한 사항"
+        },
+        {
+          "n": "6) back and forth",
+          "text": "앞뒤로"
+        },
+        {
+          "n": "7) New York Auto Show",
+          "text": "뉴욕 (국제) 오토쇼: 106년의 역사를 자랑하는 세계에서 가장 중요한 자동차 이벤트 중 하나"
+        },
+        {
+          "n": "8) roll out",
+          "text": "((구어)) (신제품을) 대대적으로[본격적으로]소개하다"
+        },
+        {
+          "n": "9) pint-size",
+          "text": "작은, 소형의(small)"
+        },
+        {
+          "n": "10) ride",
+          "text": "탈 것"
+        },
+        {
+          "n": "11) high-profile",
+          "text": "눈에 띄는, 세간의 이목을 끄는"
+        },
+        {
+          "n": "12) bulk",
+          "text": "크기, 부피, 용적"
+        },
+        {
+          "n": "13) SUV",
+          "text": "스포츠 범용(汎用) 차(sport-utility vehicle)"
+        },
+        {
+          "n": "14) trade in A for B",
+          "text": "A와 B를 교환하다"
+        },
+        {
+          "n": "15) fuel efficiency",
+          "text": "연료 효율, 연비 (fuel[gas] economy)"
+        },
+        {
+          "n": "16) subcompact",
+          "text": "서브콤팩트 카: 콤팩트보다 소형의 자동차"
+        },
+        {
+          "n": "17) How much miles...?",
+          "text": "How many miles...?라고 해야 문법적으로 맞다"
+        },
+        {
+          "n": "18) automaker",
+          "text": "자동차 제조업자[체](carmaker)"
+        },
+        {
+          "n": "19) range from A to B",
+          "text": "(…의) 범위에 이르다, 오르내리다"
+        },
+        {
+          "n": "20) appeal",
+          "text": "(여론,무력 등에의) 호소, 매력"
+        },
+        {
+          "n": "21) consumer",
+          "text": "소비자"
+        },
+        {
+          "n": "22) comfort",
+          "text": "편안함, 안락함"
+        },
+        {
+          "n": "23) maintenance",
+          "text": "유지 (관리), 정비"
+        },
+        {
+          "n": "24) conventional",
+          "text": "기존의; 항간의 통례적인, 관습적인"
+        },
+        {
+          "n": "25) combustion engine",
+          "text": "연소[내연] 기관"
+        },
+        {
+          "n": "26) niche market",
+          "text": "틈새 시장"
+        },
+        {
+          "n": "27) socially responsible",
+          "text": "사회적으로 합리적인: 여기에서는 ‘일반적으로 차가 갖춰야 할 것을 전부 합당하게 갖췄다’는 의미"
+        },
+        {
+          "n": "28) be noticed",
+          "text": "주목 받다"
+        },
+        {
+          "n": "29) help out",
+          "text": "(비용 등을) 보태 주다; 도와서 나가게 하다, (곤란 등에서) 구출하다"
+        },
+        {
+          "n": "30) bank on",
+          "text": "…을 기대하다, …에 의지하다; … 을 믿다"
+        },
+        {
+          "n": "31) downsize",
+          "text": "(차를) 소형화하다; 줄이다"
+        },
+        {
+          "n": "32) stand up to",
+          "text": "(적,위험 따위에) 용감히 맞서다"
+        },
+        {
+          "n": "33) demand",
+          "text": "요구되는 것, 요구 사항"
+        },
+        {
+          "n": "34) rate",
+          "text": "…의 등급을 매기다"
+        },
+        {
+          "n": "35) crash test",
+          "text": "신차 안전[충돌] 테스트"
+        },
+        {
+          "n": "36) impact",
+          "text": "충돌; 충격"
+        },
+        {
+          "n": "37) collision",
+          "text": "충돌"
+        },
+        {
+          "n": "38) overall",
+          "text": "일반적으로, 전반적으로"
+        },
+        {
+          "n": "39) Insurance Institute for Highway Safety",
+          "text": "미국 고속도로안전보험협회(IIHS): 미국 손해보험업계의 지원 아래 비영리로 운영되고 있는 안전 평가 기관"
+        },
+        {
+          "n": "40) crush space",
+          "text": "(충격) 완충 공간"
+        },
+        {
+          "n": "41) absorb",
+          "text": "흡수하다"
+        },
+        {
+          "n": "42) account for",
+          "text": "…의 비율을 차지하다; (사실이) (…의) 원인[설명]이 되다(cause)"
+        },
+        {
+          "n": "43) fatality",
+          "text": "(사고,전쟁 등에 의한) 죽음(death), 사망자(수)"
+        },
+        {
+          "n": "44) proposition",
+          "text": "계획, 안; 제의, 제안, 주장"
+        },
+        {
+          "n": "45) buy",
+          "text": "((미속어)) (의견을) 받아들이다, 곧이듣다, 믿다"
+        },
+        {
+          "n": "46) myth",
+          "text": "지어낸 이야기[일]; 신화"
+        },
+        {
+          "n": "47) crumple zone",
+          "text": "충격 흡수대; 충돌 때 부서짐으로써 충격을 흡수하는 자동차의 부분, 특히 범퍼"
+        },
+        {
+          "n": "48) configure",
+          "text": "(어떤 틀에 맞추어) 형성하다; (어떤 형태로) 배열하다"
+        },
+        {
+          "n": "49) collapse",
+          "text": "무너지다, 붕괴하다"
+        },
+        {
+          "n": "50) get used to",
+          "text": "…에 익숙해지다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/111.wmv",
+  "legacyEncoding": "binary"
+}

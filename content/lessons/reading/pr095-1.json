@@ -1,0 +1,47 @@
+{
+  "id": "pr095-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr095",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 095-1 ]",
+  "menuLabel": "[ pr095-1 ]",
+  "unit": 95,
+  "part": null,
+  "order": 189,
+  "audio": [
+    {
+      "src": "/audio/reading/pr095.mp3",
+      "legacySrc": "sounds/pr095.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 095-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "국제 통화 기금(IMF)은 아시아 국가들에게 영향을 주고 있는 경제적 어려움이 1999년 상반기까지는 나아지게 될 것이라고 말했다. 그렇지만 그들은 과거의 높은 경제 성장률을 포기해야 한다고 경고했다. 한 IMF 관리는 1999년 하반기까지는 현재의 경제적 곤경으로부터 어려운 경제가 회복될 것이라고 말했다. 그는 IMF가 회복하게 되는 시점을 정확하게 말할 수는 없다고 덧붙였다. 그에 의하면, 그것은 정부가 그들의 경제적 문제들을 얼마나 효율적으로 다루느냐에 달려 있다고 한다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr095-1.htm",
+  "legacyEncoding": "utf-8"
+}

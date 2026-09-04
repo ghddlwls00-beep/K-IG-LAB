@@ -1,0 +1,158 @@
+{
+  "id": "w20-4",
+  "course": "woman",
+  "series": "w",
+  "variant": "main",
+  "pairId": null,
+  "title": "w20-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 4,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/woman/w20-4-1.mp3",
+      "legacySrc": "w20-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-2.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-3.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-4.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-5.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-6.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w20-4-7.mp3",
+      "legacySrc": "w20-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR WOMAN",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 Famous Places to Visit in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Piece of Korean History: GyeongJu",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "또 다른 매력적인 여정으로 경상북도에 위치한 경주입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another attractive destination is GyeongJu located in South GyeongSang Province.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "경주는 신라왕국의 옛 수도였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "GyeongJu is the old capital of the Shilla Kingdom.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라왕국은 세 나라로 나누어진 나라에서 통일신라로 알려진 나라로 통일 되었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Shilla Kingdom unified the divided land of Korea from three kingdoms into one that was known as the Unified Shilla Kingdom.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "신라왕국은 8세기동안 가장 영향력이 있었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Shilla Kingdom was its most powerful during the eighth century.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "많은 사람들이 경주를 울타리가 없는 박물관으로 여깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many people regard GyeongJu as a museum without walls.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국 사람들은 신라왕국의 많은 옛 유물들이 있기 때문에 그렇게 부릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koreans refer to it as this because it contains many of the old remains of the Shilla Dynasty.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Shilla Kingdom unified the divided land of Korea from three kingdoms into one that was known as the Unified Shilla Kingdom",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Woman/w20-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "w20-4.swf"
+  ]
+}

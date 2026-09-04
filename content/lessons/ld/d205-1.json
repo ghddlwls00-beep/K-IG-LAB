@@ -1,0 +1,75 @@
+{
+  "id": "d205-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d205",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 205 회 ]",
+  "menuLabel": "[ D 205-1 ]",
+  "unit": 205,
+  "part": null,
+  "order": 408,
+  "audio": [
+    {
+      "src": "/audio/ld/d205.mp3",
+      "legacySrc": "sounds/d205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 205 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "복숭아 파이 사건은 문자 그대로 친절로 살해하는 경우다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 상징적으로 친절로 사람잡는 것도 가능하다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 만일 우리가 즐기는 것들이 반드시 다른 사람들이 즐기는 것이"
+    },
+    {
+      "type": "instruction",
+      "text": "아니라는 것만 기억한다면 우리는 이런 과오를 쉽사리 피할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 우리의 친절을 항상 체면 때문에 사양하지는 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "사실상 때때로 우리의 좋은 의도가 다른 사람을 심각하게 불편하게 할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "한 속담은 그것을 이런 식으로 표현한다. “한 사람의 고기(육류)가 다른 사람의 독이다.”"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d205-1.htm",
+  "legacyEncoding": "utf-8"
+}

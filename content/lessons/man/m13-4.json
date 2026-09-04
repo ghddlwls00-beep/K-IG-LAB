@@ -1,0 +1,103 @@
+{
+  "id": "m13-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m13-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 4,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/man/m13-4-1.mp3",
+      "legacySrc": "m13-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-4-2.mp3",
+      "legacySrc": "m13-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-4-3.mp3",
+      "legacySrc": "m13-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m13-4-4.mp3",
+      "legacySrc": "m13-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한국이 민주주의로써 성장을 계속 하려면, 우리는 좀 더 정직한 정치인을 선출해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "As democracy in Korea continues to grow, we have to elect more honest politicians.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 공정하게 유권자들을 대표하고 그들을 계속해서 지지 할 수 있는 정치인들을 지혜롭게 뽑아야한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We must vote wisely for the politicians who we think will represent the voter fairly and support them continuously.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "정직한 정부 지도자를 투표함으로써, 우리는 한국의 운명을 우리의 손으로 잡을 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "By voting for upright government leaders, we can put the fate of Korea in our hands.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "13 Politics in Korea :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Responsibility of Korean Citizens",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m13-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m13-4.swf"
+  ]
+}

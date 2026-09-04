@@ -1,0 +1,47 @@
+{
+  "id": "pr112",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 112 ]",
+  "menuLabel": "[ pr112 ]",
+  "unit": 112,
+  "part": null,
+  "order": 222,
+  "audio": [
+    {
+      "src": "/audio/reading/pr112.mp3",
+      "legacySrc": "sounds/pr112.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 112 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "As a result of the economy, there aren't many jobs available right now. But don't be discouraged because there are somethings you can try. Have you considered taking night classes to train for another kind of job? Many workers learn new skills while keeping their regular jobs. Another possibility is looking for a different type of job in your present company. Finally, even if there are no other jobs around, be sure to relax. Take time out to do things you enjoy after work in order to reduce the stress you experience during your workday."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr112.htm",
+  "legacyEncoding": "utf-8"
+}

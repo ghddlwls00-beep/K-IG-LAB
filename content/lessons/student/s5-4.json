@@ -1,0 +1,378 @@
+{
+  "id": "s5-4",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s5-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 4,
+  "order": 30,
+  "audio": [
+    {
+      "src": "/audio/student/s5-4-1.mp3",
+      "legacySrc": "s5-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-2.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-3.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-4.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-5.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-6.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-7.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-8.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-9.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-10.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-11.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-12.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-13.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-14.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-15.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-16.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-17.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-18.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-19.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-20.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s5-4-21.mp3",
+      "legacySrc": "s5-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sometimes I hide my hands under my desk because I am afraid of what my teacher will say.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like most other students, my favorite subject is P.E., and the class I dislikethe most is history.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I don’t do my homework, I get so nervous and feel like I have butterflies in my stomach.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When class starts at 9:00, our teacher checks our homework and our journals that we put on his desk.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 숙제를 하지 않았을 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 숙제를 하지 않았을 때When I don't do my homework,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 매우 초조해진다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나는 매우 초조해진다. I get so nervous",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 다른 학생들처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 다른 학생들처럼Like most other students,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 가장 좋아하는 과목은 체육이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 내가 가장 좋아하는 과목은 체육이다. my favorite subject is P.E.,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 내가 가장 싫어하는 과목은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 내가 가장 싫어하는 과목은 and the class I dislike the most",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/역사이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/역사이다. is history.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "9시 수업이 시작할 때, 우리 선생님께서는 우리가 그의 책상에 올려놓은 숙제와 일기를 검사하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When class starts at 9:00, our teacher checks our homework and our journalsthat we put on his desk.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "내가 숙제를 하지 않았을 때 나는 매우 초조해지고 안절부절 못하는 것처럼 느낍니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나의 선생님이 말씀할 것이 두려워서 나는 나의 손을 저의 책상아래에 숨깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 다른 학생들처럼 제가 가장 좋아하는 과목은 체육 이고 제가 가장 싫어하는 수업은 역사입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like most other students, my favorite subject is P.E., and the class I dislike the most is history.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "9:00시에 수업이 시작할 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "9:00시에 수업이 시작할 때 When class starts at 9:00,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리 선생님께서 검사하신다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리 선생님께서 검사하신다. our teacher checks",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리의 숙제와 일기들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리의 숙제와 일기들을 our homework and our journals",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리가 그의 책상위에 올려 두었던",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 우리가 그의 책상위에 올려 두었던 that we put on his desk.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 느껴진다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 느껴진다. and feel like",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 안절부절 못하는 것처럼",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 안절부절 못하는 것처럼I have butterflies in my stomach.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 손을 숨긴다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "때때로 나는 나의 손을 숨긴다.Sometimes I hide my hands",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 책상아래로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 책상아래로 under my desk",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 나는 두렵기 때문이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 왜냐하면 나는 두렵기 때문이다. because I am afraid of",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 선생님께서 말씀하실 것이",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 나의 선생님께서 말씀하실 것이 what my teacher will say.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting ready for school/At school :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introducing My Class",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s5-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s5-4.swf"
+  ]
+}

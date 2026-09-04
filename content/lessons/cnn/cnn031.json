@@ -1,0 +1,472 @@
+{
+  "id": "cnn031",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "A Good Life: The Guide to Environmental Living",
+  "label": "A Good Life: The Guide to Environmental Living",
+  "menuLabel": "[ CNN 31 ]",
+  "unit": 31,
+  "part": null,
+  "order": 30,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn031.mp4",
+      "legacySrc": "CNN/CNN1-60/31.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "A Good Life: The Guide to Environmental Living"
+    },
+    {
+      "type": "paragraph",
+      "text": "JIM BOULDEN, CNN Correspondent: The Hickman family has been trying to live a more environmentally friendly and ethical life since May of 2003. That’s when Leo Hickman’s employer, London’s Guardian newspaper, asked him to change his ways and write about it in a-yearlong column.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "LEO HICKMAN, Reporter of the Guardian: I invited these three, what we ended up calling ethical auditors, who spent the best part of half a day here at the house, rummaging through cupboards, looking through the fridge, asking us lots of questions about our lifestyle, such as where we went on our holiday, how we get around, do we have a car, do we use public transport?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: The Hickman’s failed the audit. They flew on too many holidays, used disposable diapers, had bleach under the sink, a lot had to change. So out went the tumble drier and the dream of buying their first car. In came washable diapers and the worms. Twoyear-old Esmee loves the thousands of worms which now consume much of the family’s food waste.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HICKMAN: The worms kind of get going, kind of munch their way through it all and they turn it into this really rich, dark compost, which I ended up using in the garden and actually ended up growing some vegetables and things with that compost. It was a lovely kind of cycle.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: To grow those vegetables, Hickman ripped up the back deck and used the boards to make garden boxes. What they don’t grow comes in the organic box each Friday.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "But don’t believe for a second that the transition has been easy, or that the Hickman’s bought into all the suggestions. They didn’t give up the fridge-freezer and couldn’t afford the solar panels or electricity generating windmills. But Leo’s wife, Jane, no longer buys cosmetics from big corporations.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JANE: I’ve had quite a lot of fun discovering new products, and there’s an awful lot out there and you can still really pamper yourself and really spoil yourself, you know. You don’t really have to be washing your face in the morning dew to be “going natural.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: The Hickman’s could now go back to their old ways, the column finished over a year ago. But it spawned two books detailing how you can make a difference without changing your lifestyle and Leo wanted to keep going even with one big sacrifice.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HICKMAN: Not having a car was one of, was the “biggie” really, because you’re making a difference by not having a car.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: No car means a huge savings and the rediscovery of South London’s famous Brixton Market.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HICKMAN: It’s been crucial to the experiment, actually, to try and make sure that we think about all the local shops because you notice that all this kind of stuff just goes away. If the supermarkets get all our money, then all this stuff is going to disappear.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: The whole point for the Hickman’s is you don’t have to sell your house and live in the woods to make a difference.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HICKMAN: So if I can do it, anyone can do it, honestly.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BOULDEN: Jim Boulden, CNN, London.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "조화로운 삶, 친환경적으로 살아가기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "짐 볼든, CNN 기자: 히크만 씨 가족은 2003년 5월 이후로 좀더 친환경적이고 윤리적인 삶을 살기 위해 노력하고 있습니다. 바로 레오 히크만 씨를 고용한 런던 <가디언> 지 사주로부터 삶의 방식을 전환하고, 1년간 그것에 대한 칼럼을 쓸 것을 요청 받은 시점부터였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "레오 히크만, <가디언> 지 기자: 전 이른바 윤리 감사원이라고 할 수 있는 이 세 분을 초대했습니다. 그 분들은 우리 집에서 거의 반나절을 보내면서 찬장을 이리저리 들춰보고 냉장고 안을 살펴보기도 하고, 우리 집 생활 방식에 대해서도 여러 가지를 물어봤습니다. 휴가는 어디로 다녀왔는지, 어떻게 다니는지, 그러니까 우리한테 차가 있는지, 대중 교통을 이용하는지 같은 것을요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 히크만 씨 가족은 그들의 감사 기준에 부합하지 못했습니다. 이들은 비행기를 타고 휴가를 자주 다닌데다가 일회용 기저귀를 사용했고, 싱크대 밑에 표백제도 가지고 있었죠. 바꿔야 할 것이 정말 많았습니다. 그리하여 회전식 건조기와 첫 번째 차를 사겠다는 꿈을 버리고 (대신) 빨아서 쓸 수 있는 기저귀와 지렁이를 들여왔습니다. 두 살된 에스미는 현재 자기네 가족이 내놓는 음식 쓰레기 상당량을 먹어치우는 수천 마리의 지렁이를 아주 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "히크만: 지렁이들은 (꿈틀꿈틀) 기어다니면서 그 모든 음식물 찌꺼기들을 왕창 먹어치우고는 그것들을 다시 정말 비옥하고 거무스름한 거름으로 바꾸어놓습니다. 전 그걸 텃밭에 사용해봤는데요, 그렇게 만든 퇴비를 가지고 실제로 몇몇 채소와 다른 것들을 재배해 봤죠. 너무나 멋진 (자연의) 순환이 아닐 수 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 그 채소들을 재배하기 위해, 히크만 씨는 뒷 베란다를 뜯어내고 그 나무판으로 텃밭 울타리를 만들었습니다. 집에서 기르지 않는 작물들은 매주 금요일마다 유기농 제품으로 들여옵니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그렇지만 이렇게 바꾸는 과정이 쉬웠다거나 히크만 씨 가족이 그 모든 제안을 그대로 받아들였다고 생각하지는 마세요. 그들은 냉동,냉장고 사용을 그만두지 않았고, 또 태양 전지판이나 풍차 발전기를 사용할만한 여유는 없었습니다. 그러나 레오 씨의 부인 제인 씨는 더 이상 대기업 화장품을 구매하지 않습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "제인: 지금까지는 신제품들을 찾아다니는 게 그렇게 재미있을 수 없었습니다. 시중에 엄청난 양의 상품이 나와 있기 때문에 그것만으로도 모두들 각자의 취향대로 마음껏 즐길 수 있으니까요. 자연과 조화로운 삶을 살기 위해 반드시 아침 이슬로 세수를 할 필요는 없는 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 이제 히크만 씨 가족은 예전의 생활 방식으로 돌아가도 됩니다. 칼럼 연재가 끝난 지 벌써 1년이 넘었기 때문이죠. 하지만 그 칼럼들은 생활 방식을 바꾸지 않고도 변화를 이끌어낼 수 있는 방법에 대해 자세히 기술한 두 권의 책으로 출간되었습니다. 또한 레오 씨는 한 가지 큰 희생을 감수하면서까지 계속 이런 삶의 방식을 계속 유지하고 싶어 했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "히크만: 차를 소유하지 않는다는 것은 아주 중요한 변화입니다. 차가 없으면 변화를 이끌어낼 수 있으니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 차가 없으면 엄청나게 많은 돈을 절약할 수 있고요, 또 런던 남부의 유명한 브릭스톤 시장을 다시금 찾게 됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "히크만: 실제로 이번 실험에서 중점을 두고자 했던 것은 바로 모든 (소규모) 지역 상점에 대해 고민해 보고자 하는 노력입니다. 아시다시피 이런 시장들이 전부 사라지고 있기 때문이죠. 만약 (대형) 슈퍼마켓이 우리 돈을 다 가져가면 소규모 지역 상점들은 사라져버리고 말 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 히크만 씨 가족이 (이번 실험을 통해) 전하고자 하는 것은 변화를 이끌어내기 위해 꼭 집을 팔고 숲 속으로 들어갈 필요는 없다는 사실입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "히크만: 그러니까 제가 할 수 있으면 누구나 다 할 수 있다는 겁니다. 정말로요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "볼든: 런던에서 CNN, 짐 볼든이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-nt-가 모음 사이에 오면 [t]가 [n]에 동화되어 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "또한, -dly, -tely, -tly는 [d]나 [t]에서 숨을 잠깐 멈춘 뒤, [을리]라고 재빨리 발음하면 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-mm-으로 [m]이 두번 나오지만 한 번만 발음된다. through는 짧고 약하게 발음되어 to로 들린다. cupboards는 -pb-이지만 조음위치가 같아 [b]로 한번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "문장에서 강세를 받지 못하는 기능어, about과 our가 거의 안 들리고 [아-]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내용어인 questions와 lifestyle, 뒤에 이어 나오는 holidays, get around, public transport만 들리고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ed와 th-가 조음위치가 비슷해 한번만 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "audit의 첫 모음은 강세를 받으면 [아]에 가깝게 소리 나는데, 여기서는 기자가 영국식 발음을 구사해 [오]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ripped과 up이‘자음+모음’으로 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "beck과 deck이 -ck로 끝나고 둘다 끝자음을 길게 끌지 않고 앞 모음의 받침으로 간결하게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "기자가 영국식 발음으로 [r] 발음을 하지 않고 앞 모음 [어]를 길게 빼면서 약하게 발음해 garden이 golden과 비슷하게 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "per-과 you- 부분이 합쳐져 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "sp-처럼 무성음이 중복되면 발음의 편리상 두 번째 자음이 경음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그리고 모음 [a]가 [아]로 강하게 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. auditor/ 감사; 회계 감사관",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. fridge-freezer/ 냉동,냉장고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. disposable/ 일회용의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1)generate/ (전기,열 등을) 일으키다, 발생시키다 (2) windmill/풍차",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. pamper/ (욕망 따위를) 충분히 만족시키다; 애지중지하다",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "environmentally friendly",
+          "text": "[인바이런메널리 프렌을리]."
+        },
+        {
+          "n": "rummaging through cupboards",
+          "text": "[라미징 쓰카버ㅈ]."
+        },
+        {
+          "n": "questions about our lifestyle",
+          "text": "[쿠웨이쳔ㅅ 어반 아-라입스따ㄹ]"
+        },
+        {
+          "n": "failed the audit",
+          "text": "[페열디오오딛]."
+        },
+        {
+          "n": "ripped up the back deck",
+          "text": "[립덥더벡덱]."
+        },
+        {
+          "n": "garden boxes",
+          "text": "[가-든 박씨ㅅ]."
+        },
+        {
+          "n": "pamper yourself",
+          "text": "[펨퓨어쎌ㅍ]."
+        },
+        {
+          "n": "spawned two books",
+          "text": "[스빤투북ㅅ]."
+        },
+        {
+          "n": "1) environmentally friendly",
+          "text": "친환경적인"
+        },
+        {
+          "n": "2) ethical",
+          "text": "윤리적인, 도덕적인"
+        },
+        {
+          "n": "3) end up",
+          "text": "마침내[결국] (…이) 되다"
+        },
+        {
+          "n": "4) ethical auditor",
+          "text": "윤리 감사원"
+        },
+        {
+          "n": "5) rummage",
+          "text": "상세히 조사하다; (찾기 위해) 뒤적거리다"
+        },
+        {
+          "n": "6) cupboard",
+          "text": "찬장"
+        },
+        {
+          "n": "7) look through",
+          "text": "…을 샅샅이 조사하다"
+        },
+        {
+          "n": "8) fridge",
+          "text": "냉장고(refrigerator)"
+        },
+        {
+          "n": "9) go on one’s holiday",
+          "text": "휴가를 떠나다"
+        },
+        {
+          "n": "10) get around",
+          "text": "…에 도달하다"
+        },
+        {
+          "n": "11) public transport[transportation]",
+          "text": "대중 교통"
+        },
+        {
+          "n": "12) disposable diaper",
+          "text": "일회용 기저귀"
+        },
+        {
+          "n": "13) bleach",
+          "text": "표백제"
+        },
+        {
+          "n": "14) sink",
+          "text": "싱크대"
+        },
+        {
+          "n": "15) tumble drier[dryer]",
+          "text": "회전식 건조기"
+        },
+        {
+          "n": "16) washable diaper",
+          "text": "빨아서 쓰는 (천) 기저귀"
+        },
+        {
+          "n": "17) worm",
+          "text": "벌레: 여기서는 지렁이(earthworm)를 뜻함"
+        },
+        {
+          "n": "18) consume",
+          "text": "…을 죄다 먹어치우다; 소비하다"
+        },
+        {
+          "n": "19) food waste",
+          "text": "음식물 쓰레기"
+        },
+        {
+          "n": "20) get going",
+          "text": "일에 착수하다"
+        },
+        {
+          "n": "21) munch one’s way through",
+          "text": "…을 왕창 다 우적우적 씹어먹다"
+        },
+        {
+          "n": "22) compost",
+          "text": "퇴비"
+        },
+        {
+          "n": "23) rip up",
+          "text": "…을 뜯다, 잡아뜯다"
+        },
+        {
+          "n": "24) deck",
+          "text": "((미)) 집에 딸린 목제 테라스"
+        },
+        {
+          "n": "25) board",
+          "text": "판자, 널판"
+        },
+        {
+          "n": "26) garden box",
+          "text": "정원[텃밭] 울타리"
+        },
+        {
+          "n": "27) organic",
+          "text": "유기농의"
+        },
+        {
+          "n": "28) transition",
+          "text": "변화, 이행, 변천"
+        },
+        {
+          "n": "29) buy into",
+          "text": "((구어)) …을 받아들이다, 묵인하다"
+        },
+        {
+          "n": "30) solar panel",
+          "text": "태양 전지판"
+        },
+        {
+          "n": "31) electricity generating windmill(s)",
+          "text": "풍차 발전기"
+        },
+        {
+          "n": "32) cosmetics",
+          "text": "화장품"
+        },
+        {
+          "n": "33) have fun ...ing",
+          "text": "…하는 데 재미를 느끼다"
+        },
+        {
+          "n": "34) an awful lot (of)",
+          "text": "((구어)) 아주 많은"
+        },
+        {
+          "n": "35) pamper[spoil] oneself",
+          "text": "제멋대로 행동하다"
+        },
+        {
+          "n": "36) dew",
+          "text": "이슬"
+        },
+        {
+          "n": "37) spawn",
+          "text": "…을 생기게 하다, 일으키다"
+        },
+        {
+          "n": "38) make a difference",
+          "text": "변화를 가져오다"
+        },
+        {
+          "n": "39) biggie",
+          "text": "((속어)) 크고 중요한 것[사람, 국가]; 거물"
+        },
+        {
+          "n": "40) rediscovery",
+          "text": "재발견"
+        },
+        {
+          "n": "41) Brixton Market",
+          "text": "브릭스톤 시장: 런던 남부 브릭스톤 지역에서 열리는 시장으로 주로 아프리카와 카리브 해 지역 상품, 그리고 회교도들이 먹는 고기와 야채와 같은 상품들이 판매되어 이국적인 취향을 느낄 수 있다."
+        },
+        {
+          "n": "42) crucial",
+          "text": "결정적인, 중요한"
+        },
+        {
+          "n": "43) experiment",
+          "text": "실험"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/31.wmv",
+  "legacyEncoding": "binary"
+}

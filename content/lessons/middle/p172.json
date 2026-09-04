@@ -1,0 +1,79 @@
+{
+  "id": "p172",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 172 ]",
+  "menuLabel": null,
+  "unit": 17,
+  "part": 2,
+  "order": 170,
+  "audio": [
+    {
+      "src": "/audio/middle/p172.mp3",
+      "legacySrc": "sounds/p172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 172 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(The Kingdoms are Divided)"
+    },
+    {
+      "type": "hints",
+      "text": "After Gojoson fell,"
+    },
+    {
+      "type": "instruction",
+      "text": "the Korean Peninsula was divided into threekingdoms:"
+    },
+    {
+      "type": "instruction",
+      "text": "Goguryo, Baekje, and Shilla."
+    },
+    {
+      "type": "instruction",
+      "text": "Later these three kingdoms united as a single nation"
+    },
+    {
+      "type": "instruction",
+      "text": "and referred to it as the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was the most powerful"
+    },
+    {
+      "type": "instruction",
+      "text": "in the middle of the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "It was called the Golden Age of Korean History."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p172.htm",
+  "legacyEncoding": "utf-8"
+}

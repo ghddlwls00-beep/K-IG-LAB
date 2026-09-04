@@ -1,0 +1,133 @@
+{
+  "id": "cnn064",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "U.S. Accepts a 45-Day Review of Dubai Ports Deal",
+  "label": "U.S. Accepts a 45-Day Review of Dubai Ports Deal",
+  "menuLabel": "[ CNN 64 ]",
+  "unit": 64,
+  "part": null,
+  "order": 63,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn064.mp4",
+      "legacySrc": "CNN/CNN61-120/64.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "U.S. Accepts a 45-Day Review of Dubai Ports Deal"
+    },
+    {
+      "type": "paragraph",
+      "text": "The White House has agreed to a 45-day review of plans for a Dubai firm to take over U.S. terminals. Dubai Ports World hopes the review will ease U.S. fears over port security. Republicans and Democrats have criticized the deal which would give control of six U.S. ports to the company. U.S. President George W. Bush, though, has strongly backed the deal and has threatened to veto any legislation blocking it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "미 정부, 항만 경영권 이전 검토키로",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미 정부는 한 두바이 기업의 미국 항만 터미널 인수 계획에 대해 45일간 재검토 기간을 두기로 합의했습니다. 두바이 포트 월드 사는 이번 재검토를 통해 항만 안보에 대한 미국의 우려가 불식되기를 희망하고 있습니다. 공화당과 민주당 의원들은 두바이 포트 월드 사에 미국의 6개 항만의 관할권을 넘기려는 이번 거래를 비난했습니다. 하지만 조지 W. 부시 미 대통령은 이 거래를 강력히 지지하고 있으며, 이 거래를 막으려는 어떠한 법안에 대해서도 거부권을 행사하겠다고 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ed[d]와 [t]의 조음위치가 비슷해 한번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앵커의 영국식 발음으로 [r]이 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "plans[플란ㅈ]에서는 [에]를 [아]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. takeover/ 인수",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "six U.S. ports/ 미국의 6대 주요 항만: 여기서는 뉴욕과 뉴저지, 뉴올리언스, 마이애미, 필라델피아, 볼티모어 항만을 뜻함",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "agreed to",
+          "text": "[어그리투]."
+        },
+        {
+          "n": "Republicans and Democrats",
+          "text": "문장의 기능어인 접속사 and가 [은]으로 아주 약하게 발음되고 있다."
+        },
+        {
+          "n": "ports",
+          "text": "[포-ㅊ]."
+        },
+        {
+          "n": "review",
+          "text": "재검토, 재조사; 검사, 심사"
+        },
+        {
+          "n": "Dubai Ports (World)",
+          "text": "두바이 포트(월드) 사: 아랍에미리트국영회사로 미국 항만을 운영하던 영국계 해운업체 P&O를 인수해 미국 주요 항만을 관리하려고 했지만 미국 내 반발로 이를 포기했다."
+        },
+        {
+          "n": "deal",
+          "text": "거래, 장사, 매매"
+        },
+        {
+          "n": "take over",
+          "text": "…을 인수하다, 양도 받다"
+        },
+        {
+          "n": "terminal",
+          "text": "(항만, 여객) 터미널: 해운 노선이 집중되어 있는 종착점이나 시발점"
+        },
+        {
+          "n": "ease",
+          "text": "완화하다, 가볍게/하다"
+        },
+        {
+          "n": "criticize",
+          "text": "비난[비판]하다"
+        },
+        {
+          "n": "back",
+          "text": "지지하다, 후원하다"
+        },
+        {
+          "n": "threaten",
+          "text": "위협하다, 협박하다"
+        },
+        {
+          "n": "veto",
+          "text": "…을 거부하다, …에 거부권을 행사하다"
+        },
+        {
+          "n": "legislation",
+          "text": "법률, 법규, 입법 조치"
+        },
+        {
+          "n": "block",
+          "text": "막다, 방해하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/64.wmv",
+  "legacyEncoding": "binary"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p064",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 064 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 4,
+  "order": 74,
+  "audio": [
+    {
+      "src": "/audio/middle/p064.mp3",
+      "legacySrc": "sounds/p064.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 064 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Teacher Helps Me)"
+    },
+    {
+      "type": "hints",
+      "text": "My teacher is helping me realize my dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher also always tells us to set goals"
+    },
+    {
+      "type": "instruction",
+      "text": "in order to reach our dreams."
+    },
+    {
+      "type": "instruction",
+      "text": "He helps us. He tells us that we must read a lot of books."
+    },
+    {
+      "type": "instruction",
+      "text": "He is very kind to each student and points out our good qualities."
+    },
+    {
+      "type": "instruction",
+      "text": "He helps us to develop our talents."
+    },
+    {
+      "type": "instruction",
+      "text": "My teacher always says that I should be a teacher"
+    },
+    {
+      "type": "instruction",
+      "text": "because of my good qualities."
+    },
+    {
+      "type": "instruction",
+      "text": "So now I want to become a teacher."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p064.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "gh2-036",
+  "course": "grammar2",
+  "series": "gh2",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Lesson 36 ]",
+  "menuLabel": "[ 36과 영어 ]",
+  "unit": 36,
+  "part": null,
+  "order": 58,
+  "audio": [
+    {
+      "src": "/audio/grammar2/gh2-036.mp3",
+      "legacySrc": "sounds/gh2-036.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Lesson 36 ]"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "He cannot be poor to buy the car."
+        },
+        {
+          "n": "2",
+          "text": "To do his best, he could not succeed."
+        },
+        {
+          "n": "3",
+          "text": "He must be rich to marry her."
+        },
+        {
+          "n": "4",
+          "text": "He must have been rich to marry her."
+        },
+        {
+          "n": "5",
+          "text": "He had to be rich to marry her."
+        },
+        {
+          "n": "6",
+          "text": "This juice is for you to drink."
+        },
+        {
+          "n": "7",
+          "text": "A man to raise the fund must be employed."
+        },
+        {
+          "n": "8",
+          "text": "Monks have the ability to raise money for food and clothing."
+        },
+        {
+          "n": "9",
+          "text": "This is the only place left for us to go."
+        },
+        {
+          "n": "10",
+          "text": "She has an unshakable belief in her right to govern Pakistan."
+        },
+        {
+          "n": "11",
+          "text": "She rose to deliver a 40 minute speech."
+        },
+        {
+          "n": "12",
+          "text": "The president might use his constitutional power to dismiss the parliament."
+        },
+        {
+          "n": "13",
+          "text": "He was selling TV sets at cost to get rid of an overstock."
+        },
+        {
+          "n": "14",
+          "text": "They are to go to the polls in national elections."
+        },
+        {
+          "n": "15",
+          "text": "He was never to return home."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar2/gh2-036.htm",
+  "legacyEncoding": "utf-8"
+}

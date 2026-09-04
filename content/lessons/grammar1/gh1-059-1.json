@@ -1,0 +1,132 @@
+{
+  "id": "gh1-059-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-059",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 058-1]",
+  "menuLabel": "[ gh1-059-1 ]",
+  "unit": 59,
+  "part": null,
+  "order": 101,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-058-1.mp3",
+      "legacySrc": "sounds/gh1-058-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 058-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 5"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Who did this?"
+        },
+        {
+          "n": "2",
+          "text": "What does he want?"
+        },
+        {
+          "n": "3",
+          "text": "What can he do for me?"
+        },
+        {
+          "n": "4",
+          "text": "Why is she sitting there?"
+        },
+        {
+          "n": "5",
+          "text": "When does he come here?"
+        },
+        {
+          "n": "6",
+          "text": "Whose car is that(it)?"
+        },
+        {
+          "n": "7",
+          "text": "Whose pencils are those(they)?"
+        },
+        {
+          "n": "8",
+          "text": "Whom does he love?"
+        },
+        {
+          "n": "9",
+          "text": "Who loves her?"
+        },
+        {
+          "n": "10",
+          "text": "Which book does she want?"
+        },
+        {
+          "n": "11",
+          "text": "Which does his mother want?"
+        },
+        {
+          "n": "12",
+          "text": "That(It) is your car, isn't that(it)?"
+        },
+        {
+          "n": "13",
+          "text": "He loves her, doesn't he?"
+        },
+        {
+          "n": "14",
+          "text": "He doesn't have breakfast, does he?"
+        },
+        {
+          "n": "15",
+          "text": "She didn't have dinner, did she?"
+        },
+        {
+          "n": "16",
+          "text": "He needs much water, doesn't he?"
+        },
+        {
+          "n": "17",
+          "text": "The hospital wants much blood, doesn't it?"
+        },
+        {
+          "n": "18",
+          "text": "He is a gentleman, isn't he?"
+        },
+        {
+          "n": "19",
+          "text": "He wants apples."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-059-1.htm",
+  "legacyEncoding": "utf-8"
+}

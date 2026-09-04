@@ -1,0 +1,87 @@
+{
+  "id": "d184-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d184",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 184 회 ]",
+  "menuLabel": "[ D 184-1 ]",
+  "unit": 184,
+  "part": null,
+  "order": 366,
+  "audio": [
+    {
+      "src": "/audio/ld/d184.mp3",
+      "legacySrc": "sounds/d184.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 184 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 결코 정말로 운이 많지 않았고 더 오래 탐사할수록 그는 혹시라도 재산을 모을 것을 덜 믿었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러므로 그가 바로 자신의 뒤뜰에서 세계에서 가장 큰 다이아몬드 중의"
+    },
+    {
+      "type": "instruction",
+      "text": "하나를 발견했을 때 그의 느낌을 상상해보라."
+    },
+    {
+      "type": "instruction",
+      "text": "큰 폭우가 있었고 그 비가 그의 집 뒤의 언덕의 일부분을 씻어냈다."
+    },
+    {
+      "type": "instruction",
+      "text": "그리고 그 진흙의 가운데에 거대한 다이아몬드가 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "Jonker는 그 돌을 30만불 이상에 다이아몬드 거래인에게 팔았다."
+    },
+    {
+      "type": "instruction",
+      "text": "뉴욕에서 그 다이아몬드가 다시 팔렸는데 이번에는 거의 80만불에."
+    },
+    {
+      "type": "instruction",
+      "text": "다이아몬드의 진짜 가치는 그것이 커팅될 때까지는 결코 알려지지 않는다."
+    },
+    {
+      "type": "instruction",
+      "text": "일단 성공적으로 커팅이 되면 그것의 가치는 천배 증가할 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 Jonker 다이아몬드 소유주가 그가 아는 최고의 다이아몬드 커팅공에게 간 이유는 이해하기 쉽다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d184-1.htm",
+  "legacyEncoding": "utf-8"
+}

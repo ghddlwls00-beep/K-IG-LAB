@@ -1,0 +1,47 @@
+{
+  "id": "pr156",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 156 ]",
+  "menuLabel": "[ pr156 ]",
+  "unit": 156,
+  "part": null,
+  "order": 310,
+  "audio": [
+    {
+      "src": "/audio/reading/pr156.mp3",
+      "legacySrc": "sounds/pr156.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 156 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Humans do not simply soak up knowledge like sponges. We learn formal skills like learning a foreign language and doing a proof in physics, not by reading a textbook and understanding the abstract principles, but by actually solving problems in those fields. What the textbooks do not teach you is when to apply the knowledge. In fact, that turns out to be the most important of learning."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr156.htm",
+  "legacyEncoding": "utf-8"
+}

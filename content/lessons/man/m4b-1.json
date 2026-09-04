@@ -1,0 +1,78 @@
+{
+  "id": "m4b-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m4b-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 1,
+  "order": 22,
+  "audio": [
+    {
+      "src": "/audio/man/m4b-1-1.mp3",
+      "legacySrc": "m4b-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-1-2.mp3",
+      "legacySrc": "m4b-1.swf#event",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "마지막으로, 나는 당신에게 나의 친척에 대하여 말하고 싶습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, I’d like/love to tell you about my relatives.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, I’d like/love to tell you about my relatives",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "4B Introducing My Relatives :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Greeting",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m4b-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m4b-1.swf"
+  ]
+}

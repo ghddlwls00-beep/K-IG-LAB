@@ -1,0 +1,87 @@
+{
+  "id": "d006-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d006",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 006 회 ]",
+  "menuLabel": "[ D 006-1 ]",
+  "unit": 6,
+  "part": null,
+  "order": 11,
+  "audio": [
+    {
+      "src": "/audio/ld/d006.mp3",
+      "legacySrc": "sounds/d006.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 006 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Dr.William N.Green은 어린이들의 치과의사다. 그의 환자들은 대부분 어린이들이다."
+    },
+    {
+      "type": "instruction",
+      "text": "어린이들은 그의 사무실에 오는 것을 좋아한다. 그는 그들에게 그들의 치아에 대하여 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그들의 치아를 잘 청소해준다. 그는 또 그들의 치통을 돌보고 그들의 부러진 치아를 고쳐준다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 그는 그들에게 작은 선물을 준다. Dr.Green은 Olney에 산다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 와싱턴 시 근처의 작은 마을이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 그의 치과 병원은 와싱턴의 제퍼슨 가 1616번지에 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 매일 아침 6시 15분에 일어난다. 그는 6시 45분에 아침을 먹고 7시 15분에 직장을 향해서 떠난다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 직장까지 운전해서 그의 차를 Madison Street의 주차장에 보관한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 8시 경에 그의 사무실에 도착한다. 몇몇 치과의사들은 많은 돈을 번다."
+    },
+    {
+      "type": "instruction",
+      "text": "모든 치과의사들은 많은 책임을 갖고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d006-1.htm",
+  "legacyEncoding": "utf-8"
+}

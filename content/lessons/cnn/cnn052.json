@@ -1,0 +1,346 @@
+{
+  "id": "cnn052",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Musical Tastes*",
+  "label": "Musical Tastes*",
+  "menuLabel": "[ CNN 52 ]",
+  "unit": 52,
+  "part": null,
+  "order": 51,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn052.mp4",
+      "legacySrc": "CNN/CNN1-60/52.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Musical Tastes*"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANJALI RAO, CNN Anchor: Musical preferences are very subjective, with one man’s music being another man’s noise. Now, we’re not quite sure what to call the sounds emanating from one annual festival in France. Jim Bitterman looks at some unusual musical methods that might just be to your taste.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JIM BITTERMAN, CNN Correspondent: When Eric Van Essler picks up a paring knife, it’s not always clear whether he’s about to make lunch or about to make music. And sometimes it’s both.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "You eat them while you’re playing?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ERIC VAN ESSLER, Musician: Sometimes yeah, some of the instruments, I eat them when I’m finished with them.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BITTERMAN: Eric, a musician with a fruit and vegetable-based “Orgabits Trio,” is one of a dozen or so performers in France’s annual Octopus Sound Festival, aimed at finding new ways to make new sounds.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "True, sometimes the new comes from the old, from a time before digital downloads and MP3 players when you had to drag a playback head across an ancient music storage device known as audio tape.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "But this is about more than rediscovering sounds of the pre-iPodian age. This is about discovering new ways to make music or at least noise. Charlotte Braveax is here, for instance, demonstrating how her computerized tightrope can jump from one radio station to another. There might be an easier way to tune a radio.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "But there probably are no shortcuts to getting music out of a vacuum cleaner. For each performance Pierre Bartay has to start with just a plastic bag or two and then keep adding drainpipes and bits of metal until his virtuosity becomes apparent. And performances can be just as demanding for his partner Pierre Bastian. A loose screw could ruin the entire show. Still, it seemed his artistry was especially targeted at fans of light metal music.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps one reason why the “Orgabits” show was probably the biggest crowd pleaser. Because, even if the music did not suit everyone’s taste, after the performance, a local chef turned the instruments into a nice vegetable soup. Jim Bitterman, CNN, Paris.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "음악적 취향도 가지가지",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "안잘리 라오, CNN 앵커: 음악적 취향은 매우 주관적이어서 누군가에겐‘음악’으로 들리는 것이 다른 사람에겐‘소음’으로 들릴 수 있습니다. 그런데 프랑스의 한 연례 축제에서 퍼져 나오는 이 소리는 딱히 뭐라고 불러야 할지 잘 모르겠군요. 짐 비터맨 기자가 여러분의 취향에 딱 맞을지도 모르는 이색적인 음악 방식을 소개해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "짐 비터맨, CNN 기자: 에릭 반 에슬러 씨가 과도를 집어들 때, 그가 점심 식사를 준비하려는 것인지 음악을 연주하려는 것인지 항상 명확히 알 수는 없습니다. 가끔은 그 둘을 동시에 하기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "연주하면서 그것들을 먹기도 하나요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "에릭 반 에슬러, 음악가: 네, 가끔은 그래요. 몇몇 악기는 연주가 다 끝나면 먹죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "비터맨: 에릭 씨는 과일이나 야채를 가지고 연주하는‘오가비츠 트리오’의 음악가로, 프랑스의 연례 축제인 옥토퍼스 소리 축제에 참가한 12여 명의 연주자 가운데 한 사람입니다. 이 축제는 새로운 소리를 만드는 새로운 방법을 찾기 위해 열리고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "온고지신(溫故知新)이라는 말이 정말 맞을 때가 있습니다. 디지털 방식의 다운로드와 MP3 플레이어가 나오기 전, 그러니까 오디오 테이프라는 구식 음원 저장 장치의 재생 헤드를 끌어내려야 했던 시절에서 새로운 아이디어를 얻기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하지만 이것은 아이팟 이전 시대의 소리를 재발견한다는 것 이상의 의미를 갖습니다. 바로‘음악,’ 아니면 최소한 ‘소음’이라도 만들어내는 새로운 방법들을 발견하는 것입니다. 그 예로, 여기 샬롯 브라보 씨는 컴퓨터와 연결된 밧줄을 타면서 라디오 채널을 어떻게 바꾸는지 시범을 보여주고 있습니다. 라디오 채널 주파수를 맞추는 더 쉬운 방법이 있나 봅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하지만 진공청소기로 음악을 만들어내는 데는 지름길이 없는 것 같습니다. 피에르 바르테이 씨는 매 공연마다 한두 개의 비닐봉지를 가지고 시작합니다. 그리고는 그가 표현하고 싶은 음악이 나올 때까지 배수관과 쇠붙이들을 계속 덧붙여 나갑니다. 이런 공연이 바르테이 씨의 동료인 피에르 바스티앙 씨에게는 손이 많이 가는 힘든 일일 수도 있습니다. 나사 하나만 풀어져도 공연 전체를 망칠 수 있기 때문이죠. 한편, 그의 연주는 특히 가벼운‘메탈 음악’팬들을 겨냥한 것으로 보입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "오가비츠 공연이 관객들에게 가장 큰 호응을 얻을 수 있었던 데에는 한가지 비결이 있습니다. 음악이 모든 사람들의 취향에 맞지는 않았더라도, 공연이 끝난 뒤 한 현지 요리사가 악기들을 맛있는 야채 수프로 바꾸어 놓았기 때문입니다. 파리에서 CNN, 짐 비터맨이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. pare/ (과일의) 껍질을 벗기다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. -based/ …을 바탕으로 한, …로 표시한",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. performance/ 연주; 공연",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. playback/ 녹음재생기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) storage/ 저장, 보관; 기억 (2) device/ 도구, 장치, 기계",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. metal/ 금속, 쇠붙이",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "we’re not quite sure",
+          "text": "[위놋콰이쇼어]. be동사도 문장의 기능어에 속해 ’re의 발음이 거의 들리지 않는다. sure는 [슈어]가 아니라 show에 가깝게 들린다. not의 모음 o는 [오]와 [아]의 중간 발음인데, 영국식 영어와 미국의 동부는 [오], 미국의 남부, 서부는 [아]에 가깝게 발음한다. 여기서는 영국식 발음으로 [놋]으로 발음된다."
+        },
+        {
+          "n": "annual festival",
+          "text": "[아뉴얼 페스띠블]. 첫모음 a를 영국식 발음인 [아]로 발음해 [에뉴얼]이 아니라 [아뉴얼]로 발음하고 있다. -st-에서 t는 발음의 편리상 경음화한다."
+        },
+        {
+          "n": "Octopus Sound Festival",
+          "text": "[악토퍼싸운페스띠블]. -s s-가 중복되어 한번만 발음되고 있다. Octopus의 첫모음 o는 강세를 받으면 우리말 [아]로 발음된다. ex. model[마들], opera[아프러]."
+        },
+        {
+          "n": "when you had to",
+          "text": "[웬유헤더]. 문장의 기능어 to가 a처럼 약하게 발음되고 있다."
+        },
+        {
+          "n": "pre-iPodian age",
+          "text": "[프리아이파리언 에이쥐]. [d]도 [t]처럼 강모음과 약모음 사이에 오면 [ㄹ]로 유음화된다. 뒤에 나오는 metal도 [메틀]이 아니라 [메를]로 발음된다. digital은 [디지를]로 발음된다."
+        },
+        {
+          "n": "at least noise",
+          "text": "[앤리ㅆ노이ㅈ]. -st n-으로 자음 세 개가 겹쳐 나와 중간 자음 [t]가 탈락되고 있다. least를 less나 lease로 혼동하지 않도록 주의한다."
+        },
+        {
+          "n": "vacuum cleaner",
+          "text": "[베큠 크리너]. vaccum은 [베큠] 혹은 [베큐엄] 두 가지 발음이 가능한데, 여기서는 전자로 발음되고 있다."
+        },
+        {
+          "n": "drainpipes",
+          "text": "[듀레인파이ㅍㅅ]. dr-는 [d]가 [r]의 영향을 받아 [듀] 혹은 [쥬]로 발음된다. drag도 [듀렉]으로 발음된다. 앞에 나온 instrument에서 -tr-도 같은 원리로 [츄]로 발음된다."
+        },
+        {
+          "n": "* taste",
+          "text": "취향, 취미, 기호; 맛, 풍미"
+        },
+        {
+          "n": "1) preference",
+          "text": "선호, 애호"
+        },
+        {
+          "n": "2) subjective",
+          "text": "주관적인, 주관의 opp. objective/ 객관적인"
+        },
+        {
+          "n": "3) one man’s music being another man’s noise",
+          "text": "누군가에게 음악으로 들리는 것이 다른 사람에게는 소음이 됨: one man’s meat is another man’s poison(갑의 약도 을에겐 독이 된다) 이라는 속담을 바꿔 말하고 있다."
+        },
+        {
+          "n": "4) emanate from",
+          "text": "…에서 나오다, 발산하다"
+        },
+        {
+          "n": "5) annual",
+          "text": "해마다의, 연례의"
+        },
+        {
+          "n": "6) pick up",
+          "text": "…을 집어 들다, 들어 올리다"
+        },
+        {
+          "n": "7) paring knife",
+          "text": "(작은) 과도"
+        },
+        {
+          "n": "8) instrument",
+          "text": "악기; 기계, 도구"
+        },
+        {
+          "n": "9) fruit and vegetable-based",
+          "text": "과일이나 야채를 이용한"
+        },
+        {
+          "n": "10) or so",
+          "text": "정도, 안팎, 쯤"
+        },
+        {
+          "n": "11) performer",
+          "text": "연주자; 공연자"
+        },
+        {
+          "n": "12) aim at",
+          "text": "…을 목표로 삼다, 의도하다"
+        },
+        {
+          "n": "13) drag",
+          "text": "(무거운 물건)을 끌다, …을 질질 끌고 가다"
+        },
+        {
+          "n": "14) playback head",
+          "text": "(테이프 리코더의) 재생 헤드"
+        },
+        {
+          "n": "15) ancient",
+          "text": "구식의, 오래된"
+        },
+        {
+          "n": "16) music storage device",
+          "text": "음원 저장 장치"
+        },
+        {
+          "n": "17) pre-iPodian age",
+          "text": "아이팟 이전의 시대: 아이팟 (iPod)으로 대표되는 MP3 플레이어가 사용되기 이전, 즉 카세트 플레이어로 음악을 듣던 시대를 일컫는 표현"
+        },
+        {
+          "n": "18) demonstrate",
+          "text": "…의 시범을 보이다; …의 증거[실증]가 되다, …을 논증[증명]하다"
+        },
+        {
+          "n": "19) computerize",
+          "text": "컴퓨터화하다, 컴퓨터를 이용하다"
+        },
+        {
+          "n": "20) tightrope",
+          "text": "줄타기의 팽팽히 맨 밧줄"
+        },
+        {
+          "n": "21) radio station",
+          "text": "라디오 방송국"
+        },
+        {
+          "n": "22) tune",
+          "text": "(라디오의) 주파수를 맞추다, 채널을 맞추다"
+        },
+        {
+          "n": "23) shortcut",
+          "text": "손쉬운 방법; 지름길"
+        },
+        {
+          "n": "24) vacuum cleaner",
+          "text": "진공청소기(vacuum sweeper)"
+        },
+        {
+          "n": "25) plastic bag",
+          "text": "비닐봉지, 비닐백"
+        },
+        {
+          "n": "26) drainpipe",
+          "text": "배수관, 하수관"
+        },
+        {
+          "n": "27) virtuosity",
+          "text": "(음악적, 예술적) 기교, 묘기"
+        },
+        {
+          "n": "28) apparent",
+          "text": "눈에 보이는; 분명한, 명백한"
+        },
+        {
+          "n": "29) demanding",
+          "text": "(일이) 힘든, 고된; 너무 많은 것을 요구하는"
+        },
+        {
+          "n": "30) screw",
+          "text": "나사(못), 나사 볼트"
+        },
+        {
+          "n": "31) ruin",
+          "text": "망쳐놓다, 손상시키다"
+        },
+        {
+          "n": "32) artistry",
+          "text": "예술적 수완[재능, 효과]"
+        },
+        {
+          "n": "33) target at",
+          "text": "…을 겨냥하다, …을 대상으로 삼다"
+        },
+        {
+          "n": "34) metal music",
+          "text": "메탈 음악: 드럼과 일렉트릭 기타 등으로 연주하는 록(rock) 음악 종류의 하나로 헤비 메탈 (heavy metal) 음악을 줄여서 부르는 말이다. 여기서는 ‘금속(metal)을 가지고 연주하는 음악’이라는 뜻으로 쓰였다."
+        },
+        {
+          "n": "35) crowd pleaser",
+          "text": "관객들에게 인기가 있는 것[사람]"
+        },
+        {
+          "n": "36) suit",
+          "text": "…의 마음에 들다, …을 만족시키다"
+        },
+        {
+          "n": "37) chef",
+          "text": "요리사; 주방장"
+        },
+        {
+          "n": "38) turn A into B",
+          "text": "A를 B로 바꾸다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/52.wmv",
+  "legacyEncoding": "binary"
+}

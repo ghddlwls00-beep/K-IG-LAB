@@ -1,0 +1,75 @@
+{
+  "id": "p055-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p055",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 055-1 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 5,
+  "order": 65,
+  "audio": [
+    {
+      "src": "/audio/middle/p055.mp3",
+      "legacySrc": "sounds/p055.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 055-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(나의 학교 친구들)"
+    },
+    {
+      "type": "instruction",
+      "text": "보통 수업시간에, 학생들은 서로서로에게 매우 친절합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 때때로 학급 친구들 사이에서"
+    },
+    {
+      "type": "instruction",
+      "text": "싸움과 언쟁이 있을 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 학생들은 빨리 화해를 하고 다시 친구가 됩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 반은 똑똑한 학생들이 많기 때문에,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 매우 경쟁심이 강합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에서 저는 공부하기와 친구 사귀기를 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p055-1.htm",
+  "legacyEncoding": "utf-8"
+}

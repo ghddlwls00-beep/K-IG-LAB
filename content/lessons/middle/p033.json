@@ -1,0 +1,83 @@
+{
+  "id": "p033",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 033 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 3,
+  "order": 36,
+  "audio": [
+    {
+      "src": "/audio/middle/p033.mp3",
+      "legacySrc": "sounds/p033.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 033 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My friend’s talents)"
+    },
+    {
+      "type": "hints",
+      "text": "My friend has many talents."
+    },
+    {
+      "type": "instruction",
+      "text": "He is an excellent piano player and very strong athlete."
+    },
+    {
+      "type": "instruction",
+      "text": "In addition, he is good at playing the piano, soccer, computer"
+    },
+    {
+      "type": "instruction",
+      "text": "games, and he is good at speaking English."
+    },
+    {
+      "type": "instruction",
+      "text": "He is a very talented artist, too."
+    },
+    {
+      "type": "instruction",
+      "text": "His drawings are very bright and colorful."
+    },
+    {
+      "type": "instruction",
+      "text": "So I can learn a lot from him. He is my friend, and I am proud of him."
+    },
+    {
+      "type": "instruction",
+      "text": "He always understands my problems, and when I need help,"
+    },
+    {
+      "type": "instruction",
+      "text": "he is always there."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p033.htm",
+  "legacyEncoding": "utf-8"
+}

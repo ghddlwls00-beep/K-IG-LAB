@@ -1,0 +1,130 @@
+{
+  "id": "cnn094",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "South Korea Kookmin Bank Buys KEB Stake for ＄6.6 bn",
+  "label": "South Korea Kookmin Bank Buys KEB Stake for ＄6.6 bn",
+  "menuLabel": "[ CNN 94 ]",
+  "unit": 94,
+  "part": null,
+  "order": 93,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn094.mp4",
+      "legacySrc": "CNN/CNN61-120/94.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "South Korea Kookmin Bank Buys KEB Stake for ＄6.6 bn"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Korea’s top bank has clinched the biggest takeover deal in the country’s history. Kookmin Bank is buying a majority stake in Korea Exchange Bank for over 6.5 billion dollars. U.S. investment firm Lone Star took control of KEB in 2003 and its stake has quadrupled in value over two and a half years. Lone Star chose Kookmin as the buyer despite competing bids from Korea’s Hana Bank and DBS from Singapore.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "국민은행, 66억 달러에 외환은행 인수",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한국 최대 은행이 한국 역사상 최대 규모의 인수,합병 거래를 성사시켰습니다. 국민은행은 외환은행의 지배 지분을 65억 달러가 넘는 가격에 인수키로 했습니다. 미국계 투자회사 론스타는 2003년 외환은행을 인수한 바 있으며 론스타의 외환은행 지분 가치는 2년 반 만에 4배로 증가했습니다. 론스타는 한국의 하나은행과 싱가포르 DBS의 인수 시도를 물리치고 국민은행을 인수자로 선택했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모음 o는 [오], [어]의 중간 발음인데, 영국식 영어에서는 [오]로 발음한다. bank has가 ’자음+모음’으로 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-st t-로 연결되어 [t]가 한번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "biggest를 biggies나 biggish로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "six and a half billion으로 읽고있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "six point five billion으로도 읽을 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. stake/ 지분",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "top bank has",
+          "text": "[톱뱅케ㅈ]."
+        },
+        {
+          "n": "biggest takeover",
+          "text": "[비기ㅆ 테이코버]."
+        },
+        {
+          "n": "6.5 billion",
+          "text": "[씩스애너 해ㅍ 빌리언]."
+        },
+        {
+          "n": "KEB",
+          "text": "외환은행(Korea Exchange Bank)"
+        },
+        {
+          "n": "clinch",
+          "text": "…을 체결하다"
+        },
+        {
+          "n": "takeover deal",
+          "text": "인수계약"
+        },
+        {
+          "n": "buy a majority stake",
+          "text": "지배 지분을 매입하다"
+        },
+        {
+          "n": "investment firm",
+          "text": "투자회사"
+        },
+        {
+          "n": "Lone Star",
+          "text": "론스타 (펀드): 미국 텍사스 주에 본사를 둔 사모펀드로 지난 2003년 외환은행을 인수해 2년 반 만에 매각을 추진하고 있다. 이 과정에서 외환은행 헐값 인수 논란이 일고 있으며 엄청난 매각차익을 둘러싼 세금 징수를 두고 국세청과 대립하고 있다."
+        },
+        {
+          "n": "take control of",
+          "text": "…의 통제권을 잡다, 경영권을 쥐다"
+        },
+        {
+          "n": "quadruple",
+          "text": "네 배가 되다, 네 배로 늘다"
+        },
+        {
+          "n": "competing bids",
+          "text": "경쟁적인 인수 노력"
+        },
+        {
+          "n": "DBS",
+          "text": "싱가포르DBS: 옛 싱가포르 개발은행"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/94.wmv",
+  "legacyEncoding": "binary"
+}

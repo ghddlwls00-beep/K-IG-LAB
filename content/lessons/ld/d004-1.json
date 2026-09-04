@@ -1,0 +1,92 @@
+{
+  "id": "d004-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d004",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 004 회 ]",
+  "menuLabel": "[ D 004-1 ]",
+  "unit": 4,
+  "part": null,
+  "order": 7,
+  "audio": [
+    {
+      "src": "/audio/ld/d004.mp3",
+      "legacySrc": "sounds/d004.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 004 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "4",
+          "text": "나는 브라질에 산다. 당신도 알다시피 그것은 남미의 국가 중의 하나이다."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 나의 나라에서 폴튜갈 어를 말한다. 브라질은 큰 나라이다. 그것은 남미에서 가장 큰 나라이다."
+    },
+    {
+      "type": "paragraph",
+      "text": "그곳에는 많은 산업들이 있다. 우리의 직물 공장들은 면, 리넨, 비단 제품들을 제조한다."
+    },
+    {
+      "type": "paragraph",
+      "text": "또한 큰 강철 공장과 고무 공장들도 있다. 우리는 많은 중요한 농산물 제품들이 있다."
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 커피, 옥수수, 면, 코코아를 재배한다. 우리는 또 밀, 쌀, 콩, 바나나도 생산한다."
+    },
+    {
+      "type": "paragraph",
+      "text": "브라질에는 많은 큰 도시들이 있다. 또 몇몇 긴 강들도 있다. 아마존강이 가장 길고 가장 유명하다."
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 브라질 남동부의 마을에 산다. 그것은 매우 큰 도시는 아니지만 그것은 작은 것도 아니다"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 하나의 좋은 진료소, 하나의 좋은 병원, 그리고 많은 현대적인 건물들이 있다."
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 버스 시스템은 매우 좋지는 않지만 우리는 아름다운 새로운 공항이 하나 있다."
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 매우 좋은 학교 제도가 있다. 나는 법학도이다. 나는 한 대학에 다닌다. 그것은 탁월하다"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d004-1.htm",
+  "legacyEncoding": "utf-8"
+}

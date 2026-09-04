@@ -1,0 +1,47 @@
+{
+  "id": "pr157-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr157",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 157-1 ]",
+  "menuLabel": "[ pr157-1 ]",
+  "unit": 157,
+  "part": null,
+  "order": 313,
+  "audio": [
+    {
+      "src": "/audio/reading/pr157.mp3",
+      "legacySrc": "sounds/pr157.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 157-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "자유와 당파의 관계는 공기와 불의 관계이다. 제임스 매디선이 이러한 말을 했을 때 그는 분명히 당파가 무성한 국가가 이익을 위해서 끊임없이 압력을 가하는 특별 이익 단체를 만들어 낼 것을 분명히 예상했다. 그러나 심지어 선견지명 있는 Federalist Papers의 공저자조차도 현재의 미국인에 의한 그의 비전의 풍부한 실현에 놀랄지도 모른다. 그 나라는 수많은 부분들의 끊임없는 요구로 사회의 더 큰 바램들을 들을수 없는 당파주의의 시기로 접어들었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr157-1.htm",
+  "legacyEncoding": "utf-8"
+}

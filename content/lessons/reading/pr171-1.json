@@ -1,0 +1,47 @@
+{
+  "id": "pr171-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr171",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 171-1 ]",
+  "menuLabel": "[ pr171-1 ]",
+  "unit": 171,
+  "part": null,
+  "order": 341,
+  "audio": [
+    {
+      "src": "/audio/reading/pr171.mp3",
+      "legacySrc": "sounds/pr171.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 171-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "많은 다른 개혁가처럼, 1923년 의회에 제출된 동등권리 수정안 입법의 저작자였던 앨랜 폴은 살아생전에는 명성을 거의 얻지 못했다. 그러나 사후에 상당한 명성을 얻었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr171-1.htm",
+  "legacyEncoding": "utf-8"
+}

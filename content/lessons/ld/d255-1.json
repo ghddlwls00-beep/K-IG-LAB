@@ -1,0 +1,83 @@
+{
+  "id": "d255-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d255",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 255 회 ]",
+  "menuLabel": "[ D 255-1 ]",
+  "unit": 255,
+  "part": null,
+  "order": 508,
+  "audio": [
+    {
+      "src": "/audio/ld/d255.mp3",
+      "legacySrc": "sounds/d255.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 255 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "의학은 인간에게 알려진 가장 오래된 과학 중의 하나이다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 의학은 마술적인 기도, 주문, 처방법의 결합체였다."
+    },
+    {
+      "type": "instruction",
+      "text": "분말 염소 발과 건조한 개구리 눈알은 현대인에게는 이상하고 어리석은 치료제같이"
+    },
+    {
+      "type": "instruction",
+      "text": "보이지만 고대인들은 그것들을 심각하게 받아들였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 또 많은 병들이 신들을 불쾌하게 만든 결과라고 생각했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러므로 최고의 치료제는 그들이 다시 신들의 총애를 받게 해줄 기도나 희생이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 때문에 의사의 직업은 보통 제사장 계급을 위하여 보존되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 관습은 아프리카의 원시종족의 일부와 아메리카인디언 사이에서"
+    },
+    {
+      "type": "instruction",
+      "text": "심지어 오늘날에도 존속하고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d255-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "d228-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d228",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 228 회 ]",
+  "menuLabel": "[ D 228-1 ]",
+  "unit": 228,
+  "part": null,
+  "order": 454,
+  "audio": [
+    {
+      "src": "/audio/ld/d228.mp3",
+      "legacySrc": "sounds/d228.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 228 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국은 많은 공원과 경치좋은 장소들로 유명하지만 국립공원이 그 모든 것 중에서 가장 아름답다."
+    },
+    {
+      "type": "instruction",
+      "text": "매년 수천명의 미국인들이 관광과 캠핑을 위하여 국립공원으로 몰려든다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 공원은 훌륭한 캠핑시설들을 갖고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가 그들은 많은 훌륭한 낚시터와 하이킹을 위한 좋은 오솔길들이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "자연을 사랑하는 사람은 자신의 전체 휴가를 국립공원 중 한 군데에서 보내고"
+    },
+    {
+      "type": "instruction",
+      "text": "그것의 끝없이 변하는 아름다움에 결코 지치지 않을 수 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "국립공원 중 한 군데에서의 일 주일의 휴가는 도시 거주자가 도시 생활의 복잡함과"
+    },
+    {
+      "type": "instruction",
+      "text": "분주함으로 릴랙스하고 신선해진 마음으로 돌아갈 수 있게 해줄 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d228-1.htm",
+  "legacyEncoding": "utf-8"
+}

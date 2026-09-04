@@ -1,0 +1,51 @@
+{
+  "id": "pr251",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 251 ]",
+  "menuLabel": "[ pr251 ]",
+  "unit": 251,
+  "part": null,
+  "order": 500,
+  "audio": [
+    {
+      "src": "/audio/reading/pr251.mp3",
+      "legacySrc": "sounds/pr251.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 251 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The objective of some taxes on foreign imports is to protect an industry that produces goods vital to a nation's defense. The domestic oil, natural gas, or steel industry, for example, may require protection because of its importance to national defense. Without protection, such industries might be weakened by foreign competition. Then, in an international crisis, the nation might find itself in short supply of products essential to national security."
+    },
+    {
+      "type": "hints",
+      "text": "Excessive dependence on foreign imports may weaken a nation's capability to defend itself in a crisis."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr251.htm",
+  "legacyEncoding": "utf-8"
+}

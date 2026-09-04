@@ -1,0 +1,392 @@
+{
+  "id": "cnn072",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Japanese Men Follow 5Rules for Marriage",
+  "label": "Japanese Men Follow 5Rules for Marriage",
+  "menuLabel": "[ CNN 72 ]",
+  "unit": 72,
+  "part": null,
+  "order": 71,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn072.mp4",
+      "legacySrc": "CNN/CNN61-120/72.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Japanese Men Follow 5Rules for Marriage"
+    },
+    {
+      "type": "paragraph",
+      "text": "HUGH RIMINGTON, CNN Anchor: Keeping the flames alive may take a bit more work.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: It’s a challenge. Dozens of men in Japan are ready to tackle, though. Atika Shubert has more on the “Devoted Husbands Club.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ATIKA SHUBERT, CNN Correspondent: Sunday cooking class in Tokyo. All the students are men and most??60 or older??retired with little to no experience in the kitchen. But they may need to learn their way around the kitchen sooner than they think.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Next year, Japan’s “baby boomers” will start to retire and all male cooking classes like this have become so popular, you can only win a place by lottery. Unfortunately, that’s not the only thing rising in popularity after retirement, so is divorce.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divorce rates among retired couples in Japan has tripled in the last three years. It is expected to surge in 2007 when a new law allows a wife to get half her husband’s pension.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s called “middle-aged divorce” after the popular Japanese TV drama of the same name. It begins when a husband comes home to celebrate his retirement, only to find his wife wants to retire too, from the marriage. “It’s not all fiction,” this marriage counselor says, and she has more grim news.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The average life expectancy of a husband divorced after retirement is shortened by ten years,” she explains. “When they are told by their wives that they don’t need their husbands anymore, they lose their will to live.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kiyotaka Yamana is taking defensive measures. He makes a point to come home early each day and eat dinner with his wife, a rarity among Japan’s hardworking salary men. He is also the founder of the online “Devoted Husbands Club,” now more than a hundred members.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "“We started the club for fun, but we quickly realized how important it was in preventing divorce,” he says. “As we got more feedback from new members, we heard more and more of these sad stories. Middleaged Divorce isn’t just a TV show, it’s a reality.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "The club has five rules for devoted husbands, conveniently printed on member cards. First, go home early..8 p.m. at the latest. Second, relax, create an atmosphere. And third, call your wife by her name. Fourth, look into her eyes. And finally, listen, really listen to what she has to say.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are no hard-and-fast rules to keeping a marriage going, of course, but cooking a romantic dinner for two probably couldn’t hurt. Atika Shubert, CNN, Tokyo.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "일본 남성들의 결혼생활 5계명",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "휴 리밍턴, CNN 앵커: 불꽃 같은 정열을 유지한다는 것은 좀더 많은 노력을 요하는 일일지 모릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 결코 쉽지 않은 일이겠지요. 그럼에도 불구하고 수십 명의 일본 남성들은 도전할 준비가 돼 있습니다. 아티카 슈버트 기자가‘애처가 클럽’에 대해 자세히 전해드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아티카 슈버트, CNN 기자: 일요일 도쿄의 한 요리학원입니다. 수강생들은 모두 남성으로 대부분이 부엌일 경험이 거의 없는 60대 이상의 퇴직자들입니다. 어쩌면 이들은 생각보다 더 빨리 부엌일을 익혀야 할지도 모릅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "내년부터 베이비붐 세대들이 정년을 맞게 되면 이런 남성 요리학원이 모두 인기를 얻게 되어 추첨을 통해서만 수강을 할 수 있을 것입니다. 게다가 불행하게도, 퇴직 이후 요리학원과 더불어 이혼에 대한 인기도 높아지고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지난 3년간 일본에선 퇴직 후 이혼한 부부의 비율이 세 배나 높아졌습니다. 2007년부터 개정(연금)법에 따라 아내가 남편 연금의 절반을 가질 수 있게 되면 이혼율은 급등할 것으로 예상됩니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "인기 있는 한 일본 TV 드라마의 제목을 따서 이를‘중년 이혼’이라고 합니다. 이 드라마는 한 남성이 정년퇴직을 축하 받으려고 귀가하지만 결혼생활에서 퇴직하고 싶다는 아내만이 그를 기다리고 있는 상황에서부터 시작됩니다. 이게 완전히 허구인 것만은 아니라고 이 결혼상담 전문가는 말합니다. 거기에다 그녀는 더 가혹한 소식을 전합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "“퇴직 후 이혼을 당한 남성들은 평균 수명이 최대 10년까지도 단축될 수 있습니다.”라고 그녀는 설명합니다. “아내로부터 이제 자기가 필요 없다는 말을 듣는 순간, 남성들은 삶의 의지를 상실하게 됩니다.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "따라서 야마나 기요타카 씨는 대책을 강구하고 있습니다. 그는 매일 반드시 일찍 퇴근해 아내와 함께 저녁을 먹으려고 노력합니다. 이는 일벌레인 일본 샐러리맨들에게선 좀처럼 보기 드문 일입니다. 그는 또한 온라인‘애처가 클럽’을 조직했는데, 벌써 회원 수가 100명을 넘었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "“처음엔 재미로 시작했지만, 이혼을 방지하기 위해선 남편의 노력이 중요하다는 것을 곧 깨달았습니다.”라고 그는 말합니다. “신규 회원들로부터 더 많은 정보를 접하면서 우리는 이처럼 우울한 소식을 더 많이 듣게 되었습니다. <중년 이혼>은 단순히 TV 드라마가 아닙니다. 바로 우리 현실입니다.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이들은 애처가 5대 수칙을 세우고, 편리하게 회원카드에 적어 놓았습니다. 첫째, 적어도 저녁 8시 이전에는 집에 들어가기. 둘째, 편안한 분위기 조성하기. 셋째, 아내의 이름을 불러주기. 넷째, 아내의 눈을 응시하기. 마지막으로, 아내의 말에 진심으로 귀 기울이기입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "결혼생활을 유지하는 절대 법칙은 굳이 없을지 몰라도, 두 사람만의 낭만적인 저녁 식탁을 준비해본다면 분명 도움이 될 것입니다. 도쿄에서CNN, 아티카 슈버트였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]는 강모음과 약모음 사이에서 [d]나 [l]로 유음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그리고 끝자음 [d]가 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "lottery[롸러리], rarity[레러리], reality[리엘러리]도 모두 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "문장의 기능어에 속하는 접속사 and의 소리가 약화되어 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "연도는 보통 두 자리씩 읽지만, 2000이 들어간 연도는 two thousand …으로 읽는다. 2007은 two thousand seven이라고 읽으면 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "half는 [헤-ㅍ] 혹은 [하-ㅍ] 둘다 가능하다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서는 전자로 발음되면서 [f] 발음이 약화되어 have와 혼동하기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[s]가 모음 앞에 오면 경음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "salary를 celery로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tr-, dr-은 각각 [츄ㄹ], [쥬ㄹ]로 소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "이는 [t], [d]가 [r]의 영향을 받아 변형 발음되기 때문이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "drama[쥬라머], tripled[츄리플ㄷ]를 주의 깊게 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "sad를 said로 혼동하지 않도록 하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[æ]와 [e]의 차이인데, [æ]는 입술을 양옆으로 일자로 벌린 뒤 [애] 하는 것이고, [e]는 우리말 [에]에 해당한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-tly, -dly 등은 [t]와 [d]를 탈락시키고 [(을)리]를 재빨리 발음하면 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. flame/ 불길, 불꽃; 타는 듯한 정열",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Devoted",
+          "text": "[디보딛]."
+        },
+        {
+          "n": "men and most",
+          "text": "[맨 은 모스트]."
+        },
+        {
+          "n": "2007",
+          "text": "[투 따우즌 세븐]."
+        },
+        {
+          "n": "get half",
+          "text": "[겟 헤ㅍ]."
+        },
+        {
+          "n": "salary men",
+          "text": "[쌜러리멘]."
+        },
+        {
+          "n": "hundred",
+          "text": "[헌쥬레ㄷ]."
+        },
+        {
+          "n": "sad stories",
+          "text": "[쌔ㄷ 스또리ㅈ]."
+        },
+        {
+          "n": "conveniently",
+          "text": "[컨비니언(을)리]."
+        },
+        {
+          "n": "1) keep the flames alive",
+          "text": "정열을 유지하다; 불꽃을 살려두다"
+        },
+        {
+          "n": "2) dozens of",
+          "text": "수십의, 많은"
+        },
+        {
+          "n": "3) tackle",
+          "text": "((구어)) (일 따위에) 열심히 달려들다, 달라붙다; …와 맞붙다"
+        },
+        {
+          "n": "4) devoted",
+          "text": "헌신적인, 충실한"
+        },
+        {
+          "n": "5) little to[or] no",
+          "text": "거의 없는"
+        },
+        {
+          "n": "6) learn one’s way around",
+          "text": "세상 물정을 알다; …에 정통하다"
+        },
+        {
+          "n": "7) baby boomer",
+          "text": "베이비붐 세대: 출생률의 급상승기에 태어난 사람으로 제2차 세계대전 직후인 1946~65년 사이에 태어난 사람들을 말한다."
+        },
+        {
+          "n": "8) lottery",
+          "text": "복권; 추첨, 제비 뽑기"
+        },
+        {
+          "n": "9) popularity",
+          "text": "대중성, 유행; 인기, 평판"
+        },
+        {
+          "n": "10) retirement",
+          "text": "퇴직, 은퇴"
+        },
+        {
+          "n": "11) triple",
+          "text": "세 배가 되다"
+        },
+        {
+          "n": "12) surge",
+          "text": "급히 상승하다, 높아지다"
+        },
+        {
+          "n": "13) a new law",
+          "text": "개정(연금)법: 2007년 4월부터 시행 예정이며, 이 법에 따르면 이혼한 부인도 남편의 연금 절반까지 받을 수 있게 된다."
+        },
+        {
+          "n": "14) pension",
+          "text": "연금, 생활 보조금; (예술가,학자 등에 대한) 보조금, 장려금"
+        },
+        {
+          "n": "15) middle-aged divorce",
+          "text": "중년 이혼"
+        },
+        {
+          "n": "16) celebrate",
+          "text": "축하하다; 기념하다"
+        },
+        {
+          "n": "17) fiction",
+          "text": "허구, 꾸며낸 이야기; 소설"
+        },
+        {
+          "n": "18) counselor",
+          "text": "고문, 상담역; (학교의) 학생 지도[상담] 교사"
+        },
+        {
+          "n": "19) grim",
+          "text": "가혹한; 무서운, 싫은"
+        },
+        {
+          "n": "20) life expectancy",
+          "text": "예상[평균] 수명"
+        },
+        {
+          "n": "21) shorten",
+          "text": "…을 짧게 하다, 축소하다, 줄이다"
+        },
+        {
+          "n": "22) defensive",
+          "text": "방어(용)의; 수동적인"
+        },
+        {
+          "n": "23) measure(s)",
+          "text": "(…에 대한) 수단, 조치, 대책, 방책"
+        },
+        {
+          "n": "24) make a point to",
+          "text": "반드시 …하려고 노력하다"
+        },
+        {
+          "n": "25) rarity",
+          "text": "드묾, 진귀, 희귀"
+        },
+        {
+          "n": "26) hardworking",
+          "text": "근면한, 부지런히 일하는"
+        },
+        {
+          "n": "27) prevent",
+          "text": "예방하다, 방지하다, 막다"
+        },
+        {
+          "n": "28) feedback",
+          "text": "피드백: (정보,서비스 이용자 따위의) 반응, 감상, 의견"
+        },
+        {
+          "n": "29) reality",
+          "text": "사실, 현실, 실제; 진실성, 현실성"
+        },
+        {
+          "n": "30) conveniently",
+          "text": "형편이 좋게; 편리하게; 안성맞춤으로"
+        },
+        {
+          "n": "31) at the latest",
+          "text": "늦어도"
+        },
+        {
+          "n": "32) create an atmosphere",
+          "text": "분위기를 조성하다"
+        },
+        {
+          "n": "33) hard-and-fast",
+          "text": "(규칙 따위가) 아주 엄중한; 명확한, 엄밀한"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/72.wmv",
+  "legacyEncoding": "binary"
+}

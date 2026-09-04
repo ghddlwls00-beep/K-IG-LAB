@@ -1,0 +1,67 @@
+{
+  "id": "pr233-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr233",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 233-1 ]",
+  "menuLabel": "[ pr233-1 ]",
+  "unit": 233,
+  "part": null,
+  "order": 465,
+  "audio": [
+    {
+      "src": "/audio/reading/pr233.mp3",
+      "legacySrc": "sounds/pr233.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 233-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 운 좋게도 민주주의 국가에서 살고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 우리가 진실을 말할 자유를 갖지 못한다면 민주주의라는 것이 우리에게"
+    },
+    {
+      "type": "instruction",
+      "text": "무슨 의미가 있겠는가? 이러한 자유가 없다면, 우리가 무엇을 생각하는지를 그들이"
+    },
+    {
+      "type": "instruction",
+      "text": "모르기 때문에 의사결정권자들이 우리의 삶을 어렵게 만들 수도 있다. 따라서,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 진리를 말할 자유가 위협받을 때면 언제라도 그 권리를 위해서 기꺼이"
+    },
+    {
+      "type": "instruction",
+      "text": "싸워야 한다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr233-1.htm",
+  "legacyEncoding": "utf-8"
+}

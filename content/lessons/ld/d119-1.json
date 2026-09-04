@@ -1,0 +1,83 @@
+{
+  "id": "d119-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d119",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 119 회 ]",
+  "menuLabel": "[ D 119-1 ]",
+  "unit": 119,
+  "part": null,
+  "order": 237,
+  "audio": [
+    {
+      "src": "/audio/ld/d119.mp3",
+      "legacySrc": "sounds/d119.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 119 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "미국 원주민들이 반대했을 때 보통 싸움이 시작되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "1789년에 정부는 미래에 더 많은 땅이 허가없이는 빼앗겨지지 않을 것이라고 선포했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 정부는 그 약속을 지키지 않았고 정착민들이 땅을 빼앗는 것을 계속했다."
+    },
+    {
+      "type": "instruction",
+      "text": "1834년에 정부는 또 다른 방법으로 그 문제를 해결하려고 노력했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 미시시피강의 서쪽의 모든 땅이 미국 원주민들의 영구적인 집이 될 것이라고 선포했다."
+    },
+    {
+      "type": "instruction",
+      "text": "동부 출신의 미국 원주민들은 항의했지만 그들은 이주하도록 강요당했다."
+    },
+    {
+      "type": "instruction",
+      "text": "결과적으로 그중의 많은 사람들이 서부로의 긴 여행에서 죽었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 이 약속도 깨질 때까지 길지 않았다. 1848년에 캘리포니아에서 금이 발견되었다."
+    },
+    {
+      "type": "instruction",
+      "text": "수천명의 미국인이 서부로 이주했다. 다시 인디언들은 항의했지만 정부는 아무 것도 하지 않았다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d119-1.htm",
+  "legacyEncoding": "utf-8"
+}

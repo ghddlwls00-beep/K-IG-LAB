@@ -1,0 +1,87 @@
+{
+  "id": "d106-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d106",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 106 회 ]",
+  "menuLabel": "[ D 106-1 ]",
+  "unit": 106,
+  "part": null,
+  "order": 211,
+  "audio": [
+    {
+      "src": "/audio/ld/d106.mp3",
+      "legacySrc": "sounds/d106.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 106 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "여기에 또 하나의 오랜 격언이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "손 안의 한 마리 새는 덤불 속의 두 마리의 가치가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 격언은 이 생각을 표현하기 위하여 사용된다."
+    },
+    {
+      "type": "instruction",
+      "text": "갖고 있는 어떤 것이 얻을 수 있을지 모르는 어떤 것보다 더 가치가 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "격언은 세계의 문화들의 매우 오래된 한 부분이다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 문화들의 가장 초기의 저술들이 격언들을 담고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "격언들은 모든 언어에서 발견되며 똑같은 격언이 여러 언어에서 발견될지 모른다."
+    },
+    {
+      "type": "instruction",
+      "text": "여러분은 이런 격언들이 무엇을 의미한다고 생각하나?"
+    },
+    {
+      "type": "instruction",
+      "text": "맹인의 나라에서는 한쪽 눈을 가진 사람이 왕이다."
+    },
+    {
+      "type": "instruction",
+      "text": "늙은 개에게 새로운 재주를 가르칠 수 없다. 고양이가 출타 중인 동안 쥐가 놀 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d106-1.htm",
+  "legacyEncoding": "utf-8"
+}

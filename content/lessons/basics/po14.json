@@ -1,0 +1,113 @@
+{
+  "id": "po14",
+  "course": "basics",
+  "series": "po",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": null,
+  "unit": 14,
+  "part": null,
+  "order": 339,
+  "audio": [
+    {
+      "src": "/audio/basics/po14.mp3",
+      "legacySrc": "sounds/po14.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "instruction",
+      "text": "Principle 14. My future dream (1)"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "172",
+          "text": "There are many jobs in the world."
+        },
+        {
+          "n": "173",
+          "text": "It is very hard to choose only one."
+        },
+        {
+          "n": "174",
+          "text": "I have changed my mind many times about what to be."
+        },
+        {
+          "n": "175",
+          "text": "Right now my dream is to be a teacher."
+        },
+        {
+          "n": "176",
+          "text": "I want to be a teacher for many reasons."
+        },
+        {
+          "n": "177",
+          "text": "First, my school teacher sets good examples."
+        },
+        {
+          "n": "178",
+          "text": "She loves children and loves teaching us."
+        },
+        {
+          "n": "179",
+          "text": "When I need help from her, she always helps me."
+        },
+        {
+          "n": "180",
+          "text": "Second, my teacher knows a lot."
+        },
+        {
+          "n": "181",
+          "text": "I want to be a good teacher like her."
+        },
+        {
+          "n": "182",
+          "text": "In order to be a good teacher, my parents tell me that I need to"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "study hard."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "183",
+          "text": "They also tell me I need to love children."
+        },
+        {
+          "n": "184",
+          "text": "I think teaching children is fun, and rewarding."
+        },
+        {
+          "n": "185",
+          "text": "I must learn patience to be a good teacher."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "basics/po14.htm",
+  "legacyEncoding": "utf-8"
+}

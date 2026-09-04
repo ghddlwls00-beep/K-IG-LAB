@@ -1,0 +1,75 @@
+{
+  "id": "pr007",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 007 ]",
+  "menuLabel": "[ pr007 ]",
+  "unit": 7,
+  "part": null,
+  "order": 12,
+  "audio": [
+    {
+      "src": "/audio/reading/pr007.mp3",
+      "legacySrc": "sounds/pr007.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 007 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My belief is that all music has an expressive power, some more and some less,"
+    },
+    {
+      "type": "hints",
+      "text": "but that all music has a certain meaning behind the notes."
+    },
+    {
+      "type": "instruction",
+      "text": "That meaning constitutes what the piece is saying."
+    },
+    {
+      "type": "instruction",
+      "text": "This whole problem can be stated quite simply by asking,"
+    },
+    {
+      "type": "instruction",
+      "text": "\"Is there a meaning to music? \" My answer to that would be,"
+    },
+    {
+      "type": "instruction",
+      "text": "\"Yes.\" And \"Can you state in so many"
+    },
+    {
+      "type": "instruction",
+      "text": "words what the meaning is?\" My answer to that would be,"
+    },
+    {
+      "type": "instruction",
+      "text": "\"No.\" Therein lies the difficulty."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr007.htm",
+  "legacyEncoding": "utf-8"
+}

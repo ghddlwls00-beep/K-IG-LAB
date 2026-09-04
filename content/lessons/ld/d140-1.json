@@ -1,0 +1,95 @@
+{
+  "id": "d140-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d140",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 140 회 ]",
+  "menuLabel": "[ D 140-1 ]",
+  "unit": 140,
+  "part": null,
+  "order": 279,
+  "audio": [
+    {
+      "src": "/audio/ld/d140.mp3",
+      "legacySrc": "sounds/d140.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 140 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 극장에 도착할 시간에는 첫 막(act)이 이미 시작해있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 그 극의 일부분을 놓친 것을 유감으로 여겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "왜냐하면 그것의 나머지가 매우 우스웠기 때문이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 신문의 그 평론은 옳았었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 극도로 흥을 주는 코메디였다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 극이 끝난 후에 우리는 오랫 동안 만나지 못했던 몇몇 친구들을 만났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 나이트클럽에 가기를 원했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 아내와 내가 춤추러 간 이래로 많은 해가 지났지만 나는 마침내 동의했다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 집에 도착할 무렵은 아침 두시 경이었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그렇게 늦게 밖에 머무는 것에 익숙하지 않으며 나는 극도로 피곤했다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 더 젊었을 나는 이와 같이 저녁을 위하여 외출할 돈이 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 감당할 수 있는 지금 나는 그것을 정말로 향유할 힘이 없다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d140-1.htm",
+  "legacyEncoding": "utf-8"
+}

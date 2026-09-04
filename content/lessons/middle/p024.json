@@ -1,0 +1,75 @@
+{
+  "id": "p024",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 024 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 4,
+  "order": 24,
+  "audio": [
+    {
+      "src": "/audio/middle/p024.mp3",
+      "legacySrc": "sounds/p024.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 024 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Life at my House"
+    },
+    {
+      "type": "hints",
+      "text": "My parents always make my sister and I feel important and special."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents love each other."
+    },
+    {
+      "type": "instruction",
+      "text": "They always have been a good example for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My father is always helpful around the house."
+    },
+    {
+      "type": "instruction",
+      "text": "He often goes shopping with my mother. I look up to him."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother is a very good cook, and is still a beautiful woman."
+    },
+    {
+      "type": "instruction",
+      "text": "She looks younger than her age. I love my mother."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p024.htm",
+  "legacyEncoding": "utf-8"
+}

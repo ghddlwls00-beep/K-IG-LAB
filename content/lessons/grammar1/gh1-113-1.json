@@ -1,0 +1,128 @@
+{
+  "id": "gh1-113-1",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-113",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 113-1]",
+  "menuLabel": "[ gh1-113-1 ]",
+  "unit": 113,
+  "part": null,
+  "order": 164,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-113-1.mp3",
+      "legacySrc": "sounds/gh1-113-1.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 113-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "109",
+          "text": "Did you draw a map for me?"
+        },
+        {
+          "n": "110",
+          "text": "This is a homemade bomb, isn't this?"
+        },
+        {
+          "n": "111",
+          "text": "Can't you stay here during the vacation?"
+        },
+        {
+          "n": "112",
+          "text": "Don't you know the name of the poet?"
+        },
+        {
+          "n": "113",
+          "text": "Oh, it's on the tip of my tongue."
+        },
+        {
+          "n": "114",
+          "text": "The novelist won(received) the Nobel Prize, didn't he?"
+        },
+        {
+          "n": "115",
+          "text": "Bob is leaving for England next week, isn't he?."
+        },
+        {
+          "n": "116",
+          "text": "Wasn't this measure much more effective?"
+        },
+        {
+          "n": "117",
+          "text": "Isn't New York a fascinating city?"
+        },
+        {
+          "n": "118",
+          "text": "You don't agree with me, do you?"
+        },
+        {
+          "n": "119",
+          "text": "Didn't the clerk get a 50% pay-raise?"
+        },
+        {
+          "n": "120",
+          "text": "The rumor is true, isn't it?"
+        },
+        {
+          "n": "121",
+          "text": "The murder suspect wasn't innocent, was he?"
+        },
+        {
+          "n": "122",
+          "text": "Will this do?"
+        },
+        {
+          "n": "123",
+          "text": "Nothing could be better."
+        },
+        {
+          "n": "124",
+          "text": "Does this road take me home?"
+        },
+        {
+          "n": "125",
+          "text": "That's beyond me."
+        },
+        {
+          "n": "126",
+          "text": "Were you making a reservation?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-113-1.htm",
+  "legacyEncoding": "utf-8"
+}

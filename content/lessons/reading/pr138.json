@@ -1,0 +1,47 @@
+{
+  "id": "pr138",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 138 ]",
+  "menuLabel": "[ pr138 ]",
+  "unit": 138,
+  "part": null,
+  "order": 274,
+  "audio": [
+    {
+      "src": "/audio/reading/pr138.mp3",
+      "legacySrc": "sounds/pr138.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 138 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The mosquito is the insect most willing to duel with man. At one time or another, we have all stood on a bed in our pajamas with a slipper in our hand and our eyes fixed on the ceiling. Faced with man, the mosquito's strategy has evolved. It has learned to be quicker, more inconspicuous and livelier on the takeoff. Some bold mosquitos of the latest generation do not hesitate to hide under their victims' pillows. They have discovered the principle of Edgar Allan Poe's Stolen Letter : the best hiding place is the most obvious one, for we always think of looking farther away for something that is very near."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr138.htm",
+  "legacyEncoding": "utf-8"
+}

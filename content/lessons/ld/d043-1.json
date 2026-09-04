@@ -1,0 +1,71 @@
+{
+  "id": "d043-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d043",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 043 회 ]",
+  "menuLabel": "[ D 043-1 ]",
+  "unit": 43,
+  "part": null,
+  "order": 85,
+  "audio": [
+    {
+      "src": "/audio/ld/d043.mp3",
+      "legacySrc": "sounds/d043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 043 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "졸업 후에 조지는 미국에서 두 번째로 큰 도시인 쉬카고로 갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그곳의 남자 고등학교에서 좋은 직장을 얻었다. 몇 년 뒤에 그는 한 좋은 아가씨를 만났다."
+    },
+    {
+      "type": "instruction",
+      "text": "지금 그녀가 그의 아내이다. 지난 주 그는 그의 대학촌으로 돌아갔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그의 친구 중의 많은 사람들이 그곳에 살고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 피트를 방문하기를 원했지만 그의 주소를 찾을 수 없었다."
+    },
+    {
+      "type": "instruction",
+      "text": "다행히 그는 일전 날 시내에서 그와 마주쳤다. 그들은 다음 토요일에 함께 저녁을 먹을 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d043-1.htm",
+  "legacyEncoding": "utf-8"
+}

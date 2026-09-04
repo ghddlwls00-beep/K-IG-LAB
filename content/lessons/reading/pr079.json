@@ -1,0 +1,47 @@
+{
+  "id": "pr079",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 079 ]",
+  "menuLabel": "[ pr079 ]",
+  "unit": 79,
+  "part": null,
+  "order": 156,
+  "audio": [
+    {
+      "src": "/audio/reading/pr079.mp3",
+      "legacySrc": "sounds/pr079.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 079 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A long time ago, a dissatisfied horse asked the gods for longer, thinner legs, a neck like a swan, and a saddle that would grow upon him. Right away, the merciful gods changed him into a creature having all the new features. But although they had looked attractive separately, the entire assembly shocked him, for he found that he had been changed into an ugly camel. “There now,” said the gods, “all your wishes are granted, and you will now live as you’ve wished all your life.” Remember! Not all change is good. You should be satisfied with what you have."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr079.htm",
+  "legacyEncoding": "utf-8"
+}

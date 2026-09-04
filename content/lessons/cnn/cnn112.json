@@ -1,0 +1,130 @@
+{
+  "id": "cnn112",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Bernanke: It May Be Time to Hold off on Hikes",
+  "label": "Bernanke: It May Be Time to Hold off on Hikes",
+  "menuLabel": "[ CNN 112 ]",
+  "unit": 112,
+  "part": null,
+  "order": 111,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn112.mp4",
+      "legacySrc": "CNN/CNN61-120/112.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Bernanke: It May Be Time to Hold off on Hikes"
+    },
+    {
+      "type": "paragraph",
+      "text": "U.S. Fed Chairman Ben Bernanke says that monetary policy makers may decide on a pause in their cycle of interest rate rises. Mr. Bernanke told a committee of the U.S. Congress that could give the central bank more time to get a true picture of the economy. The Fed chief said that U.S. economic growth is poised to slow and warned that high energy prices still threaten to lead to inflation.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "버냉키, 금리 인상 중단 가능성 시사",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국 연방준비제도이사회 벤 버냉키 의장은 연방준비제도이사회가 그동안 주기적으로 실시한 금리 인상을 잠정 중단할 수도 있다고 밝혔습니다. 버냉키 의장은 미 의회 (경제)위원회에서 금리 인상 중단으로 중앙 은행이 미 경제의 실상을 파악할 시간을 벌게 될 것이라고 밝혔습니다. 버냉키 의장은 미국의 경제 성장이 둔화될 태세이며, 높은 에너지 가격이 여전히 인플레이션 압력을 가중시키고 있다고 경고했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. monetary policy/ 통화정책",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. interest rate/ 금리",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "monetary policy",
+          "text": "[마너츄리 팔러씨]. -ta-의 [?]가 탈락되어 [t]가 [r]의 영향을 받아 [츄]로 변형 발음된다. central[쎈츄럴], true[츄ㄹ]도로 주의 깊게 들어보자."
+        },
+        {
+          "n": "decide on a pause",
+          "text": "[디싸더너퍼-ㅈ]. ‘자음+모음’으로 연음되어 [디싸더너 퍼-ㅈ]로 들린다. pause는 pose와 혼동하지 않도록 하자."
+        },
+        {
+          "n": "committee",
+          "text": "[커미티]. -mm-으로 m이 두 번 나오지만 한번만 발음되어 [컴미티-]가 아니라 [커미티]로 발음되고 있다."
+        },
+        {
+          "n": "monetary policy",
+          "text": "[마너츄리 팔러씨]. -ta-의 [?]가 탈락되어 [t]가 [r]의 영향을 받아 [츄]로 변형 발음된다. central[쎈츄럴], true[츄ㄹ]도로 주의 깊게 들어보자."
+        },
+        {
+          "n": "decide on a pause",
+          "text": "[디싸더너퍼-ㅈ]. ‘자음+모음’으로 연음되어 [디싸더너 퍼-ㅈ]로 들린다. pause는 pose와 혼동하지 않도록 하자."
+        },
+        {
+          "n": "committee",
+          "text": "[커미티]. -mm-으로 m이 두 번 나오지만 한번만 발음되어 [컴미티-]가 아니라 [커미티]로 발음되고 있다.* hold off/ …을 연기하다, 지체시키다"
+        },
+        {
+          "n": "* hike",
+          "text": "(가격 따위의) 인상"
+        },
+        {
+          "n": "Fed",
+          "text": "미국 연방준비제도이사회(Federal Reserve Board): 1913년 창설된 연방준비제도(FRS)의 결정기구로 재할인율 등의 금리 결정, 재무부채권의 매입과 발행, 지급준비율 결정 등을 한다."
+        },
+        {
+          "n": "monetary policy makers",
+          "text": "통화 정책 입안가들: 여기서는 통화정책 입안가들로 구성되어 있는 연방준비제도이사회를 가리킴"
+        },
+        {
+          "n": "pause",
+          "text": "휴지, 중단, 끊김"
+        },
+        {
+          "n": "cycle of interest rate rises",
+          "text": "주기적인 금리인상"
+        },
+        {
+          "n": "committee",
+          "text": "위원회"
+        },
+        {
+          "n": "Congress",
+          "text": "의회"
+        },
+        {
+          "n": "get a true picture of",
+          "text": "…에 대해 제대로 파악하다"
+        },
+        {
+          "n": "economic growth",
+          "text": "경제성장"
+        },
+        {
+          "n": "be poised to",
+          "text": "…할 태세를 갖추다, …할 준비가 되다"
+        },
+        {
+          "n": "lead to",
+          "text": "…으로 이어지다"
+        },
+        {
+          "n": "inflation",
+          "text": "인플레이션, 물가상승"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/112.wmv",
+  "legacyEncoding": "binary"
+}

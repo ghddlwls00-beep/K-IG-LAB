@@ -1,0 +1,136 @@
+{
+  "id": "s3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": null,
+  "order": 14,
+  "audio": [],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do Every Day?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Week?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What Do I Do during the Weekends?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "What I Do During School Vacations?",
+      "lang": "en"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "40",
+          "text": "What do I do in the morning?"
+        },
+        {
+          "n": "41",
+          "text": "What do I do in the afternoon?"
+        },
+        {
+          "n": "42",
+          "text": "What do I do in the evening?"
+        },
+        {
+          "n": "43",
+          "text": "Weekdays"
+        },
+        {
+          "n": "45",
+          "text": "Everyday"
+        },
+        {
+          "n": "46",
+          "text": "At Night"
+        },
+        {
+          "n": "47",
+          "text": "Friday Night"
+        },
+        {
+          "n": "48",
+          "text": "Saturday Afternoon"
+        },
+        {
+          "n": "49",
+          "text": "Saturday Night"
+        },
+        {
+          "n": "50",
+          "text": "Sunday"
+        },
+        {
+          "n": "51",
+          "text": "Sunday Afternoon"
+        },
+        {
+          "n": "52",
+          "text": "Vacations"
+        },
+        {
+          "n": "53",
+          "text": "Summer Vacation"
+        },
+        {
+          "n": "54",
+          "text": "Winter Vacation"
+        },
+        {
+          "n": "55",
+          "text": "My Dream Vacation"
+        },
+        {
+          "n": "44",
+          "text": "The Start of a New Week"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "Student/s3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s3.swf"
+  ]
+}

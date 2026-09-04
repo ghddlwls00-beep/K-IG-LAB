@@ -1,0 +1,83 @@
+{
+  "id": "d031-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d031",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 031 회 ]",
+  "menuLabel": "[ D 031-1 ]",
+  "unit": 31,
+  "part": null,
+  "order": 61,
+  "audio": [
+    {
+      "src": "/audio/ld/d031.mp3",
+      "legacySrc": "sounds/d031.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 031 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Irene Watson은 한 잡지를 위한 작가다. 여기 그녀가 그 잡지의 편집자에게 쓴 편지의 일부분이 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "“제가 지난 주 Sacramento를 방문하고 있었을 때 저는 Kathy Austin을 만났습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀는 등산가입니다. 그녀는 방금 7명의 다른 여성과 함께 에베레스트 산을 등정했습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 그 탐험에 대하여 나에게 말할 때 우리는 저녁을 먹고 있었습니다. 그것은 정말 재미있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 우리가 그녀의 이야기를 사용할 수 있다고 생각합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "Kathy는 그 탐험의 어려운 점들 중의 몇 가지를 묘사했습니다. 그들은 27일 동안 등반하고 있었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "종종 눈이 오고 있었고 보통 바람이 심하게 불고 있었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "kathy는 나에게 자신의 일기장과 몇몇 아름다운 사진들을 보여주었습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그녀가 그 사진을 찍었을 때 그녀는 세계의 꼭대기 근처를 기어오르고 있었습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d031-1.htm",
+  "legacyEncoding": "utf-8"
+}

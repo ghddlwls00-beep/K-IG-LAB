@@ -1,0 +1,146 @@
+{
+  "id": "cnn045",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "12 Victims Announced in U.S. Mine Explosion",
+  "label": "12 Victims Announced in U.S. Mine Explosion",
+  "menuLabel": "[ CNN 45 ]",
+  "unit": 45,
+  "part": null,
+  "order": 44,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn045.mp4",
+      "legacySrc": "CNN/CNN1-60/45.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "12 Victims Announced in U.S. Mine Explosion"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the U.S., the sole survivor of Monday’s mine explosion remains in a coma. Doctors say Randall McCloy has been transferred from a West Virginia hospital to a larger facility in Pittsburgh, in Pennsylvania. Hours after vigils to remember the twelve miners who died, officials released a note written by one of them deep inside the shaft. As they awaited rescue, miner Jerry Groves wrote that he and his colleagues were just going to sleep. Relatives have said their only comfort would be if the miners did not suffer.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국 탄광폭발 사고로 12명 사망.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "미국에서 월요일에 발생한 탄광폭발사고의 유일한 생존자가 아직도 혼수상태에 빠져 있습니다. 의료진은 (생존자) 랜달 맥클로이 씨가 웨스트 버지니아 병원에서 펜실베이니아 주 피츠버그 소재의 더 큰 병원으로 이송됐다고 밝혔습니다. 숨진 12명의 광부를 기리기 위한 철야기도가 있은 지 몇 시간 후, 관계자들은 희생자들 중 한 명이 깊은 수직갱도 속에서 쓴 쪽지를 공개했습니다. 매몰된 광부들이 구조를 기다리는 동안, 광부 제리 그로브스 씨는 자신과 동료들이 곧 잠에 빠져들 것 같다고 적었습니다. 유족들은 희생자들이 고통 없이 죽음을 맞았다면 그나마 위로가 될 것 같다고 말했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[s]가 모음 앞에서는 [ㅆ]로 된소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "sole은 Seoul과 동음이의어로 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "tr-은 [t]가 [r]의 영향을 받아 [ㅊ]로 발음되고, -ed의 발음은 거의 발음되지 않지만, from에 영향을 주어 [프럼]이 아니라 [츠럼]에 가깝게 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "after의 영국식 발음으로 a[æ]를 [아]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) mine/ 광산, 탄광 (2) explosion/ 폭발, 파열",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. coma/ 혼수상태",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "sole survivor",
+          "text": "[쏘울써바이버]."
+        },
+        {
+          "n": "transferred from",
+          "text": "[츠렌스퍼츠럼]."
+        },
+        {
+          "n": "after vigils",
+          "text": "[아프터 비질ㅈ]."
+        },
+        {
+          "n": "victim",
+          "text": "희생자, 피해자, 조난자"
+        },
+        {
+          "n": "mine explosion",
+          "text": "탄광폭발사고: 여기서는 미국 웨스트 버지니아 주 버캐넌의 광산매몰사고를 뜻함"
+        },
+        {
+          "n": "sole",
+          "text": "하나뿐인, 유일한"
+        },
+        {
+          "n": "survivor",
+          "text": "생존자"
+        },
+        {
+          "n": "in a coma",
+          "text": "혼수상태에 빠진"
+        },
+        {
+          "n": "transfer from A to B",
+          "text": "A에서 B로 이송하다"
+        },
+        {
+          "n": "facility",
+          "text": "((보통 복수형으로)) 기관, 설비, 편의시설"
+        },
+        {
+          "n": "vigil",
+          "text": "철야기도; 철야"
+        },
+        {
+          "n": "remember",
+          "text": "…을 기리다"
+        },
+        {
+          "n": "release",
+          "text": "발표[공개]하다; (영화를) 개봉하다"
+        },
+        {
+          "n": "shaft",
+          "text": "{광업}수갱(竪坑), 수직갱도(vertical shaft): 수직으로 파 내려간 갱도"
+        },
+        {
+          "n": "await",
+          "text": "…을 기다리다"
+        },
+        {
+          "n": "rescue",
+          "text": "구조, 구출, 구제"
+        },
+        {
+          "n": "colleague",
+          "text": "(관직, 직업상의) 동료"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/45.wmv",
+  "legacyEncoding": "binary"
+}

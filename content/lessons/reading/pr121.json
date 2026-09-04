@@ -1,0 +1,51 @@
+{
+  "id": "pr121",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 121 ]",
+  "menuLabel": "[ pr121 ]",
+  "unit": 121,
+  "part": null,
+  "order": 240,
+  "audio": [
+    {
+      "src": "/audio/reading/pr121.mp3",
+      "legacySrc": "sounds/pr121.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 121 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Most scientists believe that by resting our bodies, we keep ourselves in good physical condition. Any damage can be cured more quickly if energy is not being used up doing other things. Injured animals certainly spend more time asleep than usual while their wounds are healing. And quite a few illnesses make us feel"
+    },
+    {
+      "type": "hints",
+      "text": "sleepy so that our body can get on with curing us."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr121.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,428 @@
+{
+  "id": "cnn077",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Wumart* Vs. Wal-Mart*",
+  "label": "Wumart* Vs. Wal-Mart*",
+  "menuLabel": "[ CNN 77 ]",
+  "unit": 77,
+  "part": null,
+  "order": 76,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn077.mp4",
+      "legacySrc": "CNN/CNN61-120/77.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Wumart* Vs. Wal-Mart*"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDREW STEVENS, CNN Anchor: The U.S. retail juggernaut Wal-Mart served up another rise in quarterly profits on Tuesday. That was thanks to brisk sales over the holiday period. Wal-Mart has been making inroads into China as it expands its global reach, but it’s also facing stiff competition on the ground there. Eunice Yoon explains how local shops are playing David and taking on the U.S. Goliath.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "EUNICE YOON, CNN Correspondent: To this shopper in Beijing, picking out a new pair of slippers is more convenient at Chinese retail chain Wumart than at the U.S. retailer with a similar name.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Wal-Mart has good food and meat, but Wumart is closer to my home. I like it.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wumart gets its name from the Chinese “Wumei”, “good stuff” in English. It runs over 500 superstores in Beijing. Wal-Mart runs just three in the Chinese capital, though the American retailer is much bigger in the rest of the country. And with China further opening its doors to foreign players, local companies like Wumart are doing everything they can to compete.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ZHANG WENZHONG, Wumart Stores: The international players, they do have more money, they do have more experience, you know, they do have bigger economic skill, but you know, to local market, you know, you have to understand Chinese better.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Keeping in tune with customer needs is one way Zhang intends to stay standing. Another, like many Chinese retailers, Zhang is expanding, recently acquiring one of his rivals. With the Chinese spending more these days, he believes there’s room for Wumart to grow. But some analysts say, Chinese retailers face a tough battle from their foreign rivals.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JOE HATFIELD, Wal-Mart Asia: If you look at the U.S. or France or the U.K. or many of the developed countries, (and) all the competition is much, much more developed and stronger than it is here today. And it will evolve over time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Stores like Wal-Mart tend to have bigger, more trusted names in China, something Wumart is working on.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "WENZHONG: Wumart has been elected as the bestknow(n) brand name in Beijing and the capital area already. So we treat the name, Wumart name, you know, very well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "YOON: Zhang hopes consumers will too. Eunice Yoon, CNN, Hong Kong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "월마트에 맞서는 중국 우마트",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤드류 스티븐스, CNN 앵커: 미 대형 할인매장 월마트가 지난 화요일 또다시 분기별 수익 상승을 기록했습니다. 이는 지난 휴가 기간 동안의 높은 판매 실적에 기인한 것입니다. 월마트는 전세계적으로 세를 확장하고 있는 가운데 중국 시장으로도 잠식해 들어가고 있습니다. 그러나 한 편으로 월마트는 중국 현지에서의 치열한 경쟁에 직면해 있습니다. 유니스 윤 기자가 중국 현지 소매점들이 다윗 역할을 자처하며 어떤 방식으로 미국의 골리앗을 상대하고 있는지 보도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유니스 윤, CNN 기자: 베이징에 거주하는 이 쇼핑객에게는 새 슬리퍼 한 켤레를 고르는 데 중국 소매 체인점인 우마트가 비슷한 이름의 미국 소매점보다 편리합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "“월마트는 품질 좋은 식품과 육류를 취급하지만 우마트가 우리 집에서 더 가까워요. 그게 마음에 들어요.”",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우마트의 이름은 영어로‘좋은 제품’을 뜻하는 중국어‘우메이 (物美)’에서 따왔습니다. 우마트는 베이징에 500개 이상의 대형 매장을 운영하고 있습니다. 반면 월마트는 이곳 중국의 수도에 단 세 개의 매장만 운영하고 있을 뿐입니다. 중국의 나머지 지역에서는 이 미국계 소매점이 훨씬 더 많은데도 불구하고 말이죠. 외국 기업들에 대한 중국의 시장 개방이 점점 확대되고 있는 가운데 우마트와 같은 현지 기업들은 이들과 경쟁하기 위해 총력을 기울이고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "장 웬즈홍, 우마트 매장: 다국적 기업들은 자본도 더 많고, 경험도 더 많으며, 경제적 수완도 더 탁월합니다. 하지만 중국 현지 시장에서는 중국인을 좀더 잘 이해해야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 고객의 욕구에 제대로 부응하는 것이 장 웬즈홍 씨가 고수해 나가려는 한 가지 사업 방식입니다. 또 다른 방식으로, 여러 중국 소매업체들처럼 장 씨 또한 사업을 확장하고 있는데, 최근에도 그는 경쟁사 중 한 곳을 인수했습니다. 요즘 들어 중국인의 소비가 늘어남에 따라 장 씨는 우마트가 성장할 수 있는 여지가 있다고 믿고 있습니다. 하지만 일부 경제 분석가들은 중국 소매업체들이 외국 경쟁업체들과의 힘든 싸움에 직면해 있다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조 핫필드, 월마트 아시아: 미국이나 프랑스, 영국, 또 다른 선진국의 경우를 보면, 경쟁이 오늘날의 중국에서보다 휠씬 더 선진화되어 있고 치열합니다. 시간이 지나면 중국도 그렇게 발전할 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 현재 중국에서는 월마트 같은 업체들이 더 인지도 있고 신뢰할만한 브랜드라는 평판을 얻고 있는 듯합니다. 이게 바로 우마트가 얻고자 애쓰고 있는 부분입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "웬즈홍: 우마트는 이미 베이징과 중국의 주요 지역에서 가장 잘 알려진 브랜드로 뽑혔습니다. 그래서 우리는 우마트라는 이름을 아주 소중히 여깁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "윤: 장 씨는 소비자들 또한 마찬가지이기를 희망하고 있습니다. 홍콩에서CNN, 유니스 윤이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "두 단어 모두 끝자음 [t]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "특히 Wal-Mart는 우리가 알고 있는‘월마트’와 발음이 달라 혼동하기 쉽다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wumart는 [우마], market은 [멀킷]에 가깝게 소리 난다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모음 [ou]가 [o]로 축약되고 -al이 강세를 받지 못해 약화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "reach는 rich와 혼동하지 않도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "장모음과 단모음의 차이지만 실제 기사를 들을 때는 차이를 느끼지 못하기 때문에 문맥으로 파악해야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘자음+모음’으로 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "in은 -ing의 ‘-g’가 탈락되었을 때와 발음을 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "st-는 무성음의 중복으로 [t]를 경음화해 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "facing stiff[페이싱 스띠ㅍ], store[스또어], expending[익스뻰딩]도 같은 예다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "둘 다 강세를 받지 못해 아주 약하게 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "with는 we와 혼동하지 않도록 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조동사 can 다음에 바로 to부정사가 나오고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "여기서 to부정사는 부사적 용법으로 can에 종속되는 동사가 아닌 것을 참고하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "battle의 [t]가 [l]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "their는 주로 the와 혼동할 수 있으니 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. retailer/ 소매점, 소매업체",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) expand/ …을 확장 [확대]하다, 넓히다 (2) reach/ (작용?힘의) 미치는 범위, 이르는 거리",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) stiff/ (경쟁이) 심한; (조건, 벌 따위가) 엄한 (2) competition/ 경쟁; 대회, 시합",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. Goliath/ 골리앗: 블레셋 족의 거인",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. developing country/ 개발도상국",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. capital/ 중요한, 주요한",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "juggernaut Wal-Mart",
+          "text": "[좌거너 (우)월마]."
+        },
+        {
+          "n": "global reach",
+          "text": "[글로블 리치]."
+        },
+        {
+          "n": "shopper in",
+          "text": "[샤퍼린]."
+        },
+        {
+          "n": "good stuff",
+          "text": "[굳스따ㅍ]."
+        },
+        {
+          "n": "And with",
+          "text": "[은위(ㄷ)]."
+        },
+        {
+          "n": "can to compete",
+          "text": "[캔 투 컴피ㅌ]."
+        },
+        {
+          "n": "tough battle from their",
+          "text": "[타ㅍ 베베럴 프름드]."
+        },
+        {
+          "n": "* Wumart",
+          "text": "우마트: 중국 베이징의 최대 소매업체"
+        },
+        {
+          "n": "* Wal-Mart",
+          "text": "월마트: 미국에 본사를 둔 다국적 대형 할인매장"
+        },
+        {
+          "n": "1) retail",
+          "text": "소매의, 소매상의"
+        },
+        {
+          "n": "2) juggernaut",
+          "text": "거대조직; 엄청난 파괴력, 불가항력"
+        },
+        {
+          "n": "3) serve up",
+          "text": "…을 내보이다(present); 제공하다"
+        },
+        {
+          "n": "4) quarterly",
+          "text": "분기별의, 연 4회의; 4분의 1의"
+        },
+        {
+          "n": "5) profit",
+          "text": "이익, 수익"
+        },
+        {
+          "n": "6) brisk",
+          "text": "(장사가) 번창하는, 호황의; 활발한, 기운찬"
+        },
+        {
+          "n": "7) make inroads into",
+          "text": "…으로 진출[잠식]하다; …에 영향을 미치기 시작하다"
+        },
+        {
+          "n": "8) expand one’s global reach",
+          "text": "전세계적으로 세력을 확장하다"
+        },
+        {
+          "n": "9) face stiff competition",
+          "text": "치열한 경쟁에 직면하다"
+        },
+        {
+          "n": "10) on the ground",
+          "text": "현지에서, 현장에서"
+        },
+        {
+          "n": "11) David",
+          "text": "다윗: 성서에 나오는 유대인 소년 다윗은 거인 골리앗에 맞서 싸워 골리앗을 죽이는 데 성공한다. 미국의 거대 할인매장 Wal-Mart를 골리앗에, 중국 현지의 Wumart를 골리앗에 맞서 대결하는 다윗에 비유하고 있다."
+        },
+        {
+          "n": "12) take on",
+          "text": "…을 상대로 하다, …와 대결[전]하다"
+        },
+        {
+          "n": "13) pick out",
+          "text": "…을 고르다, 택하다"
+        },
+        {
+          "n": "14) convenient",
+          "text": "편리한; 사용하기 좋은"
+        },
+        {
+          "n": "15) stuff",
+          "text": "상품; 물질, 물건"
+        },
+        {
+          "n": "16) run",
+          "text": "경영하다, 관리하다"
+        },
+        {
+          "n": "17) superstore",
+          "text": "초대형매장; 대형 백화점[슈퍼마켓]"
+        },
+        {
+          "n": "18) open one’s doors to",
+          "text": "…에 문호를 개방하다, 문을 열다"
+        },
+        {
+          "n": "19) keep in tune with",
+          "text": "…와 가락을 맞추다"
+        },
+        {
+          "n": "20) needs",
+          "text": "욕구; 필요; 요구"
+        },
+        {
+          "n": "21) intend to",
+          "text": "…할 작정이다, …하려고 생각하다"
+        },
+        {
+          "n": "22) standing",
+          "text": "오래 계속되는, 불변의; 효용이 언제까지나 지속되는"
+        },
+        {
+          "n": "23) acquire",
+          "text": "(재산, 권리 등을) 취득하다, 획득하다"
+        },
+        {
+          "n": "24) rival",
+          "text": "경쟁자, 적수"
+        },
+        {
+          "n": "25) room",
+          "text": "여지, 여유, 기회, 가능성"
+        },
+        {
+          "n": "26) analyst",
+          "text": "경제 분석가"
+        },
+        {
+          "n": "27) battle",
+          "text": "전투, 싸움, 교전"
+        },
+        {
+          "n": "28) developed country",
+          "text": "선진국"
+        },
+        {
+          "n": "29) evolve",
+          "text": "진화[발달]시키다; (논리, 의견, 계획 등을) 서서히 발전시키다"
+        },
+        {
+          "n": "30) over time",
+          "text": "시간이 지남에 따라"
+        },
+        {
+          "n": "31) trusted",
+          "text": "신뢰할 수 있는, 믿음이 가는"
+        },
+        {
+          "n": "32) work on",
+          "text": "…에 착수하다; …에 효험이 있다"
+        },
+        {
+          "n": "33) elect",
+          "text": "선출[선임]하다; (방침 따위를) 결정하다"
+        },
+        {
+          "n": "34) best-known",
+          "text": "가장 잘 알려진: best-know로 잘못 말하고 있다."
+        },
+        {
+          "n": "35) capital area",
+          "text": "주요 지역"
+        },
+        {
+          "n": "36) treat",
+          "text": "대우하다, 다루다, 취급하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/77.wmv",
+  "legacyEncoding": "binary"
+}

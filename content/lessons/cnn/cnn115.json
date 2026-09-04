@@ -1,0 +1,307 @@
+{
+  "id": "cnn115",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "John Browne: High Oil Price Helps Offset* Decline* in Production*",
+  "label": "John Browne: High Oil Price Helps Offset* Decline* in Production*",
+  "menuLabel": "[ CNN 115 ]",
+  "unit": 115,
+  "part": null,
+  "order": 114,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn115.mp4",
+      "legacySrc": "CNN/CNN61-120/115.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "John Browne: High Oil Price Helps Offset* Decline* in Production*"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANDREW STEVENS, CNN Anchor: Well, BP says its first quarter profits are down, net income down 15% from the same period last year. BP blaming a decline in its oil production after hurricanes on the Gulf of Mexico and the closure of its biggest refinery. But still, results were better than expected thanks to higher crude prices. That’s more than ＄5.5 billion income in the last three months. It came in at the rate of nearly ＄32 thousand every sixty seconds. Well, Mallika Kapur caught up with BP’s Chief Executive Officer, John Browne and asked him if he was satisfied with those numbers.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JOHN BROWNE, Chief Executive Officer of BP: It’s higher than the amount a year ago, if you strip out non-operating items. In fact, we’re up on a per share basis about 12% year on year which is a good result. It’s especially good in the light of the fact that Texas City, our very big refinery in the United States only came on production in April. And it’s now on production, taking about 200-thousand barrels a day of crude oil. Its maximum capacity is 400-thousand barrels a day and it will build up to that over the year. So, all in all, we think the result is pretty good, given the circumstance we’re in which were well-known, I think, to the market.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KAPUR: Last year at this time, if someone had talked about oil prices hitting $75 a barrel, many people would have thought “that’s just unthinkable.” How realistic a goal is $100 a barrel... is that something we could see?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BROWNE: Well, I want to repeat your question. If you asked someone a year ago if they’d said $75 a barrel, I think most people would have regarded them as not being very sensible. So any statement, I think, about oil prices is terribly dangerous. And we just don’t know. The real question is why is the price of oil $75 a barrel especially as we see the price of oil rising while inventories are rising. So no one is queuing for gas, refineries are well supplied with oil, storage is pretty full in the world, production is definitely meeting demand.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "But as this is happening, so the price is rising. And it’s our view that the price is rising on the back of anxiety, anxiety about what might happen in the future, primarily to do with the relationship of the world with Iran, with Iraq, what would happen in Nigeria. So people are concerned about that and they can see all the bad news coming out..more concerned..and they can’t actually see much good news coming out. So, people, I think, in the financial markets are saying, “Well, it’s a pretty strong ‘bad’ and that the price of oil may rise.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "존 브라운: 석유 생산량 감소로 인한 영업 손실, 고유가로 상쇄한다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앤드류 스티븐스, CNN 앵커: 영국의 BP 사는 1분기 실적이 하락하여 전년 동기 대비 순익이 15% 감소했다고 밝혔습니다. BP 사는 이번 매출 하락이 멕시코 만에 불어닥친 허리케인으로 인한 석유 생산량 감소와 BP사 최대 정유 시설의 폐쇄 때문이라고 합니다. 하지만 유가 상승 덕에 실적은 여전히 기대 이상이었고, 지난 세 달 동안 55억 달러 넘는 수익을 올렸습니다. 이는 매 분마다 거의 3만2천 달러의 수익을 올린 셈입니다. 말리카 카푸르 기자가 BP 사의 존 브라운 회장을 만나 그와 같은 실적에 만족하는지 물어 보았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "존 브라운, BP 사 최고경영자: 영업 외 부문을 제외한다면 일 년 전보다 실적이 더 좋습니다. 실제로 전년도 대비 주당 수익률이 약 12% 상승했으니 결과가 좋다고 할 수 있죠. 미국텍사스시티에서 규모가 상당히 큰 저희 정유 시설이 지난 4월에야 석유 생산에 들어갔다는 사실을 감안하면 특히나 좋았다고 할 수 있습니다. 게다가 지금도 계속 가동되고 있어 하루 약 20만 배럴의 원유를 생산해 내고 있습니다. 하루 최대 생산 능력이 40만 배럴인데 올해 안으로 그 수준까지 끌어 올릴 것입니다. 그래서 금융 시장에도 잘 알려져 있다고 생각되지만 우리 회사가 현재 처해 있는 상황을 고려했을 때, 대체로 실적이 상당히 좋은 편이라고 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "카푸르: 작년 이맘때만 해도, 누군가 유가가 배럴당 75달러까지 치솟을 거라고 말했다면, 많은 사람들이‘그건 가당치도 않다’고 생각했을 것입니다. 그렇다면 배럴당 100 달러는 어느 정도나 현실성이 있습니까? 조만간 그런 시대가 올까요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "브라운: 카푸르 씨의 질문을 다시 한번 말씀드리고 싶은데요, 일 년 전만 해도 누군가에게 (유가에 대해) 물어 봤을 때 그 사람이 배럴당 75달러라고 말했다면, 대부분의 사람들이 그 사람을 생각 없는 사람으로 간주했을 겁니다. 그래서 유가에 대해서라면 어떤 식의 예단(豫斷)도 아주 위험할 수 있습니다. 저희도 잘 몰라요. 진짜 문제는 기름값이 배럴당 75달러인 이유가 뭐냐는 것입니다. 특히나 석유 재고량이 증가하고 있는데도 유가가 높아지는 상황에서 말이죠. 기름을 사려고 줄을 서는 사람도 없고, 정유 공장에는 석유가 풍족하며, 전세계적으로 석유 재고량도 꽤 높은 수준이니까 분명 생산량이 수요를 충족시키고 있는 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "하지만 현실에서는 유가는 계속 상승하고 있습니다. 유가 상승이 우려 때문이라는 게 저희 견해입니다. 주로 세계의 대이란 및 대이라크 관계, 나이지리아의 향후 상황 등 앞으로 벌어질 일들에 대한 우려 말입니다. 사람들은 그런 우려때문에 나쁜 소식들이 나오면 더 걱정하게 됩니다. 좋은 소식을 기대할 수 없게 되죠. 그래서 국제 금융 시장 사람들이 “지금 상황이 너무 나빠서 유가가 계속 상승할 것 같다.”고 말하는 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) net/ 순(純)…; (에누리 없는) 정(正)… (2) income/ 수입, 소득",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. crude/ 천연 그대로의, 자연의; 가공[정제]하지 않은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. capacity/ 용량, 용적, 체적",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "* offset",
+          "text": "상쇄(相殺)하다; …을 보충하다"
+        },
+        {
+          "n": "* decline",
+          "text": "하락; 감퇴; 쇠퇴"
+        },
+        {
+          "n": "* production",
+          "text": "생산(량)"
+        },
+        {
+          "n": "1) BP",
+          "text": "브리티시 페트롤리엄(British Petroleum): 영국의 세계적인 석유 회사"
+        },
+        {
+          "n": "2) quarter",
+          "text": "1년의 4분의 1(3개월), 분기(分期)"
+        },
+        {
+          "n": "3) profits",
+          "text": "이익, 수익, 이윤"
+        },
+        {
+          "n": "4) net income",
+          "text": "순수익"
+        },
+        {
+          "n": "5) blame",
+          "text": "…의 탓으로 돌리다, (잘못의) 책임을 지우다, 전가하다"
+        },
+        {
+          "n": "6) hurricane",
+          "text": "{기상}(서인도 제도 또는 열대 대서양의) 허리케인, 대폭풍, 태풍"
+        },
+        {
+          "n": "7) Gulf of Mexico",
+          "text": "멕시코 만: 뉴올리언스에서 동남쪽으로 240km 거리에 있으며 미국의 정유 시설이 밀집되어 있는 곳으로 미 전체 석유 공급량의 약 30%를 차지하고 있다."
+        },
+        {
+          "n": "8) closure",
+          "text": "폐쇄, 폐지, 마감; 폐점, 폐회"
+        },
+        {
+          "n": "9) refinery",
+          "text": "정제소, 정련소; 정유 시설"
+        },
+        {
+          "n": "10) thanks to",
+          "text": "…의 덕택에, …때문에"
+        },
+        {
+          "n": "11) crude",
+          "text": "(oil) 원유"
+        },
+        {
+          "n": "12) at the rate of",
+          "text": "…의 비율로"
+        },
+        {
+          "n": "13) catch up with",
+          "text": "(사람,차,나라 따위를) 따라잡다"
+        },
+        {
+          "n": "14) Chief Executive Officer",
+          "text": "최고경영자 (CEO)"
+        },
+        {
+          "n": "15) be satisfied with",
+          "text": "…에 만족하다"
+        },
+        {
+          "n": "16) strip out",
+          "text": "…을 빼다, 제외하다"
+        },
+        {
+          "n": "17) non-operating",
+          "text": "영업 외의"
+        },
+        {
+          "n": "18) in fact",
+          "text": "실은, 사실상"
+        },
+        {
+          "n": "19) on a per share basis",
+          "text": "주당(株當) 기준으로"
+        },
+        {
+          "n": "20) in the light of",
+          "text": "…에 비추어, 고려하여"
+        },
+        {
+          "n": "21) Texas City, our very big refinery in the United States",
+          "text": "미국 텍사스 주 텍사스 시티 소재의 BP 공장을 가리킴. 지난 2005년 3월 이곳에서 발생한 대규모 폭발 사고로 180여 명이 사상하여 한동안 가동이 중단된 바 있다."
+        },
+        {
+          "n": "22) come on production",
+          "text": "생산 가동에 들어가다"
+        },
+        {
+          "n": "23) maximum capacity",
+          "text": "최대 용량: 여기서는 최대 생산량"
+        },
+        {
+          "n": "24) build up to",
+          "text": "…까지 늘리다, 증감하다"
+        },
+        {
+          "n": "25) all in all",
+          "text": "대체로, 얼추"
+        },
+        {
+          "n": "26) given",
+          "text": "((전치사,접속사적)) …을 고려하면; (계산,추론의 전제로서) …을 가정하면"
+        },
+        {
+          "n": "27) circumstance",
+          "text": "(주변의) 상황, 환경, 사정"
+        },
+        {
+          "n": "28) be well-known to",
+          "text": "…에 잘 알려져 있다"
+        },
+        {
+          "n": "29) unthinkable",
+          "text": "생각할 수 없는, 상상도 할 수 없는; 있을 수 없는"
+        },
+        {
+          "n": "30) realistic",
+          "text": "현실적인, 실제적인"
+        },
+        {
+          "n": "31) repeat",
+          "text": "…을 되풀이해서 말하다"
+        },
+        {
+          "n": "32) regard A as B",
+          "text": "A를 B라고 간주하다"
+        },
+        {
+          "n": "33) sensible",
+          "text": "양식[분별]이 있는, 현명한, 이해가 빠른"
+        },
+        {
+          "n": "34) statement",
+          "text": "언급, 진술; 계산서, 명세서, (사업) 보고서"
+        },
+        {
+          "n": "35) terribly",
+          "text": "((구어)) 몹시, 굉장히, 대단히."
+        },
+        {
+          "n": "36) inventory",
+          "text": "(상품,재산,가재 따위의) 재고, 재고품 목록"
+        },
+        {
+          "n": "37) queue for",
+          "text": "(…을 찾아, …하려고) 줄을 서다, 줄을 서서 기다리다, 줄에 서다"
+        },
+        {
+          "n": "38) be well supplied with",
+          "text": "…이 풍족하다"
+        },
+        {
+          "n": "39) storage",
+          "text": "저장소; 저장, 보관"
+        },
+        {
+          "n": "40) definitely",
+          "text": "((구어)) 분명히, 확실히"
+        },
+        {
+          "n": "41) meet demand",
+          "text": "수요를 충족시키다"
+        },
+        {
+          "n": "42) on the back of",
+          "text": "…에 더하여; …에 뒤이어"
+        },
+        {
+          "n": "43) anxiety",
+          "text": "걱정, 근심, 염려"
+        },
+        {
+          "n": "44) primarily to do with",
+          "text": "주로 …와 관계 있는"
+        },
+        {
+          "n": "45) relationship",
+          "text": "관계"
+        },
+        {
+          "n": "46) be concerned about",
+          "text": "…에 대해 걱정하다"
+        },
+        {
+          "n": "47) come out",
+          "text": "알려지다, 드러나다"
+        },
+        {
+          "n": "48) financial market",
+          "text": "금융 시장"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/115.wmv",
+  "legacyEncoding": "binary"
+}

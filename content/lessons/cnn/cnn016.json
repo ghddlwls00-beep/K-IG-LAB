@@ -1,0 +1,721 @@
+{
+  "id": "cnn016",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "HD* Horrible or HD Honey?",
+  "label": "HD* Horrible or HD Honey?",
+  "menuLabel": "[ CNN 16 ]",
+  "unit": 16,
+  "part": null,
+  "order": 15,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn016.mp4",
+      "legacySrc": "CNN/CNN1-60/16.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "HD* Horrible or HD Honey?"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: Today on Tech Watch up close and very personal. In the superficial world of television, looks can count a lot. And now new television technology lets viewers take an even closer look at wellknown personalities. Jeanne Moos finds out how TV stars are coping with this new perspective.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JEANNE MOOS, CNN Correspondent: The latest wrinkle in TV technology can make a mountain out of a mole.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN 1: This is a shaving accident.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: The slightest nick can look like a laceration.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CHARLES GIBSON, Good Morning America Anchor: We’re delighted to be broadcasting in high-def!",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Delighted? For some, high definition equals high anxiety. It’s enough to make a housewife desperate.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "PHILLIP SWANN, TVprediction.com: She also has these big veins bulging out of her forehead. It kind of looks like a page from a AAA roadmap.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: It’s one thing when HDTV lets you eyeball the laces on a football, but it can also make a local sports anchor look like a slob.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SWANN: More than once, I have seen him on there with food stains on his lapel.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Ready or not, high-def is coming. Prepare the counterattacks.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SWANN: Some local news teams are starting to ask for Botox budgets in anticipation of going high-def.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: You’re going to have to use your imagination with this piece, because you probably don’t have HDTV yet. Only six percent of Americans do. So those of you with regular TV won’t be able to fully appreciate how badly we look in HD. That’s regular TV on the left, HD on the right.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN 2: You can see his warts. You can see bumps and dirt on his face that are completely gone. You don’t even notice it here.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Good Morning America recently launched in high-def.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "GIBSON: Standard television..., HD.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DIANE SAWYER, Good Morning America Anchor: Can you see the texture in Robin’s jacket?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: It’s the texture of the face that has talent on alert.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SAWYER: Seeing even more about what we did the night before.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROBIN ROBERTS, Good Morning America Anchor: Alright, don’t go there, don’t go there.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED WOMAN: That is the Grand Canyon. Have you ever seen it like that on TV?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Yeah, but what about wrinkles that look like the Grand Canyon? Watch out or you’ll end up on the HD horribles list along with David Letterman.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SWANN: He’s got more lines in his face than his writers have in their heads.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: And Clint Eastwood.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SWANN: I love Clint Eastwood, but isn’t he in his seventies now? And he kind of reminds you of his very first TV show, when you see his face. Rawhide.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: The opposite of skin like rawhide, the HD honeys. Marcia Cross is the only one over 40 to make the list.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SWANN: She is an HDTV honey. Her skin is as smooth as Bill Clinton at a cocktail party.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: Another HD honey was Ashton Kutcher but wife Demi Moore was named an HD horrible. High-def has make-up artists reaching for their latest weapon, the airbrush. Take aim at the acne. There is even a little programming card, shooters stick in their cameras.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN 3: You can set this so that the focus is a little softer and wrinkles don’t show up.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: But there’s one star who doesn’t need airbrushed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED MAN 4: Have you seen SpongeBob in high-def?",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MOOS: SpongeBob is proud to show off his pores. Jeanne Moos, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "고화질 추남추녀? 고화질 미남미녀?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 오늘 <테크 와치>에서는 강도 높은 밀착 취재를 했습니다. 피상적인 텔레비전 세계에서 외모는 아주 큰 비중을 차지합니다. 게다가 이제는 텔레비전에 도입된 신기술 덕분에 시청자가 유명 연예인들을 훨씬 더 가까이에서 들여다볼 수 있게 되었습니다. 지니 무스 기자가 이런 새로운 전망에 TV 스타들이 어떻게 대처하고 있는지 알아보았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "지니 무스, CNN 기자: 최첨단 TV 기술은 (티끌만한) 점 하나를 마치 태산처럼 보이게 만들 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 1: 이건 면도하다가 생긴 상처에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이 작디작은 자국 하나가 찢어진 상처처럼 보일 수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "찰스 깁슨, <굿모닝 아메리카> 앵커: 고화질 방송을 하게 되어 기쁩니다!",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 기쁘다고요? 어떤 사람들에게는 고화질이 곧 고도의 근심을 의미합니다. 이“위기의 주부”를 자포자기 상태로 몰아넣기에 충분하죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "필립 스완, TVprediction.com: 이 여성도 이마 혈관이 크게 불거져 나와 있군요. 흡사 <트리플에이(AAA)> 도로안내책자의 한 면을 보는 듯 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 고화질 TV는 시청자가 미식 축구공에 달린 레이스까지 볼 수 있게 해주는 반면, 한 지역 방송의 스포츠 아나운서를 깔끔하지 못한 사람으로 비추기도 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스완: 저 아나운서가 옷깃에 음식물 얼룩을 묻힌 채 저 방송에 나오는 걸 여러 번 봤다니까요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 준비가 됐던 되지 않았던 간에 고화질 시대는 도래하고 있습니다. 반격의 태세를 갖춰야 되겠죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스완: 고화질 방송으로의 전환이 예상되는 가운데 일부 지역 방송 뉴스팀에서는 보톡스 시술을 위한 예산을 책정해달라고 요구하기 시작합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 지금 보도되는 내용을 이해하시려면 상상력을 발휘하셔야 할 것 같습니다. 아마도 시청자 여러분은 아직 고화질 TV를 장만하지 못하셨을 테니까요. 미국인의 6%만이 고화질 TV를 보유하고 있습니다. 일반 TV를 시청하고 계시는 분들은 아마도 고화질 TV에 우리가 얼마나 볼품없게 비치는지 제대로 알지 못하실 겁니다. 왼쪽에 있는 것이 일반화질TV이고, 오른쪽이 고화질TV입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 2: (고화질 화면에서) 여기 이 남자의 사마귀가 보이시죠. (일반 화면에서) 남자의 얼굴에 울룩불룩 튀어나온 것과 지저분한 것들이 완전히 사라졌습니다. 이 화면에서 여러분은 아마 눈치도 못 채셨을 겁니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: <굿모닝 아메리카>는 최근에 고화질 방송을 시작했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "깁슨: 이건 일반 텔레비전이고요, 이쪽은 고화질입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "다이앤 소여, <굿모닝 아메리카> 앵커: 여기 로빈 씨가 입은 재킷의 옷감 결까지도 보이시죠?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스:TV 연예인들이 경계해야 하는 대상은 바로 얼굴의 피부결입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "소여: 심지어 우리가 어젯밤에 뭘 했는지 까지도 다 보일 정도에요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로빈 로버츠, <굿모닝 아메리카> 앵커: 알았어요. 그만해요. 거기까지만 하세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 여성: 지금 보시는 것은 그랜드 캐니언입니다. TV에서 이런 광경을 본 적이 있으신가요?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 그럼요. 그렇다면 그랜드 캐니언처럼 보이는 주름살을 보신 적은 있으신가요? 조심하지 않으면 데이비드 레터맨과 함께‘고화질 추남추녀 리스트’에 올라갈 수도 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스완: 데이비드 레터맨의 얼굴에 있는 (자글자글한) 주름살은 그와 일하는 방송작가들 머릿속에 들어 있는 방송 대사보다도 많죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 클린트 이스트우드도 빠질 수 없지요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스완: 클린트 이스트우드를 좋아해요. 이제 70대에 접어들었죠? 그를 보면 그의 첫 번째 TV 쇼가 연상됩니다. 특히 얼굴에서요. <로하이드(생가죽)>.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 생가죽 같은 피부와 정반대로‘고화질 미남미녀’들도 있습니다. 40대 이상으로서는 마샤 크로스가 유일하게 이 목록에 올랐습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "스완: 고화질 TV에 비치는 마샤는 아름다워요. 피부가 칵테일 파티에서의 빌 클린턴(의 태도)만큼이나 부드럽죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 또다른 고화질 미남미녀 스타로는 애시턴 커처가 있습니다. 하지만 그의 부인 데미 무어는 고화질 추녀 반열에 올랐군요. 고화질 방송으로 인해 메이크업 담당자들은 최신 무기에 손을 대게 되었습니다. 바로 에어브러시입니다. 여드름 부위에 쏘아주세요. 카메라 기사들은 카메라에 장착하는 작은 프로그램 카드까지 동원합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 3: 이것을 작동시키면 초점이 약간 흐려지면서 주름살이 두드러지지 않게 되죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 이런 에어브러시 효과가 필요하지 않은 스타가 한 명 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 남성 4: 스폰지밥을 고화질TV로 본 적이 있으십니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "무스: 스폰지밥은 자신의 모공을 자랑스럽게 과시합니다. 뉴욕에서CNN, 지니 무스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[tn]은 모음이 탈락되면서 [t]음도 없어지고 숨을 잠깐 멈추었다가 코로 공기를 내보내는 느낌으로 [은] 하면 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. threatening[쓰레-으닝], certain[써-은].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "AA는 보통 double A라고 읽는다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 알고 있는 ‘보톡스’로 발음되지 않은 것에 주의하자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 talent도‘탤런트’가 아니라 [탤런]으로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "use와 your가 연음되어 usual로 혼동할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "imagination의 첫모음 [i]가 음가를 잃은 채 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "with의 끝자음 -th와 the의 첫자음 th-가 중복되어 한번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "piece는 peace와 동음이의어이므로 주의하도록 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "alert은 항상 a lot과 혼동되므로 문맥으로 어떤 것이 맞는지 감을 잡아야 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "세 단어가 ‘자음+모음’으로 한 단어로 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "rawhide의 raw가 [라-]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "모음 o를 미국의 서부나 남부쪽에서는 [어] 혹은 [아]에 가깝게 발음해, 앞에 나온 slob도 [슬랍]으로 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "영국 영어나 영국 발음의 영향을 받은 미국 동부쪽에서는 [로어]라고 발음한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. tall[토얼]/[터얼], mall[모얼]/[머얼].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[t]는, shooters에서처럼 강모음과 약모음 사이에서 유음화된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "[d]의 경우도 마찬가지이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. according[어코어링].",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "고등 TV (Advanced TV, or ATV)의 일부로 화질은 35mm 영화와 비슷하고, 음질은 CD와 비슷한 새로운 TV",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. high-def(inition)/ 고화질(의)",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. rawhide/ (소 따위의) 생가죽, 무두질하지 않은 가죽",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "mountain out of a mole",
+          "text": "[마웃은 아우러ㅂ 모울]."
+        },
+        {
+          "n": "AAA roadmap",
+          "text": "AAA를 triple A라고 읽고 있다."
+        },
+        {
+          "n": "Botox",
+          "text": "[보우탁ㅆ]."
+        },
+        {
+          "n": "use your imagination",
+          "text": "[유쥬어r 메지네이션]."
+        },
+        {
+          "n": "with this piece",
+          "text": "[(우)위더 피-ㅆ]."
+        },
+        {
+          "n": "on alert",
+          "text": "[온어럿]."
+        },
+        {
+          "n": "you’ll end up",
+          "text": "[유렌덥]."
+        },
+        {
+          "n": "skin like rawhide",
+          "text": "[스낀 라잌 라 하이ㄷ]."
+        },
+        {
+          "n": "shooters",
+          "text": "[수러]."
+        },
+        {
+          "n": "* HD(TV)",
+          "text": "고화질 TV(high-definition television):"
+        },
+        {
+          "n": "1) up close and personal",
+          "text": "밀착 취재"
+        },
+        {
+          "n": "2) superficial",
+          "text": "피상적인, 외면상의, 겉면의"
+        },
+        {
+          "n": "3) looks",
+          "text": "외모, 용모, 모습"
+        },
+        {
+          "n": "4) count",
+          "text": "가치가 있다, 중요하다; 영향력을 갖다"
+        },
+        {
+          "n": "5) take a look at",
+          "text": "…을 훑어보다, …을 한번 슬쩍 보다"
+        },
+        {
+          "n": "6) well-known",
+          "text": "유명한, 잘 알려진"
+        },
+        {
+          "n": "7) personality",
+          "text": "개인; 명사(名士)"
+        },
+        {
+          "n": "8) cope with",
+          "text": "…에 대처하다, 맞서다"
+        },
+        {
+          "n": "9) perspective",
+          "text": "전망, 가능성, 예상; 원근법"
+        },
+        {
+          "n": "10) wrinkle",
+          "text": "형(型), 스타일, 유행"
+        },
+        {
+          "n": "11) mole",
+          "text": "사마귀, 검은 점"
+        },
+        {
+          "n": "12) nick",
+          "text": "작은 흠, 칼자국"
+        },
+        {
+          "n": "13) laceration",
+          "text": "찢어진 자국, 찢긴 상처"
+        },
+        {
+          "n": "14) Good Morning America",
+          "text": "<굿모닝 아메리카>: ABC 방송의 아침 간판 뉴스 프로그램으로 현재 다이앤 소여, 찰스 깁슨, 로빈 로버츠가 공동 진행하고 있다."
+        },
+        {
+          "n": "15) be delighted to",
+          "text": "기꺼이…하다; …하기를 기뻐하다"
+        },
+        {
+          "n": "16) broadcast",
+          "text": "방송하다"
+        },
+        {
+          "n": "17) anxiety",
+          "text": "걱정, 근심"
+        },
+        {
+          "n": "18) It’s enough to make a housewife desperate.",
+          "text": "이“위기의 주부”를 자포자기 상태로 몰아넣기에 충분하죠: 미국에서 방영되는 인기TV드라마 Desperate Housewives (국내에는 <위기의 주부들>로 소개됨)의 제목을 패러디한 문장"
+        },
+        {
+          "n": "19) vein",
+          "text": "혈관, 정맥"
+        },
+        {
+          "n": "20) bulge",
+          "text": "불룩해지다, 돌출하다"
+        },
+        {
+          "n": "21) forehead",
+          "text": "이마"
+        },
+        {
+          "n": "22) AAA",
+          "text": "미국 자동차 협회(American Automobile Association)"
+        },
+        {
+          "n": "23) roadmap",
+          "text": "(특히 자동차 여행용) 도로 지도"
+        },
+        {
+          "n": "24) eyeball",
+          "text": "날카롭게 쳐다보다, 노려보다"
+        },
+        {
+          "n": "25) lace",
+          "text": "레이스 : 미식 축구공의 신발끈 모양으로 매여 있는 끈"
+        },
+        {
+          "n": "26) slob",
+          "text": "지저분한 사람, 멍청이"
+        },
+        {
+          "n": "27) stain",
+          "text": "얼룩, 때"
+        },
+        {
+          "n": "28) lapel",
+          "text": "(양복 상의의) 접은 깃"
+        },
+        {
+          "n": "29) counterattack",
+          "text": "반격, 역습"
+        },
+        {
+          "n": "30) Botox",
+          "text": "보톡스: 얼굴의 잔주름 제거용 근육 이완 주사약"
+        },
+        {
+          "n": "31) in anticipation of",
+          "text": "…을 예상하고"
+        },
+        {
+          "n": "32) use one’s imagination",
+          "text": "…의 상상력을 발휘하다"
+        },
+        {
+          "n": "33) piece",
+          "text": "((구어)) (신문 따위의) 기사"
+        },
+        {
+          "n": "34) regular",
+          "text": "일반의, 보통의"
+        },
+        {
+          "n": "35) appreciate",
+          "text": "(사물을) 올바르게 인식하다"
+        },
+        {
+          "n": "36) wart",
+          "text": "티, 사마귀"
+        },
+        {
+          "n": "37) bump",
+          "text": "혹, 돌기"
+        },
+        {
+          "n": "38) launch",
+          "text": "내보내다, 진출시키다"
+        },
+        {
+          "n": "39) texture",
+          "text": "(피부,목재,암석 등의) 결, 감촉; 옷감"
+        },
+        {
+          "n": "40) talent",
+          "text": "((집합적)) 탤런트, 연예인, 재능 있는 사람들"
+        },
+        {
+          "n": "41) on alert",
+          "text": "방심하지 않고, 감시[경계]하여"
+        },
+        {
+          "n": "42) Grand Canyon",
+          "text": "그랜드 캐니언: 미국 애리조나 주 북서부 콜로라도 강의 대협곡"
+        },
+        {
+          "n": "43) end up",
+          "text": "결국 …이 되다"
+        },
+        {
+          "n": "44) line",
+          "text": "주름살; (대본의) 대사"
+        },
+        {
+          "n": "45) in one’s seventies",
+          "text": "(나이가) 70대인"
+        },
+        {
+          "n": "46) Rawhide",
+          "text": "<로하이드>: 클린트 이스트우드가 처음 출연한 1960년대 중반 인기TV 서부극"
+        },
+        {
+          "n": "47) Marcia Cross",
+          "text": "마샤 크로스: 1962년생 미국 여배우로 <위기의 주부들 (Desperate Housewives)>에 출연했다."
+        },
+        {
+          "n": "48) Ashton Kutcher",
+          "text": "애시턴 커처: 영화 <나비효과>, <우리 방금 결혼했어요> 등에 출연한 미 영화배우로 배우 데미 무어와 결혼했다."
+        },
+        {
+          "n": "49) make-up artist",
+          "text": "분장사, 메이크업 아티스트"
+        },
+        {
+          "n": "50) reach for",
+          "text": "…에 손을 뻗다"
+        },
+        {
+          "n": "51) airbrush",
+          "text": "(도장(塗裝),사진 수정용) 에어브러시; …을 에어브러시로 처리하다"
+        },
+        {
+          "n": "52) take aim at",
+          "text": "…을 겨냥하다"
+        },
+        {
+          "n": "53) acne",
+          "text": "여드름"
+        },
+        {
+          "n": "54) shooter",
+          "text": "사진사"
+        },
+        {
+          "n": "55) stick",
+          "text": "찔러 넣다, 꽂다"
+        },
+        {
+          "n": "56) SpongeBob",
+          "text": "스폰지밥: 해면 동물 모양을 한 미국 만화 주인공"
+        },
+        {
+          "n": "57) pore",
+          "text": "(피부의) 모공; 작은 구멍"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/16.wmv",
+  "legacyEncoding": "binary"
+}

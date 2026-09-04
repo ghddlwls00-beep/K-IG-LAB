@@ -1,0 +1,147 @@
+{
+  "id": "aw20",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 20 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": null,
+  "order": 193,
+  "audio": [
+    {
+      "src": "/audio/adults/aw20.mp3",
+      "legacySrc": "sounds/aw20.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 20 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 20: Famous Places to Visit in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Geographical Location of Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea is a peninsula located between China and Japan and is surrounded by three seas: the East Sea, the West Sea, and the South Sea."
+    },
+    {
+      "type": "instruction",
+      "text": "Its geographical landscape is beautiful and filled with many wonderful places to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "Famous Places to Visit in Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea has a great number of attractive places to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "Some places are naturally beautiful such as Sorak Mountain while others are more historically aesthetic such as Bulguk Temple."
+    },
+    {
+      "type": "instruction",
+      "text": "There are still those that were skillfully manmade like Independence Hall."
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps several of the more popular attractions to visit in Korea are the Korean Folk Village in Suwon, the historical capital of GyeongJu, and the breathtaking Jeju Island."
+    },
+    {
+      "type": "instruction",
+      "text": "A Homemade Piece of History: The Korean Folk Village in Suwon"
+    },
+    {
+      "type": "instruction",
+      "text": "One very interesting place to visit is the Korean Folk Village located near the city of Suwon in Gyunggi Province, not far from the capital of Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "When you visit there, you can witness a traditional wedding ceremony, taste a variety of traditional foods, and you can observe how Koreans lived during ancient times."
+    },
+    {
+      "type": "instruction",
+      "text": "It is a very popular attraction for many foreign visitors."
+    },
+    {
+      "type": "instruction",
+      "text": "A Piece of Korean History: GyeongJu"
+    },
+    {
+      "type": "instruction",
+      "text": "Another attractive destination is GyeongJu located in South GyeongSang Province."
+    },
+    {
+      "type": "instruction",
+      "text": "GyeongJu is the old capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom unified the divided land of Korea from three kingdoms into one that was known as the Unified Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was its most powerful during the eighth century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people regard GyeongJu as a museum without walls."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans refer to it as this because it contains many of the old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "instruction",
+      "text": "A Natural Wonder: Jeju Island"
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "Jeju island is a favorite place amongst Korean newlyweds to go on their honeymoons."
+    },
+    {
+      "type": "instruction",
+      "text": "There are so many fun things to do on Jeju Island and many beautiful spots to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "Mt. Halla is the most visible attraction on Jeju Island."
+    },
+    {
+      "type": "instruction",
+      "text": "It is located in the center of Jeju Island and is the highest mountain in South Korea; it’s almost 2,000 meters high (about 6500 feet)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw20.htm",
+  "legacyEncoding": "utf-8"
+}

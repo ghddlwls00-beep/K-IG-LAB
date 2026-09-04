@@ -1,0 +1,67 @@
+{
+  "id": "pr108-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr108",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 108-1 ]",
+  "menuLabel": "[ pr108-1 ]",
+  "unit": 108,
+  "part": null,
+  "order": 215,
+  "audio": [
+    {
+      "src": "/audio/reading/pr108.mp3",
+      "legacySrc": "sounds/pr108.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 108-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "문화의 요소들은 두 범주로 나뉠 수 있다. 첫 째는 물질적 문화인데, 그것"
+    },
+    {
+      "type": "instruction",
+      "text": "은 사람들이 만들서 의미를 부여한 모든 가시적 물체들로 이루어져 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "책, 의류, 건물 등이 그 예들이다. 우리는 그 것들의 목적과와 의미에 대한"
+    },
+    {
+      "type": "instruction",
+      "text": "공감적 이해를 하고 있다. 대조적으로 비물질적 문화는 눈에 보이지 않는"
+    },
+    {
+      "type": "instruction",
+      "text": "인간의 창조로 이루어진다. 비물질적인 문화의 예로는 가치관과 관습이 있"
+    },
+    {
+      "type": "instruction",
+      "text": "다. 우리의 믿음과 우리가 쓰는 언어 또한 비물질적인 문화의 일부이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr108-1.htm",
+  "legacyEncoding": "utf-8"
+}

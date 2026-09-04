@@ -1,0 +1,47 @@
+{
+  "id": "pr142-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr142",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 142-1 ]",
+  "menuLabel": "[ pr142-1 ]",
+  "unit": 142,
+  "part": null,
+  "order": 283,
+  "audio": [
+    {
+      "src": "/audio/reading/pr142.mp3",
+      "legacySrc": "sounds/pr142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 142-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "즐거운 근로환경 유지를 위해, 업주들은 지각이나 남을 짜증나게하는 등의 행동위를 용납하지 않는다. 이런 행위는 집단의 근로환경을 약화시키고 생산성을 떨어뜨릴 수 있다. 그래서 업주들은 근로자의 수행 능력을 판단할 때 언제나 팀웍을 고려한다. 그들은 서로 돕고, 일에 자부심을 느끼며, 즐거운 작업환경을 고무시키는 고용자들을 찾는다. 존중, 좋은 메너, 신중한 행위등이 성공적인 팀워크의 핵심이다. 사실, 다른 사람들과 일을 잘 하는 것이 가장 중요한 작업 기술 중의 하나이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr142-1.htm",
+  "legacyEncoding": "utf-8"
+}

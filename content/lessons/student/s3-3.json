@@ -1,0 +1,448 @@
+{
+  "id": "s3-3",
+  "course": "student",
+  "series": "s",
+  "variant": "main",
+  "pairId": null,
+  "title": "s3-3",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 3,
+  "order": 17,
+  "audio": [
+    {
+      "src": "/audio/student/s3-3-1.mp3",
+      "legacySrc": "s3-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-2.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-3.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-4.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-5.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-6.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-7.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-8.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-9.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-10.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-11.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-12.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-13.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-14.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-15.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-16.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-17.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-18.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-19.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-20.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-21.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-22.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-23.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-24.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-25.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/student/s3-3-26.mp3",
+      "legacySrc": "s3-3.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In addition, he/she is good at playing the piano, soccer, computer games, and she is good at speaking English.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She a very talented artist, too.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her drawings are very bright and colorful.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She is an excellent piano player and very strong athlete.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My friend has many talents.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 훌륭한 피아노 연주가 이고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 훌륭한 피아노 연주가 이고He/She is an excellent piano player",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 강한 운동선수 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 강한 운동선수 입니다. and very strong athlete.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가In addition,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 잘합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 잘합니다 he/she is good at",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/피아노, 축구 , 컴퓨터게임하는 것을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/피아노, 축구 , 컴퓨터게임하는 것을 playing the piano, soccer, computer games,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그는 잘합니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 그는 잘합니다. and he/she is good at",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어말하기를",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/영어말하기를 speaking English.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "PASS-OFF FOR STUDENT",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 나의 친구입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 나의 친구입니다.He/She is my friend,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 그를 매우 자랑스럽게 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그리고 나는 그를 매우 자랑스럽게 생각합니다. and I am proud of him/her.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 친구는 많은 재능이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 훌륭한 피아노 연주가 이고 아주 강한 운동선수 입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "게다가 그는/그녀는 피아노, 축구, 컴퓨터 게임 하기를 잘하고 영어 말하기를 잘합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 예술에도 또한 아주 재능이 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의/그녀의 그림은 매우 밝고 다채롭습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 그/그녀로부터 배울 것이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "So I can learn a lot from him/her.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그/그녀는 나의 친구이고 나는 그를/그녀를 자랑스럽게 생각합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She is my friend, and I am proud of him/her.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는/그녀는 항상 나의 문제들을 이해해 주고 내가 도움을 필요로 할 때 그는/그녀는 항상 거기에 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She always understands my problems, and when I need help, he/she is always there.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 그림은",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그의 그림은His/Her drawings are",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 밝고 다채롭습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 매우 밝고 다채롭습니다. very bright and colorful.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 많이 배울수 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 많이 배울수 있습니다.So I can learn a lot",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그로부터",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/ 그로부터 from him/her.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 이해합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그는 항상 이해합니다.He/She always understands",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 문제들을",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/나의 문제들을my problems,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 내가 도움이 필요할 때",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그리고 내가 도움이 필요할 때and when I need help,",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 항상 그곳에 있습니다",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "/그는 항상 그곳에 있습니다he/she is always there.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "He/She always understands my problems, and when I need help, he/she isalways there.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p align=\"left\"><font face=\"굴림\" size=\"13\" color=\"#ffffff\" letterSpacing=\"0.000000\" kerning=\"1\">한<font face=\"_sans\">/</font>영</font></p>",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Friend Introduction :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My friend’s talents",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Student/s3-3.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "s3-3.swf"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr250",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 250 ]",
+  "menuLabel": "[ pr250 ]",
+  "unit": 250,
+  "part": null,
+  "order": 498,
+  "audio": [
+    {
+      "src": "/audio/reading/pr250.mp3",
+      "legacySrc": "sounds/pr250.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 250 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Suppose a company realizes that it is not achieving its goals or objectives effectively. In this case, it can be useful to get an outside consultant to analyze the company’s performance and recommend changes to make it more efficient. This consultant can more objectively analyze the company’s strengths and weaknesses as well as the opportunities and threats that face it. Then the company can re-plan its strategy on the basis of the consultant’s advice. In this way, the company will be able to get its intended results"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr250.htm",
+  "legacyEncoding": "utf-8"
+}

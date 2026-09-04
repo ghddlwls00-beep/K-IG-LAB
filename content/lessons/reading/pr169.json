@@ -1,0 +1,47 @@
+{
+  "id": "pr169",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 169 ]",
+  "menuLabel": "[ pr169 ]",
+  "unit": 169,
+  "part": null,
+  "order": 336,
+  "audio": [
+    {
+      "src": "/audio/reading/pr169.mp3",
+      "legacySrc": "sounds/pr169.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 169 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The old Sumerian cuneiform could not be used to write normal prose but was a mere telegraphic shorthand, whose vocabulary was restricted to names, numerals and units of measure. A related limitation was that few people ever learned to write this early script. Knowledge of writing was confined to professionals who worked for the king or temple. On the contrary, Greek alphabetic writing was a vehicle of poetry and humor, to be read in private homes. The first preserved example of Greek alphabetic writing, scratched onto an Athenian wine jar of about 740 B.C., is a line of poetry announcing a dancing contest: “Whoever of all dancers performs most gracefully will win this vase as a prize.”"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr169.htm",
+  "legacyEncoding": "utf-8"
+}

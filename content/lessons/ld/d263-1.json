@@ -1,0 +1,79 @@
+{
+  "id": "d263-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d263",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 263 회 ]",
+  "menuLabel": null,
+  "unit": 263,
+  "part": null,
+  "order": 552,
+  "audio": [
+    {
+      "src": "/audio/ld/d263.mp3",
+      "legacySrc": "sounds/d263.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 263 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "캐롤을 부르는 것은 고대 성탄절 관습이다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 기독교 국가에서는 노래부르는 사람들의 무리들이 그리스도의 탄생을"
+    },
+    {
+      "type": "instruction",
+      "text": "기리기 위하여 노래를 부르면서 거리를 쏘다닌다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 노래들은 대부분 기원이 종교적이지만 그중의 몇몇은 크리스마스 트리 주변에 모이는 것이나"
+    },
+    {
+      "type": "instruction",
+      "text": "빛나는 장식물들을 집 도처에 매다는 것 같은 성탄절기의 축제들에 대하여 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "캐롤 대원들이 거리를 쏘다니는 동안 그들은 성탄절의 아름다운 선율로 상쾌한 겨울 공기를 채운다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 친구들과 병자들의 집에서 그리고 사람들이 그들의 노래를 듣고 즐거워할 것이라고"
+    },
+    {
+      "type": "instruction",
+      "text": "생각되는 다른 어느 곳에서든 멈춘다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d263-1.htm",
+  "legacyEncoding": "utf-8"
+}

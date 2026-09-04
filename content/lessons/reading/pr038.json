@@ -1,0 +1,47 @@
+{
+  "id": "pr038",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 038 ]",
+  "menuLabel": "[ pr038 ]",
+  "unit": 38,
+  "part": null,
+  "order": 74,
+  "audio": [
+    {
+      "src": "/audio/reading/pr038.mp3",
+      "legacySrc": "sounds/pr038.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 038 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "It is people who turn a city from a collection of streets and buildings into a community. No matter how well a city is designed, it will not ultimately come to life, unlessit inspires the love and loyalty of the people who live and work in it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr038.htm",
+  "legacyEncoding": "utf-8"
+}

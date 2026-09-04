@@ -1,0 +1,71 @@
+{
+  "id": "d081-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d081",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 081회 ]",
+  "menuLabel": "[ D 081-1 ]",
+  "unit": 81,
+  "part": null,
+  "order": 161,
+  "audio": [
+    {
+      "src": "/audio/ld/d081.mp3",
+      "legacySrc": "sounds/d081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 081회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "매분 1440개나 되는 사진들이 그 빛 앞에서 움직인다. 셔터는 매 그림에 대하여 열리고 닫힌다."
+    },
+    {
+      "type": "instruction",
+      "text": "이것은 화면 위의 그 그림이 움직이는 것처럼 보이게 만든다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 셔터가 닫힐 때마다 그 화면은 한 순간 동안 어둡다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 화면이 어둡지만 당신의 눈은 여전히 그 화면 위의 그 그림을 본다."
+    },
+    {
+      "type": "instruction",
+      "text": "만일 그 셔터가 닫히지 않는다면 우리는 그 그림을 분명히 볼 수 없을 것이다."
+    },
+    {
+      "type": "instruction",
+      "text": "만약 그 셔터가 열리지 않는다면 화면은 어두울 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d081-1.htm",
+  "legacyEncoding": "utf-8"
+}

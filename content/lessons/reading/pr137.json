@@ -1,0 +1,67 @@
+{
+  "id": "pr137",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 137 ]",
+  "menuLabel": "[ pr137 ]",
+  "unit": 137,
+  "part": null,
+  "order": 272,
+  "audio": [
+    {
+      "src": "/audio/reading/pr137.mp3",
+      "legacySrc": "sounds/pr137.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 137 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Many groups of young people volunteer to teach, without pay, the"
+    },
+    {
+      "type": "hints",
+      "text": "people of the poor communities how to read and write, how to take"
+    },
+    {
+      "type": "instruction",
+      "text": "care of their water supply and how to better care for their farms and"
+    },
+    {
+      "type": "instruction",
+      "text": "animals. Thus the formerly hopeless members of the communities see"
+    },
+    {
+      "type": "instruction",
+      "text": "that all is not lost. They become less discouraged when they realize"
+    },
+    {
+      "type": "instruction",
+      "text": "that they themselves can help make a better future."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr137.htm",
+  "legacyEncoding": "utf-8"
+}

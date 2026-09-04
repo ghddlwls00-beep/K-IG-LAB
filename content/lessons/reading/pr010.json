@@ -1,0 +1,47 @@
+{
+  "id": "pr010",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 010 ]",
+  "menuLabel": "[ pr010 ]",
+  "unit": 10,
+  "part": null,
+  "order": 18,
+  "audio": [
+    {
+      "src": "/audio/reading/pr010.mp3",
+      "legacySrc": "sounds/pr010.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 010 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The use of the Internet is on the rise every year, and this creates many challenges. One of the biggest challenges in the Internet world is security or safety. Businesses, for example, need to make sure that their sites on the Internet are safe for their users. They need to know who e-mail senders are and whether information coming and going is correct. Most important, they should take measures to be certain that company secrets remain protected. Below are presented some methods that one business is using to meet this challenge."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr010.htm",
+  "legacyEncoding": "utf-8"
+}

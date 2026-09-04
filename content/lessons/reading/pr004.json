@@ -1,0 +1,47 @@
+{
+  "id": "pr004",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 004 ]",
+  "menuLabel": "[ pr004 ]",
+  "unit": 4,
+  "part": null,
+  "order": 6,
+  "audio": [
+    {
+      "src": "/audio/reading/pr004.mp3",
+      "legacySrc": "sounds/pr004.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 004 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Two Colombian rhythms have a foreign origin. The `cumbia' was created by African slaves who were brought to the hot regions of the country to work in the gold mines. It was a sad song of these people who missed their families. In contrast_, the 'bambuco' has a white, Spanish origin. It was created in colder zones and used when the Spanish wanted to express love to their girlfriends."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr004.htm",
+  "legacyEncoding": "utf-8"
+}

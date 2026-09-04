@@ -1,0 +1,47 @@
+{
+  "id": "pr221",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 221 ]",
+  "menuLabel": "[ pr221 ]",
+  "unit": 221,
+  "part": null,
+  "order": 440,
+  "audio": [
+    {
+      "src": "/audio/reading/pr221.mp3",
+      "legacySrc": "sounds/pr221.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 221 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Many people think the Canary Islands were named for the canary birds that live there. This is not true. The word canary comes from the Latin word canis, meaning dog. Early explorers of the island found many wild dogs there. They named the islands \"Canario,\" meaning \"Isle of Dogs.\" So the Canary Islands were not named for the canary birds, but the birds were named for the islands !"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr221.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "m16-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m16-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 1,
+  "order": 68,
+  "audio": [
+    {
+      "src": "/audio/man/m16-1-1.mp3",
+      "legacySrc": "m16-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-1-2.mp3",
+      "legacySrc": "m16-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m16-1-3.mp3",
+      "legacySrc": "m16-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "한국은 5천년 이상의 길고 값지고 화려한 역사를 가지고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korea has a long, rich, and colorful history that is over five thousand years old.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 우리의 역사와 문화를 자랑스러워한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are proud of our history and culture.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "16 Korean Culture :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Korea’s History",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m16-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m16-1.swf"
+  ]
+}

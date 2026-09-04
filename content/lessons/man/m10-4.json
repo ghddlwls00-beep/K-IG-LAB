@@ -1,0 +1,123 @@
+{
+  "id": "m10-4",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m10-4",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 4,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/man/m10-4-1.mp3",
+      "legacySrc": "m10-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-4-2.mp3",
+      "legacySrc": "m10-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-4-3.mp3",
+      "legacySrc": "m10-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-4-4.mp3",
+      "legacySrc": "m10-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-4-5.mp3",
+      "legacySrc": "m10-4.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 대학에서 1학년과 2학년 때, 나는 많은 친구들을 사귀고 많은 클럽에 가입했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "During my freshman and sophomore years in college, I made lots of friends and joined many clubs.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "다시 한 번, 나는 열심히 공부하는 것에 흥미가 없어졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once again, I was not interested in studying very hard.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "고등학교를 다닐 때, 나의 꿈은 영어 선생님이 되는 것이었지만 나는 영어를 잘 하지 않는다는 것을 알았고 나는 그 꿈을 이루기 위해 열심히 공부하고 싶지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was in high school, my dream was to be an English teacher,but I learned I was not very good at English, and I did not want to study hard enough to fulfill this dream.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 전공을 기술로 바꾸었고 그것이 정말로 좋았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I changed my major to Engineering and really liked it.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was in high school, my dream was to be an English teacher, but I learned I was not very good at English, and I did not want to study hard enough to fulfill this dream.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Life as a University Student",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m10-4.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m10-4.swf"
+  ]
+}

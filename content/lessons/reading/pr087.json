@@ -1,0 +1,47 @@
+{
+  "id": "pr087",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 087 ]",
+  "menuLabel": "[ pr087 ]",
+  "unit": 87,
+  "part": null,
+  "order": 172,
+  "audio": [
+    {
+      "src": "/audio/reading/pr087.mp3",
+      "legacySrc": "sounds/pr087.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 087 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Teens surround themselves with imaginary audiences. They imagine others are as interested in them as they are in themselves. Believing that everyone is watching them, teenagers are extremely self-conscious. A young boy, for example, may believe that he is unattractive because of his nose. Nothing can convince him that other people are paying no attention to his nose at all. Also, when chatting with friends, some teenage girls are too expressive, talking and laughing loudly, playing to their unreal audiences. They gradually realize, however, that others are not really interested in them. Teenagers’ behavior changes when they realize others are too busy with their own lives to be watching them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr087.htm",
+  "legacyEncoding": "utf-8"
+}

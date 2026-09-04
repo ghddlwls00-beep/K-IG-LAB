@@ -1,0 +1,122 @@
+{
+  "id": "cnn113",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Dipping a Toe in the Water",
+  "label": "Dipping a Toe in the Water",
+  "menuLabel": "[ CNN 113 ]",
+  "unit": 113,
+  "part": null,
+  "order": 112,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn113.mp4",
+      "legacySrc": "CNN/CNN61-120/113.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Dipping a Toe in the Water"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Japanese company is dipping its toe ??in a new way??into the ＄＄3 billion dollar hot springs industry. Not quite what you’d expect. Bathers at “Doctor Fish” get the latest foot exfoliation courtesy of the Kangal fish. These tiny little fish are going to nibble away at the bather’s feet and remove all the dead skin. Clients say the fish pedicure is painless, the Kangal fish apparently has no teeth. Japanese, of course, wellknown for eating fish. The company says it hopes that fish enjoy getting a bit of their own back.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "한 일본 회사의 이색 온천 사업",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "한 일본 기업이 전혀 새로운 방식으로 30억 달러 규모의 온천 사업에 발을 들여 놓고 있습니다. 여러분의 상상을 초월합니다. ‘닥터 피시’탕에 들어간 손님들은 캉갈 피시로부터 최신식 발 각질 제거 서비스를 제공받습니다. 이 작디작은 물고기들은 탕 속에 들어간 손님들의 발을 조금씩 물어 뜯어 죽은 피부 세포를 모두 제거합니다. 고객들은 캉갈 피시를 이용한 발 관리가 전혀 아프지 않다고 말합니다. 실제로 캉갈 피시는 이빨이 없습니다. 일본인들은 물론 생선을 즐겨 먹는 것으로 유명합니다. 이 업체는 물고기들이 (사람들에게 빼앗긴) 자기 살을 일부 되찾는 기쁨을 누리기를 바란다고 밝혔습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "latest 최신식의",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. manicure/ 손 관리, 매니큐어",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "springs",
+          "text": "[스ㅃ링ㅈ]. sp-는 무성음의 중복으로 발음의 편리상 [p]를 [ㅃ]로 경음화해 발음한다. skin도 [스낀]으로 발음된다."
+        },
+        {
+          "n": "Bathers",
+          "text": "[베이더ㅈ]. -th-가 [d]처럼 들리지만, [\"]로 유성음이다. 윗니와 아랫니 사이에 혀끝을 넣었다가 빼면서 목청을 울려 내는 소리로 연습을 해두지 않으면, this를 dis, leader를 leather로 혼동할 수 있다."
+        },
+        {
+          "n": "* dip a[one’s] toe in",
+          "text": "((구어)) (새로운 것을) 해보다, 시도하다: 여기서는 ‘물속에 발을 담그다’와 함께 중의적으로 사용됐다."
+        },
+        {
+          "n": "hot spring",
+          "text": "온천"
+        },
+        {
+          "n": "bather",
+          "text": "목욕[수영]하는 사람"
+        },
+        {
+          "n": "exfoliation",
+          "text": "박리작용, 각질 제거 작용"
+        },
+        {
+          "n": "courtesy",
+          "text": "특별대우, 관대, 호의"
+        },
+        {
+          "n": "Kangal fish",
+          "text": "캉갈 피시: 잉어류의 일종으로 터키의 캉갈 온천에 살고 있으며 피부병을 치료하는 물고기라 해서 닥터 피시라 부른다."
+        },
+        {
+          "n": "nibble away at",
+          "text": "…을 조금씩 물어 뜯어내다, 조금씩 줄이다"
+        },
+        {
+          "n": "remove",
+          "text": "제거하다"
+        },
+        {
+          "n": "dead skin",
+          "text": "죽은 피부 세포[각질]"
+        },
+        {
+          "n": "pedicure",
+          "text": "발 관리, 페디큐어"
+        },
+        {
+          "n": "painless",
+          "text": "고통이 없는"
+        },
+        {
+          "n": "apparently",
+          "text": "분명히"
+        },
+        {
+          "n": "well-known for",
+          "text": "…으로 유명한"
+        },
+        {
+          "n": "get A back",
+          "text": "A를 되찾다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/113.wmv",
+  "legacyEncoding": "binary"
+}

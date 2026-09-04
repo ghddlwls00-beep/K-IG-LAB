@@ -1,0 +1,134 @@
+{
+  "id": "cnn005",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Euro-Med Talks Kick Off in Spain",
+  "label": "Euro-Med Talks Kick Off in Spain",
+  "menuLabel": "[ CNN 5 ]",
+  "unit": 5,
+  "part": null,
+  "order": 4,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn005.mp4",
+      "legacySrc": "CNN/CNN1-60/5.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Euro-Med Talks Kick Off in Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "The two day Euro-Mediterranean Summit is under way in Barcelona in Spain. The new German Chancellor Angela Merkel and British Prime Minister Tony Blair are among the EU leaders in attendance, but top Mediterranean leaders, including those from Israel and Egypt are noticeably absent. The conflict in the Middle East is one of the topics on the agenda. Mr. Blair was just asked about the level of American involvement in bringing peace to that region.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "유로-지중해 정상회의, 스페인에서 개막",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "유로-지중해 정상회의가 이틀 일정으로 스페인 바르셀로나에서 열리고 있습니다. 앙겔라 메르켈 신임 독일총리와 토니 블레어 영국총리를 비롯한 여러 유럽연합 정상들이 회의에 참석했습니다. 하지만 이스라엘과 이집트를 비롯한 지중해 지역 주요 지도자들의 불참이 눈에 띄었습니다. 이번 정상회의의 주요 의제에는 중동 분쟁도 포함되어 있으며, 블레어 총리는 중동지역 평화 정착을 위한 미국의 개입 정도에 대해 질문을 받았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "발음기호상의 [ju]는 [이유]를 빠르게 발음해야 원음에 가깝다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. (1) Euro-Europe(an)/, EU를 뜻함 (2) Med/ 지중해(Mediterranean Sea) (3) talks / (정식)회담(summit)",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "Euro-Mediterranean Summit",
+          "text": "summit이 1음절에 강세가 오면서 뒤의 음절이 약화되어 [싸머]로 들린다. Euro-처럼"
+        },
+        {
+          "n": "Barcelona in Spain",
+          "text": "[바슬로나 인 스뻬인]. Barcelona가 [바슬로나]로, Spain이 [스뻬인]으로 발음되고 있다."
+        },
+        {
+          "n": "Chancellor Angela Merkel",
+          "text": "[촨슬러 엔겔러 머-클]. chancellor의 chan-은 [첸] 혹은 [찬]으로 발음된다. 독일 총리인‘앙겔라 메르켈’의 이름을 [엔겔러 머-클]로 발음하고 있다."
+        },
+        {
+          "n": "in attendance",
+          "text": "[인 어테넌ㅆ]. attendance의 [d]가 생략되어 발음된 것에 주의하자. 이처럼 -nd로 끝나는 단어의 [d]음은 탈락되어 발음된다."
+        },
+        {
+          "n": "those from Israel and",
+          "text": "[도우스룸 이스리어른]. those from을 한 단어처럼 발음해 from의 [f]가 들리지 않고 있다. Israel and에서 and가 [은]으로 약화되고 있다.Euro-Med Talks/ 유로-지중해 회담: 유럽연합과 북아프리카, 중동 국가 등이 참여하는 연례 회담"
+        },
+        {
+          "n": "kick off",
+          "text": "시작하다, 막을 열다"
+        },
+        {
+          "n": "be under way",
+          "text": "(계획 따위가) 진행 중이다"
+        },
+        {
+          "n": "Chancellor",
+          "text": "(독일의) 총리"
+        },
+        {
+          "n": "Angela Merkel",
+          "text": "앙겔라 메르켈: 독일 기민당 당수로 2005년 11월 독일 총리로 취임"
+        },
+        {
+          "n": "in attendance",
+          "text": "출석한, 참석한"
+        },
+        {
+          "n": "Mediterranean",
+          "text": "지중해 연안에 있는 [사는]"
+        },
+        {
+          "n": "noticeably",
+          "text": "눈에 띄게, 두드러지게"
+        },
+        {
+          "n": "absent",
+          "text": "불참한, 결석[결근]한"
+        },
+        {
+          "n": "conflict",
+          "text": "갈등, 충돌, 대립"
+        },
+        {
+          "n": "Middle East",
+          "text": "중동"
+        },
+        {
+          "n": "agenda",
+          "text": "의제, 협의사항"
+        },
+        {
+          "n": "level",
+          "text": "수준, 정도, 단계"
+        },
+        {
+          "n": "involvement",
+          "text": "참여, 관여, 연루"
+        },
+        {
+          "n": "region",
+          "text": "지역, 지방"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/5.wmv",
+  "legacyEncoding": "binary"
+}

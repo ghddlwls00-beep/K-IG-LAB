@@ -1,0 +1,449 @@
+{
+  "id": "cnn011",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Seeking Stolen Art*",
+  "label": "Seeking Stolen Art*",
+  "menuLabel": "[ CNN 11 ]",
+  "unit": 11,
+  "part": null,
+  "order": 10,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn011.mp4",
+      "legacySrc": "CNN/CNN1-60/11.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Seeking Stolen Art*"
+    },
+    {
+      "type": "paragraph",
+      "text": "KRISTIE LU STOUT, CNN Anchor: Art is big business and stolen art is a big headache for law enforcement agencies as well as museums. In the United States, the FBI has unveiled a list of leading art crimes hoping to get the public to help solve some celebrated cases. Kelli Arena has more.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KELLI ARENA, CNN Correspondent: Art thieves are often portrayed in movies as suave, debonair criminals. This undercover FBI agent has chased them for past 17 years and says Hollywood’s got it wrong.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIDENTIFIED FBI UNDERCOVER AGENT: I see people coming into the business who are common criminals. In other words, not specialized art dealers. A lot of people are getting involved because of seeing the value of the materials.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARENA: He’s part of the FBI’s new Art Crime Team formed one year ago, following the looting of museums in Iraq. The team just scored a major success recovering Rembrandt’s Self-Portrait.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "FBI UNDERCOVER AGENT: I would say that the real art in stealing art is the sale of it, not the theft of it. And that’s because selling it is the hardest part.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARENA: The recovery rate of stolen art is very low. The FBI puts it at about 5%. Most pieces go underground for years before resurfacing on the market. On its Top 10 List the FBI notes, Munch’s the Scream is still missing as is Rembrandt’s Stormy Sea, and this Da Vinci’s Madonna.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jo Backer Laird works at Christie’s auction house and is responsible for making sure that no stolen property is sold.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "JO BACKER LAIRD, Christie’s: When you steal a piece of art, you are stealing some... you are stealing not only from the owner of that piece of art, be it a museum or private collector, but you’re really stealing from everybody.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARENA: Investigators estimate there’s six billion dollars worth of stolen art still out on the streets and most jobs are pulled off by insiders with access to storage areas. One of the biggest consumers of stolen art is the United States.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "BONNIE GARDNER, FBI Art Theft Program: We do know that while some stolen art is sold on the black market, a good deal of the stolen art work moves into the legitimate art market. And why is this? It’s because the art market is unregulated.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ARENA: The FBI wants to both enlist the public’s help and issue a warning. Agents say you could be out a lot of money and you could be prosecuted if you buy stolen art or artifacts. And they say ignorance is no excuse. Kelli Arena, CNN, Washington.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "도난당한 미술품을 찾아서",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "크리스티 루 스타우트, CNN 앵커: 미술품은 큰 돈을 벌 수 있는 사업거리지만 도난 미술품은 박물관뿐만 아니라 법 집행기관들에게도 큰 골칫거리입니다. 미연방수사국(FBI)은 주요 미술품 도난 목록을 공개하며 널리 알려진 몇 건의 (미술품) 도난 사건을 해결하는데 시민들의 협조를 기대하고 있습니다. 켈리 아레나 기자가 자세히 보도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "켈리 아레나, CNN 기자: 미술품 도둑들이 영화에서 주로 점잖고 품위있는 범죄자로 그려지는 경우가 많습니다. 지난 17년 간 이 도둑들을 추적해온 이 FBI 비밀 요원은 할리우드가 실상을 잘못 파악하고 있다고 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "익명의 FBI 비밀 요원: 이 사업에 뛰어드는 이들은 일반 범죄자들이라고 봅니다. 다시 말해 전문적인 화상들이 아니라는 얘기죠. 대다수가 미술품의 금전적 가치를 보고 이 사업에 가담합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아레나: 그는 1년 전에 신설된 FBI 미술품 범죄팀 소속으로 이라크 박물관에서 약탈당한 작품들을 추적하고 있습니다. 이 팀은 얼마 전 렘브란트의 <자화상>을 되찾는 쾌거를 올렸습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "FBI 비밀 요원: 미술품 도난의 정수는 그것을 판매하는데 있지 훔치는데 있지 않습니다. 왜냐하면 도난 미술품은 파는 일이 가장 어렵기 때문이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아레나: 도난 미술품을 되찾을 확률은 매우 낮습니다. FBI는 그 확률을 약 5% 정도로 추정하고 있습니다. 대부분의 작품들이 수년동안 모습을 감추었다가 미술품 시장에 다시 나타납니다. FBI가 선정한 10대 도난 미술품 목록에 오른 작품들 중에서 뭉크의 <절규>, 렘브란트의 <갈릴리 바다의 폭풍우>, 그리고 다빈치의 이 <성모와 실패>는 아직도 되찾지 못하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조 배커 래어드 씨는 크리스티 경매소에서 일하고 있으며 도난 작품들이 단 한 점도 팔리지 못하도록 하는 일을 담당하고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "조 배커 래어드, 크리스티 경매소: 미술품 한 점을 훔친다는 것은 (한 점이 아니라) 여러 작품을 훔치는 것입니다. 박물관이 됐든 개인수집가가 됐든 간에 그 미술품 소유주에게서만 훔치는 게 아니라 사실 모든 사람에게서 훔치는 것이죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아레나: 수사관들은 60억 달러 상당의 도난 미술품들이 여전히 밀매 되고 있으며 대부분의 도난 범죄가 미술품 보관 창고 출입이 가능한 내부자 소행일 것으로 보고 있습니다. 미국이 바로 도난 미술품의 최대 고객 중 하나입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "보니 가드너, FBI 미술품 절도 프로그램: 일부 도난 미술품들이 암시장에서 거래되고 있는 한편 상당수의 도난 미술품들은 합법적인 미술품 시장으로 유입되고 있다는 사실을 우리는 너무도 잘 알고 있습니다. 그렇다면 왜 이런 일이 벌어지는 걸까요? 바로 미술품 시장이 규제되고 있지 않기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "아레나: FBI는 일반 시민들의 협력을 이끌어내는 한편 (그들에게) 경고의 목소리도 내려하고 있습니다. 여러분이 만일 도난당한 미술품이나 공예 예술품을 구입할 경우, 많은 돈을 잃고 또 기소 당할 수도 있다고 이 기관은 밝히고 있습니다. 몰랐다는 변명은 전혀 통하지 않을 것이라고 그들은 말합니다. 워싱턴에서CNN, 켈리 아레나였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "enforcement의 첫모음 [i]가 약화되면서 law의 끝음과 연결되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "빠르게 진행되는 뉴스에서 -ing의 끝자음 [g]가 발음의 편리상 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "전치사 to는 강세를 받지못해 [두]로 발음되는데, 문장에 따라서 [드], [르]로 더 약화되기도 한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "get의 -t와 the의 th-가 조음위치가 비슷해 한 번만 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "suave의 [wa]는 [우와]를 붙여 빠르게 발음하면 되는데, swave와 혼동할 수 있으므로 주의한다. debonair의 강세는 3음절에 있는데 여기서는 1음절이 더 강하게 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "강모음과 약모음 사이에서 [t]가 [ㄹ]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "number 10일 경우도 ten이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "ex. World War II World War two[the second World War], p. 5-6page (from) five to six, Book II Book two, Elizabeth II Elizabeth the second.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘뭉크’를 [멍]으로 읽고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Da Vinci’s Madonna는 Da가 거의 안 들리게 [(드)빈치 머다나], Rembrandt’s Stormy Sea는 -dt’s가 탈락된 채 [렘브란 스또미 씨]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "warning은 warming과 발음이 혼동되는 단어지만, issue와 어울릴 수 있는 단어는 당연히 warning이다. 하나의 이디엄으로 알아두자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. art dealer/ 화상",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. undercover/ 비밀의, 첩보를 수집하는",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. criminal/ 범인, 범죄자",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. material/ 물질, 소재: 여기서는 작품들",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. recovery rate/ 회수율",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "30) private collector 개인 수집가",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "law enforcement",
+          "text": "[러언포쓰먼]."
+        },
+        {
+          "n": "hoping to get the",
+          "text": "[호핀두 겟더]."
+        },
+        {
+          "n": "suave, debonair criminals",
+          "text": "[스(우)와ㅂ 데버네어 크리미늘]."
+        },
+        {
+          "n": "looting of",
+          "text": "[루딩어ㅂ]."
+        },
+        {
+          "n": "Top 10",
+          "text": "[탑 텐] 10을 ten이라고 읽고 있다."
+        },
+        {
+          "n": "Munch’s the Scream",
+          "text": "[멍ㅅ드스끄림]."
+        },
+        {
+          "n": "issue a warning",
+          "text": "[이슈어워닝]."
+        },
+        {
+          "n": "* art",
+          "text": "((집합적)) 예술 작품, 미술품: 여기서는 주로 fine art(미술 작품)의 의미로 쓰였다"
+        },
+        {
+          "n": "1) big business",
+          "text": "큰 돈벌이가 되는 사업; 대기업, 큰 조직; 독점 자본"
+        },
+        {
+          "n": "2) a headache",
+          "text": "골칫거리"
+        },
+        {
+          "n": "3) law enforcement agency",
+          "text": "법 집행기관: 경찰이나 검찰 수사관처럼 사법질서 유지를 위해 필요한 국가 권력기구를 일컫는 말"
+        },
+        {
+          "n": "4) unveil",
+          "text": "공개하다, 밝히다"
+        },
+        {
+          "n": "5) list",
+          "text": "명단, 목록"
+        },
+        {
+          "n": "6) leading",
+          "text": "주요한, 뛰어난"
+        },
+        {
+          "n": "7) celebrated",
+          "text": "유명한"
+        },
+        {
+          "n": "8) case",
+          "text": "사건, 문제"
+        },
+        {
+          "n": "9) portray",
+          "text": "…을 묘사하다, …의 초상을 그리다"
+        },
+        {
+          "n": "10) suave",
+          "text": "점잖은, 우아한"
+        },
+        {
+          "n": "11) debonair",
+          "text": "공손한, 상냥한"
+        },
+        {
+          "n": "12) undercover agent",
+          "text": "비밀 수사관, 첩보원"
+        },
+        {
+          "n": "13) common criminal",
+          "text": "일반적인 범죄자; 상습범"
+        },
+        {
+          "n": "14) specialized",
+          "text": "전문화된, 특화된"
+        },
+        {
+          "n": "15) get involved (in)",
+          "text": "(…에) 가담하다, (…에) 관계하다"
+        },
+        {
+          "n": "16) value of the materials",
+          "text": "작품의 금전적 가치"
+        },
+        {
+          "n": "17) Art Crime Team",
+          "text": "미술품 범죄팀(ACT): 미 FBI 소속 특별 수사팀으로 미술품?문화재의 도난, 밀수, 위조 등과 관련된 범죄를 전담하는 조직"
+        },
+        {
+          "n": "18) looting",
+          "text": "약탈, 강탈"
+        },
+        {
+          "n": "19) score a success",
+          "text": "성공을 거두다, 쾌거를 거두다"
+        },
+        {
+          "n": "20) recover",
+          "text": "되찾다, 회복하다"
+        },
+        {
+          "n": "21) Rembrandt’s Self-Portrait",
+          "text": "렘브란트의 <자화상>: 네덜란드 화가 렘브란트가 1630년에 그린 자화상으로 스톡홀름 국립박물관에 전시됐다가 2000년 12월 도난당했다."
+        },
+        {
+          "n": "22) piece",
+          "text": "(문화,예술 상의) 작품, 소품, 소곡"
+        },
+        {
+          "n": "23) go underground",
+          "text": "지하로 숨다, 모습을 감추다"
+        },
+        {
+          "n": "24) resurface",
+          "text": "다시 떠오르다"
+        },
+        {
+          "n": "25) Munch’s the Scream",
+          "text": "뭉크의 <절규>: 대표적인 표현주의 화가 뭉크의 작품으로 노르웨이 수도 오슬로의 뭉크 박물관에서 2004년에 도난 당했다."
+        },
+        {
+          "n": "26) Rembrandt’s Stormy Sea",
+          "text": "렘브란트의 <갈릴리 바다의 폭풍우(The Storm on the Sea of Galilee>: 렘브란트가 1633년에 그린 풍경화로 1990년 보스턴 가드너 미술관에서 도난당했다."
+        },
+        {
+          "n": "27) Da Vinci’s Madonna",
+          "text": "레오나르도 다빈치의 <성모와 실패(Madonna With the Yarnwinder)>: 2003년 스코틀랜드의 드럼란리치성(城)에서 도난당했다."
+        },
+        {
+          "n": "28) Christie’s",
+          "text": "크리스티: 런던에 본점을 둔 세계적인 미술품 경매소"
+        },
+        {
+          "n": "29) auction house",
+          "text": "경매소"
+        },
+        {
+          "n": "31) investigator",
+          "text": "수사관, 조사관"
+        },
+        {
+          "n": "32) estimate",
+          "text": "판단하다, 평가하다"
+        },
+        {
+          "n": "33) on the streets",
+          "text": "((속어)) (마약 따위가) 밀매되어"
+        },
+        {
+          "n": "34) pull off",
+          "text": "…을 획득하다, 달성하다"
+        },
+        {
+          "n": "35) insider",
+          "text": "내부자"
+        },
+        {
+          "n": "36) with access to",
+          "text": "…에 접근할 수 있는"
+        },
+        {
+          "n": "37) FBI Art Theft Program",
+          "text": "FBI 미술품 절도 프로그램"
+        },
+        {
+          "n": "38) black market",
+          "text": "암시장"
+        },
+        {
+          "n": "39) a good deal of",
+          "text": "상당수의, 많은 수의"
+        },
+        {
+          "n": "40) legitimate",
+          "text": "합법적인"
+        },
+        {
+          "n": "41) unregulated",
+          "text": "규제되지 않는"
+        },
+        {
+          "n": "42) enlist",
+          "text": "(사업,운동 등에) (남의) 협력,지지를 얻다"
+        },
+        {
+          "n": "43) issue",
+          "text": "(선언,명령 따위를) 내다, 발하다; …을 공포하다"
+        },
+        {
+          "n": "44) be out",
+          "text": "…을 빼앗기다, …을 잃어버리다"
+        },
+        {
+          "n": "45) be prosecuted",
+          "text": "기소 당하다, 고소당하다"
+        },
+        {
+          "n": "46) artifact",
+          "text": "공예 예술품; 인공물, 가공품"
+        },
+        {
+          "n": "47) ignorance",
+          "text": "무지"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/11.wmv",
+  "legacyEncoding": "binary"
+}

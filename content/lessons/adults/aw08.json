@@ -1,0 +1,131 @@
+{
+  "id": "aw08",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 08 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": null,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/adults/aw08.mp3",
+      "legacySrc": "sounds/aw08.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 08 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 8 : Sunday"
+    },
+    {
+      "type": "hints",
+      "text": "(Christian)"
+    },
+    {
+      "type": "instruction",
+      "text": "There are many religions in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is Christian so every Sunday we go to church."
+    },
+    {
+      "type": "instruction",
+      "text": "We see lots of friends when we go."
+    },
+    {
+      "type": "instruction",
+      "text": "I am very happy to go to church we sing hymns, listen to the sermon and study the bible."
+    },
+    {
+      "type": "instruction",
+      "text": "Sunday is always a great day at the church."
+    },
+    {
+      "type": "instruction",
+      "text": "Because we have religion in our lives we are very happy."
+    },
+    {
+      "type": "instruction",
+      "text": "(Buddhist)"
+    },
+    {
+      "type": "instruction",
+      "text": "Many Korean people believe in Buddha but they don’t always go to temple every week."
+    },
+    {
+      "type": "instruction",
+      "text": "Usually people only go to temple two or three times a year for special events."
+    },
+    {
+      "type": "instruction",
+      "text": "When people go to temple their heart is very peaceful and are free from worry about stress in their lives."
+    },
+    {
+      "type": "instruction",
+      "text": "Whenever my family goes hiking we visit the temple."
+    },
+    {
+      "type": "instruction",
+      "text": "Because we have religion in our lives we are very happy."
+    },
+    {
+      "type": "instruction",
+      "text": "(Atheist)"
+    },
+    {
+      "type": "instruction",
+      "text": "There are atheists in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "My family spends their time differently on Sunday."
+    },
+    {
+      "type": "instruction",
+      "text": "My husband sometimes goes fishing or hiking or meets his friends, sometimes he watches TV."
+    },
+    {
+      "type": "instruction",
+      "text": "My children usually meet their friends or stay home and play computer games."
+    },
+    {
+      "type": "instruction",
+      "text": "I usually go shopping or meet my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "Although we spend our day differently we are together for dinner and usually visit relatives or attend wedding ceremonies."
+    },
+    {
+      "type": "instruction",
+      "text": "Sundays are a good time to receive strength in order to start a new week."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw08.htm",
+  "legacyEncoding": "utf-8"
+}

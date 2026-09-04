@@ -1,0 +1,47 @@
+{
+  "id": "pr074",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 074 ]",
+  "menuLabel": "[ pr074 ]",
+  "unit": 74,
+  "part": null,
+  "order": 146,
+  "audio": [
+    {
+      "src": "/audio/reading/pr074.mp3",
+      "legacySrc": "sounds/pr074.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 074 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "\"They say best men are molded out of faults,\" wrote Shakespeare in Measure for Measure, \"and, for the most part, become much more the better for being a little bad.\" Thus, each mistake can be seen as a prime opportunity for self-improvement. Indeed, the bigger the bunder, the better its chance of helping you become a better person ― if you know how to make amends."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr074.htm",
+  "legacyEncoding": "utf-8"
+}

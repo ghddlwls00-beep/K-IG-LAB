@@ -1,0 +1,71 @@
+{
+  "id": "aw123",
+  "course": "adults",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ PassOff 123 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 3,
+  "order": 122,
+  "audio": [
+    {
+      "src": "/audio/adults/aw123.mp3",
+      "legacySrc": "sounds/aw123.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PassOff 123 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My family life)"
+    },
+    {
+      "type": "hints",
+      "text": "I think our family is very happy."
+    },
+    {
+      "type": "instruction",
+      "text": "We all take responsibility for our role in the family."
+    },
+    {
+      "type": "instruction",
+      "text": "We always help each other. Every year once or twice we travel together."
+    },
+    {
+      "type": "instruction",
+      "text": "My husband works very hard to provide for us."
+    },
+    {
+      "type": "instruction",
+      "text": "My children study hard and I always take care of them."
+    },
+    {
+      "type": "instruction",
+      "text": "I study everyday to prepare for my future."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw123.htm",
+  "legacyEncoding": "utf-8"
+}

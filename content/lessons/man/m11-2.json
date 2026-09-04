@@ -1,0 +1,148 @@
+{
+  "id": "m11-2",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m11-2",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 51,
+  "audio": [
+    {
+      "src": "/audio/man/m11-2-1.mp3",
+      "legacySrc": "m11-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-2.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-3.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-4.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-5.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-6.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m11-2-7.mp3",
+      "legacySrc": "m11-2.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "나의 동료 직원이 나의 여자 친구를 나에게 소개 해주었고 그 사람이 지금 나의 아내입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "My co-workers introduced me to my girlfriend, who is now my wife.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 그냥 만났지만 나는 오래 동안 그녀를 알았던 느낌이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I felt like I had known her for a long time even though we just met.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리는 같은 흥미와 취향이 많았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "We had many of the same interests and tastes.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리의 사랑은 시간이 갈수록 점점 강해졌습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our love became progressively stronger as time passed.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "주말에, 우리는 여행을 많이 갔고 우리는 항상 좋은 시간을 보냈습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "On weekends, we traveled a lot, and we always had a great time.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 내 삶에서 늦게 결혼하고 싶었지만 내가 처음 나의 아내를 보았을 때, 나는 첫 눈에 반했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I wanted to get married later in life, but when I first met my wife, it was love at first sight.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "11 Single Life vs. Married Life :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dating the Right One",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m11-2.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m11-2.swf"
+  ]
+}

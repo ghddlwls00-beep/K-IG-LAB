@@ -1,0 +1,87 @@
+{
+  "id": "pr076-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr076",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 076-1 ]",
+  "menuLabel": "[ pr076-1 ]",
+  "unit": 76,
+  "part": null,
+  "order": 151,
+  "audio": [
+    {
+      "src": "/audio/reading/pr076.mp3",
+      "legacySrc": "sounds/pr076.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 076-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "행복한 사람들은 자신들이 원하는 모든 것을 얻지는 못하지만, 자신들이"
+    },
+    {
+      "type": "instruction",
+      "text": "얻을 수 있는 것의 대부분은 원한다. 다시 말해서, 그들은 자신의 능력이"
+    },
+    {
+      "type": "instruction",
+      "text": "미치는 범위 내에 있는 것들을 높이 평가하기로 마음먹음 에 의해서"
+    },
+    {
+      "type": "instruction",
+      "text": "인생이라는 게임을 자신들에게 이롭게 채비한다. 스스로 삶에 불만을 품은"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들(행복하지 못한 사람들)은 자주 스스로에게 도달할 수 없는(자신의"
+    },
+    {
+      "type": "instruction",
+      "text": "능력이 미치니 못하는) 목표들을 설정하는데, 그리하여 스스로를 실패할"
+    },
+    {
+      "type": "instruction",
+      "text": "수밖에 없는 처지로 만든다. 그러나 스스로에게 높은 목표를 설정하고는 그"
+    },
+    {
+      "type": "instruction",
+      "text": "목표들에 이르고자 노력하는 사람들은 적당한 정도의 목표를 설정하고서"
+    },
+    {
+      "type": "instruction",
+      "text": "이에 이르고자 노력하는 사람들보다 행복한 것이 아니다. 현실성이라는 한계"
+    },
+    {
+      "type": "instruction",
+      "text": "내에 머물면서(현실적 한계를 넘지 않으면서) 그리고 사정을 더 좋게"
+    },
+    {
+      "type": "instruction",
+      "text": "개선하려고 열심히 노력하라."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr076-1.htm",
+  "legacyEncoding": "utf-8"
+}

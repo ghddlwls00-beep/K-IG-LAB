@@ -1,0 +1,47 @@
+{
+  "id": "pr241",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 241 ]",
+  "menuLabel": "[ pr241 ]",
+  "unit": 241,
+  "part": null,
+  "order": 480,
+  "audio": [
+    {
+      "src": "/audio/reading/pr241.mp3",
+      "legacySrc": "sounds/pr241.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 241 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "What is the purpose of education? It is to prepare the individual for the society in which he must live and to give him the power to change the society. We should not overemphasize the value of the first part. It should be one of the functions of education to preserve for the society all the values essential to it, but it is more important one to cut out the decayed values which would be harmful to a new society. Thus the school should be the inspiration to social change. Education should play the role in changing the society rather than in preserving its tradition ."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr241.htm",
+  "legacyEncoding": "utf-8"
+}

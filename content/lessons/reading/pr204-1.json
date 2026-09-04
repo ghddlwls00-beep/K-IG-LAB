@@ -1,0 +1,47 @@
+{
+  "id": "pr204-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr204",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 204-1 ]",
+  "menuLabel": "[ pr204-1 ]",
+  "unit": 204,
+  "part": null,
+  "order": 407,
+  "audio": [
+    {
+      "src": "/audio/reading/pr204.mp3",
+      "legacySrc": "sounds/pr204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 204-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들 입에 오르내리는 많은 속담들은 딱 들어맞거나 통찰력이 넘치기조차 한다/삶의 상황에 적용이 될 때. 그러나 속담들을 살필 때 제한을 두지 않으면, 그것들은 각각의 효과를 상쇄할 수 있다. 예를 들어, “사공이 많으면 배가 산으로 올라간다”는 것이 종종 맞는 말이지만 “백지장도 맞들면 나은” 경우가 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr204-1.htm",
+  "legacyEncoding": "utf-8"
+}

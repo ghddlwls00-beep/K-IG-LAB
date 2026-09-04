@@ -1,0 +1,47 @@
+{
+  "id": "pr215-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr215",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 215-1 ]",
+  "menuLabel": "[ pr215-1 ]",
+  "unit": 215,
+  "part": null,
+  "order": 429,
+  "audio": [
+    {
+      "src": "/audio/reading/pr215.mp3",
+      "legacySrc": "sounds/pr215.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 215-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "사람들은 의학의 발전에 행복해 한다. 그러나 출산증가에 대해서는 염려한다. 과학자들이 농화학 분야에서 거대한 진보를 이루어, 식량공급을 크게 증가시켰다. 그러나 우리의 강은 너무 오염되 수영도 할 수 없다. 우리는 항공교통의 발전에 기뻐하고 거대한 비행기에 감동 받는다. 그러나 비행기의 추락이나 공중전의 공포에 겁먹는다. 우리는 지금 우주에 들어갈 수 있다는 사실에 흥분한다. 그러나 우리는 또한 분명히 그에 있어 다른 측면을 보게 될 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr215-1.htm",
+  "legacyEncoding": "utf-8"
+}

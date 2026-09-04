@@ -1,0 +1,404 @@
+{
+  "id": "cnn114",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Some Ad Campaigns* Work, Others Don’t",
+  "label": "Some Ad Campaigns* Work, Others Don’t",
+  "menuLabel": "[ CNN 114 ]",
+  "unit": 114,
+  "part": null,
+  "order": 113,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn114.mp4",
+      "legacySrc": "CNN/CNN61-120/114.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Some Ad Campaigns* Work, Others Don’t"
+    },
+    {
+      "type": "paragraph",
+      "text": "MALLIKA KAPUR, CNN Anchor: An advertising campaign can cost millions of dollars. Of course, it’s all worth it when the campaign attracts business. But that’s never a sure thing. Robyn Curnow tells us about commercials that have worked and some that haven’t.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ROBYN CURNOW, CNN Correspondent: So what makes an advertisement memorable? A sexy girl? A cute animal? Or clever technology? “All of that and more,” says brand expert Rita Clinton.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RITA CLINTON, Interbrand: If you look at the world’s most valuable brands then you can see that what tends to go with a strong brand is a strong, clear and consistent campaign over the years. You can look at Coca Cola, you can look at Intel, you can look at Mobil, for example, you can look at BMW, Apple, GAP, all of these are strong, consistent brands with a long-running advertising campaign idea.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CURNOW: As an addition to its global ad campaign, BMW also commissioned eight short movies, directed by top film directors in which its luxury cars play starring roles. A series of long-running and consistent branding that’s hit the right mark with consumers, say analysts, and solidifies the German carmaker as one of the most valuable brands in the world.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "MALCOLM GLADWELL, Author of Blink: You know, what is the difference between..on a conscious, rational level..between a BMW and a Mercedes? Or even a BMW and a Toyota? Not that much. But on an unconscious level, there’s an extraordinary difference. So the power of the brand is entirely bound up in its ability to summon up a series of unconscious associations.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CURNOW: Associations that went all wrong for a British brand of bread when they used Elvis Presley, The King, to promote Kingsmill bread. Sales fell and analysts say the baker lost a third of its market share to competitors. All because consumers just didn’t make the connection the advertisers hoped for.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CLINTON: Unfortunately, of course, the response that they got was one of the opposite one that they intended. And some of the associations were more powerful associations, sadly, with Elvis were really about his obesity in later life, his diets...",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CURNOW: While Elvis’s fondness for fried peanut butter sandwiches is one way to turn off some, so too is giving consumers a nasty surprise. Coca Cola infuriated (their) long-time consumers by replacing its signature drink with “New Coke” in 1985.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CLINTON: To Coke’s credit, when they realized that they’d made a mistake, they stopped, they took several paces back, thought about what they were doing and then, of course, became their consumers’ best friend again by reintroducing Classic Coke.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "CURNOW: An expensive mistake for beverage or bread makers and a valuable lesson for advertisers trying to figure out exactly what makes us buy one product over another. Robyn Curnow, CNN, London.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "먹히는 광고, 안 먹히는 광고",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "말리카 카푸르, CNN 앵커: 광고 비용으로 수백만 달러가 들 수 있습니다. 물론 그 광고가 수익을 낸다면 그만한 가치는 충분하죠. 그러나 수익 여부는 확실한게 아닙니다. 로빈 커노 기자가 성공을 거둔 광고와 그렇지 못한 광고에 대해 전해 드립니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "로빈 커노, CNN 기자: 어떤 광고를 해야 소비자들 기억에남을까요? 섹시한 여성? 귀여운 동물? 아니면 창의적인 기술일까요? “세 가지 모두에다가 더 있어야지요” 라고 브랜드 전문가 리타 클린턴 씨는 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "리타 클린턴, 인터브랜드: 전세계적으로 가장 가치 있는 브랜드들을 살펴보면, 지난 몇 년간 이런 강력한 브랜드에는 강하고 명쾌하며 일관된 광고가 뒷받침했다는 사실을 알 수 있습니다. 코카콜라를 한번 보세요. 인텔이나 모빌도 그렇고, BMW나 애플, 갭을 예로 들 수도 있습니다. 강하고 일관된 이들 브랜드에는 하나같이 장기적인 광고 아이디어가 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "커노: 세계적인 광고 캠페인의 일환으로, BMW는 또한 최고의 영화감독들에게BMW의 초호화 자동차를 주인공으로 하는 여덟 편의‘단편 영화’제작을 맡겼습니다. 이렇듯 장기적이고 일관된 일련의 브랜드 광고가 소비자들에게 제대로 먹혀 들었으며, 이 독일 자동차 제조업체를 전세계에서 가장 가치 있는 브랜드 중 하나로 확고히 자리잡게 해주었다고 전문가들은 말합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "말콤 글래드웰, <블링크>의 저자: 의식적이고 합리적인 단계에서 BMW와 메르세데스 벤츠의 차이점은 뭘까요? BMW와 도요타의 차이는요? 별반 차이 없습니다. 그러나 무의식적인 단계에서는 어마어마한 차이가 납니다. 결국 브랜드 파워는 전적으로, 일련의 무의식적인 연상 작용을 불러일으킬 수 있는 능력에 달려있는 것입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "커노: 한 영국 제과 브랜드의 경우에는 킹스밀 식빵을 홍보하는 데 ‘로큰롤의 황제’엘비스 프레슬리를 이용하여 완전히 잘못된 연상 작용을 일으켰습니다. 매출은 떨어졌고, 전문가들은 (그 광고로 인해) 이 제과업체가 시장 점유율의 3분의 1을 경쟁사들에게 빼앗겼다고 말합니다. 그 이유인즉슨, 이 광고가 소비자들에게 광고주가 기대한 연상 작용을 일으키지 못했기 때문입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "클린턴: 불행히도, 당연히 이는 회사에서 의도한 것과는 정반대의 반응을 얻은 경우입니다. 슬프게도 그 광고에서 엘비스와 관련해 보다 강하게 떠오르는 몇몇 연상은 사실 그의 생애 후반에 비대해진 모습이나 다이어트 같은 것이었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "커노: 프라이드 땅콩버터 샌드위치를 좋아한 엘비스의 기호 때문에 일부 사람들이 식빵을 싫어하게 된 것처럼, 이는 (킹스밀 식빵의) 소비자들에게도 불쾌감을 잔뜩 심어 주었습니다. 코카콜라는 1985년 회사의 가장 인기 있는 대표 음료를 ‘뉴 코크’로 대체함으로써 오랜 애호가들의 원성을 산 바 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "클린턴: 다행히도 코카콜라 측은, 그들이 실수를 깨달았을 때 ‘뉴 코크’광고를 멈추었고 몇 발짝 뒤로 물러서서 그들이 한 행위를 곰곰이 되짚어 보았습니다. 그런 다음, 당연히 ‘클래식 코크’를 재생산해 다시금 소비자들의 가장 친한 친구가 되었죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "커노: 이는 해당 음료회사와 제과업체로서는 값비싼 시행착오였으며, 소비자들의 제품구매 기준이 정확히 무엇인지 알아내려는 광고주들에게는 매우 귀중한 교훈입니다. 런던에서CNN, 로빈 커노였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "animal? Or/ [에느믈오]. 1음절에 강세가 있어 2, 3음절의 o가 [에느믈]로 약화되고 있다. or의 [r]은 영국식 발음으로 탈락되어 감탄사 Oh로 혼동할 수 있으므로 주의한다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. advertiser/ 광고주",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "sure thing",
+          "text": "[쇼어씽]. sure의 [u]를 [o]로 발음해 show와 혼동되지만, thing이 있는 것을 감안해 sure라는 것을 짐작 해 들어야 한다."
+        },
+        {
+          "n": "advertisement memorable",
+          "text": "[에드버티스먼ㅌ 메모러블]. -ti-가 [tai]로 발음되면 3음절에 강세가 있고, [ti]로 발음 되면 2음절에 강세가 있는 것에 주의하자. 여기서는 후자로 발음되면서 [ti] 부분이 약화되고 있다."
+        },
+        {
+          "n": "commissioned",
+          "text": "[커미션ㄷ]. -mm-으로 m이 두 번 나오지만 한 번만 발음되어 [커미셔너]가 된다. commercial[커머셜], running[러닝]도 같은 예다."
+        },
+        {
+          "n": "eight short",
+          "text": "[에이숏ㅌ]. 빠르게 진행되는 뉴스에서는 끝자음이 거의 들리지 않아 eight이 [에이]처럼 들린다. 그래서 앞에 나온 a strong의 a가 [ei]로 발음된 것과 유사하게 들린다."
+        },
+        {
+          "n": "directed by",
+          "text": "[다이렉ㅌ바이]. di-의 발음은 [dai] 혹은 [di] 둘 다 가능하다. 여기서는 전자로 발음되고 있다."
+        },
+        {
+          "n": "Mercedes",
+          "text": "[메-쎄디ㅈ]. ‘메르세데스’인데 영어 발음은 [메-쎄디ㅈ]다. Coca Cola는 o의 [ou]가 [오]와 [어]의 중간으로 발음되어 [코커컬러]로 들린다. Mobil은 약화되어 [모-], Toyota는 [토요러]로 발음되고 있다."
+        },
+        {
+          "n": "opposite",
+          "text": "[오퍼짓]. 첫모음의 [∞]는 [오]와 [어]의 중간 발음인데, 영국식 발음에서는 [오]로 발음된다. 그래서 [아퍼짓]이 아니라 [오퍼짓]이 된다."
+        },
+        {
+          "n": "intended",
+          "text": "[텐디ㄷ]. 강세를 받지 못한 in-이 거의 안 들려 [텐디ㄷ]로 들린다. obesity도 o의 음가가 사라지고 [비써리]로 들린다."
+        },
+        {
+          "n": "* ad campaign",
+          "text": "광고 캠페인(advertising campaign)"
+        },
+        {
+          "n": "1) attract",
+          "text": "…을 끌다, 끌어당기다"
+        },
+        {
+          "n": "2) business",
+          "text": "거래 액; (고객의) 애용, 단골 거래"
+        },
+        {
+          "n": "3) sure thing",
+          "text": "(성공,승리 등이) 확실한 것"
+        },
+        {
+          "n": "4) commercial",
+          "text": "{라디오,TV}광고 방송[프로]"
+        },
+        {
+          "n": "5) advertisement",
+          "text": "(상품의) 광고, 선전"
+        },
+        {
+          "n": "6) memorable",
+          "text": "기억할 만한, 잊혀지지 않는"
+        },
+        {
+          "n": "7) clever",
+          "text": "독창적인, 창의적인; 정교한, 교묘한"
+        },
+        {
+          "n": "8) expert",
+          "text": "전문가"
+        },
+        {
+          "n": "9) Interbrand",
+          "text": "인터브랜드: 영국의 세계적인 브랜드 컨설팅업체"
+        },
+        {
+          "n": "10) valuable",
+          "text": "값비싼, 고가의; 금전적 가치가 있는; 귀중한, 소중한"
+        },
+        {
+          "n": "11) go with",
+          "text": "…와 동반하다, 동행하다"
+        },
+        {
+          "n": "12) consistent",
+          "text": "일관된; 모순되지 않는"
+        },
+        {
+          "n": "13) Mobil",
+          "text": "모빌 사: 미국의 석유 회사"
+        },
+        {
+          "n": "14) long-running",
+          "text": "장기간의, 장기적인"
+        },
+        {
+          "n": "15) addition",
+          "text": "부가[첨가]물, 보탠[덧붙인] 것"
+        },
+        {
+          "n": "16) commission",
+          "text": "(일 따위를) 위탁하다, 의뢰하다, 주문하다"
+        },
+        {
+          "n": "17) short movie",
+          "text": "단편 영화"
+        },
+        {
+          "n": "18) direct",
+          "text": "(영화 등을) 감독[연출]하다"
+        },
+        {
+          "n": "19) film director",
+          "text": "영화감독"
+        },
+        {
+          "n": "20) starring role",
+          "text": "주연, 주인공"
+        },
+        {
+          "n": "21) branding",
+          "text": "브랜드 상품화, (제품의) 브랜드[상표]화"
+        },
+        {
+          "n": "22) hit the mark",
+          "text": "적중하다; 목적을 이루다, 성공하다"
+        },
+        {
+          "n": "23) consumer",
+          "text": "{경제}소비자"
+        },
+        {
+          "n": "24) analyst",
+          "text": "분석가"
+        },
+        {
+          "n": "25) solidify A as B",
+          "text": "A를 B로 굳히다"
+        },
+        {
+          "n": "26) Blink",
+          "text": "<블링크>: 작가 말콤 글래드웰의 저서로 새로운 사람을 만나거나 긴박한 상황에서 결정을 해야 할 때, 우리가 무의식 상태에서 내리는 ‘순간적 판단’에 대한 내용을 다루고 있다."
+        },
+        {
+          "n": "27) conscious",
+          "text": "의식적인 opp. unconscious/ 무의식적인"
+        },
+        {
+          "n": "28) rational",
+          "text": "이성적인; 합리적인"
+        },
+        {
+          "n": "29) extraordinary",
+          "text": "엄청난, 터무니없는"
+        },
+        {
+          "n": "30) entirely",
+          "text": "완전히, 전적으로(completely)"
+        },
+        {
+          "n": "31) be bound up in[with]",
+          "text": "…에 의존하다; …와 밀접한 관계가 있다"
+        },
+        {
+          "n": "32) summon up",
+          "text": "…을 불러일으키다"
+        },
+        {
+          "n": "33) association",
+          "text": "연상; 연상되는 것"
+        },
+        {
+          "n": "34) go wrong",
+          "text": "실패하다; 어긋나다; 길을 잘못 들다"
+        },
+        {
+          "n": "35) promote",
+          "text": "홍보하다, 판촉하다"
+        },
+        {
+          "n": "36) baker",
+          "text": "제과업체, 제과점"
+        },
+        {
+          "n": "37) market share",
+          "text": "시장 점유율"
+        },
+        {
+          "n": "38) competitor",
+          "text": "r 경쟁자, 경쟁사"
+        },
+        {
+          "n": "39) connection",
+          "text": "연상; 관련성, 일관성"
+        },
+        {
+          "n": "40) response",
+          "text": "반응; 응답, 대답"
+        },
+        {
+          "n": "41) opposite",
+          "text": "반대되는 것"
+        },
+        {
+          "n": "42) intend",
+          "text": "…을 의도하다; …하려고 생각하다"
+        },
+        {
+          "n": "43) obesity",
+          "text": "비만, 비대"
+        },
+        {
+          "n": "44) fondness for",
+          "text": "…을 아주 좋아함, …에 대한 애호"
+        },
+        {
+          "n": "45) peanut butter",
+          "text": "땅콩버터"
+        },
+        {
+          "n": "46) turn off",
+          "text": "싫어지게 하다, 흥미를 잃게 하다"
+        },
+        {
+          "n": "47) nasty",
+          "text": "불쾌한, 싫은"
+        },
+        {
+          "n": "48) infuriate",
+          "text": "…을 격분[격앙]시키다, 노발대발하게 하다"
+        },
+        {
+          "n": "49) replace",
+          "text": "…을 대신하다, 대체하다"
+        },
+        {
+          "n": "50) signature drink",
+          "text": "가장 인기 있는 음료"
+        },
+        {
+          "n": "51) to one’s credit",
+          "text": "명예롭게도, …의 명예가 되게"
+        },
+        {
+          "n": "52) take a pace back",
+          "text": "1보 후퇴하다"
+        },
+        {
+          "n": "53) reintroduce",
+          "text": "…을 재도입하다; 다시 소개하다"
+        },
+        {
+          "n": "54) beverage",
+          "text": "(물 이외의) 음료, 마실 것"
+        },
+        {
+          "n": "55) figure out",
+          "text": "…을 알아내다; 이해하다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN61-120/114.wmv",
+  "legacyEncoding": "binary"
+}

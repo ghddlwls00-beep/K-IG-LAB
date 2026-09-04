@@ -1,0 +1,95 @@
+{
+  "id": "p162-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p162",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 162-1 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 2,
+  "order": 163,
+  "audio": [
+    {
+      "src": "/audio/middle/p162.mp3",
+      "legacySrc": "sounds/p162.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 162-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(왜 내가 통역사가 되고 싶어하는가?)"
+    },
+    {
+      "type": "instruction",
+      "text": "왜 내가 통역사가 되고 싶어하는지에 대한 이유는 많이 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "첫째, 영어는 세계에서 가장 널리 사용되는 언어입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 저는 영어가 중요하다는 것을 알고 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "둘째, 나는 많은 재미있는 책들을 번역하고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 더 많은 사람들이 그것들을 읽는 것을 즐길 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "게다가, 나는 또한 책들을 영어로 쓰고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "또 다른 이유는 나는 영어를 말할 수 없는 사람들을 위해서"
+    },
+    {
+      "type": "instruction",
+      "text": "통역해 주고 싶습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "마지막으로, 만일 내가 다른 나라에 간다면"
+    },
+    {
+      "type": "instruction",
+      "text": "그곳 사람들은 한국말을 이해 할 수 없을지도 몰라서"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 영어를 잘 말하도록 배워야 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 나는 그들과 의사소통을 원할 히 할 수 있습니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p162-1.htm",
+  "legacyEncoding": "utf-8"
+}

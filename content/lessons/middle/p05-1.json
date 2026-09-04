@@ -1,0 +1,179 @@
+{
+  "id": "p05-1",
+  "course": "middle",
+  "series": "p",
+  "variant": "script",
+  "pairId": "p05",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- principle05-1]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": null,
+  "order": 55,
+  "audio": [
+    {
+      "src": "/audio/middle/p05.mp3",
+      "legacySrc": "sounds/p05.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- principle05-1]"
+    },
+    {
+      "type": "instruction",
+      "text": "5과 학교 갈 준비 / 학교에서"
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 가는 준비는 나의 하루의 가장 어려운 부분입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 늦잠을 자기 때문에 자주 학교에 지각을 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 가족은 너무 바쁩니다;"
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 우리는 심지어 아침을 함께 먹을 수도 없습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "제가 학교에 가기 전에 나의 어머니께서는 나에게 용돈을 주십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "나의 학교는 나의 집 가까이에 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 걸어가는 것은 보통 약 15분 걸립니다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 봄과 가을에 나는 나의 자전거를 타고 학교에 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 걸어서 가는 것 보다 자전거를 타고 가는 것이"
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 좀 더 빨리 도착할 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "자전거를 타면10분 안에 도착합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에 가는 길에 저는 문구점에 들러서 수업에 필요한 준비물을 사러 갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 학교에 걸어갈 때 나는 자주 나의 친구들을 만납니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 우리는 함께 학교에 걸어갑니다."
+    },
+    {
+      "type": "instruction",
+      "text": "아침 8:30분에,"
+    },
+    {
+      "type": "instruction",
+      "text": "우리는 수업 전에 우리 선생님과 아침조회를 하기위해 만납니다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 시간 동안, 우리 선생님께서는 출석을 부르시고"
+    },
+    {
+      "type": "instruction",
+      "text": "우리에게 그날의 전달사항을 말씀하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "선생님께서 아침조회를 하시는 동안에, 학생들이 매우 시끄러워서"
+    },
+    {
+      "type": "instruction",
+      "text": "선생님께서는 우리를 조용히 시키기 위해서는 소리를 치셔야만 합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "9시 수업이 시작할 때, 우리 선생님께서는"
+    },
+    {
+      "type": "instruction",
+      "text": "우리가 그의 책상에 올려놓은 숙제와 일기를 검사하십니다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 숙제를 하지 않았을 때"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 매우 초조해지고 안절부절 못하는 것처럼 느낍니다."
+    },
+    {
+      "type": "instruction",
+      "text": "때때로 나의 선생님이 말씀할 것이 두려워서"
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 손을 저의 책상아래에 숨깁니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 다른 학생들처럼 제가 가장 좋아하는 과목은 체육 이고"
+    },
+    {
+      "type": "instruction",
+      "text": "제가 가장 싫어하는 수업은 역사입니다."
+    },
+    {
+      "type": "instruction",
+      "text": "보통 수업시간에, 학생들은 서로서로에게 매우 친절합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "그러나 때때로 학급 친구들 사이에서 싸움과 언쟁이 있을 수 있습니다."
+    },
+    {
+      "type": "instruction",
+      "text": "대부분의 학생들은 빨리 화해를 하고 다시 친구가 됩니다."
+    },
+    {
+      "type": "instruction",
+      "text": "우리 반은 똑똑한 학생들이 많기 때문에, 우리는 매우 경쟁심이 강합니다."
+    },
+    {
+      "type": "instruction",
+      "text": "학교에서 저는 공부하기와 친구 사귀기를 좋아합니다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p05-1.htm",
+  "legacyEncoding": "utf-8"
+}

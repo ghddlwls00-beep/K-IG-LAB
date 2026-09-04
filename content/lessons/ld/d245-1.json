@@ -1,0 +1,75 @@
+{
+  "id": "d245-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d245",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 245 회 ]",
+  "menuLabel": "[ D 245-1 ]",
+  "unit": 245,
+  "part": null,
+  "order": 488,
+  "audio": [
+    {
+      "src": "/audio/ld/d245.mp3",
+      "legacySrc": "sounds/d245.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 245 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "할로윈은 기독교의 All Sants 축제로부터 연유한다."
+    },
+    {
+      "type": "instruction",
+      "text": "문자적으로 Halloween은 Holy Eve를 의미하고 All saints Day 전날 밤을 말한다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 미신에 따르면 죽은 사람들의 영들이 All Saints 전야에"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 무덤으로부터 나오는 것으로 생각된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 영들을 위하여 길을 밝히기 위하여 유럽의 농부들과 소작농들은 큰 횃불을 불붙였다."
+    },
+    {
+      "type": "instruction",
+      "text": "점진적으로 이 풍습이 밤샘 축하가 되었는데 그 동안에 모든 사람이 기묘한 의상을 입었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이 고대의 축제가 지금 현대의 할로윈 명절로 바뀌었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d245-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr202-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr202",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 202-1 ]",
+  "menuLabel": "[ pr202-1 ]",
+  "unit": 202,
+  "part": null,
+  "order": 403,
+  "audio": [
+    {
+      "src": "/audio/reading/pr202.mp3",
+      "legacySrc": "sounds/pr202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 202-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "1883년이 한국 언론의 역사에서 중요한 연도라는 사실을 알고 있는 사람은 거의 없다. 그 해에 한국에서 신문이 최초로 발간되었는데, 국민을 교육하고 필요한 변화를 한국에 가져오기 위한 노력의 일환이었다. 한 달에 세 번씩 그 신문은 국내와 외부 세계에 대한 뉴스를 독자들에게 가져다 주었다. 일년 후에, 그 신문은 화재 때문에 잠시 동안 중단되었다. 그 신문은 1888년에 자금 부족 때문에 폐간해야 했다. 그 짧은 생명에도 불구하고, 그 신문은 한국에서 사람들이 뉴스를 얻는 방법을 영원히 변화시켰던 것이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr202-1.htm",
+  "legacyEncoding": "utf-8"
+}

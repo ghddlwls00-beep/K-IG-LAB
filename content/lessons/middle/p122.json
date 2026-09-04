@@ -1,0 +1,87 @@
+{
+  "id": "p122",
+  "course": "middle",
+  "series": "p",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | PASS-OFF ENGLISH | 제 001 회 강의 :::",
+  "label": "[ PASSOFF- 122 ]",
+  "menuLabel": null,
+  "unit": 12,
+  "part": 2,
+  "order": 128,
+  "audio": [
+    {
+      "src": "/audio/middle/p122.mp3",
+      "legacySrc": "sounds/p122.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ PASSOFF- 122 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Summer Vacation)"
+    },
+    {
+      "type": "hints",
+      "text": "I spend my summer vacation a bit different from the winter one."
+    },
+    {
+      "type": "instruction",
+      "text": "During summer vacation,"
+    },
+    {
+      "type": "instruction",
+      "text": "my family usually goes on a short trip to visit our relatives."
+    },
+    {
+      "type": "instruction",
+      "text": "Last summer vacation, our family went to the seaside"
+    },
+    {
+      "type": "instruction",
+      "text": "next to the East Sea."
+    },
+    {
+      "type": "instruction",
+      "text": "Every holiday, there are major traffic jams,"
+    },
+    {
+      "type": "instruction",
+      "text": "and it takes a long time to go a very short distance."
+    },
+    {
+      "type": "instruction",
+      "text": "It is also very hot for traveling."
+    },
+    {
+      "type": "instruction",
+      "text": "Even if it is terribly hot during the summer,"
+    },
+    {
+      "type": "instruction",
+      "text": "I am happy to travel with my family anyways."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "middle/p122.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pr232-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr232",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 232-1 ]",
+  "menuLabel": "[ pr232-1 ]",
+  "unit": 232,
+  "part": null,
+  "order": 463,
+  "audio": [
+    {
+      "src": "/audio/reading/pr232.mp3",
+      "legacySrc": "sounds/pr232.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 232-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "전역의 사람들은 1.1시간을 매일 도로상에서 보낸다. 수 천 명이 죽고, 수 십만"
+    },
+    {
+      "type": "instruction",
+      "text": "명이 매일 차 사고로 부상당한다. 우리는 대기중에 엄청난 양의 CO2를 방출하고"
+    },
+    {
+      "type": "instruction",
+      "text": "있는데, 이의 1/3은 자동차에서 나온다. 우리는 이 기체가 온실 효과를 야기시킨"
+    },
+    {
+      "type": "instruction",
+      "text": "다는 것을 안다. 아무리 우리가 많은 도로를 건설한다 할지라도 도로는 북적이고,"
+    },
+    {
+      "type": "instruction",
+      "text": "도로를 건설하는 것은 자연을 파괴시킨다. 엄청난 양의 공간이 나무나 새들에게"
+    },
+    {
+      "type": "instruction",
+      "text": "보다는 주차장을 위해서 양도되어진다. 따라서, 차이용이 값비싸고 해로운 많은"
+    },
+    {
+      "type": "instruction",
+      "text": "경우들에 대해 알고 있다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr232-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "d172",
+  "course": "ld",
+  "series": "d",
+  "variant": "main",
+  "pairId": null,
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 172 회 ]",
+  "menuLabel": "[ D 172 ]",
+  "unit": 172,
+  "part": null,
+  "order": 341,
+  "audio": [
+    {
+      "src": "/audio/ld/d172.mp3",
+      "legacySrc": "sounds/d172.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 172 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "다음에 나오는 고유 명사, 숫자, 어려운 단어를 참조하면서 영어로 받아쓰기를 하세요."
+    },
+    {
+      "type": "hints",
+      "text": "panning for gold. Mining towns saloon, hotel, stable, jail cemetery. Fewer than 100 years later,"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d172.htm",
+  "legacyEncoding": "utf-8"
+}

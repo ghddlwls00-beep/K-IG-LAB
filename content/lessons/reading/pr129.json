@@ -1,0 +1,47 @@
+{
+  "id": "pr129",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 129 ]",
+  "menuLabel": "[ pr129 ]",
+  "unit": 129,
+  "part": null,
+  "order": 256,
+  "audio": [
+    {
+      "src": "/audio/reading/pr129.mp3",
+      "legacySrc": "sounds/pr129.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 129 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Changes in heating systems of buildings can also lead to disease. In the 1970s, there was a worldwide shortage of heating oil. To save fuel, hotels in the United States lowered the temperature in their heating systems. This lower temperature was just perfect for a deadly germ which grows in heating pipes. When the heated air was blown into the rooms of a hotel, it carried. Many visitors became ill and several died."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr129.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d041-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d041",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 041 회 ]",
+  "menuLabel": "[ D 041-1 ]",
+  "unit": 41,
+  "part": null,
+  "order": 81,
+  "audio": [
+    {
+      "src": "/audio/ld/d041.mp3",
+      "legacySrc": "sounds/d041.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 041 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 16살이었을 때 나는 우리 부모님께서는 매우 좋으신 분들이고 나는 그분들을 사랑하지만"
+    },
+    {
+      "type": "instruction",
+      "text": "정말로 매우 많이 알지 않는다는 생각을 얻었다. 물론 나는 모든 것을 알았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그런 다음 내가 18살이었을 때 나는 어머님과 아버님이 불과 2년 내에 많은 것을 배우셨다는 것을"
+    },
+    {
+      "type": "instruction",
+      "text": "깨달았다. 나는 이제 다른 주제들에 대한 그들의 의견을 존중했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그분들이 언제나 이런 의견들과 생각들을 갖고 계셨다는 것을 내가 인식하는 것은 2년의 성장이"
+    },
+    {
+      "type": "instruction",
+      "text": "필요했다. 어떤 사람은 모든 주제에 대해서 한 가지 의견을 갖고 있다. 다른 사람들은 아무 의견도 없다."
+    },
+    {
+      "type": "instruction",
+      "text": "가장 훌륭한 종류는 “당신은 어떻게 생각하십니까?”라는 질문에 대답하기 전에 그 주제를 연구하는 사람 이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d041-1.htm",
+  "legacyEncoding": "utf-8"
+}

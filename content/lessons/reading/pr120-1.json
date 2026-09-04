@@ -1,0 +1,47 @@
+{
+  "id": "pr120-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr120",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 120-1 ]",
+  "menuLabel": "[ pr120-1 ]",
+  "unit": 120,
+  "part": null,
+  "order": 239,
+  "audio": [
+    {
+      "src": "/audio/reading/pr120.mp3",
+      "legacySrc": "sounds/pr120.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 120-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "수세기 동안 해시계와 물시계는 시간에 대해 우리가 알 필요가 있는 모든 것을 부정확하게 말해주었다. 기계 장치로 된 시계가 14세기에 이탈리아의 탑들 위에 나타나기 시작했지만 시간을 맞추는 것은 하루에 15분까지 틀렸기 때문에 시계의 모습보다는 덜 인상적이었다. 17세기쯤에 갈릴레오와 파스칼을 포함한 일부 천재들이 더 좋은 시계에 대한 이론을 만들었지만 그것을 만드는데는 실패했다. 그러다가 1656년에 네델란드의 천문학자 Christian Huygens가 최초의 추시계를 만들어 시간을 맞추는 것에 대변혁을 일으켰다. Huygens의 시계의 정확성은 과학자들이 그들의 물리학 실험을 위해 그것을 사용하게 했고 가게 주인들이 정해진 시간에 문을 열고 닫게 해주었다. 1761년에 영국인 John Harrison은 바다에서 작동하는 시계를 완성해서 정확한 시간을 항해자의 호주머니 속에 넣어주었다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr120-1.htm",
+  "legacyEncoding": "utf-8"
+}

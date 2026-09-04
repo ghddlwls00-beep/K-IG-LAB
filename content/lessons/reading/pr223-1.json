@@ -1,0 +1,47 @@
+{
+  "id": "pr223-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr223",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 223-1 ]",
+  "menuLabel": "[ pr223-1 ]",
+  "unit": 223,
+  "part": null,
+  "order": 445,
+  "audio": [
+    {
+      "src": "/audio/reading/pr223.mp3",
+      "legacySrc": "sounds/pr223.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 223-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "어떤 사람들은 많은 돈을 가지면 행복할 거라고 믿는다. 그들은 부유하면 하고 싶은 모든 일을 할 수 있고, 그래서 행복할 거라고 믿는다. 반면에 어떤 사람들은 그들의 종교나 지식, 건강에 가치를 두고, 이러한 것들은 그들을 행복하게 만든다. 나의 경우 행복이란 나의 가족과 밀접하게 연결되어 있다. 나의 부인과 아이들이 조화를 이루고 산다면 난 행복하다. 내 가족 구성원 모두가 좋은 시간과 슬픈 시간을 함께 나누고 서로 의사 소통을 할 때 난 행복하다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr223-1.htm",
+  "legacyEncoding": "utf-8"
+}

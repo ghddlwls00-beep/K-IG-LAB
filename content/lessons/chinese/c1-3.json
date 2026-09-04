@@ -1,0 +1,158 @@
+{
+  "id": "c1-3",
+  "course": "chinese",
+  "series": "c",
+  "variant": "main",
+  "pairId": null,
+  "title": "性格(성격)",
+  "label": "性格(성격)",
+  "menuLabel": null,
+  "unit": 1,
+  "part": 3,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/chinese/c1-3-swf1.mp3",
+      "legacySrc": "c1-3.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-swf2.mp3",
+      "legacySrc": "c1-3.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-swf3.mp3",
+      "legacySrc": "c1-3.swf",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3.mp3",
+      "legacySrc": "중국어음성/c1-3.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-1.mp3",
+      "legacySrc": "중국어음성/c1-3-1.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-2.mp3",
+      "legacySrc": "중국어음성/c1-3-2.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-3.mp3",
+      "legacySrc": "중국어음성/c1-3-3.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-4.mp3",
+      "legacySrc": "중국어음성/c1-3-4.mp3",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/chinese/c1-3-5.mp3",
+      "legacySrc": "중국어음성/c1-3-5.mp3",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Principle 3"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 4"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 2"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1-3"
+    },
+    {
+      "type": "paragraph",
+      "text": "性格(성격)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 매우 외향적인 사람이지만 나는 또한 새로운 사람들 주위에서는 약간 부끄러움을 탑니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我虽然很外向, 但是陌生人见面前又有点害羞。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 친구들이 많습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我有很多朋友",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 나의 친구들 주위에 있기를 좋아하고 그들도 제 주위에 있기를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我很喜欢我身边的朋友，他们也很喜欢和我玩。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 아주 행복한 사람입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "我很幸福。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "대부분의 사람들이 저를 좋아합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "大多数人都喜欢我。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "我有很多朋友。",
+      "lang": "zh"
+    },
+    {
+      "type": "paragraph",
+      "text": "自我介绍 ( 자기소개)",
+      "lang": "ko"
+    },
+    {
+      "type": "heading",
+      "text": "Principle 1 :"
+    }
+  ],
+  "legacyPath": "중국/c1-3.html",
+  "legacyEncoding": "utf-8"
+}

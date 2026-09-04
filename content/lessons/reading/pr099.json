@@ -1,0 +1,47 @@
+{
+  "id": "pr099",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 099 ]",
+  "menuLabel": "[ pr099 ]",
+  "unit": 99,
+  "part": null,
+  "order": 196,
+  "audio": [
+    {
+      "src": "/audio/reading/pr099.mp3",
+      "legacySrc": "sounds/pr099.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 099 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An eighteenth-century scholar said, \"Water, which is essential for life, cost nothing. On the other hand, diamonds, which are essential for nothing, cost a lot.\" Unfortunately, the world has changed considerably since that remark was made. What was true over two hundred years ago is certainly no longer the case. What is still true, however, is a writer's comment, \"When the well's dry, we know the worth of it.\" That is, we ignore it when we have it - unless we have too much of it, of course. Once there is a threat to its supply, however, water can quickly become the only thing that matter. We know only too well that, without it, there can be no life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr099.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pr146-1",
+  "course": "reading",
+  "series": "pr",
+  "variant": "script",
+  "pairId": "pr146",
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 146-1 ]",
+  "menuLabel": "[ pr146-1 ]",
+  "unit": 146,
+  "part": null,
+  "order": 291,
+  "audio": [
+    {
+      "src": "/audio/reading/pr146.mp3",
+      "legacySrc": "sounds/pr146.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 146-1 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "제조업자는 \"새로운 것이 더 좋다\"라는 자세를 조장한다. 구 모델이 고장나자마자 새 모델을 산다면 그들은 돈을 더 많이 벌 것이다. 그들은 심지어 1회 사용하고 버려지도록 의도된 품목도 발명하고 있다. 종이 접시와 앞치마 뿐아니라 심지어 1회용 면도기와 카메라도 있다. 또한 수리점도 점점 드물어지고 있다. 새 것을 살 수 있는데 왜 헌 것을 수리해야 하는가? 그 결과, 쓰레기장은 여전히 사용할 수 있는 물품으로 가득하다. 우리는 돈을 절약해주는 재사용이나 재활용을 하지 않는다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr146-1.htm",
+  "legacyEncoding": "utf-8"
+}

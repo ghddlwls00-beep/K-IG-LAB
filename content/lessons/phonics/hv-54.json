@@ -1,0 +1,88 @@
+{
+  "id": "hv-54",
+  "course": "phonics",
+  "series": "hv",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": null,
+  "menuLabel": "[ hv-54 ]",
+  "unit": 54,
+  "part": null,
+  "order": 173,
+  "audio": [
+    {
+      "src": "/audio/phonics/hv-54.mp3",
+      "legacySrc": "sounds/hv-54.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "wordgrid",
+      "rows": [
+        [
+          "enterprising",
+          "surprising",
+          "prey",
+          "pressure",
+          "oppress",
+          "oppression"
+        ],
+        [
+          "impress",
+          "impression",
+          "impressive",
+          "express",
+          "expression",
+          "prime"
+        ],
+        [
+          "primary",
+          "primarily",
+          "primitive",
+          "appreciation",
+          "enterprise",
+          "approve"
+        ],
+        [
+          "imprisonment",
+          "proof",
+          "prove",
+          "imprison",
+          "probability",
+          "prisoner"
+        ],
+        [
+          "probably",
+          "prison",
+          "comprehensive",
+          "probable",
+          "appreciate",
+          "principle"
+        ]
+      ]
+    },
+    {
+      "type": "instruction",
+      "text": "[ hv-54 ]"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "phonics/hv-54.htm",
+  "legacyEncoding": "utf-8"
+}

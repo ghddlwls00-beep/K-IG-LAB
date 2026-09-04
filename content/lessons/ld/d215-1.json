@@ -1,0 +1,83 @@
+{
+  "id": "d215-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d215",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 215 회 ]",
+  "menuLabel": "[ D 215-1 ]",
+  "unit": 215,
+  "part": null,
+  "order": 428,
+  "audio": [
+    {
+      "src": "/audio/ld/d215.mp3",
+      "legacySrc": "sounds/d215.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 215 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "제사장들의 중재 이외에도 원시인은 자신을 악으로부터"
+    },
+    {
+      "type": "instruction",
+      "text": "보호하도록 고안된 많은 행운의 부적들을 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 부적들은 또 위험에 직면하거나 전투할 때 그에게 용기를 주는 목적도 갖고 있었다."
+    },
+    {
+      "type": "instruction",
+      "text": "예를 들어 많은 아메리카 인디언들은 그들의 정복된 적의 머리가죽을"
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 허리 주위에 걸치는 허리끈에 매다는 관습을 만들었다."
+    },
+    {
+      "type": "instruction",
+      "text": "이런 머리 가죽은 착용자를 육체적인 위험에 면역되게 만드는 행운의 부적으로 여겨졌다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 동물들은 인디언들이 또 행운의 상징물로 여겼다."
+    },
+    {
+      "type": "instruction",
+      "text": "흰 들소같은 일부 동물들은 신성한 것으로 생각되었기 때문에 심지어 숭배받기까지 했다."
+    },
+    {
+      "type": "instruction",
+      "text": "고대 문명에서는 미신이 종교를 대신했다고 말하는 것이 아마 진실이다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d215-1.htm",
+  "legacyEncoding": "utf-8"
+}

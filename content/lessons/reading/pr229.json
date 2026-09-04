@@ -1,0 +1,47 @@
+{
+  "id": "pr229",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 229 ]",
+  "menuLabel": "[ pr229 ]",
+  "unit": 229,
+  "part": null,
+  "order": 456,
+  "audio": [
+    {
+      "src": "/audio/reading/pr229.mp3",
+      "legacySrc": "sounds/pr229.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 229 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Some people feel that reading \"for pleasure\" (anything not directly connected to a job or immediately practical) is a waste of time. Spending hours with a book, they think, is unproductive dreaming. For example, when asked about their reading, some businessmen often reply, \"I keep up with the professional literature, but I don't have time for books.\" Their tone implies that anyone with time to read book is somehow an idler."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr229.htm",
+  "legacyEncoding": "utf-8"
+}

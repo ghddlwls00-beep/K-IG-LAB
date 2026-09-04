@@ -1,0 +1,47 @@
+{
+  "id": "pr243",
+  "course": "reading",
+  "series": "pr",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: PSS-OFF 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Passoff Reading 243 ]",
+  "menuLabel": "[ pr243 ]",
+  "unit": 243,
+  "part": null,
+  "order": 484,
+  "audio": [
+    {
+      "src": "/audio/reading/pr243.mp3",
+      "legacySrc": "sounds/pr243.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Passoff Reading 243 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Since the mid-1990s, teaching Korean to foreigners has made quite and steady progress. Many universities now offer Korean language programs in Korea and abroad, and many textbooks have been produced for learners of Korean. Only a small number of foreigners, however, have benefited from this progress. Most foreign workers are being taught by Korean coworkers of volunteers who have no or little teaching experience. Thus, it is necessary to establish better educational programs for teaching the Korean language to foreign workers."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "reading/pr243.htm",
+  "legacyEncoding": "utf-8"
+}

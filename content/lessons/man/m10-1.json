@@ -1,0 +1,108 @@
+{
+  "id": "m10-1",
+  "course": "man",
+  "series": "m",
+  "variant": "main",
+  "pairId": null,
+  "title": "m10-1",
+  "label": "Chapter 1",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 1,
+  "order": 45,
+  "audio": [
+    {
+      "src": "/audio/man/m10-1-1.mp3",
+      "legacySrc": "m10-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-1-2.mp3",
+      "legacySrc": "m10-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-1-3.mp3",
+      "legacySrc": "m10-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m10-1-4.mp3",
+      "legacySrc": "m10-1.swf#stream",
+      "autoplay": false
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "내가 어렸을 때, 나는 공부를 잘 하지 않았습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was young, I was not good at studying.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 시험을 잘 치지 못해서 자주 부모님이나 선생님들로부터 잔소리를 들었습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was not good at taking tests and was often scolded by my parents andteachers.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 단지 나의 친구들과 함께 노는 것을 원했습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "I just wanted to play with my friends.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was not good at taking tests and was often scolded by my parents and teachers.",
+      "lang": "en"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 2"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 3"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 4"
+    },
+    {
+      "type": "heading",
+      "text": "Chapter 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 My Hometown :",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "My Early Childhood School Days",
+      "lang": "en"
+    }
+  ],
+  "legacyPath": "Man/m10-1.html",
+  "legacyEncoding": "euc-kr",
+  "legacyFlash": [
+    "m10-1.swf"
+  ]
+}

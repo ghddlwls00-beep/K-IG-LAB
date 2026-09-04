@@ -1,0 +1,83 @@
+{
+  "id": "d229-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d229",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 229 회 ]",
+  "menuLabel": "[ D 229-1 ]",
+  "unit": 229,
+  "part": null,
+  "order": 456,
+  "audio": [
+    {
+      "src": "/audio/ld/d229.mp3",
+      "legacySrc": "sounds/d229.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 229 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "사업에서 은퇴한 많은 노인들은 trailer camper가 된다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 실제로 바퀴 위의 작은 집인 trailer를 사서"
+    },
+    {
+      "type": "instruction",
+      "text": "그것을 차에 매달고 매년의 일부분을 여행하면서 보낸다."
+    },
+    {
+      "type": "instruction",
+      "text": "많은 면에서 그들은 유럽의 집시와 비슷하다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들이 좋아하는 캠핑장 중의 하나는 국립공원이다."
+    },
+    {
+      "type": "instruction",
+      "text": "나란히 주차된 그들의 trailer들은 작은 도시를 형성한다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들의 생활은 완전한 릴랙스의 생활이다."
+    },
+    {
+      "type": "instruction",
+      "text": "그들은 낮은 낚시, 하이킹, 혹은 단순한 휴식을 하면서 보내고"
+    },
+    {
+      "type": "instruction",
+      "text": "밤은 모닥불 둘레에 앉아서 trailer 생활의 모험과 기쁨의 이야기를 하면서 보낸다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d229-1.htm",
+  "legacyEncoding": "utf-8"
+}

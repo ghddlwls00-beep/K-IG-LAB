@@ -1,0 +1,424 @@
+{
+  "id": "cnn030",
+  "course": "cnn",
+  "series": "cnn",
+  "variant": "main",
+  "pairId": null,
+  "title": "Dressing Like Barbie",
+  "label": "Dressing Like Barbie",
+  "menuLabel": "[ CNN 30 ]",
+  "unit": 30,
+  "part": null,
+  "order": 29,
+  "audio": [],
+  "video": [
+    {
+      "src": "/video/cnn/cnn030.mp4",
+      "legacySrc": "CNN/CNN1-60/30.wmv"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Dressing Like Barbie"
+    },
+    {
+      "type": "paragraph",
+      "text": "MALLIKA KAPUR, CNN Anchor: She’s been a symbol of trendy fashion and the high life for nearly half a century. But Barbie isn’t just for little girls anymore. Now grown women are paying big bucks to dress up in Barbie clothes of their very own. Kathleen Hays explains.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "KATHLEEN HAYS, CNN Correspondent: Barbie, more than a doll, more than a plaything, for countless girls over the past 46 years, she’s been a window into a fantasy world of grown-up glamour. Fancy cars, dream houses and who could forget the incredible designer wardrobe? For one high priestess of fashion, Barbie was a Muse that inspired her career.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "ANNA SUI, Fashion Designer: I was like the president of the Barbie fan club on my block. And actually I even wrote to Mattel and asked them “Could I design clothes?” and they said, you know, “Keep in touch.”",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HAYS: So designer Anna Sui did just that. Only Mattel had a different project in mind for her, help bring the Barbie brand back to grown-up women who don’t play with dolls, but do follow fashion.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "RICHARD DICKSON, Senior VP of Mattel: When you look at the adult market, obviously, when they played with dolls, Barbie was their hero. And today they have handbags and shoes and cosmetics and they can still have Barbie-branded items in that genre.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HAYS: Mattel asked a number of hot designers like Anna to create a Barbie-inspired look called Barbie Lux, an exclusive line of high end clothing and accessories. There’s everything from handbags with very obvious Barbie branding to jeans with just a subtle hint of Barbie, pink stitching.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SUI: The pink is Barbie and then the black is kind of Anna Sui.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HAYS: Mattel is hoping a little retro throwback will help jump-start sales. Even though there are two Barbie dolls sold per second worldwide, sales fell 30% in the United States last quarter. Barbie is facing increased competition from other dolls, like the Brats. Mattel says its retro redo is just one of the company’s strategies to reconnect the brand. And it seems to be paying off.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "DICKSON: The collection is doing very, very well.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "SUI : We can’t keep them in stock.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "HAYS: But make no mistake, the Lux line isn’t cheap. Although the prices in this collection are aimed at the “fashionistas”, Mattel is really hoping??if you lure mom back to Barbie, her daughter will come as well. Kathleen Hays, CNN, New York.",
+      "lang": "en"
+    },
+    {
+      "type": "paragraph",
+      "text": "바비 따라잡기",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "말리카 카푸르, CNN 앵커: 바비 인형은 거의 지난 반세기 동안 최신 유행 패션과 상류층 생활의 상징과도 같은 존재였습니다. 하지만 바비 인형은 더 이상 어린 소녀들의 전유물이 아닙니다. 이제는 성인 여성들까지도 그들만의 바비 의상을 차려입는 데 많은 돈을 지출하고 있습니다. 캐슬린 헤이스 기자가 보도합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "캐슬린 헤이스, CNN 기자: 바비는 단순한 인형이나 장난감이 아닙니다. 바비 인형은 지난 46년간 수많은 소녀들에게 매력적인 성인 여성의 환상적인 세계를 들여다볼 수 있는 창이 되어 왔습니다. 고급차에 꿈 같은 집, 특히 패션 디자이너가 만든 멋진 바비 의상을 누군들 잊을 수 있겠습니까? 여기 패션계의 최고 여사제에게 바비는 그녀가 하는 일에 영감을 불어넣어 주는 뮤즈였다고 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "안나 수이, 패션 디자이너: 우리 동네에서 저는 바비 인형 팬클럽 회장같은 존재였습니다. 그리고 실제로 마텔 사에 편지를 써서“제가 바비 옷을 디자인해도 될까요?”하고 물어본 적도 있어요. 마텔 사에서는“그래 연락하렴.”그러더군요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "헤이스: 그래서 패션 디자이너 안나 수이는 정말 그 말대로 했다고 합니다. 하지만 마텔 사는 안나 수이를 위해 다른 프로젝트를 염두에 두고 있었습니다. 바로 더 이상 인형을 가지고 놀지는 않지만 유행을 쫓는 성인 여성들에게 바비 브랜드를 되돌려주는 일입니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "리처드 딕슨, 마텔 사 수석 부사장: 그 성인 시장을 보면요, 그들이 인형을 가지고 놀던 시절에 바비는 분명 그들의 영웅이었습니다. 그들이 핸드백이며 구두, 화장품 같은 것들을 사용하는 나이가 되었고 그런 물건들을 여전히 ‘바비’브랜드 제품으로 구입할 수 있게 된 거죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "헤이스: 마텔 사는 안나 수이를 비롯해 잘 나가는 여러 디자이너들에게 ‘바비 럭스’라고 하는 바비풍 룩을 창출해 줄 것을 요구했는데요, 이는 고가의 의상과 액세서리를 만드는 고급 브랜드입니다. 바비 브랜드임을 아주 명확히 드러내는 핸드백에서부터 분홍색 봉제선 처리로 바비풍의 기분만 살짝 낸 청바지에 이르기까지 없는 게 없습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "수이: 분홍색은 바비, 검정색은 안나 수이의 특색이라고 할 수 있죠.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "헤이스: 마텔 사는 이 작은‘복고풍으로의 회귀’로 판매가 활성화되기를 기대하고 있습니다. 여전히 전 세계적으로 1초당 바비 인형 2개가 팔리고는 있지만, 지난 분기 미국 내 매출이 30%나 감소하였습니다. 또한 브래츠 같은 다른 인형들과의 경쟁도 점점 치열해지고 있습니다. 마텔 사 측은 이번‘복고풍으로의 회귀’아이템이 바비 브랜드를 소비자와 다시 연결시키기 위한 여러 전략중 하나일 뿐이라고 말합니다. 그리고 실제로 성과를 거두고 있는 듯 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "딕슨: 바비 럭스 제품은 아주, 아주 좋은 반응을 얻고 있습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "수이: 없어서 못 팔 정도예요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "헤이스: 그러나 한 가지 분명히 알아두실 점은, 럭스 제품은 결코 싸지 않다는 것입니다. 비록 이 브랜드 제품의 가격대가 패션 멋쟁이들을 겨냥하고 있다고는 하지만, 마텔 사는 바비가 엄마들을 끌어들이면 그 딸들도 같이 따라오기를 간절히 바라고 있습니다. 뉴욕에서CNN, 케슬린 헤이스였습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리가 알고 있는 ‘심볼’과 ‘패션’의 영어식 발음을 들어보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "각각 두 번째 음절이 약화되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "앵커가 영국식 발음을 구사해 [r] 발음을 탈락시키고 앞모음을 길게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "half에서는 [æ] 대신 [a]로 발음해 [하-ㅍ]가 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "영국식으로 more의 [r]발음이 탈락되고 모음 [o]을 [오]로 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "doll은 끝자음 [l]이 탈락되어 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "-ntl-로 자음이 세 번 겹쳐 나와 가운데 자음인 [t]가 탈락되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘안나 수이’의 영어식 발음이다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "우리나라 표기 및 발음과 잘 비교해 보자.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "뒤에 나오는 Mattel도‘마텔’이 아닌 [머텔]로 발음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘장르’로 알고 있는 genre의 영어식 발음은 1음절에 강세를 두어 [잔러]가 되는데, 여기서는 [어]를 [아]에 가깝게 발음하고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "branded는 branden처럼 [브랜든]으로 발음되고, items의 [t]는 강모음과 약모음 사이에서 [d]로 유음화되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "end를 and로 착각할 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "단어가 -nd로 끝나는 경우 끝자음인 [d]가 탈락되기 때문에 두 단어가 혼동될 수 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그러나 두 단어의 첫모음은 다르다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "end는 [e]고 and는 [æ]다. [e]는 우리말의 [에]이고 [æ]는 입술을 양옆으로 일자로 벌인 뒤, [애]라고 발음하면 된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "subtle은 표기상으로는 -btl-로 자음이 세 번 겹쳐 나오지만 발음기호에서는 그렇지 않기 때문에 [서틀]로 발음된다. -nt, -nk는 모두 끝자음이 탈락되어 hint는 [힌], pink는 [핑]으로 발음된다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "if와 you가 연음되고 있다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "lure[루어]를 빠르게 발음해 [러-]로 들린다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "cf. high/ (신분,지위 등이) 높은, 고귀한, 상류의; (가격,급료 등이) 비싼",
+      "lang": "ko"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "symbol of trendy fashion",
+          "text": "[씸블 어(ㅂ) 츄렌디 페슨]."
+        },
+        {
+          "n": "girls",
+          "text": "[거어]."
+        },
+        {
+          "n": "more than a doll",
+          "text": "[모덴어더]."
+        },
+        {
+          "n": "countless girls",
+          "text": "[카운리ㅆ 거-얼ㅈ]."
+        },
+        {
+          "n": "Anna Sui",
+          "text": "[에너 수이]."
+        },
+        {
+          "n": "branded items in that genre",
+          "text": "[브랜든 아이듬 은더 잔라]."
+        },
+        {
+          "n": "high end clothing",
+          "text": "[하이앤클로우딩]."
+        },
+        {
+          "n": "subtle hint of Barbie, pink stitching",
+          "text": "[서틀 힌터브 바ㄹ비 핑ㅋ 스티칭]."
+        },
+        {
+          "n": "if you lure",
+          "text": "[이퓨어 러-]."
+        },
+        {
+          "n": "1) trendy",
+          "text": "((구어)) 최신 유행의, 유행을 따르는"
+        },
+        {
+          "n": "2) high life",
+          "text": "부유층의 삶[생활 양식]"
+        },
+        {
+          "n": "3) buck",
+          "text": "((미속어)) 달러(dollar)"
+        },
+        {
+          "n": "4) dress up in",
+          "text": "…으로 차려입다"
+        },
+        {
+          "n": "5) of one’s own",
+          "text": "자기가 소유하는, 자기 자신의; 그 사람 특유의"
+        },
+        {
+          "n": "6) plaything",
+          "text": "장난감, 노리개"
+        },
+        {
+          "n": "7) window",
+          "text": "창(문); 여기서는 관찰할 기회, 아는 수단 등을 비유적으로 표현"
+        },
+        {
+          "n": "8) grown-up",
+          "text": "성숙한; 성인[어른]이 된"
+        },
+        {
+          "n": "9) glamour (girl)",
+          "text": "성적 매력이 있는 여성"
+        },
+        {
+          "n": "10) wardrobe",
+          "text": "소유하고 있는 의상; 옷장"
+        },
+        {
+          "n": "11) high priestess",
+          "text": "여승, 여성 사제"
+        },
+        {
+          "n": "12) Muse",
+          "text": "뮤즈: 그리스 신화에서 학예,시가,음악,무용을 관장하는 아홉 여신의 하나"
+        },
+        {
+          "n": "13) Anna Sui",
+          "text": "안나 수이: 1955년 디트로이트에서 태어난 중국계 미국인 디자이너로 1991년 첫 컬렉션에서 독특한‘쿡(kook)’스타일을 선보여 주목 받기 시작하면서 의류, 액세서리와 향수에 이르기까지 광범위한 그녀만의 디자인으로 전 세계적으로 사랑받고 있다."
+        },
+        {
+          "n": "14) Mattel",
+          "text": "마텔 사: 미국의 바비 인형과 핫휠 미니카의 제조사"
+        },
+        {
+          "n": "15) keep in touch (with)",
+          "text": "(…와) 계속 접촉[연락]하다"
+        },
+        {
+          "n": "16) only",
+          "text": "((구어)) 다만, 그러나"
+        },
+        {
+          "n": "17) cosmetics",
+          "text": "화장품"
+        },
+        {
+          "n": "18) branded",
+          "text": "상표가 붙은; 브랜드 상품의"
+        },
+        {
+          "n": "19) genre",
+          "text": "종류; 유형, 양식"
+        },
+        {
+          "n": "20) inspired",
+          "text": "영감을 받은, 영감으로 쓰여진"
+        },
+        {
+          "n": "21) exclusive",
+          "text": "(상류 계급 따위) 특정 계급의 사람들을 대상으로 하는, 고급의, 고가의"
+        },
+        {
+          "n": "22) line",
+          "text": "(상품의) 계열, 종류; (옷의) 스타일"
+        },
+        {
+          "n": "23) high end",
+          "text": "((구어)) 최고급의; 고액의"
+        },
+        {
+          "n": "24) subtle",
+          "text": "미묘한, 포착하기 어려운"
+        },
+        {
+          "n": "25) stitching",
+          "text": "바느질; 꿰매기"
+        },
+        {
+          "n": "26) retro",
+          "text": "(패션,음악 등의) 복고풍(의), 리바이벌(의), 재유행(의)"
+        },
+        {
+          "n": "27) throwback",
+          "text": "후퇴, 되돌아감"
+        },
+        {
+          "n": "28) jump-start",
+          "text": "활성화시키다; 재생시키다"
+        },
+        {
+          "n": "29) Brats",
+          "text": "브래츠: 미국 내에서 10대들에게 선풍적인 인기를 모으고 있는 인형 브랜드의 한 종류로, 유행을 이끌어가는 다양한 패션 감각을 가진 인형이다. 브래츠 인형은 미국 내에서 이미 매달 200만 개 이상 팔릴 정도로 큰 인기를 얻고 있다."
+        },
+        {
+          "n": "30) redo",
+          "text": "개정하기; 다시 하기"
+        },
+        {
+          "n": "31) strategy",
+          "text": "전략"
+        },
+        {
+          "n": "32) reconnect",
+          "text": "다시 연결하다"
+        },
+        {
+          "n": "33) pay off",
+          "text": "이익을 가져오다; 성과를 거두다"
+        },
+        {
+          "n": "34) fashionista",
+          "text": "((구어)) 패션에 관심이 많고 최신 스타일을 선호하는 사람; 패션 모델"
+        },
+        {
+          "n": "35) lure",
+          "text": "유혹하다, 불러들이다[내다], 꾀내다"
+        }
+      ]
+    }
+  ],
+  "legacyPath": "CNN/CNN1-60/30.wmv",
+  "legacyEncoding": "binary"
+}

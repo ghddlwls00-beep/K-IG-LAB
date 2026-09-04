@@ -1,0 +1,91 @@
+{
+  "id": "d030-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d030",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 030 회 ]",
+  "menuLabel": "[ D 030-1 ]",
+  "unit": 30,
+  "part": null,
+  "order": 59,
+  "audio": [
+    {
+      "src": "/audio/ld/d030.mp3",
+      "legacySrc": "sounds/d030.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 030 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "친애하는 Wilma. 나는 너에게 약간의 나쁜 소식을 전하기 위하여 편지를 쓰고 있다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 나의 새 직장을 잃었다. Mr.Biggs가 지난 주 자신의 보석 가게에 나를 고용했지만"
+    },
+    {
+      "type": "instruction",
+      "text": "그가 오늘 나를 해고시켰다. 나는 끔찍한 실수를 했다. 한 고객이 오늘 아침 그 가게에 들어왔다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그의 부인에게 선물을 사주기를 원했다. 그는 그녀에게 시계를 주기를 원했다."
+    },
+    {
+      "type": "instruction",
+      "text": "내가 그에게 몇 개의 시계를 보여준 후에 그는 한 오래된 중고품을 사기로 결정했다."
+    },
+    {
+      "type": "instruction",
+      "text": "나는 그 가격표를 읽었는데 495라고 되어있었다. 내가 그 사람에게 그 시계가 4불 95센트라고 말했을 때 그는 그것이 굉장히 싸다고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그 사람이 나에게 그 돈을 주었고 나는 그에게 그 시계를 주었다."
+    },
+    {
+      "type": "instruction",
+      "text": "나중에 Mr.Biggs가 나에게 그의 사무실로 들어오고 나의 영수증들을 가져오라고 말했다."
+    },
+    {
+      "type": "instruction",
+      "text": "그는 그 영수증을 읽었을 때 매우 화가 났다. 내가 그 시계를 $4.95에 팔았기 때문에 화났다."
+    },
+    {
+      "type": "instruction",
+      "text": "그것은 495불의 골동품 금시계였다. 그는 나에게 설명할 기회를 주지 않았다."
+    },
+    {
+      "type": "instruction",
+      "text": "그래서 지금 나는 또다른 직장을 찾고 있다. 나는 너에게 곧 다시 편지를 보내겠다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d030-1.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d107-1",
+  "course": "ld",
+  "series": "d",
+  "variant": "script",
+  "pairId": "d107",
+  "title": "수능영어 듣기 - 제 001 회",
+  "label": "[ 제 107 회 ]",
+  "menuLabel": "[ D 107-1 ]",
+  "unit": 107,
+  "part": null,
+  "order": 213,
+  "audio": [
+    {
+      "src": "/audio/ld/d107.mp3",
+      "legacySrc": "sounds/d107.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ 제 107 회 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "한글 대본을 보면서 말하고 영작해보세요."
+    },
+    {
+      "type": "instruction",
+      "text": "Benjamin Franklin은 아마 그의 시대의 가장 유명한 미국인이었다. 그"
+    },
+    {
+      "type": "instruction",
+      "text": "는 1706년에 보스톤에서 태어났다."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin은 겨우 2년만 학교에 다녔지만 그는 많은 책을 읽었고"
+    },
+    {
+      "type": "instruction",
+      "text": "용케도 여러 언어를 자기 자신에게 가르쳤다."
+    },
+    {
+      "type": "instruction",
+      "text": "소년으로써 그는 인쇄업자였던 그의 형을 위하여 일하러 다녔다."
+    },
+    {
+      "type": "instruction",
+      "text": "Franklin과 그의 형은 많이 다투었다 그래서 17살이었을 때 Franklin은"
+    },
+    {
+      "type": "instruction",
+      "text": "필라델피아로 가서 자시 자신의 인쇄업을 시작했다."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "LD/d107-1.htm",
+  "legacyEncoding": "utf-8"
+}
