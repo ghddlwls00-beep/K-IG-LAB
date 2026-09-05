@@ -9,6 +9,7 @@ import { ReadingLearningView } from "./ReadingLearningView";
 import { GrammarLearningView } from "./GrammarLearningView";
 import { DialogueLearningView } from "./DialogueLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
+import { mediaUrl } from "@/lib/media";
 
 export interface PairedSentence {
   index: number;
@@ -129,7 +130,7 @@ export function LessonBody({
     setActiveSentenceIndex(idx);
 
     if (audioSrc) {
-      const audio = new Audio(audioSrc);
+      const audio = new Audio(mediaUrl(audioSrc));
       audio.onended = () => setActiveSentenceIndex(null);
       audio.onerror = () => {
         speakSentenceTts(text, idx);

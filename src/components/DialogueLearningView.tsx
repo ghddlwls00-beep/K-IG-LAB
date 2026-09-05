@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { speakText, stopSpeech, type VoiceGender } from "@/lib/speech";
+import { mediaUrl } from "@/lib/media";
 import { DictationPanel } from "./DictationPanel";
 
 export interface DialogueItem {
@@ -139,7 +140,7 @@ export function DialogueLearningView({
     course === "adults-m" ||
     course === "middle" ||
     lessonKey.includes("am");
-  const speakerName = isMale ? "Mr. Hong (홍길동)" : "Mrs. Park (박수민)";
+  const speakerName = isMale ? "남성 성우 (Male Voice)" : "여성 성우 (Female Voice)";
   const speakerAvatar = isMale ? "👨" : "👩";
   const effectiveGender: VoiceGender = isMale ? "male" : "female";
   const defaultPitch = isMale ? 0.82 : 1.15;
@@ -353,9 +354,9 @@ export function DialogueLearningView({
     stopSpeech();
     setActiveSpeakingId(id);
 
-    // If audio file exists, try playing it, otherwise TTS
+    // If audio file exists, try playing it, otherwise fallback to speech synthesis
     if (audioSrc) {
-      const audio = new Audio(audioSrc);
+      const audio = new Audio(mediaUrl(audioSrc));
       audio.playbackRate = audioSpeed;
       audio.onended = () => {
         setActiveSpeakingId(null);
@@ -491,7 +492,7 @@ export function DialogueLearningView({
                       : "bg-rose-500/15 text-rose-700 border border-rose-500/30")
                   }
                 >
-                  {isMale ? "👨 남성 원어민 음성" : "👩 여성 원어민 음성"}
+                  {isMale ? "🎙️ 원본 오디오 재생 (남성 성우 트랙)" : "🎙️ 원본 오디오 재생 (여성 성우 트랙)"}
                 </span>
               </div>
               <p className="text-[12px] text-ink-soft mt-0.5">
