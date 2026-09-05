@@ -6,6 +6,7 @@ import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
 import { LdLearningView } from "./LdLearningView";
 import { ReadingLearningView } from "./ReadingLearningView";
+import { GrammarLearningView } from "./GrammarLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
 
 export interface PairedSentence {
@@ -67,6 +68,20 @@ export function LessonBody({
       <ReadingLearningView
         blocks={blocks}
         pairBlocks={pairBlocks}
+        lessonKey={lessonKey}
+        isScript={isScript}
+        audioTracks={audioTracks}
+      />
+    );
+  }
+
+  // Dedicated grammar & composition learning system for Grammar 1 & 2 courses
+  if (course === "grammar1" || course === "grammar2") {
+    return (
+      <GrammarLearningView
+        blocks={blocks}
+        pairBlocks={pairBlocks}
+        course={course}
         lessonKey={lessonKey}
         isScript={isScript}
         audioTracks={audioTracks}
@@ -677,7 +692,14 @@ function buildPairedSentences(
   }
 
   // -------------------------------------------------------------------------
-  // 6. Sentence blocks (grammar1, grammar2, basics, middle, adults)
+  // 5.5 Grammar 1 & 2 - handled by dedicated GrammarLearningView
+  // -------------------------------------------------------------------------
+  if (course === "grammar1" || course === "grammar2") {
+    return result;
+  }
+
+  // -------------------------------------------------------------------------
+  // 6. Sentence blocks (basics, middle, adults)
   // Flatten ALL sentences blocks to prevent dropping items 14-25+
   // -------------------------------------------------------------------------
   const mainItems = blocks
