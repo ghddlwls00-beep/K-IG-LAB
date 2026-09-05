@@ -139,46 +139,69 @@ export function evaluatePronunciation(spoken: string, target: string): Evaluatio
   const spokenWords = normSpoken.split(/\s+/).filter(Boolean);
   const originalTargetWords = target.split(/\s+/).filter(Boolean);
 
-  const spokenSet = new Set(spokenWords);
+  // 1. Strict Sequential Alignment (어순 및 단어 일치도 정밀 추적)
+  let spokenPtr = 0;
   let matchedCount = 0;
+  let partialCount = 0;
+  const wordAnalysis: WordAnalysis[] = [];
 
-  const wordAnalysis: WordAnalysis[] = originalTargetWords.map((origWord, idx) => {
-    const cleanWord = targetWords[idx] || origWord.toLowerCase().replace(/[.,?!;:"'()]/g, "");
-    const matched = spokenSet.has(cleanWord) || spokenWords.some((sw) => {
-      const dist = levenshteinDistance(cleanWord, sw);
-      return dist <= Math.floor(cleanWord.length * 0.3);
-    });
-    if (matched) matchedCount++;
-    return {
-      word: origWord,
-      matched,
-    };
-  });
+  for (let i = 0; i < targetWords.length; i++) {
+    const tw = targetWords[i];
+    const orig = originalTargetWords[i] || tw;
+    let matched = false;
 
-  const wordMatchRatio = targetWords.length > 0 ? matchedCount / targetWords.length : 0;
-  const maxLen = Math.max(normTarget.length, normSpoken.length) || 1;
-  const charDist = levenshteinDistance(normTarget, normSpoken);
-  const charSimilarity = Math.max(0, 1 - charDist / maxLen);
+    // Search ahead up to 2 words in spoken for local sequential matching
+    const searchWindow = Math.min(spokenWords.length, spokenPtr + 2);
+    for (let j = spokenPtr; j < searchWindow; j++) {
+      const sw = spokenWords[j];
+      if (sw === tw) {
+        matched = true;
+        matchedCount++;
+        spokenPtr = j + 1;
+        break;
+      }
+      // Allow minor phonetic slip only for long words (length >= 5 and edit distance === 1)
+      if (tw.length >= 5 && levenshteinDistance(tw, sw) === 1) {
+        matched = true;
+        partialCount += 0.7;
+        spokenPtr = j + 1;
+        break;
+      }
+    }
 
-  const rawScore = wordMatchRatio * 75 + charSimilarity * 25;
+    wordAnalysis.push({ word: orig, matched });
+  }
+
+  // 2. Strict Composite Scoring (엄격한 점수 산출)
+  // - 65% 정확한 어순 및 단어 일치도
+  // - 20% 전체 문장 문자열 정밀도 (Character Similarity)
+  // - 15% 문장 길이 일관성 (단어 누락 및 군더더기 발화 감점)
+  const effectiveMatches = matchedCount + partialCount;
+  const wordAccuracy = targetWords.length > 0 ? effectiveMatches / targetWords.length : 0;
+  const lenRatio = Math.min(spokenWords.length, targetWords.length) / Math.max(spokenWords.length, targetWords.length);
+  const maxCharLen = Math.max(normTarget.length, normSpoken.length) || 1;
+  const charSim = Math.max(0, 1 - levenshteinDistance(normTarget, normSpoken) / maxCharLen);
+
+  const rawScore = (wordAccuracy * 65) + (charSim * 20) + (lenRatio * 15);
   const score = Math.min(100, Math.max(0, Math.round(rawScore)));
 
+  // 3. Rigorous Grade Calibration (현실적이고 공정한 등급 판정)
   let rating: EvaluationResult["rating"] = "poor";
-  let ratingLabel = "다시 시도";
-  let feedback = "문장을 조금 더 크고 또렷한 원어민 억양으로 읽어보세요.";
+  let ratingLabel = "다시 시도 (Try Again)";
+  let feedback = "문장을 처음부터 끝까지 조금 더 또렷하게 소리내어 읽어보세요.";
 
-  if (score >= 90) {
+  if (score >= 92) {
     rating = "excellent";
     ratingLabel = "🌟 완벽한 발음 (Excellent!)";
-    feedback = "원어민 수준의 정확한 발음과 억양입니다!";
-  } else if (score >= 75) {
+    feedback = "어순과 발음, 억양이 원어민 수준으로 완벽합니다!";
+  } else if (score >= 80) {
     rating = "good";
     ratingLabel = "👍 우수한 발음 (Good!)";
-    feedback = "의사소통에 충분한 훌륭한 발음입니다. 약간의 연음만 보완해보세요.";
-  } else if (score >= 50) {
+    feedback = "의사소통에 충분한 훌륭한 발음입니다. 약간의 연음과 억양만 다듬어보세요.";
+  } else if (score >= 60) {
     rating = "almost";
     ratingLabel = "💪 거의 맞았어요 (Almost!)";
-    feedback = "빨간색으로 표시된 단어의 발음에 주의해서 다시 말해보세요.";
+    feedback = "빨간색으로 표시된 단어를 빠뜨렸거나 발음이 다릅니다. 확인 후 다시 말해보세요.";
   }
 
   return {
