@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   },
   description:
     "English listening and speaking courseware — listening drills, sentence practice, phonics, and composition exercises.",
+  other: {
+    google: "notranslate",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -20,8 +23,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const courseTabs = getCourseTabMap();
 
   return (
-    <html lang="en">
-      <body className="min-h-screen bg-surface text-ink antialiased">
+    <html lang="ko" translate="no" className="notranslate">
+      <head>
+        <meta name="google" content="notranslate" />
+        <meta name="robots" content="notranslate" />
+      </head>
+      <body className="notranslate min-h-screen bg-surface text-ink antialiased" translate="no">
         <LanguageProvider>
           <TabBar tabs={tabs} courseTabs={courseTabs} />
           {children}
