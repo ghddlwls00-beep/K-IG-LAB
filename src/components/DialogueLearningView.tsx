@@ -3,8 +3,9 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
-import { speakText, stopSpeech, type VoiceGender } from "@/lib/speech";
+import { type VoiceGender } from "@/lib/speech";
 import { mediaUrl } from "@/lib/media";
+import { AudioPlayer } from "./AudioPlayer";
 
 export interface DialogueItem {
   id: number;
@@ -143,8 +144,7 @@ export function DialogueLearningView({
     lessonKey.includes("am");
   const speakerName = isMale ? "남성 성우 (Male Voice)" : "여성 성우 (Female Voice)";
   const speakerAvatar = isMale ? "👨" : "👩";
-  const effectiveGender: VoiceGender = isMale ? "male" : "female";
-  const defaultPitch = isMale ? 0.82 : 1.15;
+  const currentAudioRef = useRef<HTMLAudioElement | null>(null);
 
   // Extract Dialogue Sentences
   const items = useMemo<DialogueItem[]>(() => {
@@ -160,7 +160,7 @@ export function DialogueLearningView({
         const en = cleanText(s.text);
         const ko = menTranslations?.[normAlphanumeric(en)] || "";
         const { parts, keyPhrase } = buildConversationCloze(en);
-        const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
+        const clipTrack = audioTracks[idx + 1] || audioTracks[idx] || audioTracks[0];
         return {
           id: idx + 1,
           numberLabel: s.n || String(idx + 1),
@@ -241,7 +241,7 @@ export function DialogueLearningView({
             ko = menTranslations[normAlphanumeric(pair.en)] || "";
           }
           const { parts, keyPhrase } = buildConversationCloze(pair.en);
-          const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
+          const clipTrack = audioTracks[idx + 1] || audioTracks[idx] || audioTracks[0];
           return {
             id: idx + 1,
             numberLabel: String(idx + 1),
@@ -271,7 +271,7 @@ export function DialogueLearningView({
           ko = menTranslations[normAlphanumeric(en)] || "";
         }
         const { parts, keyPhrase } = buildConversationCloze(en || t);
-        const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
+        const clipTrack = audioTracks[idx + 1] || audioTracks[idx] || audioTracks[0];
         return {
           id: idx + 1,
           numberLabel: String(idx + 1),
@@ -356,64 +356,47 @@ export function DialogueLearningView({
     return () => clearTimeout(timer);
   }, [shadowingSteps, speakingInputs, revealedAnswers, clozeInputs, fluencyGrades, storageKey, restored]);
 
-  // Clean speech when unmounting
+  // Clean audio playback when unmounting
   useEffect(() => {
     return () => {
-      stopSpeech();
+      if (currentAudioRef.current) {
+        currentAudioRef.current.pause();
+        currentAudioRef.current = null;
+      }
     };
   }, []);
 
-  // Audio Playback
+  // Audio Playback - 100% Genuine Studio Audio (No AI TTS)
   function playAudioSnippet(text: string, id: number, audioSrc?: string, onComplete?: () => void) {
-    if (!text) return;
-    stopSpeech();
-    setActiveSpeakingId(id);
-
-    // If audio file exists, try playing it, otherwise fallback to speech synthesis
-    if (audioSrc) {
-      const audio = new Audio(mediaUrl(audioSrc));
-      audio.playbackRate = audioSpeed;
-      audio.onended = () => {
-        setActiveSpeakingId(null);
-        onComplete?.();
-      };
-      audio.onerror = () => {
-        playWithTts(text, id, onComplete);
-      };
-      audio.play().catch(() => {
-        playWithTts(text, id, onComplete);
-      });
-    } else {
-      playWithTts(text, id, onComplete);
+    if (currentAudioRef.current) {
+      currentAudioRef.current.pause();
+      currentAudioRef.current = null;
     }
-  }
 
-  function playWithTts(text: string, id: number, onComplete?: () => void) {
-    speakText(text, {
-      lang: "en",
-      gender: effectiveGender,
-      rate: audioSpeed,
-      pitch: defaultPitch,
-      onStart: () => setActiveSpeakingId(id),
-      onEnd: () => {
-        setActiveSpeakingId(null);
-        onComplete?.();
-      },
-      onError: () => {
-        setActiveSpeakingId(null);
-        onComplete?.();
-      },
-    });
-  }
+    const targetSrc = audioSrc || audioTracks[0]?.src;
+    if (!targetSrc) {
+      onComplete?.();
+      return;
+    }
 
-  function playKoreanSnippet(text: string) {
-    if (!text) return;
-    stopSpeech();
-    speakText(text, {
-      lang: "ko",
-      gender: effectiveGender,
-      rate: 0.95,
-      pitch: defaultPitch,
+    setActiveSpeakingId(id);
+    const audio = new Audio(mediaUrl(targetSrc));
+    currentAudioRef.current = audio;
+    audio.playbackRate = audioSpeed;
+    audio.onended = () => {
+      setActiveSpeakingId(null);
+      currentAudioRef.current = null;
+      onComplete?.();
+    };
+    audio.onerror = () => {
+      setActiveSpeakingId(null);
+      currentAudioRef.current = null;
+      onComplete?.();
+    };
+    audio.play().catch(() => {
+      setActiveSpeakingId(null);
+      currentAudioRef.current = null;
+      onComplete?.();
     });
   }
 
@@ -437,7 +420,10 @@ export function DialogueLearningView({
   }
 
   function stopContinuousPlay() {
-    stopSpeech();
+    if (currentAudioRef.current) {
+      currentAudioRef.current.pause();
+      currentAudioRef.current = null;
+    }
     setContinuousPlaying(false);
     setActiveSpeakingId(null);
   }
@@ -659,7 +645,16 @@ export function DialogueLearningView({
 
   return (
     <div className="flex flex-col gap-8">
-      {/* 1. Header Toolbar & Profile Card */}
+      {/* 1. Original Studio Recording Master Audio Player */}
+      {audioTracks.length > 0 && audioTracks[0]?.src && (
+        <AudioPlayer
+          src={audioTracks[0].src}
+          label={`${isMale ? "MEN" : "WOMEN"} 원본 오디오 전체 듣기 (Full Studio Recording)`}
+          autoplay={false}
+        />
+      )}
+
+      {/* 2. Header Toolbar & Profile Card */}
       <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface/90 p-4 shadow-xs">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line/60 pb-3">
           <div className="flex items-center gap-2.5">
@@ -886,16 +881,6 @@ export function DialogueLearningView({
                     </div>
 
                     <div className="flex items-center gap-1.5">
-                      {item.koreanText && (
-                        <button
-                          type="button"
-                          onClick={() => playKoreanSnippet(item.koreanText)}
-                          className="rounded-md border border-line px-2 py-1 text-[11.5px] text-ink-soft hover:bg-raised transition-colors cursor-pointer"
-                          title="우리말 음성 듣기"
-                        >
-                          🔊 우리말
-                        </button>
-                      )}
                       <button
                         type="button"
                         onClick={() => playAudioSnippet(item.englishText, item.id, item.audioSrc)}
@@ -907,7 +892,7 @@ export function DialogueLearningView({
                         }
                       >
                         <span>🔊</span>
-                        <span>{isMale ? "남성 원어민 발음" : "여성 원어민 발음"}</span>
+                        <span>{isMale ? "남성 성우 원본 음성" : "여성 성우 원본 음성"}</span>
                       </button>
                     </div>
                   </div>

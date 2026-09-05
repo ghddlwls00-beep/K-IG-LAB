@@ -3,30 +3,16 @@
 import { useEffect, useRef, useState } from "react";
 import { useLanguage } from "./LanguageProvider";
 import { mediaUrl } from "@/lib/media";
-import { playSentenceQueue, stopSpeech, isSpeaking, type VoiceGender } from "@/lib/speech";
 
-/**
- * Intelligent Audio Player with native Web Speech API (TTS) Fallback.
- *
- * If the server or local MP3 file exists, it plays the original recording with
- * seek, speed, and replay controls. If the media file is missing, it smoothly
- * falls back to speech synthesis reading the lesson sentences aloud, ensuring
- * that the educational learning experience never breaks.
- *
- * Supports gender-specific voice playback (Male for MEN, Female for WOMEN).
- */
 export function AudioPlayer({
   src,
-  fallbackSentences = [],
-  lang = "en",
-  gender = "neutral",
   autoplay = false,
   label,
 }: {
   src?: string;
   fallbackSentences?: string[];
-  lang?: "en" | "ko" | "zh" | string;
-  gender?: VoiceGender;
+  lang?: string;
+  gender?: string;
   autoplay?: boolean;
   label?: string;
 }) {
@@ -38,51 +24,13 @@ export function AudioPlayer({
   const [rate, setRate] = useState(1);
   const [missing, setMissing] = useState(false);
 
-  // TTS fallback state
-  const [ttsActive, setTtsActive] = useState(false);
-  const [ttsCurrentIndex, setTtsCurrentIndex] = useState(0);
-
   useEffect(() => {
     const el = ref.current;
     if (el) el.playbackRate = rate;
   }, [rate]);
 
-  // Clean up speech synthesis when component unmounts
-  useEffect(() => {
-    return () => {
-      stopSpeech();
-    };
-  }, []);
-
   function toggle() {
-    if (missing || !src) {
-      // Toggle TTS mode
-      if (ttsActive) {
-        stopSpeech();
-        setTtsActive(false);
-        setPlaying(false);
-      } else {
-        if (fallbackSentences.length === 0) return;
-        setTtsActive(true);
-        setPlaying(true);
-        playSentenceQueue(fallbackSentences, {
-          lang,
-          gender,
-          rate,
-          startIndex: ttsCurrentIndex,
-          onProgress: (idx) => {
-            setTtsCurrentIndex(idx);
-          },
-          onEnd: () => {
-            setTtsActive(false);
-            setPlaying(false);
-            setTtsCurrentIndex(0);
-          },
-        });
-      }
-      return;
-    }
-
+    if (missing || !src) return;
     const el = ref.current;
     if (!el) return;
     if (el.paused) {
@@ -93,27 +41,7 @@ export function AudioPlayer({
   }
 
   function seek(seconds: number) {
-    if (missing || !src) {
-      // Move previous/next sentence in TTS
-      const nextIdx = Math.max(0, Math.min(fallbackSentences.length - 1, ttsCurrentIndex + (seconds > 0 ? 1 : -1)));
-      setTtsCurrentIndex(nextIdx);
-      if (ttsActive) {
-        playSentenceQueue(fallbackSentences, {
-          lang,
-          gender,
-          rate,
-          startIndex: nextIdx,
-          onProgress: (idx) => setTtsCurrentIndex(idx),
-          onEnd: () => {
-            setTtsActive(false);
-            setPlaying(false);
-            setTtsCurrentIndex(0);
-          },
-        });
-      }
-      return;
-    }
-
+    if (missing || !src) return;
     const el = ref.current;
     if (!el) return;
     el.currentTime = Math.min(Math.max(0, el.currentTime + seconds), el.duration || 0);
@@ -127,10 +55,8 @@ export function AudioPlayer({
     setTime(el.currentTime);
   }
 
-  const isTtsMode = (missing || !src) && fallbackSentences.length > 0;
-
   return (
-    <div className="border border-line bg-surface p-4 transition-colors duration-200 ease-out hover:border-line-strong rounded-sm shadow-xs">
+    <div className="border border-line bg-surface p-4 transition-colors duration-200 ease-out hover:border-line-strong rounded-xl shadow-xs">
       {src && !missing ? (
         <audio
           ref={ref}
@@ -154,20 +80,20 @@ export function AudioPlayer({
           <span />
         )}
 
-        {isTtsMode ? (
+        {missing && (
           <span className="inline-flex items-center gap-1.5 rounded-full bg-raised px-2.5 py-0.5 font-mono text-[10.5px] text-ink-soft border border-line">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            {t("player.ttsMode")} · {gender === "male" ? "남성 보이스" : gender === "female" ? "여성 보이스" : "음성"} ({fallbackSentences.length}문장)
+            ⚠️ 오디오 파일 연결 대기 중
           </span>
-        ) : null}
+        )}
       </div>
 
       <div className="flex items-center gap-3">
         <button
           type="button"
           onClick={toggle}
+          disabled={missing || !src}
           aria-label={playing ? t("player.pause") : t("player.play")}
-          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-ink text-surface hover:scale-105 active:scale-95 transition-all shadow-xs"
+          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-ink text-surface hover:scale-105 active:scale-95 disabled:opacity-40 disabled:hover:scale-100 transition-all shadow-xs cursor-pointer"
         >
           {playing ? (
             <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
@@ -181,27 +107,7 @@ export function AudioPlayer({
           )}
         </button>
 
-        <button
-          type="button"
-          onClick={() => seek(-5)}
-          aria-label={t("player.back5")}
-          className="px-2 py-1 font-mono text-[11px] text-ink-soft hover:bg-raised hover:text-ink rounded"
-        >
-          {isTtsMode ? "이전 문장" : "−5s"}
-        </button>
-
-        {isTtsMode ? (
-          <div className="flex-1 px-2">
-            <div className="h-1.5 w-full overflow-hidden rounded-full bg-line">
-              <div
-                className="h-full bg-ink transition-all duration-300"
-                style={{
-                  width: `${fallbackSentences.length > 0 ? ((ttsCurrentIndex + 1) / fallbackSentences.length) * 100 : 0}%`,
-                }}
-              />
-            </div>
-          </div>
-        ) : (
+        <div className="flex flex-1 flex-col gap-1">
           <input
             type="range"
             min={0}
@@ -209,45 +115,46 @@ export function AudioPlayer({
             step={0.1}
             value={time}
             onChange={scrub}
+            disabled={missing || !src}
             aria-label={t("player.seek")}
-            className="h-1 flex-1 cursor-pointer appearance-none bg-line accent-[var(--ink)] hover:h-1.5 transition-all rounded-full"
+            className="accent-primary h-1.5 w-full cursor-pointer rounded-lg bg-raised"
           />
-        )}
-
-        <span className="w-24 shrink-0 text-right font-mono text-[11px] tabular-nums text-ink-faint">
-          {isTtsMode
-            ? `${ttsCurrentIndex + 1} / ${fallbackSentences.length}`
-            : `${fmt(time)} / ${fmt(duration)}`}
-        </span>
+          <div className="flex justify-between font-mono text-[11px] text-ink-faint">
+            <span>{fmt(time)}</span>
+            <span>{fmt(duration)}</span>
+          </div>
+        </div>
       </div>
 
-      <div className="mt-2.5 flex items-center justify-between border-t border-line/50 pt-2 text-[11px]">
-        <div className="flex items-center gap-1.5">
-          <span className="font-mono text-[10px] tracking-wide text-ink-faint uppercase">{t("player.speed")}</span>
-          {[0.75, 1, 1.25].map((r) => (
+      <div className="mt-3 flex items-center justify-between border-t border-line/60 pt-2.5">
+        <div className="flex items-center gap-1">
+          <button
+            type="button"
+            onClick={() => seek(-5)}
+            disabled={missing || !src}
+            className="rounded px-2 py-0.5 text-[11px] text-ink-soft hover:bg-raised transition-colors cursor-pointer"
+          >
+            -5s
+          </button>
+          <button
+            type="button"
+            onClick={() => seek(5)}
+            disabled={missing || !src}
+            className="rounded px-2 py-0.5 text-[11px] text-ink-soft hover:bg-raised transition-colors cursor-pointer"
+          >
+            +5s
+          </button>
+        </div>
+
+        <div className="flex items-center gap-1">
+          {[0.8, 1, 1.2].map((r) => (
             <button
               key={r}
               type="button"
-              onClick={() => {
-                setRate(r);
-                if (isTtsMode && ttsActive) {
-                  playSentenceQueue(fallbackSentences, {
-                    lang,
-                    gender,
-                    rate: r,
-                    startIndex: ttsCurrentIndex,
-                    onProgress: (idx) => setTtsCurrentIndex(idx),
-                    onEnd: () => {
-                      setTtsActive(false);
-                      setPlaying(false);
-                      setTtsCurrentIndex(0);
-                    },
-                  });
-                }
-              }}
+              onClick={() => setRate(r)}
               aria-pressed={rate === r}
               className={
-                "rounded px-2 py-0.5 font-mono text-[11px] transition-colors " +
+                "rounded px-2 py-0.5 font-mono text-[11px] transition-colors cursor-pointer " +
                 (rate === r
                   ? "bg-ink text-surface font-medium"
                   : "text-ink-soft hover:bg-raised hover:text-ink")
@@ -257,12 +164,6 @@ export function AudioPlayer({
             </button>
           ))}
         </div>
-
-        {isTtsMode ? (
-          <span className="text-[11px] text-ink-soft">
-            {ttsActive ? "🔊 음성 읽는 중…" : "▶ 재생 버튼을 눌러 전체 듣기"}
-          </span>
-        ) : null}
       </div>
     </div>
   );
