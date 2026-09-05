@@ -123,10 +123,12 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
             </span>
             <div>
               <h2 className="text-[16px] font-bold text-ink">
-                파닉스 & 핵심 어휘 리듬 매트릭스 (Phonics Matrix)
+                {lessonKey.startsWith("hv")
+                  ? "고등 심화 어휘 매트릭스 & 발음 클리닉 (VOCA Matrix)"
+                  : "중등 필수 어휘 매트릭스 & 발음 클리닉 (VOCA Matrix)"}
               </h2>
               <span className="text-[12px] font-medium text-ink-soft">
-                원어민 표준 발음 즉시 청취 · 행별 연속 재생 · 전체 리듬 스트리밍
+                원어민 표준 발음 청취 · 내 발음 실시간 마이크 채점 · 행별/전체 단어 연속 스트리밍
               </span>
             </div>
           </div>

@@ -105,12 +105,12 @@ export const COURSES: Omit<Course, "lessonCount">[] = [
     title: "VOCA",
     titleEn: "Vocabulary & Pronunciation",
     kind: "audio-drill",
-    description: "Pronunciation and vowel drills across four graded series.",
+    description: "중등 필수 어휘 및 고등 심화 어휘 매트릭스 & 발음 훈련.",
     series: [
-      { slug: "hv", title: "기본 발음", prefix: "hv-" },
-      { slug: "mv1", title: "모음 1", prefix: "mv1-" },
-      { slug: "mv2", title: "모음 2", prefix: "mv2-" },
-      { slug: "mv3", title: "모음 3", prefix: "mv3-" },
+      { slug: "mv1", title: "중등 단어 1 (MV1)", prefix: "mv1-" },
+      { slug: "mv2", title: "중등 단어 2 (MV2)", prefix: "mv2-" },
+      { slug: "mv3", title: "중등 단어 3 (MV3)", prefix: "mv3-" },
+      { slug: "hv", title: "고등 단어 (HV)", prefix: "hv-" },
     ],
   },
   {

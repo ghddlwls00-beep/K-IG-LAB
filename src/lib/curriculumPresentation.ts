@@ -78,12 +78,14 @@ export function formatGroupTitle(courseSlug: string, rawLabel: string): string {
 
   if (courseSlug === "phonics") {
     const map: Record<string, string> = {
-      "중등01": "기본 발음 훈련 (HV Series)",
-      "중등02": "모음 1 발음 훈련 (MV1 Series)",
-      "중등03": "모음 2 발음 훈련 (MV2 Series)",
-      "중등04": "모음 3 발음 훈련 (MV3 Series)",
+      "중등01": "중등 단어 1단계 (MV1 Series)",
+      "중등02": "중등 단어 2단계 (MV2 Series)",
+      "중등03": "중등 단어 3단계 (MV3 Series)",
+      "중등04": "중등 단어 4단계 (MV4 Series)",
+      "고등 단어": "고등 심화 단어 (HV Series)",
+      "기타 · Other": "단어 기초 및 롤플레잉",
     };
-    return map[clean] || clean;
+    return map[clean] || (clean.includes("고등") ? "고등 심화 단어 (HV Series)" : clean);
   }
 
   return clean;
@@ -170,30 +172,30 @@ export function formatLessonPresentation(
     };
   }
 
-  // 5. Phonics (VOCA)
+  // 5. VOCA (중등단어 MV & 고등단어 HV)
   if (courseSlug === "phonics") {
     if (id.startsWith("hv")) {
       const num = id.replace("hv-", "").replace("hv", "");
       return {
-        title: `기본 발음 훈련 ${num}회`,
-        subtitle: "Basic Consonant & Vowel Drill",
-        badge: "🔊 원어민 발음",
+        title: `고등 단어 · ${num}회`,
+        subtitle: "High School Advanced Vocabulary",
+        badge: "🎙️ 발음 채점",
         code: `HV-${num}`,
       };
     }
     const m = id.match(/^mv(\d+)-(\d+)/);
     if (m) {
       return {
-        title: `모음 ${m[1]} 훈련 ${m[2]}회`,
-        subtitle: `Vowel Practice Series ${m[1]}`,
-        badge: "🔊 원어민 발음",
+        title: `중등 단어 ${m[1]}단계 · ${m[2]}회`,
+        subtitle: `Middle School Vocabulary Series ${m[1]}`,
+        badge: "🎙️ 발음 채점",
         code: `MV${m[1]}-${m[2]}`,
       };
     }
     return {
-      title: `발음 훈련 · ${rawLabel || id}`,
-      subtitle: "Phonics & Pronunciation",
-      badge: "🔊 원어민 발음",
+      title: `단어 훈련 · ${rawLabel || id}`,
+      subtitle: "Vocabulary & Pronunciation",
+      badge: "🎙️ 발음 채점",
       code: id,
     };
   }
