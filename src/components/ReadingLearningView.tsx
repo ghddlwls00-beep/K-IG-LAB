@@ -500,30 +500,6 @@ export function ReadingLearningView({
       </section>
 
 
-      {/* 7. Bottom Navigation CTA Banner */}
-      <div className="rounded-xl border border-line bg-raised/40 p-5 shadow-2xs flex flex-wrap items-center justify-between gap-4">
-        <div>
-          <h3 className="text-[14.5px] font-semibold text-ink">
-            {isScript
-              ? "한글 해설 확인을 마치셨나요? 실전 영어 원문 지문으로 돌아가 통독해 보세요."
-              : "영어 지문 독해를 완료하셨나요? 한글 완역본과 비교하며 복습해 보세요."}
-          </h3>
-          <p className="mt-0.5 text-[12.5px] text-ink-soft">
-            {isScript
-              ? "영어 원문 지문에서 오디오를 들으며 실전 독해 속도를 훈련할 수 있습니다."
-              : "1:1 구문 대조를 통해 문장 구조와 번역 포인트를 완벽히 마스터하세요."}
-          </p>
-        </div>
-
-        {pairBlocks ? (
-          <Link
-            href={`/reading/${(isScript ? lessonKey.replace("-1", "") : `${lessonKey}-1`).split("/")[1] || ""}`}
-            className="inline-flex items-center gap-2 rounded-lg bg-ink px-4 py-2 text-[13px] font-medium text-surface transition-transform hover:scale-[1.02] active:scale-95 shadow-xs shrink-0"
-          >
-            <span>{isScript ? "← 영어 원문 지문으로 가기" : "한글 완역본 & 복습 페이지로 이동 →"}</span>
-          </Link>
-        ) : null}
-      </div>
     </div>
   );
 }
