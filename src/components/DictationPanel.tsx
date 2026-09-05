@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useLanguage } from "./LanguageProvider";
+import { speakText } from "@/lib/speech";
 
 /**
  * Enhanced Dictation and Answer Verification Panel.
@@ -85,34 +86,7 @@ export function DictationPanel({
         ) : null}
       </div>
 
-      {options && options.length > 0 ? (
-        <fieldset className="mb-6">
-          <legend className="mb-3 text-[13.5px] font-medium text-ink-soft">
-            {t("answer.chooseOne")}
-          </legend>
-          <div className="flex flex-wrap gap-2">
-            {options.map((opt, i) => {
-              const selected = choice === opt;
-              return (
-                <button
-                  key={opt}
-                  type="button"
-                  onClick={() => setChoice(selected ? null : opt)}
-                  aria-pressed={selected}
-                  className={
-                    "flex h-10 w-10 items-center justify-center rounded-full border text-[13px] font-medium transition-all hover:scale-105 active:scale-95 " +
-                    (selected
-                      ? "border-ink bg-ink text-surface shadow-xs"
-                      : "border-line text-ink-soft hover:border-line-strong hover:text-ink")
-                  }
-                >
-                  {"①②③④⑤⑥⑦⑧⑨⑩"[i] ?? i + 1}
-                </button>
-              );
-            })}
-          </div>
-        </fieldset>
-      ) : null}
+
 
       {rows ? (
         <div className="mb-4">
@@ -178,13 +152,23 @@ export function DictationPanel({
           <div className="flex flex-col gap-2.5 max-h-80 overflow-y-auto pr-1">
             {referenceSentences.map((ref, idx) => (
               <div key={idx} className="border border-line bg-raised/40 p-2.5 rounded text-[13px] leading-relaxed">
-                <div className="flex gap-2 items-start">
-                  <span className="shrink-0 font-mono text-[10.5px] text-ink-faint pt-0.5">
-                    #{idx + 1}
-                  </span>
-                  <p className="text-ink select-text font-mono text-[13px]">
-                    {ref}
-                  </p>
+                <div className="flex items-start justify-between gap-2">
+                  <div className="flex gap-2 items-start">
+                    <span className="shrink-0 font-mono text-[10.5px] text-ink-faint pt-0.5">
+                      #{idx + 1}
+                    </span>
+                    <p className="text-ink select-text font-mono text-[13px]">
+                      {ref}
+                    </p>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => speakText(ref, { lang: "en" })}
+                    title="원어민 발음 듣기"
+                    className="shrink-0 rounded p-1 text-ink-faint hover:bg-surface hover:text-ink transition-colors cursor-pointer text-[12px]"
+                  >
+                    🔊
+                  </button>
                 </div>
               </div>
             ))}

@@ -147,3 +147,12 @@ export function getCourseGroups(slug: string): LessonGroup[] {
   );
   return index?.groups ?? [];
 }
+
+/** Pre-computed authentic English scripts for Listen & Dictate lessons. */
+export function getLdEnglishScript(id: string): { n: string; ko: string; en: string }[] | null {
+  const baseId = id.replace(/-1$/, "");
+  const dict = readJson<Record<string, { n: string; ko: string; en: string }[]>>(
+    path.join(CONTENT_DIR, "ld_english_scripts.json"),
+  );
+  return dict ? dict[baseId] ?? null : null;
+}
