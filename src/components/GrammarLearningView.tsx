@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { speakText, stopSpeech } from "@/lib/speech";
+import { VoiceSpeakingTester } from "./VoiceSpeakingTester";
 
 export interface GrammarItem {
   id: number;
@@ -710,7 +711,7 @@ export function GrammarLearningView({
                   </div>
 
                   {/* Student Input Field */}
-                  <div className="flex flex-col gap-1.5">
+                  <div className="flex flex-col gap-2">
                     <div className="relative flex items-center">
                       <input
                         type="text"
@@ -729,6 +730,19 @@ export function GrammarLearningView({
                           ✕
                         </button>
                       )}
+                    </div>
+
+                    <div className="flex items-center justify-between">
+                      <VoiceSpeakingTester
+                        targetText={item.englishText}
+                        buttonLabel="🎙️ 마이크로 말해서 영작하기"
+                        onSuccess={(transcript, score) => {
+                          handleAnswerChange(item.id, transcript);
+                          if (score >= 80) {
+                            toggleSelfGrade(item.id, true);
+                          }
+                        }}
+                      />
                     </div>
                   </div>
 
@@ -1008,6 +1022,24 @@ export function GrammarLearningView({
                   <p className="text-[14px] text-ink-soft border-t border-line/40 pt-2 font-normal">
                     {item.koreanText}
                   </p>
+
+                  <div
+                    onClick={(e) => e.stopPropagation()}
+                    className="pt-2 border-t border-line/40 mt-1"
+                  >
+                    <VoiceSpeakingTester
+                      targetText={item.englishText}
+                      buttonLabel="🎙️ 내 발음 채점 및 섀도잉 검증"
+                      onSuccess={(transcript, score) => {
+                        if (score >= 70) {
+                          setShadowingRepeats((prev) => ({
+                            ...prev,
+                            [item.id]: (prev[item.id] || 0) + 1,
+                          }));
+                        }
+                      }}
+                    />
+                  </div>
                 </div>
               );
             })}
