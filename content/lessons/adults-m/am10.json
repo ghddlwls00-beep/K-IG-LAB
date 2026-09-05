@@ -1,0 +1,151 @@
+{
+  "id": "am10",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 10 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": null,
+  "order": 96,
+  "audio": [
+    {
+      "src": "/audio/adults/am10.mp3",
+      "legacySrc": "sounds/am10.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 10 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 10: My School Days and My Days in Military Service"
+    },
+    {
+      "type": "hints",
+      "text": "My Early Childhood School Days"
+    },
+    {
+      "type": "instruction",
+      "text": "When I was young, I was not good at studying."
+    },
+    {
+      "type": "instruction",
+      "text": "I was not good at taking tests and was often scolded by my parents and teachers."
+    },
+    {
+      "type": "instruction",
+      "text": "I just wanted to play with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My Youth in Middle School"
+    },
+    {
+      "type": "instruction",
+      "text": "For me, puberty came early, but I did not have many problems with this."
+    },
+    {
+      "type": "instruction",
+      "text": "My life at this time of life was similar to others."
+    },
+    {
+      "type": "instruction",
+      "text": "I was really interested in listening to music and watching movies."
+    },
+    {
+      "type": "instruction",
+      "text": "I was trying to work hard in school, so I could get into a good high school, but I had a very hard time doing so."
+    },
+    {
+      "type": "instruction",
+      "text": "My Difficult Time in High School"
+    },
+    {
+      "type": "instruction",
+      "text": "In high school, I spent my time wandering around with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "At this point in my life, my parents and upper classmates gave me good advice about how to change my life for the better."
+    },
+    {
+      "type": "instruction",
+      "text": "This really helped me to get back on track with my studies."
+    },
+    {
+      "type": "instruction",
+      "text": "Then, I started to really prepare to enter a good university."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are young we do not realize how important this time is to our future."
+    },
+    {
+      "type": "instruction",
+      "text": "I am really glad I had people to help me find my way."
+    },
+    {
+      "type": "instruction",
+      "text": "My Life as a University Student"
+    },
+    {
+      "type": "instruction",
+      "text": "During my freshman and sophomore years in college, I made lots of friends and joined many clubs."
+    },
+    {
+      "type": "instruction",
+      "text": "Once again, I was not interested in studying very hard."
+    },
+    {
+      "type": "instruction",
+      "text": "When I was in high school, my dream was to be an English teacher, but I learned I was not very good at English, and I did not want to study hard enough to fulfill this dream."
+    },
+    {
+      "type": "instruction",
+      "text": "I changed my major to Engineering and really liked it."
+    },
+    {
+      "type": "instruction",
+      "text": "Serving Time in the Military"
+    },
+    {
+      "type": "instruction",
+      "text": "After my sophomore year, I took a leave of absence from my studies and got a part-time job for six months before I started my military service."
+    },
+    {
+      "type": "instruction",
+      "text": "My military service was a hard time in my life, but I learned a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "During this time, I developed patience and an understanding of how important my family was."
+    },
+    {
+      "type": "instruction",
+      "text": "After my military service was completed, I returned to my studies once again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am10.htm",
+  "legacyEncoding": "utf-8"
+}

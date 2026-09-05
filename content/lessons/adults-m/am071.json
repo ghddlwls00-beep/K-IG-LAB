@@ -1,0 +1,59 @@
+{
+  "id": "am071",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 071 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 1,
+  "order": 73,
+  "audio": [
+    {
+      "src": "/audio/adults/am071.mp3",
+      "legacySrc": "sounds/am071.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 071 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Why did I Choose My Job?"
+    },
+    {
+      "type": "hints",
+      "text": "When I was young, my dream was to be an English teacher, but I didn’t speak English well or do well in my English studies."
+    },
+    {
+      "type": "instruction",
+      "text": "I studied engineering instead."
+    },
+    {
+      "type": "instruction",
+      "text": "After I graduated from my university, I got a job in that field."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am071.htm",
+  "legacyEncoding": "utf-8"
+}

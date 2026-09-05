@@ -1,0 +1,123 @@
+{
+  "id": "aw09",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 09 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": null,
+  "order": 89,
+  "audio": [
+    {
+      "src": "/audio/adults/aw09.mp3",
+      "legacySrc": "sounds/aw09.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 09 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 9: My Hometown"
+    },
+    {
+      "type": "hints",
+      "text": "(Where I Was Born)"
+    },
+    {
+      "type": "instruction",
+      "text": "I was born in 1970 in a small town, beautiful mountains surrounded it."
+    },
+    {
+      "type": "instruction",
+      "text": "Some years were hard and the winters were cold with heavy snow."
+    },
+    {
+      "type": "instruction",
+      "text": "It was a long walk to get to school."
+    },
+    {
+      "type": "instruction",
+      "text": "I often had to run all the way to school and back to home."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I'm strong enough that I used to climbs hills."
+    },
+    {
+      "type": "instruction",
+      "text": "I never get afraid of running or walking along way even these days."
+    },
+    {
+      "type": "instruction",
+      "text": "I used to climb hills and trees with friends day and night"
+    },
+    {
+      "type": "instruction",
+      "text": "(Move to the City)"
+    },
+    {
+      "type": "instruction",
+      "text": "My father started working in the big city so my family moved there."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of my father‘s job my family had to move several times."
+    },
+    {
+      "type": "instruction",
+      "text": "City life is very convenient but sometimes I miss the country life."
+    },
+    {
+      "type": "instruction",
+      "text": "We lived in a high-rise apartment building and it was not that big."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though the apartment was small there was a beautiful park near by."
+    },
+    {
+      "type": "instruction",
+      "text": "(Where I Grew Up)"
+    },
+    {
+      "type": "instruction",
+      "text": "When I was in the 5th grade in Elementary school I moved to the city."
+    },
+    {
+      "type": "instruction",
+      "text": "I spent the rest of my school days in the big city."
+    },
+    {
+      "type": "instruction",
+      "text": "Most of my friends I made in the city."
+    },
+    {
+      "type": "instruction",
+      "text": "Although I was not born here it is my second hometown."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw09.htm",
+  "legacyEncoding": "utf-8"
+}

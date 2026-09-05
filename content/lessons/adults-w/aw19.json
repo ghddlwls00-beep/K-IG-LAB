@@ -1,0 +1,143 @@
+{
+  "id": "aw19",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 19 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": null,
+  "order": 183,
+  "audio": [
+    {
+      "src": "/audio/adults/aw19.mp3",
+      "legacySrc": "sounds/aw19.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 19 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 19: Korean Culture"
+    },
+    {
+      "type": "hints",
+      "text": "An Introduction to Korean Culture"
+    },
+    {
+      "type": "instruction",
+      "text": "Each and every culture is unique and special in its own way."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean culture is different from other culture, too."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean culture is not like any other culture in the world."
+    },
+    {
+      "type": "instruction",
+      "text": "It has many unique aspects including its clothing, housing, names, and language."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean Clothing: Hanbok"
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, Korea has its own traditional clothing known as hanbok."
+    },
+    {
+      "type": "instruction",
+      "text": "In ancient times, the different styles of hanbok determined your position in society such as which social class you belonged to and whether or not you were married."
+    },
+    {
+      "type": "instruction",
+      "text": "Nowadays, Koreans wear Western style clothing for every day fashion."
+    },
+    {
+      "type": "instruction",
+      "text": "On traditional holidays, families celebrate by wearing the traditional hanbok."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean Foods: Kimchi and Bulgogi"
+    },
+    {
+      "type": "instruction",
+      "text": "Another unique aspect of Korean culture is its food."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean meals usually include boiled rice, soup, fish or meat, several vegetable side dishes, and one or more kinds of kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "Bulgogi is the most popular Korean meat dish, while the most popular vegetable dish is kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "I like them both."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean Language: Hangul"
+    },
+    {
+      "type": "instruction",
+      "text": "Finally, the Korean language is not like any other world language."
+    },
+    {
+      "type": "instruction",
+      "text": "Up until the middle of the 15th century, Korea didn't have its own alphabet."
+    },
+    {
+      "type": "instruction",
+      "text": "Instead, they Chinese characters were used in order to write."
+    },
+    {
+      "type": "instruction",
+      "text": "Most people couldn't read or write."
+    },
+    {
+      "type": "instruction",
+      "text": "The only people who could read were the scholars or the nobility."
+    },
+    {
+      "type": "instruction",
+      "text": "However, in 1420, the current King at that time, Se-jong, asked his royal scholars to create a unique Korean alphabet."
+    },
+    {
+      "type": "instruction",
+      "text": "Soon a writing system known as hangul was created."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw19.htm",
+  "legacyEncoding": "utf-8"
+}

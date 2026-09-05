@@ -1,0 +1,59 @@
+{
+  "id": "aw132",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 132 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 2,
+  "order": 129,
+  "audio": [
+    {
+      "src": "/audio/adults/aw132.mp3",
+      "legacySrc": "sounds/aw132.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 132 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Progression of Democracy in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Because Korea has been a democratic country for a short period of time, many people today still do not have a good understanding of how the political system of our country works."
+    },
+    {
+      "type": "instruction",
+      "text": "Not only do some people not have a good understanding of democracy, but our politicians also lack this knowledge as well."
+    },
+    {
+      "type": "instruction",
+      "text": "We all have a lot to learn about how to make the democratic system of government function effectively in Korea."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw132.htm",
+  "legacyEncoding": "utf-8"
+}

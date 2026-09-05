@@ -185,8 +185,8 @@ export default async function LessonPage({
 }
 
 function getVoiceGender(course: string, lessonId: string): VoiceGender {
-  if (course === "man" || course === "middle") return "male";
-  if (course === "woman") return "female";
+  if (course === "man" || course === "middle" || course === "adults-m") return "male";
+  if (course === "woman" || course === "adults-w") return "female";
   if (course === "adults") {
     if (lessonId.startsWith("am")) return "male";
     if (lessonId.startsWith("aw")) return "female";

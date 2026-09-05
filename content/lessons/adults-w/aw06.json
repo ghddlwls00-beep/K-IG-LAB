@@ -1,0 +1,119 @@
+{
+  "id": "aw06",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 06 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": null,
+  "order": 62,
+  "audio": [
+    {
+      "src": "/audio/adults/aw06.mp3",
+      "legacySrc": "sounds/aw06.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 06 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 6: My Weekend"
+    },
+    {
+      "type": "hints",
+      "text": "How I Spend Saturday Mornings"
+    },
+    {
+      "type": "instruction",
+      "text": "Lately, my husband’s company doesn’t open on Saturdays, so we have lots of free time to spend together."
+    },
+    {
+      "type": "instruction",
+      "text": "I use my weekend time to learn new things."
+    },
+    {
+      "type": "instruction",
+      "text": "I get up late on Saturday and sometimes we either go somewhere with our children, or we usually go to the public baths (spa) to release stress."
+    },
+    {
+      "type": "instruction",
+      "text": "I also try to exercise, shop, and practice my English."
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Saturday Afternoons"
+    },
+    {
+      "type": "instruction",
+      "text": "I joined a hobby circle with my friends, so I sometimes go shopping for things I need for the circle."
+    },
+    {
+      "type": "instruction",
+      "text": "I have made many new friends this way."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes I go shopping with my family, and we usually pick up everything we need for one week."
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Sunday Mornings"
+    },
+    {
+      "type": "instruction",
+      "text": "There are many religions in Korea. My family is Christian, so we go to church every Sunday."
+    },
+    {
+      "type": "instruction",
+      "text": "At church, we always sing songs and listen to the sermon."
+    },
+    {
+      "type": "instruction",
+      "text": "The most popular religion is Buddhism."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans who are Buddhist usually don’t go to their temples frequently but only on special occasions a few times a year."
+    },
+    {
+      "type": "instruction",
+      "text": "On the other hand, Atheists don’t go to church at all, and they mostly spend their Sundays in many different ways."
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Sunday Afternoons"
+    },
+    {
+      "type": "instruction",
+      "text": "On some Sunday afternoons, my friends and I visit each other’s homes, and we either go out to eat or just visit."
+    },
+    {
+      "type": "instruction",
+      "text": "If we don’t visit with our friends, we usually go to either my family’s or my husband’s family’s house and spend time with them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw06.htm",
+  "legacyEncoding": "utf-8"
+}

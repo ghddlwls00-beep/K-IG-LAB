@@ -1,0 +1,63 @@
+{
+  "id": "aw103",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 103 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 3,
+  "order": 103,
+  "audio": [
+    {
+      "src": "/audio/adults/aw103.mp3",
+      "legacySrc": "sounds/aw103.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 103 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(My Best School Days)"
+    },
+    {
+      "type": "hints",
+      "text": "My High school life was very special; I made a lot of friends there."
+    },
+    {
+      "type": "instruction",
+      "text": "During that time I made friends that I still have today."
+    },
+    {
+      "type": "instruction",
+      "text": "We usually meet once a month to catch up on each other’s lives."
+    },
+    {
+      "type": "instruction",
+      "text": "We save money and like to go on trips together."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw103.htm",
+  "legacyEncoding": "utf-8"
+}

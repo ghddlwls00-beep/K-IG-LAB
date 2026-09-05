@@ -1,0 +1,67 @@
+{
+  "id": "am081",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 081 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": 1,
+  "order": 82,
+  "audio": [
+    {
+      "src": "/audio/adults/am081.mp3",
+      "legacySrc": "sounds/am081.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 081 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Hobbies and Pastimes"
+    },
+    {
+      "type": "hints",
+      "text": "My hobbies are always changing."
+    },
+    {
+      "type": "instruction",
+      "text": "When I was young, I liked to collect things, but now I like mountain biking."
+    },
+    {
+      "type": "instruction",
+      "text": "I joined a mountain biking club where we not only ride bikes, but we also go camping and protect the environment, which are activities I enjoy very much."
+    },
+    {
+      "type": "instruction",
+      "text": "I don’t have as much free time these days, so I don’t get to do these things as much as I would like."
+    },
+    {
+      "type": "instruction",
+      "text": "I would love to spend more time doing my favorite pastimes when I get a chance."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am081.htm",
+  "legacyEncoding": "utf-8"
+}

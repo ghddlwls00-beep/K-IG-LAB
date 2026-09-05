@@ -1,0 +1,59 @@
+{
+  "id": "aw022",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 022 ]",
+  "menuLabel": null,
+  "unit": 2,
+  "part": 2,
+  "order": 18,
+  "audio": [
+    {
+      "src": "/audio/adults/aw022.mp3",
+      "legacySrc": "sounds/aw022.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 022 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Family"
+    },
+    {
+      "type": "hints",
+      "text": "I have a nice family."
+    },
+    {
+      "type": "instruction",
+      "text": "There are (4) people in my family including my husband, son, daughter, and me."
+    },
+    {
+      "type": "instruction",
+      "text": "My family and I are close, and we enjoy spending time together."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw022.htm",
+  "legacyEncoding": "utf-8"
+}

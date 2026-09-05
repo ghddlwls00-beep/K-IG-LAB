@@ -1,0 +1,71 @@
+{
+  "id": "am103",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 103 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 3,
+  "order": 102,
+  "audio": [
+    {
+      "src": "/audio/adults/am103.mp3",
+      "legacySrc": "sounds/am103.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 103 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Difficult Time in High School"
+    },
+    {
+      "type": "hints",
+      "text": "In high school, I spent my time wandering around with my friends."
+    },
+    {
+      "type": "instruction",
+      "text": "At this point in my life, my parents and upper classmates gave me good advice about how to change my life for the better."
+    },
+    {
+      "type": "instruction",
+      "text": "This really helped me to get back on track with my studies."
+    },
+    {
+      "type": "instruction",
+      "text": "Then, I started to really prepare to enter a good university."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are young we do not realize how important this time is to our future."
+    },
+    {
+      "type": "instruction",
+      "text": "I am really glad I had people to help me find my way."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am103.htm",
+  "legacyEncoding": "utf-8"
+}

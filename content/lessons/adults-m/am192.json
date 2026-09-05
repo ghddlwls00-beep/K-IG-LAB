@@ -1,0 +1,59 @@
+{
+  "id": "am192",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 192 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 2,
+  "order": 186,
+  "audio": [
+    {
+      "src": "/audio/adults/am192.mp3",
+      "legacySrc": "sounds/am192.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 192 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean Clothing"
+    },
+    {
+      "type": "hints",
+      "text": "First, I would like to explain about traditional Korean clothing."
+    },
+    {
+      "type": "instruction",
+      "text": "On ordinary occasions, Korean people wear Western style clothes."
+    },
+    {
+      "type": "instruction",
+      "text": "However, on traditional holidays, families celebrate these days by wearing traditional costumes called han-bok."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am192.htm",
+  "legacyEncoding": "utf-8"
+}

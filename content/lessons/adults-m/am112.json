@@ -1,0 +1,71 @@
+{
+  "id": "am112",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 112 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 2,
+  "order": 111,
+  "audio": [
+    {
+      "src": "/audio/adults/am112.mp3",
+      "legacySrc": "sounds/am112.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 112 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Dating the Right One"
+    },
+    {
+      "type": "hints",
+      "text": "My co-workers introduced me to my girlfriend, who is now my wife."
+    },
+    {
+      "type": "instruction",
+      "text": "I wanted to get married later in life, but when I first met my wife, it was love at first sight."
+    },
+    {
+      "type": "instruction",
+      "text": "I felt like I had known her for a long time even though we just met."
+    },
+    {
+      "type": "instruction",
+      "text": "We had many of the same interests and tastes."
+    },
+    {
+      "type": "instruction",
+      "text": "On weekends, we traveled a lot, and we always had a great time."
+    },
+    {
+      "type": "instruction",
+      "text": "Our love became progressively stronger as time passed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am112.htm",
+  "legacyEncoding": "utf-8"
+}

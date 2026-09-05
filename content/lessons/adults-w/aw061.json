@@ -1,0 +1,63 @@
+{
+  "id": "aw061",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 061 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 1,
+  "order": 64,
+  "audio": [
+    {
+      "src": "/audio/adults/aw061.mp3",
+      "legacySrc": "sounds/aw061.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 061 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Saturday Mornings"
+    },
+    {
+      "type": "hints",
+      "text": "Lately, my husband’s company doesn’t open on Saturdays, so we have lots of free time to spend together."
+    },
+    {
+      "type": "instruction",
+      "text": "I use my weekend time to learn new things."
+    },
+    {
+      "type": "instruction",
+      "text": "I get up late on Saturday and sometimes we either go somewhere with our children, or we usually go to the public baths (spa) to release stress."
+    },
+    {
+      "type": "instruction",
+      "text": "I also try to exercise, shop, and practice my English."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw061.htm",
+  "legacyEncoding": "utf-8"
+}

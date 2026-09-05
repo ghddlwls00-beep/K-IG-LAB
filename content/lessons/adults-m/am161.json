@@ -1,0 +1,55 @@
+{
+  "id": "am161",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 161 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 1,
+  "order": 154,
+  "audio": [
+    {
+      "src": "/audio/adults/am161.mp3",
+      "legacySrc": "sounds/am161.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 161 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Korea’s History"
+    },
+    {
+      "type": "hints",
+      "text": "Korea has a long, rich, and colorful history that is over five thousand years old."
+    },
+    {
+      "type": "instruction",
+      "text": "We are proud of our history and culture."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am161.htm",
+  "legacyEncoding": "utf-8"
+}

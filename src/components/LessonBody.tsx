@@ -7,6 +7,7 @@ import { DictationPanel } from "./DictationPanel";
 import { LdLearningView } from "./LdLearningView";
 import { ReadingLearningView } from "./ReadingLearningView";
 import { GrammarLearningView } from "./GrammarLearningView";
+import { DialogueLearningView } from "./DialogueLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
 
 export interface PairedSentence {
@@ -84,6 +85,21 @@ export function LessonBody({
         course={course}
         lessonKey={lessonKey}
         isScript={isScript}
+        audioTracks={audioTracks}
+      />
+    );
+  }
+
+  // Dedicated authentic spoken dialogue & conversation learning system for MEN & WOMEN courses
+  if (["man", "woman", "adults-m", "adults-w", "adults"].includes(course)) {
+    return (
+      <DialogueLearningView
+        blocks={blocks}
+        pairBlocks={pairBlocks}
+        course={course}
+        lessonKey={lessonKey}
+        isScript={isScript}
+        voiceGender={voiceGender}
         audioTracks={audioTracks}
       />
     );

@@ -1,0 +1,63 @@
+{
+  "id": "am165",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 165 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 5,
+  "order": 162,
+  "audio": [
+    {
+      "src": "/audio/adults/am165.mp3",
+      "legacySrc": "sounds/am165.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 165 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Health of Koreans"
+    },
+    {
+      "type": "hints",
+      "text": "Because of the slow rise in obesity in Korea today, many Koreans are becoming more interested in their health and try to exercise regularly in order to stay in shape."
+    },
+    {
+      "type": "instruction",
+      "text": "Some people go to health clubs, attend exercise classes, mountain climb, or swim."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are active, we stay healthier."
+    },
+    {
+      "type": "instruction",
+      "text": "When we are healthier, we can live longer and happier lives."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am165.htm",
+  "legacyEncoding": "utf-8"
+}

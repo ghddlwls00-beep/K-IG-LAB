@@ -1,0 +1,59 @@
+{
+  "id": "am134",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 134 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 4,
+  "order": 132,
+  "audio": [
+    {
+      "src": "/audio/adults/am134.mp3",
+      "legacySrc": "sounds/am134.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 134 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Responsibility of Korean Citizens"
+    },
+    {
+      "type": "hints",
+      "text": "As democracy in Korea continues to grow, we have to elect more honest politicians."
+    },
+    {
+      "type": "instruction",
+      "text": "We must vote wisely for the politicians who we think will represent the voter fairly and support them continuously."
+    },
+    {
+      "type": "instruction",
+      "text": "By voting for upright government leaders, we can put the fate of Korea in our hands."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am134.htm",
+  "legacyEncoding": "utf-8"
+}

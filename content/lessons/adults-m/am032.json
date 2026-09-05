@@ -1,0 +1,71 @@
+{
+  "id": "am032",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 032 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 2,
+  "order": 29,
+  "audio": [
+    {
+      "src": "/audio/adults/am032.mp3",
+      "legacySrc": "sounds/am032.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 032 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "About My Friend’s Personal Background"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend 민수 is 40 years old and lives in 서울."
+    },
+    {
+      "type": "hints",
+      "text": "He has a really wonderful family that includes a beautiful wife, son, and daughter."
+    },
+    {
+      "type": "instruction",
+      "text": "His wife’s name is 박수민, she stays home to take care of their home and family."
+    },
+    {
+      "type": "instruction",
+      "text": "His son, 진수 is (14), and he is a student at 한국 Middle School."
+    },
+    {
+      "type": "instruction",
+      "text": "민지 is his daughter, and she attends 한국 Elementary School."
+    },
+    {
+      "type": "instruction",
+      "text": "His house and mine are somewhat near each other, so we try to meet once a month to catch up on what’s been going on in our lives."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am032.htm",
+  "legacyEncoding": "utf-8"
+}

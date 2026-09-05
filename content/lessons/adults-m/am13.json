@@ -1,0 +1,123 @@
+{
+  "id": "am13",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 13 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": null,
+  "order": 124,
+  "audio": [
+    {
+      "src": "/audio/adults/am13.mp3",
+      "legacySrc": "sounds/am13.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 13 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 13: Politics in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Korean Politics during the Seventies and Eighties"
+    },
+    {
+      "type": "instruction",
+      "text": "During the 1970s and 1980s, Koreans were living under a dictatorship."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people who believed in democracy suffered at the hands of Korea’s dictators."
+    },
+    {
+      "type": "instruction",
+      "text": "After this time of authoritarian rule had passed, many citizens strove to ensure that Korea became a democracy."
+    },
+    {
+      "type": "instruction",
+      "text": "Fortunately, in the late 1980’s, the Summer Olympics were held in Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "This great international event helped Korea to move towards becoming a more democratic society."
+    },
+    {
+      "type": "instruction",
+      "text": "The Progression of Democracy in Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Because Korea has been a democratic country for a short period of time, many people today still do not have a good understanding of how the political system of our country works."
+    },
+    {
+      "type": "instruction",
+      "text": "Not only do some citizens not have a good understanding of democracy, but our politicians also lack this knowledge as well."
+    },
+    {
+      "type": "instruction",
+      "text": "We all have a lot to learn about how to make the democratic system of government function effectively in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "The Political Problems of Korea"
+    },
+    {
+      "type": "instruction",
+      "text": "Many Korean politicians are corrupt and accept bribes."
+    },
+    {
+      "type": "instruction",
+      "text": "The two main parties of Korea, the Democrats and the Republicans, fight a lot."
+    },
+    {
+      "type": "instruction",
+      "text": "These problems are not only the politician’s responsibility, but the people’s as well."
+    },
+    {
+      "type": "instruction",
+      "text": "We must learn to work together to make Korea the best country it can be."
+    },
+    {
+      "type": "instruction",
+      "text": "The Responsibility of Korean Citizens"
+    },
+    {
+      "type": "instruction",
+      "text": "As democracy in Korea continues to grow, we have to elect more honest politicians."
+    },
+    {
+      "type": "instruction",
+      "text": "We must vote wisely for the politicians who we think will represent the voter fairly and support them continuously."
+    },
+    {
+      "type": "instruction",
+      "text": "By voting for upright government leaders, we can put the fate of Korea in our hands."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am13.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "am091",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 091 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 1,
+  "order": 90,
+  "audio": [
+    {
+      "src": "/audio/adults/am091.mp3",
+      "legacySrc": "sounds/am091.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 091 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Where I Was Born"
+    },
+    {
+      "type": "hints",
+      "text": "I was born in a small village by some beautiful mountains."
+    },
+    {
+      "type": "instruction",
+      "text": "I have many great memories of my childhood."
+    },
+    {
+      "type": "instruction",
+      "text": "I played with my friends so much that we had often lost track of the time."
+    },
+    {
+      "type": "instruction",
+      "text": "There was a river near my village where my friends and I went to swim and to catch fish with our hands."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am091.htm",
+  "legacyEncoding": "utf-8"
+}

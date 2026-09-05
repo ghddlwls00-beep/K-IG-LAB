@@ -1,0 +1,63 @@
+{
+  "id": "aw164",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 164 ]",
+  "menuLabel": null,
+  "unit": 16,
+  "part": 4,
+  "order": 161,
+  "audio": [
+    {
+      "src": "/audio/adults/aw164.mp3",
+      "legacySrc": "sounds/aw164.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 164 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Korean Films"
+    },
+    {
+      "type": "hints",
+      "text": "The film industry in Korea is really booming these days."
+    },
+    {
+      "type": "instruction",
+      "text": "Our films are exported all over Asia, and our actors are becoming famous."
+    },
+    {
+      "type": "instruction",
+      "text": "This is very good for the Korean economy."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean people also enjoy watching films from all over the world."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw164.htm",
+  "legacyEncoding": "utf-8"
+}

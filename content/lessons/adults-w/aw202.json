@@ -1,0 +1,63 @@
+{
+  "id": "aw202",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 202 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 2,
+  "order": 197,
+  "audio": [
+    {
+      "src": "/audio/adults/aw202.mp3",
+      "legacySrc": "sounds/aw202.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 202 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Famous Places to Visit in Korea"
+    },
+    {
+      "type": "hints",
+      "text": "Korea has a great number of attractive places to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "Some places are naturally beautiful such as Sorak Mountain while others are more historically aesthetic such as Bulguk Temple."
+    },
+    {
+      "type": "instruction",
+      "text": "There are still those that were skillfully manmade like Independence Hall."
+    },
+    {
+      "type": "instruction",
+      "text": "Perhaps several of the more popular attractions to visit in Korea are the Korean Folk Village in Suwon, the historical capital of GyeongJu, and the breathtaking Jeju Island."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw202.htm",
+  "legacyEncoding": "utf-8"
+}

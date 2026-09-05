@@ -1,0 +1,71 @@
+{
+  "id": "am063",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 063 ]",
+  "menuLabel": null,
+  "unit": 6,
+  "part": 3,
+  "order": 67,
+  "audio": [
+    {
+      "src": "/audio/adults/am063.mp3",
+      "legacySrc": "sounds/am063.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 063 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How I Spend Sunday Mornings"
+    },
+    {
+      "type": "hints",
+      "text": "There are many religions in Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is Christian, so we go to church every Sunday."
+    },
+    {
+      "type": "instruction",
+      "text": "At church, we always sing songs and listen to the sermon."
+    },
+    {
+      "type": "instruction",
+      "text": "The most popular religion is Buddhism."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans who are Buddhist usually don’t go to their temples frequently but only on special occasions a few times a year."
+    },
+    {
+      "type": "instruction",
+      "text": "On the other hand, Atheists don’t go to church at all, and they mostly spend their Sundays in many different ways."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am063.htm",
+  "legacyEncoding": "utf-8"
+}

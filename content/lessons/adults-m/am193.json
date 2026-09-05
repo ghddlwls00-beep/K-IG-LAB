@@ -1,0 +1,67 @@
+{
+  "id": "am193",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 193 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 3,
+  "order": 188,
+  "audio": [
+    {
+      "src": "/audio/adults/am193.mp3",
+      "legacySrc": "sounds/am193.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 193 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean Food"
+    },
+    {
+      "type": "hints",
+      "text": "Another unique aspect of Korean culture is food."
+    },
+    {
+      "type": "instruction",
+      "text": "Traditional Korean meals usually include boiled rice, soup, fish or meat, several vegetable side dishes, and one or more kinds of kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "My favorite food is bulgogi."
+    },
+    {
+      "type": "instruction",
+      "text": "Bulgogi is the most popular Korean meat dish, while the most popular vegetable dish is kimchi."
+    },
+    {
+      "type": "instruction",
+      "text": "I like them both."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am193.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "am08",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 08 ]",
+  "menuLabel": null,
+  "unit": 8,
+  "part": null,
+  "order": 80,
+  "audio": [
+    {
+      "src": "/audio/adults/am08.mp3",
+      "legacySrc": "sounds/am08.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 08 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 8: My Leisure Time"
+    },
+    {
+      "type": "hints",
+      "text": "My Hobbies and Pastimes"
+    },
+    {
+      "type": "instruction",
+      "text": "My hobbies are always changing."
+    },
+    {
+      "type": "instruction",
+      "text": "When I was young, I liked to collect things, but now I like mountain biking."
+    },
+    {
+      "type": "instruction",
+      "text": "I joined a mountain biking club where we not only ride bikes, but we also go camping and protect the environment, which are activities I enjoy very much."
+    },
+    {
+      "type": "instruction",
+      "text": "I don’t have as much free time these days, so I don’t get to do these things as much as I would like."
+    },
+    {
+      "type": "instruction",
+      "text": "I would love to spend more time doing my favorite pastimes when I get a chance."
+    },
+    {
+      "type": "instruction",
+      "text": "Company Activities"
+    },
+    {
+      "type": "instruction",
+      "text": "My coworkers, whom I am close to, get together at least once a month."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes we meet without our families, and other times, we all bring our families together."
+    },
+    {
+      "type": "instruction",
+      "text": "It is very important to be a part of these activities for me."
+    },
+    {
+      "type": "instruction",
+      "text": "During these get together we commemorate weddings, funerals or any other special event that had occurred or will occur during that month."
+    },
+    {
+      "type": "instruction",
+      "text": "Last summer vacation, we went to Je-ju Island, and it was great!"
+    },
+    {
+      "type": "instruction",
+      "text": "Meeting My Friends"
+    },
+    {
+      "type": "instruction",
+      "text": "When I meet with my high school friends once a month,5 we talk about the good times that we had when we were young or go to the singing room."
+    },
+    {
+      "type": "instruction",
+      "text": "We surprise each other sometimes when we realize we are all getting older."
+    },
+    {
+      "type": "instruction",
+      "text": "During these meetings, we also discuss the plan of saving money for our trip abroad together ten years later."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am08.htm",
+  "legacyEncoding": "utf-8"
+}

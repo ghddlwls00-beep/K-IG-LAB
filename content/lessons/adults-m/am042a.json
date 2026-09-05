@@ -1,0 +1,79 @@
+{
+  "id": "am042a",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 042 A ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 2,
+  "order": 46,
+  "audio": [
+    {
+      "src": "/audio/adults/am042a.mp3",
+      "legacySrc": "sounds/am042a.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 042 A ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Parents and Siblings"
+    },
+    {
+      "type": "hints",
+      "text": "Because I am the oldest (not the oldest) we visit my family very often (not very often)."
+    },
+    {
+      "type": "instruction",
+      "text": "My parents live close by, so I try to visit them two times a month."
+    },
+    {
+      "type": "instruction",
+      "text": "My family and I are close, and when we get together, we like to go out to dinner together and talk for hours."
+    },
+    {
+      "type": "instruction",
+      "text": "My father used to be a businessman, but he is retired now."
+    },
+    {
+      "type": "instruction",
+      "text": "He often goes hiking in the mountains with his friends."
+    },
+    {
+      "type": "instruction",
+      "text": "My mother still loves to prepare delicious meals and look after her grandchildren."
+    },
+    {
+      "type": "instruction",
+      "text": "I have 2 brothers and 2 sisters."
+    },
+    {
+      "type": "instruction",
+      "text": "They are all married, and I have lots of nieces and nephews."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am042a.htm",
+  "legacyEncoding": "utf-8"
+}

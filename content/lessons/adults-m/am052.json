@@ -1,0 +1,63 @@
+{
+  "id": "am052",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 052 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 2,
+  "order": 55,
+  "audio": [
+    {
+      "src": "/audio/adults/am052.mp3",
+      "legacySrc": "sounds/am052.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 052 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Morning at the Office"
+    },
+    {
+      "type": "hints",
+      "text": "When I get to work, I usually do paperwork."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes my boss gives me too much work to do, and it can be very stressful for me."
+    },
+    {
+      "type": "instruction",
+      "text": "When I complete a task, it makes me very happy."
+    },
+    {
+      "type": "instruction",
+      "text": "I work inside all day on the computer and do not go outside very often at work."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am052.htm",
+  "legacyEncoding": "utf-8"
+}

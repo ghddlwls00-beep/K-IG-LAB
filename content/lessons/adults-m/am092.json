@@ -1,0 +1,63 @@
+{
+  "id": "am092",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 092 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 92,
+  "audio": [
+    {
+      "src": "/audio/adults/am092.mp3",
+      "legacySrc": "sounds/am092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 092 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "When I Moved"
+    },
+    {
+      "type": "hints",
+      "text": "My family moved to the big city because of my father’s company and for us to receive a better education."
+    },
+    {
+      "type": "instruction",
+      "text": "When I was young, my father’s company went bankrupt, so we had to move several more times."
+    },
+    {
+      "type": "instruction",
+      "text": "Our family’s financial situation was not very stable, so my mother had to work, too."
+    },
+    {
+      "type": "instruction",
+      "text": "I grew up well taken care of because even though my mother had to work, she still managed to take good care of me and my brothers and sisters."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am092.htm",
+  "legacyEncoding": "utf-8"
+}

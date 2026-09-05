@@ -1,0 +1,71 @@
+{
+  "id": "am043",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 043 ]",
+  "menuLabel": null,
+  "unit": 4,
+  "part": 3,
+  "order": 48,
+  "audio": [
+    {
+      "src": "/audio/adults/am043.mp3",
+      "legacySrc": "sounds/am043.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 043 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Favorite Relatives: My Grandparents"
+    },
+    {
+      "type": "hints",
+      "text": "Even though my grandparents have passed away, I consider them a part of my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My paternal grandparents lived near by from my house."
+    },
+    {
+      "type": "instruction",
+      "text": "Because my father was the oldest child in his family, my paternal grandparents lived with my family."
+    },
+    {
+      "type": "instruction",
+      "text": "My grandfather would always give me good advice, and my grandmother would help my mother make delicious food."
+    },
+    {
+      "type": "instruction",
+      "text": "My maternal grandparents didn’t live near my house, so I would visit them two times a year."
+    },
+    {
+      "type": "instruction",
+      "text": "Whenever I visited them, I would help my grandfather in the garden/take a walk in the park with him, and I would help my grandmother prepare tasty food/snacks in the kitchen."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am043.htm",
+  "legacyEncoding": "utf-8"
+}

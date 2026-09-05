@@ -1,0 +1,59 @@
+{
+  "id": "am033",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 033 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 3,
+  "order": 31,
+  "audio": [
+    {
+      "src": "/audio/adults/am033.mp3",
+      "legacySrc": "sounds/am033.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 033 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "How I Met My Best Friend"
+    },
+    {
+      "type": "hints",
+      "text": "We met for the first time ten years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "We attended the same school, which was located in a beautiful village."
+    },
+    {
+      "type": "instruction",
+      "text": "We were in the same class, so we hung out almost everyday until we graduated high school."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am033.htm",
+  "legacyEncoding": "utf-8"
+}

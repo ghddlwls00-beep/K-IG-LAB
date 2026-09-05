@@ -1,0 +1,67 @@
+{
+  "id": "aw036",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 036 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 6,
+  "order": 38,
+  "audio": [
+    {
+      "src": "/audio/adults/aw036.mp3",
+      "legacySrc": "sounds/aw036.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 036 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend has Many Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "(현주) likes to go shopping with me."
+    },
+    {
+      "type": "hints",
+      "text": "We often meet and go to the market."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes we watch movies."
+    },
+    {
+      "type": "instruction",
+      "text": "Last winter vacation, our families went to (경주) and had a good time together."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of (현주), I know how important it is to have a best friend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw036.htm",
+  "legacyEncoding": "utf-8"
+}

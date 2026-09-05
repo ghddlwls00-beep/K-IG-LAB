@@ -1,0 +1,71 @@
+{
+  "id": "aw204",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 204 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 4,
+  "order": 201,
+  "audio": [
+    {
+      "src": "/audio/adults/aw204.mp3",
+      "legacySrc": "sounds/aw204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 204 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A Piece of Korean History: GyeongJu"
+    },
+    {
+      "type": "hints",
+      "text": "Another attractive destination is GyeongJu located in South GyeongSang Province."
+    },
+    {
+      "type": "instruction",
+      "text": "GyeongJu is the old capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom unified the divided land of Korea from three kingdoms into one that was known as the Unified Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was its most powerful during the eighth century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people regard GyeongJu as a museum without walls."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans refer to it as this because it contains many of the old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw204.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "am104",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 104 ]",
+  "menuLabel": null,
+  "unit": 10,
+  "part": 4,
+  "order": 104,
+  "audio": [
+    {
+      "src": "/audio/adults/am104.mp3",
+      "legacySrc": "sounds/am104.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 104 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Life as a University Student"
+    },
+    {
+      "type": "hints",
+      "text": "During my freshman and sophomore years in college, I made lots of friends and joined many clubs."
+    },
+    {
+      "type": "instruction",
+      "text": "Once again, I was not interested in studying very hard."
+    },
+    {
+      "type": "instruction",
+      "text": "When I was in high school, my dream was to be an English teacher, but I learned I was not very good at English, and I did not want to study hard enough to fulfill this dream."
+    },
+    {
+      "type": "instruction",
+      "text": "I changed my major to Engineering and really liked it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am104.htm",
+  "legacyEncoding": "utf-8"
+}

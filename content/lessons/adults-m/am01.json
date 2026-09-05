@@ -1,0 +1,151 @@
+{
+  "id": "am01",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 01 ]",
+  "menuLabel": null,
+  "unit": 1,
+  "part": null,
+  "order": 1,
+  "audio": [
+    {
+      "src": "/audio/adults/am01.mp3",
+      "legacySrc": "sounds/am01.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 01 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle1:Self-Introduction"
+    },
+    {
+      "type": "hints",
+      "text": "Greeting and Introduction"
+    },
+    {
+      "type": "instruction",
+      "text": "Nice to meet you."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, thank you for giving me a chance to introduce myself."
+    },
+    {
+      "type": "instruction",
+      "text": "My name’s 홍길동, but you can call me Mr.홍."
+    },
+    {
+      "type": "instruction",
+      "text": "My Personal and Educational Background"
+    },
+    {
+      "type": "instruction",
+      "text": "My name is 홍길동, and I live in 서울."
+    },
+    {
+      "type": "instruction",
+      "text": "I live at 한국apartment with my wife and children."
+    },
+    {
+      "type": "instruction",
+      "text": "I am 40 years old."
+    },
+    {
+      "type": "instruction",
+      "text": "I graduated from 한국 High School."
+    },
+    {
+      "type": "instruction",
+      "text": "I also attended 대한 University with a bachelor’s degree in English."
+    },
+    {
+      "type": "instruction",
+      "text": "I have been working for cell-phone company for the past 10 years."
+    },
+    {
+      "type": "instruction",
+      "text": "My Personality"
+    },
+    {
+      "type": "instruction",
+      "text": "I’m An Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "Even though I’m a very outgoing person, I’m sometimes a little shy around new people."
+    },
+    {
+      "type": "instruction",
+      "text": "I have a lot of friends who(m) I love to be around."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person, so most people like me."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m A Shy Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I’m kind of a shy person."
+    },
+    {
+      "type": "instruction",
+      "text": "I am afraid I talk too much, but everyone says I am a very likeable person and fun to be around."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m a pretty happy person."
+    },
+    {
+      "type": "instruction",
+      "text": "Most people like me after they get to know me."
+    },
+    {
+      "type": "instruction",
+      "text": "My Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "My hobbies include5 reading books, listening to music, hiking, watching movies and playing and watching sports, but I especially like hiking."
+    },
+    {
+      "type": "instruction",
+      "text": "Volunteer Work"
+    },
+    {
+      "type": "instruction",
+      "text": "In my free time, I also like to help/helping other people."
+    },
+    {
+      "type": "instruction",
+      "text": "I like to volunteer at the orphanage and help the children there at least once month."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am01.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "am073",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 073 ]",
+  "menuLabel": null,
+  "unit": 7,
+  "part": 3,
+  "order": 77,
+  "audio": [
+    {
+      "src": "/audio/adults/am073.mp3",
+      "legacySrc": "sounds/am073.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 073 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "What do I Do on My Job?"
+    },
+    {
+      "type": "hints",
+      "text": "I sometimes go on business trips once a quarter."
+    },
+    {
+      "type": "instruction",
+      "text": "I have to go to a seminar where I receive valuable training."
+    },
+    {
+      "type": "instruction",
+      "text": "Each quarter, I stop by the smaller branches of my company and check on their progress."
+    },
+    {
+      "type": "instruction",
+      "text": "I also have to do end-of-the-month evaluations for these branches and present them to my boss."
+    },
+    {
+      "type": "instruction",
+      "text": "When things are not progressing as they should, it is very stressful for me."
+    },
+    {
+      "type": "instruction",
+      "text": "When things are improving, my boss gives me recognition, which I am very happy to receive."
+    },
+    {
+      "type": "instruction",
+      "text": "These days, my company is requiring that all of its employees learn English, so I am studying hard to improve my English language skills."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am073.htm",
+  "legacyEncoding": "utf-8"
+}

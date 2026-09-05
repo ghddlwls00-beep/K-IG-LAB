@@ -1,0 +1,171 @@
+{
+  "id": "aw03",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ Principle 03 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": null,
+  "order": 26,
+  "audio": [
+    {
+      "src": "/audio/adults/aw03.mp3",
+      "legacySrc": "sounds/aw03.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Principle 03 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Principle 3: Introducing My Best Friend"
+    },
+    {
+      "type": "hints",
+      "text": "Greeting"
+    },
+    {
+      "type": "instruction",
+      "text": "Almost everyone in the world has a best friend."
+    },
+    {
+      "type": "instruction",
+      "text": "I would like to introduce my best friend (김현주) to you."
+    },
+    {
+      "type": "instruction",
+      "text": "About My Friend’s Personal Background"
+    },
+    {
+      "type": "instruction",
+      "text": "My best friend (현주) is (39) years old and lives in (서울)."
+    },
+    {
+      "type": "instruction",
+      "text": "She has a really wonderful family that includes a nice husband, son, and daughter."
+    },
+    {
+      "type": "instruction",
+      "text": "Her husband’s name is (이영철), and he works for Cell-Phone Company."
+    },
+    {
+      "type": "instruction",
+      "text": "Her son, (대한) is (14), and he is a student at (한국 Middle School)."
+    },
+    {
+      "type": "instruction",
+      "text": "(소연) is her daughter, and she attends (한국 Elementary School)."
+    },
+    {
+      "type": "instruction",
+      "text": "Her house and mine are very close, so we can meet each other everyday."
+    },
+    {
+      "type": "instruction",
+      "text": "How I Met My Best Friend"
+    },
+    {
+      "type": "instruction",
+      "text": "We met for the first time ten years ago."
+    },
+    {
+      "type": "instruction",
+      "text": "We attended the same school which was located in a beautiful village."
+    },
+    {
+      "type": "instruction",
+      "text": "We were in the same class, so we met everyday until we graduated high school."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend’s Personality, Talents, and Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend is an Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "She is like me in many ways, such as she is also very outgoing but is sometimes more shier than I am."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend is Talented"
+    },
+    {
+      "type": "instruction",
+      "text": "(현주) has many talents like cooking all kinds of food and speaking English."
+    },
+    {
+      "type": "instruction",
+      "text": "She is good at drawing, too."
+    },
+    {
+      "type": "instruction",
+      "text": "I’ve learned a lot from her such as how to make kimchi and sew clothes."
+    },
+    {
+      "type": "instruction",
+      "text": "Though I’ve learned many things from her, I (still) have a lot to learn from her."
+    },
+    {
+      "type": "instruction",
+      "text": "(현주) always understands my problems, and whenever I need help, she is always there."
+    },
+    {
+      "type": "instruction",
+      "text": "I’m proud to call her my best friend."
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend has Many Hobbies"
+    },
+    {
+      "type": "instruction",
+      "text": "(현주) likes to go shopping with me."
+    },
+    {
+      "type": "instruction",
+      "text": "We often meet and go to the market."
+    },
+    {
+      "type": "instruction",
+      "text": "Sometimes we watch movies."
+    },
+    {
+      "type": "instruction",
+      "text": "Last winter vacation, our families went to (경주) and had a good time together."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of (현주), I know how important it is to have a best friend."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw03.htm",
+  "legacyEncoding": "utf-8"
+}

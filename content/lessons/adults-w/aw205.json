@@ -1,0 +1,67 @@
+{
+  "id": "aw205",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 205 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 5,
+  "order": 203,
+  "audio": [
+    {
+      "src": "/audio/adults/aw205.mp3",
+      "legacySrc": "sounds/aw205.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 205 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "A Natural Wonder: Jeju Island"
+    },
+    {
+      "type": "hints",
+      "text": "Perhaps the most famous natural wonder of Korea is an island called Jeju."
+    },
+    {
+      "type": "instruction",
+      "text": "Jeju island is a favorite place amongst Korean newlyweds to go on their honeymoons."
+    },
+    {
+      "type": "instruction",
+      "text": "There are so many fun things to do on Jeju Island and many beautiful spots to visit."
+    },
+    {
+      "type": "instruction",
+      "text": "Mt. Halla is the most visible attraction on Jeju Island."
+    },
+    {
+      "type": "instruction",
+      "text": "It is located in the center of Jeju Island and is the highest mountain in South Korea; it’s almost 2,000 meters high (about 6500 feet)."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw205.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "aw054",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 054 ]",
+  "menuLabel": null,
+  "unit": 5,
+  "part": 4,
+  "order": 60,
+  "audio": [
+    {
+      "src": "/audio/adults/aw054.mp3",
+      "legacySrc": "sounds/aw054.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 054 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Dinnertime and At Night"
+    },
+    {
+      "type": "hints",
+      "text": "I usually eat dinner with my child/children because my husband oftentimes works late."
+    },
+    {
+      "type": "instruction",
+      "text": "Before my husband comes home, I usually help my child/children with their homework."
+    },
+    {
+      "type": "instruction",
+      "text": "When my husband returns, we mostly spend time talking or watching television together."
+    },
+    {
+      "type": "instruction",
+      "text": "My family is always happy to see me, and my busy day and stress is forgotten."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw054.htm",
+  "legacyEncoding": "utf-8"
+}

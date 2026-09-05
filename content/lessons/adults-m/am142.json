@@ -1,0 +1,63 @@
+{
+  "id": "am142",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 142 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 2,
+  "order": 138,
+  "audio": [
+    {
+      "src": "/audio/adults/am142.mp3",
+      "legacySrc": "sounds/am142.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 142 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Education in Korea Today"
+    },
+    {
+      "type": "hints",
+      "text": "Everyday, the tuition of private institutes increases due to the changes in social classes."
+    },
+    {
+      "type": "instruction",
+      "text": "This is becoming a daily problem in Korean society."
+    },
+    {
+      "type": "instruction",
+      "text": "Only the rich can provide more opportunities for a better education while the poor lack the options to provide a decent education for their children."
+    },
+    {
+      "type": "instruction",
+      "text": "Over the years, educational policies in Korea have changed for the better, but they still have a long way to go before they are truly effective and efficient."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am142.htm",
+  "legacyEncoding": "utf-8"
+}

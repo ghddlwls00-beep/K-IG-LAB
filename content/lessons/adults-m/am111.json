@@ -1,0 +1,75 @@
+{
+  "id": "am111",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 111 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 1,
+  "order": 109,
+  "audio": [
+    {
+      "src": "/audio/adults/am111.mp3",
+      "legacySrc": "sounds/am111.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 111 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "After Graduating College"
+    },
+    {
+      "type": "hints",
+      "text": "Most Korean people don’t really go into the same field they major in at university."
+    },
+    {
+      "type": "instruction",
+      "text": "This was the same for me."
+    },
+    {
+      "type": "instruction",
+      "text": "I changed jobs many times, before I started my current job as an automobile engineer."
+    },
+    {
+      "type": "instruction",
+      "text": "I have learned so much over the years at this job."
+    },
+    {
+      "type": "instruction",
+      "text": "I found that what I learned during college about engineering and what my job was like was really different."
+    },
+    {
+      "type": "instruction",
+      "text": "It seemed like I had to start over and relearn everything again."
+    },
+    {
+      "type": "instruction",
+      "text": "I really value what I have learned about teamwork and how everyone needs to be diligent in their job for everyone to succeed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am111.htm",
+  "legacyEncoding": "utf-8"
+}

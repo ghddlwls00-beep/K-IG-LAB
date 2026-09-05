@@ -1,0 +1,67 @@
+{
+  "id": "aw143",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 143 ]",
+  "menuLabel": null,
+  "unit": 14,
+  "part": 3,
+  "order": 141,
+  "audio": [
+    {
+      "src": "/audio/adults/aw143.mp3",
+      "legacySrc": "sounds/aw143.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 143 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Problems of Korea’s Educational Policies"
+    },
+    {
+      "type": "hints",
+      "text": "There are two main problems in the education system of Korea."
+    },
+    {
+      "type": "instruction",
+      "text": "First of all, because the population of Korea is continually on the rise, competition within the educational system also increases."
+    },
+    {
+      "type": "instruction",
+      "text": "The second is that there is a wide gap between the educational opportunities given to those who have money and those who do not."
+    },
+    {
+      "type": "instruction",
+      "text": "."
+    },
+    {
+      "type": "instruction",
+      "text": "Working together, we need to solve these problems, and provide the chance for all to obtain a good education."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw143.htm",
+  "legacyEncoding": "utf-8"
+}

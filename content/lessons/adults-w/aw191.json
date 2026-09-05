@@ -1,0 +1,63 @@
+{
+  "id": "aw191",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 191 ]",
+  "menuLabel": null,
+  "unit": 19,
+  "part": 1,
+  "order": 185,
+  "audio": [
+    {
+      "src": "/audio/adults/aw191.mp3",
+      "legacySrc": "sounds/aw191.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 191 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "An Introduction to Korean Culture"
+    },
+    {
+      "type": "hints",
+      "text": "Each and every culture is unique and special in its own way."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean culture is different from other culture, too."
+    },
+    {
+      "type": "instruction",
+      "text": "Korean culture is not like any other culture in the world."
+    },
+    {
+      "type": "instruction",
+      "text": "It has many unique aspects including its clothing, housing, names, and language."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw191.htm",
+  "legacyEncoding": "utf-8"
+}

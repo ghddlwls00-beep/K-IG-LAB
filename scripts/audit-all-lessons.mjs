@@ -416,7 +416,7 @@ function buildPairedSentences(blocks, pairBlocks, course, isScript, audioTracks 
 }
 
 const courses = [
-  'ld', 'reading', 'basics', 'middle', 'adults', 'phonics',
+  'ld', 'reading', 'basics', 'middle', 'adults', 'adults-m', 'adults-w', 'phonics',
   'grammar1', 'grammar2', 'man', 'woman', 'student', 'chinese', 'cnn'
 ];
 
@@ -506,6 +506,11 @@ for (const course of courses) {
     }
 
     if (['phonics', 'cnn'].includes(course)) continue;
+    if (['adults-m', 'adults-w'].includes(course)) {
+      const hasContent = lesson.blocks.length > 0 && lesson.audio.length > 0;
+      if (!hasContent) courseReport.zeroPairs.push(id);
+      continue;
+    }
 
     // 2. Build paired sentences
     const pairs = buildPairedSentences(lesson.blocks, pairLesson?.blocks, course, isScript, lesson.audio, id);

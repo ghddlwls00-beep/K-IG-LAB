@@ -1,0 +1,67 @@
+{
+  "id": "aw131",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 131 ]",
+  "menuLabel": null,
+  "unit": 13,
+  "part": 1,
+  "order": 127,
+  "audio": [
+    {
+      "src": "/audio/adults/aw131.mp3",
+      "legacySrc": "sounds/aw131.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 131 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Korean Politics during the Seventies and Eighties"
+    },
+    {
+      "type": "hints",
+      "text": "During the 1970s and 1980s, Koreans were living under a dictatorship."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people who believed in democracy suffered at the hands of Korea’s dictators."
+    },
+    {
+      "type": "instruction",
+      "text": "After this time of authoritarian rule had passed, many citizens strove to ensure that Korea became a democracy."
+    },
+    {
+      "type": "instruction",
+      "text": "Fortunately, in the late 1980’s, the Summer Olympics were held in Seoul."
+    },
+    {
+      "type": "instruction",
+      "text": "This great international event helped Korea to move towards becoming a more democratic society."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw131.htm",
+  "legacyEncoding": "utf-8"
+}

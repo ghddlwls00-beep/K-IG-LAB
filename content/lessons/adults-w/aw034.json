@@ -1,0 +1,59 @@
+{
+  "id": "aw034",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 034 ]",
+  "menuLabel": null,
+  "unit": 3,
+  "part": 4,
+  "order": 34,
+  "audio": [
+    {
+      "src": "/audio/adults/aw034.mp3",
+      "legacySrc": "sounds/aw034.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 034 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "My Best Friend’s Personality, Talents, and Hobbies"
+    },
+    {
+      "type": "hints",
+      "text": "My Best Friend is an Outgoing Person"
+    },
+    {
+      "type": "instruction",
+      "text": "I am very outgoing, so I like to do many things with other people."
+    },
+    {
+      "type": "instruction",
+      "text": "She is like me in many ways, such as she is also very outgoing but is sometimes more shier than I am."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw034.htm",
+  "legacyEncoding": "utf-8"
+}

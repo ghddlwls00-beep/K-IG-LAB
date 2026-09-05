@@ -1,0 +1,67 @@
+{
+  "id": "am204",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 204 ]",
+  "menuLabel": null,
+  "unit": 20,
+  "part": 4,
+  "order": 200,
+  "audio": [
+    {
+      "src": "/audio/adults/am204.mp3",
+      "legacySrc": "sounds/am204.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 204 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Ancient Capital of Gyeong-ju"
+    },
+    {
+      "type": "hints",
+      "text": "Another attractive destination is Gyeong-ju."
+    },
+    {
+      "type": "instruction",
+      "text": "Gyeong-ju is the old capital of the Shilla Kingdom."
+    },
+    {
+      "type": "instruction",
+      "text": "The Shilla Kingdom was its most powerful during the 8th century."
+    },
+    {
+      "type": "instruction",
+      "text": "Many people regard Gyeong-ju as a museum without walls."
+    },
+    {
+      "type": "instruction",
+      "text": "Koreans refer to it as this because it contains many of the old remains of the Shilla Dynasty."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am204.htm",
+  "legacyEncoding": "utf-8"
+}

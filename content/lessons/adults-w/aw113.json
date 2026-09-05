@@ -1,0 +1,75 @@
+{
+  "id": "aw113",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 113 ]",
+  "menuLabel": null,
+  "unit": 11,
+  "part": 3,
+  "order": 114,
+  "audio": [
+    {
+      "src": "/audio/adults/aw113.mp3",
+      "legacySrc": "sounds/aw113.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 113 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Dating)"
+    },
+    {
+      "type": "hints",
+      "text": "When I was working in that company my friend introduced me to a man."
+    },
+    {
+      "type": "instruction",
+      "text": "When we met the first time I was not interested in him."
+    },
+    {
+      "type": "instruction",
+      "text": "We continued to date and I."
+    },
+    {
+      "type": "instruction",
+      "text": "I liked him more."
+    },
+    {
+      "type": "instruction",
+      "text": "Over time I got to know him better and better."
+    },
+    {
+      "type": "instruction",
+      "text": "My boyfriend was not nice looking but he treated me very well and I liked that."
+    },
+    {
+      "type": "instruction",
+      "text": "We dated over five years."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw113.htm",
+  "legacyEncoding": "utf-8"
+}

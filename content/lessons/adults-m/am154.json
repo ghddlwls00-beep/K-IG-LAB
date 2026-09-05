@@ -1,0 +1,79 @@
+{
+  "id": "am154",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 154 ]",
+  "menuLabel": null,
+  "unit": 15,
+  "part": 4,
+  "order": 150,
+  "audio": [
+    {
+      "src": "/audio/adults/am154.mp3",
+      "legacySrc": "sounds/am154.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 154 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "The Korean Economy Today"
+    },
+    {
+      "type": "hints",
+      "text": "Even in modern times, no country’s economy is completely stable."
+    },
+    {
+      "type": "instruction",
+      "text": "This goes for Korea’s economy as well."
+    },
+    {
+      "type": "instruction",
+      "text": "As the cost of living increases, so does the price of oil."
+    },
+    {
+      "type": "instruction",
+      "text": "This makes life very difficult for us in Korea because we are a very oil dependent nation."
+    },
+    {
+      "type": "instruction",
+      "text": "On the bright side, our country’s is exporting more and more of its products every year."
+    },
+    {
+      "type": "instruction",
+      "text": "As a citizen of Korean, I’m trying my best to help the economy by not wasting money and following a strict budget."
+    },
+    {
+      "type": "instruction",
+      "text": "Hopefully, all Korean people will do their part in improving the economy."
+    },
+    {
+      "type": "instruction",
+      "text": "By doing so, we will all financially prosper in the future."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am154.htm",
+  "legacyEncoding": "utf-8"
+}

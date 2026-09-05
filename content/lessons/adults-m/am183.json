@@ -1,0 +1,67 @@
+{
+  "id": "am183",
+  "course": "adults-m",
+  "series": "am",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 183 ]",
+  "menuLabel": null,
+  "unit": 18,
+  "part": 3,
+  "order": 180,
+  "audio": [
+    {
+      "src": "/audio/adults/am183.mp3",
+      "legacySrc": "sounds/am183.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 183 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "Chu-Seok"
+    },
+    {
+      "type": "hints",
+      "text": "Chu-seok is the biggest national holiday of the year, and it is often referred to as the Korean Thanksgiving."
+    },
+    {
+      "type": "instruction",
+      "text": "During Chu-seok, people visit their ancestrial tombs and make an offering of food to their ancestors."
+    },
+    {
+      "type": "instruction",
+      "text": "In addition, most people play games with their relatives and make song-pyeun, which is a Korean traditional rice cake."
+    },
+    {
+      "type": "instruction",
+      "text": "I like our country’s traditional holidays."
+    },
+    {
+      "type": "instruction",
+      "text": "On these days I learn how important family is!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/am183.htm",
+  "legacyEncoding": "utf-8"
+}

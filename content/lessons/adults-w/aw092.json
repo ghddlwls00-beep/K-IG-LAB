@@ -1,0 +1,67 @@
+{
+  "id": "aw092",
+  "course": "adults-w",
+  "series": "aw",
+  "variant": "main",
+  "pairId": null,
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초1 | 제 001 회 강의 :::",
+  "label": "[ K-IG 교육 092 ]",
+  "menuLabel": null,
+  "unit": 9,
+  "part": 2,
+  "order": 93,
+  "audio": [
+    {
+      "src": "/audio/adults/aw092.mp3",
+      "legacySrc": "sounds/aw092.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ K-IG 교육 092 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "(Move to the City)"
+    },
+    {
+      "type": "hints",
+      "text": "My father started working in the big city so my family moved there."
+    },
+    {
+      "type": "instruction",
+      "text": "Because of my father‘s job my family had to move several times."
+    },
+    {
+      "type": "instruction",
+      "text": "City life is very convenient but sometimes I miss the country life."
+    },
+    {
+      "type": "instruction",
+      "text": "We lived in a high-rise apartment building and it was not that big."
+    },
+    {
+      "type": "instruction",
+      "text": "Even though the apartment was small there was a beautiful park near by."
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "adults/aw092.htm",
+  "legacyEncoding": "utf-8"
+}
