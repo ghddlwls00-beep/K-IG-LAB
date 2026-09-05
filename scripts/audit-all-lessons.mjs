@@ -338,40 +338,9 @@ function buildPairedSentences(blocks, pairBlocks, course, isScript, audioTracks 
     }
   }
 
-  // 5. Listening & Dictation (ld)
+  // 5. Listening & Dictation (ld) - handled by dedicated LdLearningView
   if (course === 'ld') {
-    const scriptBlocks = isScript ? blocks : pairBlocks || [];
-    const mainHints = (isScript ? pairBlocks : blocks)?.find((b) => b.type === 'hints');
-
-    const koSentences = [];
-    for (const b of scriptBlocks) {
-      if (b.type === 'instruction') {
-        const t = (b.text || '').trim();
-        if (t && !t.includes('한글 대본을')) {
-          koSentences.push(cleanSentenceText(t));
-        }
-      } else if (b.type === 'paragraph') {
-        const t = (b.text || '').trim();
-        if (t) koSentences.push(cleanSentenceText(t));
-      } else if (b.type === 'sentences') {
-        for (const item of b.items || []) {
-          const t = (item.text || '').trim();
-          if (t) koSentences.push(cleanSentenceText(t));
-        }
-      }
-    }
-
-    if (koSentences.length > 0) {
-      koSentences.forEach((ko, idx) => {
-        result.push({
-          index: idx + 1,
-          numberLabel: String(idx + 1),
-          targetText: idx === 0 && mainHints ? `[핵심 어휘] ${mainHints.text}` : '',
-          translationText: ko.trim(),
-        });
-      });
-      return result;
-    }
+    return result;
   }
 
   // 6. Sentence blocks (flattened)
@@ -524,6 +493,34 @@ for (const course of courses) {
 
     if (lesson.pairId && !pair) {
       courseReport.brokenPairLinks.push({ id, targetPairId: lesson.pairId });
+    }
+
+    if (course === 'ld') {
+      if (isScript) {
+        const koSentences = [];
+        for (const b of lesson.blocks) {
+          if (b.type === 'instruction') {
+            const txt = (b.text || '').trim();
+            if (txt && !txt.includes('한글 대본을') && !txt.includes('받아쓰기를')) koSentences.push(cleanSentenceText(txt));
+          } else if (b.type === 'paragraph') {
+            const txt = (b.text || '').trim();
+            if (txt) koSentences.push(cleanSentenceText(txt));
+          } else if (b.type === 'sentences') {
+            for (const it of b.items || []) {
+              const txt = (it.text || '').trim();
+              if (txt) koSentences.push(cleanSentenceText(txt));
+            }
+          }
+        }
+        if (koSentences.length === 0) {
+          courseReport.zeroPairs.push(id);
+        }
+      } else {
+        if (!lesson.audio || lesson.audio.length === 0) {
+          courseReport.zeroPairs.push(id);
+        }
+      }
+      continue;
     }
 
     if (['phonics', 'cnn'].includes(course)) continue;

@@ -4,6 +4,7 @@ import { useState } from "react";
 import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
+import { LdLearningView } from "./LdLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
 
 export interface PairedSentence {
@@ -45,6 +46,19 @@ export function LessonBody({
   chunkDrills?: { en: string; ko: string }[];
 }) {
   const { t } = useLanguage();
+
+  // Dedicated pedagogical learning view for Listen & Dictate course
+  if (course === "ld") {
+    return (
+      <LdLearningView
+        blocks={blocks}
+        pairBlocks={pairBlocks}
+        lessonKey={lessonKey}
+        isScript={isScript}
+        audioTracks={audioTracks}
+      />
+    );
+  }
 
   // Learning modes: 'bilingual' (대조), 'englishOnly' (영어집중), 'koreanOnly' (영작훈련)
   const [studyMode, setStudyMode] = useState<"bilingual" | "englishOnly" | "koreanOnly">("bilingual");
@@ -668,43 +682,10 @@ function buildPairedSentences(
   }
 
   // -------------------------------------------------------------------------
-  // 5. Listening & Dictation (ld d001 <-> d001-1)
+  // 5. Listening & Dictation (ld) - handled by dedicated LdLearningView
   // -------------------------------------------------------------------------
   if (course === "ld") {
-    const scriptBlocks = isScript ? blocks : pairBlocks || [];
-    const mainHints = (isScript ? pairBlocks : blocks)?.find((b) => b.type === "hints") as { type: "hints"; text: string } | undefined;
-
-    // Collect all Korean sentences from instruction, paragraph, and sentences
-    const koSentences: string[] = [];
-    for (const b of scriptBlocks) {
-      if (b.type === "instruction") {
-        const t = b.text.trim();
-        if (t && !t.includes("한글 대본을")) {
-          koSentences.push(cleanSentenceText(t));
-        }
-      } else if (b.type === "paragraph") {
-        const t = b.text.trim();
-        if (t) koSentences.push(cleanSentenceText(t));
-      } else if (b.type === "sentences") {
-        for (const item of (b as { type: "sentences"; items: { n: string; text: string }[] }).items) {
-          const t = item.text.trim();
-          if (t) koSentences.push(cleanSentenceText(t));
-        }
-      }
-    }
-
-    if (koSentences.length > 0) {
-      koSentences.forEach((ko, idx) => {
-        // Enforce strict language slot integrity: Korean is ALWAYS translationText
-        result.push({
-          index: idx + 1,
-          numberLabel: String(idx + 1),
-          targetText: idx === 0 && mainHints ? `[핵심 어휘] ${mainHints.text}` : "",
-          translationText: ko.trim(),
-        });
-      });
-      return result;
-    }
+    return result;
   }
 
   // -------------------------------------------------------------------------
