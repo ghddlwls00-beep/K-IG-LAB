@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { useLanguage } from "./LanguageProvider";
-import { speakText } from "@/lib/speech";
 
 /**
  * Enhanced Dictation and Answer Verification Panel.
@@ -161,14 +160,6 @@ export function DictationPanel({
                       {ref}
                     </p>
                   </div>
-                  <button
-                    type="button"
-                    onClick={() => speakText(ref, { lang: "en" })}
-                    title="원어민 발음 듣기"
-                    className="shrink-0 rounded p-1 text-ink-faint hover:bg-surface hover:text-ink transition-colors cursor-pointer text-[12px]"
-                  >
-                    🔊
-                  </button>
                 </div>
               </div>
             ))}

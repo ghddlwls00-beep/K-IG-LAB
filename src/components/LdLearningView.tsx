@@ -5,7 +5,7 @@ import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
-import { speakText } from "@/lib/speech";
+import { AudioPlayer } from "./AudioPlayer";
 
 interface LdLearningViewProps {
   blocks: Block[];
@@ -21,6 +21,7 @@ export function LdLearningView({
   pairBlocks = null,
   lessonKey,
   isScript,
+  audioTracks = [],
   ldEnglishScript = null,
 }: LdLearningViewProps) {
   const { t } = useLanguage();
@@ -142,17 +143,6 @@ export function LdLearningView({
     setRevealedEn(updated);
   }
 
-  function speakKorean(text: string) {
-    speakText(text, { lang: "ko", rate: 0.95 });
-  }
-
-  function speakEnglish(text: string) {
-    speakText(text, { lang: "en", rate: 0.95 });
-  }
-
-  function speakHint(word: string) {
-    speakText(word, { lang: "en", rate: 0.9 });
-  }
 
   function handleCopyFullEssay() {
     if (!fullEssay) return;
@@ -172,6 +162,30 @@ export function LdLearningView({
   if (isScript) {
     return (
       <div className="flex flex-col gap-8">
+        {/* Authentic Studio Audio Player */}
+        {audioTracks && audioTracks[0]?.src && (
+          <AudioPlayer
+            src={audioTracks[0].src}
+            label="Listen & Dictate 원본 스튜디오 음원 전체 듣기 (Full Studio Recording)"
+            autoplay={false}
+          />
+        )}
+
+        {/* Pedagogical Banner */}
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
+          <div className="flex items-center gap-2">
+            <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+              ★
+            </span>
+            <span className="font-semibold text-ink">
+              Paul Nation(빅토리아 대학교) 교수의 음향학적 디코딩(Acoustic Decoding) & 스크립트 대조 역영작 랩
+            </span>
+          </div>
+          <span className="font-mono text-[11px] text-ink-faint">
+            무자막 청취 → 받아쓰기 디코딩 → 모범 스크립트 대조 → 역영작
+          </span>
+        </div>
+
         {/* Header Hero Banner */}
         <div className="rounded-xl border border-line bg-surface/80 p-5 shadow-xs">
           <div className="flex flex-wrap items-center justify-between gap-3">
@@ -265,16 +279,12 @@ export function LdLearningView({
             </div>
             <div className="flex flex-wrap gap-2">
               {hintWords.map((word, i) => (
-                <button
+                <span
                   key={i}
-                  type="button"
-                  onClick={() => speakHint(word)}
-                  title="클릭하여 영어 발음 청취"
-                  className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[12.5px] font-medium text-ink hover:border-ink/50 hover:bg-raised transition-colors cursor-pointer shadow-2xs"
+                  className="inline-flex items-center rounded-md border border-line bg-surface px-2.5 py-1 text-[12.5px] font-medium text-ink shadow-2xs select-text"
                 >
-                  <span>{word}</span>
-                  <span className="text-[11px] text-ink-faint">🔊</span>
-                </button>
+                  {word}
+                </span>
               ))}
             </div>
           </div>
@@ -309,14 +319,6 @@ export function LdLearningView({
                     </div>
 
                     <div className="flex shrink-0 items-center gap-1.5">
-                      <button
-                        type="button"
-                        onClick={() => speakKorean(item.ko)}
-                        title="한글 음성 듣기"
-                        className="rounded p-1.5 text-ink-faint hover:bg-raised hover:text-ink transition-colors cursor-pointer"
-                      >
-                        🔊
-                      </button>
                       <button
                         type="button"
                         onClick={() => toggleComplete(idx)}
@@ -365,14 +367,6 @@ export function LdLearningView({
                           <span className="font-mono text-[10.5px] font-semibold text-emerald-700 dark:text-emerald-400 uppercase tracking-wider">
                             ✨ 모범 영문 스크립트 (Model English Transcript)
                           </span>
-                          <button
-                            type="button"
-                            onClick={() => speakEnglish(item.en)}
-                            title="원어민 표준 발음 듣기"
-                            className="inline-flex items-center gap-1 rounded bg-emerald-600/20 px-2 py-0.5 text-[11px] font-medium text-emerald-900 dark:text-emerald-200 hover:bg-emerald-600/30 transition-colors cursor-pointer"
-                          >
-                            <span>🔊 원어민 발음</span>
-                          </button>
                         </div>
                         <p className="font-mono font-medium select-text">{item.en}</p>
                       </div>
@@ -403,30 +397,12 @@ export function LdLearningView({
                         </span>
                         {s.ko}
                       </p>
-                      <button
-                        type="button"
-                        onClick={() => speakKorean(s.ko)}
-                        title="한글 음성 듣기"
-                        className="shrink-0 text-[11px] text-ink-faint hover:text-ink cursor-pointer p-1"
-                      >
-                        🔊
-                      </button>
                     </div>
                     {s.en ? (
                       <div className="mt-2 rounded bg-emerald-500/10 border border-emerald-500/20 p-2.5 text-emerald-950 dark:text-emerald-200">
-                        <div className="flex items-start justify-between gap-2">
-                          <p className="font-mono text-[13px] leading-relaxed select-text">
-                            {s.en}
-                          </p>
-                          <button
-                            type="button"
-                            onClick={() => speakEnglish(s.en)}
-                            title="영문 표준 발음 듣기"
-                            className="shrink-0 text-[11px] text-emerald-800 dark:text-emerald-300 hover:text-emerald-900 cursor-pointer p-0.5"
-                          >
-                            🔊
-                          </button>
-                        </div>
+                        <p className="font-mono text-[13px] leading-relaxed select-text">
+                          {s.en}
+                        </p>
                       </div>
                     ) : null}
                   </div>
@@ -488,6 +464,30 @@ export function LdLearningView({
   // ---------------------------------------------------------------------------
   return (
     <div className="flex flex-col gap-8">
+      {/* Authentic Studio Audio Player */}
+      {audioTracks && audioTracks[0]?.src && (
+        <AudioPlayer
+          src={audioTracks[0].src}
+          label="Listen & Dictate 원본 스튜디오 음원 전체 듣기 (Full Studio Recording)"
+          autoplay={false}
+        />
+      )}
+
+      {/* Pedagogical Banner */}
+      <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
+        <div className="flex items-center gap-2">
+          <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+            ★
+          </span>
+          <span className="font-semibold text-ink">
+            Paul Nation(빅토리아 대학교) 교수의 음향학적 디코딩(Acoustic Decoding) & 스크립트 대조 딕테이션 랩
+          </span>
+        </div>
+        <span className="font-mono text-[11px] text-ink-faint">
+          100% 원본 스튜디오 녹음 기반 딕테이션 & 원문 스크립트 대조
+        </span>
+      </div>
+
       {/* Test Header Guidance */}
       <div className="rounded-xl border border-line bg-surface/90 p-5 shadow-xs">
         <div className="flex items-center gap-2">
@@ -514,16 +514,12 @@ export function LdLearningView({
           </div>
           <div className="flex flex-wrap gap-2">
             {hintWords.map((word, i) => (
-              <button
+              <span
                 key={i}
-                type="button"
-                onClick={() => speakHint(word)}
-                title="클릭하여 영어 발음 청취"
-                className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[12.5px] font-medium text-ink hover:border-ink/50 hover:bg-raised transition-colors cursor-pointer shadow-2xs"
+                className="inline-flex items-center rounded-md border border-line bg-surface px-2.5 py-1 text-[12.5px] font-medium text-ink shadow-2xs select-text"
               >
-                <span>{word}</span>
-                <span className="text-[11px] text-ink-faint">🔊</span>
-              </button>
+                {word}
+              </span>
             ))}
           </div>
         </div>

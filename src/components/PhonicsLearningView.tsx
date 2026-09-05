@@ -1,15 +1,16 @@
 "use client";
 
-import { useState, useRef, useEffect, useMemo } from "react";
+import { useState, useMemo } from "react";
 import type { Block } from "@/lib/types";
-import { speakText, stopSpeech } from "@/lib/speech";
+import { AudioPlayer } from "./AudioPlayer";
 
 interface PhonicsLearningViewProps {
   blocks: Block[];
   lessonKey: string;
+  audioTracks?: { src: string; label?: string }[];
 }
 
-export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewProps) {
+export function PhonicsLearningView({ blocks, lessonKey, audioTracks = [] }: PhonicsLearningViewProps) {
   const wordgridBlock = blocks.find((b) => b.type === "wordgrid") as
     | { type: "wordgrid"; rows: string[][] }
     | undefined;
@@ -17,104 +18,49 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
   const rows = wordgridBlock?.rows ?? [];
   const words = useMemo(() => rows.flat().filter(Boolean), [rows]);
 
-  const [activeWord, setActiveWord] = useState<string | null>(null);
+  const [viewMode, setViewMode] = useState<"matrix" | "fluency">("matrix");
+  const [flashIndex, setFlashIndex] = useState(0);
   const [selectedWord, setSelectedWord] = useState<string>(words[0] || "");
-  const [isPlayingAll, setIsPlayingAll] = useState(false);
-  const [speed, setSpeed] = useState<0.85 | 1.0>(1.0);
-  const [activeRowIdx, setActiveRowIdx] = useState<number | null>(null);
 
-  const playIndexRef = useRef(0);
-  const isPlayingRef = useRef(false);
-
-  useEffect(() => {
-    return () => {
-      stopSpeech();
-      isPlayingRef.current = false;
-    };
-  }, []);
-
-  function playWord(word: string, onEnd?: () => void) {
-    stopSpeech();
-    setActiveWord(word);
+  function handleSelectWord(word: string) {
     setSelectedWord(word);
-
-    speakText(word, {
-      lang: "en",
-      rate: speed,
-      onEnd: () => {
-        setActiveWord(null);
-        onEnd?.();
-      },
-      onError: () => {
-        setActiveWord(null);
-        onEnd?.();
-      },
-    });
-  }
-
-  function handlePlayAll() {
-    if (isPlayingAll) {
-      isPlayingRef.current = false;
-      setIsPlayingAll(false);
-      stopSpeech();
-      setActiveWord(null);
-      setActiveRowIdx(null);
-      return;
-    }
-
-    if (words.length === 0) return;
-    isPlayingRef.current = true;
-    setIsPlayingAll(true);
-    playIndexRef.current = 0;
-    playNextSequential();
-  }
-
-  function playNextSequential() {
-    if (!isPlayingRef.current || playIndexRef.current >= words.length) {
-      isPlayingRef.current = false;
-      setIsPlayingAll(false);
-      setActiveWord(null);
-      setActiveRowIdx(null);
-      return;
-    }
-
-    const word = words[playIndexRef.current];
-    playWord(word, () => {
-      playIndexRef.current += 1;
-      setTimeout(() => {
-        if (isPlayingRef.current) {
-          playNextSequential();
-        }
-      }, 350);
-    });
-  }
-
-  function playRow(rowIndex: number) {
-    const rowWords = (rows[rowIndex] || []).filter(Boolean);
-    if (rowWords.length === 0) return;
-
-    stopSpeech();
-    setActiveRowIdx(rowIndex);
-    let idx = 0;
-
-    function playNext() {
-      if (idx >= rowWords.length) {
-        setActiveRowIdx(null);
-        return;
-      }
-      playWord(rowWords[idx], () => {
-        idx += 1;
-        setTimeout(playNext, 300);
-      });
-    }
-
-    playNext();
   }
 
   return (
     <div className="flex flex-col gap-6">
-      {/* 1. Header Toolbar */}
-      <div className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-line bg-surface/90 p-5 shadow-xs">
+      {/* Authentic Studio Audio Player */}
+      {audioTracks && audioTracks[0]?.src && (
+        <div className="rounded-2xl border border-line bg-surface p-4 shadow-xs">
+          <div className="mb-2 flex items-center justify-between">
+            <span className="font-mono text-[11px] font-bold uppercase tracking-wider text-emerald-700">
+              🎙️ Studio Master Audio · 원어민 원음 전체 낭독
+            </span>
+          </div>
+          <AudioPlayer
+            src={audioTracks[0].src}
+            label={audioTracks[0].label || "VOCA / Phonics 원어민 스튜디오 낭독 음원 (Studio Recording)"}
+            autoplay={false}
+          />
+        </div>
+      )}
+
+      {/* Pedagogical Banner */}
+      <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-4 py-3 border border-primary/15 text-[12px]">
+        <div className="flex items-center gap-2">
+          <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+            ★
+          </span>
+          <span className="font-semibold text-ink">
+            Paul Nation(빅토리아 대학교) 교수의 어휘 습득론(Form-Meaning Association) & 4대 균형 학습 매트릭스
+          </span>
+        </div>
+        <span className="font-mono text-[11px] text-ink-faint">
+          음운 지각 → 철자-소리 연합 → 6×6 리듬 매트릭스 → 1초 유창성 인출
+        </span>
+      </div>
+
+      {/* Header Toolbar */}
+      <div className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-line bg-surface/90 p-4.5 shadow-xs">
         <div>
           <div className="flex items-center gap-2">
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600/10 text-[15px] font-bold text-indigo-700">
@@ -125,56 +71,81 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
                 파닉스 & 핵심 어휘 리듬 매트릭스 (Phonics Matrix)
               </h2>
               <span className="text-[12px] font-medium text-ink-soft">
-                원어민 표준 발음 즉시 청취 · 행별 연속 재생 · 전체 리듬 스트리밍
+                스튜디오 원음 통독 · 6×6 음소 철자 매트릭스 · 1초 단어 즉시 인출
               </span>
             </div>
           </div>
         </div>
 
-        {/* Playback Controls & Speed Toggle */}
-        <div className="flex flex-wrap items-center gap-2.5">
-          <div className="flex items-center rounded-xl bg-raised/80 p-1 border border-line/70 text-[12px] font-medium">
-            <button
-              type="button"
-              onClick={() => setSpeed(1.0)}
-              className={`px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                speed === 1.0
-                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
-                  : "text-ink-soft hover:text-ink"
-              }`}
-            >
-              1.0x 표준
-            </button>
-            <button
-              type="button"
-              onClick={() => setSpeed(0.85)}
-              className={`px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
-                speed === 0.85
-                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
-                  : "text-ink-soft hover:text-ink"
-              }`}
-            >
-              0.85x 느리게
-            </button>
-          </div>
-
+        {/* View Mode */}
+        <div className="flex items-center rounded-xl bg-raised/80 p-1 border border-line/70 text-[12px] font-medium">
           <button
             type="button"
-            onClick={handlePlayAll}
-            className={
-              "flex items-center gap-1.5 rounded-xl px-4 py-2 text-[12.5px] font-semibold transition-all cursor-pointer shadow-xs " +
-              (isPlayingAll
-                ? "bg-red-600 text-white"
-                : "bg-ink text-surface hover:opacity-90")
-            }
+            onClick={() => setViewMode("matrix")}
+            className={`px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
+              viewMode === "matrix"
+                ? "bg-surface text-ink font-bold shadow-2xs border border-line/80"
+                : "text-ink-soft hover:text-ink"
+            }`}
           >
-            <span>{isPlayingAll ? "⏸ 일시정지" : "▶ 전체 36단어 연속 재생"}</span>
+            📊 6×6 매트릭스
+          </button>
+          <button
+            type="button"
+            onClick={() => setViewMode("fluency")}
+            className={`px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
+              viewMode === "fluency"
+                ? "bg-surface text-ink font-bold shadow-2xs border border-line/80"
+                : "text-ink-soft hover:text-ink"
+            }`}
+          >
+            ⚡ 1초 스피드 플래시
           </button>
         </div>
       </div>
 
-      {/* 2. Selected Word Spotlight Card */}
-      {selectedWord && (
+      {/* Rapid Fluency Flashcard Mode (Nation's Fluency Development) */}
+      {viewMode === "fluency" && words.length > 0 && (
+        <div className="rounded-2xl border border-line bg-surface p-8 shadow-xs flex flex-col items-center justify-center text-center gap-6">
+          <div className="flex items-center justify-between w-full border-b border-line/60 pb-3">
+            <span className="font-mono text-[12px] font-bold text-ink-faint">
+              단어 {flashIndex + 1} / {words.length}
+            </span>
+            <span className="text-[12px] text-ink-soft">
+              1초 내 소리와 철자를 즉각 인출하세요 (Paul Nation Fluency Strand)
+            </span>
+          </div>
+
+          <div className="py-8">
+            <div className="text-5xl font-extrabold tracking-wider font-mono text-ink">
+              {words[flashIndex]}
+            </div>
+            <div className="mt-3 text-[14px] text-ink-soft">
+              단어 길이: {words[flashIndex]?.length}글자 · 철자-음소 매핑 인출
+            </div>
+          </div>
+
+          <div className="flex items-center gap-3">
+            <button
+              type="button"
+              onClick={() => setFlashIndex((p) => (p > 0 ? p - 1 : words.length - 1))}
+              className="rounded-xl border border-line bg-raised px-4 py-2 text-[13px] font-semibold text-ink hover:bg-surface cursor-pointer"
+            >
+              ← 이전 단어
+            </button>
+            <button
+              type="button"
+              onClick={() => setFlashIndex((p) => (p < words.length - 1 ? p + 1 : 0))}
+              className="rounded-xl bg-indigo-600 px-5 py-2 text-[13px] font-bold text-white shadow-xs hover:bg-indigo-700 cursor-pointer"
+            >
+              다음 단어 (1초 인출) →
+            </button>
+          </div>
+        </div>
+      )}
+
+      {/* Selected Word Spotlight Card */}
+      {viewMode === "matrix" && selectedWord && (
         <div className="rounded-2xl border border-indigo-500/30 bg-indigo-500/[0.03] p-5 shadow-xs flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-4">
             <span className="text-[32px] font-extrabold tracking-tight text-ink font-mono">
@@ -182,77 +153,63 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
             </span>
             <div className="flex flex-col text-[12px] text-ink-soft">
               <span className="font-mono text-ink-faint uppercase tracking-wider">
-                단어 길이: {selectedWord.length}글자
+                철자 길이: {selectedWord.length}글자
               </span>
-              <span>클릭하여 원어민 표준 발음 즉시 청취</span>
+              <span>상단 스튜디오 오디오와 대조하며 발화해 보세요.</span>
             </div>
           </div>
-
-          <button
-            type="button"
-            onClick={() => playWord(selectedWord)}
-            className="flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2 text-[13px] font-bold text-white shadow-xs hover:bg-indigo-700 transition-colors cursor-pointer"
-          >
-            <span>🔊 발음 다시 듣기</span>
-          </button>
+          <span className="font-mono text-[12px] text-indigo-700 font-semibold bg-indigo-500/10 px-3 py-1 rounded-lg border border-indigo-500/20">
+            선택된 어휘
+          </span>
         </div>
       )}
 
-      {/* 3. 6x6 Matrix Rows */}
-      <div className="flex flex-col gap-3.5">
-        {rows.map((row, rIdx) => {
-          const validWords = row.filter(Boolean);
-          if (validWords.length === 0) return null;
-          const isRowActive = activeRowIdx === rIdx;
+      {/* 6x6 Matrix Rows */}
+      {viewMode === "matrix" && (
+        <div className="flex flex-col gap-3.5">
+          {rows.map((row, rIdx) => {
+            const validWords = row.filter(Boolean);
+            if (validWords.length === 0) return null;
 
-          return (
-            <div
-              key={rIdx}
-              className="rounded-2xl border border-line bg-surface p-4 shadow-2xs flex flex-col gap-2.5"
-            >
-              <div className="flex items-center justify-between border-b border-line/60 pb-2">
-                <span className="font-mono text-[11px] font-bold text-ink-faint uppercase tracking-wider">
-                  Row #{rIdx + 1}
-                </span>
-                <button
-                  type="button"
-                  onClick={() => playRow(rIdx)}
-                  className={`text-[11.5px] font-semibold cursor-pointer transition-colors ${
-                    isRowActive ? "text-indigo-600 font-bold" : "text-ink-soft hover:text-ink"
-                  }`}
-                >
-                  {isRowActive ? "🔊 이 행 재생 중..." : "▶ 이 행 연속 재생"}
-                </button>
+            return (
+              <div
+                key={rIdx}
+                className="rounded-2xl border border-line bg-surface p-4 shadow-2xs flex flex-col gap-2.5"
+              >
+                <div className="flex items-center justify-between border-b border-line/60 pb-2">
+                  <span className="font-mono text-[11px] font-bold text-ink-faint uppercase tracking-wider">
+                    Row #{rIdx + 1}
+                  </span>
+                  <span className="text-[11.5px] text-ink-soft">
+                    {validWords.length}개 어휘 그룹
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2">
+                  {validWords.map((w, cIdx) => {
+                    const isSelected = selectedWord === w;
+
+                    return (
+                      <button
+                        key={cIdx}
+                        type="button"
+                        onClick={() => handleSelectWord(w)}
+                        className={`flex flex-col items-center justify-center rounded-xl border p-3.5 transition-all cursor-pointer text-center ${
+                          isSelected
+                            ? "border-indigo-500 bg-indigo-500/15 text-indigo-950 dark:text-indigo-200 font-bold ring-2 ring-indigo-500/40"
+                            : "border-line bg-surface text-ink hover:border-line-strong hover:bg-raised/40"
+                        }`}
+                      >
+                        <span className="font-mono text-[15px] font-semibold">{w}</span>
+                      </button>
+                    );
+                  })}
+                </div>
               </div>
-
-              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2">
-                {validWords.map((w, cIdx) => {
-                  const isSelected = selectedWord === w;
-                  const isActive = activeWord === w;
-
-                  return (
-                    <button
-                      key={cIdx}
-                      type="button"
-                      onClick={() => playWord(w)}
-                      className={`flex flex-col items-center justify-center rounded-xl border p-3 transition-all cursor-pointer text-center ${
-                        isActive
-                          ? "border-indigo-600 bg-indigo-600 text-white scale-105 shadow-md"
-                          : isSelected
-                          ? "border-indigo-500 bg-indigo-500/15 text-indigo-950 dark:text-indigo-200 font-bold ring-2 ring-indigo-500/40"
-                          : "border-line bg-surface text-ink hover:border-line-strong hover:bg-raised/40"
-                      }`}
-                    >
-                      <span className="font-mono text-[15px] font-semibold">{w}</span>
-                      <span className="mt-1 text-[10.5px] text-ink-faint">🔊 발음</span>
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          );
-        })}
-      </div>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 }

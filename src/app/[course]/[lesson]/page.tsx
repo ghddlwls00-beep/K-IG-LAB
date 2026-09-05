@@ -52,9 +52,6 @@ export default async function LessonPage({
   const video = lesson.video ?? [];
   const fromFlash = lesson.blocks.length === 0 && audio.length > 0;
 
-  // Extract fallback sentences for TTS reading (prioritizes English target text)
-  const fallbackSentences = extractSentencesForAudio(lesson.blocks, pairLesson?.blocks, isScript, course);
-
   return (
     <main className="mx-auto max-w-3xl px-5 py-12">
       <nav className="mb-8 flex items-center justify-between gap-4 font-mono text-[11.5px]">
@@ -112,28 +109,20 @@ export default async function LessonPage({
         </div>
       ) : null}
 
-      {/* Audio Players with native TTS fallback & gender profile */}
-      {audio.length > 0 ? (
+      {/* Authentic Studio Audio Players (Only real audio files, zero AI TTS synthesis) */}
+      {![
+        "man", "woman", "adults-m", "adults-w", "adults",
+        "ld", "phonics", "student", "basics", "middle", "chinese"
+      ].includes(course) && audio.length > 0 ? (
         <div className="mb-8 flex flex-col gap-2.5">
           {audio.map((a, i) => (
             <AudioPlayer
               key={a.src}
               src={a.src}
-              fallbackSentences={fallbackSentences}
               lang={courseInfo?.contentLang ?? "en"}
-              gender={voiceGender}
               label={audioLabel(audio.length, i, fromFlash)}
             />
           ))}
-        </div>
-      ) : fallbackSentences.length > 0 ? (
-        <div className="mb-8">
-          <AudioPlayer
-            fallbackSentences={fallbackSentences}
-            lang={courseInfo?.contentLang ?? "en"}
-            gender={voiceGender}
-            label="전체 듣기 (AI 음성 재생)"
-          />
         </div>
       ) : null}
 
@@ -204,69 +193,4 @@ function cleanText(text: string): string {
     .trim();
 }
 
-function extractSentencesForAudio(
-  blocks: Block[],
-  pairBlocks: Block[] | null | undefined,
-  isScript: boolean,
-  course: string,
-): string[] {
-  let targetBlocks = isScript && pairBlocks && pairBlocks.length > 0 ? pairBlocks : blocks;
-
-  // In grammar1 (or whenever targetBlocks has Korean sentences and pairBlocks has English sentences):
-  // We MUST pick the English sentences so AudioPlayer reads the English lesson!
-  if (course !== "chinese") {
-    const mainSent = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
-    const pairSent = pairBlocks?.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
-    if (mainSent?.items?.[0]?.text && pairSent?.items?.[0]?.text) {
-      const mainIsEn = isEnglishText(mainSent.items[0].text);
-      const pairIsEn = isEnglishText(pairSent.items[0].text);
-      if (!mainIsEn && pairIsEn) {
-        targetBlocks = pairBlocks!;
-      } else if (mainIsEn) {
-        targetBlocks = blocks;
-      }
-    }
-  }
-
-  // 1. Sentences block
-  const sentBlock = targetBlocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { text: string }[] } | undefined;
-  if (sentBlock?.items && sentBlock.items.length > 0) {
-    return sentBlock.items.map((it) => cleanText(it.text)).filter(Boolean);
-  }
-
-  // 2. Dialogue / conversation courses (man, woman, student)
-  if (["man", "woman", "student"].includes(course)) {
-    const paras = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
-    const enParas = paras
-      .map((p) => cleanText(p.text))
-      .filter((t) => {
-        if (!t) return false;
-        if (t.includes("K-IG") || t.includes("<font") || t.includes("한/영") || /^Chapter\s+\d/i.test(t) || t.endsWith(":")) return false;
-        if (t === "Greeting and Introduction" || t === "My Personal and Educational Background") return false;
-        return isEnglishText(t);
-      });
-    if (enParas.length > 0) {
-      return enParas;
-    }
-  }
-
-  // 3. Reading passage
-  if (course === "reading") {
-    const inst = targetBlocks.find((b) => b.type === "instruction");
-    if (inst?.text) {
-      return inst.text
-        .split(/(?<=[.?!])\s+/)
-        .map((s) => cleanText(s))
-        .filter(Boolean);
-    }
-  }
-
-  // 4. Any paragraphs
-  const allParas = targetBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string }[];
-  if (allParas.length > 0) {
-    return allParas.map((p) => cleanText(p.text)).filter(Boolean);
-  }
-
-  return [];
-}
 

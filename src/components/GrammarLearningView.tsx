@@ -3,7 +3,6 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
-import { speakText, stopSpeech } from "@/lib/speech";
 
 export interface GrammarItem {
   id: number;
@@ -12,6 +11,8 @@ export interface GrammarItem {
   englishText: string;
   clozeParts: { text: string; isBlank: boolean; answer?: string }[];
   targetKeywords: string[];
+  tokens: string[];
+  scrambled: { word: string; originalIndex: number; id: string }[];
   isTheory?: boolean;
   theoryQuestion?: string;
   theoryAnswer?: string;
@@ -61,9 +62,32 @@ function cleanText(text: string): string {
 function normalizeForComparison(text: string): string {
   return text
     .toLowerCase()
-    .replace(/[.,?!;:\"'()]/g, "")
+    .replace(/[.,?!;:"'()]/g, "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function renderNoticingTokens(userText: string, targetText: string) {
+  const userWords = userText.toLowerCase().replace(/[.,?!;:"'()]/g, "").trim().split(/\s+/).filter(Boolean);
+  const targetTokens = targetText.trim().split(/(\s+|[.,?!;:"'()]+)/);
+  return targetTokens.map((token, idx) => {
+    const clean = token.toLowerCase().replace(/[.,?!;:"'()]/g, "").trim();
+    if (!clean) return <span key={idx}>{token}</span>;
+    const isMatched = userWords.includes(clean);
+    return isMatched ? (
+      <span key={idx} className="font-semibold text-emerald-800 dark:text-emerald-300">
+        {token}
+      </span>
+    ) : (
+      <span
+        key={idx}
+        className="rounded bg-amber-500/20 px-1 py-0.5 font-bold text-amber-900 dark:text-amber-200 underline decoration-amber-500 underline-offset-2"
+        title="학습자 영작과 차이가 있는 문법/구문 요소 (Notice the Gap)"
+      >
+        {token}
+      </span>
+    );
+  });
 }
 
 function buildCloze(enText: string): {
@@ -81,7 +105,6 @@ function buildCloze(enText: string): {
     }
   }
 
-  // Fallback if no predefined grammar keywords found
   if (candidates.length === 0) {
     for (let i = 0; i < tokens.length; i++) {
       if (/^[A-Za-z]{3,}$/.test(tokens[i])) {
@@ -91,7 +114,6 @@ function buildCloze(enText: string): {
     }
   }
 
-  // Pick up to 2 key grammar words to blank out
   const toBlank = candidates.slice(0, 2);
   const blankIndices = new Set(toBlank.map((c) => c.index));
   const keywords = toBlank.map((c) => c.word);
@@ -113,7 +135,6 @@ export function GrammarLearningView({
   pairBlocks = null,
   course,
   lessonKey,
-  isScript,
 }: GrammarLearningViewProps) {
   // Extract Grammar Items
   const items = useMemo<GrammarItem[]>(() => {
@@ -144,6 +165,8 @@ export function GrammarLearningView({
             englishText: aText,
             clozeParts: [],
             targetKeywords: [],
+            tokens: [],
+            scrambled: [],
             isTheory: true,
             theoryQuestion: qText,
             theoryAnswer: aText,
@@ -154,24 +177,22 @@ export function GrammarLearningView({
       if (theoryItems.length > 0) return theoryItems;
     }
 
-    // 2. Standard sentence extraction from main and pair blocks
-    const mainSentences = blocks
+    // 2. Sentences block
+    const sentsM = blocks
       .filter((b) => b.type === "sentences")
       .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
-    const pairSentences = pairBlocks
-      ? pairBlocks
-          .filter((b) => b.type === "sentences")
-          .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items)
-      : [];
+    const sentsP = (pairBlocks || [])
+      .filter((b) => b.type === "sentences")
+      .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
 
-    const count = Math.max(mainSentences.length, pairSentences.length);
+    const maxCount = Math.max(sentsM.length, sentsP.length);
     const result: GrammarItem[] = [];
 
-    for (let i = 0; i < count; i++) {
-      const m = mainSentences[i];
-      const p = pairSentences[i];
-      const textM = m?.text ?? "";
-      const textP = p?.text ?? "";
+    for (let i = 0; i < maxCount; i++) {
+      const m = sentsM[i];
+      const p = sentsP[i];
+      const textM = m?.text || "";
+      const textP = p?.text || "";
 
       let en = "";
       let ko = "";
@@ -194,6 +215,15 @@ export function GrammarLearningView({
       const cleanKo = cleanText(ko);
       const { parts, keywords } = buildCloze(cleanEn);
 
+      const words = cleanEn.trim().split(/\s+/).filter(Boolean);
+      // Deterministic pseudo-shuffle for Syntax Slot Builder
+      const indexed = words.map((w, wIdx) => ({ word: w, originalIndex: wIdx, id: `${i}-${wIdx}-${w}` }));
+      const scrambled = [...indexed].sort((a, b) => {
+        const hashA = (a.word.length * 7 + a.originalIndex * 13) % 17;
+        const hashB = (b.word.length * 7 + b.originalIndex * 13) % 17;
+        return hashA - hashB || a.word.localeCompare(b.word);
+      });
+
       result.push({
         id: i + 1,
         numberLabel: m?.n || p?.n || String(i + 1),
@@ -201,26 +231,25 @@ export function GrammarLearningView({
         englishText: cleanEn,
         clozeParts: parts,
         targetKeywords: keywords,
+        tokens: words,
+        scrambled,
       });
     }
 
     return result;
   }, [blocks, pairBlocks, lessonKey]);
 
-
-
-  // Study Mode State
-  const [studyMode, setStudyMode] = useState<"composition" | "cloze" | "shadowing" | "exam">("composition");
+  // Study Mode State (Scott Thornbury & Paul Nation Pedagogical Progression)
+  const [studyMode, setStudyMode] = useState<"discovery" | "builder" | "cloze" | "composition" | "exam">("discovery");
   const [fontSize, setFontSize] = useState<"normal" | "large" | "xlarge">("normal");
-  const [audioSpeed, setAudioSpeed] = useState<0.85 | 1.0>(1.0);
 
   // Student Work State
   const [answers, setAnswers] = useState<Record<number, string>>({});
   const [selfGrades, setSelfGrades] = useState<Record<number, boolean>>({});
   const [clozeInputs, setClozeInputs] = useState<Record<number, Record<number, string>>>({});
   const [revealedAnswers, setRevealedAnswers] = useState<Record<number, boolean>>({});
-  const [shadowingRepeats, setShadowingRepeats] = useState<Record<number, number>>({});
-  const [activeSpeakingId, setActiveSpeakingId] = useState<number | null>(null);
+  const [builderSlots, setBuilderSlots] = useState<Record<number, { word: string; originalIndex: number; id: string }[]>>({});
+  const [discoveredRules, setDiscoveredRules] = useState<Record<string, boolean>>({});
 
   // Exam Mode State
   const [examSubmitted, setExamSubmitted] = useState(false);
@@ -240,7 +269,8 @@ export function GrammarLearningView({
         if (data.selfGrades) setSelfGrades(data.selfGrades);
         if (data.clozeInputs) setClozeInputs(data.clozeInputs);
         if (data.revealedAnswers) setRevealedAnswers(data.revealedAnswers);
-        if (data.shadowingRepeats) setShadowingRepeats(data.shadowingRepeats);
+        if (data.builderSlots) setBuilderSlots(data.builderSlots);
+        if (data.discoveredRules) setDiscoveredRules(data.discoveredRules);
         if (data.examSubmitted !== undefined) setExamSubmitted(data.examSubmitted);
         if (data.at) setSavedAt(data.at);
       }
@@ -263,7 +293,8 @@ export function GrammarLearningView({
             selfGrades,
             clozeInputs,
             revealedAnswers,
-            shadowingRepeats,
+            builderSlots,
+            discoveredRules,
             examSubmitted,
             at,
           })
@@ -274,29 +305,9 @@ export function GrammarLearningView({
       }
     }, 400);
     return () => clearTimeout(timer);
-  }, [answers, selfGrades, clozeInputs, revealedAnswers, shadowingRepeats, examSubmitted, storageKey, restored]);
+  }, [answers, selfGrades, clozeInputs, revealedAnswers, builderSlots, discoveredRules, examSubmitted, storageKey, restored]);
 
-  // Audio Playback
-  function playEnglish(text: string, id: number) {
-    if (!text) return;
-    stopSpeech();
-    setActiveSpeakingId(id);
-    speakText(text, {
-      lang: "en",
-      rate: audioSpeed,
-      onStart: () => setActiveSpeakingId(id),
-      onEnd: () => setActiveSpeakingId(null),
-      onError: () => setActiveSpeakingId(null),
-    });
-  }
-
-  function playKorean(text: string) {
-    if (!text) return;
-    stopSpeech();
-    speakText(text, { lang: "ko", rate: 1.0 });
-  }
-
-  // Self Grading & Answer Handlers
+  // Handlers
   function handleAnswerChange(id: number, val: string) {
     setAnswers((prev) => ({ ...prev, [id]: val }));
   }
@@ -309,12 +320,47 @@ export function GrammarLearningView({
     setSelfGrades((prev) => {
       const next = { ...prev };
       if (next[id] === passed) {
-        delete next[id]; // toggle off
+        delete next[id];
       } else {
         next[id] = passed;
       }
       return next;
     });
+  }
+
+  function handleClozeChange(itemId: number, partIdx: number, val: string) {
+    setClozeInputs((prev) => ({
+      ...prev,
+      [itemId]: {
+        ...(prev[itemId] || {}),
+        [partIdx]: val,
+      },
+    }));
+  }
+
+  // Syntax Slot Builder Actions
+  function handleAddWordToSlot(itemId: number, chip: { word: string; originalIndex: number; id: string }) {
+    setBuilderSlots((prev) => {
+      const current = prev[itemId] || [];
+      if (current.some((c) => c.id === chip.id)) return prev;
+      return { ...prev, [itemId]: [...current, chip] };
+    });
+  }
+
+  function handleRemoveWordFromSlot(itemId: number, chipId: string) {
+    setBuilderSlots((prev) => {
+      const current = prev[itemId] || [];
+      return { ...prev, [itemId]: current.filter((c) => c.id !== chipId) };
+    });
+  }
+
+  function handleResetSlots(itemId: number) {
+    setBuilderSlots((prev) => ({ ...prev, [itemId]: [] }));
+  }
+
+  function handleSolveSlots(item: GrammarItem) {
+    const sorted = [...item.scrambled].sort((a, b) => a.originalIndex - b.originalIndex);
+    setBuilderSlots((prev) => ({ ...prev, [item.id]: sorted }));
   }
 
   function handleBatchReveal(showAll: boolean) {
@@ -331,7 +377,8 @@ export function GrammarLearningView({
       setSelfGrades({});
       setClozeInputs({});
       setRevealedAnswers({});
-      setShadowingRepeats({});
+      setBuilderSlots({});
+      setDiscoveredRules({});
       setExamSubmitted(false);
       try {
         window.localStorage.removeItem(storageKey);
@@ -349,32 +396,15 @@ export function GrammarLearningView({
     });
   }
 
-  // Cloze Input Handler
-  function handleClozeChange(itemId: number, partIdx: number, val: string) {
-    setClozeInputs((prev) => ({
-      ...prev,
-      [itemId]: {
-        ...(prev[itemId] || {}),
-        [partIdx]: val,
-      },
-    }));
-  }
-
-  // Shadowing Repeat Counter
-  function handleRepeatIncrement(id: number, text: string) {
-    setShadowingRepeats((prev) => ({
-      ...prev,
-      [id]: (prev[id] || 0) + 1,
-    }));
-    playEnglish(text, id);
-  }
-
   // Metrics
   const totalCount = items.length;
   const answeredCount = items.filter((it) => (answers[it.id] || "").trim().length > 0).length;
   const correctCount = items.filter((it) => selfGrades[it.id] === true).length;
   const progressPercent = totalCount > 0 ? Math.round((answeredCount / totalCount) * 100) : 0;
-  const accuracyPercent = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+  const builderCompletedCount = items.filter((it) => {
+    const placed = builderSlots[it.id] || [];
+    return placed.length === it.tokens.length && placed.every((c, idx) => c.originalIndex === idx);
+  }).length;
 
   // Exam Score Calculation
   const examResults = useMemo(() => {
@@ -422,20 +452,82 @@ export function GrammarLearningView({
     },
   }[fontSize];
 
+  // ---------------------------------------------------------------------------
+  // SPECIAL THEORY LESSON VIEW (gh1-020, gh1-021)
+  // ---------------------------------------------------------------------------
+  if (items.length > 0 && items[0].isTheory) {
+    return (
+      <div className="flex flex-col gap-6">
+        <div className="rounded-2xl border border-primary/20 bg-primary/5 p-6 shadow-xs">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="rounded-full bg-primary/20 px-2.5 py-0.5 text-[11px] font-bold text-primary uppercase tracking-wide">
+              Grammar Theory & Syntactic Rules
+            </span>
+          </div>
+          <h2 className="text-xl font-bold text-ink">핵심 문법 이론 & 원리 정리</h2>
+          <p className="mt-1 text-[13.5px] text-ink-soft leading-relaxed">
+            문장의 골격을 형성하는 핵심 문법 이론입니다. 질문을 읽고 스스로 답을 생각해 본 뒤 [정답 확인]을 클릭하세요.
+          </p>
+        </div>
+
+        <div className="flex flex-col gap-4">
+          {items.map((item) => {
+            const isRevealed = revealedAnswers[item.id] === true;
+            return (
+              <div key={item.id} className="rounded-2xl border border-line bg-surface p-5 shadow-2xs">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="flex items-start gap-3">
+                    <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-xl bg-primary text-white text-[12.5px] font-bold">
+                      Q{item.numberLabel}
+                    </span>
+                    <h3 className="font-semibold text-ink text-[15.5px] leading-snug pt-0.5">
+                      {item.theoryQuestion}
+                    </h3>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => toggleReveal(item.id)}
+                    className="shrink-0 rounded-xl border border-line bg-raised px-3.5 py-1.5 text-[12px] font-medium text-ink hover:bg-surface transition-colors cursor-pointer"
+                  >
+                    {isRevealed ? "🔒 닫기" : "💡 정답 확인"}
+                  </button>
+                </div>
+
+                {isRevealed && (
+                  <div className="mt-4 rounded-xl border border-emerald-500/30 bg-emerald-500/10 p-4 text-[14.5px] text-emerald-950 dark:text-emerald-200 leading-relaxed font-medium">
+                    <span className="block font-mono text-[11px] font-bold text-emerald-700 dark:text-emerald-400 uppercase mb-1">
+                      Grammar Answer & Rule
+                    </span>
+                    {item.theoryAnswer}
+                  </div>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    );
+  }
+
+  // ---------------------------------------------------------------------------
+  // STANDARD GRAMMAR LESSON VIEW (Thornbury & Nation Pedagogical Architecture)
+  // ---------------------------------------------------------------------------
+  const exemplarItems = items.slice(0, 3);
+
   return (
     <div className="flex flex-col gap-8">
-      {/* 1. Header Toolbar & Mode Switcher */}
+      {/* 1. Academic Citation & Pedagogical Header */}
       <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface/90 p-4 shadow-xs">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line/60 pb-3">
           <div className="flex items-center gap-2">
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-primary/10 text-[14px]">
-              {course === "grammar1" ? "✍️" : "🧩"}
+              ✍️
             </span>
             <div>
               <span className="font-semibold text-ink text-[14.5px]">
                 {course === "grammar1"
-                  ? "Grammar 1 : 기초 영작 및 문법 훈련"
-                  : "Grammar 2 : 문법 패턴 & 구문 직독직해"}
+                  ? "Grammar 1 : 기초 영작 및 통사 구조 훈련"
+                  : "Grammar 2 : 고급 문법 패턴 & 구문 직독직해"}
               </span>
               <span className="ml-2 font-mono text-[11px] text-ink-faint">
                 총 {totalCount}개 문항
@@ -451,21 +543,50 @@ export function GrammarLearningView({
           )}
         </div>
 
+        {/* Pedagogical Banner */}
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
+          <div className="flex items-center gap-2">
+            <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+              ★
+            </span>
+            <span className="font-semibold text-ink">
+              Scott Thornbury(케임브리지 대학교) 귀납적 문법 발견 & Paul Nation(빅토리아 대학교) 통사 구조 빌더 적용
+            </span>
+          </div>
+          <span className="font-mono text-[11px] text-ink-faint">
+            규칙 발견 → 통사 어순 빌더 → 문맥 클로즈 → 실전 영작
+          </span>
+        </div>
+
+        {/* Study Mode Selector */}
         <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
-          {/* Study Mode Selector */}
           <div className="flex flex-wrap items-center gap-1 rounded-xl bg-raised/80 p-1 border border-line/70">
             <button
               type="button"
-              onClick={() => setStudyMode("composition")}
+              onClick={() => setStudyMode("discovery")}
               className={
                 "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
-                (studyMode === "composition"
+                (studyMode === "discovery"
                   ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
                   : "text-ink-soft hover:text-ink hover:bg-surface/50")
               }
             >
-              <span>✍️</span>
-              <span>Step 1 · FSI 통사 영작 훈련</span>
+              <span>🔍</span>
+              <span>Step 1 · 귀납적 문법 발견</span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setStudyMode("builder")}
+              className={
+                "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
+                (studyMode === "builder"
+                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
+                  : "text-ink-soft hover:text-ink hover:bg-surface/50")
+              }
+            >
+              <span>🧱</span>
+              <span>Step 2 · 통사 구조 빌더</span>
             </button>
 
             <button
@@ -479,21 +600,21 @@ export function GrammarLearningView({
               }
             >
               <span>🧩</span>
-              <span>Step 2 · 캠브리지 뉘앙스 대조</span>
+              <span>Step 3 · 문맥 속 빈칸 완성</span>
             </button>
 
             <button
               type="button"
-              onClick={() => setStudyMode("shadowing")}
+              onClick={() => setStudyMode("composition")}
               className={
                 "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
-                (studyMode === "shadowing"
+                (studyMode === "composition"
                   ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
                   : "text-ink-soft hover:text-ink hover:bg-surface/50")
               }
             >
-              <span>⚖️</span>
-              <span>Step 3 · 음성 구문 각인</span>
+              <span>✍️</span>
+              <span>Step 4 · 실전 상황 영작</span>
             </button>
 
             <button
@@ -507,31 +628,12 @@ export function GrammarLearningView({
               }
             >
               <span>📝</span>
-              <span>Step 4 · 종합 평가 시험</span>
+              <span>Step 5 · 종합 평가 시험</span>
             </button>
           </div>
 
-          {/* Settings & Font Controls */}
+          {/* Typography Controls */}
           <div className="flex items-center gap-2">
-            <div className="flex items-center rounded-lg border border-line/70 bg-raised/50 p-0.5 text-[11px] font-mono text-ink-soft">
-              <button
-                type="button"
-                onClick={() => setAudioSpeed(1.0)}
-                className={`px-2 py-0.5 rounded cursor-pointer ${audioSpeed === 1.0 ? "bg-surface text-ink font-semibold shadow-2xs" : ""}`}
-                title="음성 속도 1.0x"
-              >
-                1.0x
-              </button>
-              <button
-                type="button"
-                onClick={() => setAudioSpeed(0.85)}
-                className={`px-2 py-0.5 rounded cursor-pointer ${audioSpeed === 0.85 ? "bg-surface text-ink font-semibold shadow-2xs" : ""}`}
-                title="음성 속도 0.85x (천천히)"
-              >
-                0.85x
-              </button>
-            </div>
-
             <div className="flex items-center rounded-lg border border-line/70 bg-raised/50 p-0.5 text-[11px] font-mono text-ink-soft">
               <button
                 type="button"
@@ -552,7 +654,7 @@ export function GrammarLearningView({
                 onClick={() => setFontSize("xlarge")}
                 className={`px-2 py-0.5 rounded cursor-pointer ${fontSize === "xlarge" ? "bg-surface text-ink font-semibold shadow-2xs" : ""}`}
               >
-                특대
+                최대
               </button>
             </div>
           </div>
@@ -560,251 +662,221 @@ export function GrammarLearningView({
       </div>
 
       {/* ========================================================================= */}
-      {/* MODE 1: ✍️ 실전 영작 훈련 (Interactive Composition Practice) */}
+      {/* STEP 1: 🔍 귀납적 문법 발견 (Inductive Grammar Discovery - Scott Thornbury) */}
       {/* ========================================================================= */}
-      {studyMode === "composition" && (
+      {studyMode === "discovery" && (
         <div className="flex flex-col gap-6">
-          {/* Progress & Quick Actions Dashboard */}
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-            <div className="flex flex-col justify-between rounded-xl border border-line bg-surface p-4 shadow-2xs">
-              <span className="text-[12px] font-medium text-ink-soft">작성 진행률</span>
-              <div className="mt-2 flex items-baseline justify-between">
-                <span className="text-[22px] font-bold text-ink">
-                  {answeredCount} <span className="text-[14px] font-normal text-ink-faint">/ {totalCount}</span>
-                </span>
-                <span className="font-mono text-[13px] font-semibold text-primary">
-                  {progressPercent}%
-                </span>
-              </div>
-              <div className="mt-2 h-1.5 w-full overflow-hidden rounded-full bg-raised">
-                <div
-                  className="h-full bg-primary transition-all duration-300"
-                  style={{ width: `${progressPercent}%` }}
-                />
-              </div>
+          <div className="rounded-2xl border border-primary/25 bg-gradient-to-br from-primary/5 via-surface to-raised/50 p-6 shadow-xs">
+            <div className="flex items-center gap-2 mb-2">
+              <span className="rounded-full bg-primary/20 px-2.5 py-0.5 text-[11px] font-bold text-primary uppercase tracking-wide">
+                Scott Thornbury's Inductive Discovery Method
+              </span>
             </div>
+            <h2 className="text-xl font-bold text-ink">공식을 외우기 전, 예문에서 패턴을 먼저 발견하세요</h2>
+            <p className="mt-1.5 text-[14px] text-ink-soft leading-relaxed">
+              기계적인 문법 공식 암기는 실제 발화에서 작동하지 않습니다. 아래 제시된 대표 예문 3개를 주의 깊게 관찰하고,
+              단어들이 배열되는 공통 구조와 문법적 규칙성을 학습자 스스로 발견(Uncover)해 보세요.
+            </p>
+          </div>
 
-            <div className="flex flex-col justify-between rounded-xl border border-line bg-surface p-4 shadow-2xs">
-              <span className="text-[12px] font-medium text-ink-soft">자가 채점 정답률</span>
-              <div className="mt-2 flex items-baseline justify-between">
-                <span className="text-[22px] font-bold text-emerald-600">
-                  {correctCount} <span className="text-[14px] font-normal text-ink-faint">개 맞음</span>
-                </span>
-                <span className="font-mono text-[13px] font-semibold text-emerald-600">
-                  {accuracyPercent}%
-                </span>
-              </div>
-              <div className="mt-2 h-1.5 w-full overflow-hidden rounded-full bg-raised">
-                <div
-                  className="h-full bg-emerald-500 transition-all duration-300"
-                  style={{ width: `${accuracyPercent}%` }}
-                />
-              </div>
-            </div>
+          {/* Exemplar Sentences Card */}
+          <div className="flex flex-col gap-4">
+            <h3 className="text-[15px] font-bold text-ink flex items-center gap-2">
+              <span>📖</span>
+              <span>본 레슨의 대표 핵심 예문 (Representative Exemplars)</span>
+            </h3>
 
-            <div className="flex flex-col justify-between gap-2 rounded-xl border border-line bg-surface p-3 shadow-2xs">
-              <span className="text-[11.5px] font-medium text-ink-soft">일괄 동작</span>
-              <div className="flex flex-wrap items-center gap-2">
-                <button
-                  type="button"
-                  onClick={() => handleBatchReveal(true)}
-                  className="flex-1 rounded-lg border border-line bg-raised/70 px-2.5 py-1.5 text-[12px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
-                >
-                  💡 전체 정답 보기
-                </button>
-                <button
-                  type="button"
-                  onClick={() => handleBatchReveal(false)}
-                  className="flex-1 rounded-lg border border-line bg-raised/70 px-2.5 py-1.5 text-[12px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
-                >
-                  🔒 전체 정답 가리기
-                </button>
-              </div>
-              <button
-                type="button"
-                onClick={handleResetAll}
-                className="w-full text-center text-[11px] text-ink-faint hover:text-red-500 transition-colors cursor-pointer py-0.5"
-              >
-                ↺ 모든 작성 내용 초기화
-              </button>
+            <div className="grid grid-cols-1 gap-3">
+              {exemplarItems.map((item, idx) => (
+                <div key={item.id} className="flex flex-col gap-2 rounded-2xl border border-line bg-surface p-5 shadow-2xs">
+                  <div className="flex items-center justify-between">
+                    <span className="rounded-full bg-primary/10 px-2.5 py-0.5 font-mono text-[11px] font-bold text-primary">
+                      예문 0{idx + 1}
+                    </span>
+                    <span className="text-[12px] text-ink-faint">통사 패턴 관찰</span>
+                  </div>
+                  <p className={`font-bold text-ink ${fontStyles.english}`}>
+                    {item.englishText}
+                  </p>
+                  <p className="text-[14px] text-ink-soft">
+                    {item.koreanText}
+                  </p>
+                  {item.targetKeywords.length > 0 && (
+                    <div className="flex items-center gap-1.5 pt-1">
+                      <span className="text-[11.5px] text-ink-faint">관찰 포인트:</span>
+                      {item.targetKeywords.map((kw, kIdx) => (
+                        <span key={kIdx} className="rounded bg-primary/10 px-2 py-0.5 font-mono text-[11px] font-semibold text-primary">
+                          {kw}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ))}
             </div>
           </div>
 
-          {/* Sentence Items List */}
-          <div className="flex flex-col gap-4">
+          {/* Discovery Interactive Toggle */}
+          <div className="rounded-2xl border border-line bg-surface p-6 shadow-xs flex flex-col gap-4">
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div>
+                <h4 className="font-bold text-ink text-[16px]">
+                  💡 문법 규칙 발견하기 (Uncover the Rule)
+                </h4>
+                <p className="text-[13px] text-ink-soft mt-0.5">
+                  위 예문들의 공통된 단어 배열 규칙과 어순 원리를 확인하세요.
+                </p>
+              </div>
+
+              <button
+                type="button"
+                onClick={() => setDiscoveredRules((p) => ({ ...p, [lessonKey]: !p[lessonKey] }))}
+                className="rounded-xl bg-primary px-4 py-2 text-[13px] font-semibold text-white shadow-xs hover:bg-primary/90 transition-all cursor-pointer"
+              >
+                {discoveredRules[lessonKey] ? "규칙 접기" : "💡 문법 규칙 공개"}
+              </button>
+            </div>
+
+            {discoveredRules[lessonKey] && (
+              <div className="rounded-xl border border-emerald-500/30 bg-emerald-500/10 p-5 leading-relaxed text-emerald-950 dark:text-emerald-200">
+                <div className="font-bold text-[14px] mb-2 text-emerald-900 dark:text-emerald-300">
+                  ✓ 발견된 문법 규칙 및 통사적 원리 (Syntactic Rule):
+                </div>
+                <ul className="list-disc pl-5 text-[13.5px] space-y-1.5">
+                  <li>
+                    <span className="font-semibold">영어의 기본 통사 골격:</span> [주어 (Subject)] + [동사구 (Verb Phrase)] + [목적어/보어 (Object/Complement)] + [수식어구 (Modifiers)]의 엄격한 어순을 따릅니다.
+                  </li>
+                  <li>
+                    <span className="font-semibold">핵심 문법 호응:</span> 본 레슨의 문장들은 <span className="underline font-bold font-mono">{exemplarItems.flatMap((e) => e.targetKeywords).slice(0, 4).join(", ") || "핵심 동사/전치사"}</span>의 문법적 역할을 중심으로 술어가 전개됩니다.
+                  </li>
+                  <li>
+                    <span className="font-semibold">학습 다음 단계:</span> 이제 Step 2 [통사 구조 빌더]로 이동하여 흩어진 어휘 블록을 직접 올바른 어순으로 조립해 보세요!
+                  </li>
+                </ul>
+
+                <button
+                  type="button"
+                  onClick={() => setStudyMode("builder")}
+                  className="mt-4 inline-flex items-center gap-2 rounded-xl bg-emerald-800 text-white px-4 py-2 text-[12.5px] font-semibold hover:bg-emerald-900 transition-colors cursor-pointer"
+                >
+                  <span>🧱 Step 2 통사 구조 빌더로 이동하기 →</span>
+                </button>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* ========================================================================= */}
+      {/* STEP 2: 🧱 통사 구조 빌더 (Syntax Slot Builder - Paul Nation & Cambridge) */}
+      {/* ========================================================================= */}
+      {studyMode === "builder" && (
+        <div className="flex flex-col gap-6">
+          <div className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-line bg-surface p-4.5 text-[13px] text-ink-soft shadow-2xs">
+            <div>
+              <span className="font-bold text-ink">🧱 통사 구조 빌더 (Syntax Slot Builder):</span> 흩어진 어휘 블록을
+              클릭하여 올바른 영어 어순대로 슬롯에 배치하세요. 한국어와 다른 영어의 어순 감각을 뇌에 능동적으로 구축합니다.
+            </div>
+            <div className="flex items-center gap-2 font-mono text-[12px] font-semibold text-primary">
+              <span>빌더 완성:</span>
+              <span>{builderCompletedCount} / {totalCount} 문항</span>
+            </div>
+          </div>
+
+          <div className="flex flex-col gap-5">
             {items.map((item) => {
-              const isAnswered = (answers[item.id] || "").trim().length > 0;
-              const isRevealed = revealedAnswers[item.id] === true;
-              const grade = selfGrades[item.id];
-              const isExact =
-                isAnswered &&
-                normalizeForComparison(answers[item.id]) === normalizeForComparison(item.englishText);
+              const placed = builderSlots[item.id] || [];
+              const placedIds = new Set(placed.map((p) => p.id));
+              const available = item.scrambled.filter((c) => !placedIds.has(c.id));
+              const isFull = placed.length === item.tokens.length;
+              const isCorrect = isFull && placed.every((c, idx) => c.originalIndex === idx);
 
               return (
                 <div
                   key={item.id}
                   className={
-                    "flex flex-col gap-3 rounded-2xl border p-5 transition-all shadow-2xs " +
-                    (grade === true
-                      ? "border-emerald-500/50 bg-emerald-500/[0.02]"
-                      : grade === false
-                      ? "border-amber-500/50 bg-amber-500/[0.02]"
+                    "flex flex-col gap-4 rounded-2xl border p-5 transition-all shadow-2xs " +
+                    (isCorrect
+                      ? "border-emerald-500/50 bg-emerald-500/[0.03]"
+                      : isFull
+                      ? "border-amber-500/50 bg-amber-500/[0.03]"
                       : "border-line bg-surface")
                   }
                 >
-                  {/* Card Header */}
                   <div className="flex items-center justify-between gap-2">
+                    <span className="flex h-6 w-6 items-center justify-center rounded-full bg-raised font-mono text-[11.5px] font-bold text-ink">
+                      {item.numberLabel}
+                    </span>
+
                     <div className="flex items-center gap-2">
-                      <span className="flex h-6 w-6 items-center justify-center rounded-full bg-raised font-mono text-[11.5px] font-bold text-ink">
-                        {item.numberLabel}
+                      {isCorrect && (
+                        <span className="rounded-full bg-emerald-500/15 px-2.5 py-0.5 text-[11px] font-bold text-emerald-700">
+                          ✓ 통사 어순 완벽 일치!
+                        </span>
+                      )}
+                      <button
+                        type="button"
+                        onClick={() => handleResetSlots(item.id)}
+                        className="rounded-md border border-line bg-raised px-2 py-0.5 text-[11px] text-ink-soft hover:text-ink cursor-pointer"
+                      >
+                        ↺ 리셋
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => handleSolveSlots(item)}
+                        className="rounded-md border border-line bg-raised px-2 py-0.5 text-[11px] text-ink-soft hover:text-ink cursor-pointer"
+                      >
+                        💡 정답 맞추기
+                      </button>
+                    </div>
+                  </div>
+
+                  {/* Korean Context */}
+                  <p className="text-[14.5px] font-medium text-ink">
+                    {item.koreanText}
+                  </p>
+
+                  {/* Target Slot Area */}
+                  <div className="min-h-[56px] rounded-xl border-2 border-dashed border-line bg-raised/30 p-3 flex flex-wrap items-center gap-2">
+                    {placed.length === 0 ? (
+                      <span className="text-[13px] text-ink-faint italic select-none">
+                        아래 단어 블록을 클릭하여 순서대로 배치하세요...
                       </span>
-                      {isExact && (
-                        <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 text-[11px] font-semibold text-emerald-600">
-                          🎯 정답 일치!
-                        </span>
-                      )}
-                      {grade === true && (
-                        <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 text-[11px] font-medium text-emerald-600">
-                          ✓ 학습 완료
-                        </span>
-                      )}
-                      {grade === false && (
-                        <span className="rounded-full bg-amber-500/15 px-2 py-0.5 text-[11px] font-medium text-amber-600">
-                          ↺ 복습 필요
-                        </span>
-                      )}
-                    </div>
-
-                    <div className="flex items-center gap-1">
-                      <button
-                        type="button"
-                        onClick={() => playKorean(item.koreanText)}
-                        className="flex items-center gap-1 rounded-md border border-line px-2 py-1 text-[11.5px] text-ink-soft hover:bg-raised transition-colors cursor-pointer"
-                        title="우리말 듣기"
-                      >
-                        <span>🔊</span>
-                        <span className="hidden sm:inline">우리말</span>
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => playEnglish(item.englishText, item.id)}
-                        className={
-                          "flex items-center gap-1 rounded-md border px-2.5 py-1 text-[11.5px] font-medium transition-all cursor-pointer " +
-                          (activeSpeakingId === item.id
-                            ? "border-primary bg-primary text-surface font-semibold shadow-xs"
-                            : "border-line text-ink-soft hover:bg-raised hover:text-ink")
-                        }
-                        title="정답 영어 발음 듣기"
-                      >
-                        <span>🔊</span>
-                        <span>영어 정답 발음</span>
-                      </button>
-                    </div>
-                  </div>
-
-                  {/* Korean Prompt */}
-                  <div className="rounded-xl bg-raised/50 p-3.5 border border-line/60">
-                    <p className={`font-semibold text-ink ${fontStyles.korean}`}>
-                      {item.koreanText}
-                    </p>
-                  </div>
-
-                  {/* Student Input Field */}
-                  <div className="flex flex-col gap-1.5">
-                    <div className="relative flex items-center">
-                      <input
-                        type="text"
-                        value={answers[item.id] || ""}
-                        onChange={(e) => handleAnswerChange(item.id, e.target.value)}
-                        placeholder="이곳에 영어 문장을 영작해보세요... (예: I am...)"
-                        className={`w-full rounded-xl border border-line bg-surface px-4 py-2.5 text-ink placeholder:text-ink-faint focus:border-ink focus:outline-none focus:ring-1 focus:ring-ink transition-all ${fontStyles.input}`}
-                      />
-                      {isAnswered && (
+                    ) : (
+                      placed.map((chip) => (
                         <button
+                          key={chip.id}
                           type="button"
-                          onClick={() => handleAnswerChange(item.id, "")}
-                          className="absolute right-3 text-[12px] text-ink-faint hover:text-ink"
-                          title="지우기"
+                          onClick={() => handleRemoveWordFromSlot(item.id, chip.id)}
+                          className="rounded-lg bg-ink text-surface px-3 py-1 text-[13px] font-semibold hover:opacity-80 transition-all shadow-xs cursor-pointer"
+                          title="클릭하여 슬롯에서 제거"
                         >
-                          ✕
+                          {chip.word} ✕
                         </button>
-                      )}
-                    </div>
+                      ))
+                    )}
                   </div>
 
-                  {/* Action Buttons & Self-Grading */}
-                  <div className="flex flex-wrap items-center justify-between gap-2 pt-1 border-t border-line/50">
-                    <button
-                      type="button"
-                      onClick={() => toggleReveal(item.id)}
-                      className={
-                        "flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
-                        (isRevealed
-                          ? "border-amber-500/40 bg-amber-500/10 text-amber-700 font-semibold"
-                          : "border-line bg-raised/50 text-ink-soft hover:bg-raised hover:text-ink")
-                      }
-                    >
-                      <span>{isRevealed ? "🔒 정답 가리기" : "💡 정답 확인"}</span>
-                    </button>
-
-                    <div className="flex items-center gap-1.5">
-                      <span className="text-[11.5px] text-ink-faint mr-1 hidden sm:inline">자가 채점:</span>
-                      <button
-                        type="button"
-                        onClick={() => toggleSelfGrade(item.id, true)}
-                        className={
-                          "flex items-center gap-1 rounded-lg border px-2.5 py-1 text-[12px] font-medium transition-all cursor-pointer " +
-                          (grade === true
-                            ? "border-emerald-500 bg-emerald-500 text-surface font-semibold shadow-xs"
-                            : "border-line bg-surface text-ink-soft hover:border-emerald-500/50 hover:text-emerald-600")
-                        }
-                      >
-                        <span>✓</span>
-                        <span>맞음</span>
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => toggleSelfGrade(item.id, false)}
-                        className={
-                          "flex items-center gap-1 rounded-lg border px-2.5 py-1 text-[12px] font-medium transition-all cursor-pointer " +
-                          (grade === false
-                            ? "border-amber-500 bg-amber-500 text-surface font-semibold shadow-xs"
-                            : "border-line bg-surface text-ink-soft hover:border-amber-500/50 hover:text-amber-600")
-                        }
-                      >
-                        <span>↺</span>
-                        <span>다시 풀기</span>
-                      </button>
+                  {/* Available Scrambled Chips */}
+                  {available.length > 0 ? (
+                    <div className="flex flex-wrap gap-2 pt-1 border-t border-line/60">
+                      {available.map((chip) => (
+                        <button
+                          key={chip.id}
+                          type="button"
+                          onClick={() => handleAddWordToSlot(item.id, chip)}
+                          className="rounded-lg border border-line bg-surface hover:border-primary hover:bg-primary/5 px-3 py-1.5 text-[13.5px] font-medium text-ink transition-all shadow-2xs cursor-pointer"
+                        >
+                          {chip.word}
+                        </button>
+                      ))}
                     </div>
-                  </div>
+                  ) : null}
 
-                  {/* Revealed Model Answer Card */}
-                  {isRevealed && (
-                    <div className="mt-2 flex flex-col gap-2 rounded-xl border border-emerald-500/30 bg-emerald-500/[0.04] p-4 animate-in fade-in duration-200">
-                      <div className="flex items-center justify-between">
-                        <span className="font-mono text-[11px] font-bold tracking-wider text-emerald-700 uppercase">
-                          모범 답안 (Model Answer)
-                        </span>
-                        <div className="flex items-center gap-1">
-                          <button
-                            type="button"
-                            onClick={() => handleCopy(item.englishText, item.id)}
-                            className="text-[11px] text-ink-soft hover:text-ink px-1.5 py-0.5 rounded hover:bg-surface transition-colors cursor-pointer"
-                          >
-                            {copiedId === item.id ? "✓ 복사됨" : "문장 복사"}
-                          </button>
-                          <button
-                            type="button"
-                            onClick={() => playEnglish(item.englishText, item.id)}
-                            className="text-[11.5px] text-emerald-700 hover:text-emerald-800 font-medium px-2 py-0.5 rounded hover:bg-emerald-500/10 cursor-pointer"
-                          >
-                            🔊 발음 듣기
-                          </button>
-                        </div>
-                      </div>
-                      <p className={`font-semibold text-emerald-900 tracking-tight ${fontStyles.english}`}>
-                        {item.englishText}
-                      </p>
+                  {/* Feedback Message */}
+                  {isFull && !isCorrect && (
+                    <div className="text-[12px] text-amber-700 font-medium">
+                      ⚠️ 어순이 일치하지 않습니다. 블록을 클릭해 제거한 후 다시 순서를 맞춰보세요.
                     </div>
                   )}
                 </div>
@@ -815,7 +887,7 @@ export function GrammarLearningView({
       )}
 
       {/* ========================================================================= */}
-      {/* MODE 2: 🧩 문법 빈칸 퀴즈 (Grammar Cloze & Pattern Drill) */}
+      {/* STEP 3: 🧩 문맥 속 빈칸 완성 (Contextual Cloze - Oxford English File) */}
       {/* ========================================================================= */}
       {studyMode === "cloze" && (
         <div className="flex flex-col gap-6">
@@ -837,14 +909,6 @@ export function GrammarLearningView({
                     <span className="flex h-6 w-6 items-center justify-center rounded-full bg-raised font-mono text-[11.5px] font-bold text-ink">
                       {item.numberLabel}
                     </span>
-                    <button
-                      type="button"
-                      onClick={() => playEnglish(item.englishText, item.id)}
-                      className="flex items-center gap-1 rounded-md border border-line px-2.5 py-1 text-[11.5px] text-ink-soft hover:bg-raised transition-colors cursor-pointer"
-                    >
-                      <span>🔊</span>
-                      <span>전체 문장 듣기</span>
-                    </button>
                   </div>
 
                   {/* Korean Context */}
@@ -921,244 +985,253 @@ export function GrammarLearningView({
       )}
 
       {/* ========================================================================= */}
-      {/* MODE 3: ⚖️ 한/영 대조 & 구문 섀도잉 (Bilingual Syntax & Shadowing) */}
+      {/* STEP 4: ✍️ 실전 상황 영작 (Communicative Production & Notice the Gap) */}
       {/* ========================================================================= */}
-      {studyMode === "shadowing" && (
+      {studyMode === "composition" && (
         <div className="flex flex-col gap-6">
-          <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-line bg-surface p-4 text-[13px] text-ink-soft shadow-2xs">
+          <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-line bg-surface p-4 text-[13px] text-ink-soft leading-relaxed shadow-2xs">
             <div>
-              <span className="font-semibold text-ink">🗣️ 구문 섀도잉 훈련:</span> 카드를 누르면 원어민 발음이
-              재생됩니다. 소리를 들으며 억양과 문법 어순을 그대로 따라 말해보세요. (3회 이상 반복 권장)
+              <span className="font-semibold text-ink">✍️ 실전 상황 영작 훈련:</span> 우리말 문맥을 읽고,
+              직접 영어 문장을 타이핑하여 작문해 보세요. [💡 모범 답안 확인]을 누르면 Scott Thornbury의
+              <span className="font-semibold text-primary"> Notice the Gap</span> 원리에 따라 학습자 영작과의 차이점이 시각적으로 대조됩니다.
             </div>
-            <div className="flex items-center gap-1 font-mono text-[11.5px] text-ink-faint">
-              <span>목표: 각 문장 3회 이상 섀도잉</span>
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => handleBatchReveal(true)}
+                className="rounded-lg border border-line bg-raised px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-surface transition-colors cursor-pointer"
+              >
+                전체 정답 확인
+              </button>
+              <button
+                type="button"
+                onClick={handleResetAll}
+                className="rounded-lg border border-line bg-raised px-2.5 py-1 text-[11.5px] font-medium text-red-600 hover:bg-surface transition-colors cursor-pointer"
+              >
+                초기화
+              </button>
             </div>
           </div>
 
-          <div className="flex flex-col gap-3">
+          <div className="flex flex-col gap-4">
             {items.map((item) => {
-              const repeats = shadowingRepeats[item.id] || 0;
-              const isSpeaking = activeSpeakingId === item.id;
+              const userVal = answers[item.id] || "";
+              const isRevealed = revealedAnswers[item.id] === true;
+              const grade = selfGrades[item.id];
+              const isExact =
+                userVal.trim().length > 0 &&
+                normalizeForComparison(userVal) === normalizeForComparison(item.englishText);
 
               return (
                 <div
                   key={item.id}
-                  onClick={() => handleRepeatIncrement(item.id, item.englishText)}
                   className={
-                    "group flex flex-col gap-2.5 rounded-2xl border p-4.5 transition-all cursor-pointer shadow-2xs " +
-                    (isSpeaking
-                      ? "border-primary bg-primary/[0.04] ring-1 ring-primary/40 shadow-xs"
-                      : "border-line bg-surface hover:border-line-strong hover:bg-raised/30")
+                    "flex flex-col gap-3.5 rounded-2xl border p-5 transition-all shadow-2xs " +
+                    (grade === true
+                      ? "border-emerald-500/50 bg-emerald-500/[0.02]"
+                      : grade === false
+                      ? "border-amber-500/50 bg-amber-500/[0.02]"
+                      : "border-line bg-surface")
                   }
                 >
                   <div className="flex items-center justify-between gap-2">
-                    <div className="flex items-center gap-2">
-                      <span className="flex h-6 w-6 items-center justify-center rounded-full bg-raised font-mono text-[11px] font-bold text-ink">
-                        {item.numberLabel}
-                      </span>
-                      <span
-                        className={
-                          "rounded-full px-2 py-0.5 font-mono text-[11px] font-medium transition-colors " +
-                          (repeats >= 3
-                            ? "bg-emerald-500/15 text-emerald-700 font-semibold"
-                            : repeats > 0
-                            ? "bg-primary/10 text-primary"
-                            : "bg-raised text-ink-faint")
-                        }
-                      >
-                        {repeats >= 3 ? "✓ 3회 달성!" : `${repeats}회 연습`}
-                      </span>
-                    </div>
+                    <span className="flex h-6 w-6 items-center justify-center rounded-full bg-raised font-mono text-[11.5px] font-bold text-ink">
+                      {item.numberLabel}
+                    </span>
 
                     <div className="flex items-center gap-1.5">
+                      {isExact && (
+                        <span className="rounded-full bg-emerald-500/15 px-2 py-0.5 text-[11px] font-semibold text-emerald-700">
+                          🎯 모범 답안 완벽 일치!
+                        </span>
+                      )}
                       <button
                         type="button"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          handleCopy(item.englishText, item.id);
-                        }}
+                        onClick={() => handleCopy(item.englishText, item.id)}
                         className="rounded p-1 text-[11px] text-ink-faint hover:text-ink hover:bg-raised transition-colors"
-                        title="문장 복사"
+                        title="모범 답안 복사"
                       >
                         {copiedId === item.id ? "✓" : "📋"}
                       </button>
+                    </div>
+                  </div>
+
+                  {/* Korean Situation Prompt */}
+                  <div className="rounded-xl bg-raised/50 p-3.5 border border-line/60">
+                    <p className={`font-semibold text-ink ${fontStyles.korean}`}>
+                      {item.koreanText || item.englishText}
+                    </p>
+                  </div>
+
+                  {/* Learner Composition Input */}
+                  <textarea
+                    rows={2}
+                    value={userVal}
+                    onChange={(e) => handleAnswerChange(item.id, e.target.value)}
+                    placeholder="영어 문장을 작성해 보세요... (실시간 자동 저장)"
+                    className={`w-full resize-none rounded-xl border border-line bg-surface p-3 text-ink placeholder:text-ink-faint focus:border-ink focus:outline-none focus:ring-1 focus:ring-ink transition-all ${fontStyles.input}`}
+                  />
+
+                  {/* Controls & Self Grading */}
+                  <div className="flex flex-wrap items-center justify-between gap-2 pt-1 border-t border-line/50">
+                    <button
+                      type="button"
+                      onClick={() => toggleReveal(item.id)}
+                      className="rounded-lg border border-line bg-raised/60 px-3 py-1.5 text-[12px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
+                    >
+                      {isRevealed ? "🔒 모범 답안 숨기기" : "💡 모범 답안 확인"}
+                    </button>
+
+                    <div className="flex items-center gap-1.5">
+                      <span className="text-[11.5px] text-ink-faint mr-1">자가 진단:</span>
                       <button
                         type="button"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          playEnglish(item.englishText, item.id);
-                        }}
+                        onClick={() => toggleSelfGrade(item.id, true)}
                         className={
-                          "flex h-7 w-7 items-center justify-center rounded-full transition-all " +
-                          (isSpeaking
-                            ? "bg-primary text-surface scale-110 shadow-xs"
-                            : "bg-raised text-ink-soft group-hover:bg-ink group-hover:text-surface")
+                          "rounded-lg border px-2.5 py-1 text-[12px] font-medium transition-all cursor-pointer " +
+                          (grade === true
+                            ? "border-emerald-500 bg-emerald-500 text-surface font-semibold"
+                            : "border-line bg-surface text-ink-soft hover:border-emerald-500/50 hover:text-emerald-600")
                         }
-                        title="발음 듣기"
                       >
-                        <span className="text-[12px]">🔊</span>
+                        ✓ 정답
                       </button>
-                    </div>
-                  </div>
-
-                  <p className={`font-semibold text-ink group-hover:text-primary transition-colors ${fontStyles.english}`}>
-                    {item.englishText}
-                  </p>
-
-                  <p className="text-[14px] text-ink-soft border-t border-line/40 pt-2 font-normal">
-                    {item.koreanText}
-                  </p>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      )}
-
-      {/* ========================================================================= */}
-      {/* MODE 4: 📝 모의 영작 시험지 (Full Mock Exam Sheet) */}
-      {/* ========================================================================= */}
-      {studyMode === "exam" && (
-        <div className="flex flex-col gap-6">
-          {/* Exam Header & Score Summary */}
-          <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface p-5 shadow-xs">
-            <div className="flex flex-wrap items-center justify-between gap-3">
-              <div>
-                <h3 className="text-[16px] font-bold text-ink flex items-center gap-2">
-                  <span>📝</span> 실전 영작 모의 시험
-                </h3>
-                <p className="mt-1 text-[12.5px] text-ink-soft">
-                  각 번호의 우리말을 읽고 정확한 영어 문장으로 영작하세요. 모든 문항 작성 후 [전체 채점하기]를 누르면
-                  자동으로 점수와 상세 오답 분석이 제공됩니다.
-                </p>
-              </div>
-
-              {examResults && (
-                <div className="flex items-center gap-3 rounded-xl bg-raised p-3 border border-line">
-                  <div className="text-right">
-                    <span className="block text-[11px] font-medium text-ink-soft">최종 획득 점수</span>
-                    <span className="text-[24px] font-bold text-primary">{examResults.score}점</span>
-                  </div>
-                  <div className="h-8 w-px bg-line" />
-                  <div className="text-[11.5px] text-ink-soft">
-                    <div>정답 일치: <span className="font-semibold text-emerald-600">{examResults.exactMatches}</span>개</div>
-                    <div>부분 일치: <span className="font-semibold text-amber-600">{examResults.partialMatches}</span>개</div>
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
-
-          {/* Exam Questions List */}
-          <div className="flex flex-col divide-y divide-line/60 rounded-2xl border border-line bg-surface shadow-2xs overflow-hidden">
-            {items.map((item) => {
-              const userVal = answers[item.id] || "";
-              const res = examResults?.itemScores[item.id];
-
-              return (
-                <div key={item.id} className="flex flex-col gap-3 p-5">
-                  <div className="flex items-baseline justify-between gap-2">
-                    <div className="flex items-center gap-2">
-                      <span className="font-mono text-[13px] font-bold text-ink-soft">
-                        Q{item.numberLabel}.
-                      </span>
-                      <span className={`font-semibold text-ink ${fontStyles.korean}`}>
-                        {item.koreanText}
-                      </span>
-                    </div>
-
-                    {examSubmitted && (
-                      <div>
-                        {res === "exact" && (
-                          <span className="rounded-md bg-emerald-500/15 px-2 py-0.5 text-[11.5px] font-bold text-emerald-700">
-                            ✓ 정답 (100점)
-                          </span>
-                        )}
-                        {res === "partial" && (
-                          <span className="rounded-md bg-amber-500/15 px-2 py-0.5 text-[11.5px] font-bold text-amber-700">
-                            △ 부분 정답 (70점)
-                          </span>
-                        )}
-                        {res === "incorrect" && (
-                          <span className="rounded-md bg-red-500/15 px-2 py-0.5 text-[11.5px] font-bold text-red-600">
-                            ✕ 오답 (0점)
-                          </span>
-                        )}
-                      </div>
-                    )}
-                  </div>
-
-                  {/* Input Line */}
-                  <div className="flex flex-col gap-1.5">
-                    <input
-                      type="text"
-                      disabled={examSubmitted}
-                      value={userVal}
-                      onChange={(e) => handleAnswerChange(item.id, e.target.value)}
-                      placeholder="답안을 입력하세요..."
-                      className={
-                        "w-full rounded-lg border px-3.5 py-2 text-ink placeholder:text-ink-faint transition-all " +
-                        (examSubmitted
-                          ? res === "exact"
-                            ? "border-emerald-500/60 bg-emerald-500/[0.04]"
-                            : res === "partial"
-                            ? "border-amber-500/60 bg-amber-500/[0.04]"
-                            : "border-red-500/60 bg-red-500/[0.04]"
-                          : "border-line bg-surface focus:border-ink focus:ring-1 focus:ring-ink")
-                      }
-                    />
-                  </div>
-
-                  {/* Model Answer after Submission */}
-                  {examSubmitted && (
-                    <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg bg-raised/50 p-2.5 text-[13px] border border-line/60">
-                      <div className="flex items-center gap-2">
-                        <span className="font-mono text-[11px] font-bold text-emerald-700">모범 답안:</span>
-                        <span className="font-medium text-ink">{item.englishText}</span>
-                      </div>
                       <button
                         type="button"
-                        onClick={() => playEnglish(item.englishText, item.id)}
-                        className="text-[11.5px] text-primary hover:underline cursor-pointer"
+                        onClick={() => toggleSelfGrade(item.id, false)}
+                        className={
+                          "rounded-lg border px-2.5 py-1 text-[12px] font-medium transition-all cursor-pointer " +
+                          (grade === false
+                            ? "border-amber-500 bg-amber-500 text-surface font-semibold"
+                            : "border-line bg-surface text-ink-soft hover:border-amber-500/50 hover:text-amber-600")
+                        }
                       >
-                        🔊 발음 청취
+                        ↺ 복습 필요
                       </button>
+                    </div>
+                  </div>
+
+                  {/* Revealed Answer with Thornbury Notice the Gap */}
+                  {isRevealed && (
+                    <div className="mt-1 rounded-xl border border-emerald-500/30 bg-emerald-500/[0.04] p-3.5">
+                      <div className="flex items-center justify-between">
+                        <span className="block font-mono text-[11px] font-bold text-emerald-700 uppercase">
+                          모범 영어 문장 & 자가 대조 (Notice the Gap)
+                        </span>
+                        <span className="text-[11px] text-ink-faint">
+                          밑줄/배경: 내 영작과의 차이점
+                        </span>
+                      </div>
+                      <p className={`mt-2 font-medium text-ink leading-relaxed ${fontStyles.english}`}>
+                        {userVal.trim() ? renderNoticingTokens(userVal, item.englishText) : item.englishText}
+                      </p>
                     </div>
                   )}
                 </div>
               );
             })}
           </div>
-
-          {/* Exam Submit Actions */}
-          <div className="sticky bottom-6 flex items-center justify-between gap-3 rounded-2xl border border-line bg-surface/95 p-4 shadow-lg backdrop-blur-md">
-            <div className="text-[12.5px] text-ink-soft">
-              작성 완료: <span className="font-bold text-ink">{answeredCount}</span> / {totalCount} 문항
-            </div>
-
-            <div className="flex items-center gap-2">
-              {examSubmitted ? (
-                <button
-                  type="button"
-                  onClick={() => setExamSubmitted(false)}
-                  className="rounded-xl border border-line bg-raised px-4 py-2 text-[13px] font-medium text-ink hover:bg-raised/80 transition-colors cursor-pointer"
-                >
-                  ↺ 답안 다시 수정하기
-                </button>
-              ) : (
-                <button
-                  type="button"
-                  onClick={() => setExamSubmitted(true)}
-                  className="rounded-xl bg-ink px-6 py-2 text-[13px] font-bold text-surface shadow-xs hover:opacity-90 active:scale-[0.99] transition-all cursor-pointer"
-                >
-                  🎯 전체 시험 채점하기
-                </button>
-              )}
-            </div>
-          </div>
         </div>
       )}
 
+      {/* ========================================================================= */}
+      {/* STEP 5: 📝 종합 평가 시험 (Comprehensive Exam) */}
+      {/* ========================================================================= */}
+      {studyMode === "exam" && (
+        <div className="flex flex-col gap-6">
+          <div className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-line bg-surface p-5 shadow-xs">
+            <div>
+              <h3 className="font-bold text-ink text-[16px]">
+                📝 문법 영작 종합 평가 시험
+              </h3>
+              <p className="text-[13px] text-ink-soft mt-1">
+                정답 힌트 없이 우리말 상황을 보고 스스로 영어로 영작하는 블라인드 실전 시험입니다.
+              </p>
+            </div>
+
+            <div className="flex items-center gap-3">
+              <button
+                type="button"
+                onClick={() => setExamSubmitted(!examSubmitted)}
+                className="rounded-xl bg-ink text-surface px-4 py-2 text-[13px] font-semibold hover:opacity-90 transition-all cursor-pointer shadow-xs"
+              >
+                {examSubmitted ? "시험 재응시 (수정 모드)" : "🚀 시험 답안 제출 및 자동 채점"}
+              </button>
+            </div>
+          </div>
+
+          {examSubmitted && examResults && (
+            <div className="rounded-2xl border border-primary/20 bg-primary/5 p-5">
+              <div className="flex items-center justify-between">
+                <div>
+                  <span className="text-[12px] font-bold text-primary uppercase">Exam Score</span>
+                  <div className="text-3xl font-extrabold text-ink mt-0.5">{examResults.score}점</div>
+                </div>
+                <div className="text-right text-[13px] text-ink-soft">
+                  <div>완벽 일치: <span className="font-bold text-emerald-600">{examResults.exactMatches}</span>개</div>
+                  <div>부분 일치: <span className="font-bold text-amber-600">{examResults.partialMatches}</span>개</div>
+                </div>
+              </div>
+            </div>
+          )}
+
+          <div className="flex flex-col gap-4">
+            {items.map((item) => {
+              const userVal = answers[item.id] || "";
+              const scoreStatus = examResults?.itemScores?.[item.id];
+
+              return (
+                <div
+                  key={item.id}
+                  className={
+                    "flex flex-col gap-3 rounded-2xl border p-5 shadow-2xs " +
+                    (scoreStatus === "exact"
+                      ? "border-emerald-500/50 bg-emerald-500/[0.03]"
+                      : scoreStatus === "partial"
+                      ? "border-amber-500/50 bg-amber-500/[0.03]"
+                      : scoreStatus === "incorrect"
+                      ? "border-red-500/40 bg-red-500/[0.02]"
+                      : "border-line bg-surface")
+                  }
+                >
+                  <div className="flex items-center justify-between">
+                    <span className="font-mono text-[12px] font-bold text-ink-faint">
+                      #{item.numberLabel}
+                    </span>
+                    {scoreStatus === "exact" && (
+                      <span className="text-[11.5px] font-bold text-emerald-600">✓ 정답 (+100%)</span>
+                    )}
+                    {scoreStatus === "partial" && (
+                      <span className="text-[11.5px] font-bold text-amber-600">△ 부분 점수 (+70%)</span>
+                    )}
+                    {scoreStatus === "incorrect" && (
+                      <span className="text-[11.5px] font-bold text-red-600">✕ 오답</span>
+                    )}
+                  </div>
+
+                  <p className="font-semibold text-ink text-[15px]">{item.koreanText}</p>
+
+                  <input
+                    type="text"
+                    disabled={examSubmitted}
+                    value={userVal}
+                    onChange={(e) => handleAnswerChange(item.id, e.target.value)}
+                    placeholder="영어 번역을 입력하세요..."
+                    className="w-full rounded-xl border border-line bg-surface px-4 py-2.5 text-[14.5px] text-ink focus:border-ink focus:outline-none transition-all disabled:bg-raised/50"
+                  />
+
+                  {examSubmitted && (
+                    <div className="mt-1 rounded-xl bg-raised/50 p-3 border border-line/60">
+                      <span className="font-mono text-[10.5px] font-bold text-ink-faint uppercase">모범 정답</span>
+                      <p className="font-medium text-ink text-[14px] mt-0.5">{item.englishText}</p>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

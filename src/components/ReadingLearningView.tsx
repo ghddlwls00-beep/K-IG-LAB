@@ -3,7 +3,13 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
-import { speakText } from "@/lib/speech";
+
+const DISCOURSE_MARKERS = new Set([
+  "however", "therefore", "furthermore", "moreover", "in addition", "consequently",
+  "nevertheless", "on the other hand", "for example", "for instance", "in contrast",
+  "as a result", "meanwhile", "similarly", "in other words", "first", "second",
+  "finally", "in conclusion", "besides", "although", "even though", "whereas"
+]);
 
 interface ReadingLearningViewProps {
   blocks: Block[];
@@ -83,20 +89,27 @@ export function ReadingLearningView({
     return () => clearTimeout(timer);
   }, [notes, storageKey, restored]);
 
-  function playSentenceEn(text: string, idx: number) {
-    if (!text) return;
-    setActiveSentence(idx);
-    speakText(text, {
-      lang: "en",
-      rate: 0.95,
-      onEnd: () => setActiveSentence(null),
-      onError: () => setActiveSentence(null),
-    });
-  }
-
-  function playSentenceKo(text: string) {
-    if (!text) return;
-    speakText(text, { lang: "ko", rate: 0.95 });
+  function renderEnSentenceWithMarkers(sentence: string) {
+    const tokens = sentence.split(/(\s+|[.,?!;:\"'()]+)/);
+    return (
+      <span>
+        {tokens.map((token, i) => {
+          const clean = token.toLowerCase().trim();
+          if (DISCOURSE_MARKERS.has(clean)) {
+            return (
+              <span
+                key={i}
+                className="rounded bg-amber-500/20 px-1 py-0.5 font-bold text-amber-900 dark:text-amber-200 border-b-2 border-amber-500"
+                title="담화 표지어 (Discourse Marker): 논리적 전개 및 문맥 전환"
+              >
+                {token}
+              </span>
+            );
+          }
+          return <span key={i}>{token}</span>;
+        })}
+      </span>
+    );
   }
 
   function toggleRevealTranslation(idx: number) {
@@ -119,52 +132,64 @@ export function ReadingLearningView({
 
   return (
     <div className="flex flex-col gap-8">
-      {/* 1. Header Toolbar & Study Mode Selector */}
-      <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-line bg-surface/80 p-3 shadow-2xs">
-        <div className="flex flex-wrap items-center gap-1.5 text-[12px] font-medium text-ink-soft">
-          <span className="font-mono text-[11px] text-ink-faint uppercase font-semibold mr-1">
-            독해 뷰어:
+      {/* 1. Header Toolbar & Pedagogical Banner */}
+      <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface/90 p-4 shadow-xs">
+        {/* Pedagogical Banner */}
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
+          <div className="flex items-center gap-2">
+            <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+              ★
+            </span>
+            <span className="font-semibold text-ink">
+              Stephen Krashen 명예교수의 '이해 가능한 인풋(Comprehensible Input: i+1)' & Paul Nation '담화 표지어' 독해 아키텍처
+            </span>
+          </div>
+          <span className="font-mono text-[11px] text-ink-faint">
+            속독 완독 → 1:1 동기화 정독 → 구문 해부
           </span>
-
-          <button
-            type="button"
-            onClick={() => setReadingMode("flow")}
-            className={
-              "rounded-md px-3 py-1.5 transition-all cursor-pointer " +
-              (readingMode === "flow"
-                ? "bg-ink text-surface font-semibold shadow-xs"
-                : "text-ink-soft hover:bg-raised hover:text-ink")
-            }
-          >
-            Step 1 · 📖 180 WPM 속독 완독 (Flow)
-          </button>
-
-          <button
-            type="button"
-            onClick={() => setReadingMode("dual")}
-            className={
-              "rounded-md px-3 py-1.5 transition-all cursor-pointer " +
-              (readingMode === "dual"
-                ? "bg-ink text-surface font-semibold shadow-xs"
-                : "text-ink-soft hover:bg-raised hover:text-ink")
-            }
-          >
-            Step 2 · ⚖️ 맥킨지식 직독직해 대조 (Dual)
-          </button>
-
-          <button
-            type="button"
-            onClick={() => setReadingMode("breakdown")}
-            className={
-              "rounded-md px-3 py-1.5 transition-all cursor-pointer " +
-              (readingMode === "breakdown"
-                ? "bg-ink text-surface font-semibold shadow-xs"
-                : "text-ink-soft hover:bg-raised hover:text-ink")
-            }
-          >
-            Step 3 · 🔬 문장별 정밀 분석 (Breakdown)
-          </button>
         </div>
+
+        <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
+          <div className="flex flex-wrap items-center gap-1.5 text-[12px] font-medium text-ink-soft">
+            <button
+              type="button"
+              onClick={() => setReadingMode("flow")}
+              className={
+                "rounded-lg px-3 py-1.5 transition-all cursor-pointer " +
+                (readingMode === "flow"
+                  ? "bg-ink text-surface font-semibold shadow-xs"
+                  : "text-ink-soft hover:bg-raised hover:text-ink")
+              }
+            >
+              Step 1 · 📖 180 WPM 속독 완독
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setReadingMode("dual")}
+              className={
+                "rounded-lg px-3 py-1.5 transition-all cursor-pointer " +
+                (readingMode === "dual"
+                  ? "bg-ink text-surface font-semibold shadow-xs"
+                  : "text-ink-soft hover:bg-raised hover:text-ink")
+              }
+            >
+              Step 2 · ⚖️ 좌우 1:1 동기화 정독
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setReadingMode("breakdown")}
+              className={
+                "rounded-lg px-3 py-1.5 transition-all cursor-pointer " +
+                (readingMode === "breakdown"
+                  ? "bg-ink text-surface font-semibold shadow-xs"
+                  : "text-ink-soft hover:bg-raised hover:text-ink")
+              }
+            >
+              Step 3 · 🔬 문장별 정밀 구문 분석
+            </button>
+          </div>
 
         {/* View Options (Font Size & Number Toggle) */}
         <div className="flex items-center gap-2">
@@ -209,6 +234,7 @@ export function ReadingLearningView({
           </div>
         </div>
       </div>
+    </div>
 
       {/* 2. MODE 1: FLOW READING (실전 지문 통독 뷰어) */}
       {readingMode === "flow" ? (
@@ -256,7 +282,7 @@ export function ReadingLearningView({
                         [{idx + 1}]
                       </sup>
                     ) : null}
-                    <span>{displayText}</span>{" "}
+                    <span>{renderEnSentenceWithMarkers(displayText)}</span>{" "}
                   </span>
                 );
               })}
@@ -264,36 +290,22 @@ export function ReadingLearningView({
 
             {/* Interactive Sentence Drawer / Instant Translation Bar */}
             {activeSentence !== null && sentencePairs[activeSentence] ? (
-              <div className="mt-6 rounded-xl border border-line-strong bg-raised/50 p-4 shadow-sm transition-all duration-200 animate-in fade-in">
+              <div className="mt-6 rounded-xl border border-primary/25 bg-primary/5 p-4 shadow-sm transition-all duration-200 animate-in fade-in">
                 <div className="flex items-center justify-between gap-3 border-b border-line/60 pb-2.5">
                   <div className="flex items-center gap-2 font-mono text-[11.5px] text-ink-faint">
-                    <span className="rounded bg-ink px-1.5 py-0.5 text-surface font-bold">
+                    <span className="rounded bg-primary px-1.5 py-0.5 text-white font-bold">
                       문장 #{activeSentence + 1}
                     </span>
-                    <span>직독직해 분석</span>
+                    <span className="font-semibold text-ink">직독직해 분석</span>
                   </div>
 
                   <div className="flex items-center gap-2">
                     <button
                       type="button"
-                      onClick={() => playSentenceEn(sentencePairs[activeSentence].en, activeSentence)}
-                      className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
-                    >
-                      <span>🔊 원문 듣기</span>
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => playSentenceKo(sentencePairs[activeSentence].ko)}
-                      className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
-                    >
-                      <span>🔊 해석 듣기</span>
-                    </button>
-                    <button
-                      type="button"
                       onClick={() => setActiveSentence(null)}
-                      className="rounded p-1 text-ink-faint hover:text-ink"
+                      className="rounded px-2 py-0.5 text-[11.5px] text-ink-faint hover:text-ink cursor-pointer"
                     >
-                      ✕
+                      ✕ 닫기
                     </button>
                   </div>
                 </div>
@@ -323,7 +335,7 @@ export function ReadingLearningView({
               <span className="rounded bg-raised px-2 py-0.5 font-mono text-[11px] font-semibold text-ink uppercase tracking-wider border border-line">
                 English Passage (영어 원문)
               </span>
-              <span className="font-mono text-[11px] text-ink-faint">마우스 호버 시 동기화</span>
+              <span className="font-mono text-[11px] text-ink-faint">클릭 시 직독직해 동기화</span>
             </div>
 
             <div className={`${fontClasses} font-serif text-ink leading-loose text-justify`}>
@@ -333,7 +345,7 @@ export function ReadingLearningView({
                   <span
                     key={idx}
                     onMouseEnter={() => setActiveSentence(idx)}
-                    onClick={() => playSentenceEn(pair.en, idx)}
+                    onClick={() => setActiveSentence(isActive ? null : idx)}
                     className={
                       "inline cursor-pointer rounded px-1 py-0.5 transition-all duration-150 " +
                       (isActive
@@ -346,7 +358,7 @@ export function ReadingLearningView({
                         [{idx + 1}]
                       </sup>
                     ) : null}
-                    <span>{pair.en}</span>{" "}
+                    <span>{renderEnSentenceWithMarkers(pair.en)}</span>{" "}
                   </span>
                 );
               })}
@@ -369,7 +381,7 @@ export function ReadingLearningView({
                   <span
                     key={idx}
                     onMouseEnter={() => setActiveSentence(idx)}
-                    onClick={() => playSentenceKo(pair.ko)}
+                    onClick={() => setActiveSentence(isActive ? null : idx)}
                     className={
                       "inline cursor-pointer rounded px-1 py-0.5 transition-all duration-150 " +
                       (isActive
@@ -396,17 +408,11 @@ export function ReadingLearningView({
         <section aria-label="Sentence Breakdown Drill" className="flex flex-col gap-4">
           {sentencePairs.map((pair, idx) => {
             const isRevealed = Boolean(revealedTranslations[idx]);
-            const isPlaying = activeSentence === idx;
 
             return (
               <div
                 key={idx}
-                className={
-                  "rounded-xl border p-5 transition-all duration-150 shadow-2xs " +
-                  (isPlaying
-                    ? "border-ink bg-raised/40 ring-1 ring-ink/20"
-                    : "border-line bg-surface hover:border-line-strong")
-                }
+                className="rounded-xl border border-line bg-surface p-5 transition-all duration-150 shadow-2xs hover:border-line-strong"
               >
                 <div className="flex items-start justify-between gap-3">
                   <div className="flex items-center gap-2">
@@ -421,13 +427,6 @@ export function ReadingLearningView({
                   <div className="flex items-center gap-2">
                     <button
                       type="button"
-                      onClick={() => playSentenceEn(pair.en, idx)}
-                      className="inline-flex items-center gap-1.5 rounded border border-line bg-surface px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
-                    >
-                      <span>🔊 {isPlaying ? "재생 중..." : "원문 듣기"}</span>
-                    </button>
-                    <button
-                      type="button"
                       onClick={() => toggleRevealTranslation(idx)}
                       className={
                         "rounded px-2.5 py-1 text-[11.5px] font-medium transition-colors cursor-pointer " +
@@ -436,14 +435,14 @@ export function ReadingLearningView({
                           : "bg-ink text-surface hover:opacity-90")
                       }
                     >
-                      {isRevealed ? "해석 숨기기" : "💡 해석 보기"}
+                      {isRevealed ? "해석 숨기기" : "💡 직독직해 보기"}
                     </button>
                   </div>
                 </div>
 
                 {/* English sentence */}
                 <div className="mt-3.5 pl-8 text-[16px] font-medium text-ink font-serif leading-relaxed">
-                  {pair.en}
+                  {renderEnSentenceWithMarkers(pair.en)}
                 </div>
 
                 {/* Korean translation (revealable) */}

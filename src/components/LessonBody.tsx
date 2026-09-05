@@ -13,7 +13,7 @@ import { StudentLearningView } from "./StudentLearningView";
 import { BasicsLearningView } from "./BasicsLearningView";
 import { CnnLearningView } from "./CnnLearningView";
 import { ChineseLearningView } from "./ChineseLearningView";
-import { speakText, type VoiceGender } from "@/lib/speech";
+import type { VoiceGender } from "@/lib/speech";
 import { mediaUrl } from "@/lib/media";
 
 export interface PairedSentence {
@@ -119,7 +119,7 @@ export function LessonBody({
 
   // Dedicated Phonics Word Matrix for VOCA course
   if (course === "phonics") {
-    return <PhonicsLearningView blocks={blocks} lessonKey={lessonKey} />;
+    return <PhonicsLearningView blocks={blocks} lessonKey={lessonKey} audioTracks={audioTracks} />;
   }
 
   // Dedicated Student Conversation & Chunk Drill view for student course
@@ -185,37 +185,18 @@ export function LessonBody({
 
   function playSentence(text: string, idx: number, audioSrc?: string) {
     if (!text) return;
-    setActiveSentenceIndex(idx);
 
     if (audioSrc) {
+      setActiveSentenceIndex(idx);
       const audio = new Audio(mediaUrl(audioSrc));
       audio.onended = () => setActiveSentenceIndex(null);
-      audio.onerror = () => {
-        speakSentenceTts(text, idx);
-      };
-      audio.play().catch(() => speakSentenceTts(text, idx));
-    } else {
-      speakSentenceTts(text, idx);
+      audio.onerror = () => setActiveSentenceIndex(null);
+      audio.play().catch(() => setActiveSentenceIndex(null));
     }
   }
 
-  function speakSentenceTts(text: string, idx: number) {
-    speakText(text, {
-      lang: contentLang,
-      gender: voiceGender,
-      rate: 0.95,
-      onStart: () => setActiveSentenceIndex(idx),
-      onEnd: () => setActiveSentenceIndex(null),
-      onError: () => setActiveSentenceIndex(null),
-    });
-  }
-
-  function playWord(word: string) {
-    speakText(word, {
-      lang: contentLang,
-      gender: voiceGender,
-      rate: 0.9,
-    });
+  function playWord(_word: string) {
+    // Only real studio audio is used in K-IG-LAB (no synthetic AI speech)
   }
 
   return (

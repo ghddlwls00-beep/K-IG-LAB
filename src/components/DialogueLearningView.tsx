@@ -52,6 +52,29 @@ function normalizeForComparison(text: string): string {
     .trim();
 }
 
+function renderNoticingTokens(userText: string, targetText: string) {
+  const userWords = userText.toLowerCase().replace(/[.,?!;:\"'()]/g, "").trim().split(/\s+/).filter(Boolean);
+  const targetTokens = targetText.trim().split(/(\s+|[.,?!;:\"'()]+)/);
+  return targetTokens.map((token, idx) => {
+    const clean = token.toLowerCase().replace(/[.,?!;:\"'()]/g, "").trim();
+    if (!clean) return <span key={idx}>{token}</span>;
+    const isMatched = userWords.includes(clean);
+    return isMatched ? (
+      <span key={idx} className="font-semibold text-emerald-800 dark:text-emerald-300">
+        {token}
+      </span>
+    ) : (
+      <span
+        key={idx}
+        className="rounded bg-amber-500/20 px-1 py-0.5 font-bold text-amber-900 dark:text-amber-200 underline decoration-amber-500 underline-offset-2"
+        title="학습자 발화와 차이가 있는 핵심 어휘/구문 (Notice the Gap)"
+      >
+        {token}
+      </span>
+    );
+  });
+}
+
 const COMMON_CONVERSATION_CHUNKS = [
   "nice to meet you",
   "thank you for",
@@ -700,23 +723,24 @@ export function DialogueLearningView({
           </div>
         </div>
 
-        {/* Study Mode Selector & Controls */}
+        {/* Pedagogical Framework Indicator (Paul Nation 4 Strands & Scott Thornbury Dogme) */}
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
+          <div className="flex items-center gap-2">
+            <span className="flex h-5 w-5 items-center justify-center rounded-full bg-primary text-white text-[10px] font-bold">
+              ★
+            </span>
+            <span className="font-semibold text-ink">
+              Paul Nation 교수 4대 균형 학습(Four Strands: 각 25%) & Scott Thornbury 실전 대화 상호작용
+            </span>
+          </div>
+          <span className="font-mono text-[11px] text-ink-faint">
+            입력 25% · 형태 25% · 출력 25% · 유창성 25%
+          </span>
+        </div>
+
+        {/* Four Strands Study Mode Selector */}
         <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
           <div className="flex flex-wrap items-center gap-1 rounded-xl bg-raised/80 p-1 border border-line/70">
-            <button
-              type="button"
-              onClick={() => setStudyMode("shadowing")}
-              className={
-                "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
-                (studyMode === "shadowing"
-                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
-                  : "text-ink-soft hover:text-ink hover:bg-surface/50")
-              }
-            >
-              <span>🗣️</span>
-              <span>Step 1 · 문장별 섀도잉</span>
-            </button>
-
             <button
               type="button"
               onClick={() => setStudyMode("continuous")}
@@ -727,22 +751,8 @@ export function DialogueLearningView({
                   : "text-ink-soft hover:text-ink hover:bg-surface/50")
               }
             >
-              <span>💬</span>
-              <span>Step 2 · 전체 스피치 연속 청취</span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setStudyMode("speaking")}
-              className={
-                "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
-                (studyMode === "speaking"
-                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
-                  : "text-ink-soft hover:text-ink hover:bg-surface/50")
-              }
-            >
-              <span>✍️</span>
-              <span>Step 3 · 블라인드 역인출 스피킹</span>
+              <span>🎧</span>
+              <span>Strand 1 · 입력 (전체 청취)</span>
             </button>
 
             <button
@@ -756,7 +766,35 @@ export function DialogueLearningView({
               }
             >
               <span>🧩</span>
-              <span>Step 4 · 핵심 표현 체득</span>
+              <span>Strand 2 · 형태 (연어 클로즈)</span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setStudyMode("shadowing")}
+              className={
+                "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
+                (studyMode === "shadowing"
+                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
+                  : "text-ink-soft hover:text-ink hover:bg-surface/50")
+              }
+            >
+              <span>🗣️</span>
+              <span>Strand 3 · 출력 (화자 섀도잉)</span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setStudyMode("speaking")}
+              className={
+                "flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-[12.5px] font-medium transition-all cursor-pointer " +
+                (studyMode === "speaking"
+                  ? "bg-surface text-ink font-semibold shadow-2xs border border-line/80"
+                  : "text-ink-soft hover:text-ink hover:bg-surface/50")
+              }
+            >
+              <span>⚡</span>
+              <span>Strand 4 · 유창성 (즉각 스피킹)</span>
             </button>
           </div>
 
@@ -1185,14 +1223,19 @@ export function DialogueLearningView({
                     </div>
                   </div>
 
-                  {/* Revealed Answer */}
+                  {/* Revealed Answer with Thornbury Notice the Gap */}
                   {isRevealed && (
                     <div className="mt-1 rounded-xl border border-emerald-500/30 bg-emerald-500/[0.04] p-3.5">
-                      <span className="block font-mono text-[11px] font-bold text-emerald-700 uppercase">
-                        모범 영어 회화 표현
-                      </span>
-                      <p className={`mt-1 font-semibold text-emerald-900 ${fontStyles.english}`}>
-                        {item.englishText}
+                      <div className="flex items-center justify-between">
+                        <span className="block font-mono text-[11px] font-bold text-emerald-700 uppercase">
+                          모범 영어 회화 표현 & 자가 대조 (Notice the Gap)
+                        </span>
+                        <span className="text-[11px] text-ink-faint">
+                          밑줄/배경: 원어민 발화와의 차이점
+                        </span>
+                      </div>
+                      <p className={`mt-2 font-medium text-ink leading-relaxed ${fontStyles.english}`}>
+                        {userVal.trim() ? renderNoticingTokens(userVal, item.englishText) : item.englishText}
                       </p>
                     </div>
                   )}
