@@ -98,13 +98,13 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
           </span>
           <div>
             <div className="flex items-center gap-2">
-              <h2 className="text-[15px] font-bold text-ink">파닉스 발음 훈련 매트릭스</h2>
+              <h2 className="text-[15px] font-bold text-ink">VOCA · 어휘 강세 & 음성 분별 랩 (Stress & Phonetics)</h2>
               <span className="rounded-full bg-raised px-2 py-0.5 font-mono text-[11px] font-medium text-ink-soft border border-line">
                 총 {words.length}개 핵심 어휘
               </span>
             </div>
             <p className="text-[12px] text-ink-soft mt-0.5">
-              단어를 클릭하면 원어민 표준 발음이 재생됩니다. 소리와 철자 규칙을 연계하여 익혀보세요.
+              단어의 철자보다 [강세 위치(Stress Shift)]와 [원어민의 모음 굴림]에 집중하여 귀와 입으로 체득하세요.
             </p>
           </div>
         </div>
@@ -145,7 +145,7 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
                 : "bg-ink text-surface hover:opacity-90 active:scale-95")
             }
           >
-            <span>{isPlayingAll ? "⏸ 정지" : "▶ 전체 순차 듣기"}</span>
+            <span>{isPlayingAll ? "⏸ 정지" : "▶ Step 1: 전체 리듬 연속 듣기"}</span>
           </button>
         </div>
       </div>

@@ -528,7 +528,7 @@ export function DialogueLearningView({
               }
             >
               <span>🗣️</span>
-              <span>3단계 섀도잉</span>
+              <span>Step 1 · 문장별 섀도잉</span>
             </button>
 
             <button
@@ -542,7 +542,7 @@ export function DialogueLearningView({
               }
             >
               <span>💬</span>
-              <span>연속 대화 오토플레이</span>
+              <span>Step 2 · 전체 스피치 연속 청취</span>
             </button>
 
             <button
@@ -556,7 +556,7 @@ export function DialogueLearningView({
               }
             >
               <span>✍️</span>
-              <span>스피킹 역번역</span>
+              <span>Step 3 · 블라인드 역인출 스피킹</span>
             </button>
 
             <button
@@ -570,7 +570,7 @@ export function DialogueLearningView({
               }
             >
               <span>🧩</span>
-              <span>핵심 표현 퀴즈</span>
+              <span>Step 4 · 핵심 표현 체득</span>
             </button>
           </div>
 

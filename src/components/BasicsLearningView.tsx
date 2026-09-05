@@ -71,7 +71,7 @@ function QaTrackView({
       <div className="rounded-2xl border border-line bg-surface/90 p-5 shadow-xs">
         <div className="flex items-center gap-2">
           <span className="rounded bg-raised px-2 py-0.5 font-mono text-[11px] font-semibold text-ink-soft uppercase tracking-wider border border-line">
-            Spoken Q&A Drill
+            Step 1 · 음성 질문 듣고 3초 즉답 훈련
           </span>
           <span className="font-mono text-[11px] text-ink-faint">{heading}</span>
         </div>
@@ -88,7 +88,7 @@ function QaTrackView({
         <div className="rounded-2xl border border-line bg-surface p-5 shadow-xs flex flex-col gap-4">
           <div className="flex items-center justify-between border-b border-line/60 pb-3">
             <h3 className="text-[14.5px] font-semibold text-ink">
-              💡 질문 대본 및 모범 예시 답안
+              Step 2 · 💡 질문 대본 및 모범 답변 확인
             </h3>
             <button
               type="button"
@@ -136,7 +136,7 @@ function QaTrackView({
       {/* Practice Notes */}
       <div className="rounded-2xl border border-line bg-surface p-5 shadow-xs flex flex-col gap-2.5">
         <label className="text-[13px] font-semibold text-ink">
-          내 영어 답변 메모장 (Practice Notepad)
+          Step 3 · ✍️ 내 실제 답변 영어 작성 & 스피킹 (Personalize)
         </label>
         <textarea
           rows={4}
@@ -231,7 +231,7 @@ function SentenceTrackView({
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            한/영 대조
+            Step 1 · 한/영 대조
           </button>
           <button
             type="button"
@@ -242,7 +242,7 @@ function SentenceTrackView({
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            영어 집중
+            Step 2 · 영어 낭독
           </button>
           <button
             type="button"
@@ -253,7 +253,7 @@ function SentenceTrackView({
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            영작 훈련
+            Step 3 · 영작 인출
           </button>
         </div>
       </div>

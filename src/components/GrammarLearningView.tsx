@@ -465,7 +465,7 @@ export function GrammarLearningView({
               }
             >
               <span>✍️</span>
-              <span>실전 영작 훈련</span>
+              <span>Step 1 · 순발력 자가 영작</span>
             </button>
 
             <button
@@ -479,7 +479,7 @@ export function GrammarLearningView({
               }
             >
               <span>🧩</span>
-              <span>문법 빈칸 퀴즈</span>
+              <span>Step 2 · 문법 어순 대조</span>
             </button>
 
             <button
@@ -493,7 +493,7 @@ export function GrammarLearningView({
               }
             >
               <span>⚖️</span>
-              <span>한/영 대조 & 섀도잉</span>
+              <span>Step 3 · 소리 결합 섀도잉</span>
             </button>
 
             <button
@@ -507,7 +507,7 @@ export function GrammarLearningView({
               }
             >
               <span>📝</span>
-              <span>모의 영작 시험지</span>
+              <span>Step 4 · 실전 모의 시험</span>
             </button>
           </div>
 

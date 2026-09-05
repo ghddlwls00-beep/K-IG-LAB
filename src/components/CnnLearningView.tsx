@@ -77,7 +77,7 @@ export function CnnLearningView({ blocks, lessonKey }: CnnLearningViewProps) {
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            📰 뉴스 대본 대조
+            Step 1 · 📰 실전 대본 대조
           </button>
           <button
             type="button"
@@ -88,7 +88,7 @@ export function CnnLearningView({ blocks, lessonKey }: CnnLearningViewProps) {
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            📚 핵심 시사 어휘 ({vocabItems.length})
+            Step 3 · 📚 시사 어휘 ({vocabItems.length})
           </button>
           <button
             type="button"
@@ -99,7 +99,7 @@ export function CnnLearningView({ blocks, lessonKey }: CnnLearningViewProps) {
                 : "text-ink-soft hover:text-ink"
             }`}
           >
-            🎙️ 청취 & 발음 팁 ({phoneticTips.length})
+            Step 2 · 🎙️ 연음 디코딩 ({phoneticTips.length})
           </button>
         </div>
       </div>

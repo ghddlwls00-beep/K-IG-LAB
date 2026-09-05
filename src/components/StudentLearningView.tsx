@@ -112,7 +112,7 @@ export function StudentLearningView({
                   : "text-ink-soft hover:text-ink"
               }`}
             >
-              🗣️ 문장 섀도잉
+              Step 1 · 🗣️ 원어민 섀도잉
             </button>
             <button
               type="button"
@@ -123,7 +123,7 @@ export function StudentLearningView({
                   : "text-ink-soft hover:text-ink"
               }`}
             >
-              🧩 청크 직독직해 ({chunkDrills.length})
+              Step 2 · 🧩 청크 끊어말하기 ({chunkDrills.length})
             </button>
             <button
               type="button"
@@ -134,7 +134,7 @@ export function StudentLearningView({
                   : "text-ink-soft hover:text-ink"
               }`}
             >
-              ✍️ 스피킹 역영작
+              Step 3 · ✍️ 블라인드 역인출
             </button>
           </div>
 

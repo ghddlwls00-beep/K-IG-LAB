@@ -136,7 +136,7 @@ export function ReadingLearningView({
                 : "text-ink-soft hover:bg-raised hover:text-ink")
             }
           >
-            📖 실전 지문 통독
+            Step 1 · 📖 원어민 호흡 속독 (Flow)
           </button>
 
           <button
@@ -149,7 +149,7 @@ export function ReadingLearningView({
                 : "text-ink-soft hover:bg-raised hover:text-ink")
             }
           >
-            ⚖️ 좌우 나란히 대조
+            Step 2 · ⚖️ 좌우 구문 대조 (Dual)
           </button>
 
           <button
@@ -162,7 +162,7 @@ export function ReadingLearningView({
                 : "text-ink-soft hover:bg-raised hover:text-ink")
             }
           >
-            🔬 문장별 정밀 분석
+            Step 3 · 🔬 문장별 정밀 분석 (Breakdown)
           </button>
         </div>
 
