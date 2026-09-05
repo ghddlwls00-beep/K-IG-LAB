@@ -5,6 +5,7 @@ import { T } from "@/components/LanguageProvider";
 import { getCourseIndex, getCourses } from "@/lib/content";
 import { tabForCourse } from "@/lib/tabs";
 import { lessonDisplay } from "@/lib/courses";
+import { formatGroupTitle, formatLessonPresentation } from "@/lib/curriculumPresentation";
 import type { LessonSummary } from "@/lib/types";
 
 export function generateStaticParams() {
@@ -53,7 +54,7 @@ export default async function CoursePage({ params }: { params: Promise<{ course:
   const sections = (
     groups.length > 0
       ? groups.map((g) => ({
-          label: g.label || (g as { title?: string }).title || "Group",
+          label: formatGroupTitle(course.slug, g.label || (g as { title?: string }).title || "Group"),
           lessons: g.lessons
             .filter((id) => listedIds.has(id))
             .map((id) => byId.get(id))
@@ -129,30 +130,46 @@ export default async function CoursePage({ params }: { params: Promise<{ course:
               would leave the container colour showing as a block on any
               partial last row.
             */}
-            <ul className="grid max-h-[21rem] grid-cols-2 gap-1.5 overflow-y-auto pr-1 sm:grid-cols-3 md:grid-cols-4">
-              {section.lessons.map((lesson) => (
-                <li key={lesson.id}>
-                  <Link
-                    href={`/${course.slug}/${lesson.id}`}
-                    className="flex h-full flex-col justify-between gap-2 border border-line px-3 py-2.5 hover:border-line-strong hover:bg-raised focus-visible:bg-raised"
-                  >
-                    <span className="text-[13px] leading-snug">
-                      {(() => {
-                        const shown = lessonDisplay(course, lesson);
-                        return "n" in shown ? (
-                          <T k="lesson.numbered" vars={{ n: shown.n }} />
-                        ) : (
-                          shown.text
-                        );
-                      })()}
-                    </span>
-                    <span className="flex items-center justify-between font-mono text-[10.5px] text-ink-faint">
-                      <span className="tabular-nums">{lesson.id}</span>
-                      {lesson.variant === "script" ? <span>한글</span> : null}
-                    </span>
-                  </Link>
-                </li>
-              ))}
+            <ul className="grid max-h-[25rem] grid-cols-1 gap-2 overflow-y-auto pr-1 sm:grid-cols-2 lg:grid-cols-3">
+              {section.lessons.map((lesson) => {
+                const pres = formatLessonPresentation(course.slug, lesson);
+                return (
+                  <li key={lesson.id}>
+                    <Link
+                      href={`/${course.slug}/${lesson.id}`}
+                      className="group flex h-full flex-col justify-between gap-2.5 rounded-xl border border-line bg-surface p-3.5 transition-all duration-200 hover:border-ink hover:bg-raised/70 hover:shadow-xs focus-visible:bg-raised"
+                    >
+                      <div className="flex flex-col gap-1">
+                        <div className="flex items-center justify-between gap-1.5">
+                          <span className="font-mono text-[11px] font-semibold text-primary tracking-wide">
+                            {pres.code}
+                          </span>
+                          {pres.badge && (
+                            <span className="rounded-md bg-raised px-1.5 py-0.5 text-[10px] font-medium text-ink-soft group-hover:text-ink">
+                              {pres.badge}
+                            </span>
+                          )}
+                        </div>
+                        <span className="text-[13.5px] font-semibold leading-snug text-ink group-hover:text-ink">
+                          {pres.title}
+                        </span>
+                        {pres.subtitle && (
+                          <span className="text-[11.5px] text-ink-soft line-clamp-1">
+                            {pres.subtitle}
+                          </span>
+                        )}
+                      </div>
+
+                      <div className="flex items-center justify-between border-t border-line/50 pt-2 font-mono text-[10.5px] text-ink-faint">
+                        <span className="tabular-nums">{lesson.id}</span>
+                        <span className="transition-transform duration-200 group-hover:translate-x-0.5 group-hover:text-ink">
+                          학습하기 →
+                        </span>
+                      </div>
+                    </Link>
+                  </li>
+                );
+              })}
             </ul>
           </section>
         ))}

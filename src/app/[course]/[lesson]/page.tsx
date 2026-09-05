@@ -8,6 +8,7 @@ import { T } from "@/components/LanguageProvider";
 import { getAllLessonParams, getCourse, getLesson, getLessonContext, getLdEnglishScript, getMenTranslations } from "@/lib/content";
 import { tabForCourse } from "@/lib/tabs";
 import { lessonDisplay } from "@/lib/courses";
+import { formatLessonPresentation } from "@/lib/curriculumPresentation";
 import type { Block } from "@/lib/types";
 import type { VoiceGender } from "@/lib/speech";
 
@@ -22,7 +23,9 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { course, lesson: id } = await params;
   const lesson = getLesson(course, id);
-  return { title: lesson ? (lesson.menuLabel ?? lesson.label ?? lesson.id) : "K-IG 교육" };
+  if (!lesson) return { title: "K-IG 교육" };
+  const pres = formatLessonPresentation(course, lesson);
+  return { title: pres.title };
 }
 
 export default async function LessonPage({
@@ -39,6 +42,7 @@ export default async function LessonPage({
   const courseInfo = getCourse(course);
   const tab = tabForCourse(course);
   const isScript = lesson.variant === "script";
+  const pres = formatLessonPresentation(course, lesson);
 
   // For Grammar 1, odd-numbered answer pages (gh1-007, gh1-009, etc.) are consolidated into their primary unified lesson (gh1-006, gh1-008, etc.)
   if (course === "grammar1") {
@@ -96,7 +100,14 @@ export default async function LessonPage({
         <div className="mb-3 flex flex-wrap items-center gap-2.5 font-mono text-[11px] tracking-wide text-ink-faint">
           <span className="uppercase font-semibold tracking-wider text-ink-soft">{tab?.label}</span>
           <span aria-hidden>·</span>
-          <span className="tabular-nums font-medium">{lesson.id}</span>
+          <span className="font-mono font-semibold text-primary">{pres.code}</span>
+          <span aria-hidden>·</span>
+          <span className="tabular-nums">{lesson.id}</span>
+          {pres.badge && (
+            <span className="rounded-md bg-raised px-1.5 py-0.5 text-[10px] font-medium text-ink-soft">
+              {pres.badge}
+            </span>
+          )}
           {isScript ? (
             <span className="border border-line px-1.5 py-0.5 tracking-wide uppercase bg-raised rounded-xs">
               <T k="lesson.koreanScript" />
@@ -104,15 +115,16 @@ export default async function LessonPage({
           ) : null}
         </div>
 
-        <h1 className="text-[1.8rem] leading-snug font-semibold tracking-tight text-balance text-ink">
-          {(() => {
-            const shown = courseInfo
-              ? lessonDisplay(courseInfo, lesson)
-              : { text: lesson.menuLabel ?? lesson.label ?? lesson.title };
-            return "n" in shown ? <T k="lesson.numbered" vars={{ n: shown.n }} /> : shown.text;
-          })()}
-        </h1>
-
+        <div className="flex flex-col gap-1.5">
+          <h1 className="text-[1.85rem] leading-snug font-bold tracking-tight text-balance text-ink">
+            {pres.title}
+          </h1>
+          {pres.subtitle && (
+            <p className="text-[14px] font-medium text-ink-soft">
+              {pres.subtitle}
+            </p>
+          )}
+        </div>
       </header>
 
       {video.length > 0 ? (
