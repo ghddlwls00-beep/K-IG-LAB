@@ -45,6 +45,7 @@ export function LessonBody({
   chunkDrills = [],
   ldEnglishScript = null,
   menTranslations = null,
+  vocaDictionary = null,
 }: {
   blocks: Block[];
   pairBlocks?: Block[] | null;
@@ -57,6 +58,7 @@ export function LessonBody({
   chunkDrills?: { en: string; ko: string }[];
   ldEnglishScript?: { n: string; ko: string; en: string }[] | null;
   menTranslations?: Record<string, string> | null;
+  vocaDictionary?: Record<string, { meaning: string; searchWord?: string }> | null;
 }) {
   const { t } = useLanguage();
 
@@ -119,7 +121,13 @@ export function LessonBody({
 
   // Dedicated Phonics Word Matrix for VOCA course
   if (course === "phonics") {
-    return <PhonicsLearningView blocks={blocks} lessonKey={lessonKey} />;
+    return (
+      <PhonicsLearningView
+        blocks={blocks}
+        lessonKey={lessonKey}
+        vocaDictionary={vocaDictionary}
+      />
+    );
   }
 
   // Dedicated Student Conversation & Chunk Drill view for student course

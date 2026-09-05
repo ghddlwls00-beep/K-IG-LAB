@@ -164,3 +164,12 @@ export function getMenTranslations(): Record<string, string> {
   );
   return dict ?? {};
 }
+
+/** Pre-computed Korean vocabulary dictionary for VOCA (phonics) course. */
+export function getVocaDictionary(): Record<string, { meaning: string; searchWord?: string }> {
+  const dict = readJson<Record<string, { meaning: string; searchWord?: string }>>(
+    path.join(CONTENT_DIR, "voca_dictionary.json"),
+  );
+  return dict ?? {};
+}
+
