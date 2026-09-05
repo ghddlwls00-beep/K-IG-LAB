@@ -10,7 +10,88 @@
   "unit": 4,
   "part": null,
   "order": 19,
-  "audio": [],
+  "audio": [
+    {
+      "src": "/audio/woman/w4-1-1.mp3",
+      "legacySrc": "w4-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-1-2.mp3",
+      "legacySrc": "w4-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-1.mp3",
+      "legacySrc": "w4-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-2.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-3.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-4.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-5.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-2-6.mp3",
+      "legacySrc": "w4-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-1.mp3",
+      "legacySrc": "w4-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-2.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-3.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-4.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-5.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-6.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-7.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w4-3-8.mp3",
+      "legacySrc": "w4-3.swf#stream",
+      "autoplay": false
+    }
+  ],
   "video": [],
   "blocks": [
     {

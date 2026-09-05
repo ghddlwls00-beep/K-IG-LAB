@@ -10,7 +10,103 @@
   "unit": 5,
   "part": null,
   "order": 27,
-  "audio": [],
+  "audio": [
+    {
+      "src": "/audio/man/m5-1-1.mp3",
+      "legacySrc": "m5-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-1-2.mp3",
+      "legacySrc": "m5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-1-3.mp3",
+      "legacySrc": "m5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-1-4.mp3",
+      "legacySrc": "m5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-1-5.mp3",
+      "legacySrc": "m5-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-1.mp3",
+      "legacySrc": "m5-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-2.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-3.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-4.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-2-5.mp3",
+      "legacySrc": "m5-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-1.mp3",
+      "legacySrc": "m5-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-2.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-3.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-4.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-3-5.mp3",
+      "legacySrc": "m5-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-4-1.mp3",
+      "legacySrc": "m5-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-4-2.mp3",
+      "legacySrc": "m5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-4-3.mp3",
+      "legacySrc": "m5-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m5-4-4.mp3",
+      "legacySrc": "m5-4.swf#stream",
+      "autoplay": false
+    }
+  ],
   "video": [],
   "blocks": [
     {

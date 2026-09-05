@@ -10,7 +10,13 @@
   "unit": 10,
   "part": 4,
   "order": 49,
-  "audio": [],
+  "audio": [
+    {
+      "src": "/audio/student/s10-4-1.mp3",
+      "legacySrc": "s10-4.swf",
+      "autoplay": false
+    }
+  ],
   "video": [],
   "blocks": [
     {

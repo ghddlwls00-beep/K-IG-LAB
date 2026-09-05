@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from "react";
 import type { Block } from "@/lib/types";
-import { AudioPlayer } from "./AudioPlayer";
 
 interface PhonicsLearningViewProps {
   blocks: Block[];
@@ -28,22 +27,6 @@ export function PhonicsLearningView({ blocks, lessonKey, audioTracks = [] }: Pho
 
   return (
     <div className="flex flex-col gap-6">
-      {/* Authentic Studio Audio Player */}
-      {audioTracks && audioTracks[0]?.src && (
-        <div className="rounded-2xl border border-line bg-surface p-4 shadow-xs">
-          <div className="mb-2 flex items-center justify-between">
-            <span className="font-mono text-[11px] font-bold uppercase tracking-wider text-emerald-700">
-              🎙️ Studio Master Audio · 원어민 원음 전체 낭독
-            </span>
-          </div>
-          <AudioPlayer
-            src={audioTracks[0].src}
-            label={audioTracks[0].label || "VOCA / Phonics 원어민 스튜디오 낭독 음원 (Studio Recording)"}
-            autoplay={false}
-          />
-        </div>
-      )}
-
       {/* Pedagogical Banner */}
       <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-4 py-3 border border-primary/15 text-[12px]">
         <div className="flex items-center gap-2">

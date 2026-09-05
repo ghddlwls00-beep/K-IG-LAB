@@ -5,7 +5,6 @@ import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { type VoiceGender } from "@/lib/speech";
 import { mediaUrl } from "@/lib/media";
-import { AudioPlayer } from "./AudioPlayer";
 
 export interface DialogueItem {
   id: number;
@@ -668,16 +667,7 @@ export function DialogueLearningView({
 
   return (
     <div className="flex flex-col gap-8">
-      {/* 1. Original Studio Recording Master Audio Player */}
-      {audioTracks.length > 0 && audioTracks[0]?.src && (
-        <AudioPlayer
-          src={audioTracks[0].src}
-          label={`${isMale ? "MEN" : "WOMEN"} 원본 오디오 전체 듣기 (Full Studio Recording)`}
-          autoplay={false}
-        />
-      )}
-
-      {/* 2. Header Toolbar & Profile Card */}
+      {/* Header Toolbar & Profile Card */}
       <div className="flex flex-col gap-3 rounded-2xl border border-line bg-surface/90 p-4 shadow-xs">
         <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line/60 pb-3">
           <div className="flex items-center gap-2.5">

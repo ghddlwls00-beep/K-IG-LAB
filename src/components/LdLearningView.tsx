@@ -5,7 +5,6 @@ import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
-import { AudioPlayer } from "./AudioPlayer";
 
 interface LdLearningViewProps {
   blocks: Block[];
@@ -162,15 +161,6 @@ export function LdLearningView({
   if (isScript) {
     return (
       <div className="flex flex-col gap-8">
-        {/* Authentic Studio Audio Player */}
-        {audioTracks && audioTracks[0]?.src && (
-          <AudioPlayer
-            src={audioTracks[0].src}
-            label="Listen & Dictate 원본 스튜디오 음원 전체 듣기 (Full Studio Recording)"
-            autoplay={false}
-          />
-        )}
-
         {/* Pedagogical Banner */}
         <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
           <div className="flex items-center gap-2">
@@ -464,15 +454,6 @@ export function LdLearningView({
   // ---------------------------------------------------------------------------
   return (
     <div className="flex flex-col gap-8">
-      {/* Authentic Studio Audio Player */}
-      {audioTracks && audioTracks[0]?.src && (
-        <AudioPlayer
-          src={audioTracks[0].src}
-          label="Listen & Dictate 원본 스튜디오 음원 전체 듣기 (Full Studio Recording)"
-          autoplay={false}
-        />
-      )}
-
       {/* Pedagogical Banner */}
       <div className="flex flex-wrap items-center justify-between gap-2 rounded-xl bg-primary/5 px-3.5 py-2 border border-primary/15 text-[12px]">
         <div className="flex items-center gap-2">

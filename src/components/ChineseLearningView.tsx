@@ -3,7 +3,6 @@
 import { useState, useRef } from "react";
 import type { Block } from "@/lib/types";
 import { mediaUrl } from "@/lib/media";
-import { AudioPlayer } from "./AudioPlayer";
 
 interface ChineseLearningViewProps {
   blocks: Block[];
@@ -125,21 +124,6 @@ export function ChineseLearningView({
           </button>
         </div>
       </div>
-
-      {/* 2. Studio Master Audio Player */}
-      {audioTracks.length > 0 && (
-        <div className="rounded-2xl border border-line bg-surface p-4 shadow-xs">
-          <div className="mb-2 flex items-center justify-between">
-            <span className="font-mono text-[11px] font-bold uppercase tracking-wider text-emerald-700">
-              🎙️ Studio Master Audio · 원어민 원음 회화 청취
-            </span>
-          </div>
-          <AudioPlayer
-            src={audioTracks[0].src}
-            label={audioTracks[0].label || "중국어 전체 원음 청취 (Studio Recording)"}
-          />
-        </div>
-      )}
 
       {/* 3. Sentence Cards */}
       <div className="flex flex-col gap-3">

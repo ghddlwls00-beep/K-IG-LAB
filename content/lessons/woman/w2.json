@@ -10,7 +10,118 @@
   "unit": 2,
   "part": null,
   "order": 6,
-  "audio": [],
+  "audio": [
+    {
+      "src": "/audio/woman/w2-1-1.wav",
+      "legacySrc": "w2-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-1-2.mp3",
+      "legacySrc": "w2-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-2-1.wav",
+      "legacySrc": "w2-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-2-2.mp3",
+      "legacySrc": "w2-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-2-3.mp3",
+      "legacySrc": "w2-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-2-4.mp3",
+      "legacySrc": "w2-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-3-1.mp3",
+      "legacySrc": "w2-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-3-2.mp3",
+      "legacySrc": "w2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-3-3.mp3",
+      "legacySrc": "w2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-3-4.mp3",
+      "legacySrc": "w2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-3-5.mp3",
+      "legacySrc": "w2-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-4-1.mp3",
+      "legacySrc": "w2-4.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-4-2.mp3",
+      "legacySrc": "w2-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-4-3.mp3",
+      "legacySrc": "w2-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-4-4.mp3",
+      "legacySrc": "w2-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-4-5.mp3",
+      "legacySrc": "w2-4.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-1.mp3",
+      "legacySrc": "w2-5.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-2.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-3.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-4.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-5.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/woman/w2-5-6.mp3",
+      "legacySrc": "w2-5.swf#stream",
+      "autoplay": false
+    }
+  ],
   "video": [],
   "blocks": [
     {

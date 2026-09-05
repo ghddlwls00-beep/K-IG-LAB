@@ -109,20 +109,17 @@ export default async function LessonPage({
         </div>
       ) : null}
 
-      {/* Authentic Studio Audio Players (Only real audio files, zero AI TTS synthesis) */}
-      {![
-        "man", "woman", "adults-m", "adults-w", "adults",
-        "ld", "phonics", "student", "basics", "middle", "chinese"
-      ].includes(course) && audio.length > 0 ? (
-        <div className="mb-8 flex flex-col gap-2.5">
-          {audio.map((a, i) => (
-            <AudioPlayer
-              key={a.src}
-              src={a.src}
-              lang={courseInfo?.contentLang ?? "en"}
-              label={audioLabel(audio.length, i, fromFlash)}
-            />
-          ))}
+      {/* Authentic Studio Audio Player (Rendered for every course and section with audio) */}
+      {audio.length > 0 ? (
+        <div className="mb-8">
+          <AudioPlayer
+            tracks={audio.map((a, i) => ({
+              src: a.src,
+              label: a.label || audioLabel(audio.length, i, fromFlash),
+              autoplay: a.autoplay,
+            }))}
+            lang={courseInfo?.contentLang ?? "en"}
+          />
         </div>
       ) : null}
 

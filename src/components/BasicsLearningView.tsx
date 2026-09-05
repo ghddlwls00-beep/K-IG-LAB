@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import type { Block } from "@/lib/types";
-import { AudioPlayer } from "./AudioPlayer";
 
 interface BasicsLearningViewProps {
   blocks: Block[];
@@ -96,21 +95,6 @@ function QaTrackView({
           원어민 질문 음성을 듣고 즉각적인 구두 응답을 구성한 후, 모범 답변과의 구문적 격차(Notice the Gap)를 자가 점검하세요.
         </p>
       </div>
-
-      {/* Studio Audio Master Player */}
-      {audioTracks.length > 0 && (
-        <div className="rounded-2xl border border-line bg-surface p-4 shadow-xs">
-          <div className="mb-2 flex items-center justify-between">
-            <span className="font-mono text-[11px] font-bold uppercase tracking-wider text-emerald-700">
-              🎙️ Studio Master Audio · 원음 질문 청취
-            </span>
-          </div>
-          <AudioPlayer
-            src={audioTracks[0].src}
-            label={audioTracks[0].label || "질문 원음 전체 청취 (Studio Recording)"}
-          />
-        </div>
-      )}
 
       {/* Answer & Script Guidance */}
       {sentenceItems.length > 0 && (
@@ -319,22 +303,7 @@ function SentenceTrackView({
         </div>
       </div>
 
-      {/* 2. Studio Master Audio Player */}
-      {audioTracks.length > 0 && (
-        <div className="rounded-2xl border border-line bg-surface p-4 shadow-xs">
-          <div className="mb-2 flex items-center justify-between">
-            <span className="font-mono text-[11px] font-bold uppercase tracking-wider text-emerald-700">
-              🎙️ Studio Master Audio · 원어민 원음 녹음
-            </span>
-          </div>
-          <AudioPlayer
-            src={audioTracks[0].src}
-            label={audioTracks[0].label || (course === "middle" ? "중등 원어민 낭독 전체 청취" : "기초 원어민 낭독 전체 청취")}
-          />
-        </div>
-      )}
-
-      {/* 3. Sentence Cards */}
+      {/* Sentence Cards */}
       <div className="flex flex-col gap-3">
         {pairs.map((pair, idx) => {
           const isRev = revealed[idx] === true;

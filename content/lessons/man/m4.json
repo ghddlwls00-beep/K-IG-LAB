@@ -10,7 +10,183 @@
   "unit": 4,
   "part": null,
   "order": 20,
-  "audio": [],
+  "audio": [
+    {
+      "src": "/audio/man/m4a-1-1.mp3",
+      "legacySrc": "m4a-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-1-2.mp3",
+      "legacySrc": "m4a-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-1.mp3",
+      "legacySrc": "m4a-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-2.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-3.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-4.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-5.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-6.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-7.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-8.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-2-9.mp3",
+      "legacySrc": "m4a-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-1.mp3",
+      "legacySrc": "m4a-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-2.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-3.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-4.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-5.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-6.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-7.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-8.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4a-3-9.mp3",
+      "legacySrc": "m4a-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-1-1.mp3",
+      "legacySrc": "m4b-1.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-1-2.mp3",
+      "legacySrc": "m4b-1.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-1.mp3",
+      "legacySrc": "m4b-2.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-2.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-3.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-4.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-5.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-2-6.mp3",
+      "legacySrc": "m4b-2.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-1.mp3",
+      "legacySrc": "m4b-3.swf#event",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-2.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-3.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-4.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-5.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-6.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    },
+    {
+      "src": "/audio/man/m4b-3-7.mp3",
+      "legacySrc": "m4b-3.swf#stream",
+      "autoplay": false
+    }
+  ],
   "video": [],
   "blocks": [
     {
