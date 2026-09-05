@@ -2,8 +2,8 @@
   "id": "gh1-052",
   "course": "grammar1",
   "series": "gh1",
-  "variant": "main",
-  "pairId": null,
+  "variant": "script",
+  "pairId": "gh1-053",
   "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
   "label": "[ Page 052]",
   "menuLabel": "[ gh1-052 ]",
@@ -14,7 +14,14 @@
     {
       "src": "/audio/grammar1/gh1-052.mp3",
       "legacySrc": "sounds/gh1-052.mp3",
-      "autoplay": true
+      "autoplay": true,
+      "label": "영작 연습 문제 (Question Audio)"
+    },
+    {
+      "src": "/audio/grammar1/gh1-053.mp3",
+      "legacySrc": "sounds/gh1-053.mp3",
+      "autoplay": true,
+      "label": "모범 영작 답안 (English Native Audio)"
     }
   ],
   "video": [],

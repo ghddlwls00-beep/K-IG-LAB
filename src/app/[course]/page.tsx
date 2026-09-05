@@ -36,7 +36,15 @@ export default async function CoursePage({ params }: { params: Promise<{ course:
   // nothing in the archive becomes unreachable.
   const mainIds = new Set(lessons.filter((l) => l.variant === "main").map((l) => l.id));
   const hasEnglishPair = (l: LessonSummary) =>
-    l.variant === "script" && [...mainIds].some((id) => l.id.startsWith(`${id}-`));
+    l.variant === "script" && (
+      [...mainIds].some((id) => l.id.startsWith(`${id}-`)) ||
+      (course.slug === "grammar1" && [...mainIds].some((id) => {
+        const m = id.match(/^gh1-(\d+)$/);
+        if (!m) return false;
+        const nextId = `gh1-${String(parseInt(m[1], 10) + 1).padStart(3, "0")}`;
+        return l.id === nextId || l.id.startsWith(`${nextId}-`);
+      }))
+    );
   const listed = lessons.filter((l) => !hasEnglishPair(l));
   const listedIds = new Set(listed.map((l) => l.id));
 
