@@ -41,8 +41,10 @@ export function ReadingLearningView({
   const [fontSize, setFontSize] = useState<"normal" | "large" | "xlarge">("normal");
   const [showNumbers, setShowNumbers] = useState(true);
 
-  // Active highlighted sentence (synchronized between English and Korean)
-  const [activeSentence, setActiveSentence] = useState<number | null>(null);
+  // Active pinned sentence (selected via click) and temporarily playing sentence
+  const [pinnedSentence, setPinnedSentence] = useState<number | null>(null);
+  const [playingSentence, setPlayingSentence] = useState<number | null>(null);
+  const activeSentence = pinnedSentence;
   const [revealedTranslations, setRevealedTranslations] = useState<Record<number, boolean>>({});
 
   // Reading Notes & Summary saved to localStorage
@@ -85,12 +87,13 @@ export function ReadingLearningView({
 
   function playSentenceEn(text: string, idx: number) {
     if (!text) return;
-    setActiveSentence(idx);
+    setPinnedSentence(idx);
+    setPlayingSentence(idx);
     speakText(text, {
       lang: "en",
       rate: 0.95,
-      onEnd: () => setActiveSentence(null),
-      onError: () => setActiveSentence(null),
+      onEnd: () => setPlayingSentence(null),
+      onError: () => setPlayingSentence(null),
     });
   }
 
@@ -234,25 +237,25 @@ export function ReadingLearningView({
             </div>
 
             {/* Seamless Natural Paragraph Layout */}
+            {/* Seamless Natural Paragraph Layout */}
             <div className={`${fontClasses} font-serif tracking-normal text-ink text-justify`}>
               {sentencePairs.map((pair, idx) => {
-                const isActive = activeSentence === idx;
+                const isSelected = pinnedSentence === idx;
                 const displayText = isScript ? pair.ko : pair.en;
 
                 return (
                   <span
                     key={idx}
-                    onClick={() => setActiveSentence(isActive ? null : idx)}
-                    onMouseEnter={() => setActiveSentence(idx)}
+                    onClick={() => setPinnedSentence(isSelected ? null : idx)}
                     className={
-                      "group inline cursor-pointer rounded px-1 py-0.5 transition-all duration-150 " +
-                      (isActive
-                        ? "bg-ink/10 text-ink ring-1 ring-ink/30 font-medium"
-                        : "hover:bg-raised/70")
+                      "group inline cursor-pointer rounded px-1.5 py-0.5 transition-all duration-150 " +
+                      (isSelected
+                        ? "bg-ink text-surface font-semibold shadow-xs ring-2 ring-ink/20"
+                        : "hover:bg-raised/80 hover:text-ink")
                     }
                   >
                     {showNumbers ? (
-                      <sup className="mr-1 select-none font-mono text-[10px] font-semibold text-ink-faint group-hover:text-ink">
+                      <sup className={`mr-1 select-none font-mono text-[10px] font-semibold ${isSelected ? "text-surface/80" : "text-ink-faint group-hover:text-ink"}`}>
                         [{idx + 1}]
                       </sup>
                     ) : null}
@@ -263,35 +266,36 @@ export function ReadingLearningView({
             </div>
 
             {/* Interactive Sentence Drawer / Instant Translation Bar */}
-            {activeSentence !== null && sentencePairs[activeSentence] ? (
+            {pinnedSentence !== null && sentencePairs[pinnedSentence] ? (
               <div className="mt-6 rounded-xl border border-line-strong bg-raised/50 p-4 shadow-sm transition-all duration-200 animate-in fade-in">
                 <div className="flex items-center justify-between gap-3 border-b border-line/60 pb-2.5">
                   <div className="flex items-center gap-2 font-mono text-[11.5px] text-ink-faint">
                     <span className="rounded bg-ink px-1.5 py-0.5 text-surface font-bold">
-                      문장 #{activeSentence + 1}
+                      문장 #{pinnedSentence + 1}
                     </span>
-                    <span>직독직해 분석</span>
+                    <span>직독직해 분석 (고정됨)</span>
                   </div>
 
                   <div className="flex items-center gap-2">
                     <button
                       type="button"
-                      onClick={() => playSentenceEn(sentencePairs[activeSentence].en, activeSentence)}
+                      onClick={() => playSentenceEn(sentencePairs[pinnedSentence].en, pinnedSentence)}
                       className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
                     >
-                      <span>🔊 원문 듣기</span>
+                      <span>🔊 {playingSentence === pinnedSentence ? "재생 중..." : "원문 듣기"}</span>
                     </button>
                     <button
                       type="button"
-                      onClick={() => playSentenceKo(sentencePairs[activeSentence].ko)}
+                      onClick={() => playSentenceKo(sentencePairs[pinnedSentence].ko)}
                       className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[11.5px] font-medium text-ink hover:bg-raised transition-colors cursor-pointer"
                     >
                       <span>🔊 해석 듣기</span>
                     </button>
                     <button
                       type="button"
-                      onClick={() => setActiveSentence(null)}
-                      className="rounded p-1 text-ink-faint hover:text-ink"
+                      onClick={() => setPinnedSentence(null)}
+                      className="rounded p-1 text-ink-faint hover:text-ink hover:bg-surface cursor-pointer"
+                      title="닫기"
                     >
                       ✕
                     </button>
@@ -301,11 +305,11 @@ export function ReadingLearningView({
                 <div className="mt-3 flex flex-col gap-2">
                   <div className="text-[14.5px] text-ink font-serif leading-relaxed">
                     <span className="font-mono text-[11px] font-bold text-ink-faint mr-2 uppercase">EN:</span>
-                    {sentencePairs[activeSentence].en}
+                    {sentencePairs[pinnedSentence].en}
                   </div>
                   <div className="text-[14.5px] text-ink-soft leading-relaxed border-t border-line/40 pt-2">
                     <span className="font-mono text-[11px] font-bold text-ink-faint mr-2 uppercase">KO:</span>
-                    {sentencePairs[activeSentence].ko}
+                    {sentencePairs[pinnedSentence].ko}
                   </div>
                 </div>
               </div>
@@ -323,26 +327,28 @@ export function ReadingLearningView({
               <span className="rounded bg-raised px-2 py-0.5 font-mono text-[11px] font-semibold text-ink uppercase tracking-wider border border-line">
                 English Passage (영어 원문)
               </span>
-              <span className="font-mono text-[11px] text-ink-faint">마우스 호버 시 동기화</span>
+              <span className="font-mono text-[11px] text-ink-faint">클릭하여 문장 고정 및 듣기</span>
             </div>
 
             <div className={`${fontClasses} font-serif text-ink leading-loose text-justify`}>
               {sentencePairs.map((pair, idx) => {
-                const isActive = activeSentence === idx;
+                const isSelected = pinnedSentence === idx;
                 return (
                   <span
                     key={idx}
-                    onMouseEnter={() => setActiveSentence(idx)}
-                    onClick={() => playSentenceEn(pair.en, idx)}
+                    onClick={() => {
+                      setPinnedSentence((prev) => (prev === idx ? null : idx));
+                      playSentenceEn(pair.en, idx);
+                    }}
                     className={
-                      "inline cursor-pointer rounded px-1 py-0.5 transition-all duration-150 " +
-                      (isActive
+                      "inline cursor-pointer rounded px-1.5 py-0.5 transition-all duration-150 " +
+                      (isSelected
                         ? "bg-ink text-surface font-semibold shadow-xs ring-2 ring-ink/20"
-                        : "hover:bg-raised")
+                        : "hover:bg-raised/80 hover:text-ink")
                     }
                   >
                     {showNumbers ? (
-                      <sup className="mr-1 select-none font-mono text-[10px] opacity-75 font-bold">
+                      <sup className={`mr-1 select-none font-mono text-[10px] font-bold ${isSelected ? "text-surface/80" : "opacity-75"}`}>
                         [{idx + 1}]
                       </sup>
                     ) : null}
@@ -359,26 +365,28 @@ export function ReadingLearningView({
               <span className="rounded bg-raised px-2 py-0.5 font-mono text-[11px] font-semibold text-ink-soft uppercase tracking-wider border border-line">
                 Korean Interpretation (한글 완역)
               </span>
-              <span className="font-mono text-[11px] text-ink-faint">1:1 구문 대조</span>
+              <span className="font-mono text-[11px] text-ink-faint">클릭하여 구문 고정</span>
             </div>
 
             <div className={`${fontClasses} text-ink/90 leading-loose text-justify`}>
               {sentencePairs.map((pair, idx) => {
-                const isActive = activeSentence === idx;
+                const isSelected = pinnedSentence === idx;
                 return (
                   <span
                     key={idx}
-                    onMouseEnter={() => setActiveSentence(idx)}
-                    onClick={() => playSentenceKo(pair.ko)}
+                    onClick={() => {
+                      setPinnedSentence((prev) => (prev === idx ? null : idx));
+                      playSentenceKo(pair.ko);
+                    }}
                     className={
-                      "inline cursor-pointer rounded px-1 py-0.5 transition-all duration-150 " +
-                      (isActive
+                      "inline cursor-pointer rounded px-1.5 py-0.5 transition-all duration-150 " +
+                      (isSelected
                         ? "bg-ink text-surface font-semibold shadow-xs ring-2 ring-ink/20"
-                        : "hover:bg-raised")
+                        : "hover:bg-raised/80 hover:text-ink")
                     }
                   >
                     {showNumbers ? (
-                      <sup className="mr-1 select-none font-mono text-[10px] opacity-75 font-bold">
+                      <sup className={`mr-1 select-none font-mono text-[10px] font-bold ${isSelected ? "text-surface/80" : "opacity-75"}`}>
                         [{idx + 1}]
                       </sup>
                     ) : null}
@@ -396,7 +404,7 @@ export function ReadingLearningView({
         <section aria-label="Sentence Breakdown Drill" className="flex flex-col gap-4">
           {sentencePairs.map((pair, idx) => {
             const isRevealed = Boolean(revealedTranslations[idx]);
-            const isPlaying = activeSentence === idx;
+            const isPlaying = playingSentence === idx;
 
             return (
               <div
