@@ -56,7 +56,7 @@ export function LessonBody({
   const dictation = blocks.find((b) => b.type === "dictation") || pairBlocks?.find((b) => b.type === "dictation");
 
   // Pair sentences between main lesson and paired script
-  const pairedSentences = buildPairedSentences(blocks, pairBlocks, course, isScript, audioTracks);
+  const pairedSentences = buildPairedSentences(blocks, pairBlocks, course, isScript, audioTracks, lessonKey);
 
   // Collect all target language sentences for dictation answer checking
   const referenceSentences = pairedSentences.map((s) => s.targetText).filter(Boolean);
@@ -409,14 +409,67 @@ function cleanSentenceText(text: string): string {
 }
 
 function isEnglishText(text: string): boolean {
+  if (!text) return false;
   const latin = (text.match(/[a-zA-Z]/g) || []).length;
   const hangul = (text.match(/[\uAC00-\uD7AF\u1100-\u11FF]/g) || []).length;
-  return latin > hangul;
+  return latin >= hangul && latin > 0;
+}
+
+function hasKorean(text: string): boolean {
+  if (!text) return false;
+  return /[\uAC00-\uD7AF\u1100-\u11FF]/.test(text);
+}
+
+function isChineseText(text: string): boolean {
+  if (!text) return false;
+  return /[\u4E00-\u9FFF]/.test(text) && !hasKorean(text);
+}
+
+function splitSentences(text: string): string[] {
+  if (!text) return [];
+  return text
+    .split(/(?<=[.?!])\s+/)
+    .map((s) => cleanSentenceText(s))
+    .filter((s) => s.length > 0);
+}
+
+function alignSentences(enSents: string[], koSents: string[]): { en: string; ko: string }[] {
+  if (enSents.length === 0 && koSents.length === 0) return [];
+  if (enSents.length === 0) return koSents.map((k) => ({ en: "", ko: k }));
+  if (koSents.length === 0) return enSents.map((e) => ({ en: e, ko: "" }));
+
+  if (enSents.length === koSents.length) {
+    return enSents.map((en, i) => ({ en, ko: koSents[i] }));
+  }
+
+  const result: { en: string; ko: string }[] = [];
+  if (enSents.length < koSents.length) {
+    const numBuckets = enSents.length;
+    const buckets: string[][] = Array.from({ length: numBuckets }, () => []);
+    koSents.forEach((k, idx) => {
+      const bucketIdx = Math.min(Math.floor((idx / koSents.length) * numBuckets), numBuckets - 1);
+      buckets[bucketIdx].push(k);
+    });
+    for (let i = 0; i < numBuckets; i++) {
+      result.push({ en: enSents[i], ko: buckets[i].join(" ") });
+    }
+  } else {
+    const numBuckets = koSents.length;
+    const buckets: string[][] = Array.from({ length: numBuckets }, () => []);
+    enSents.forEach((e, idx) => {
+      const bucketIdx = Math.min(Math.floor((idx / enSents.length) * numBuckets), numBuckets - 1);
+      buckets[bucketIdx].push(e);
+    });
+    for (let i = 0; i < numBuckets; i++) {
+      result.push({ en: buckets[i].join(" "), ko: koSents[i] });
+    }
+  }
+  return result;
 }
 
 /**
  * Builds a structured, aligned array of sentences from main blocks and pairBlocks.
- * Automatically guarantees English is targetText and Korean is translationText.
+ * Automatically guarantees targetText is English (or Chinese) and translationText is Korean.
  */
 function buildPairedSentences(
   blocks: Block[],
@@ -424,15 +477,46 @@ function buildPairedSentences(
   course: string,
   isScript: boolean,
   audioTracks: { src: string; label?: string }[] = [],
+  lessonKey: string = "",
 ): PairedSentence[] {
   const result: PairedSentence[] = [];
 
-  // Case A-0: student course (clean sentences block with companion Korean paragraphs)
-  if (course === "student") {
-    const sentBlock = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
+  // Skip chapter index pages (e.g. m1..m5, w1..w5, s1..s20, c1, c2) which are TOC menus, not sentence drills
+  const lessonId = lessonKey.split("/")[1] || lessonKey;
+  if (/^(m|w|s|c)\d+$/.test(lessonId)) {
+    return result;
+  }
+
+  // -------------------------------------------------------------------------
+  // 1. Basics QA track (qa011-1, etc.)
+  // -------------------------------------------------------------------------
+  if (course === "basics" && (lessonKey.includes("qa") || lessonId.startsWith("qa"))) {
+    const sBlock = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
     const koParas = blocks.filter((b) => b.type === "paragraph" && b.lang === "ko") as { type: "paragraph"; text: string }[];
-    if (sentBlock?.items && sentBlock.items.length > 0) {
-      sentBlock.items.forEach((item, idx) => {
+    if (sBlock && koParas.length > 0) {
+      sBlock.items.forEach((item, idx) => {
+        result.push({
+          index: idx + 1,
+          numberLabel: item.n || String(idx + 1),
+          targetText: cleanSentenceText(item.text),
+          translationText: koParas[idx]?.text?.trim() || "",
+        });
+      });
+      return result;
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 1.5. student course (clean sentences block with companion Korean paragraphs)
+  // -------------------------------------------------------------------------
+  if (course === "student") {
+    const allSentItems = blocks
+      .filter((b) => b.type === "sentences")
+      .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
+    const koParas = blocks.filter((b) => b.type === "paragraph" && b.lang === "ko") as { type: "paragraph"; text: string }[];
+
+    if (allSentItems.length > 0) {
+      allSentItems.forEach((item, idx) => {
         const ko = koParas[idx]?.text || "";
         const clipTrack = audioTracks[idx + 1];
         result.push({
@@ -447,67 +531,196 @@ function buildPairedSentences(
     }
   }
 
-  // Case A: Dialogue courses (man, woman) - alternating paragraphs
+  // -------------------------------------------------------------------------
+  // 2. Dialogue courses (man, woman) - robust alternating & grouped pairs
+  // -------------------------------------------------------------------------
   if (["man", "woman"].includes(course)) {
     const paragraphs = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
-    
     const cleanParas: { text: string; isEn: boolean }[] = [];
+
     for (const p of paragraphs) {
       const t = (p.text || "").trim();
       if (!t) continue;
       if (t.includes("K-IG") || t.includes("<font") || t.includes("한/영") || /^Chapter\s+\d/i.test(t)) continue;
-      if (t.endsWith(":")) continue;
-      if (t === "Greeting and Introduction" || t === "My Personal and Educational Background") continue;
+      if (/\s*:\s*$/.test(t)) continue;
+      if (/^\d+\s+[A-Za-z]/.test(t)) continue;
+      if (
+        t.toLowerCase().includes("self-introduction") ||
+        t.toLowerCase().includes("educational background") ||
+        t.toLowerCase().includes("politics in korea")
+      ) {
+        if (t.length < 50) continue;
+      }
       cleanParas.push({ text: t, isEn: isEnglishText(t) });
     }
 
-    let currentEn = "";
-    let currentKo = "";
-    let count = 0;
-
-    for (let i = 0; i < cleanParas.length; i++) {
-      const p = cleanParas[i];
-      if (p.isEn) {
-        currentEn = p.text;
+    // Try alternating pairs first
+    const altPairs: { en: string; ko: string }[] = [];
+    let i = 0;
+    while (i < cleanParas.length - 1) {
+      const curr = cleanParas[i];
+      const next = cleanParas[i + 1];
+      if (curr.isEn !== next.isEn) {
+        const en = curr.isEn ? curr.text : next.text;
+        const ko = curr.isEn ? next.text : curr.text;
+        altPairs.push({ en, ko });
+        i += 2;
       } else {
-        currentKo = p.text;
-      }
-
-      if (currentEn && currentKo) {
-        count++;
-        const clipTrack = audioTracks[count];
-        result.push({
-          index: count,
-          numberLabel: String(count),
-          targetText: cleanSentenceText(currentEn),
-          translationText: currentKo.trim(),
-          audioSrc: clipTrack?.src,
-        });
-        currentEn = "";
-        currentKo = "";
+        break;
       }
     }
 
-    if (currentEn || currentKo) {
-      count++;
+    if (altPairs.length > 0 && i >= cleanParas.length - 2) {
+      altPairs.forEach((pair, idx) => {
+        const clipTrack = audioTracks[idx + 1];
+        result.push({
+          index: idx + 1,
+          numberLabel: String(idx + 1),
+          targetText: cleanSentenceText(pair.en),
+          translationText: pair.ko.trim(),
+          audioSrc: clipTrack?.src,
+        });
+      });
+      return result;
+    }
+
+    // Otherwise group matching (all En then all Ko or vice versa)
+    const enList = cleanParas.filter((p) => p.isEn);
+    const koList = cleanParas.filter((p) => !p.isEn);
+    const len = Math.min(enList.length, koList.length);
+
+    for (let j = 0; j < len; j++) {
+      const clipTrack = audioTracks[j + 1];
       result.push({
-        index: count,
-        numberLabel: String(count),
-        targetText: cleanSentenceText(currentEn || currentKo),
-        translationText: currentEn ? "" : currentKo.trim(),
+        index: j + 1,
+        numberLabel: String(j + 1),
+        targetText: cleanSentenceText(enList[j].text),
+        translationText: koList[j].text.trim(),
+        audioSrc: clipTrack?.src,
       });
     }
 
     if (result.length > 0) return result;
   }
 
-  // Case B: Sentences blocks in main and paired script (covers grammar1, grammar2, basics, etc.)
-  const mainSentencesBlock = blocks.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
-  const pairSentencesBlock = pairBlocks?.find((b) => b.type === "sentences") as { type: "sentences"; items: { n: string; text: string }[] } | undefined;
+  // -------------------------------------------------------------------------
+  // 3. Chinese track (chinese c1-1 ~ c1-6)
+  // -------------------------------------------------------------------------
+  if (course === "chinese") {
+    const paras = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
+    const clean: string[] = [];
 
-  if (mainSentencesBlock && pairSentencesBlock) {
-    const mainItems = mainSentencesBlock.items;
-    const pairItems = pairSentencesBlock.items;
+    for (const p of paras) {
+      const t = (p.text || "").trim();
+      if (!t) continue;
+      if (t.includes("自我介绍") || t.includes("한/중") || /^Principle/i.test(t) || /^Chapter/i.test(t)) continue;
+      if (t.includes("(인사)") || t.includes("(이름") || t.includes("(성격)") || t.includes("(취미)") || t.includes("(과목)") || t.includes("(봉사")) continue;
+      clean.push(t);
+    }
+
+    const zhList = clean.filter((t) => isChineseText(t) || (!hasKorean(t) && /[\u4E00-\u9FFF]/.test(t)));
+    const koList = clean.filter((t) => hasKorean(t));
+    const len = Math.min(zhList.length, koList.length);
+
+    for (let j = 0; j < len; j++) {
+      result.push({
+        index: j + 1,
+        numberLabel: String(j + 1),
+        targetText: cleanSentenceText(zhList[j]),
+        translationText: koList[j].trim(),
+      });
+    }
+
+    if (result.length > 0) return result;
+  }
+
+  // -------------------------------------------------------------------------
+  // 4. Reading Passages (reading pr001 <-> pr001-1)
+  // -------------------------------------------------------------------------
+  if (course === "reading") {
+    const mainText = blocks
+      .filter((b) => b.type === "instruction")
+      .map((b) => (b as { type: "instruction"; text: string }).text)
+      .join(" ");
+    const pairText = pairBlocks
+      ? pairBlocks
+          .filter((b) => b.type === "instruction")
+          .map((b) => (b as { type: "instruction"; text: string }).text)
+          .join(" ")
+      : "";
+
+    if (mainText || pairText) {
+      const mainIsEn = isEnglishText(mainText);
+      const enText = mainIsEn ? mainText : pairText;
+      const koText = mainIsEn ? pairText : mainText;
+
+      const pairs = alignSentences(splitSentences(enText), splitSentences(koText));
+      pairs.forEach((p, idx) => {
+        result.push({
+          index: idx + 1,
+          numberLabel: String(idx + 1),
+          targetText: cleanSentenceText(p.en),
+          translationText: p.ko.trim(),
+        });
+      });
+      return result;
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 5. Listening & Dictation (ld d001 <-> d001-1)
+  // -------------------------------------------------------------------------
+  if (course === "ld") {
+    const scriptBlocks = isScript ? blocks : pairBlocks || [];
+    const mainHints = (isScript ? pairBlocks : blocks)?.find((b) => b.type === "hints") as { type: "hints"; text: string } | undefined;
+
+    // Collect all Korean sentences from instruction, paragraph, and sentences
+    const koSentences: string[] = [];
+    for (const b of scriptBlocks) {
+      if (b.type === "instruction") {
+        const t = b.text.trim();
+        if (t && !t.includes("한글 대본을")) {
+          koSentences.push(cleanSentenceText(t));
+        }
+      } else if (b.type === "paragraph") {
+        const t = b.text.trim();
+        if (t) koSentences.push(cleanSentenceText(t));
+      } else if (b.type === "sentences") {
+        for (const item of (b as { type: "sentences"; items: { n: string; text: string }[] }).items) {
+          const t = item.text.trim();
+          if (t) koSentences.push(cleanSentenceText(t));
+        }
+      }
+    }
+
+    if (koSentences.length > 0) {
+      koSentences.forEach((ko, idx) => {
+        // Enforce strict language slot integrity: Korean is ALWAYS translationText
+        result.push({
+          index: idx + 1,
+          numberLabel: String(idx + 1),
+          targetText: idx === 0 && mainHints ? `[핵심 어휘] ${mainHints.text}` : "",
+          translationText: ko.trim(),
+        });
+      });
+      return result;
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 6. Sentence blocks (grammar1, grammar2, basics, middle, adults)
+  // Flatten ALL sentences blocks to prevent dropping items 14-25+
+  // -------------------------------------------------------------------------
+  const mainItems = blocks
+    .filter((b) => b.type === "sentences")
+    .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
+  const pairItems = pairBlocks
+    ? pairBlocks
+        .filter((b) => b.type === "sentences")
+        .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items)
+    : [];
+
+  if (mainItems.length > 0 && pairItems.length > 0) {
     const len = Math.max(mainItems.length, pairItems.length);
 
     for (let i = 0; i < len; i++) {
@@ -516,7 +729,6 @@ function buildPairedSentences(
       const textM = m?.text ?? "";
       const textP = p?.text ?? "";
 
-      // Smart Language Detection: Target is English, Translation is Korean
       let target = "";
       let translation = "";
 
@@ -529,9 +741,21 @@ function buildPairedSentences(
       } else if (!isEnglishText(textM) && isEnglishText(textP)) {
         target = textP;
         translation = textM;
+      } else if (hasKorean(textM) && !hasKorean(textP)) {
+        target = textP;
+        translation = textM;
+      } else if (!hasKorean(textM) && hasKorean(textP)) {
+        target = textM;
+        translation = textP;
       } else {
-        target = isScript ? textP : textM;
-        translation = isScript ? textM : textP;
+        // Fallback: If text contains Korean, NEVER put into targetText
+        if (hasKorean(textM)) {
+          target = textP;
+          translation = textM;
+        } else {
+          target = isScript ? textP : textM;
+          translation = isScript ? textM : textP;
+        }
       }
 
       result.push({
@@ -544,13 +768,18 @@ function buildPairedSentences(
     return result;
   }
 
-  // Case C: Main has sentences block, pair has paragraphs (e.g. ld d001-1 or middle)
-  if (mainSentencesBlock) {
-    const pairParas = pairBlocks
-      ? (pairBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string }[])
-      : [];
+  // -------------------------------------------------------------------------
+  // 7. Single-side Sentences blocks with paragraph pair
+  // -------------------------------------------------------------------------
+  if (mainItems.length > 0) {
+    const localKoParas = blocks.filter((b) => b.type === "paragraph" && b.lang === "ko") as { type: "paragraph"; text: string }[];
+    const pairParas = localKoParas.length > 0
+      ? localKoParas
+      : (pairBlocks
+          ? (pairBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string }[])
+          : []);
 
-    mainSentencesBlock.items.forEach((item, i) => {
+    mainItems.forEach((item, i) => {
       const textM = item.text ?? "";
       const textP = pairParas[i]?.text ?? "";
 
@@ -563,9 +792,12 @@ function buildPairedSentences(
       } else if (!isEnglishText(textM) && isEnglishText(textP)) {
         target = textP;
         translation = textM;
+      } else if (hasKorean(textM)) {
+        target = isEnglishText(textP) ? textP : "";
+        translation = textM;
       } else {
-        target = isScript ? textP : textM;
-        translation = isScript ? textM : textP;
+        target = textM;
+        translation = textP;
       }
 
       result.push({
@@ -578,43 +810,6 @@ function buildPairedSentences(
     return result;
   }
 
-  // Case D: Reading passages (reading pr001 <-> pr001-1)
-  if (course === "reading") {
-    const mainInst = blocks.find((b) => b.type === "instruction");
-    const pairInst = pairBlocks?.find((b) => b.type === "instruction");
-
-    if (mainInst?.type === "instruction") {
-      const textM = mainInst.text;
-      const textP = pairInst?.type === "instruction" ? pairInst.text : "";
-
-      const sentsM = splitSentences(textM);
-      const sentsP = splitSentences(textP);
-      const len = Math.max(sentsM.length, sentsP.length);
-
-      const mIsEnglish = isEnglishText(textM);
-
-      for (let i = 0; i < len; i++) {
-        const itemM = sentsM[i] ?? "";
-        const itemP = sentsP[i] ?? "";
-
-        result.push({
-          index: i + 1,
-          numberLabel: String(i + 1),
-          targetText: cleanSentenceText(mIsEnglish ? itemM : itemP),
-          translationText: (mIsEnglish ? itemP : itemM).trim(),
-        });
-      }
-      return result;
-    }
-  }
-
   return result;
 }
 
-function splitSentences(paragraph: string): string[] {
-  if (!paragraph) return [];
-  return paragraph
-    .split(/(?<=[.?!])\s+/)
-    .map((s) => s.trim())
-    .filter(Boolean);
-}

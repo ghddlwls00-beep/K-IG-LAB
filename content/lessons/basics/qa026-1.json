@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "20",
-          "text": "난 / 누나가 / 있어."
+          "n": "Q",
+          "text": "Do you have any brothers or sisters?"
         },
         {
-          "n": "21",
-          "text": "그녀는 / 고려 중학교에 / 다녀."
+          "n": "A",
+          "text": "I have an older sister. She attends Goryeo Middle School."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 형제자매가 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 누나가 있어. 그녀는 고려 중학교에 다녀.",
+      "lang": "ko"
     },
     {
       "type": "choice",

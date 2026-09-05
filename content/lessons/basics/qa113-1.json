@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "133",
-          "text": "토요일에 / 나의 가족은 / 저녁식사로 / 나가는 것을 / 좋아해."
+          "n": "Q",
+          "text": "What does your family do on Saturday evenings?"
         },
         {
-          "n": "134",
-          "text": "저녁식사를 하면서 / 우리는 / 많은 것에 대해 / 이야기 해."
-        },
-        {
-          "n": "135",
-          "text": "나의 가족은 / 내 생활이 / 어떤지에 대해 / 관심이 있어."
+          "n": "A",
+          "text": "On Saturdays, my family likes going out for dinner. Over dinner, we talk about many things. My family is very interested in how my life is going."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 토요일 발에 당신의 가족은 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 토요일에 나의 가족은 저녁식사로 나가는 것을 좋아해. 저녁식사를 하면서 우리는 많은 것에 대해 이야기 해. 나의 가족은 내 생활이 어떤지에 대해 관심이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

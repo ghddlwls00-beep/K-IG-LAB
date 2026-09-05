@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "26",
-          "text": "그는 / 나보다 / 키가 더 커."
+          "n": "Q",
+          "text": "What does your friend look like?"
         },
         {
-          "n": "27",
-          "text": "그는 / 잘 생겼어."
+          "n": "A",
+          "text": "He is taller than me. He is handsome."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 친구는 어떻게 생겼습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그는 나보다 키가 더 커. 그는 잘 생겼어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

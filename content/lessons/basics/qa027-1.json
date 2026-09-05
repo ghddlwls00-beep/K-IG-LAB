@@ -31,27 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "22",
-          "text": "그녀는 / 모든 종류의 동물을 / 좋아하고,"
+          "n": "Q",
+          "text": "What is your sister's hobby?"
+        },
+        {
+          "n": "A",
+          "text": "She likes all kinds of animals, and she also enjoys listening to music. I love my family."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 그녀는 /그것들을 기르는 것에 / 관심이 있어."
+      "text": "질문: 당신 누나의 취미는 무엇입니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "23",
-          "text": "그녀는 / 또한 / 음악 듣는 것을 / 즐겨."
-        },
-        {
-          "n": "24",
-          "text": "난 / 나의 가족을 / 사랑해."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 그녀는 모든 종류의 동물을 좋아하고, 그녀는 또한 음악 듣는 것을 즐겨. 난 나의 가족을 사랑해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

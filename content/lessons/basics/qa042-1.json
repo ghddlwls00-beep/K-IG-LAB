@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "39",
-          "text": "나의 어머니는 / 한 명의 남동생과 / 세 명의 여동생이 / 있어."
+          "n": "Q",
+          "text": "How many brothers and sisters does your mother have?"
         },
         {
-          "n": "40",
-          "text": "나의 엄마는 / 장녀 / 이셔."
-        },
-        {
-          "n": "41",
-          "text": "나의 삼촌과 이모들은 / 모두 결혼하셨어."
+          "n": "A",
+          "text": "My mother has one younger brother and three younger sisters. My mom is the oldest daughter. My aunts and uncles are all married."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 어머니는 몇 명의 형제자매가 있습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 어머니는 한 명의 남동생과 세 명의 여동생이 있어. 나의 엄마는 장녀 이셔. 나의 삼촌과 이모들은 모두 결혼하셨어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

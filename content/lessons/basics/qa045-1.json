@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "44",
-          "text": "그는 / 매우 친절하고 / 관대하 / 셔."
+          "n": "Q",
+          "text": "What is your uncle like?"
+        },
+        {
+          "n": "A",
+          "text": "He is very kind and generous."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 삼촌은 어떤 사람입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그는 매우 친절하고 관대하 셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

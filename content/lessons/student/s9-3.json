@@ -223,45 +223,51 @@
       "items": [
         {
           "n": "1",
-          "text": "When we eat, my father usually talks about his day, and we share our experiences."
-        },
-        {
-          "n": "2",
-          "text": "After dinner, we watch television together."
-        },
-        {
-          "n": "3",
-          "text": "My favorite T.V. shows are (T.V. show name) and (T.V. show name)."
-        },
-        {
-          "n": "4",
-          "text": "It is my favorite because it is easier than my other subjects."
-        },
-        {
-          "n": "5",
-          "text": "After that, I quickly write in my journal about my day."
-        },
-        {
-          "n": "6",
-          "text": "I go to bed at about 10:30 p.m. and think what a wonderful day it was!"
-        },
-        {
-          "n": "7",
-          "text": "My mother always makes dinner."
-        },
-        {
-          "n": "8",
-          "text": "My English homework is my favorite."
-        },
-        {
-          "n": "9",
           "text": "After finishing classes at the academies, I go home and have dinner with my family."
         },
         {
-          "n": "10",
+          "n": "2",
+          "text": "My mother always makes dinner."
+        },
+        {
+          "n": "3",
+          "text": "When we eat, my father usually talks about his day, and we share our experiences."
+        },
+        {
+          "n": "4",
+          "text": "After dinner, we watch television together."
+        },
+        {
+          "n": "5",
           "text": "I start my homework at around 9:00 p.m."
+        },
+        {
+          "n": "6",
+          "text": "My English homework is my favorite."
+        },
+        {
+          "n": "7",
+          "text": "It is my favorite because it is easier than my other subjects."
+        },
+        {
+          "n": "8",
+          "text": "After that, I quickly write in my journal about my day."
+        },
+        {
+          "n": "9",
+          "text": "I go to bed at about 10:30 p.m. and think what a wonderful day it was!"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "학원에서 수업을 마친 후, 나는 집에 가서 나의 가족들과 함께 저녁을 먹습니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나의 어머니는 항상 저녁 식사를 준비하십니다.",
+      "lang": "ko"
     },
     {
       "type": "paragraph",
@@ -270,7 +276,12 @@
     },
     {
       "type": "paragraph",
-      "text": "학원에서 수업을 마친 후, 나는 집에 가서 나의 가족들과 함께 저녁을 먹습니다.",
+      "text": "저녁 식사 후에, 우리는 함께 텔레비전을 봅니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 밤 9시경에 숙제를 시작합니다.",
       "lang": "ko"
     },
     {
@@ -280,32 +291,17 @@
     },
     {
       "type": "paragraph",
-      "text": "그것은 내가 가장 좋아하는 것입니다. 왜냐하면 그것은 다른 과목들 보다 더 쉽기 때문입니다.",
+      "text": "그것이 나의 다른 과목들보다 쉽기 때문에 내가 가장 좋아하는 것입니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "그 후, 나는 빨리 나의 하루에 관해 나의 일기장에 씁니다.",
+      "text": "그 후에, 나는 하루에 관해 일기를 빠르게 씁니다.",
       "lang": "ko"
     },
     {
       "type": "paragraph",
-      "text": "나는 오후 10시 30분쯤 잠자리에 들고 얼마나 좋은 하루였는지 생각합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나의 어머니께서는 항상 저녁을 만드십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그것은 내가 가장 좋아하는 것입니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "나는 오후 9시쯤에 나의 숙제를 시작합니다.",
+      "text": "나는 대략 밤 10시 30분에 잠자러 가며 얼마나 멋진 하루였는지 생각합니다!",
       "lang": "ko"
     }
   ],

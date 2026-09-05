@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "202",
-          "text": "몇 년 전에, / 엘리자베스 여왕이 한국에 오셨을 / 때 / 통역관과 함께 / 오셨어."
+          "n": "Q",
+          "text": "How did you decide on this dream?"
         },
         {
-          "n": "203",
-          "text": "그 통역관은 / 매우 전문적이었고 / 나에게 / 큰 감명을 주셨어."
+          "n": "A",
+          "text": "A few years ago, when Queen Elizabeth visited Korea, an interpreter accompanied her. That interpreter was so professional that it left a huge impression on me."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 어떻게 이 꿈(통역사)으로 결정하게 되었습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 몇 년 전에, 엘리자베스 여왕이 한국에 오셨을 때 통역관과 함께 오셨어. 그 통역관은 매우 전문적이었고 나에게 큰 감명을 주셨어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "146",
-          "text": "여름방학은 / 7월에 시작 되고, / 겨울방학은 / 12월에 시작돼."
+          "n": "Q",
+          "text": "When are your school vacations?"
         },
         {
-          "n": "147",
-          "text": "방학 동안 / 나는 / 학교에 / 가지 않아."
-        },
-        {
-          "n": "148",
-          "text": "나는 / 많은 / 자유시간이 / 있어."
+          "n": "A",
+          "text": "Summer vacation begins in July, and winter vacation starts in December. During vacation, I do not go to school and have plenty of free time."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 학교방학은 언제 입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 여름방학은 7월에 시작 되고, 겨울방학은 12월에 시작돼. 방학 동안 나는 학교에 가지 않아. 나는 많은 자유시간이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

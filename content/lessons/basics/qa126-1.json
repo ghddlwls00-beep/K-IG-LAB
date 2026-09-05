@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "157",
-          "text": "난 / 영어를 / 3년 동안 / 배우고 있어."
+          "n": "Q",
+          "text": "Where do you dream of going during vacation?"
         },
         {
-          "n": "158",
-          "text": "나의 영어 선생님은 / 캐나다에서 오셨어."
-        },
-        {
-          "n": "159",
-          "text": "그분은 / 그분의 나라에 관해 / 우리에게 / 많이 / 말씀해 주셔."
-        },
-        {
-          "n": "160",
-          "text": "난 / 다음 방학에 / 거기에 / 가고 싶어."
+          "n": "A",
+          "text": "I have been learning English for three years. My English teacher is from Canada. He tells us a lot about his country, and I would love to visit there during my next vacation."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 방학중에 가기를 꿈꾸는 곳은 어디입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 영어를 3년 동안 배우고 있어. 나의 영어 선생님은 캐나다에서 오셨어. 그분은 그분의 나라에 관해 우리에게 많이 말씀해 주셔. 난 다음 방학에 거기에 가고 싶어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

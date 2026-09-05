@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "136",
-          "text": "나의 가족은 / 기독교인 / 이야."
+          "n": "Q",
+          "text": "What is your family's religion?"
+        },
+        {
+          "n": "A",
+          "text": "My family is Christian."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 가족의 종교는 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 가족은 기독교인 이야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

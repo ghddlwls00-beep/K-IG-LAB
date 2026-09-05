@@ -31,27 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "218",
-          "text": "고조선이 멸망한 후에 / 한반도는 / 세 왕국인; / 고구려, 백제, 그리고 신라"
+          "n": "Q",
+          "text": "What do you know about the Silla Kingdom?"
+        },
+        {
+          "n": "A",
+          "text": "After Gojoseon, the peninsula was divided into Goguryeo, Baekje, and Silla. Later, they united under Silla, which is considered a golden age in Korean history."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 로 분리되었어."
+      "text": "질문: 신라왕국에 대하여 당신은 무엇을 알고 있습니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "219",
-          "text": "나중에 / 이 세 왕국은 / 신라라고 불려지는 / 단일국가로 / 합쳐졌어."
-        },
-        {
-          "n": "220",
-          "text": "그건 / 한국 역사의 / 황금기 / 라고 불렸어."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 고조선이 멸망한 후에 한반도는 세 왕국인; 고구려, 백제, 그리고 신라 나중에 이 세 왕국은 신라라고 불려지는 단일국가로 합쳐졌어. 그건 한국 역사의 황금기 라고 불렸어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

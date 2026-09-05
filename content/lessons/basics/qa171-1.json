@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "214",
-          "text": "옛날 옛날에 / 하늘의 왕인, 환인이 / 그의 아들 환웅을 / 세상에 / 보냈어."
+          "n": "Q",
+          "text": "Please tell me about the Dangun myth."
         },
         {
-          "n": "215",
-          "text": "거기에서 / 그는 / 곰에서 여자가 된 / 웅녀와 / 결혼했어."
-        },
-        {
-          "n": "216",
-          "text": "그녀는 / 단군이라 불리는 / 아들을 / 낳았어."
-        },
-        {
-          "n": "217",
-          "text": "그가 / 한국의 시조가 / 되었어."
+          "n": "A",
+          "text": "A long time ago, Hwanin, king of the heavens, sent his son Hwanung to Earth. Hwanung married Ungnyeo, a bear turned into a woman, and she gave birth to Dangun, the founding father of Korea."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 단군신화에 대하여 나에게 말씀해 주십시오",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 옛날 옛날에 하늘의 왕인, 환인이 그의 아들 환웅을 세상에 보냈어. 거기에서 그는 곰에서 여자가 된 웅녀와 결혼했어. 그녀는 단군이라 불리는 아들을 낳았어. 그가 한국의 시조가 되었어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

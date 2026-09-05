@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "238",
-          "text": "우리는 / 전통 한국 쌀 떡인 / 송편을 / 만들어 먹어."
+          "n": "Q",
+          "text": "What special food do you eat on Chuseok?"
+        },
+        {
+          "n": "A",
+          "text": "We make and eat Songpyeon, traditional Korean rice cakes."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 추석에 당신은 어떤 특별한 음식을 먹습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리는 전통 한국 쌀 떡인 송편을 만들어 먹어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

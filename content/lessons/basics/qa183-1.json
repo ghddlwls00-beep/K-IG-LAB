@@ -31,26 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "233",
-          "text": "추석은 / 1년 중 / 가장 큰 공휴일 중의 하나 / 야."
+          "n": "Q",
+          "text": "Please tell me about Chuseok."
         },
         {
-          "n": "234",
-          "text": "그건 / 종종 / 한국의 추수 감사절이라고 / 불려."
-        },
-        {
-          "n": "235",
-          "text": "나의 모든 친척들은 / 함께 모여 / 좋은 시간을 가져."
-        },
-        {
-          "n": "236",
-          "text": "사람들은 / 그들의 조상들의 산소를 / 찾아가."
-        },
-        {
-          "n": "237",
-          "text": "우리는 / 밤에 / 보름달을 / 감상해."
+          "n": "A",
+          "text": "Chuseok is one of the biggest holidays of the year, often called Korean Thanksgiving. Relatives gather together, visit ancestors' graves, and admire the full moon at night."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 추석에 대하여 나에게 말씀해 주십시오",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 추석은 1년 중 가장 큰 공휴일 중의 하나 야. 그건 종종 한국의 추수 감사절이라고 불려. 나의 모든 친척들은 함께 모여 좋은 시간을 가져. 사람들은 그들의 조상들의 산소를 찾아가. 우리는 밤에 보름달을 감상해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

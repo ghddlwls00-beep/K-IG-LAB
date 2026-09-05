@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "95",
-          "text": "난 / 매일 저녁 / 가족과 함께 / TV를 봐."
+          "n": "Q",
+          "text": "How often do you watch TV?"
         },
         {
-          "n": "96",
-          "text": "하지만 나의 엄마는 / 우리가 / 아주 오래 / TV를 보도록 / 허락하지는 않으셔."
+          "n": "A",
+          "text": "I watch TV with my family every evening. But my mom does not let us watch TV for too long."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 얼마나 자주 TV를 봅니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 매일 저녁 가족과 함께 TV를 봐. 하지만 나의 엄마는 우리가 아주 오래 TV를 보도록 허락하지는 않으셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

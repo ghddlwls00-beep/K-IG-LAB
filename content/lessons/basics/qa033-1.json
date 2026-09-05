@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "28",
-          "text": "그는 / 매우 똑똑하고 / 다정 / 해."
+          "n": "Q",
+          "text": "What is your friend's personality like?"
         },
         {
-          "n": "29",
-          "text": "그는 / 항상 / 내가 도움이 필요할 때 / 나를 도와줘."
+          "n": "A",
+          "text": "He is very smart and friendly. He always helps me whenever I need help."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 친구는 어떤 성격을 가지고 있습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그는 매우 똑똑하고 다정 해. 그는 항상 내가 도움이 필요할 때 나를 도와줘.",
+      "lang": "ko"
     },
     {
       "type": "choice",

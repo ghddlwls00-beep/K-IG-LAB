@@ -31,31 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "182",
-          "text": "훌륭한 선생님이 / 되기 위해서 / 나의 부모님은"
+          "n": "Q",
+          "text": "What are you going to do to achieve your dream?"
+        },
+        {
+          "n": "A",
+          "text": "To become a great teacher, my parents tell me that I must love children. I think teaching kids is fun and rewarding, and I must learn patience."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 내가 열심히 공부해야 한다고 / 말씀하셔."
+      "text": "질문: 당신은 꿈을 이루기 위해 어떻게 할려고 합니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "183",
-          "text": "그분들은 / 또한 / 내가 / 아이들을 / 사랑해야 한다고 / 나에게 말씀하셔."
-        },
-        {
-          "n": "184",
-          "text": "난 / 아이들을 가르치는 것이 / 재미있고 보람 있는 것이라고 / 생각해."
-        },
-        {
-          "n": "185",
-          "text": "난 / 훌륭한 선생님이 / 되기 위해서 / 인내심을 / 배워야 해."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 훌륭한 선생님이 되기 위해서 나의 부모님은 그분들은 또한 내가 아이들을 사랑해야 한다고 나에게 말씀하셔. 난 아이들을 가르치는 것이 재미있고 보람 있는 것이라고 생각해. 난 훌륭한 선생님이 되기 위해서 인내심을 배워야 해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

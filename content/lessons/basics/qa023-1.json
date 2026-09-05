@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "14",
-          "text": "나의 어머니는 / 학교에서 / 수학을 / 가르치셔"
+          "n": "Q",
+          "text": "What does your mother do?"
+        },
+        {
+          "n": "A",
+          "text": "My mother teaches mathematics at a school."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 어머니의 직업은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 어머니는 학교에서 수학을 가르치셔",
+      "lang": "ko"
     },
     {
       "type": "choice",

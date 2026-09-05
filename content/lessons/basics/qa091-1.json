@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "102",
-          "text": "난 / 매일 아침 / 6시에 / 일어나."
+          "n": "Q",
+          "text": "What can you tell me about this?"
+        },
+        {
+          "n": "A",
+          "text": "Model Answer: 난 매일 아침 6시에 일어나."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 몇시에 일어납니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 매일 아침 6시에 일어나.",
+      "lang": "ko"
     },
     {
       "type": "choice",

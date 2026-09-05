@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "199",
-          "text": "난 / 영어를 / 말하는 것 / 에 관심이 있어."
+          "n": "Q",
+          "text": "What kind of person do you hope to become?"
         },
         {
-          "n": "200",
-          "text": "난 / 장래에 / 영어를 말하지 못하는 / 사람들을 위해 / 통역을 하고 싶어."
-        },
-        {
-          "n": "201",
-          "text": "난 / 통역관이 / 되고 싶어."
+          "n": "A",
+          "text": "I am very interested in speaking English. In the future, I want to interpret for people who cannot speak English. I want to become an interpreter."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 어떤 사람이 되기를 바랍니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 영어를 말하는 것 에 관심이 있어. 난 장래에 영어를 말하지 못하는 사람들을 위해 통역을 하고 싶어. 난 통역관이 되고 싶어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

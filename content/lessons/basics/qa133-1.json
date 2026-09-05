@@ -35,14 +35,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "165",
-          "text": "난 / 역사책에서 / 많은 흥미로운 사람들에 관해 / 읽었어."
+          "n": "Q",
+          "text": "Do you admire some of the people in the books you read?"
         },
         {
-          "n": "166",
-          "text": "난 / 그들 중 일부를 / 존경해."
+          "n": "A",
+          "text": "I have read about many interesting figures in history books. I admire several of them very much."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 읽은 책들 속의 사람들 중에서 몇명을 존경합니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 역사책에서 많은 흥미로운 사람들에 관해 읽었어. 난 그들 중 일부를 존경해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

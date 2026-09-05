@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "137",
-          "text": "우리는 / 매주 일요일 아침에 / 교회에 가."
+          "n": "Q",
+          "text": "Where does your family go on Sunday mornings?"
         },
         {
-          "n": "138",
-          "text": "난 / 교회에 / 많은 친구들이 / 있어."
-        },
-        {
-          "n": "139",
-          "text": "다른 가족들은 / 일요일에 / 하이킹을 가거나, / 쇼핑을 하거나"
+          "n": "A",
+          "text": "We go to church every Sunday morning. I have many friends at church. Other families go hiking, shopping, or have picnics on Sundays."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 일요일 아침에 당신 가족은 어디를 갑니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리는 매주 일요일 아침에 교회에 가. 난 교회에 많은 친구들이 있어. 다른 가족들은 일요일에 하이킹을 가거나, 쇼핑을 하거나",
+      "lang": "ko"
     },
     {
       "type": "paragraph",

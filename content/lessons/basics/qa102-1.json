@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "119",
-          "text": "나의 평일은 / 다른 학생들과 / 비슷해."
+          "n": "Q",
+          "text": "What are your weekdays like?"
         },
         {
-          "n": "120",
-          "text": "월요일부터 금요일까지 / 난 / 학교와 학원에 가."
-        },
-        {
-          "n": "121",
-          "text": "때로는 / 나는 / 내가 너무 많이 공부하는 것 / 처럼 느껴져."
-        },
-        {
-          "n": "122",
-          "text": "그러나 / 난 / 새로운 것들을 배우고 / 내 친구들과 노는 것이 / 즐거워."
+          "n": "A",
+          "text": "My weekdays are similar to other students'. From Monday to Friday, I go to school and academies. Sometimes I feel like I study too much, but I enjoy learning new things and hanging out with my friends."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 평일(월～금까지)은 어떻습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 평일은 다른 학생들과 비슷해. 월요일부터 금요일까지 난 학교와 학원에 가. 때로는 나는 내가 너무 많이 공부하는 것 처럼 느껴져. 그러나 난 새로운 것들을 배우고 내 친구들과 노는 것이 즐거워.",
+      "lang": "ko"
     },
     {
       "type": "choice",

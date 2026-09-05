@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "130",
-          "text": "토요일에 / 우리는 / 오전에만 수업이 있어."
+          "n": "Q",
+          "text": "What is different on Saturdays?"
+        },
+        {
+          "n": "A",
+          "text": "On Saturdays, we only have morning classes."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 토요일에는 무엇이 다릅니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 토요일에 우리는 오전에만 수업이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "9",
-          "text": "내 취미는 / 음악 듣기, / 영화 보기, / 그리고 스포츠를 하는 것 / 이야."
+          "n": "Q",
+          "text": "What is your hobby?"
+        },
+        {
+          "n": "A",
+          "text": "My hobbies are listening to music, watching movies, and playing sports."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 취미는 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내 취미는 음악 듣기, 영화 보기, 그리고 스포츠를 하는 것 이야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

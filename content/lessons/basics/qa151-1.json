@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "186",
-          "text": "한국과 일본은 / 2002년에 FIFA 월드컵을 / 개최했어."
+          "n": "Q",
+          "text": "What sports event did Korea host in 2002?"
         },
         {
-          "n": "187",
-          "text": "우리가 월드컵을 개최한 이후에 / 축구는 / 우리나라에서 / 인기가 더 많아졌어."
-        },
-        {
-          "n": "188",
-          "text": "그건 / 많은 아이들이 / 미래에 / 축구 선수가 되려는 / 생각을 품게 했어."
+          "n": "A",
+          "text": "Korea and Japan co-hosted the 2002 FIFA World Cup. Soccer became much more popular in our country after that, inspiring many kids to dream of becoming soccer players."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 한국은 2002년에 어떤 스포츠 행사를 개최했습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 한국과 일본은 2002년에 FIFA 월드컵을 개최했어. 우리가 월드컵을 개최한 이후에 축구는 우리나라에서 인기가 더 많아졌어. 그건 많은 아이들이 미래에 축구 선수가 되려는 생각을 품게 했어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

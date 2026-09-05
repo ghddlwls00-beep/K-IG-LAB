@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "227",
-          "text": "우리나라에는 / 많은 공휴일이 / 있어."
+          "n": "Q",
+          "text": "Do you know how many national holidays there are?"
         },
         {
-          "n": "228",
-          "text": "그 공휴일들에는 / 설날, 식목일, 광복절, 추석 / 그리고 더 많은 날들이 / 있어."
+          "n": "A",
+          "text": "There are many national holidays in Korea, such as New Year's Day, Arbor Day, Liberation Day, Chuseok, and many more."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 국가공휴일들이 얼마나 많은지 아십니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리나라에는 많은 공휴일이 있어. 그 공휴일들에는 설날, 식목일, 광복절, 추석 그리고 더 많은 날들이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

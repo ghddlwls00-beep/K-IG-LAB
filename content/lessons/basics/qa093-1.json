@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "107",
-          "text": "점심식사 후에 / 난 / 2교시 더 수업이 / 있어."
+          "n": "Q",
+          "text": "What time does your school class end?"
         },
         {
-          "n": "108",
-          "text": "난 / 오후 3시에 / 수업이 / 끝나."
+          "n": "A",
+          "text": "After lunch, I have two more periods. My classes finish at 3:00 PM."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 학교수업은 몇시에 끝납니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 점심식사 후에 난 2교시 더 수업이 있어. 난 오후 3시에 수업이 끝나.",
+      "lang": "ko"
     },
     {
       "type": "choice",

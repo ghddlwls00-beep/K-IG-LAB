@@ -1,0 +1,136 @@
+{
+  "id": "gh1-089",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "main",
+  "pairId": "gh1-088",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 089]",
+  "menuLabel": "[ gh1-089 ]",
+  "unit": 89,
+  "part": null,
+  "order": 135,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-088.mp3",
+      "legacySrc": "sounds/gh1-088.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 089]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작문제 1 답안"
+    },
+    {
+      "type": "instruction",
+      "text": "다음 문제를 영작해주세요."
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "1",
+          "text": "Is this your homework (assignment)?"
+        },
+        {
+          "n": "2",
+          "text": "Is this prize yours?"
+        },
+        {
+          "n": "3",
+          "text": "Is your professor healthy?"
+        },
+        {
+          "n": "4",
+          "text": "Whose employees are these girls?"
+        },
+        {
+          "n": "5",
+          "text": "Are they police officers?"
+        },
+        {
+          "n": "6",
+          "text": "Is your employer unhappy?"
+        },
+        {
+          "n": "7",
+          "text": "Are these adults rich?"
+        },
+        {
+          "n": "8",
+          "text": "Is this soldier brave?"
+        },
+        {
+          "n": "9",
+          "text": "Whose enemies are they?"
+        },
+        {
+          "n": "10",
+          "text": "Are those animals dangerous?"
+        },
+        {
+          "n": "11",
+          "text": "Is your colleague honest?"
+        },
+        {
+          "n": "12",
+          "text": "Are these plants rare?"
+        },
+        {
+          "n": "13",
+          "text": "Is that ship big?"
+        },
+        {
+          "n": "14",
+          "text": "Is this car convenient?"
+        },
+        {
+          "n": "15",
+          "text": "Is your airplane safe?"
+        },
+        {
+          "n": "16",
+          "text": "Is this road wide?"
+        },
+        {
+          "n": "17",
+          "text": "Is that building tall?"
+        },
+        {
+          "n": "18",
+          "text": "Is the weather clear today?"
+        },
+        {
+          "n": "19",
+          "text": "What time is it now?"
+        },
+        {
+          "n": "20",
+          "text": "It is eight thirty."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-089.htm",
+  "legacyEncoding": "utf-8"
+}

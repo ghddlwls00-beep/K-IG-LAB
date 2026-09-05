@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "89",
-          "text": "난 보통 / 저녁 식사 전에 / 숙제를 해."
+          "n": "Q",
+          "text": "When do you do your homework?"
         },
         {
-          "n": "90",
-          "text": "만약 내가 / 숙제를 / 해결할 수 없으면, / 난 언제나 / 인터넷을 찾아 볼 수 있어."
-        },
-        {
-          "n": "91",
-          "text": "난 / 새로운 것들을 / 배우는 것이 / 좋아."
+          "n": "A",
+          "text": "I usually do my homework before dinner. If I cannot solve something, I can always look it up on the Internet. I love learning new things."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 숙제를 언제 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 보통 저녁 식사 전에 숙제를 해. 만약 내가 숙제를 해결할 수 없으면, 난 언제나 인터넷을 찾아 볼 수 있어. 난 새로운 것들을 배우는 것이 좋아.",
+      "lang": "ko"
     },
     {
       "type": "choice",

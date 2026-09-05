@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "53",
-          "text": "난 보통 / 8시30분에 / 학교에 도착해."
+          "n": "Q",
+          "text": "What is your classroom like?"
         },
         {
-          "n": "54",
-          "text": "학교 가는 길에 / 난 때로 / 수업 준비물들을 / 사기 위해 / 문방구에 / 들러."
+          "n": "A",
+          "text": "Our classroom is bright and clean. It has large windows and a big computer screen."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 보통 학교에 몇 시에 도착합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 보통 8시30분에 학교에 도착해. 학교 가는 길에 난 때로 수업 준비물들을 사기 위해 문방구에 들러.",
+      "lang": "ko"
     },
     {
       "type": "choice",

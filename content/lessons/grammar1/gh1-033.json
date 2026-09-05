@@ -125,6 +125,14 @@
         {
           "n": "50",
           "text": "Aren't these his?(Are these not his)?"
+        },
+        {
+          "n": "24",
+          "text": "Aren't they yours?"
+        },
+        {
+          "n": "25",
+          "text": "Aren't these his?"
         }
       ]
     },

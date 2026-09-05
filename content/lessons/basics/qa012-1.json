@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "2",
-          "text": "난 / 서울에 / 살아."
+          "n": "Q",
+          "text": "Where do you live?"
+        },
+        {
+          "n": "A",
+          "text": "I live in Seoul."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 사는 곳은 어디입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 서울에 살아.",
+      "lang": "ko"
     },
     {
       "type": "choice",

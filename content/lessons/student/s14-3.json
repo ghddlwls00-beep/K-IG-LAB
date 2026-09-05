@@ -158,37 +158,39 @@
       "items": [
         {
           "n": "1",
-          "text": "They also tell me that I need to love children and serve others."
-        },
-        {
-          "n": "2",
-          "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience."
-        },
-        {
-          "n": "3",
-          "text": "I know that one day I will be able to achieve my dream and help many children learn and grow."
-        },
-        {
-          "n": "4",
-          "text": "I must go to a good university."
-        },
-        {
-          "n": "5",
           "text": "In order to become a teacher, my parents tell me that I need to study hard in all my subjects."
         },
         {
-          "n": "6",
+          "n": "2",
           "text": "So I must go to a good university."
         },
         {
-          "n": "7",
+          "n": "3",
+          "text": "They also tell me that I need to love children and serve others."
+        },
+        {
+          "n": "4",
           "text": "I think teaching children is fun, and rewarding, and that you must have a lot of patience in order to teach them."
+        },
+        {
+          "n": "5",
+          "text": "I know that one day I will be able to achieve my dream and help many children learn and grow."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "그들은 또한 나에게 말씀하십니다.",
+      "text": "선생님이 되기 위해서, 나의 부모님께서는 내가 나의 모든 과목에서 공부를 열심히 해야 한다고 말씀하십니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그래서 나는 좋은 대학에 가야만 합니다.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "그들은 또한 나에게 아이들을 사랑하고 다른 사람들에게 봉사해야 한다고 말씀합니다.",
       "lang": "ko"
     },
     {
@@ -199,21 +201,6 @@
     {
       "type": "paragraph",
       "text": "나는 언젠가 나의 꿈을 달성할 수 있고 많은 아이들을 배우고 성장할 수 있게 도울 수 있을 것이라는 것을 압니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그래서 나는 좋은 대학에 가야만 합니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "선생님이 되기 위해서, 나의 부모님께서는 내가 나의 모든 과목에서 공부를 열심히 해야 한다고 말씀하십니다.",
-      "lang": "ko"
-    },
-    {
-      "type": "paragraph",
-      "text": "그들은 또한 나에게 아이들을 사랑하고 다른 사람들에게 봉사해야 한다고 말씀합니다.",
       "lang": "ko"
     }
   ],

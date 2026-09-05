@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "70",
-          "text": "그녀는 항상 / 초록색 옷을 / 입어."
+          "n": "Q",
+          "text": "What is your teacher's favorite color?"
         },
         {
-          "n": "71",
-          "text": "난 / 그녀가 / 초록색을 / 좋아한다고 / 생각해."
+          "n": "A",
+          "text": "She always wears green clothes. I think she likes green."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 선생님이 가장 좋아하는 색은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그녀는 항상 초록색 옷을 입어. 난 그녀가 초록색을 좋아한다고 생각해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

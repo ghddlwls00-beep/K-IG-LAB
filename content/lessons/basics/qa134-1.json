@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "167",
-          "text": "내가 / 가장 존경하는 / 사람은 / 이순신 장군 / 이야."
+          "n": "Q",
+          "text": "Who do you admire the most?"
         },
         {
-          "n": "168",
-          "text": "이순신 장군은 / 500년 전에 / 살았어."
-        },
-        {
-          "n": "169",
-          "text": "그분은 / 거북선을 만들어서 / 일본을 패배시켰어."
+          "n": "A",
+          "text": "The person I admire most is Admiral Yi Sun-sin. He lived 500 years ago and built the Turtle Ship to defeat the Japanese navy."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 가장 존경하는 사람은 누구입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 가장 존경하는 사람은 이순신 장군 이야. 이순신 장군은 500년 전에 살았어. 그분은 거북선을 만들어서 일본을 패배시켰어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "57",
-          "text": "우리 수업은 / 9시에 / 시작돼."
+          "n": "Q",
+          "text": "When does class begin?"
         },
         {
-          "n": "58",
-          "text": "수업이 시작되면 / 우리 선생님은 / 먼저 / 우리 숙제를 / 검사하셔."
+          "n": "A",
+          "text": "Our class begins at 9 o'clock. When class starts, our teacher checks our homework first."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 수업은 언제 시작합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리 수업은 9시에 시작돼. 수업이 시작되면 우리 선생님은 먼저 우리 숙제를 검사하셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

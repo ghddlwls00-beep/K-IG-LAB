@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "65",
-          "text": "학생들이 / 참여할 수 있는 / 많은 모임들이 / 있어."
+          "n": "Q",
+          "text": "What club are you a member of at school?"
         },
         {
-          "n": "66",
-          "text": "난 / 영어 모임의 / 회원 이야."
+          "n": "A",
+          "text": "There are many clubs for students to join. I am a member of the English club."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 학교의 무슨 클럽 회원입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 학생들이 참여할 수 있는 많은 모임들이 있어. 난 영어 모임의 회원 이야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

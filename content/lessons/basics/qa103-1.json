@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "123",
-          "text": "매일 밤 / 난 / 내 친구들과 / 컴퓨터로 / 채팅을 해."
+          "n": "Q",
+          "text": "What do you do on weekday nights?"
         },
         {
-          "n": "124",
-          "text": "그건 / 숙제에 대해 정보를 교환하는 / 좋은 방법이야."
-        },
-        {
-          "n": "125",
-          "text": "또한 / 난 / 종종 / 컴퓨터로 / 숙제를 해."
-        },
-        {
-          "n": "126",
-          "text": "때때로 / 난 / 잠자리에 들기 전에 / TV를 보거나 / 음악을 들어."
+          "n": "A",
+          "text": "Every night I chat with my friends on the computer. It is a good way to exchange information about homework. I also often do homework on the computer. Sometimes I watch TV or listen to music before bed."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 평일(월～금까지) 밤에는 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 매일 밤 난 내 친구들과 컴퓨터로 채팅을 해. 그건 숙제에 대해 정보를 교환하는 좋은 방법이야. 또한 난 종종 컴퓨터로 숙제를 해. 때때로 난 잠자리에 들기 전에 TV를 보거나 음악을 들어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

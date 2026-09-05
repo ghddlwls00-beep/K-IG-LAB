@@ -104,7 +104,7 @@ export default async function LessonPage({
               href={`/${course}/${pair.id}`}
               className="group inline-flex items-center gap-2 rounded border border-line px-3 py-1.5 text-[12.5px] font-medium text-ink-soft hover:border-line-strong hover:bg-raised hover:text-ink transition-colors"
             >
-              <T k={isScript ? "lesson.backToDrill" : "lesson.viewScript"} />
+              <span>{getPairButtonText(course, lesson.id, isScript, pairLesson)}</span>
               <span
                 aria-hidden
                 className="font-mono transition-transform duration-200 ease-out group-hover:translate-x-0.5"
@@ -278,4 +278,50 @@ function extractSentencesForAudio(
   }
 
   return [];
+}
+
+function getPairButtonText(
+  course: string,
+  lessonId: string,
+  isScript: boolean,
+  pairLesson: { blocks: { type: string; text?: string; items?: { text: string }[] }[] } | null
+): string {
+  if (course === "grammar1") {
+    const m = lessonId.match(/^gh1-(\d+)/);
+    if (m) {
+      const num = parseInt(m[1], 10);
+      return num % 2 === 0 ? "정답 및 영문 해설 보기" : "영작 연습 문제로 이동";
+    }
+  }
+
+  if (course === "ld") {
+    return isScript ? "듣기 & 받아쓰기 시험으로 가기" : "한글 대본 & 영작 훈련 보기";
+  }
+
+  if (course === "basics" && lessonId.startsWith("qa")) {
+    return isScript ? "질문 듣기 시험으로 가기" : "한글 대본 및 예시 답안 보기";
+  }
+
+  if (!isScript) {
+    return "한글 대본 보기";
+  }
+
+  // Current page is script, pair is main
+  if (pairLesson) {
+    const hasEnglish = pairLesson.blocks.some((b) => {
+      if (b.type === "sentences" && b.items) {
+        return b.items.some((it) => /[a-zA-Z]{4,}/.test(it.text));
+      }
+      if ((b.type === "paragraph" || b.type === "instruction") && b.text) {
+        return /[a-zA-Z]{4,}/.test(b.text);
+      }
+      return false;
+    });
+
+    if (!hasEnglish && pairLesson.blocks.some((b) => b.type === "dictation" || b.type === "choice")) {
+      return "듣기 & 받아쓰기 시험으로 가기";
+    }
+  }
+
+  return "영어 본문으로 돌아가기";
 }

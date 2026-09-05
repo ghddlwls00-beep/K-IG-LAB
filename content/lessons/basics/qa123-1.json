@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "152",
-          "text": "지난 여름방학 동안 / 나는 / 동해안에 / 갔어."
+          "n": "Q",
+          "text": "Where did you go during last summer vacation?"
         },
         {
-          "n": "153",
-          "text": "난 / 바다에서 / 수영하는 걸 / 즐겼어."
+          "n": "A",
+          "text": "During last summer vacation, I went to the East Coast. I really enjoyed swimming in the ocean."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 지난 여름 방학동안 어디를 갔습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 지난 여름방학 동안 나는 동해안에 갔어. 난 바다에서 수영하는 걸 즐겼어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

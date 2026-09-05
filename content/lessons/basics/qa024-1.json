@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "15",
-          "text": "나의 아버지는 / 항상 / 도와주시고, 친절하 / 셔."
+          "n": "Q",
+          "text": "What is your father like?"
         },
         {
-          "n": "16",
-          "text": "그분은 / 종종 / 나의 어머니와 함께 / 쇼핑을 가셔."
-        },
-        {
-          "n": "17",
-          "text": "난 / 그분을 / 존경해."
+          "n": "A",
+          "text": "My father is always helpful and kind. He often goes shopping with my mother. I respect him."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 아버지는 어떤 사람입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 아버지는 항상 도와주시고, 친절하 셔. 그분은 종종 나의 어머니와 함께 쇼핑을 가셔. 난 그분을 존경해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

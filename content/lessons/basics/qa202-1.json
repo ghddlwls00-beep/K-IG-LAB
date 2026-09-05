@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "251",
-          "text": "한국 민속촌은 / 서울에서 멀지 않은 / 경기도에 / 있어."
+          "n": "Q",
+          "text": "What can I see at the Korean Folk Village?"
         },
         {
-          "n": "252",
-          "text": "네가 그 곳을 방문하면, / 넌 / 옛날 한국의 / 삶이 어떠했는지 / 알게 될 거야."
-        },
-        {
-          "n": "253",
-          "text": "매년 / 많은 외국인들이 / 그곳을 / 방문해."
+          "n": "A",
+          "text": "The Korean Folk Village is located in Gyeonggi-do, near Seoul. When you visit, you can see what traditional Korean life was like. Many tourists visit every year."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 제가 한국민속촌에서 무엇을 볼 수 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 한국 민속촌은 서울에서 멀지 않은 경기도에 있어. 네가 그 곳을 방문하면, 넌 옛날 한국의 삶이 어떠했는지 알게 될 거야. 매년 많은 외국인들이 그곳을 방문해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

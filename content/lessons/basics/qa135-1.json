@@ -31,23 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "170",
-          "text": "그분은 준비를 잘 하셨고, / 자신보다 / 언제나 한국을 생각하셨기"
+          "n": "Q",
+          "text": "Why do you admire him?"
+        },
+        {
+          "n": "A",
+          "text": "He was always thoroughly prepared and put Korea before himself. He also worked tirelessly to carry out his duties."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 때문에 / 난 / 그분을 존경해."
+      "text": "질문: 당신은 그를 왜 존경합니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "171",
-          "text": "또한 / 그분은 / 항상 / 자신의 책임을 / 완수하려고 노력하셨어."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 그분은 준비를 잘 하셨고, 자신보다 언제나 한국을 생각하셨기 또한 그분은 항상 자신의 책임을 완수하려고 노력하셨어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

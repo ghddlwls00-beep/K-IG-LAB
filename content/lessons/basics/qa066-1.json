@@ -31,27 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "73",
-          "text": "나의 선생님은 항상 / 우리에게 / 우리의 꿈을 / 이루기 위해 / 목표를 세우라고"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "/ 말씀하셔."
-    },
-    {
-      "type": "sentences",
-      "items": [
+          "n": "Q",
+          "text": "How does your teacher help you?"
+        },
         {
-          "n": "74",
-          "text": "그녀는 / 모든 학생에게 / 매우 친절해 / 그리고 / 우리의 재능을 개발하도록"
+          "n": "A",
+          "text": "My teacher always encourages us to set goals to achieve our dreams. She is very kind to all students and helps us develop our talents."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 우리를 도와주셔."
+      "text": "질문: 당신 선생님은 어떻게 도와 줍니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 선생님은 항상 우리에게 우리의 꿈을 이루기 위해 목표를 세우라고 그녀는 모든 학생에게 매우 친절해 그리고 우리의 재능을 개발하도록",
+      "lang": "ko"
     },
     {
       "type": "choice",

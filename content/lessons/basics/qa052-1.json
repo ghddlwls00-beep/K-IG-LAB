@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "50",
-          "text": "난 보통 / 학교에 / 걸어가."
+          "n": "Q",
+          "text": "Who is your homeroom teacher?"
         },
         {
-          "n": "51",
-          "text": "약 / 15분 / 걸려."
-        },
-        {
-          "n": "52",
-          "text": "봄이나 가을에 / 때때로, / 난 / 학교에 / 자전거를 타고 가."
+          "n": "A",
+          "text": "Our homeroom teacher is Mr. Lee. He is very kind and patient with us."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 학교에 어떻게 도착합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 보통 학교에 걸어가. 약 15분 걸려. 봄이나 가을에 때때로, 난 학교에 자전거를 타고 가.",
+      "lang": "ko"
     },
     {
       "type": "choice",

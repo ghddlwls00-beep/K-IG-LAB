@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "55",
-          "text": "우리 선생님은 / 수업이 시작하기 / 전에 / 출석을 부르셔."
+          "n": "Q",
+          "text": "What is your favorite part of school?"
         },
         {
-          "n": "56",
-          "text": "그녀는 또한 / 우리에게 / 그 날의 공지사항을 / 전하셔."
+          "n": "A",
+          "text": "My favorite part of school is recess and physical education class. I love playing with my classmates."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 아침에 어떤 일과들을 따릅니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리 선생님은 수업이 시작하기 전에 출석을 부르셔. 그녀는 또한 우리에게 그 날의 공지사항을 전하셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

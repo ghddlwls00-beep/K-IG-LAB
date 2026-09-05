@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "43",
-          "text": "내가 가장 좋아하는 친척은 / 나의 큰 삼촌/ 이셔."
+          "n": "Q",
+          "text": "Where do your grandparents live?"
+        },
+        {
+          "n": "A",
+          "text": "My grandparents live in the countryside. They have a big garden and grow fresh vegetables."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 가장 좋아하는 친척은 누구입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 가장 좋아하는 친척은 나의 큰 삼촌 이셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

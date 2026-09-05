@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "81",
-          "text": "영어 학원에는 / 다양한 부류의 / 친구들이 / 있어."
+          "n": "Q",
+          "text": "Please tell me about your friends."
         },
         {
-          "n": "82",
-          "text": "어떤 애들은 / 단어 암기와 / 영어 회화를 / 잘 해."
-        },
-        {
-          "n": "83",
-          "text": "다른 애들은 / 정말 좋은 발음을 / 가지고 있어."
+          "n": "A",
+          "text": "There are different types of friends at the English academy. Some are good at memorizing words and speaking English. Others have really great pronunciation."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 친구들에 대하여 나에게 이야기 해 주세요.",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 영어 학원에는 다양한 부류의 친구들이 있어. 어떤 애들은 단어 암기와 영어 회화를 잘 해. 다른 애들은 정말 좋은 발음을 가지고 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

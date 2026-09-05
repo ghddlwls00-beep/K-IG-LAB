@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "13",
-          "text": "나의 아버지는 / 치과의사 / 야."
+          "n": "Q",
+          "text": "What does your father do?"
+        },
+        {
+          "n": "A",
+          "text": "My father is a dentist."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 아버지의 직업은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 아버지는 치과의사 야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

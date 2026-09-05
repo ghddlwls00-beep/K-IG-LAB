@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "103",
-          "text": "난 / 나의 방을 청소하고, / 나의 개와 함께 / 조깅하러 가."
+          "n": "Q",
+          "text": "What do you do in the morning?"
         },
         {
-          "n": "104",
-          "text": "조깅이 끝난 / 후에, / 난 / 샤워를 해."
-        },
-        {
-          "n": "105",
-          "text": "난 / 오전 7시 반에 / 아침식사를 하고, / 8시경에 / 학교에 가."
-        },
-        {
-          "n": "106",
-          "text": "난 / 9시에 시작되는 / 4교시 수업이 / 있어."
+          "n": "A",
+          "text": "I clean my room and go jogging with my dog. After jogging, I take a shower. I have breakfast at 7:30 AM and go to school around 8:00. I have four classes that start at 9:00."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 아침에 당신은 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 나의 방을 청소하고, 나의 개와 함께 조깅하러 가. 조깅이 끝난 후에, 난 샤워를 해. 난 오전 7시 반에 아침식사를 하고, 8시경에 학교에 가. 난 9시에 시작되는 4교시 수업이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

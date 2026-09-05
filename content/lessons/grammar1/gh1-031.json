@@ -60,29 +60,32 @@
         },
         {
           "n": "7",
-          "text": "I love him. 8.He loves her sister."
+          "text": "I love him."
+        },
+        {
+          "n": "8",
+          "text": "He loves her sister."
         },
         {
           "n": "9",
-          "text": "I love her. 10.I don't love you."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "11You don't love my sister."
-    },
-    {
-      "type": "paragraph",
-      "text": "12He doesn't love me."
-    },
-    {
-      "type": "paragraph",
-      "text": "13She doesn't love your brother."
-    },
-    {
-      "type": "sentences",
-      "items": [
+          "text": "I love her."
+        },
+        {
+          "n": "10",
+          "text": "I don't love you."
+        },
+        {
+          "n": "11",
+          "text": "You don't love my sister."
+        },
+        {
+          "n": "12",
+          "text": "He doesn't love me."
+        },
+        {
+          "n": "13",
+          "text": "She doesn't love your brother."
+        },
         {
           "n": "14",
           "text": "They don't love you."

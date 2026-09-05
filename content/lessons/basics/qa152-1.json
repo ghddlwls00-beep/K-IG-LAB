@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "189",
-          "text": "내가 / 가장 존경하는 / 사람은 / 거스 히딩크 / 야."
+          "n": "Q",
+          "text": "Who do you admire the most?"
         },
         {
-          "n": "190",
-          "text": "그분은 / 네델란드 출신의 / 감독이셔."
-        },
-        {
-          "n": "191",
-          "text": "그분은 / 우리 축구팀을 / 훈련시키고 지도하기 위해 / 한국에 오셨어."
+          "n": "A",
+          "text": "The person I admire most is Guus Hiddink. He was the head coach from the Netherlands who came to Korea to train and guide our national team."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 가장 존경하는 사람은 누구입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 가장 존경하는 사람은 거스 히딩크 야. 그분은 네델란드 출신의 감독이셔. 그분은 우리 축구팀을 훈련시키고 지도하기 위해 한국에 오셨어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

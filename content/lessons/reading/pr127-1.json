@@ -24,6 +24,10 @@
       "text": "[ K-IG 교육 Reading 127-1 ]"
     },
     {
+      "type": "instruction",
+      "text": "종교는 시공간을 초월하여 우리 지성의 능력 밖에 있는 것을 이해할 수 있게 해주는 길을 제시해야 한다."
+    },
+    {
       "type": "choice",
       "options": [
         "1 번",

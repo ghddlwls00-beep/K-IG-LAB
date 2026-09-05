@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "4",
-          "text": "난 / 5학년 / 이야."
+          "n": "Q",
+          "text": "What grade are you in?"
         },
         {
-          "n": "5",
-          "text": "난 / 고려 초등학교에 / 다녀."
+          "n": "A",
+          "text": "I am in 5th grade. I go to Goryeo Elementary School."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 몇 학년 입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 5학년 이야. 난 고려 초등학교에 다녀.",
+      "lang": "ko"
     },
     {
       "type": "choice",

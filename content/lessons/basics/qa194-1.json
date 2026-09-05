@@ -31,23 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "248",
-          "text": "1420년에 / 세종대왕은 / 학자들에게 / 독자적인 한국어 표기법을"
+          "n": "Q",
+          "text": "When was Hangul invented?"
+        },
+        {
+          "n": "A",
+          "text": "In 1443, King Sejong created a unique Korean writing system with scholars. I am very proud of my country and culture."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 개발할 것을 / 요구했어."
+      "text": "질문: 한글은 언제 발명되었습니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "249",
-          "text": "난 / 나의 나라와 나의 문화가 / 자랑스러워."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 1420년에 세종대왕은 학자들에게 독자적인 한국어 표기법을 난 나의 나라와 나의 문화가 자랑스러워.",
+      "lang": "ko"
     },
     {
       "type": "choice",

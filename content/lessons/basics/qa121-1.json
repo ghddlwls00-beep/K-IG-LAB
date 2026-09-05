@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "144",
-          "text": "우리는 / 두 개의 주요 학교 방학이 / 있어."
+          "n": "Q",
+          "text": "How many school vacations do you have?"
         },
         {
-          "n": "145",
-          "text": "하나는 / 여름에 있고, / 다른 하나는 / 겨울에 있어."
+          "n": "A",
+          "text": "We have two main school vacations. One is in the summer, and the other is in the winter."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 학교 방학이 몇 번 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리는 두 개의 주요 학교 방학이 있어. 하나는 여름에 있고, 다른 하나는 겨울에 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

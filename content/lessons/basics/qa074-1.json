@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "84",
-          "text": "나에게는 / 한국인 영어 선생님이 / 계셔."
+          "n": "Q",
+          "text": "Please tell me about your English teacher."
         },
         {
-          "n": "85",
-          "text": "그 분이 영어를 말씀하실 때, / 그 분은 / 원어민처럼 / 들려."
-        },
-        {
-          "n": "86",
-          "text": "난 / 그 분이 하는 것만큼 잘 / 영어를 / 말할 수 있기를 / 바래."
+          "n": "A",
+          "text": "I have a Korean English teacher. When she speaks English, she sounds like a native speaker. I hope I can speak English as well as she does."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 영어선생님에 대하여 나에게 이야기해 주세요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나에게는 한국인 영어 선생님이 계셔. 그 분이 영어를 말씀하실 때, 그 분은 원어민처럼 들려. 난 그 분이 하는 것만큼 잘 영어를 말할 수 있기를 바래.",
+      "lang": "ko"
     },
     {
       "type": "choice",

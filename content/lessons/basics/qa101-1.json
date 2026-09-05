@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "116",
-          "text": "매주 월요일 아침마다 / 잠자리에서 일어나기가 / 너무 힘들어."
+          "n": "Q",
+          "text": "Is there anything you dislike about Mondays?"
         },
         {
-          "n": "117",
-          "text": "엄마는 나에게 일어나라고 소리 치시지만, / 난 / 일어나고 / 싶지 않아."
-        },
-        {
-          "n": "118",
-          "text": "난 / 침대에 / 더 오래 / 있고 싶어."
+          "n": "A",
+          "text": "Every Monday morning, it is so hard to get out of bed. My mom yells at me to get up, but I do not want to. I want to stay in bed longer."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 월요일이 마음에 들지 않는 것은 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 매주 월요일 아침마다 잠자리에서 일어나기가 너무 힘들어. 엄마는 나에게 일어나라고 소리 치시지만, 난 일어나고 싶지 않아. 난 침대에 더 오래 있고 싶어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

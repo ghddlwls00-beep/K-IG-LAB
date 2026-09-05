@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "131",
-          "text": "토요일 오후에 / 대개 난 / 내 친구들과 / 시간을 보내."
+          "n": "Q",
+          "text": "What do you like to do on Saturdays?"
         },
         {
-          "n": "132",
-          "text": "때로는 / 생일 파티와 같은 / 특별한 날이 있어."
+          "n": "A",
+          "text": "On Saturday afternoons, I usually spend time with my friends. Sometimes there are special occasions like birthday parties."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 토요일에 무엇을 하기를 좋아합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 토요일 오후에 대개 난 내 친구들과 시간을 보내. 때로는 생일 파티와 같은 특별한 날이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

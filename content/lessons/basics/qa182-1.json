@@ -27,22 +27,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "229",
-          "text": "가족 모두는 / 아침에 / 일찍 / 일어나."
+          "n": "Q",
+          "text": "Please tell me about Lunar New Year's Day."
         },
         {
-          "n": "230",
-          "text": "우리는 / 대개 / 전통 한국 의상인 / 한복을 / 입어."
-        },
-        {
-          "n": "231",
-          "text": "어린 사람들은 / 새해 인사로 / 어른들에게 / 절을 해."
-        },
-        {
-          "n": "232",
-          "text": "이것은 / 새해를 맞아 / 모든 사람에게 / 새로운 축복을 / 기원하기 위한 거야"
+          "n": "A",
+          "text": "Everyone in the family wakes up early and wears Hanbok, traditional Korean clothing. Younger people bow to their elders to wish them blessings for the new year."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 음력 설날에 대하여 나에게 말씀해 주십시오",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 가족 모두는 아침에 일찍 일어나. 우리는 대개 전통 한국 의상인 한복을 입어. 어린 사람들은 새해 인사로 어른들에게 절을 해. 이것은 새해를 맞아 모든 사람에게 새로운 축복을 기원하기 위한 거야",
+      "lang": "ko"
     },
     {
       "type": "choice",

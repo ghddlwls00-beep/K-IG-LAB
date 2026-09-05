@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "78",
-          "text": "난 / 영어 학원에 가는 것이 / 가장 / 즐거워."
+          "n": "Q",
+          "text": "What is your favorite activity after school?"
         },
         {
-          "n": "79",
-          "text": "매일 난 / 새로운 단어, / 문장과 / 노래를 / 배워."
-        },
-        {
-          "n": "80",
-          "text": "난 / 영어를 / 유창하게 / 말하고 싶어."
+          "n": "A",
+          "text": "I enjoy going to the English academy the most. Every day I learn new words, sentences, and songs. I want to speak English fluently."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 방과후에 당신이 가장 좋아하는 것은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 영어 학원에 가는 것이 가장 즐거워. 매일 난 새로운 단어, 문장과 노래를 배워. 난 영어를 유창하게 말하고 싶어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

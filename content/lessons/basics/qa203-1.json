@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "254",
-          "text": "경주는 / 신라 왕국의 / 옛 수도 / 였어."
+          "n": "Q",
+          "text": "Why is Gyeongju special?"
         },
         {
-          "n": "255",
-          "text": "신라는 / 8세기에 / 가장 강력했던 왕국 / 이었어."
-        },
-        {
-          "n": "256",
-          "text": "많은 사람들은 / 경주가 / 벽 없는 / 박물관이라고 / 생각해."
-        },
-        {
-          "n": "257",
-          "text": "신라 왕조로부터 / 아직까지 남아 있는 / 많은 유적지들이 / 있어."
+          "n": "A",
+          "text": "Gyeongju was the ancient capital of the Silla Kingdom. Many consider it a museum without walls because so many historic relics remain from the Silla dynasty."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 경주는 왜 특별합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 경주는 신라 왕국의 옛 수도 였어. 신라는 8세기에 가장 강력했던 왕국 이었어. 많은 사람들은 경주가 벽 없는 박물관이라고 생각해. 신라 왕조로부터 아직까지 남아 있는 많은 유적지들이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

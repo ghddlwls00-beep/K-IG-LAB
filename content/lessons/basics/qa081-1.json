@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "87",
-          "text": "학교에서 / 집에 오면 / 나의 엄마는 / 언제나 나를 반겨주셔."
+          "n": "Q",
+          "text": "What do you do when you arrive home?"
         },
         {
-          "n": "88",
-          "text": "난 / 내 가방을 내려놓고 / 나의 손과 발을 / 씻어."
+          "n": "A",
+          "text": "When I come home from school, my mother always welcomes me. I put down my bag and wash my hands and feet."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 집에 도착하면 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 학교에서 집에 오면 나의 엄마는 언제나 나를 반겨주셔. 난 내 가방을 내려놓고 나의 손과 발을 씻어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

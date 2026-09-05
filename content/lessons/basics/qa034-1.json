@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "30",
-          "text": "그는 / 많은 재능을 / 가지고 있어."
+          "n": "Q",
+          "text": "What are your friend's talents?"
         },
         {
-          "n": "31",
-          "text": "그는 / 축구, 컴퓨터 게임, / 영어 말하기를 / 잘 해."
-        },
-        {
-          "n": "32",
-          "text": "그는 / 또한 / 매우 잘 / 그림을 그려."
-        },
-        {
-          "n": "33",
-          "text": "난 / 그가 / 매우 자랑스러워."
+          "n": "A",
+          "text": "He has many talents. He is good at soccer, computer games, and speaking English. He also draws very well. I am proud of him."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 친구의 재능은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그는 많은 재능을 가지고 있어. 그는 축구, 컴퓨터 게임, 영어 말하기를 잘 해. 그는 또한 매우 잘 그림을 그려. 난 그가 매우 자랑스러워.",
+      "lang": "ko"
     },
     {
       "type": "choice",

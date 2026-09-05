@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "92",
-          "text": "저녁 식사시간은 / 나의 가족이 / 함께 하는 / 유일한 시간이야."
+          "n": "Q",
+          "text": "Do you like dinner time?"
         },
         {
-          "n": "93",
-          "text": "우리는 항상 / 저녁 식사시간에 / 멋진 대화를 / 나눠."
-        },
-        {
-          "n": "94",
-          "text": "난 / 그들의 하루가 어땠는지에 대해 / 듣는 것이 / 즐거워."
+          "n": "A",
+          "text": "Dinner time is the only time my family gets together. We always have wonderful conversations over dinner. I enjoy hearing about how their day went."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 저녁식사 시간을 좋아합니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 저녁 식사시간은 나의 가족이 함께 하는 유일한 시간이야. 우리는 항상 저녁 식사시간에 멋진 대화를 나눠. 난 그들의 하루가 어땠는지에 대해 듣는 것이 즐거워.",
+      "lang": "ko"
     },
     {
       "type": "choice",

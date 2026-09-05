@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "12",
-          "text": "나의 가족에는 / 4명이 / 있어 : / 나의 아버지, 나의 어머니, 나의 누나"
+          "n": "Q",
+          "text": "How many people are there in your family?"
+        },
+        {
+          "n": "A",
+          "text": "There are four people in my family: my father, my mother, my older sister, and me."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 가족은 몇 명입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 가족에는 4명이 있어 : 나의 아버지, 나의 어머니, 나의 누나",
+      "lang": "ko"
     },
     {
       "type": "paragraph",

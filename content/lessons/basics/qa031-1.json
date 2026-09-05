@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "25",
-          "text": "내 가장 친한 친구는 / 박상호 / 야."
+          "n": "Q",
+          "text": "Who is your best friend?"
+        },
+        {
+          "n": "A",
+          "text": "My best friend is Sangho Park."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 가장 친한 친구는 누구입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내 가장 친한 친구는 박상호 야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

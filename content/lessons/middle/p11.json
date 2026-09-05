@@ -5,7 +5,7 @@
   "variant": "main",
   "pairId": null,
   "title": "::: K-IG 교육 영어듣기훈련프로그램 | K-IG 교육 ENGLISH | 제 001 회 강의 :::",
-  "label": "[ K-IG 교육- principle11-1]",
+  "label": "[ K-IG 교육- principle11 ]",
   "menuLabel": null,
   "unit": 11,
   "part": null,
@@ -21,143 +21,47 @@
   "blocks": [
     {
       "type": "heading",
-      "text": "[ K-IG 교육- principle11-1]"
+      "text": "[ K-IG 교육- principle11 ]"
     },
     {
       "type": "instruction",
-      "text": "11과 내가 주말에는 무엇을 할까요?"
+      "text": "(Saturday Afternoon)"
+    },
+    {
+      "type": "hints",
+      "text": "The weekends are the best part of my week."
     },
     {
       "type": "instruction",
-      "text": "주말은 나의 주 중에서 최고의 부분 입니다."
+      "text": "On Saturdays, we only go to school in the morning."
     },
     {
       "type": "instruction",
-      "text": "토요일에, 우리는 아침에만 학교에 갑니다."
+      "text": "Once we come home for lunch, we are free for the day."
     },
     {
       "type": "instruction",
-      "text": "일단 우리가 점심을 먹기 위해 집으로 돌아오면,"
+      "text": "We don’t have to attend any academies!"
     },
     {
       "type": "instruction",
-      "text": "우리는 그날 동안 자유입니다."
+      "text": "I usually hang out with my friends on Saturdays."
     },
     {
       "type": "instruction",
-      "text": "우리는 어떤 학원들에도 갈 필요가 없습니다!"
+      "text": "Sometimes if there is a special day like a birthday party,"
     },
     {
       "type": "instruction",
-      "text": "나는 보통 토요일에 나의 친구들과 함께 시간을 보냅니다."
+      "text": "we celebrate it on a Saturday afternoon."
     },
     {
       "type": "instruction",
-      "text": "가끔씩 생일파티 같은 특별한 날이 있으면,"
+      "text": "We oftentimes go to the karaoke room for these occasions."
     },
     {
       "type": "instruction",
-      "text": "우리는 토요일 오후에 축하를 합니다."
-    },
-    {
-      "type": "instruction",
-      "text": "우리는 이런 경우들에는 종종 노래방에 갑니다."
-    },
-    {
-      "type": "instruction",
-      "text": "나는 또한 토요일에 컴퓨터를 하는데 많은 시간을 보냅니다."
-    },
-    {
-      "type": "instruction",
-      "text": "토요일에, 나의 아버지 또한 그의 하루를 일찍 마칩니다."
-    },
-    {
-      "type": "instruction",
-      "text": "가끔씩 그는 출장을 가지만, 그가 집에 계시면,"
-    },
-    {
-      "type": "instruction",
-      "text": "우리는 함께 저녁식사를 하러 외출하기를 좋아합니다."
-    },
-    {
-      "type": "instruction",
-      "text": "나의 아버지께서는 항상 나의 삶에"
-    },
-    {
-      "type": "instruction",
-      "text": "무슨 일이 일어나는지에 관심이 있으셔서 나를 많이 도와주십니다."
-    },
-    {
-      "type": "instruction",
-      "text": "한국에는 많은 종교들이 있습니다. 나의가족과 나는 기독교인입니다."
-    },
-    {
-      "type": "instruction",
-      "text": "우리는 일요일마다 교회에 갑니다."
-    },
-    {
-      "type": "instruction",
-      "text": "나는 또한 교회에 많은 친구들이 있습니다."
-    },
-    {
-      "type": "instruction",
-      "text": "다른 사람들은 불교를 믿습니다."
-    },
-    {
-      "type": "instruction",
-      "text": "불교를 믿는 사람들은 단지 그 해의 특별한 날들에만 절에 갑니다."
-    },
-    {
-      "type": "instruction",
-      "text": "다른 사람들은 그들의 가족들과 함께 시골, 바닷가, 또는 놀이공원으로"
-    },
-    {
-      "type": "instruction",
-      "text": "여행을 갑니다."
-    },
-    {
-      "type": "instruction",
-      "text": "일요일에, 몇몇의 사람들은 친구들과 함께 쇼핑을 가거나"
-    },
-    {
-      "type": "instruction",
-      "text": "또는 TV를 보거나 컴퓨터게임을 하면서 그들의 시간을 보냅니다."
-    },
-    {
-      "type": "instruction",
-      "text": "때때로 나에게 다음주에 다가오는 시험이 있으면,"
-    },
-    {
-      "type": "instruction",
-      "text": "나는 주말 내내 공부를 해야만 합니다."
-    },
-    {
-      "type": "instruction",
-      "text": "우리 가족은 종종 나의 아버지의 친구 집을 방문합니다."
-    },
-    {
-      "type": "instruction",
-      "text": "우리는 때때로 우리의 친척들을 방문하거나 그들이 우리의 집에 옵니다."
-    },
-    {
-      "type": "instruction",
-      "text": "나는 일요일오후에 나의 친척들을 방문하는 것을 좋아합니다."
-    },
-    {
-      "type": "instruction",
-      "text": "그들이 어떻게 지내고 있는지 보는 것은 좋습니다."
-    },
-    {
-      "type": "instruction",
-      "text": "나는 또한 나의 아빠의 친구를 방문하는 것을 좋아하는데"
-    },
-    {
-      "type": "instruction",
-      "text": "왜냐하면 그의 아이들이 동갑이고"
-    },
-    {
-      "type": "instruction",
-      "text": "우리는 항상 우리의 시간을 함께 보내면서 아주 재미있게 보냅니다."
+      "text": "I also spend a lot of time on the computer on Saturdays, too."
     },
     {
       "type": "choice",

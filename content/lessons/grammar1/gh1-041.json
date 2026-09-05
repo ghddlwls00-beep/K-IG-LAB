@@ -36,63 +36,63 @@
       "items": [
         {
           "n": "26",
-          "text": "You are not in Korea, are you?"
+          "text": "I love you, don't I?"
         },
         {
           "n": "27",
-          "text": "He is not in Korea, is he?"
-        },
-        {
-          "n": "28",
-          "text": "She is not in Korea, is she?"
-        },
-        {
-          "n": "29",
-          "text": "I am not a boy, am I?"
-        },
-        {
-          "n": "30",
-          "text": "You are not a girl, are you?"
-        },
-        {
-          "n": "31",
-          "text": "He is not a boy, is he?"
-        },
-        {
-          "n": "32",
-          "text": "She is not a girl, is she?"
-        },
-        {
-          "n": "33",
-          "text": "This is not a pen, is this?"
-        },
-        {
-          "n": "34",
-          "text": "It isn't a book, is it?"
-        },
-        {
-          "n": "35",
-          "text": "These are not pens, are these?"
-        },
-        {
-          "n": "36",
-          "text": "Those are not book, are those?"
-        },
-        {
-          "n": "37",
-          "text": "You are not happy, are you?"
-        },
-        {
-          "n": "38",
-          "text": "She is not happy, is she?"
-        },
-        {
-          "n": "39",
           "text": "You love my sister, don't you?"
         },
         {
-          "n": "40",
+          "n": "28",
           "text": "He loves me, doesn't he?"
+        },
+        {
+          "n": "29",
+          "text": "She loves your brother, doesn't she?"
+        },
+        {
+          "n": "30",
+          "text": "They love you, don't they?"
+        },
+        {
+          "n": "31",
+          "text": "She loves his brother, doesn't she?"
+        },
+        {
+          "n": "32",
+          "text": "I love him, don't I?"
+        },
+        {
+          "n": "33",
+          "text": "He loves her sister, doesn't he?"
+        },
+        {
+          "n": "34",
+          "text": "I love her, don't I?"
+        },
+        {
+          "n": "35",
+          "text": "I don't love you, do I?"
+        },
+        {
+          "n": "36",
+          "text": "You don't love my sister, do you?"
+        },
+        {
+          "n": "37",
+          "text": "He doesn't love me, does he?"
+        },
+        {
+          "n": "38",
+          "text": "She doesn't love your brother, does she?"
+        },
+        {
+          "n": "39",
+          "text": "They don't love you, do they?"
+        },
+        {
+          "n": "40",
+          "text": "She doesn't love his brother, does she?"
         },
         {
           "n": "41",
@@ -108,21 +108,16 @@
         },
         {
           "n": "44",
-          "text": "He loves her sister, doesn't she?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "45You don't love my sister, do you?"
-    },
-    {
-      "type": "paragraph",
-      "text": "46He doesn't love me, does he?."
-    },
-    {
-      "type": "sentences",
-      "items": [
+          "text": "He loves her sister, doesn't he?"
+        },
+        {
+          "n": "45",
+          "text": "You don't love my sister, do you?"
+        },
+        {
+          "n": "46",
+          "text": "He doesn't love me, does he?"
+        },
         {
           "n": "47",
           "text": "She doesn't love your brother, does she?"
@@ -134,12 +129,12 @@
         {
           "n": "49",
           "text": "She doesn't love his brother, does she?"
+        },
+        {
+          "n": "50",
+          "text": "Your sister doesn't love my brother, does she?"
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "text": "50 Your sister doesn't love my brother, does she?"
     },
     {
       "type": "choice",

@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "42",
-          "text": "난 / 열두 명의 사촌들이 / 있어."
+          "n": "Q",
+          "text": "How many cousins do you have?"
+        },
+        {
+          "n": "A",
+          "text": "I have eight cousins. We are all close to each other. We get together on holidays."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 몇 명의 사촌들이 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 열두 명의 사촌들이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "111",
-          "text": "난 / 약 오후 6시에 / 집에 와."
+          "n": "Q",
+          "text": "What can you tell me about this?"
+        },
+        {
+          "n": "A",
+          "text": "Model Answer: 난 약 오후 6시에 집에 와."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 몇시에 집에 돌아옵니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 약 오후 6시에 집에 와.",
+      "lang": "ko"
     },
     {
       "type": "choice",

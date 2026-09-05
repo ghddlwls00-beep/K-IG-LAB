@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "109",
-          "text": "방과 후에 / 난 / 피아노 레슨을 받고 / 영어 학원에 가."
+          "n": "Q",
+          "text": "What do you do after school?"
         },
         {
-          "n": "110",
-          "text": "때때로 / 난 / 매우 피곤하지만 / 친구들과 함께 / 공부하는 게 / 좋아."
+          "n": "A",
+          "text": "After school, I take piano lessons and go to an English academy. Sometimes I feel tired, but I like studying with my friends."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 방과후에 당힌은 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 방과 후에 난 피아노 레슨을 받고 영어 학원에 가. 때때로 난 매우 피곤하지만 친구들과 함께 공부하는 게 좋아.",
+      "lang": "ko"
     },
     {
       "type": "choice",

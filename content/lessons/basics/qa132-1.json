@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "163",
-          "text": "난 / 소설, 역사 그리고 / 다른 나라에 관한 책을 / 좋아해."
+          "n": "Q",
+          "text": "What is your favorite kind of book?"
         },
         {
-          "n": "164",
-          "text": "하지만, / 나는 / 특히 / 역사책을 좋아하는데 / 많은 사람들의 지혜에 관해"
+          "n": "A",
+          "text": "I like novels, history, and books about other countries. In particular, I love history books because they teach me the wisdom of great people."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 가장 좋아하는 종류의 책은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 소설, 역사 그리고 다른 나라에 관한 책을 좋아해. 하지만, 나는 특히 역사책을 좋아하는데 많은 사람들의 지혜에 관해",
+      "lang": "ko"
     },
     {
       "type": "paragraph",

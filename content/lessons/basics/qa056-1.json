@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "59",
-          "text": "우리 반에는 / 많은 똑똑한 학생들이 / 있어."
+          "n": "Q",
+          "text": "Please tell me about your class."
         },
         {
-          "n": "60",
-          "text": "그래서 / 이것이 / 우리를 / 매우 경쟁적으로 / 만들어."
-        },
-        {
-          "n": "61",
-          "text": "그러나 / 우리 반 친구들은 / 서로에게 / 매우 다정해."
+          "n": "A",
+          "text": "There are many smart students in our class, which makes us very competitive. However, my classmates are very kind to one another."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 반에 대하여 나에게 말해 주세요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리 반에는 많은 똑똑한 학생들이 있어. 그래서 이것이 우리를 매우 경쟁적으로 만들어. 그러나 우리 반 친구들은 서로에게 매우 다정해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

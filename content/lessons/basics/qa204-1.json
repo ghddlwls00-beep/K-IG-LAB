@@ -31,26 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "258",
-          "text": "제주도에는 / 재미있게 할만한 것들이 / 아주 많이 / 있어."
+          "n": "Q",
+          "text": "Can you tell me about Jeju Island?"
         },
         {
-          "n": "259",
-          "text": "난 / 한라산에 / 가는 것을 / 좋아해."
-        },
-        {
-          "n": "260",
-          "text": "한라산은 / 남한에서 / 가장 높은 산 / 이야."
-        },
-        {
-          "n": "261",
-          "text": "넌 / 아름다운 폭포들을 / 감상할 수도 있어."
-        },
-        {
-          "n": "262",
-          "text": "제주도는 / 방학 때 / 내가 가장 가고 싶은 곳 / 이야."
+          "n": "A",
+          "text": "There are so many fun things to do on Jeju Island. I love visiting Hallasan, the highest mountain in South Korea, and admiring the beautiful waterfalls. It is my favorite vacation destination."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 제주도에 대하여 나에게 말씀해 줄 수 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 제주도에는 재미있게 할만한 것들이 아주 많이 있어. 난 한라산에 가는 것을 좋아해. 한라산은 남한에서 가장 높은 산 이야. 넌 아름다운 폭포들을 감상할 수도 있어. 제주도는 방학 때 내가 가장 가고 싶은 곳 이야.",
+      "lang": "ko"
     },
     {
       "type": "choice",

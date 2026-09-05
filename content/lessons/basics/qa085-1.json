@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "97",
-          "text": "난 / 스포츠와 코미디 프로그램 / 보는 것을 / 좋아해."
+          "n": "Q",
+          "text": "What kind of programs do you like to watch?"
         },
         {
-          "n": "98",
-          "text": "하지만 / 나의 아빠는 / 뉴스 / 보는 것을 / 좋아하셔."
+          "n": "A",
+          "text": "I like watching sports and comedy programs. But my dad likes watching the news."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 어떤 프로그램을 보기를 좋아합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 스포츠와 코미디 프로그램 보는 것을 좋아해. 하지만 나의 아빠는 뉴스 보는 것을 좋아하셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

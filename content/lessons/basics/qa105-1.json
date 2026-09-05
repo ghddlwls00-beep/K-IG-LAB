@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "128",
-          "text": "내가 / 주중에 / 잘하지 못한 것에 대해 / 되짚어 봐."
+          "n": "Q",
+          "text": "What do you do on your favorite weekday night?"
         },
         {
-          "n": "129",
-          "text": "난 / 그 다음 주가 / 더 나은 주가 되도록 / 계획해."
+          "n": "A",
+          "text": "I reflect on what I did not do well during the week. Then I plan to make the upcoming week even better."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신이 가장 좋아하는 평일 밤에는 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 주중에 잘하지 못한 것에 대해 되짚어 봐. 난 그 다음 주가 더 나은 주가 되도록 계획해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

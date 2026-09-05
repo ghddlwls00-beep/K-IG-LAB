@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "46",
-          "text": "그는 / 영어와 불어 둘 다 / 말할 줄 아셔."
+          "n": "Q",
+          "text": "What languages can your uncle speak?"
         },
         {
-          "n": "47",
-          "text": "난 / 정말 / 그분을 / 존경해."
+          "n": "A",
+          "text": "He speaks both English and French. I really respect him."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 그( 당신 삼촌)은 어떤 언어를 말할 수 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 그는 영어와 불어 둘 다 말할 줄 아셔. 난 정말 그분을 존경해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

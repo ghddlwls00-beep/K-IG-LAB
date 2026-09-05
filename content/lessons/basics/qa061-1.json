@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "62",
-          "text": "나의 학교는 / 많은 활동과 / 흥미로운 수업을 / 해."
+          "n": "Q",
+          "text": "What do you like about your school?"
         },
         {
-          "n": "63",
-          "text": "또한 / 훌륭한 선생님들로 / 유명해."
-        },
-        {
-          "n": "64",
-          "text": "내 남동생과 누나도 / 같은 학교에 / 다녀."
+          "n": "A",
+          "text": "My school offers many activities and interesting classes. It is also famous for great teachers. My younger brother and older sister attend the same school too."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 당신의 학교에 대하여 무엇을 좋아합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 학교는 많은 활동과 흥미로운 수업을 해. 또한 훌륭한 선생님들로 유명해. 내 남동생과 누나도 같은 학교에 다녀.",
+      "lang": "ko"
     },
     {
       "type": "choice",

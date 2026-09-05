@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "10",
-          "text": "내가 가장 좋아하는 과목은 / 영어 / 야."
+          "n": "Q",
+          "text": "What is your favorite subject?"
         },
         {
-          "n": "11",
-          "text": "그래서 / 난 / 매일 / 영어를 / 공부해."
+          "n": "A",
+          "text": "My favorite subject is English. So I study English every day."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 가장 좋아하는 과목은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 가장 좋아하는 과목은 영어 야. 그래서 난 매일 영어를 공부해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

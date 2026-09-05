@@ -31,23 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "112",
-          "text": "나의 가족이 / 함께 / 저녁식사를 할 / 때, / 우리는 / 우리의 하루에 대해"
+          "n": "Q",
+          "text": "What do you do in the evening?"
+        },
+        {
+          "n": "A",
+          "text": "When my family has dinner together, we talk about our day. After dinner, I start my homework around 9 o'clock."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 이야기 해."
+      "text": "질문: 저녁에 당신은 무엇을 합니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "113",
-          "text": "난 / 저녁식사 후 / 9시경에 / 숙제를 시작해."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 나의 가족이 함께 저녁식사를 할 때, 우리는 우리의 하루에 대해 난 저녁식사 후 9시경에 숙제를 시작해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

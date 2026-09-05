@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "223",
-          "text": "전쟁 후에, / 우리나라는 / 매우 빠르게 / 발전했어."
+          "n": "Q",
+          "text": "What two events helped Korea develop further?"
         },
         {
-          "n": "224",
-          "text": "그때 이후로 / 이 나라는 / 성장을 / 계속했어."
-        },
-        {
-          "n": "225",
-          "text": "우리는 / 올림픽 게임과 / FIFA 월드컵을 / 개최했어."
-        },
-        {
-          "n": "226",
-          "text": "난 / 우리나라가 / 매우 자랑스러워."
+          "n": "A",
+          "text": "After the war, Korea developed rapidly and continued to grow. We successfully hosted the Olympic Games and the FIFA World Cup. I am very proud of our country."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 어떤 두 개의 사건이 한국을 더욱 더 발전하도록 만들었습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 전쟁 후에, 우리나라는 매우 빠르게 발전했어. 그때 이후로 이 나라는 성장을 계속했어. 우리는 올림픽 게임과 FIFA 월드컵을 개최했어. 난 우리나라가 매우 자랑스러워.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "140",
-          "text": "난 / 때로 / 조부모님이나 친척들을 / 방문해."
+          "n": "Q",
+          "text": "What do you do on Sunday afternoons?"
+        },
+        {
+          "n": "A",
+          "text": "Sometimes I visit my grandparents or relatives and have dinner together."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 일요일 오후에 당신은 무엇을 합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 때로 조부모님이나 친척들을 방문해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "195",
-          "text": "처음에 / 사람들은 / 그분이 성공적이었다고 / 믿지 않았어."
+          "n": "Q",
+          "text": "What did Guus Hiddink teach you?"
         },
         {
-          "n": "196",
-          "text": "하지만 / 그분은 / 계속해서 최선을 다했어."
-        },
-        {
-          "n": "197",
-          "text": "마침내 / 그분은 / 자신이 성공할 수 있다는 것을 / 온 나라에 / 보여 주셨어."
-        },
-        {
-          "n": "198",
-          "text": "그분의 자신감과 긍정적인 태도가 / 우리 축구팀을 / 강력하게 / 만들었던 거야"
+          "n": "A",
+          "text": "At first, many doubted him, but he kept doing his best. Eventually, he proved to the whole nation that success is possible. His confidence and positive attitude made our team strong."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 그(히딩크)는 당신에게 무엇을 가르쳐 주었습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 처음에 사람들은 그분이 성공적이었다고 믿지 않았어. 하지만 그분은 계속해서 최선을 다했어. 마침내 그분은 자신이 성공할 수 있다는 것을 온 나라에 보여 주셨어. 그분의 자신감과 긍정적인 태도가 우리 축구팀을 강력하게 만들었던 거야",
+      "lang": "ko"
     },
     {
       "type": "choice",

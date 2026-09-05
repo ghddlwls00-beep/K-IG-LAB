@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "36",
-          "text": "난 / 많은 친척들이 / 있어."
+          "n": "Q",
+          "text": "How many brothers and sisters does your father have?"
         },
         {
-          "n": "37",
-          "text": "나의 아버지는 / 두 명의 남동생과 / 한 명의 누나가 / 있어."
-        },
-        {
-          "n": "38",
-          "text": "나의 아버지는 / 둘째 아들 / 이셔."
+          "n": "A",
+          "text": "I have many relatives. My father has two younger brothers and one older sister. My father is the second son."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 아버지는 몇 명의 형제자매가 있습니까?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 난 많은 친척들이 있어. 나의 아버지는 두 명의 남동생과 한 명의 누나가 있어. 나의 아버지는 둘째 아들 이셔.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,23 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "161",
-          "text": "내가 어렸을 때 / 나의 엄마께서는 / 내가 잠자리에 들기 전에"
+          "n": "Q",
+          "text": "Why do you like reading books?"
+        },
+        {
+          "n": "A",
+          "text": "When I was little, my mother read to me before bed. She encouraged me to read a lot, and I really enjoyed it."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "/ 나에게 책을 읽어주곤 하셨어."
+      "text": "질문: 당신은 왜 책 읽는 것을 좋아합니까 ?",
+      "lang": "ko"
     },
     {
-      "type": "sentences",
-      "items": [
-        {
-          "n": "162",
-          "text": "그녀는 / 나로 하여금 많이 읽도록 하셨고 / 난 / 그것을 즐겼어."
-        }
-      ]
+      "type": "paragraph",
+      "text": "답변: 내가 어렸을 때 나의 엄마께서는 내가 잠자리에 들기 전에 그녀는 나로 하여금 많이 읽도록 하셨고 난 그것을 즐겼어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

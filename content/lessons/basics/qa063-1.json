@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "67",
-          "text": "나의 선생님 이름은 / 김수미이고, / 그녀는 / 스물 일곱 살이야."
+          "n": "Q",
+          "text": "Please tell me about your teacher."
         },
         {
-          "n": "68",
-          "text": "그녀는 항상 / 수업을 재미있게 / 하셔."
-        },
-        {
-          "n": "69",
-          "text": "그녀는 / 매우 다정하고 / 난 / 그녀를 아주 / 좋아해."
+          "n": "A",
+          "text": "My teacher's name is Sumi Kim, and she is twenty-seven years old. She always makes class fun. She is very sweet and I like her very much."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 선생님에 대하여 나에게 이야기 해주세요",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 선생님 이름은 김수미이고, 그녀는 스물 일곱 살이야. 그녀는 항상 수업을 재미있게 하셔. 그녀는 매우 다정하고 난 그녀를 아주 좋아해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

@@ -31,22 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "244",
-          "text": "전통 한국 음식은 / 밥, 국, 생선이나 고기와 / 다양한 야채 반찬을 / 포함해."
+          "n": "Q",
+          "text": "What are some popular Korean dishes?"
         },
         {
-          "n": "245",
-          "text": "불고기는 / 가장 인기 있는 한국 고기 요리 / 야."
-        },
-        {
-          "n": "246",
-          "text": "가장 인기 있는 야채 음식은 / 김치 / 야."
-        },
-        {
-          "n": "247",
-          "text": "난 / 그것들 둘 다 / 좋아해."
+          "n": "A",
+          "text": "Traditional Korean meals include rice, soup, fish or meat, and side dishes. Bulgogi is the most popular meat dish, and Kimchi is the most popular vegetable dish. I love both."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 인기있는 한국요리는 무엇이 있습니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 전통 한국 음식은 밥, 국, 생선이나 고기와 다양한 야채 반찬을 포함해. 불고기는 가장 인기 있는 한국 고기 요리 야. 가장 인기 있는 야채 음식은 김치 야. 난 그것들 둘 다 좋아해.",
+      "lang": "ko"
     },
     {
       "type": "choice",

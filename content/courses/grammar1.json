@@ -1,7 +1,7 @@
 {
   "course": "grammar1",
   "tab": "grammar1",
-  "lessonCount": 191,
+  "lessonCount": 194,
   "groups": [
     {
       "label": "[ 제 1 단계 ]",
@@ -278,6 +278,30 @@
       "order": 3,
       "hasAudio": true,
       "menuLabel": "[ gh1-007 ]"
+    },
+    {
+      "id": "gh1-007-1",
+      "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+      "label": "[ Page 007-1 ]",
+      "series": "gh1",
+      "variant": "script",
+      "unit": 7,
+      "part": null,
+      "order": 4,
+      "hasAudio": true,
+      "menuLabel": "[ gh1-007-1 ]"
+    },
+    {
+      "id": "gh1-007-2",
+      "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+      "label": "[ Page 007-2 ]",
+      "series": "gh1",
+      "variant": "script",
+      "unit": 7,
+      "part": null,
+      "order": 5,
+      "hasAudio": true,
+      "menuLabel": "[ gh1-007-2 ]"
     },
     {
       "id": "gh1-008",
@@ -1862,6 +1886,18 @@
       "order": 135,
       "hasAudio": true,
       "menuLabel": "[ gh1-088 ]"
+    },
+    {
+      "id": "gh1-089",
+      "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+      "label": "[ Page 089]",
+      "series": "gh1",
+      "variant": "main",
+      "unit": 89,
+      "part": null,
+      "order": 135,
+      "hasAudio": true,
+      "menuLabel": "[ gh1-089 ]"
     },
     {
       "id": "gh1-090",

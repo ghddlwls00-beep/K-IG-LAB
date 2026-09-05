@@ -1,0 +1,136 @@
+{
+  "id": "gh1-007-2",
+  "course": "grammar1",
+  "series": "gh1",
+  "variant": "script",
+  "pairId": "gh1-006-2",
+  "title": "::: K-IG 교육 영어듣기훈련프로그램 | 기초2 | 제 001 회 강의 :::",
+  "label": "[ Page 007-2 ]",
+  "menuLabel": "[ gh1-007-2 ]",
+  "unit": 7,
+  "part": null,
+  "order": 3,
+  "audio": [
+    {
+      "src": "/audio/grammar1/gh1-007.mp3",
+      "legacySrc": "sounds/gh1-007.mp3",
+      "autoplay": true
+    }
+  ],
+  "video": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[ Page 007-2 ]"
+    },
+    {
+      "type": "instruction",
+      "text": "영작 연습 문제 답지"
+    },
+    {
+      "type": "sentences",
+      "items": [
+        {
+          "n": "22",
+          "text": "Where is he?"
+        },
+        {
+          "n": "23",
+          "text": "Who are you?"
+        },
+        {
+          "n": "24",
+          "text": "What is he?"
+        },
+        {
+          "n": "25",
+          "text": "Is she your girlfriend?"
+        },
+        {
+          "n": "26",
+          "text": "Are they your friends?"
+        },
+        {
+          "n": "27",
+          "text": "Are these boys your classmates?"
+        },
+        {
+          "n": "28",
+          "text": "Whose pen is this?"
+        },
+        {
+          "n": "29",
+          "text": "Is she beautiful?"
+        },
+        {
+          "n": "30",
+          "text": "Is this pen yours?"
+        },
+        {
+          "n": "31",
+          "text": "Are these yours?"
+        },
+        {
+          "n": "32",
+          "text": "Is this mine?"
+        },
+        {
+          "n": "33",
+          "text": "Where are they?"
+        },
+        {
+          "n": "34",
+          "text": "Where is she?"
+        },
+        {
+          "n": "35",
+          "text": "Where are we?"
+        },
+        {
+          "n": "36",
+          "text": "How is your mother?"
+        },
+        {
+          "n": "37",
+          "text": "Is he your boss?"
+        },
+        {
+          "n": "38",
+          "text": "What time is it?"
+        },
+        {
+          "n": "39",
+          "text": "It is seven o'clock."
+        },
+        {
+          "n": "40",
+          "text": "Is it cold?"
+        },
+        {
+          "n": "41",
+          "text": "No, it is not cold."
+        },
+        {
+          "n": "42",
+          "text": "It is warm."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        "1 번",
+        "2 번",
+        "3 번",
+        "4 번",
+        "5 번"
+      ]
+    },
+    {
+      "type": "dictation",
+      "rows": 10
+    }
+  ],
+  "legacyPath": "grammar1/gh1-007.htm",
+  "legacyEncoding": "utf-8"
+}

@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "250",
-          "text": "우리나라에는 / 경주와 제주도 / 같은 / 방문할 만한 / 아름다운 곳이 많아."
+          "n": "Q",
+          "text": "What places are famous in Korea?"
+        },
+        {
+          "n": "A",
+          "text": "There are many beautiful places to visit in our country, such as Gyeongju and Jeju Island."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 어떤 곳이 한국에서 유명합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 우리나라에는 경주와 제주도 같은 방문할 만한 아름다운 곳이 많아.",
+      "lang": "ko"
     },
     {
       "type": "choice",

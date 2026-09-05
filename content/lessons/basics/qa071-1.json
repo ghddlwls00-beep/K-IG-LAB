@@ -31,18 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "75",
-          "text": "방과 후에, / 난 / 피아노 레슨을 받고 / 영어 학원에도 / 가."
+          "n": "Q",
+          "text": "What kind of academy do you go to?"
         },
         {
-          "n": "76",
-          "text": "나의 친구 몇몇은 / 내가 다니는 것보다 / 더 많은 학원에 / 다녀."
-        },
-        {
-          "n": "77",
-          "text": "그들은 / 매우 바빠."
+          "n": "A",
+          "text": "After school, I take piano lessons and go to an English academy. Some of my friends go to more academies than I do. They are very busy."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신은 어떤 종류의 학원에 다닙니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 방과 후에, 난 피아노 레슨을 받고 영어 학원에도 가. 나의 친구 몇몇은 내가 다니는 것보다 더 많은 학원에 다녀. 그들은 매우 바빠.",
+      "lang": "ko"
     },
     {
       "type": "choice",

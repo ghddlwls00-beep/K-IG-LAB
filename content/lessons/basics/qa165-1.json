@@ -31,14 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "212",
-          "text": "내가 최선을 다한다면, / 난 / 내 꿈이 이뤄질 거라고 / 확신해."
+          "n": "Q",
+          "text": "Do you think your dream will come true?"
         },
         {
-          "n": "213",
-          "text": "난 / 정말 / 훌륭한 통역관이 / 되고 싶어."
+          "n": "A",
+          "text": "If I do my best, I am sure my dream will come true. I really want to be a top-notch interpreter."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신의 꿈이 이루어질 것이리고 생각합니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 내가 최선을 다한다면, 난 내 꿈이 이뤄질 거라고 확신해. 난 정말 훌륭한 통역관이 되고 싶어.",
+      "lang": "ko"
     },
     {
       "type": "choice",

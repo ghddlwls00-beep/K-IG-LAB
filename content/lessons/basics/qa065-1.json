@@ -31,10 +31,24 @@
       "type": "sentences",
       "items": [
         {
-          "n": "72",
-          "text": "나의 선생님은 / 가르칠 때 / 머리카락을 / 만지는 습관이 / / 있어."
+          "n": "Q",
+          "text": "What is your teacher's habit?"
+        },
+        {
+          "n": "A",
+          "text": "My teacher has a habit of touching her hair when she teaches."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "질문: 당신 선생님의 습관은 무엇입니까 ?",
+      "lang": "ko"
+    },
+    {
+      "type": "paragraph",
+      "text": "답변: 나의 선생님은 가르칠 때 머리카락을 만지는 습관이 있어.",
+      "lang": "ko"
     },
     {
       "type": "choice",
