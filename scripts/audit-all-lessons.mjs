@@ -307,35 +307,9 @@ function buildPairedSentences(blocks, pairBlocks, course, isScript, audioTracks 
     if (result.length > 0) return result;
   }
 
-  // 4. Reading
+  // 4. Reading Passages - handled by dedicated ReadingLearningView
   if (course === 'reading') {
-    const mainText = blocks
-      .filter((b) => b.type === 'instruction')
-      .map((b) => b.text)
-      .join(' ');
-    const pairText = pairBlocks
-      ? pairBlocks
-          .filter((b) => b.type === 'instruction')
-          .map((b) => b.text)
-          .join(' ')
-      : '';
-
-    if (mainText || pairText) {
-      const mainIsEn = isEnglishText(mainText);
-      const enText = mainIsEn ? mainText : pairText;
-      const koText = mainIsEn ? pairText : mainText;
-
-      const pairs = alignSentences(splitSentences(enText), splitSentences(koText));
-      pairs.forEach((p, idx) => {
-        result.push({
-          index: idx + 1,
-          numberLabel: String(idx + 1),
-          targetText: cleanSentenceText(p.en),
-          translationText: p.ko.trim(),
-        });
-      });
-      return result;
-    }
+    return result;
   }
 
   // 5. Listening & Dictation (ld) - handled by dedicated LdLearningView
@@ -519,6 +493,14 @@ for (const course of courses) {
         if (!lesson.audio || lesson.audio.length === 0) {
           courseReport.zeroPairs.push(id);
         }
+      }
+      continue;
+    }
+
+    if (course === 'reading') {
+      const hasPassage = lesson.blocks.some((b) => b.type === 'instruction' && b.text && b.text.trim().length > 20);
+      if (!hasPassage) {
+        courseReport.zeroPairs.push(id);
       }
       continue;
     }

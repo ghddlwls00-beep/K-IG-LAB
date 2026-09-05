@@ -5,6 +5,7 @@ import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
 import { LdLearningView } from "./LdLearningView";
+import { ReadingLearningView } from "./ReadingLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
 
 export interface PairedSentence {
@@ -51,6 +52,19 @@ export function LessonBody({
   if (course === "ld") {
     return (
       <LdLearningView
+        blocks={blocks}
+        pairBlocks={pairBlocks}
+        lessonKey={lessonKey}
+        isScript={isScript}
+        audioTracks={audioTracks}
+      />
+    );
+  }
+
+  // Dedicated authentic reading comprehension system for Reading course
+  if (course === "reading") {
+    return (
+      <ReadingLearningView
         blocks={blocks}
         pairBlocks={pairBlocks}
         lessonKey={lessonKey}
@@ -649,36 +663,10 @@ function buildPairedSentences(
   }
 
   // -------------------------------------------------------------------------
-  // 4. Reading Passages (reading pr001 <-> pr001-1)
+  // 4. Reading Passages - handled by dedicated ReadingLearningView
   // -------------------------------------------------------------------------
   if (course === "reading") {
-    const mainText = blocks
-      .filter((b) => b.type === "instruction")
-      .map((b) => (b as { type: "instruction"; text: string }).text)
-      .join(" ");
-    const pairText = pairBlocks
-      ? pairBlocks
-          .filter((b) => b.type === "instruction")
-          .map((b) => (b as { type: "instruction"; text: string }).text)
-          .join(" ")
-      : "";
-
-    if (mainText || pairText) {
-      const mainIsEn = isEnglishText(mainText);
-      const enText = mainIsEn ? mainText : pairText;
-      const koText = mainIsEn ? pairText : mainText;
-
-      const pairs = alignSentences(splitSentences(enText), splitSentences(koText));
-      pairs.forEach((p, idx) => {
-        result.push({
-          index: idx + 1,
-          numberLabel: String(idx + 1),
-          targetText: cleanSentenceText(p.en),
-          translationText: p.ko.trim(),
-        });
-      });
-      return result;
-    }
+    return result;
   }
 
   // -------------------------------------------------------------------------
