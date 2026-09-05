@@ -136,7 +136,7 @@ export function ReadingLearningView({
                 : "text-ink-soft hover:bg-raised hover:text-ink")
             }
           >
-            Step 1 · 📖 원어민 호흡 속독 (Flow)
+            Step 1 · 📖 180 WPM 속독 완독 (Flow)
           </button>
 
           <button
@@ -149,7 +149,7 @@ export function ReadingLearningView({
                 : "text-ink-soft hover:bg-raised hover:text-ink")
             }
           >
-            Step 2 · ⚖️ 좌우 구문 대조 (Dual)
+            Step 2 · ⚖️ 맥킨지식 직독직해 대조 (Dual)
           </button>
 
           <button

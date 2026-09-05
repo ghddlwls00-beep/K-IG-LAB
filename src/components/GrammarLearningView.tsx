@@ -465,7 +465,7 @@ export function GrammarLearningView({
               }
             >
               <span>✍️</span>
-              <span>Step 1 · 순발력 자가 영작</span>
+              <span>Step 1 · FSI 통사 영작 훈련</span>
             </button>
 
             <button
@@ -479,7 +479,7 @@ export function GrammarLearningView({
               }
             >
               <span>🧩</span>
-              <span>Step 2 · 문법 어순 대조</span>
+              <span>Step 2 · 캠브리지 뉘앙스 대조</span>
             </button>
 
             <button
@@ -493,7 +493,7 @@ export function GrammarLearningView({
               }
             >
               <span>⚖️</span>
-              <span>Step 3 · 소리 결합 섀도잉</span>
+              <span>Step 3 · 음성 구문 각인</span>
             </button>
 
             <button
@@ -507,7 +507,7 @@ export function GrammarLearningView({
               }
             >
               <span>📝</span>
-              <span>Step 4 · 실전 모의 시험</span>
+              <span>Step 4 · 종합 평가 시험</span>
             </button>
           </div>
 
