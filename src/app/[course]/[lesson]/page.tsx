@@ -41,8 +41,14 @@ export default async function LessonPage({
   const isScript = lesson.variant === "script";
 
   // For Grammar 1, odd-numbered answer pages (gh1-007, gh1-009, etc.) are consolidated into their primary unified lesson (gh1-006, gh1-008, etc.)
-  if (course === "grammar1" && isScript && pairLesson) {
-    redirect(`/${course}/${pairLesson.id}`);
+  if (course === "grammar1") {
+    const m = id.match(/^gh1-(\d+)/);
+    if (m) {
+      const num = parseInt(m[1], 10);
+      if (num % 2 !== 0 && pairLesson) {
+        redirect(`/${course}/${pairLesson.id}`);
+      }
+    }
   }
   const ldEnglishScript = course === "ld" ? getLdEnglishScript(id) : null;
   const menTranslations = ["man", "adults-m", "adults-w", "woman"].includes(course)
