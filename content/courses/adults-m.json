@@ -2,7 +2,233 @@
   "course": "adults-m",
   "tab": "men",
   "lessonCount": 105,
-  "groups": [],
+  "groups": [
+    {
+      "label": "Principle 01. 자기소개 (Self-Introduction)",
+      "title": "Principle 01. 자기소개 (Self-Introduction)",
+      "lessons": [
+        "am01",
+        "am011",
+        "am012",
+        "am013",
+        "am014",
+        "am015",
+        "am016"
+      ]
+    },
+    {
+      "label": "Principle 02. 가족 소개 (Introducing My Family)",
+      "title": "Principle 02. 가족 소개 (Introducing My Family)",
+      "lessons": [
+        "am02",
+        "am021",
+        "am022",
+        "am023",
+        "am024",
+        "am025"
+      ]
+    },
+    {
+      "label": "Principle 03. 절친한 친구 소개 (Introducing My Best Friend)",
+      "title": "Principle 03. 절친한 친구 소개 (Introducing My Best Friend)",
+      "lessons": [
+        "am03",
+        "am031",
+        "am032",
+        "am033",
+        "am034",
+        "am035",
+        "am036"
+      ]
+    },
+    {
+      "label": "Principle 04. 친척 소개 (Introducing My Relatives)",
+      "title": "Principle 04. 친척 소개 (Introducing My Relatives)",
+      "lessons": [
+        "am04",
+        "am04a",
+        "am041",
+        "am041a",
+        "am042",
+        "am042a",
+        "am043",
+        "am043a"
+      ]
+    },
+    {
+      "label": "Principle 05. 나의 하루 일과 (A Typical Day)",
+      "title": "Principle 05. 나의 하루 일과 (A Typical Day)",
+      "lessons": [
+        "am05",
+        "am051",
+        "am052",
+        "am053",
+        "am054"
+      ]
+    },
+    {
+      "label": "Principle 06. 나의 주말 활동 (My Weekend)",
+      "title": "Principle 06. 나의 주말 활동 (My Weekend)",
+      "lessons": [
+        "am06",
+        "am061",
+        "am062",
+        "am063",
+        "am064"
+      ]
+    },
+    {
+      "label": "Principle 07. 나의 직업 및 업무 (My Job)",
+      "title": "Principle 07. 나의 직업 및 업무 (My Job)",
+      "lessons": [
+        "am07",
+        "am071",
+        "am072",
+        "am073"
+      ]
+    },
+    {
+      "label": "Principle 08. 여가 생활 및 취미 (My Leisure Time)",
+      "title": "Principle 08. 여가 생활 및 취미 (My Leisure Time)",
+      "lessons": [
+        "am08",
+        "am081",
+        "am082",
+        "am083"
+      ]
+    },
+    {
+      "label": "Principle 09. 나의 고향과 어린 시절 (My Hometown)",
+      "title": "Principle 09. 나의 고향과 어린 시절 (My Hometown)",
+      "lessons": [
+        "am09",
+        "am091",
+        "am092",
+        "am093"
+      ]
+    },
+    {
+      "label": "Principle 10. 학창시절 및 군 복무 (My School Days & Military Service)",
+      "title": "Principle 10. 학창시절 및 군 복무 (My School Days & Military Service)",
+      "lessons": [
+        "am10",
+        "am101",
+        "am102",
+        "am103",
+        "am104",
+        "am105"
+      ]
+    },
+    {
+      "label": "Principle 11. 싱글 라이프 vs 결혼 생활 (Single Life vs. Married Life)",
+      "title": "Principle 11. 싱글 라이프 vs 결혼 생활 (Single Life vs. Married Life)",
+      "lessons": [
+        "am11",
+        "am111",
+        "am112",
+        "am113"
+      ]
+    },
+    {
+      "label": "Principle 12. 결혼 생활과 가정 (Married Life & Family)",
+      "title": "Principle 12. 결혼 생활과 가정 (Married Life & Family)",
+      "lessons": [
+        "am12",
+        "am121",
+        "am122",
+        "am123",
+        "am124"
+      ]
+    },
+    {
+      "label": "Principle 13. 한국의 정치와 사회 (Politics in Korea)",
+      "title": "Principle 13. 한국의 정치와 사회 (Politics in Korea)",
+      "lessons": [
+        "am13",
+        "am131",
+        "am132",
+        "am133",
+        "am134"
+      ]
+    },
+    {
+      "label": "Principle 14. 한국의 교육 제도 (The Korean Education System)",
+      "title": "Principle 14. 한국의 교육 제도 (The Korean Education System)",
+      "lessons": [
+        "am14",
+        "am141",
+        "am142",
+        "am143"
+      ]
+    },
+    {
+      "label": "Principle 15. 한국의 경제 발전 (The Korean Economy)",
+      "title": "Principle 15. 한국의 경제 발전 (The Korean Economy)",
+      "lessons": [
+        "am15",
+        "am151",
+        "am152",
+        "am153",
+        "am154"
+      ]
+    },
+    {
+      "label": "Principle 16. 한국의 대중문화와 스포츠 (Korean Culture & Sports)",
+      "title": "Principle 16. 한국의 대중문화와 스포츠 (Korean Culture & Sports)",
+      "lessons": [
+        "am16",
+        "am161",
+        "am162",
+        "am163",
+        "am164",
+        "am165"
+      ]
+    },
+    {
+      "label": "Principle 17. 한국의 역사 (The History of Korea)",
+      "title": "Principle 17. 한국의 역사 (The History of Korea)",
+      "lessons": [
+        "am17",
+        "am171",
+        "am172",
+        "am173",
+        "am174"
+      ]
+    },
+    {
+      "label": "Principle 18. 한국의 명절과 전통 (Korean Holidays & Traditions)",
+      "title": "Principle 18. 한국의 명절과 전통 (Korean Holidays & Traditions)",
+      "lessons": [
+        "am18",
+        "am181",
+        "am182",
+        "am183"
+      ]
+    },
+    {
+      "label": "Principle 19. 한국의 전통문화 (Korean Culture & Heritage)",
+      "title": "Principle 19. 한국의 전통문화 (Korean Culture & Heritage)",
+      "lessons": [
+        "am19",
+        "am191",
+        "am192",
+        "am193",
+        "am194"
+      ]
+    },
+    {
+      "label": "Principle 20. 한국의 대표 명소 (Famous Places in Korea)",
+      "title": "Principle 20. 한국의 대표 명소 (Famous Places in Korea)",
+      "lessons": [
+        "am20",
+        "am201",
+        "am202",
+        "am203",
+        "am204",
+        "am205"
+      ]
+    }
+  ],
   "lessons": [
     {
       "id": "am01",

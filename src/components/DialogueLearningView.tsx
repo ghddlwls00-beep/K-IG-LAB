@@ -25,6 +25,7 @@ export interface DialogueLearningViewProps {
   isScript: boolean;
   voiceGender?: VoiceGender;
   audioTracks?: { src: string; label?: string }[];
+  menTranslations?: Record<string, string> | null;
 }
 
 function isEnglish(text: string): boolean {
@@ -131,6 +132,7 @@ export function DialogueLearningView({
   isScript,
   voiceGender = "neutral",
   audioTracks = [],
+  menTranslations = null,
 }: DialogueLearningViewProps) {
   // Determine if this is a Male or Female course
   const isMale =
@@ -146,6 +148,9 @@ export function DialogueLearningView({
 
   // Extract Dialogue Sentences
   const items = useMemo<DialogueItem[]>(() => {
+    const normAlphaOnly = (t: string) => t.toLowerCase().replace(/[^a-z]/g, "");
+    const normAlphanumeric = (t: string) => t.toLowerCase().replace(/[^a-z0-9]/g, "");
+
     // 1. Sentences block
     const sents = blocks
       .filter((b) => b.type === "sentences")
@@ -153,6 +158,7 @@ export function DialogueLearningView({
     if (sents.length > 0) {
       return sents.map((s, idx) => {
         const en = cleanText(s.text);
+        const ko = menTranslations?.[normAlphanumeric(en)] || "";
         const { parts, keyPhrase } = buildConversationCloze(en);
         const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
         return {
@@ -160,7 +166,7 @@ export function DialogueLearningView({
           numberLabel: s.n || String(idx + 1),
           speaker: speakerName,
           englishText: en,
-          koreanText: "",
+          koreanText: ko,
           clozeParts: parts,
           keyPhrase,
           audioSrc: clipTrack?.src,
@@ -169,13 +175,16 @@ export function DialogueLearningView({
     }
 
     // 2. Paragraphs (man, woman dialogue courses)
-    const paras = blocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
+    // Slice at the first heading block to eliminate trailing Flash navigation menus
+    const firstHeadingIdx = blocks.findIndex((b) => b.type === "heading");
+    const candidateBlocks = firstHeadingIdx !== -1 ? blocks.slice(0, firstHeadingIdx) : blocks;
+    const paras = candidateBlocks.filter((b) => b.type === "paragraph") as { type: "paragraph"; text: string; lang?: string }[];
     const cleanParas: { text: string; isEn: boolean }[] = [];
 
     for (const p of paras) {
       const t = (p.text || "").trim();
       if (!t || t.includes("K-IG") || t.includes("<font") || t.includes("한/영") || /^Chapter\s+\d/i.test(t)) continue;
-      if (/\s*:\s*$/.test(t) || /^\d+\s+[A-Za-z]/.test(t)) continue;
+      if (/\s*:\s*$/.test(t) || /^\d+\s+[A-Za-z]/.test(t) || /^Principle/i.test(t)) continue;
       if (
         t.toLowerCase().includes("self-introduction") ||
         t.toLowerCase().includes("educational background") ||
@@ -186,64 +195,66 @@ export function DialogueLearningView({
       cleanParas.push({ text: cleanText(t), isEn: isEnglish(t) });
     }
 
-    // Alternating matching
-    const altPairs: { en: string; ko: string }[] = [];
-    let i = 0;
-    while (i < cleanParas.length - 1) {
-      const curr = cleanParas[i];
-      const next = cleanParas[i + 1];
-      if (curr.isEn !== next.isEn) {
-        altPairs.push({
-          en: curr.isEn ? curr.text : next.text,
-          ko: curr.isEn ? next.text : curr.text,
+    if (cleanParas.length > 0) {
+      const pairs: { en: string; ko: string }[] = [];
+      let pendingKo: string | null = null;
+      let pendingEn: string | null = null;
+
+      for (const p of cleanParas) {
+        if (p.isEn) {
+          if (pendingKo) {
+            pairs.push({ en: p.text, ko: pendingKo });
+            pendingKo = null;
+          } else {
+            // Check if this EN is a duplicate slide sentence (e.g. trailing number like '...hiking.6' or '...nap, 5')
+            const isDup = pairs.some((pr) => normAlphaOnly(pr.en) === normAlphaOnly(p.text));
+            if (!isDup) {
+              if (pendingEn) {
+                const tr = menTranslations?.[normAlphanumeric(pendingEn)] || "";
+                pairs.push({ en: pendingEn, ko: tr });
+              }
+              pendingEn = p.text;
+            }
+          }
+        } else {
+          if (pendingEn) {
+            pairs.push({ en: pendingEn, ko: p.text });
+            pendingEn = null;
+          } else {
+            pendingKo = p.text;
+          }
+        }
+      }
+
+      if (pendingEn) {
+        const isDup = pairs.some((pr) => normAlphaOnly(pr.en) === normAlphaOnly(pendingEn));
+        if (!isDup) {
+          const tr = menTranslations?.[normAlphanumeric(pendingEn)] || "";
+          pairs.push({ en: pendingEn, ko: tr });
+        }
+      }
+
+      if (pairs.length > 0) {
+        return pairs.map((pair, idx) => {
+          let ko = pair.ko;
+          if (!ko && pair.en && menTranslations) {
+            ko = menTranslations[normAlphanumeric(pair.en)] || "";
+          }
+          const { parts, keyPhrase } = buildConversationCloze(pair.en);
+          const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
+          return {
+            id: idx + 1,
+            numberLabel: String(idx + 1),
+            speaker: speakerName,
+            englishText: pair.en,
+            koreanText: ko,
+            clozeParts: parts,
+            keyPhrase,
+            audioSrc: clipTrack?.src,
+          };
         });
-        i += 2;
-      } else {
-        break;
       }
     }
-
-    if (altPairs.length > 0 && i >= cleanParas.length - 2) {
-      return altPairs.map((pair, idx) => {
-        const { parts, keyPhrase } = buildConversationCloze(pair.en);
-        const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
-        return {
-          id: idx + 1,
-          numberLabel: String(idx + 1),
-          speaker: speakerName,
-          englishText: pair.en,
-          koreanText: pair.ko,
-          clozeParts: parts,
-          keyPhrase,
-          audioSrc: clipTrack?.src,
-        };
-      });
-    }
-
-    // Group matching
-    const enList = cleanParas.filter((p) => p.isEn);
-    const koList = cleanParas.filter((p) => !p.isEn);
-    const len = Math.max(enList.length, koList.length);
-    const result: DialogueItem[] = [];
-
-    for (let j = 0; j < len; j++) {
-      const en = enList[j]?.text || "";
-      const ko = koList[j]?.text || "";
-      const { parts, keyPhrase } = buildConversationCloze(en);
-      const clipTrack = audioTracks[j + 1] || audioTracks[j];
-      result.push({
-        id: j + 1,
-        numberLabel: String(j + 1),
-        speaker: speakerName,
-        englishText: en,
-        koreanText: ko,
-        clozeParts: parts,
-        keyPhrase,
-        audioSrc: clipTrack?.src,
-      });
-    }
-
-    if (result.length > 0) return result;
 
     // 3. Fallback for instructions/hints (adults-m/adults-w)
     const instrs = blocks.filter((b) => b.type === "instruction" || b.type === "hints") as { type: "instruction" | "hints"; text: string }[];
@@ -251,23 +262,31 @@ export function DialogueLearningView({
       .map((b) => cleanText(b.text))
       .filter((t) => t && !t.includes("Principle") && !t.includes("Chapter") && !t.includes("K-IG"));
 
-    return validInstrs.map((t, idx) => {
-      const en = isEnglish(t) ? t : "";
-      const ko = isEnglish(t) ? "" : t;
-      const { parts, keyPhrase } = buildConversationCloze(en || t);
-      const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
-      return {
-        id: idx + 1,
-        numberLabel: String(idx + 1),
-        speaker: speakerName,
-        englishText: en || t,
-        koreanText: ko,
-        clozeParts: parts,
-        keyPhrase,
-        audioSrc: clipTrack?.src,
-      };
-    });
-  }, [blocks, course, speakerName, audioTracks]);
+    if (validInstrs.length > 0) {
+      return validInstrs.map((t, idx) => {
+        const isEn = isEnglish(t);
+        const en = isEn ? t : "";
+        let ko = isEn ? "" : t;
+        if (!ko && en && menTranslations) {
+          ko = menTranslations[normAlphanumeric(en)] || "";
+        }
+        const { parts, keyPhrase } = buildConversationCloze(en || t);
+        const clipTrack = audioTracks[idx + 1] || audioTracks[idx];
+        return {
+          id: idx + 1,
+          numberLabel: String(idx + 1),
+          speaker: speakerName,
+          englishText: en || t,
+          koreanText: ko,
+          clozeParts: parts,
+          keyPhrase,
+          audioSrc: clipTrack?.src,
+        };
+      });
+    }
+
+    return [];
+  }, [blocks, course, speakerName, audioTracks, menTranslations]);
 
 
 
@@ -465,6 +484,178 @@ export function DialogueLearningView({
       input: "text-[18px]",
     },
   }[fontSize];
+
+  if (items.length === 0) {
+    const chapterMap: Record<
+      string,
+      {
+        chapterNum: string;
+        titleKo: string;
+        titleEn: string;
+        desc: string;
+        subLessons: { id: string; title: string; subtitle: string }[];
+      }
+    > = {
+      m1: {
+        chapterNum: "Chapter 01",
+        titleKo: "자기소개 (Self-Introduction)",
+        titleEn: "Meeting People & Introducing Yourself",
+        desc: "첫 만남의 인사부터 이름, 나이, 출신지, 학력, 취미까지 본인을 소개하는 필수 영어 표현을 체계적으로 훈련합니다.",
+        subLessons: [
+          { id: "m1-1", title: "m1-1: 첫 만남 인사 & 이름 소개", subtitle: "Greeting and Introduction" },
+          { id: "m1-2", title: "m1-2: 나이 및 거주지 소개", subtitle: "Age & Place of Living" },
+          { id: "m1-3", title: "m1-3: 학력 및 출신 학교", subtitle: "Educational Background" },
+          { id: "m1-4", title: "m1-4: 가족 구성원 소개", subtitle: "Family Members" },
+          { id: "m1-5", title: "m1-5: 취미 및 관심사", subtitle: "Hobbies & Pastimes" },
+          { id: "m1-6", title: "m1-6: 직업 및 장래 희망", subtitle: "Occupation & Future Dreams" },
+        ],
+      },
+      m2: {
+        chapterNum: "Chapter 02",
+        titleKo: "가족 소개 (Introducing My Family)",
+        titleEn: "Describing Family & Life Stories",
+        desc: "아버지, 어머니, 형제자매, 배우자, 자녀까지 소중한 가족들의 직업과 성격, 따뜻한 일화를 생생하게 표현합니다.",
+        subLessons: [
+          { id: "m2-1", title: "m2-1: 가족의 전반적 소개", subtitle: "Family Overview & Members" },
+          { id: "m2-2", title: "m2-2: 아버지의 직업 및 성품", subtitle: "Father's Profession & Personality" },
+          { id: "m2-3", title: "m2-3: 어머니와의 특별한 유대", subtitle: "Mother & Family Warmth" },
+          { id: "m2-4", title: "m2-4: 형제·자매와의 일화", subtitle: "Brothers, Sisters & Childhood" },
+          { id: "m2-5", title: "m2-5: 배우자와의 만남과 결혼", subtitle: "Meeting My Spouse & Marriage" },
+          { id: "m2-6", title: "m2-6: 자녀와 가족의 미래", subtitle: "Children & Family Happiness" },
+        ],
+      },
+      m3: {
+        chapterNum: "Chapter 03",
+        titleKo: "절친한 친구 소개 (Introducing My Best Friend)",
+        titleEn: "Friendship & Shared Memories",
+        desc: "오랜 우정을 쌓아온 베스트 프렌드의 장점, 처음 만난 순간, 함께 즐기는 취미와 소중한 추억을 영어로 표현합니다.",
+        subLessons: [
+          { id: "m3-1", title: "m3-1: 가장 친한 친구 소개", subtitle: "My Best Friend" },
+          { id: "m3-2", title: "m3-2: 친구를 처음 만난 순간", subtitle: "How We First Met" },
+          { id: "m3-3", title: "m3-3: 친구의 뛰어난 재능", subtitle: "Talents & Personal Strengths" },
+          { id: "m3-4", title: "m3-4: 함께 즐기는 공통 취미", subtitle: "Shared Hobbies & Activities" },
+          { id: "m3-5", title: "m3-5: 인생에서 배운 우정의 가치", subtitle: "Life Lessons & Trust" },
+          { id: "m3-6", title: "m3-6: 영원한 우정의 약속", subtitle: "Lasting Friendship" },
+        ],
+      },
+      m4: {
+        chapterNum: "Chapter 04",
+        titleKo: "친척 소개 (Introducing My Relatives)",
+        titleEn: "Extended Family & Relatives",
+        desc: "친가 및 외가의 조부모님, 삼촌, 고모, 이모, 사촌들과의 따뜻한 관계와 명절 가족 모임의 정겨운 이야기를 다룹니다.",
+        subLessons: [
+          { id: "m4a-1", title: "m4a-1: 친가 조부모님과의 추억", subtitle: "Paternal Grandparents" },
+          { id: "m4a-2", title: "m4a-2: 친척 삼촌·고모 소개", subtitle: "Paternal Relatives & Uncles" },
+          { id: "m4a-3", title: "m4a-3: 사촌들과의 어린 시절", subtitle: "Cousins & Family Ties" },
+          { id: "m4a-4", title: "m4a-4: 온 가족 명절 모임", subtitle: "Holiday Gatherings" },
+          { id: "m4a-5", title: "m4a-5: 집안의 가풍과 전통", subtitle: "Family Values & Traditions" },
+          { id: "m4b-1", title: "m4b-1: 외가 조부모님과의 정겨운 시간", subtitle: "Maternal Grandparents" },
+          { id: "m4b-2", title: "m4b-2: 외가 친척들과의 소통", subtitle: "Maternal Aunts & Uncles" },
+          { id: "m4b-3", title: "m4b-3: 외가 사촌들과의 여행", subtitle: "Trips & Get-togethers" },
+          { id: "m4b-4", title: "m4b-4: 친척들의 든든한 응원", subtitle: "Support Across Generations" },
+          { id: "m4b-5", title: "m4b-5: 대가족의 끈끈한 사랑", subtitle: "Love Across Extended Family" },
+        ],
+      },
+      m5: {
+        chapterNum: "Chapter 05",
+        titleKo: "나의 하루 일과 (A Typical Day)",
+        titleEn: "Daily Routine & Workplace Life",
+        desc: "아침 기상부터 출근, 오전 업무, 점심시간 대화, 오후 프로젝트 수행, 퇴근 및 저녁 휴식까지 하루 일과를 마스터합니다.",
+        subLessons: [
+          { id: "m5-1", title: "m5-1: 아침 기상과 출근 준비", subtitle: "Waking Up & Morning Commute" },
+          { id: "m5-2", title: "m5-2: 오전 업무와 주간 회의", subtitle: "Morning Work & Office Meetings" },
+          { id: "m5-3", title: "m5-3: 점심시간과 동료 대화", subtitle: "Lunchtime & Team Conversations" },
+          { id: "m5-4", title: "m5-4: 오후 업무 집중 및 보고", subtitle: "Afternoon Focus & Reports" },
+          { id: "m5-5", title: "m5-5: 퇴근길과 저녁 식사", subtitle: "Evening Wrap-up & Dinner" },
+          { id: "m5-6", title: "m5-6: 자기계발과 취미 시간", subtitle: "Exercise & Evening Leisure" },
+          { id: "m5-7", title: "m5-7: 취침 준비와 내일 계획", subtitle: "Bedtime & Planning Ahead" },
+        ],
+      },
+    };
+
+    const info = chapterMap[lessonKey];
+
+    if (info) {
+      return (
+        <div className="flex flex-col gap-6">
+          <div className="rounded-3xl border border-primary/20 bg-gradient-to-br from-primary/5 via-surface to-raised/60 p-8 shadow-sm">
+            <div className="flex flex-wrap items-center justify-between gap-4 border-b border-line pb-5">
+              <div className="flex items-center gap-3">
+                <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary text-white text-2xl shadow-sm">
+                  📚
+                </span>
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="rounded-full bg-primary/10 px-2.5 py-0.5 text-[11px] font-bold text-primary tracking-wide">
+                      {info.chapterNum} CHAPTER OVERVIEW
+                    </span>
+                    <span className="text-[12px] text-ink-faint">총 {info.subLessons.length}개 세부 레슨</span>
+                  </div>
+                  <h1 className="text-2xl font-bold text-ink mt-1">{info.titleKo}</h1>
+                  <p className="text-[14px] text-ink-soft">{info.titleEn}</p>
+                </div>
+              </div>
+
+              <Link
+                href={`/${course}/${info.subLessons[0].id}`}
+                className="inline-flex items-center gap-2 rounded-xl bg-primary px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary/90 transition-all cursor-pointer"
+              >
+                <span>🚀 1강 바로 시작하기</span>
+                <span>→</span>
+              </Link>
+            </div>
+
+            <p className="mt-4 text-[14.5px] leading-relaxed text-ink-soft">
+              {info.desc}
+            </p>
+          </div>
+
+          <div className="flex flex-col gap-3">
+            <h2 className="text-[16px] font-bold text-ink flex items-center gap-2">
+              <span>📖</span>
+              <span>챕터 세부 실전 회화 레슨 목록 (Sub-lessons)</span>
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {info.subLessons.map((sub, idx) => (
+                <Link
+                  key={sub.id}
+                  href={`/${course}/${sub.id}`}
+                  className="group flex items-center justify-between rounded-2xl border border-line bg-surface p-4 transition-all hover:border-primary/50 hover:bg-primary/5 hover:shadow-xs cursor-pointer"
+                >
+                  <div className="flex items-center gap-3">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-xl bg-raised text-[13px] font-bold text-ink-soft group-hover:bg-primary group-hover:text-white transition-colors">
+                      {idx + 1}
+                    </span>
+                    <div>
+                      <h3 className="font-bold text-ink text-[14.5px] group-hover:text-primary transition-colors">
+                        {sub.title}
+                      </h3>
+                      <p className="text-[12px] text-ink-faint">{sub.subtitle}</p>
+                    </div>
+                  </div>
+                  <span className="text-ink-faint group-hover:text-primary group-hover:translate-x-1 transition-all">
+                    →
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    return (
+      <div className="rounded-2xl border border-line bg-surface p-8 text-center">
+        <p className="text-ink-soft">이 레슨에는 직접 발화할 대화 문장이 포함되어 있지 않습니다.</p>
+        <Link
+          href={`/${course}`}
+          className="mt-4 inline-block rounded-xl bg-primary px-4 py-2 text-sm font-semibold text-white"
+        >
+          코스 전체 목록으로 돌아가기
+        </Link>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col gap-8">

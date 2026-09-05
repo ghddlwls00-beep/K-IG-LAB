@@ -2,7 +2,334 @@
   "course": "middle",
   "tab": "men",
   "lessonCount": 230,
-  "groups": [],
+  "groups": [
+    {
+      "label": "Principle 01과 자기소개 (Self-introduction)",
+      "title": "Principle 01과 자기소개 (Self-introduction)",
+      "lessons": [
+        "p01",
+        "p01-1",
+        "p011",
+        "p011-1",
+        "p012",
+        "p012-1",
+        "p013",
+        "p013-1",
+        "p014",
+        "p014-1",
+        "p015",
+        "p015-1",
+        "p016",
+        "p016-1",
+        "p017",
+        "p017-1"
+      ]
+    },
+    {
+      "label": "Principle 02과 가족 소개 (My Family)",
+      "title": "Principle 02과 가족 소개 (My Family)",
+      "lessons": [
+        "p02",
+        "p02-1",
+        "p021",
+        "p021-1",
+        "p022",
+        "p022-1",
+        "p023",
+        "p023-1",
+        "p024",
+        "p024-1",
+        "p025",
+        "p025-1",
+        "p026",
+        "p026-1"
+      ]
+    },
+    {
+      "label": "Principle 03과 친구 소개 (My Friends)",
+      "title": "Principle 03과 친구 소개 (My Friends)",
+      "lessons": [
+        "p03",
+        "p03-1",
+        "p031",
+        "p031-1",
+        "p032",
+        "p032-1",
+        "p033",
+        "p033-1",
+        "p034",
+        "p034-1"
+      ]
+    },
+    {
+      "label": "Principle 04과 친척들 (My Relatives)",
+      "title": "Principle 04과 친척들 (My Relatives)",
+      "lessons": [
+        "p04",
+        "p04-1",
+        "p041",
+        "p041-1",
+        "p042",
+        "p042-1",
+        "p043",
+        "p043-1",
+        "p044",
+        "p044-1",
+        "p045",
+        "p045-1",
+        "p046",
+        "p046-1"
+      ]
+    },
+    {
+      "label": "Principle 05과 학교 갈 준비 / 학교에서 (At School)",
+      "title": "Principle 05과 학교 갈 준비 / 학교에서 (At School)",
+      "lessons": [
+        "p05",
+        "p05-1",
+        "p051",
+        "p051-1",
+        "p052",
+        "p052-1",
+        "p053",
+        "p053-1",
+        "p054",
+        "p054-1",
+        "p055",
+        "p055-1"
+      ]
+    },
+    {
+      "label": "Principle 06과 나의 학교 선생님 (My School Teacher)",
+      "title": "Principle 06과 나의 학교 선생님 (My School Teacher)",
+      "lessons": [
+        "p06",
+        "p06-1",
+        "p061",
+        "p061-1",
+        "p062",
+        "p062-1",
+        "p063",
+        "p063-1",
+        "p064",
+        "p064-1"
+      ]
+    },
+    {
+      "label": "Principle 07과 학원 생활 (At the Academy)",
+      "title": "Principle 07과 학원 생활 (At the Academy)",
+      "lessons": [
+        "p07",
+        "p07-1",
+        "p071",
+        "p071-1",
+        "p072",
+        "p072-1",
+        "p073",
+        "p073-1"
+      ]
+    },
+    {
+      "label": "Principle 08과 방과 후 / 집에서 (After School)",
+      "title": "Principle 08과 방과 후 / 집에서 (After School)",
+      "lessons": [
+        "p08",
+        "p08-1",
+        "p081",
+        "p081-1",
+        "p082",
+        "p082-1",
+        "p083",
+        "p083-1",
+        "p084",
+        "p084-1"
+      ]
+    },
+    {
+      "label": "Principle 09과 매일의 일과 (Daily Routine)",
+      "title": "Principle 09과 매일의 일과 (Daily Routine)",
+      "lessons": [
+        "p09",
+        "p09-1",
+        "p091",
+        "p091-1",
+        "p092",
+        "p092-1",
+        "p093",
+        "p093-1"
+      ]
+    },
+    {
+      "label": "Principle 10과 주중의 활동 (Weekday Activities)",
+      "title": "Principle 10과 주중의 활동 (Weekday Activities)",
+      "lessons": [
+        "p10",
+        "p10-1",
+        "p101",
+        "p101-1",
+        "p102",
+        "p102-1",
+        "p103",
+        "p103-1",
+        "p104",
+        "p104-1",
+        "p105",
+        "p105-1"
+      ]
+    },
+    {
+      "label": "Principle 11과 주말의 활동 (Weekend Activities)",
+      "title": "Principle 11과 주말의 활동 (Weekend Activities)",
+      "lessons": [
+        "p11",
+        "p11-1",
+        "p111",
+        "p111-1",
+        "p112",
+        "p112-1",
+        "p113",
+        "p113-1",
+        "p114",
+        "p114-1"
+      ]
+    },
+    {
+      "label": "Principle 12과 방학 생활 (School Vacation)",
+      "title": "Principle 12과 방학 생활 (School Vacation)",
+      "lessons": [
+        "p12",
+        "p12-1",
+        "p121",
+        "p121-1",
+        "p122",
+        "p122-1",
+        "p123",
+        "p123-1",
+        "p124",
+        "p124-1"
+      ]
+    },
+    {
+      "label": "Principle 13과 존경하는 인물 (Role Models I)",
+      "title": "Principle 13과 존경하는 인물 (Role Models I)",
+      "lessons": [
+        "p13",
+        "p13-1",
+        "p131",
+        "p131-1",
+        "p132",
+        "p132-1",
+        "p133",
+        "p133-1"
+      ]
+    },
+    {
+      "label": "Principle 14과 나의 미래 희망 직업 (Future Career I)",
+      "title": "Principle 14과 나의 미래 희망 직업 (Future Career I)",
+      "lessons": [
+        "p14",
+        "p14-1",
+        "p141",
+        "p141-1",
+        "p142",
+        "p142-1",
+        "p143",
+        "p143-1"
+      ]
+    },
+    {
+      "label": "Principle 15과 본받고 싶은 사람 (Role Models II)",
+      "title": "Principle 15과 본받고 싶은 사람 (Role Models II)",
+      "lessons": [
+        "p15",
+        "p15-1",
+        "p151",
+        "p151-1",
+        "p152",
+        "p152-1",
+        "p153",
+        "p153-1"
+      ]
+    },
+    {
+      "label": "Principle 16과 또 다른 꿈의 직업 (Future Career II)",
+      "title": "Principle 16과 또 다른 꿈의 직업 (Future Career II)",
+      "lessons": [
+        "p16",
+        "p16-1",
+        "p161",
+        "p161-1",
+        "p162",
+        "p162-1",
+        "p163",
+        "p163-1"
+      ]
+    },
+    {
+      "label": "Principle 17과 역사 이야기 (History of Korea)",
+      "title": "Principle 17과 역사 이야기 (History of Korea)",
+      "lessons": [
+        "p17",
+        "p17-1",
+        "p171",
+        "p171-1",
+        "p172",
+        "p172-1",
+        "p173",
+        "p173-1",
+        "p174",
+        "p174-1"
+      ]
+    },
+    {
+      "label": "Principle 18과 명절과 휴일 (Holidays in Korea)",
+      "title": "Principle 18과 명절과 휴일 (Holidays in Korea)",
+      "lessons": [
+        "p18",
+        "p18-1",
+        "p181",
+        "p181-1",
+        "p182",
+        "p182-1",
+        "p183",
+        "p183-1"
+      ]
+    },
+    {
+      "label": "Principle 19과 전통과 문화 (Culture of Korea)",
+      "title": "Principle 19과 전통과 문화 (Culture of Korea)",
+      "lessons": [
+        "p19",
+        "p19-1",
+        "p191",
+        "p191-1",
+        "p192",
+        "p192-1",
+        "p193",
+        "p193-1",
+        "p194",
+        "p194-1"
+      ]
+    },
+    {
+      "label": "Principle 20과 유명한 장소 탐방 (Famous Places)",
+      "title": "Principle 20과 유명한 장소 탐방 (Famous Places)",
+      "lessons": [
+        "p20",
+        "p20-1",
+        "p201",
+        "p201-1",
+        "p202",
+        "p202-1",
+        "p203",
+        "p203-1",
+        "p204",
+        "p204-1",
+        "p205",
+        "p205-1"
+      ]
+    }
+  ],
   "lessons": [
     {
       "id": "p01",

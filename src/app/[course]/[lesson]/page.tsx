@@ -5,7 +5,7 @@ import { AudioPlayer } from "@/components/AudioPlayer";
 import { LessonBody } from "@/components/LessonBody";
 import { VideoPlayer } from "@/components/VideoPlayer";
 import { T } from "@/components/LanguageProvider";
-import { getAllLessonParams, getCourse, getLesson, getLessonContext, getLdEnglishScript } from "@/lib/content";
+import { getAllLessonParams, getCourse, getLesson, getLessonContext, getLdEnglishScript, getMenTranslations } from "@/lib/content";
 import { tabForCourse } from "@/lib/tabs";
 import { lessonDisplay } from "@/lib/courses";
 import type { Block } from "@/lib/types";
@@ -40,6 +40,9 @@ export default async function LessonPage({
   const tab = tabForCourse(course);
   const isScript = lesson.variant === "script";
   const ldEnglishScript = course === "ld" ? getLdEnglishScript(id) : null;
+  const menTranslations = ["man", "adults-m", "adults-w", "woman"].includes(course)
+    ? getMenTranslations()
+    : null;
 
   // Determine voice profile: Male for MEN tracks, Female for WOMEN tracks
   const voiceGender = getVoiceGender(course, id);
@@ -147,6 +150,7 @@ export default async function LessonPage({
           audioTracks={audio}
           chunkDrills={lesson.chunkDrills}
           ldEnglishScript={ldEnglishScript}
+          menTranslations={menTranslations}
         />
       ) : fromFlash ? (
         <p className="text-[13.5px] text-ink-soft">

@@ -45,7 +45,7 @@ export default async function CoursePage({ params }: { params: Promise<{ course:
   const sections = (
     groups.length > 0
       ? groups.map((g) => ({
-          label: g.label,
+          label: g.label || (g as { title?: string }).title || "Group",
           lessons: g.lessons
             .filter((id) => listedIds.has(id))
             .map((id) => byId.get(id))

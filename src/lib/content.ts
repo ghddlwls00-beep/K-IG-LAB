@@ -156,3 +156,11 @@ export function getLdEnglishScript(id: string): { n: string; ko: string; en: str
   );
   return dict ? dict[baseId] ?? null : null;
 }
+
+/** Pre-computed authentic Korean translations for MEN and conversation courses. */
+export function getMenTranslations(): Record<string, string> {
+  const dict = readJson<Record<string, string>>(
+    path.join(CONTENT_DIR, "men_translations.json"),
+  );
+  return dict ?? {};
+}

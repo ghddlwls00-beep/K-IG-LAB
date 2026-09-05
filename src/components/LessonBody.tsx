@@ -44,6 +44,7 @@ export function LessonBody({
   audioTracks = [],
   chunkDrills = [],
   ldEnglishScript = null,
+  menTranslations = null,
 }: {
   blocks: Block[];
   pairBlocks?: Block[] | null;
@@ -55,6 +56,7 @@ export function LessonBody({
   audioTracks?: { src: string; label?: string }[];
   chunkDrills?: { en: string; ko: string }[];
   ldEnglishScript?: { n: string; ko: string; en: string }[] | null;
+  menTranslations?: Record<string, string> | null;
 }) {
   const { t } = useLanguage();
 
@@ -110,6 +112,7 @@ export function LessonBody({
         isScript={isScript}
         voiceGender={voiceGender}
         audioTracks={audioTracks}
+        menTranslations={menTranslations}
       />
     );
   }

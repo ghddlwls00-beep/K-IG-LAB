@@ -2,7 +2,217 @@
   "course": "man",
   "tab": "men",
   "lessonCount": 89,
-  "groups": [],
+  "groups": [
+    {
+      "label": "Chapter 01. 자기소개 (Self-Introduction)",
+      "title": "Chapter 01. 자기소개 (Self-Introduction)",
+      "lessons": [
+        "m1",
+        "m1-1",
+        "m1-2",
+        "m1-3",
+        "m1-4",
+        "m1-5",
+        "m1-6"
+      ]
+    },
+    {
+      "label": "Chapter 02. 가족 소개 (Introducing My Family)",
+      "title": "Chapter 02. 가족 소개 (Introducing My Family)",
+      "lessons": [
+        "m2",
+        "m2-1",
+        "m2-2",
+        "m2-3",
+        "m2-4",
+        "m2-5"
+      ]
+    },
+    {
+      "label": "Chapter 03. 절친한 친구 소개 (Introducing My Best Friend)",
+      "title": "Chapter 03. 절친한 친구 소개 (Introducing My Best Friend)",
+      "lessons": [
+        "m3",
+        "m3-1",
+        "m3-2",
+        "m3-3",
+        "m3-4",
+        "m3-5",
+        "m3-6"
+      ]
+    },
+    {
+      "label": "Chapter 04. 친척 소개 (Introducing My Relatives)",
+      "title": "Chapter 04. 친척 소개 (Introducing My Relatives)",
+      "lessons": [
+        "m4",
+        "m4a-1",
+        "m4b-1",
+        "m4a-2",
+        "m4b-2",
+        "m4a-3",
+        "m4b-3"
+      ]
+    },
+    {
+      "label": "Chapter 05. 나의 하루 일과 (A Typical Day)",
+      "title": "Chapter 05. 나의 하루 일과 (A Typical Day)",
+      "lessons": [
+        "m5",
+        "m5-1",
+        "m5-2",
+        "m5-3",
+        "m5-4"
+      ]
+    },
+    {
+      "label": "Chapter 06. 나의 주말 활동 (My Weekend)",
+      "title": "Chapter 06. 나의 주말 활동 (My Weekend)",
+      "lessons": [
+        "m6-1",
+        "m6-2",
+        "m6-3",
+        "m6-4"
+      ]
+    },
+    {
+      "label": "Chapter 07. 나의 직업 및 업무 (My Job)",
+      "title": "Chapter 07. 나의 직업 및 업무 (My Job)",
+      "lessons": [
+        "m7-1",
+        "m7-2",
+        "m7-3"
+      ]
+    },
+    {
+      "label": "Chapter 08. 여가 생활 및 취미 (My Leisure Time)",
+      "title": "Chapter 08. 여가 생활 및 취미 (My Leisure Time)",
+      "lessons": [
+        "m8-1",
+        "m8-2",
+        "m8-3"
+      ]
+    },
+    {
+      "label": "Chapter 09. 나의 고향과 어린 시절 (My Hometown)",
+      "title": "Chapter 09. 나의 고향과 어린 시절 (My Hometown)",
+      "lessons": [
+        "m9-1",
+        "m9-2",
+        "m9-3"
+      ]
+    },
+    {
+      "label": "Chapter 10. 학창시절 및 군 복무 (My School Days & Military Service)",
+      "title": "Chapter 10. 학창시절 및 군 복무 (My School Days & Military Service)",
+      "lessons": [
+        "m10-1",
+        "m10-2",
+        "m10-3",
+        "m10-4",
+        "m10-5"
+      ]
+    },
+    {
+      "label": "Chapter 11. 싱글 라이프 vs 결혼 생활 (Single Life vs. Married Life)",
+      "title": "Chapter 11. 싱글 라이프 vs 결혼 생활 (Single Life vs. Married Life)",
+      "lessons": [
+        "m11-1",
+        "m11-2",
+        "m11-3"
+      ]
+    },
+    {
+      "label": "Chapter 12. 결혼 생활과 가정 (Married Life & Family)",
+      "title": "Chapter 12. 결혼 생활과 가정 (Married Life & Family)",
+      "lessons": [
+        "m12-1",
+        "m12-2",
+        "m12-3",
+        "m12-4"
+      ]
+    },
+    {
+      "label": "Chapter 13. 한국의 정치와 사회 (Politics in Korea)",
+      "title": "Chapter 13. 한국의 정치와 사회 (Politics in Korea)",
+      "lessons": [
+        "m13-1",
+        "m13-2",
+        "m13-3",
+        "m13-4"
+      ]
+    },
+    {
+      "label": "Chapter 14. 한국의 교육 제도 (The Korean Education System)",
+      "title": "Chapter 14. 한국의 교육 제도 (The Korean Education System)",
+      "lessons": [
+        "m14-1",
+        "m14-2",
+        "m14-3"
+      ]
+    },
+    {
+      "label": "Chapter 15. 한국의 경제 발전 (The Korean Economy)",
+      "title": "Chapter 15. 한국의 경제 발전 (The Korean Economy)",
+      "lessons": [
+        "m15-1",
+        "m15-2",
+        "m15-3",
+        "m15-4"
+      ]
+    },
+    {
+      "label": "Chapter 16. 한국의 대중문화와 스포츠 (Korean Culture & Sports)",
+      "title": "Chapter 16. 한국의 대중문화와 스포츠 (Korean Culture & Sports)",
+      "lessons": [
+        "m16-1",
+        "m16-2",
+        "m16-3",
+        "m16-4",
+        "m16-5"
+      ]
+    },
+    {
+      "label": "Chapter 17. 한국의 역사 (The History of Korea)",
+      "title": "Chapter 17. 한국의 역사 (The History of Korea)",
+      "lessons": [
+        "m17-1",
+        "m17-2",
+        "m17-3",
+        "m17-4"
+      ]
+    },
+    {
+      "label": "Chapter 18. 한국의 명절과 전통 (Korean Holidays & Traditions)",
+      "title": "Chapter 18. 한국의 명절과 전통 (Korean Holidays & Traditions)",
+      "lessons": [
+        "m18-1",
+        "m18-2",
+        "m18-3"
+      ]
+    },
+    {
+      "label": "Chapter 19. 한국의 전통문화 (Korean Culture & Heritage)",
+      "title": "Chapter 19. 한국의 전통문화 (Korean Culture & Heritage)",
+      "lessons": [
+        "m19-1",
+        "m19-2",
+        "m19-3",
+        "m19-4"
+      ]
+    },
+    {
+      "label": "Chapter 20. 한국의 대표 명소 (Famous Places in Korea)",
+      "title": "Chapter 20. 한국의 대표 명소 (Famous Places in Korea)",
+      "lessons": [
+        "m20-1",
+        "m20-2",
+        "m20-3",
+        "m20-4",
+        "m20-5"
+      ]
+    }
+  ],
   "lessons": [
     {
       "id": "m1",

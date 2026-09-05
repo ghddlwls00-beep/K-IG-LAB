@@ -150,6 +150,41 @@ function QaTrackView({
   );
 }
 
+function extractSentenceList(blocks: Block[]): { n: string; text: string }[] {
+  // 1. If sentences block exists (e.g. basics/po...)
+  const sentItems = blocks
+    .filter((b) => b.type === "sentences")
+    .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items)
+    .filter((item) => item.text.trim().length > 0);
+  if (sentItems.length > 0) return sentItems;
+
+  // 2. Otherwise extract from instructions and hints (for middle course p01, p011, etc.)
+  const result: { n: string; text: string }[] = [];
+  let idx = 1;
+  for (const b of blocks) {
+    if (b.type === "instruction" || b.type === "hints") {
+      const txt = b.text.trim();
+      if (!txt) continue;
+      if (
+        txt.startsWith("[") ||
+        txt.includes("K-IG") ||
+        /^\d+과\s*/.test(txt) ||
+        /^principle\s*\d+/i.test(txt) ||
+        txt.includes("듣기훈련") ||
+        txt.includes("받아쓰기") ||
+        txt.includes("대본을")
+      ) {
+        continue;
+      }
+      result.push({
+        n: String(idx++),
+        text: txt,
+      });
+    }
+  }
+  return result;
+}
+
 // Sub-view for Slashed Sentence track (basics/po... & middle/p...)
 function SentenceTrackView({
   blocks,
@@ -163,13 +198,8 @@ function SentenceTrackView({
   isScript: boolean;
 }) {
   // Extract sentences from main and pair
-  const mainItems = blocks
-    .filter((b) => b.type === "sentences")
-    .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
-
-  const pairItems = (pairBlocks || [])
-    .filter((b) => b.type === "sentences")
-    .flatMap((b) => (b as { type: "sentences"; items: { n: string; text: string }[] }).items);
+  const mainItems = extractSentenceList(blocks);
+  const pairItems = extractSentenceList(pairBlocks || []);
 
   const count = Math.max(mainItems.length, pairItems.length);
   const pairs: { n: string; en: string; ko: string }[] = [];
