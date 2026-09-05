@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect, useMemo } from "react";
 import type { Block } from "@/lib/types";
 import { speakText, stopSpeech } from "@/lib/speech";
+import { VoiceSpeakingTester } from "./VoiceSpeakingTester";
 
 interface PhonicsLearningViewProps {
   blocks: Block[];
@@ -175,26 +176,36 @@ export function PhonicsLearningView({ blocks, lessonKey }: PhonicsLearningViewPr
 
       {/* 2. Selected Word Spotlight Card */}
       {selectedWord && (
-        <div className="rounded-2xl border border-indigo-500/30 bg-indigo-500/[0.03] p-5 shadow-xs flex flex-wrap items-center justify-between gap-4">
-          <div className="flex items-center gap-4">
-            <span className="text-[32px] font-extrabold tracking-tight text-ink font-mono">
-              {selectedWord}
-            </span>
-            <div className="flex flex-col text-[12px] text-ink-soft">
-              <span className="font-mono text-ink-faint uppercase tracking-wider">
-                단어 길이: {selectedWord.length}글자
+        <div className="rounded-2xl border border-indigo-500/30 bg-indigo-500/[0.03] p-5 shadow-xs flex flex-col gap-4">
+          <div className="flex flex-wrap items-center justify-between gap-4">
+            <div className="flex items-center gap-4">
+              <span className="text-[32px] font-extrabold tracking-tight text-ink font-mono">
+                {selectedWord}
               </span>
-              <span>클릭하여 원어민 표준 발음 즉시 청취</span>
+              <div className="flex flex-col text-[12px] text-ink-soft">
+                <span className="font-mono text-ink-faint uppercase tracking-wider">
+                  단어 길이: {selectedWord.length}글자
+                </span>
+                <span>클릭하여 원어민 표준 발음 즉시 청취</span>
+              </div>
             </div>
+
+            <button
+              type="button"
+              onClick={() => playWord(selectedWord)}
+              className="flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2 text-[13px] font-bold text-white shadow-xs hover:bg-indigo-700 transition-colors cursor-pointer"
+            >
+              <span>🔊 발음 다시 듣기</span>
+            </button>
           </div>
 
-          <button
-            type="button"
-            onClick={() => playWord(selectedWord)}
-            className="flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2 text-[13px] font-bold text-white shadow-xs hover:bg-indigo-700 transition-colors cursor-pointer"
-          >
-            <span>🔊 발음 다시 듣기</span>
-          </button>
+          {/* 🎙️ 파닉스 발음 클리닉 */}
+          <div className="pt-3 border-t border-indigo-500/20">
+            <VoiceSpeakingTester
+              targetText={selectedWord}
+              buttonLabel="🎙️ 내 발음 정밀 테스트"
+            />
+          </div>
         </div>
       )}
 

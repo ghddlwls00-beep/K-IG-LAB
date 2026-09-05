@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { speakText, stopSpeech, type VoiceGender } from "@/lib/speech";
 import { mediaUrl } from "@/lib/media";
+import { VoiceSpeakingTester } from "./VoiceSpeakingTester";
 
 export interface DialogueItem {
   id: number;
@@ -981,6 +982,19 @@ export function DialogueLearningView({
                       <span className={`h-2 w-2 rounded-full ${step >= 3 ? "bg-emerald-500" : "bg-raised border border-line"}`} />
                     </div>
                   </div>
+
+                  {/* 🎙️ 롤플레잉 발음 채점기 */}
+                  <div className="pt-2 border-t border-line/40 mt-1">
+                    <VoiceSpeakingTester
+                      targetText={item.englishText}
+                      buttonLabel="🎙️ 롤플레잉 발음 채점"
+                      onSuccess={(transcript, score) => {
+                        if (score >= 70) {
+                          setShadowingSteps((prev) => ({ ...prev, [item.id]: Math.max(prev[item.id] || 0, 3) }));
+                        }
+                      }}
+                    />
+                  </div>
                 </div>
               );
             })}
@@ -1154,6 +1168,20 @@ export function DialogueLearningView({
                     placeholder="머릿속에 떠오른 영어 표현을 작성해보세요... (스피킹 연습)"
                     className={`w-full rounded-xl border border-line bg-surface px-4 py-2.5 text-ink placeholder:text-ink-faint focus:border-ink focus:outline-none focus:ring-1 focus:ring-ink transition-all ${fontStyles.input}`}
                   />
+
+                  {/* 🎙️ 음성 스피킹 채점기 */}
+                  <div className="pt-1">
+                    <VoiceSpeakingTester
+                      targetText={item.englishText}
+                      buttonLabel="🎙️ 마이크로 말해서 답변하기"
+                      onSuccess={(transcript, score) => {
+                        setSpeakingInputs((p) => ({ ...p, [item.id]: transcript }));
+                        if (score >= 75) {
+                          setFluencyGrades((p) => ({ ...p, [item.id]: true }));
+                        }
+                      }}
+                    />
+                  </div>
 
                   {/* Actions & Self Grading */}
                   <div className="flex flex-wrap items-center justify-between gap-2 pt-1 border-t border-line/50">

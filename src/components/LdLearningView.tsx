@@ -6,6 +6,7 @@ import type { Block } from "@/lib/types";
 import { useLanguage } from "./LanguageProvider";
 import { DictationPanel } from "./DictationPanel";
 import { speakText } from "@/lib/speech";
+import { VoiceSpeakingTester } from "./VoiceSpeakingTester";
 
 interface LdLearningViewProps {
   blocks: Block[];
@@ -333,7 +334,7 @@ export function LdLearningView({
                   </div>
 
                   {/* Typing input & Answer Toggle */}
-                  <div className="mt-3.5 pl-9">
+                  <div className="mt-3.5 pl-9 flex flex-col gap-2.5">
                     <div className="flex flex-wrap sm:flex-nowrap gap-2">
                       <input
                         type="text"
@@ -357,6 +358,22 @@ export function LdLearningView({
                         </button>
                       ) : null}
                     </div>
+
+                    {/* 🎙️ 음성 딕테이션 & 발음 테스트 */}
+                    {item.en ? (
+                      <div>
+                        <VoiceSpeakingTester
+                          targetText={item.en}
+                          buttonLabel="🎙️ 말해서 딕테이션 & 발음 채점"
+                          onSuccess={(transcript, score) => {
+                            handleSentenceChange(idx, transcript);
+                            if (score >= 75) {
+                              setCompletedSentences((prev) => ({ ...prev, [idx]: true }));
+                            }
+                          }}
+                        />
+                      </div>
+                    ) : null}
 
                     {/* Revealed English Model Transcript Card */}
                     {isRevealed && item.en ? (
