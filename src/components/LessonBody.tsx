@@ -8,6 +8,11 @@ import { LdLearningView } from "./LdLearningView";
 import { ReadingLearningView } from "./ReadingLearningView";
 import { GrammarLearningView } from "./GrammarLearningView";
 import { DialogueLearningView } from "./DialogueLearningView";
+import { PhonicsLearningView } from "./PhonicsLearningView";
+import { StudentLearningView } from "./StudentLearningView";
+import { BasicsLearningView } from "./BasicsLearningView";
+import { CnnLearningView } from "./CnnLearningView";
+import { ChineseLearningView } from "./ChineseLearningView";
 import { speakText, type VoiceGender } from "@/lib/speech";
 import { mediaUrl } from "@/lib/media";
 
@@ -101,6 +106,53 @@ export function LessonBody({
         lessonKey={lessonKey}
         isScript={isScript}
         voiceGender={voiceGender}
+        audioTracks={audioTracks}
+      />
+    );
+  }
+
+  // Dedicated Phonics Word Matrix for VOCA course
+  if (course === "phonics") {
+    return <PhonicsLearningView blocks={blocks} lessonKey={lessonKey} />;
+  }
+
+  // Dedicated Student Conversation & Chunk Drill view for student course
+  if (course === "student") {
+    return (
+      <StudentLearningView
+        blocks={blocks}
+        lessonKey={lessonKey}
+        audioTracks={audioTracks}
+        chunkDrills={chunkDrills}
+      />
+    );
+  }
+
+  // Dedicated Slashed Sentence & Spoken Q/A view for basics and middle courses
+  if (course === "basics" || course === "middle") {
+    return (
+      <BasicsLearningView
+        blocks={blocks}
+        pairBlocks={pairBlocks}
+        course={course}
+        lessonKey={lessonKey}
+        isScript={isScript}
+        audioTracks={audioTracks}
+      />
+    );
+  }
+
+  // Dedicated Broadcast News Reader for CNN course
+  if (course === "cnn") {
+    return <CnnLearningView blocks={blocks} lessonKey={lessonKey} />;
+  }
+
+  // Dedicated Chinese Pinyin & Spoken Conversation view for chinese course
+  if (course === "chinese") {
+    return (
+      <ChineseLearningView
+        blocks={blocks}
+        lessonKey={lessonKey}
         audioTracks={audioTracks}
       />
     );

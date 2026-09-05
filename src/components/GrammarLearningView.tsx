@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { speakText, stopSpeech } from "@/lib/speech";
-import { DictationPanel } from "./DictationPanel";
 
 export interface GrammarItem {
   id: number;
@@ -208,10 +207,7 @@ export function GrammarLearningView({
     return result;
   }, [blocks, pairBlocks, lessonKey]);
 
-  // Choice & Dictation blocks if present
-  const choice = blocks.find((b) => b.type === "choice") || pairBlocks?.find((b) => b.type === "choice");
-  const dictation = blocks.find((b) => b.type === "dictation") || pairBlocks?.find((b) => b.type === "dictation");
-  const referenceSentences = items.map((it) => it.englishText).filter(Boolean);
+
 
   // Study Mode State
   const [studyMode, setStudyMode] = useState<"composition" | "cloze" | "shadowing" | "exam">("composition");
@@ -1163,15 +1159,6 @@ export function GrammarLearningView({
         </div>
       )}
 
-      {/* 5. Legacy Dictation and Verification Panel if applicable */}
-      {choice || dictation ? (
-        <DictationPanel
-          options={choice?.type === "choice" ? choice.options : null}
-          rows={dictation?.type === "dictation" ? dictation.rows : null}
-          storageKey={lessonKey}
-          referenceSentences={referenceSentences}
-        />
-      ) : null}
     </div>
   );
 }

@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Block } from "@/lib/types";
 import { speakText } from "@/lib/speech";
-import { DictationPanel } from "./DictationPanel";
 
 interface ReadingLearningViewProps {
   blocks: Block[];
@@ -24,8 +23,6 @@ export function ReadingLearningView({
   const mainInstruction = blocks.find((b) => b.type === "instruction")?.text ?? "";
   const pairInstruction = pairBlocks?.find((b) => b.type === "instruction")?.text ?? "";
 
-  const choiceBlock = blocks.find((b) => b.type === "choice") as { type: "choice"; options: string[] } | undefined;
-  const dictationBlock = blocks.find((b) => b.type === "dictation") as { type: "dictation"; rows: number } | undefined;
 
   // Determine English vs Korean passage
   const mainIsEn = isEnglish(mainInstruction);
@@ -502,12 +499,6 @@ export function ReadingLearningView({
         />
       </section>
 
-      {/* 6. Multiple Choice Comprehension Question & Dictation */}
-      <DictationPanel
-        options={choiceBlock?.options ?? null}
-        rows={dictationBlock?.rows ?? 10}
-        storageKey={lessonKey}
-      />
 
       {/* 7. Bottom Navigation CTA Banner */}
       <div className="rounded-xl border border-line bg-raised/40 p-5 shadow-2xs flex flex-wrap items-center justify-between gap-4">
